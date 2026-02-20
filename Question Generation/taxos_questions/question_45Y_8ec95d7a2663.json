@@ -1,0 +1,21 @@
+{
+  "id": "8ec95d7a2663",
+  "section": "45Y",
+  "citation": "I.R.C. \u00a7 45Y(g)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 45Y(g) is discussed as follows: 'I.R.C. \u00a7 45Y(g)Special Rules\u2014I.R.C. \u00a7 45Y(g)(1)Only Production In The United States Taken Into Accou...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 45Y(g)?",
+  "difficulty": 1,
+  "choices": [
+    "65.0%",
+    "55.0%",
+    "45.0%",
+    "82.5%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 55.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 45Y(g)"
+  ]
+}

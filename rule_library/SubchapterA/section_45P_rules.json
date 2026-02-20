@@ -1,0 +1,249 @@
+[
+  {
+    "section": "45P",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)"
+    ],
+    "rule_type": "computation",
+    "title": "Rule",
+    "text": "For purposes of section38, the differential wage payment credit for any taxable year is an amount equal to 20 percent of the sum of the eligible differential wage payments for each of the qualified employees of the taxpayer during such taxable year.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.2,
+        "text": "20 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of section38, the differential wage payment credit for any taxable year is an amount equal to 20 percent of the sum of the eligible differential wage payments for each of the qualified employees of the taxpayer during such taxable year."
+    },
+    "cross_references": [
+      {
+        "section": "38",
+        "reason": "For purposes of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45P(a)General Rule\u2014For purposes of section38,\n                  the differential wage payment credit for any taxable year is an amount equal to 20\n                  percent of the sum of the eligible differential wage payments for each of the qualified\n                  employees of the taxpayer during such taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "45P",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)"
+    ],
+    "rule_type": "definition",
+    "title": "Differential Wage Payments",
+    "text": "The term \u201celigible differential wage payments\u201d means, with respect to each qualified employee, so much of the differential wage payments (as defined in section3401(h)(2)) paid to such employee for the taxable year as does not exceed $20,000.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 20000,
+        "text": "$20,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201celigible differential wage payments\u201d means, with respect to each qualified employee, so much of the differential wage payments (as defined in section3401(h)(2)) paid to such employee for the taxable year as does not exceed $20,000."
+    },
+    "cross_references": [
+      {
+        "section": "3401(h)(2)",
+        "reason": "wage payments (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45P(b)(1)Eligible Differential Wage Payments\u2014The term \u201celigible differential wage payments\u201d\n                     means, with respect to each qualified employee, so much of the differential wage payments\n                     (as defined in section3401(h)(2)) paid to such employee for the taxable year as does not exceed $20,000.",
+    "definitions": null
+  },
+  {
+    "section": "45P",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Employee",
+    "text": "The term \u201cqualified employee\u201d means a person who has been an employee of the taxpayer for the 91-day period immediately preceding the period for which any differential wage payment is made.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified employee\u201d means a person who has been an employee of the taxpayer for the 91-day period immediately preceding the period for which any differential wage payment is made."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45P(b)(2)Qualified Employee\u2014The term \u201cqualified employee\u201d means a person who has been an employee of the taxpayer\n                     for the 91-day period immediately preceding the period for which any differential\n                     wage payment is made.",
+    "definitions": {
+      "term": "qualified employee",
+      "requirements": [
+        "a person who has been an employee of the taxpayer for the 91-day period immediately preceding the period for which any differential wage payment is made."
+      ]
+    }
+  },
+  {
+    "section": "45P",
+    "subsection": "(b)(3)",
+    "source_subsections": [
+      "(b)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Groups",
+    "text": "All persons treated as a single employer under subsection(b),(c),(m), or(o)of section414shall be treated as a single employer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "All persons treated as a single employer under subsection(b),(c),(m), or(o)of section414shall be treated as a single employer."
+    },
+    "cross_references": [
+      {
+        "section": "414s",
+        "reason": "ubsection(b),(c),(m), or(o)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45P(b)(3)Controlled Groups\u2014All persons treated as a single employer under subsection(b),(c),(m), or(o)of section414shall be treated as a single employer.",
+    "definitions": null
+  },
+  {
+    "section": "45P",
+    "subsection": "(c)",
+    "source_subsections": [
+      "(c)"
+    ],
+    "rule_type": "condition",
+    "title": "With Other Credits",
+    "text": "The amount of credit otherwise allowable under this chapter with respect to compensation paid to any employee shall be reduced by the credit determined under this section with respect to such employee.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of credit otherwise allowable under this chapter with respect to compensation paid to any employee shall be reduced by the credit determined under this section with respect to such employee."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45P(c)Coordination With Other Credits\u2014The amount of credit otherwise allowable under this chapter with respect to compensation\n                  paid to any employee shall be reduced by the credit determined under this section\n                  with respect to such employee.",
+    "definitions": null
+  },
+  {
+    "section": "45P",
+    "subsection": "(d)",
+    "source_subsections": [
+      "(d)",
+      "(d)(1)",
+      "(d)(2)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "For Failure To Comply With Employment Or Reemployment Rights Of Members Of The Reserve Components Of The Armed Forces Of The United States\u2014No credit shall be allowed under subsection(a)to a taxpayer for\u2014\u2014any taxable year, beginning after the date of the enactment of this section, in which the taxpayer is under a final order, judgment, or other process issued or required by a district court of the United States under section 4323 of title 38 of the United States Code with respect to a violation of chapter 43 of such title, and\u2014the 2 succeeding taxable years.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For Failure To Comply With Employment Or Reemployment Rights Of Members Of The Reserve Components Of The Armed Forces Of The United States\u2014No credit shall be allowed under subsection(a)to a taxpayer for\u2014\u2014any taxable year, beginning after the date of the enactment of this section, in which the taxpayer is under a final order, judgment, or other process issued or required by a district court of the United States under section 4323 of title 38 of the United States Code with respect to a violation of chapter 43 of such title, and\u2014the 2 succeeding taxable years."
+    },
+    "cross_references": [
+      {
+        "section": "4323",
+        "reason": "rt of the United States under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45P(d)Disallowance For Failure To Comply With Employment Or Reemployment Rights Of Members\n                  Of The Reserve Components Of The Armed Forces Of The United States\u2014No credit shall be allowed under subsection(a)to a taxpayer for\u2014I.R.C. \u00a7 45P(d)(1)\u2014any taxable year, beginning after the date of the enactment of this section, in which\n                     the taxpayer is under a final order, judgment, or other process issued or required\n                     by a district court of the United States under section 4323 of title 38 of the United\n                     States Code with respect to a violation of chapter 43 of such title, andI.R.C. \u00a7 45P(d)(2)\u2014the 2 succeeding taxable years.",
+    "definitions": null
+  },
+  {
+    "section": "45P",
+    "subsection": "(e)",
+    "source_subsections": [
+      "(e)"
+    ],
+    "rule_type": "condition",
+    "title": "Rules To Apply",
+    "text": "For purposes of this section, rules similar to the rules of subsections(c),(d), and(e)of section52shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, rules similar to the rules of subsections(c),(d), and(e)of section52shall apply."
+    },
+    "cross_references": [
+      {
+        "section": "52s",
+        "reason": "subsections(c),(d), and(e)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45P(e)Certain Rules To Apply\u2014For purposes of this section, rules similar to the rules of subsections(c),(d), and(e)of section52shall apply.",
+    "definitions": null
+  }
+]

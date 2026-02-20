@@ -1,0 +1,22 @@
+{
+  "id": "0b76a86184fd",
+  "section": "223",
+  "citation": "I.R.C. \u00a7 223(c)(2)(A)(i)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 223(c)(2)(A)(i) is discussed as follows: 'I.R.C. \u00a7 223(c)(2)(A)(i)\u2014which has an annual deductible which is not less than\u2014I.R.C. \u00a7 223(c)(2)(A)...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 223(c)(2)(A)(i)?",
+  "difficulty": 1,
+  "choices": [
+    "$1,000.00",
+    "$2,000.00",
+    "$1,100.00",
+    "$500.00",
+    "$900.00"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies $1,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 223(c)(2)(A)(i)"
+  ]
+}

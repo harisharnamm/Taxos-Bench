@@ -1,0 +1,22 @@
+{
+  "id": "23ecfb774015",
+  "section": "1392",
+  "citation": "I.R.C. \u00a7 1392(b)(2)(C)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1392(b)(2)(C) is discussed as follows: 'I.R.C. \u00a7 1392(b)(2)(C)\u2014The  35 percent threshold in subsection\n                        (a)(4)(C)....'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1392(b)(2)(C)?",
+  "difficulty": 1,
+  "choices": [
+    "52.5%",
+    "65.0%",
+    "45.0%",
+    "35.0%",
+    "25.0%"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies 35.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1392(b)(2)(C)"
+  ]
+}

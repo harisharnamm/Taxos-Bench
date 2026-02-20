@@ -1,0 +1,22 @@
+{
+  "id": "ef4637624c66",
+  "section": "25A",
+  "citation": "I.R.C. \u00a7 25A(b)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 25A(b) is discussed as follows: 'I.R.C. \u00a7 25A(b)American Opportunity Tax CreditI.R.C. \u00a7 25A(b)(1)Per Student Credit\u2014In  the case of a...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 25A(b)?",
+  "difficulty": 1,
+  "choices": [
+    "$1,800.00",
+    "$4,000.00",
+    "$2,000.00",
+    "$1,000.00",
+    "$2,200.00"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies $2,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 25A(b)"
+  ]
+}

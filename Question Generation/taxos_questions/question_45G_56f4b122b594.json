@@ -1,0 +1,22 @@
+{
+  "id": "56f4b122b594",
+  "section": "45G",
+  "citation": "I.R.C. \u00a7 45G(b)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 45G(b) is discussed as follows: 'I.R.C. \u00a7 45G(b)LimitationI.R.C. \u00a7 45G(b)(1)In General\u2014The credit allowed under subsection(a)for any ...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 45G(b)?",
+  "difficulty": 1,
+  "choices": [
+    "$3,500.00",
+    "$7,000.00",
+    "$1,750.00",
+    "$3,850.00",
+    "$3,150.00"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies $3,500.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 45G(b)"
+  ]
+}

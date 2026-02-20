@@ -1,0 +1,22 @@
+{
+  "id": "2f749f008f59",
+  "section": "1400Z-1",
+  "citation": "I.R.C. \u00a7 1400Z-1(d)(1)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1400Z-1(d)(1) is discussed as follows: 'I.R.C. \u00a7 1400Z-1(d)(1)In General\u2014Except as provided by paragraph (2), the number of population censu...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1400Z-1(d)(1)?",
+  "difficulty": 1,
+  "choices": [
+    "25.0%",
+    "37.5%",
+    "35.0%",
+    "75.0%",
+    "15.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 25.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1400Z-1(d)(1)"
+  ]
+}

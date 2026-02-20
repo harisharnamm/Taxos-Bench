@@ -1,0 +1,270 @@
+[
+  {
+    "section": "52",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "\u201cmore than 50 percent\u201d shall be substituted for \u201cat least 80 percent\u201d each place it appears in section1563(a)(1), and",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.8,
+        "text": "80 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "\u201cmore than 50 percent\u201d shall be substituted for \u201cat least 80 percent\u201d each place it appears in section1563(a)(1), and"
+    },
+    "cross_references": [
+      {
+        "section": "1563(a)(1)",
+        "reason": "ent\u201d each place it appears in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 52(a)(1)\u2014\u201cmore  than 50 percent\u201d shall be substituted\n                     for \u201cat least 80 percent\u201d each place  it appears in section1563(a)(1), and",
+    "definitions": null
+  },
+  {
+    "section": "52",
+    "subsection": "(a)(2)",
+    "source_subsections": [
+      "(a)(2)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "the determination shall be made without regard to subsections(a)(4)and(e)(3)(C)of section1563.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "the determination shall be made without regard to subsections(a)(4)and(e)(3)(C)of section1563."
+    },
+    "cross_references": [
+      {
+        "section": "1563",
+        "reason": "bsections(a)(4)and(e)(3)(C)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 52(a)(2)\u2014the  determination shall be made without\n                     regard to subsections(a)(4)and(e)(3)(C)of\n                     section1563.",
+    "definitions": null
+  },
+  {
+    "section": "52",
+    "subsection": "(b)",
+    "source_subsections": [
+      "(b)",
+      "(b)(1)",
+      "(b)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Partnerships, Proprietorships, Etc., Which Are\n                  Under Common Control",
+    "text": "For purposes of this subpart, under regulations prescribed by the Secretary\u2014\u2014all employees of trades or business (whether or not incorporated) which are under common control shall be treated as employed by a single employer, and\u2014the credit (if any) determined under section51(a)with respect to each trade or business shall be its proportionate share of the wages giving rise to such credit.The regulations prescribed under this subsection shall be based on principles similar to the principles which apply in the case of subsection(a).",
+    "conditions": [
+      "any) determined under section51(a)with respect to each trade or business shall be its proportionate share of the wages giving rise to such credit.The regulations prescribed under this subsection shall be based on principles similar to the principles which apply in the case of subsection(a)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any) determined under section51(a)with respect to each trade or business shall be its proportionate share of the wages giving rise to such credit.The regulations prescribed under this subsection shall be based on principles similar to the principles which apply in the case of subsection(a)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subpart, under regulations prescribed by the Secretary\u2014\u2014all employees of trades or business (whether or not incorporated) which are under common control shall be treated as employed by a single employer, and\u2014the credit ("
+    },
+    "cross_references": [
+      {
+        "section": "51(a)",
+        "reason": "dit (if any) determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 52(b)Employees Of Partnerships, Proprietorships, Etc., Which Are\n                  Under Common Control\u2014For  purposes of this subpart, under regulations prescribed\n                  by the Secretary\u2014I.R.C. \u00a7 52(b)(1)\u2014all  employees of trades or business\n                     (whether or not incorporated) which are  under common control shall\n                     be treated as employed by a single employer,  andI.R.C. \u00a7 52(b)(2)\u2014the  credit (if any) determined under\n                     section51(a)with\n                     respect to each trade  or business shall be its proportionate share\n                     of the wages giving rise to  such credit.The regulations prescribed under this subsection shall\n                     be based on principles similar to the principles which apply in the\n                     case  of subsection(a).",
+    "definitions": null
+  },
+  {
+    "section": "52",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "No credit shall be allowed under section38for any work opportunity credit determined under this subpart to any organization (other than a cooperative described in section521) which is exempt from income tax under this chapter.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be allowed under section38for any work opportunity credit determined under this subpart to any organization (other than a cooperative described in section521) which is exempt from income tax under this chapter."
+    },
+    "cross_references": [
+      {
+        "section": "38f",
+        "reason": "credit shall be allowed under..."
+      },
+      {
+        "section": "521",
+        "reason": "an a cooperative described in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 52(c)(1)In General\u2014No  credit shall be allowed under section38for any work opportunity credit\n                     determined under this subpart to any organization (other than a \n                     cooperative described in section521)\n                     which is exempt from income tax  under this chapter.",
+    "definitions": null
+  },
+  {
+    "section": "52",
+    "subsection": "(c)(2)",
+    "source_subsections": [
+      "(c)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Made Available to Qualified Tax",
+    "text": "Exempt Organizations Employing Qualified Veterans\u2014For credit against payroll taxes for employment of qualified veterans by qualified tax-exempt organizations, see section3111(e).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Exempt Organizations Employing Qualified Veterans\u2014For credit against payroll taxes for employment of qualified veterans by qualified tax-exempt organizations, see section3111(e)."
+    },
+    "cross_references": [
+      {
+        "section": "3111(e)",
+        "reason": "tax-exempt organizations, see..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 52(c)(2)Credit Made Available to Qualified Tax-Exempt Organizations\n                     Employing Qualified Veterans\u2014For credit against payroll taxes for employment of qualified\n                     veterans by qualified tax-exempt organizations, see section3111(e).",
+    "definitions": null
+  },
+  {
+    "section": "52",
+    "subsection": "(d)",
+    "source_subsections": [
+      "(d)",
+      "(d)(1)",
+      "(d)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "And Trusts",
+    "text": "In the case of an estate or trust\u2014\u2014the amount of the credit determined under this subpart for any taxable year shall be apportioned between the estate or trust and the beneficiaries on the basis of the income of the estate or trust allocable to each, and\u2014any beneficiary to whom any amount has been apportioned under paragraph(1)shall be allowed, subject to section38(c), a credit under section38(a)for such amount.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of an estate or trust\u2014\u2014the amount of the credit determined under this subpart for any taxable year shall be apportioned between the estate or trust and the beneficiaries on the basis of the income of the estate or trust allocable to each, and\u2014any beneficiary to whom any amount has been apportioned under paragraph(1)shall be allowed, subject to section38(c), a credit under section38(a)for such amount."
+    },
+    "cross_references": [
+      {
+        "section": "38(c)",
+        "reason": ")shall be allowed, subject to..."
+      },
+      {
+        "section": "38(a)",
+        "reason": ", a credit under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 52(d)Estates And Trusts\u2014In  the case of an estate or trust\u2014I.R.C. \u00a7 52(d)(1)\u2014the  amount of the credit determined\n                     under this subpart for any taxable year  shall be apportioned between\n                     the estate or trust and the beneficiaries on  the basis of the income\n                     of the estate or trust allocable to each, andI.R.C. \u00a7 52(d)(2)\u2014any  beneficiary to whom any amount\n                     has been apportioned under paragraph(1)shall be allowed, subject\n                     to section38(c),\n                     a credit under section38(a)for such amount.",
+    "definitions": null
+  },
+  {
+    "section": "52",
+    "subsection": "(e)",
+    "source_subsections": [
+      "(e)",
+      "(e)(1)",
+      "(e)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "With Respect To Certain Persons",
+    "text": "Under regulations prescribed by the Secretary, in the case of\u2014\u2014a regulated investment company or a real estate investment trust subject to taxation under subchapter M (section851and following), and\u2014a cooperative organization described in section1381(a),rules similar to the rules provided in subsections(e)and(h)of section46(as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply in determining the amount of the credit under this subpart.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Under regulations prescribed by the Secretary, in the case of\u2014\u2014a regulated investment company or a real estate investment trust subject to taxation under subchapter M (section851and following), and\u2014a cooperative organization described in section1381(a),rules similar to the rules provided in subsections(e)and(h)of section46(as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply in determining the amount of the credit under this subpart."
+    },
+    "cross_references": [
+      {
+        "section": "851a",
+        "reason": "taxation under subchapter M (..."
+      },
+      {
+        "section": "1381(a)",
+        "reason": "ive organization described in..."
+      },
+      {
+        "section": "46",
+        "reason": "ded in subsections(e)and(h)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 52(e)Limitations With Respect To Certain Persons\u2014Under  regulations prescribed by the Secretary, in the\n                  case of\u2014I.R.C. \u00a7 52(e)(1)\u2014a  regulated investment company or a\n                     real estate investment trust subject to  taxation under subchapter\n                     M (section851and\n                     following), andI.R.C. \u00a7 52(e)(2)\u2014a  cooperative organization described\n                     in section1381(a),rules similar to  the rules provided\n                     in subsections(e)and(h)of section46(as in effect  on the day before\n                     the date of the enactment of the Revenue Reconciliation  Act of 1990)\n                     shall apply in determining the amount of the credit under  this subpart.",
+    "definitions": null
+  }
+]

@@ -1,0 +1,555 @@
+[
+  {
+    "section": "51A",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "35 percent of the qualified first-year wages for such year, and",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.35,
+        "text": "35 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "35 percent of the qualified first-year wages for such year, and"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51A(a)(1)\u201435  percent of the qualified first-year wages for such year, and",
+    "definitions": null
+  },
+  {
+    "section": "51A",
+    "subsection": "(a)(2)",
+    "source_subsections": [
+      "(a)(2)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "50 percent of the qualified second-year wages for such year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "50 percent of the qualified second-year wages for such year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51A(a)(2)\u201450  percent of the qualified second-year wages for such  year.",
+    "definitions": null
+  },
+  {
+    "section": "51A",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after December 31, 2006.The term \u2018qualified wages\u2019 means the wages paid or incurred by the employer during the taxable year to individuals who are long-term family assistance recipients.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after December 31, 2006.The term \u2018qualified wages\u2019 means the wages paid or incurred by the employer during the taxable year to individuals who are long-term family assistance recipients."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51A(b)(1)In General\u2014Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after\n                              December 31, 2006.The term \u2018qualified wages\u2019 means the wages paid or  incurred by the employer during\n                        the taxable year to individuals who are  long-term family assistance recipients.",
+    "definitions": null
+  },
+  {
+    "section": "51A",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "First",
+    "text": "Year Wages\u2014Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after December 31, 2006.The term \u2018qualified first-year wages\u2019 means, with respect to any individual, qualified wages attributable to service rendered during the 1-year period beginning with the day the individual begins work for the employer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Year Wages\u2014Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after December 31, 2006.The term \u2018qualified first-year wages\u2019 means, with respect to any individual, qualified wages attributable to service rendered during the 1-year period beginning with the day the individual begins work for the employer."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51A(b)(2)Qualified First-Year Wages\u2014Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after\n                              December 31, 2006.The term \u2018qualified first-year wages\u2019\n                        means, with  respect to any individual, qualified wages attributable to service  rendered\n                        during the 1-year period beginning with the day the individual  begins work for the\n                        employer.",
+    "definitions": null
+  },
+  {
+    "section": "51A",
+    "subsection": "(b)(3)",
+    "source_subsections": [
+      "(b)(3)"
+    ],
+    "rule_type": "definition",
+    "title": "Second",
+    "text": "Year Wages\u2014Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after December 31, 2006.The term \u2018qualified second-year wages\u2019 means, with respect to any individual, qualified wages attributable to service rendered during the 1-year period beginning on the day after the last day of the 1-year period with respect to such individual determined under paragraph(2).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Year Wages\u2014Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after December 31, 2006.The term \u2018qualified second-year wages\u2019 means, with respect to any individual, qualified wages attributable to service rendered during the 1-year period beginning on the day after the last day of the 1-year period with respect to such individual determined under paragraph(2)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51A(b)(3)Qualified Second-Year Wages\u2014Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after\n                              December 31, 2006.The term \u2018qualified second-year wages\u2019 means, with  respect to any individual, qualified\n                        wages attributable to service  rendered during the 1-year period beginning on the\n                        day after the last day  of the 1-year period with respect to such individual determined\n                        under  paragraph(2).",
+    "definitions": null
+  },
+  {
+    "section": "51A",
+    "subsection": "(b)(4)",
+    "source_subsections": [
+      "(b)(4)"
+    ],
+    "rule_type": "limitation",
+    "title": "First $10,000 Of Wages Per Year Taken Into Account",
+    "text": "Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after December 31, 2006.The amount of the qualified first-year wages, and the amount of qualified second-year wages, which may be taken into account with respect to any individual shall not exceed $10,000 per year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 10000,
+        "text": "$10,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after December 31, 2006.The amount of the qualified first-year wages, and the amount of qualified second-year wages, which may be taken into account with respect to any individual shall not exceed $10,000 per year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51A(b)(4)Only First $10,000 Of Wages Per Year Taken Into Account\u2014Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after\n                              December 31, 2006.The amount of the qualified first-year wages, and the  amount of qualified second-year\n                        wages, which may be taken into account  with respect to any individual shall not exceed\n                        $10,000 per  year.",
+    "definitions": null
+  },
+  {
+    "section": "51A",
+    "subsection": "(b)(5)(A)",
+    "source_subsections": [
+      "(b)(5)(A)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after December 31, 2006.The term \u201cwages\u201d has the meaning given such term by section51(c), without regard to paragraph(4)thereof.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after December 31, 2006.The term \u201cwages\u201d has the meaning given such term by section51(c), without regard to paragraph(4)thereof."
+    },
+    "cross_references": [
+      {
+        "section": "51(c)",
+        "reason": "he meaning given such term by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51A(b)(5)(A)In General\u2014Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after\n                                 December\n                                 31, 2006.The term \u201cwages\u201d has the meaning given such term by  section51(c), without regard to paragraph(4)thereof.",
+    "definitions": null
+  },
+  {
+    "section": "51A",
+    "subsection": "(b)(5)(B)",
+    "source_subsections": [
+      "(b)(5)(B)",
+      "(b)(5)(B)(i)",
+      "(b)(5)(B)(ii)",
+      "(b)(5)(B)(iii)",
+      "(b)(5)(B)(iv)"
+    ],
+    "rule_type": "definition",
+    "title": "Amounts Treated As Wages",
+    "text": "Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after December 31, 2006.The term \u201cwages\u201d includes amounts paid or incurred by the employer which are excludable from such recipient's gross income under--\u2014section105(relating to amounts received under accident and health plans),\u2014section106(relating to contributions by employer to accident and health plans),\u2014section127(relating to educational assistance programs), but only to the extent paid or incurred to a person not related to the employer, or\u2014section129(relating to dependent care assistance programs).The amount treated as wages by clause(i)or(ii)for any period shall be based on the reasonable cost of coverage for the period, but shall not exceed the applicable premium for the period under section4980B(f)(4).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after December 31, 2006.The term \u201cwages\u201d includes amounts paid or incurred by the employer which are excludable from such recipient's gross income under--\u2014section105(relating to amounts received under accident and health plans),\u2014section106(relating to contributions by employer to accident and health plans),\u2014section127(relating to educational assistance programs), but only to the extent paid or incurred to a person not related to the employer, or\u2014section129(relating to dependent care assistance programs).The amount treated as wages by clause(i)or(ii)for any period shall be based on the reasonable cost of coverage for the period, but shall not exceed the applicable premium for the period under section4980B(f)(4)."
+    },
+    "cross_references": [
+      {
+        "section": "105",
+        "reason": "ipient's gross income under--\u2014..."
+      },
+      {
+        "section": "106",
+        "reason": "r accident and health plans),\u2014..."
+      },
+      {
+        "section": "127",
+        "reason": "o accident and health plans),\u2014..."
+      },
+      {
+        "section": "129",
+        "reason": "t related to the employer, or\u2014..."
+      },
+      {
+        "section": "4980B(f)(4)",
+        "reason": "premium for the period under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51A(b)(5)(B)Certain Amounts Treated As Wages\u2014Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after\n                                 December 31, 2006.The term \u201cwages\u201d includes amounts paid or incurred by  the employer which are excludable\n                           from such recipient's gross income  under--I.R.C. \u00a7 51A(b)(5)(B)(i)\u2014section105(relating to amounts received under accident and health  plans),I.R.C. \u00a7 51A(b)(5)(B)(ii)\u2014section106(relating to contributions by employer to accident and health  plans),I.R.C. \u00a7 51A(b)(5)(B)(iii)\u2014section127(relating to educational assistance programs), but only to the  extent paid or incurred\n                           to a person not related to the employer,  orI.R.C. \u00a7 51A(b)(5)(B)(iv)\u2014section129(relating to dependent care assistance programs).The amount treated as wages by clause(i)or(ii)for  any period shall be based on the reasonable cost of coverage for the  period,\n                              but shall not exceed the applicable premium for the period under  section4980B(f)(4).",
+    "definitions": null
+  },
+  {
+    "section": "51A",
+    "subsection": "(b)(5)(C)",
+    "source_subsections": [
+      "(b)(5)(C)",
+      "(b)(5)(C)(i)",
+      "(b)(5)(C)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Rules For Agricultural And Railway Labor",
+    "text": "Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after December 31, 2006.If such recipient is an employee to whom subparagraph(A)or(B)of section51(h)(1)applies, rules similar to the rules of such subparagraphs shall apply except that\u2014\u2014such subparagraph(A)shall be applied by substituting \u201c$10,000\u201d for \u201c$6,000\u201d, and\u2014such subparagraph(B)shall be applied by substituting \u201c$833.33\u201d for \u201c$500\u201d.",
+    "conditions": [
+      "such recipient is an employee to whom subparagraph(A)or(B)of section51(h)(1)applies, rules similar to the rules of such subparagraphs shall apply"
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 10000,
+        "text": "$10,000"
+      },
+      {
+        "label": "amount",
+        "value": 6000,
+        "text": "$6,000"
+      },
+      {
+        "label": "amount",
+        "value": 833,
+        "text": "$833"
+      },
+      {
+        "label": "amount",
+        "value": 500,
+        "text": "$500"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such recipient is an employee to whom subparagraph(A)or(B)of section51(h)(1)applies, rules similar to the rules of such subparagraphs shall apply"
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "that\u2014\u2014such subparagraph(A)shall be applied by substituting \u201c$10,000\u201d for \u201c$6,000\u201d, and\u2014such subparagraph(B)shall be applied by substituting \u201c$833.33\u201d for \u201c$500\u201d."
+      ],
+      "result": "Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after December 31, 2006."
+    },
+    "cross_references": [
+      {
+        "section": "51(h)(1)",
+        "reason": "o whom subparagraph(A)or(B)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51A(b)(5)(C)Special Rules For Agricultural And Railway Labor\u2014Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after\n                                 December\n                                 31, 2006.If such recipient is an employee to whom subparagraph(A)or(B)of section51(h)(1)applies, rules similar to the rules of such  subparagraphs shall apply except that\u2014I.R.C. \u00a7 51A(b)(5)(C)(i)\u2014such  subparagraph(A)shall be applied by substituting \u201c$10,000\u201d for \u201c$6,000\u201d,  andI.R.C. \u00a7 51A(b)(5)(C)(ii)\u2014such subparagraph(B)shall be applied by substituting \u201c$833.33\u201d for \u201c$500\u201d.",
+    "definitions": null
+  },
+  {
+    "section": "51A",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)",
+      "(c)(1)(A)",
+      "(c)(1)(B)",
+      "(c)(1)(B)(ii)",
+      "(c)(1)(C)",
+      "(c)(1)(C)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after December 31, 2006.The term \u201clong-term family assistance recipient\u201d means any individual who is certified by the designated local agency (as defined in section51(d)(11))\u2014\u2014as being a member of a family receiving assistance under a IV-A program (as defined in section51(d)(2)(B)) for at least the 18-month period ending on the hiring date,\u2014(i) as being a member of a family receiving such assistance for 18 months beginning after the date of the enactment of this section, and\u2014as having a hiring date which is not more than 2 years after the end of the earliest such 18-month period, or\u2014(i) as being a member of a family which ceased to be eligible after the date of the enactment of this section for such assistance by reason of any limitation imposed by Federal or State law on the maximum period such assistance is payable to a family, and\u2014as having a hiring date which is not more than 2 years after the date of such cessation.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after December 31, 2006.The term \u201clong-term family assistance recipient\u201d means any individual who is certified by the designated local agency (as defined in section51(d)(11))\u2014\u2014as being a member of a family receiving assistance under a IV-A program (as defined in section51(d)(2)(B)) for at least the 18-month period ending on the hiring date,\u2014(i) as being a member of a family receiving such assistance for 18 months beginning after the date of the enactment of this section, and\u2014as having a hiring date which is not more than 2 years after the end of the earliest such 18-month period, or\u2014(i) as being a member of a family which ceased to be eligible after the date of the enactment of this section for such assistance by reason of any limitation imposed by Federal or State law on the maximum period such assistance is payable to a family, and\u2014as having a hiring date which is not more than 2 years after the date of such cessation."
+    },
+    "cross_references": [
+      {
+        "section": "51(d)(11)",
+        "reason": "d local agency (as defined in..."
+      },
+      {
+        "section": "51(d)(2)(B)",
+        "reason": "a IV-A program (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51A(c)(1)In General\u2014Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after\n                              December 31, 2006.The term \u201clong-term family assistance recipient\u201d means  any individual who is certified\n                        by the designated local agency (as defined  in section51(d)(11))\u2014I.R.C. \u00a7 51A(c)(1)(A)\u2014as  being a member of a family receiving assistance under a IV-A program (as  defined\n                        in section51(d)(2)(B)) for at least the 18-month period ending on  the hiring date,I.R.C. \u00a7 51A(c)(1)(B)\u2014(i)  as being a member of a family receiving such assistance for 18 months  beginning\n                        after the date of the enactment of this section, andI.R.C. \u00a7 51A(c)(1)(B)(ii)\u2014as  having a hiring date which is not more than 2 years after the end of the  earliest\n                           such 18-month period, orI.R.C. \u00a7 51A(c)(1)(C)\u2014(i)  as being a member of a family which ceased to be eligible after the date  of\n                        the enactment of this section for such assistance by reason of any  limitation imposed\n                        by Federal or State law on the maximum period such  assistance is payable to a family,\n                        andI.R.C. \u00a7 51A(c)(1)(C)(ii)\u2014as  having a hiring date which is not more than 2 years after the date of such  cessation.",
+    "definitions": {
+      "term": "long-term family assistance recipient",
+      "requirements": [
+        "any individual who is certified by the designated local agency (as defined in section51(d)(11))\u2014\u2014as being a member of a family receiving assistance under a IV-A program (as defined in section51(d)(2)(B)) for at least the 18-month period ending on the hiring date,\u2014(i) as being a member of a family receiving such assistance for 18 months beginning after the date of the enactment of this section, and\u2014as having a hiring date which is not more than 2 years after the end of the earliest such 18-month period, or\u2014(i) as being a member of a family which ceased to be eligible after the date of the enactment of this section for such assistance by reason of any limitation imposed by Federal or State law on the maximum period such assistance is payable to a family, and\u2014as having a hiring date which is not more than 2 years after the date of such cessation."
+      ]
+    }
+  },
+  {
+    "section": "51A",
+    "subsection": "(c)(2)",
+    "source_subsections": [
+      "(c)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Date",
+    "text": "Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after December 31, 2006.The term \u201chiring date\u201d has the meaning given such term by section51(d).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after December 31, 2006.The term \u201chiring date\u201d has the meaning given such term by section51(d)."
+    },
+    "cross_references": [
+      {
+        "section": "51(d)",
+        "reason": "he meaning given such term by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51A(c)(2)Hiring Date\u2014Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after\n                              December\n                              31, 2006.The term \u201chiring date\u201d\n                        has the meaning given such term  by section51(d).",
+    "definitions": null
+  },
+  {
+    "section": "51A",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after December 31, 2006.Rules similar to the rules of section52, and subsections (d)(11), (f), (g), (i) (as in effect on the day before the date of the enactment of the Taxpayer Relief Act of 1997), (j), and (k) of section51, shall apply for purposes of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after December 31, 2006.Rules similar to the rules of section52, and subsections (d)(11), (f), (g), (i) (as in effect on the day before the date of the enactment of the Taxpayer Relief Act of 1997), (j), and (k) of section51, shall apply for purposes of this section."
+    },
+    "cross_references": [
+      {
+        "section": "52",
+        "reason": "Rules similar to the rules of..."
+      },
+      {
+        "section": "51",
+        "reason": "Act of 1997), (j), and (k) of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51A(d)(1)In General\u2014Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after\n                              December 31, 2006.Rules similar to the rules of section52, and  subsections (d)(11), (f),\n                        (g), (i) (as in effect on the day before the  date of the enactment of the Taxpayer\n                        Relief Act of 1997), (j), and (k) of  section51, shall apply for purposes of this section.",
+    "definitions": null
+  },
+  {
+    "section": "51A",
+    "subsection": "(d)(2)",
+    "source_subsections": [
+      "(d)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "To Be Part Of General Business Credit, Etc.",
+    "text": "Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after December 31, 2006.References to section51in section38(b),280C(a), and1396(c)(3)shall be treated as including references to this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after December 31, 2006.References to section51in section38(b),280C(a), and1396(c)(3)shall be treated as including references to this section."
+    },
+    "cross_references": [
+      {
+        "section": "51i",
+        "reason": "cember 31, 2006.References to..."
+      },
+      {
+        "section": "38(b)",
+        "reason": "n..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51A(d)(2)Credit To Be Part Of General Business Credit, Etc.\u2014Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after\n                              December 31, 2006.References to section51in section38(b),280C(a), and1396(c)(3)shall be treated as including references to this  section.",
+    "definitions": null
+  },
+  {
+    "section": "51A",
+    "subsection": "(e)",
+    "source_subsections": [
+      "(e)"
+    ],
+    "rule_type": "condition",
+    "title": "With Work Opportunity Credit",
+    "text": "Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after December 31, 2006.If a credit is allowed under this section to an employer with respect to an individual for any taxable year, then for purposes of applying section51to such employer, such individual shall not be treated as a member of a targeted group for such taxable year.",
+    "conditions": [
+      "a credit is allowed under this section to an employer with respect to an individual for any taxable year, then for purposes of applying section51to such employer, such individual shall not be treated as a member of a targeted group for such taxable year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "a credit is allowed under this section to an employer with respect to an individual for any taxable year, then for purposes of applying section51to such employer, such individual shall not be treated as a member of a targeted group for such taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after December 31, 2006."
+    },
+    "cross_references": [
+      {
+        "section": "51t",
+        "reason": "then for purposes of applying..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51A(e)Coordination With Work Opportunity Credit\u2014Editor's Note:Pub. L. 109-432, Sec. 105(e)(4)(A), repealed Sec. 51A, effective for individuals who begin work for the employer after\n                           December 31, 2006.If a credit is allowed under this section to an employer  with respect to an individual\n                     for any taxable year, then for purposes of  applying section51to such employer, such individual shall not be treated  as a member of a targeted\n                     group for such taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "51A",
+    "subsection": "(f)",
+    "source_subsections": [
+      "(f)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "This section shall not apply to individuals who begin work for the employer after December 31, 2007.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "This section shall not apply to individuals who begin work for the employer after December 31, 2007."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51A(f)Termination\u2014This  section shall not apply to individuals who begin work for the employer  after\n                  December 31, 2007.",
+    "definitions": null
+  }
+]

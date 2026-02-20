@@ -1,0 +1,21 @@
+{
+  "id": "e13b7d110ef6",
+  "section": "245",
+  "citation": "I.R.C. \u00a7 245(c)(1)(B)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 245(c)(1)(B) is discussed as follows: 'I.R.C. \u00a7 245(c)(1)(B)\u201450  percent (65 percent in the case of dividends from a 20-percent owned  corp...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 245(c)(1)(B)?",
+  "difficulty": 1,
+  "choices": [
+    "50.0%",
+    "75.0%",
+    "60.0%",
+    "40.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 245(c)(1)(B)"
+  ]
+}

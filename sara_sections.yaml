@@ -1,0 +1,18 @@
+# Configuration for SARA (Statutory Analysis & Reasoning Architecture)
+# Defines which sections should have Prolog-backed cases generated.
+
+sections:
+  "121":
+    enabled: true
+    predicate: "exclude_gain_121"
+    description: "Exclusion of gain from sale of principal residence"
+    
+  "170":
+    enabled: true
+    predicate: "charitable_contribution_limit_170"
+    description: "Charitable, etc., contributions and gifts"
+
+  "1":
+    enabled: false
+    predicate: "tax_liability_1"
+    description: "Tax imposed"

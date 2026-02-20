@@ -1,0 +1,22 @@
+{
+  "id": "214809fc5b58",
+  "section": "280F",
+  "citation": "I.R.C. \u00a7 280F(a)(1)(B)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 280F(a)(1)(B) is discussed as follows: 'I.R.C. \u00a7 280F(a)(1)(B)Disallowed Deductions Allowed For Years After Recovery PeriodI.R.C. \u00a7 280F(a)(...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 280F(a)(1)(B)?",
+  "difficulty": 1,
+  "choices": [
+    "$11,520.00",
+    "$2,880.00",
+    "$5,760.00",
+    "$5,184.00",
+    "$6,336.00"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies $5,760.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 280F(a)(1)(B)"
+  ]
+}

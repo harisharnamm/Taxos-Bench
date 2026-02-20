@@ -1,0 +1,22 @@
+{
+  "id": "261fa49a3b74",
+  "section": "245",
+  "citation": "I.R.C. \u00a7 245(c)(1)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 245(c)(1) is discussed as follows: 'I.R.C. \u00a7 245(c)(1)In General\u2014In  the case of a domestic corporation, there shall be allowed as a ded...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 245(c)(1)?",
+  "difficulty": 1,
+  "choices": [
+    "35.0%",
+    "97.5%",
+    "65.0%",
+    "75.0%",
+    "55.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 65.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 245(c)(1)"
+  ]
+}

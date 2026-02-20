@@ -1,0 +1,1708 @@
+[
+  {
+    "section": "30D",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)"
+    ],
+    "rule_type": "computation",
+    "title": "of Credit",
+    "text": "There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the credit amounts determined under subsection (b) with respect to each new clean vehicle placed in service by the taxpayer during the taxable year.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the credit amounts determined under subsection (b) with respect to each new clean vehicle placed in service by the taxpayer during the taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(a)Allowance of Credit\u2014There shall be allowed as a credit against the tax imposed by this chapter for the\n                  taxable year an amount equal to the sum of the credit amounts determined under subsection\n                  (b) with respect to each new clean vehicle placed in service by the taxpayer during\n                  the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "The amount determined under this subsection with respect to any new clean vehicle is the sum of the amounts determined under paragraphs (2) and (3) with respect to such vehicle.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount determined under this subsection with respect to any new clean vehicle is the sum of the amounts determined under paragraphs (2) and (3) with respect to such vehicle."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(b)(1)In General\u2014The amount determined under this subsection with respect to any new clean vehicle\n                     is the sum of the amounts determined under paragraphs (2) and (3) with respect to\n                     such vehicle.",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Minerals",
+    "text": "In the case of a vehicle with respect to which the requirement described in subsection (e)(1)(A) is satisfied, the amount determined under this paragraph is $3,750.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 3750,
+        "text": "$3,750"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a vehicle with respect to which the requirement described in subsection (e)(1)(A) is satisfied, the amount determined under this paragraph is $3,750."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(b)(2)Critical Minerals\u2014In the case of a vehicle with respect to which the requirement described in subsection\n                     (e)(1)(A) is satisfied, the amount determined under this paragraph is $3,750.",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(b)(3)",
+    "source_subsections": [
+      "(b)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Components",
+    "text": "In the case of a vehicle with respect to which the requirement described in subsection (e)(2)(A) is satisfied, the amount determined under this paragraph is $3,750.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 3750,
+        "text": "$3,750"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a vehicle with respect to which the requirement described in subsection (e)(2)(A) is satisfied, the amount determined under this paragraph is $3,750."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(b)(3)Battery Components\u2014In the case of a vehicle with respect to which the requirement described in subsection\n                     (e)(2)(A) is satisfied, the amount determined under this paragraph is $3,750.",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "Credit Treated As Part Of General Business Credit",
+    "text": "So much of the credit which would be allowed under subsection (a) for any taxable year (determined without regard to this subsection) that is attributable to property of a character subject to an allowance for depreciation shall be treated as a credit listed in section38(b)for such taxable year (and not allowed under subsection (a)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "So much of the credit which would be allowed under subsection (a) for any taxable year (determined without regard to this subsection) that is attributable to property of a character subject to an allowance for depreciation shall be treated as a credit listed in section38(b)for such taxable year (and not allowed under subsection (a))."
+    },
+    "cross_references": [
+      {
+        "section": "38(b)",
+        "reason": "treated as a credit listed in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(c)(1)Business Credit Treated As Part Of General Business Credit\u2014So much of the credit which would be allowed under subsection (a) for any taxable\n                     year (determined without regard to this subsection) that is attributable to property\n                     of a character subject to an allowance for depreciation shall be treated as a credit\n                     listed in section38(b)for such taxable year (and not allowed under subsection (a)).",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(c)(2)",
+    "source_subsections": [
+      "(c)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Credit",
+    "text": "For purposes of this title, the credit allowed under subsection (a) for any taxable year (determined after application of paragraph (1)) shall be treated as a credit allowable under subpart A for such taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this title, the credit allowed under subsection (a) for any taxable year (determined after application of paragraph (1)) shall be treated as a credit allowable under subpart A for such taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(c)(2)Personal Credit\u2014For purposes of this title, the credit allowed under subsection (a) for any taxable\n                     year (determined after application of paragraph (1)) shall be treated as a credit\n                     allowable under subpart A for such taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)",
+      "(d)(1)(A)",
+      "(d)(1)(B)",
+      "(d)(1)(C)",
+      "(d)(1)(D)",
+      "(d)(1)(E)",
+      "(d)(1)(F)",
+      "(d)(1)(F)(i)",
+      "(d)(1)(F)(ii)",
+      "(d)(1)(G)",
+      "(d)(1)(H)",
+      "(d)(1)(H)(i)",
+      "(d)(1)(H)(ii)",
+      "(d)(1)(H)(iii)",
+      "(d)(1)(H)(iv)",
+      "(d)(1)(H)(v)",
+      "(d)(1)(H)(vi)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cnew clean vehicle\u201d means a motor vehicle\u2014\u2014the original use of which commences with the taxpayer,\u2014which is acquired for use or lease by the taxpayer and not for resale,\u2014which is made by a qualified manufacturer,\u2014which is treated as a motor vehicle for purposes of title II of the Clean Air Act,\u2014which has a gross vehicle weight rating of less than 14,000 pounds,\u2014which is propelled to a significant extent by an electric motor which draws electricity from a battery which\u2014\u2014has a capacity of not less than 7 kilowatt hours, and\u2014is capable of being recharged from an external source of electricity,\u2014the final assembly of which occurs within North America, and\u2014for which the person who sells any vehicle to the taxpayer furnishes a report to the taxpayer and to the Secretary, at such time and in such manner as the Secretary shall provide, containing\u2014\u2014the name and taxpayer identification number of the taxpayer,\u2014the vehicle identification number of the vehicle, unless, in accordance with any applicable rules promulgated by the Secretary of Transportation, the vehicle is not assigned such a number,\u2014the battery capacity of the vehicle,\u2014verification that original use of the vehicle commences with the taxpayer,\u2014the maximum credit under this section allowable to the taxpayer with respect to the vehicle, and\u2014in the case of a taxpayer who makes an election under subsection (g)(1), any amount described in subsection (g)(2)(C) which has been provided to such taxpayer.",
+    "conditions": [
+      ", in accordance with any applicable rules promulgated by the Secretary of Transportation, the vehicle is not assigned such a number,\u2014the battery capacity of the vehicle,\u2014verification that original use of the vehicle commences with the taxpayer,\u2014the maximum credit under this section allowable to the taxpayer with respect to the vehicle, and\u2014in the case of a taxpayer who makes an election under subsection (g)(1), any amount described in subsection (g)(2)(C) which has been provided to such taxpayer."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        ", in accordance with any applicable rules promulgated by the Secretary of Transportation, the vehicle is not assigned such a number,\u2014the battery capacity of the vehicle,\u2014verification that original use of the vehicle commences with the taxpayer,\u2014the maximum credit under this section allowable to the taxpayer with respect to the vehicle, and\u2014in the case of a taxpayer who makes an election under subsection (g)(1), any amount described in subsection (g)(2)(C) which has been provided to such taxpayer."
+      ],
+      "except": [],
+      "result": "The term \u201cnew clean vehicle\u201d means a motor vehicle\u2014\u2014the original use of which commences with the taxpayer,\u2014which is acquired for use or lease by the taxpayer and not for resale,\u2014which is made by a qualified manufacturer,\u2014which is treated as a motor vehicle for purposes of title II of the Clean Air Act,\u2014which has a gross vehicle weight rating of less than 14,000 pounds,\u2014which is propelled to a significant extent by an electric motor which draws electricity from a battery which\u2014\u2014has a capacity of not less than 7 kilowatt hours, and\u2014is capable of being recharged from an external source of electricity,\u2014the final assembly of which occurs within North America, and\u2014for which the person who sells any vehicle to the taxpayer furnishes a report to the taxpayer and to the Secretary, at such time and in such manner as the Secretary shall provide, containing\u2014\u2014the name and taxpayer identification number of the taxpayer,\u2014the vehicle identification number of the vehicle,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(d)(1)In General\u2014The term \u201cnew clean vehicle\u201d means a motor vehicle\u2014I.R.C. \u00a7 30D(d)(1)(A)\u2014the original use of which commences with the taxpayer,I.R.C. \u00a7 30D(d)(1)(B)\u2014which is acquired for use or lease by the taxpayer and not for resale,I.R.C. \u00a7 30D(d)(1)(C)\u2014which is made by a qualified manufacturer,I.R.C. \u00a7 30D(d)(1)(D)\u2014which is treated as a motor vehicle for purposes of title II of the Clean Air Act,I.R.C. \u00a7 30D(d)(1)(E)\u2014which has a gross vehicle weight rating of less than 14,000 pounds,I.R.C. \u00a7 30D(d)(1)(F)\u2014which is propelled to a significant extent by an electric motor which draws electricity\n                        from a battery which\u2014I.R.C. \u00a7 30D(d)(1)(F)(i)\u2014has a capacity of not less than 7 kilowatt hours, andI.R.C. \u00a7 30D(d)(1)(F)(ii)\u2014is capable of being recharged from an external source of electricity,I.R.C. \u00a7 30D(d)(1)(G)\u2014the final assembly of which occurs within North America, andI.R.C. \u00a7 30D(d)(1)(H)\u2014for which the person who sells any vehicle to the taxpayer furnishes a report to the\n                        taxpayer and to the Secretary, at such time and in such manner as the Secretary shall\n                        provide, containing\u2014I.R.C. \u00a7 30D(d)(1)(H)(i)\u2014the name and taxpayer identification number of the taxpayer,I.R.C. \u00a7 30D(d)(1)(H)(ii)\u2014the vehicle identification number of the vehicle, unless, in accordance with any applicable\n                           rules promulgated by the Secretary of Transportation, the vehicle is not assigned\n                           such a number,I.R.C. \u00a7 30D(d)(1)(H)(iii)\u2014the battery capacity of the vehicle,I.R.C. \u00a7 30D(d)(1)(H)(iv)\u2014verification that original use of the vehicle commences with the taxpayer,I.R.C. \u00a7 30D(d)(1)(H)(v)\u2014the maximum credit under this section allowable to the taxpayer with respect to the\n                           vehicle, andI.R.C. \u00a7 30D(d)(1)(H)(vi)\u2014in the case of a taxpayer who makes an election under subsection (g)(1), any amount\n                           described in subsection (g)(2)(C) which has been provided to such taxpayer.",
+    "definitions": {
+      "term": "new clean vehicle",
+      "requirements": [
+        "a motor vehicle\u2014\u2014the original use of which commences with the taxpayer,\u2014which is acquired for use or lease by the taxpayer and not for resale,\u2014which is made by a qualified manufacturer,\u2014which is treated as a motor vehicle for purposes of title II of the Clean Air Act,\u2014which has a gross vehicle weight rating of less than 14,000 pounds,\u2014which is propelled to a significant extent by an electric motor which draws electricity from a battery which\u2014\u2014has a capacity of not less than 7 kilowatt hours, and\u2014is capable of being recharged from an external source of electricity,\u2014the final assembly of which occurs within North America, and\u2014for which the person who sells any vehicle to the taxpayer furnishes a report to the taxpayer and to the Secretary, at such time and in such manner as the Secretary shall provide, containing\u2014\u2014the name and taxpayer identification number of the taxpayer,\u2014the vehicle identification number of the vehicle, unless, in accordance with any applicable rules promulgated by the Secretary of Transportation, the vehicle is not assigned such a number,\u2014the battery capacity of the vehicle,\u2014verification that original use of the vehicle commences with the taxpayer,\u2014the maximum credit under this section allowable to the taxpayer with respect to the vehicle, and\u2014in the case of a taxpayer who makes an election under subsection (g)(1), any amount described in subsection (g)(2)(C) which has been provided to such taxpayer."
+      ]
+    }
+  },
+  {
+    "section": "30D",
+    "subsection": "(d)(2)",
+    "source_subsections": [
+      "(d)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Vehicle",
+    "text": "The term \u201cmotor vehicle\u201d means any vehicle which is manufactured primarily for use on public streets, roads, and highways (not including a vehicle operated exclusively on a rail or rails) and which has at least 4 wheels.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cmotor vehicle\u201d means any vehicle which is manufactured primarily for use on public streets, roads, and highways (not including a vehicle operated exclusively on a rail or rails) and which has at least 4 wheels."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(d)(2)Motor Vehicle\u2014The term \u201cmotor vehicle\u201d means any vehicle which is manufactured primarily for use\n                     on public streets, roads, and highways (not including a vehicle operated exclusively\n                     on a rail or rails) and which has at least 4 wheels.",
+    "definitions": {
+      "term": "motor vehicle",
+      "requirements": [
+        "any vehicle which is manufactured primarily for use on public streets, roads, and highways (not including a vehicle operated exclusively on a rail or rails) and which has at least 4 wheels."
+      ]
+    }
+  },
+  {
+    "section": "30D",
+    "subsection": "(d)(3)",
+    "source_subsections": [
+      "(d)(3)"
+    ],
+    "rule_type": "definition",
+    "title": "Manufacturer",
+    "text": "The term \u201cqualified manufacturer\u201d means any manufacturer (within the meaning of the regulations prescribed by the Administrator of the Environmental Protection Agency for purposes of the administration of title II of the Clean Air Act (42 U.S.C. 7521et seq.)) which enters into a written agreement with the Secretary under which such manufacturer agrees to make periodic written reports to the Secretary (at such times and in such manner as the Secretary may provide) providing vehicle identification numbers and such other information related to each vehicle manufactured by such manufacturer as the Secretary may require.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified manufacturer\u201d means any manufacturer (within the meaning of the regulations prescribed by the Administrator of the Environmental Protection Agency for purposes of the administration of title II of the Clean Air Act (42 U.S.C. 7521et seq.)) which enters into a written agreement with the Secretary under which such manufacturer agrees to make periodic written reports to the Secretary (at such times and in such manner as the Secretary may provide) providing vehicle identification numbers and such other information related to each vehicle manufactured by such manufacturer as the Secretary may require."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(d)(3)Qualified Manufacturer\u2014The term \u201cqualified manufacturer\u201d means any manufacturer (within the meaning of the\n                     regulations prescribed by the Administrator of the Environmental Protection Agency\n                     for purposes of the administration of title II of the Clean Air Act (42 U.S.C. 7521et seq.)) which enters into a written agreement with the Secretary under which such\n                     manufacturer agrees to make periodic written reports to the Secretary (at such times\n                     and in such manner as the Secretary may provide) providing vehicle identification\n                     numbers and such other information related to each vehicle manufactured by such manufacturer\n                     as the Secretary may require.",
+    "definitions": {
+      "term": "qualified manufacturer",
+      "requirements": [
+        "any manufacturer (within the meaning of the regulations prescribed by the Administrator of the Environmental Protection Agency for purposes of the administration of title II of the Clean Air Act (42 U.S.C. 7521et seq.)) which enters into a written agreement with the Secretary under which such manufacturer agrees to make periodic written reports to the Secretary (at such times and in such manner as the Secretary may provide) providing vehicle identification numbers and such other information related to each vehicle manufactured by such manufacturer as the Secretary may require."
+      ]
+    }
+  },
+  {
+    "section": "30D",
+    "subsection": "(d)(4)",
+    "source_subsections": [
+      "(d)(4)"
+    ],
+    "rule_type": "definition",
+    "title": "Capacity",
+    "text": "The term \u201ccapacity\u201d means, with respect to any battery, the quantity of electricity which the battery is capable of storing, expressed in kilowatt hours, as measured from a 100 percent state of charge to a 0 percent state of charge.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 1.0,
+        "text": "100 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.0,
+        "text": "0 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201ccapacity\u201d means, with respect to any battery, the quantity of electricity which the battery is capable of storing, expressed in kilowatt hours, as measured from a 100 percent state of charge to a 0 percent state of charge."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(d)(4)Battery Capacity\u2014The term \u201ccapacity\u201d means, with respect to any battery, the quantity of electricity\n                     which the battery is capable of storing, expressed in kilowatt hours, as measured\n                     from a 100 percent state of charge to a 0 percent state of charge.",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(d)(5)",
+    "source_subsections": [
+      "(d)(5)"
+    ],
+    "rule_type": "definition",
+    "title": "Assembly",
+    "text": "For purposes of paragraph (1)(G), the term \u201cfinal assembly\u201d means the process by which a manufacturer produces a new clean vehicle at, or through the use of, a plant, factory, or other place from which the vehicle is delivered to a dealer or importer with all component parts necessary for the mechanical operation of the vehicle included with the vehicle, whether or not the component parts are permanently installed in or on the vehicle.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of paragraph (1)(G), the term \u201cfinal assembly\u201d means the process by which a manufacturer produces a new clean vehicle at, or through the use of, a plant, factory, or other place from which the vehicle is delivered to a dealer or importer with all component parts necessary for the mechanical operation of the vehicle included with the vehicle, whether or not the component parts are permanently installed in or on the vehicle."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(d)(5)Final Assembly\u2014For purposes of paragraph (1)(G), the term \u201cfinal assembly\u201d means the process by which\n                     a manufacturer produces a new clean vehicle at, or through the use of, a plant, factory,\n                     or other place from which the vehicle is delivered to a dealer or importer with all\n                     component parts necessary for the mechanical operation of the vehicle included with\n                     the vehicle, whether or not the component parts are permanently installed in or on\n                     the vehicle.",
+    "definitions": {
+      "term": "final assembly",
+      "requirements": [
+        "the process by which a manufacturer produces a new clean vehicle at, or through the use of, a plant, factory, or other place from which the vehicle is delivered to a dealer or importer with all component parts necessary for the mechanical operation of the vehicle included with the vehicle, whether or not the component parts are permanently installed in or on the vehicle."
+      ]
+    }
+  },
+  {
+    "section": "30D",
+    "subsection": "(d)(6)",
+    "source_subsections": [
+      "(d)(6)"
+    ],
+    "rule_type": "definition",
+    "title": "Qualified Fuel Cell Motor Vehicle",
+    "text": "For purposes of this section, the term \u201cnew clean vehicle\u201d shall include any new qualified fuel cell motor vehicle (as defined in section30B(b)(3)) which meets the requirements under subparagraphs (G) and (H) of paragraph (1).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u201cnew clean vehicle\u201d shall include any new qualified fuel cell motor vehicle (as defined in section30B(b)(3)) which meets the requirements under subparagraphs (G) and (H) of paragraph (1)."
+    },
+    "cross_references": [
+      {
+        "section": "30B(b)(3)",
+        "reason": "motor vehicle (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(d)(6)New Qualified Fuel Cell Motor Vehicle\u2014For purposes of this section, the term \u201cnew clean vehicle\u201d shall include any new qualified\n                     fuel cell motor vehicle (as defined in section30B(b)(3)) which meets the requirements under subparagraphs (G) and (H) of paragraph (1).",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(d)(7)",
+    "source_subsections": [
+      "(d)(7)",
+      "(d)(7)(A)",
+      "(d)(7)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Entities",
+    "text": "For purposes of this section, the term \u201cnew clean vehicle\u201d shall not include\u2014\u2014any vehicle placed in service after December 31, 2024, with respect to which any of the applicable critical minerals contained in the battery of such vehicle (as described in subsection (e)(1)(A)) were extracted, processed, or recycled by a foreign entity of concern (as defined in section 40207(a)(5) of the Infrastructure Investment and Jobs Act (42 U.S.C. 18741(a)(5))), or\u2014any vehicle placed in service after December 31, 2023, with respect to which any of the components contained in the battery of such vehicle (as described in subsection (e)(2)(A)) were manufactured or assembled by a foreign entity of concern (as so defined).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u201cnew clean vehicle\u201d shall not include\u2014\u2014any vehicle placed in service after December 31, 2024, with respect to which any of the applicable critical minerals contained in the battery of such vehicle (as described in subsection (e)(1)(A)) were extracted, processed, or recycled by a foreign entity of concern (as defined in section 40207(a)(5) of the Infrastructure Investment and Jobs Act (42 U.S.C. 18741(a)(5))), or\u2014any vehicle placed in service after December 31, 2023, with respect to which any of the components contained in the battery of such vehicle (as described in subsection (e)(2)(A)) were manufactured or assembled by a foreign entity of concern (as so defined)."
+    },
+    "cross_references": [
+      {
+        "section": "40207(a)(5)",
+        "reason": "ity of concern (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(d)(7)Excluded Entities\u2014For purposes of this section, the term \u201cnew clean vehicle\u201d shall not include\u2014I.R.C. \u00a7 30D(d)(7)(A)\u2014any vehicle placed in service after December 31, 2024, with respect to which any of\n                        the applicable critical minerals contained in the battery of such vehicle (as described\n                        in subsection (e)(1)(A)) were extracted, processed, or recycled by a foreign entity\n                        of concern (as defined in section 40207(a)(5) of the Infrastructure Investment and\n                        Jobs Act (42 U.S.C. 18741(a)(5))), orI.R.C. \u00a7 30D(d)(7)(B)\u2014any vehicle placed in service after December 31, 2023, with respect to which any of\n                        the components contained in the battery of such vehicle (as described in subsection\n                        (e)(2)(A)) were manufactured or assembled by a foreign entity of concern (as so defined).",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(e)(1)(A)",
+    "source_subsections": [
+      "(e)(1)(A)",
+      "(e)(1)(A)(i)",
+      "(e)(1)(A)(i)(I)",
+      "(e)(1)(A)(i)(II)",
+      "(e)(1)(A)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The requirement described in this subparagraph with respect to a vehicle is that, with respect to the battery from which the electric motor of such vehicle draws electricity, the percentage of the value of the applicable critical minerals (as defined in section45X(c)(6)) contained in such battery that were\u2014\u2014extracted or processed\u2014\u2014in the United States, or\u2014in any country with which the United States has a free trade agreement in effect, or\u2014recycled in North America,is equal to or greater than the applicable percentage (as certified by the qualified manufacturer, in such form or manner as prescribed by the Secretary).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The requirement described in this subparagraph with respect to a vehicle is that, with respect to the battery from which the electric motor of such vehicle draws electricity, the percentage of the value of the applicable critical minerals (as defined in section45X(c)(6)) contained in such battery that were\u2014\u2014extracted or processed\u2014\u2014in the United States, or\u2014in any country with which the United States has a free trade agreement in effect, or\u2014recycled in North America,is equal to or greater than the applicable percentage (as certified by the qualified manufacturer, in such form or manner as prescribed by the Secretary)."
+    },
+    "cross_references": [
+      {
+        "section": "45X(c)(6)",
+        "reason": "tical minerals (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(e)(1)(A)In General\u2014The requirement described in this subparagraph with respect to a vehicle is that,\n                        with respect to the battery from which the electric motor of such vehicle draws electricity,\n                        the percentage of the value of the applicable critical minerals (as defined in section45X(c)(6)) contained in such battery that were\u2014I.R.C. \u00a7 30D(e)(1)(A)(i)\u2014extracted or processed\u2014I.R.C. \u00a7 30D(e)(1)(A)(i)(I)\u2014in the United States, orI.R.C. \u00a7 30D(e)(1)(A)(i)(II)\u2014in any country with which the United States has a free trade agreement in effect,\n                              orI.R.C. \u00a7 30D(e)(1)(A)(ii)\u2014recycled in North America,is equal to or greater than the applicable percentage (as certified by the qualified\n                           manufacturer, in such form or manner as prescribed by the Secretary).",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(e)(1)(B)",
+    "source_subsections": [
+      "(e)(1)(B)",
+      "(e)(1)(B)(i)",
+      "(e)(1)(B)(ii)",
+      "(e)(1)(B)(iii)",
+      "(e)(1)(B)(iv)"
+    ],
+    "rule_type": "computation",
+    "title": "Percentage",
+    "text": "For purposes of subparagraph (A), the applicable percentage shall be\u2014\u2014in the case of a vehicle placed in service after the date on which the proposed guidance described in paragraph (3)(B) is issued by the Secretary and before January 1, 2024, 40 percent,\u2014in the case of a vehicle placed in service during calendar year 2024, 50 percent,\u2014in the case of a vehicle placed in service during calendar year 2025, 60 percent, and\u2014in the case of a vehicle placed in service during calendar year 2026, 70 percent.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.4,
+        "text": "40 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.6,
+        "text": "60 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.7,
+        "text": "70 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph (A), the applicable percentage shall be\u2014\u2014in the case of a vehicle placed in service after the date on which the proposed guidance described in paragraph (3)(B) is issued by the Secretary and before January 1, 2024, 40 percent,\u2014in the case of a vehicle placed in service during calendar year 2024, 50 percent,\u2014in the case of a vehicle placed in service during calendar year 2025, 60 percent, and\u2014in the case of a vehicle placed in service during calendar year 2026, 70 percent."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(e)(1)(B)Applicable Percentage\u2014For purposes of subparagraph (A), the applicable percentage shall be\u2014I.R.C. \u00a7 30D(e)(1)(B)(i)\u2014in the case of a vehicle placed in service after the date on which the proposed guidance\n                           described in paragraph (3)(B) is issued by the Secretary and before January 1, 2024,\n                           40 percent,I.R.C. \u00a7 30D(e)(1)(B)(ii)\u2014in the case of a vehicle placed in service during calendar year 2024, 50 percent,I.R.C. \u00a7 30D(e)(1)(B)(iii)\u2014in the case of a vehicle placed in service during calendar year 2025, 60 percent,\n                           andI.R.C. \u00a7 30D(e)(1)(B)(iv)\u2014in the case of a vehicle placed in service during calendar year 2026, 70 percent.",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(e)(2)(A)",
+    "source_subsections": [
+      "(e)(2)(A)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "The requirement described in this subparagraph with respect to a vehicle is that, with respect to the battery from which the electric motor of such vehicle draws electricity, the percentage of the value of the components contained in such battery that were manufactured or assembled in North America is equal to or greater than the applicable percentage (as certified by the qualified manufacturer, in such form or manner as prescribed by the Secretary).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The requirement described in this subparagraph with respect to a vehicle is that, with respect to the battery from which the electric motor of such vehicle draws electricity, the percentage of the value of the components contained in such battery that were manufactured or assembled in North America is equal to or greater than the applicable percentage (as certified by the qualified manufacturer, in such form or manner as prescribed by the Secretary)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(e)(2)(A)In General\u2014The requirement described in this subparagraph with respect to a vehicle is that,\n                        with respect to the battery from which the electric motor of such vehicle draws electricity,\n                        the percentage of the value of the components contained in such battery that were\n                        manufactured or assembled in North America is equal to or greater than the applicable\n                        percentage (as certified by the qualified manufacturer, in such form or manner as\n                        prescribed by the Secretary).",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(e)(2)(B)",
+    "source_subsections": [
+      "(e)(2)(B)",
+      "(e)(2)(B)(i)",
+      "(e)(2)(B)(ii)",
+      "(e)(2)(B)(iii)"
+    ],
+    "rule_type": "computation",
+    "title": "Percentage",
+    "text": "For purposes of subparagraph (A), the applicable percentage shall be\u2014\u2014in the case of a vehicle placed in service after the date on which the proposed guidance described in paragraph (3)(B) is issued by the Secretary and before January 1, 2024, 50 percent,\u2014in the case of a vehicle placed in service during calendar year 2024 or 2025, 60 percent, and\u2014in the case of a vehicle placed in service during calendar year 2026, 70 percent.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.6,
+        "text": "60 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.7,
+        "text": "70 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph (A), the applicable percentage shall be\u2014\u2014in the case of a vehicle placed in service after the date on which the proposed guidance described in paragraph (3)(B) is issued by the Secretary and before January 1, 2024, 50 percent,\u2014in the case of a vehicle placed in service during calendar year 2024 or 2025, 60 percent, and\u2014in the case of a vehicle placed in service during calendar year 2026, 70 percent."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(e)(2)(B)Applicable Percentage\u2014For purposes of subparagraph (A), the applicable percentage shall be\u2014I.R.C. \u00a7 30D(e)(2)(B)(i)\u2014in the case of a vehicle placed in service after the date on which the proposed guidance\n                           described in paragraph (3)(B) is issued by the Secretary and before January 1, 2024,\n                           50 percent,I.R.C. \u00a7 30D(e)(2)(B)(ii)\u2014in the case of a vehicle placed in service during calendar year 2024 or 2025, 60 percent,\n                           andI.R.C. \u00a7 30D(e)(2)(B)(iii)\u2014in the case of a vehicle placed in service during calendar year 2026, 70 percent.",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(e)(3)(A)",
+    "source_subsections": [
+      "(e)(3)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(e)(3)(A)In General\u2014The Secretary shall issue such regulations or other guidance as the Secretary determines\n                        necessary to carry out the purposes of this subsection, including regulations or other\n                        guidance which provides for requirements for recordkeeping or information reporting\n                        for purposes of administering the requirements of this subsection.",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(e)(3)(B)",
+    "source_subsections": [
+      "(e)(3)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "for Proposed Guidance",
+    "text": "Not later than December 31, 2022, the Secretary shall issue proposed guidance with respect to the requirements under this subsection.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Not later than December 31, 2022, the Secretary shall issue proposed guidance with respect to the requirements under this subsection."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(e)(3)(B)Deadline for Proposed Guidance\u2014Not later than December 31, 2022, the Secretary shall issue proposed guidance with\n                        respect to the requirements under this subsection.",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(f)(1)",
+    "source_subsections": [
+      "(f)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "Reduction",
+    "text": "For purposes of this subtitle, the basis of any property for which a credit is allowable under subsection (a) shall be reduced by the amount of such credit so allowed (determined without regard to subsection (c)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subtitle, the basis of any property for which a credit is allowable under subsection (a) shall be reduced by the amount of such credit so allowed (determined without regard to subsection (c))."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(f)(1)Basis Reduction\u2014For purposes of this subtitle, the basis of any property for which a credit is allowable\n                     under subsection (a) shall be reduced by the amount of such credit so allowed (determined\n                     without regard to subsection (c)).",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(f)(10)(A)",
+    "source_subsections": [
+      "(f)(10)(A)",
+      "(f)(10)(A)(i)",
+      "(f)(10)(A)(i)(I)",
+      "(f)(10)(A)(i)(II)",
+      "(f)(10)(A)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "No credit shall be allowed under subsection (a) for any taxable year if\u2014\u2014the lesser of\u2014\u2014the modified adjusted gross income of the taxpayer for such taxable year, or\u2014the modified adjusted gross income of the taxpayer for the preceding taxable year, exceeds\u2014the threshold amount.",
+    "conditions": [
+      "\u2014\u2014the lesser of\u2014\u2014the modified adjusted gross income of the taxpayer for such taxable year, or\u2014the modified adjusted gross income of the taxpayer for the preceding taxable year, exceeds\u2014the threshold amount."
+    ],
+    "computations": [
+      {
+        "operation": "min",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014the lesser of\u2014\u2014the modified adjusted gross income of the taxpayer for such taxable year, or\u2014the modified adjusted gross income of the taxpayer for the preceding taxable year, exceeds\u2014the threshold amount."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be allowed under subsection (a) for any taxable year"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(f)(10)(A)In General\u2014No credit shall be allowed under subsection (a) for any taxable year if\u2014I.R.C. \u00a7 30D(f)(10)(A)(i)\u2014the lesser of\u2014I.R.C. \u00a7 30D(f)(10)(A)(i)(I)\u2014the modified adjusted gross income of the taxpayer for such taxable year, orI.R.C. \u00a7 30D(f)(10)(A)(i)(II)\u2014the modified adjusted gross income of the taxpayer for the preceding taxable year,\n                              exceedsI.R.C. \u00a7 30D(f)(10)(A)(ii)\u2014the threshold amount.",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(f)(10)(B)",
+    "source_subsections": [
+      "(f)(10)(B)",
+      "(f)(10)(B)(i)",
+      "(f)(10)(B)(ii)",
+      "(f)(10)(B)(iii)"
+    ],
+    "rule_type": "definition",
+    "title": "Amount",
+    "text": "For purposes of subparagraph (A)(ii), the threshold amount shall be\u2014\u2014in the case of a joint return or a surviving spouse (as defined in section2(a)), $300,000,\u2014in the case of a head of household (as defined in section2(b)), $225,000, and\u2014in the case of a taxpayer not described in clause (i) or (ii), $150,000.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 300000,
+        "text": "$300,000,"
+      },
+      {
+        "label": "amount",
+        "value": 225000,
+        "text": "$225,000,"
+      },
+      {
+        "label": "amount",
+        "value": 150000,
+        "text": "$150,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph (A)(ii), the threshold amount shall be\u2014\u2014in the case of a joint return or a surviving spouse (as defined in section2(a)), $300,000,\u2014in the case of a head of household (as defined in section2(b)), $225,000, and\u2014in the case of a taxpayer not described in clause (i) or (ii), $150,000."
+    },
+    "cross_references": [
+      {
+        "section": "2(a)",
+        "reason": "rviving spouse (as defined in..."
+      },
+      {
+        "section": "2(b)",
+        "reason": "d of household (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(f)(10)(B)Threshold Amount\u2014For purposes of subparagraph (A)(ii), the threshold amount shall be\u2014I.R.C. \u00a7 30D(f)(10)(B)(i)\u2014in the case of a joint return or a surviving spouse (as defined in section2(a)), $300,000,I.R.C. \u00a7 30D(f)(10)(B)(ii)\u2014in the case of a head of household (as defined in section2(b)), $225,000, andI.R.C. \u00a7 30D(f)(10)(B)(iii)\u2014in the case of a taxpayer not described in clause (i) or (ii), $150,000.",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(f)(10)(C)",
+    "source_subsections": [
+      "(f)(10)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "Adjusted Gross Income",
+    "text": "For purposes of this paragraph, the term \u201cmodified adjusted gross income\u201d means adjusted gross income increased by any amount excluded from gross income under section911,931, or933.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the term \u201cmodified adjusted gross income\u201d means adjusted gross income increased by any amount excluded from gross income under section911,931, or933."
+    },
+    "cross_references": [
+      {
+        "section": "911",
+        "reason": "luded from gross income under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(f)(10)(C)Modified Adjusted Gross Income\u2014For purposes of this paragraph, the term \u201cmodified adjusted gross income\u201d means adjusted\n                        gross income increased by any amount excluded from gross income under section911,931, or933.",
+    "definitions": {
+      "term": "modified adjusted gross income",
+      "requirements": [
+        "adjusted gross income increased by any amount excluded from gross income under section911,931, or933."
+      ]
+    }
+  },
+  {
+    "section": "30D",
+    "subsection": "(f)(11)(A)",
+    "source_subsections": [
+      "(f)(11)(A)"
+    ],
+    "rule_type": "limitation",
+    "title": "General",
+    "text": "No credit shall be allowed under subsection (a) for a vehicle with a manufacturer's suggested retail price in excess of the applicable limitation.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be allowed under subsection (a) for a vehicle with a manufacturer's suggested retail price in excess of the applicable limitation."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(f)(11)(A)In General\u2014No credit shall be allowed under subsection (a) for a vehicle with a manufacturer's\n                        suggested retail price in excess of the applicable limitation.",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(f)(11)(B)(i)",
+    "source_subsections": [
+      "(f)(11)(B)(i)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "In the case of a van, $80,000.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 80000,
+        "text": "$80,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a van, $80,000."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(f)(11)(B)(i)Vans\u2014In the case of a van, $80,000.",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(f)(11)(B)(ii)",
+    "source_subsections": [
+      "(f)(11)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Utility Vehicles",
+    "text": "In the case of a sport utility vehicle, $80,000.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 80000,
+        "text": "$80,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a sport utility vehicle, $80,000."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(f)(11)(B)(ii)Sport Utility Vehicles\u2014In the case of a sport utility vehicle, $80,000.",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(f)(11)(B)(iii)",
+    "source_subsections": [
+      "(f)(11)(B)(iii)"
+    ],
+    "rule_type": "condition",
+    "title": "Trucks",
+    "text": "In the case of a pickup truck, $80,000.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 80000,
+        "text": "$80,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a pickup truck, $80,000."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(f)(11)(B)(iii)Pickup Trucks\u2014In the case of a pickup truck, $80,000.",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(f)(11)(B)(iv)",
+    "source_subsections": [
+      "(f)(11)(B)(iv)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "In the case of any other vehicle, $55,000.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 55000,
+        "text": "$55,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any other vehicle, $55,000."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(f)(11)(B)(iv)Other\u2014In the case of any other vehicle, $55,000.",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(f)(11)(C)",
+    "source_subsections": [
+      "(f)(11)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "and Guidance",
+    "text": "For purposes of this paragraph, the Secretary shall prescribe such regulations or other guidance as the Secretary determines necessary for determining vehicle classifications using criteria similar to that employed by the Environmental Protection Agency and the Department of the Energy to determine size and class of vehicles.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the Secretary shall prescribe such regulations or other guidance as the Secretary determines necessary for determining vehicle classifications using criteria similar to that employed by the Environmental Protection Agency and the Department of the Energy to determine size and class of vehicles."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(f)(11)(C)Regulations and Guidance\u2014For purposes of this paragraph, the Secretary shall prescribe such regulations or\n                        other guidance as the Secretary determines necessary for determining vehicle classifications\n                        using criteria similar to that employed by the Environmental Protection Agency and\n                        the Department of the Energy to determine size and class of vehicles.",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(f)(2)",
+    "source_subsections": [
+      "(f)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Double Benefit",
+    "text": "The amount of any deduction or other credit allowable under this chapter for a vehicle for which a credit is allowable under subsection (a) shall be reduced by the amount of credit allowed under such subsection for such vehicle (determined without regard to subsection (c)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of any deduction or other credit allowable under this chapter for a vehicle for which a credit is allowable under subsection (a) shall be reduced by the amount of credit allowed under such subsection for such vehicle (determined without regard to subsection (c))."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(f)(2)No Double Benefit\u2014The amount of any deduction or other credit allowable under this chapter for a vehicle\n                     for which a credit is allowable under subsection (a) shall be reduced by the amount\n                     of credit allowed under such subsection for such vehicle (determined without regard\n                     to subsection (c)).",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(f)(3)",
+    "source_subsections": [
+      "(f)(3)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "I",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "I"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(f)(3)[(3) Repealed.\u00a0Pub. L. 117\u2013169,\u00a0title I, \u00a713401(g)(2)(B)(i), Aug. 16, 2022,\u00a0136 Stat.\n                     1960\u00a0]\u2014I",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(f)(4)",
+    "source_subsections": [
+      "(f)(4)"
+    ],
+    "rule_type": "condition",
+    "title": "Used Outside United States Not Qualified",
+    "text": "No credit shall be allowable under subsection (a) with respect to any property referred to in section50(b)(1).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be allowable under subsection (a) with respect to any property referred to in section50(b)(1)."
+    },
+    "cross_references": [
+      {
+        "section": "50(b)(1)",
+        "reason": "o any property referred to in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(f)(4)Property Used Outside United States Not Qualified\u2014No credit shall be allowable under subsection (a) with respect to any property referred\n                     to in section50(b)(1).",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(f)(5)",
+    "source_subsections": [
+      "(f)(5)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The Secretary shall, by regulations, provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any property which ceases to be property eligible for such credit.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall, by regulations, provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any property which ceases to be property eligible for such credit."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(f)(5)Recapture\u2014The Secretary shall, by regulations, provide for recapturing the benefit of any credit\n                     allowable under subsection (a) with respect to any property which ceases to be property\n                     eligible for such credit.",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(f)(6)",
+    "source_subsections": [
+      "(f)(6)"
+    ],
+    "rule_type": "condition",
+    "title": "Not To Take Credit",
+    "text": "No credit shall be allowed under subsection (a) for any vehicle if the taxpayer elects to not have this section apply to such vehicle.",
+    "conditions": [
+      "the taxpayer elects to not have this section apply to such vehicle."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the taxpayer elects to not have this section apply to such vehicle."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be allowed under subsection (a) for any vehicle"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(f)(6)Election Not To Take Credit\u2014No credit shall be allowed under subsection (a) for any vehicle if the taxpayer elects\n                     to not have this section apply to such vehicle.",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(f)(7)",
+    "source_subsections": [
+      "(f)(7)",
+      "(f)(7)(A)",
+      "(f)(7)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "With Air Quality And Motor Vehicle Safety Standards",
+    "text": "A vehicle shall not be considered eligible for a credit under this section unless such vehicle is in compliance with\u2014\u2014the applicable provisions of the Clean Air Act for the applicable make and model year of the vehicle (or applicable air quality provisions of State law in the case of a State which has adopted such provision under a waiver under section 209(b) of the Clean Air Act), and\u2014the motor vehicle safety provisions of sections 30101 through 30169 of title 49, United States Code.",
+    "conditions": [
+      "such vehicle is in compliance with\u2014\u2014the applicable provisions of the Clean Air Act for the applicable make and model year of the vehicle (or applicable air quality provisions of State law in the case of a State which has adopted such provision under a waiver under section 209(b) of the Clean Air Act), and\u2014the motor vehicle safety provisions of sections 30101 through 30169 of title 49, United States Code."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "such vehicle is in compliance with\u2014\u2014the applicable provisions of the Clean Air Act for the applicable make and model year of the vehicle (or applicable air quality provisions of State law in the case of a State which has adopted such provision under a waiver under section 209(b) of the Clean Air Act), and\u2014the motor vehicle safety provisions of sections 30101 through 30169 of title 49, United States Code."
+      ],
+      "except": [],
+      "result": "A vehicle shall not be considered eligible for a credit under this section"
+    },
+    "cross_references": [
+      {
+        "section": "209(b)",
+        "reason": "rovision under a waiver under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(f)(7)Interaction With Air Quality And Motor Vehicle Safety Standards\u2014A vehicle shall not be considered eligible for a credit under this section unless\n                     such vehicle is in compliance with\u2014I.R.C. \u00a7 30D(f)(7)(A)\u2014the applicable provisions of the Clean Air Act for the applicable make and model year\n                        of the vehicle (or applicable air quality provisions of State law in the case of a\n                        State which has adopted such provision under a waiver under section 209(b) of the\n                        Clean Air Act), andI.R.C. \u00a7 30D(f)(7)(B)\u2014the motor vehicle safety provisions of sections 30101 through 30169 of title 49, United\n                        States Code.",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(f)(8)",
+    "source_subsections": [
+      "(f)(8)"
+    ],
+    "rule_type": "condition",
+    "title": "Credit Per Vehicle",
+    "text": "In the case of any vehicle, the credit described in subsection (a) shall only be allowed once with respect to such vehicle, as determined based upon the vehicle identification number of such vehicle, including any vehicle with respect to which the taxpayer elects the application of subsection (g).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any vehicle, the credit described in subsection (a) shall only be allowed once with respect to such vehicle, as determined based upon the vehicle identification number of such vehicle, including any vehicle with respect to which the taxpayer elects the application of subsection (g)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(f)(8)One Credit Per Vehicle\u2014In the case of any vehicle, the credit described in subsection (a) shall only be allowed\n                     once with respect to such vehicle, as determined based upon the vehicle identification\n                     number of such vehicle, including any vehicle with respect to which the taxpayer elects\n                     the application of subsection (g).",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(f)(9)",
+    "source_subsections": [
+      "(f)(9)"
+    ],
+    "rule_type": "condition",
+    "title": "Requirement",
+    "text": "No credit shall be allowed under this section with respect to any vehicle unless the taxpayer includes the vehicle identification number of such vehicle on the return of tax for the taxable year.",
+    "conditions": [
+      "the taxpayer includes the vehicle identification number of such vehicle on the return of tax for the taxable year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "the taxpayer includes the vehicle identification number of such vehicle on the return of tax for the taxable year."
+      ],
+      "except": [],
+      "result": "No credit shall be allowed under this section with respect to any vehicle"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(f)(9)VIN Requirement\u2014No credit shall be allowed under this section with respect to any vehicle unless the\n                     taxpayer includes the vehicle identification number of such vehicle on the return\n                     of tax for the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(g)(1)",
+    "source_subsections": [
+      "(g)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Subject to such regulations or other guidance as the Secretary determines necessary, if the taxpayer who acquires a new clean vehicle elects the application of this subsection with respect to such vehicle, the credit which would (but for this subsection) be allowed to such taxpayer with respect to such vehicle shall be allowed to the eligible entity specified in such election (and not to such taxpayer).",
+    "conditions": [
+      "the taxpayer who acquires a new clean vehicle elects the application of this subsection with respect to such vehicle, the credit which would (but for this subsection) be allowed to such taxpayer with respect to such vehicle shall be allowed to the eligible entity specified in such election (and not to such taxpayer)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the taxpayer who acquires a new clean vehicle elects the application of this subsection with respect to such vehicle, the credit which would (but for this subsection) be allowed to such taxpayer with respect to such vehicle shall be allowed to the eligible entity specified in such election (and not to such taxpayer)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Subject to such regulations or other guidance as the Secretary determines necessary,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(g)(1)In General\u2014Subject to such regulations or other guidance as the Secretary determines necessary,\n                     if the taxpayer who acquires a new clean vehicle elects the application of this subsection\n                     with respect to such vehicle, the credit which would (but for this subsection) be\n                     allowed to such taxpayer with respect to such vehicle shall be allowed to the eligible\n                     entity specified in such election (and not to such taxpayer).",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(g)(10)",
+    "source_subsections": [
+      "(g)(10)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "In the case of any taxpayer who has made an election described in paragraph (1) with respect to a new clean vehicle and received a payment described in paragraph (2)(C) from an eligible entity, if the credit under subsection (a) would otherwise (but for this subsection) not be allowable to such taxpayer pursuant to the application of subsection (f)(10), the tax imposed on such taxpayer under this chapter for the taxable year in which such vehicle was placed in service shall be increased by the amount of the payment received by such taxpayer.",
+    "conditions": [
+      "the credit under subsection (a) would otherwise (but for this subsection) not be allowable to such taxpayer pursuant to the application of subsection (f)(10), the tax imposed on such taxpayer under this chapter for the taxable year in which such vehicle was placed in service shall be increased by the amount of the payment received by such taxpayer."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the credit under subsection (a) would otherwise (but for this subsection) not be allowable to such taxpayer pursuant to the application of subsection (f)(10), the tax imposed on such taxpayer under this chapter for the taxable year in which such vehicle was placed in service shall be increased by the amount of the payment received by such taxpayer."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any taxpayer who has made an election described in paragraph (1) with respect to a new clean vehicle and received a payment described in paragraph (2)(C) from an eligible entity,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(g)(10)Recapture\u2014In the case of any taxpayer who has made an election described in paragraph (1) with\n                     respect to a new clean vehicle and received a payment described in paragraph (2)(C)\n                     from an eligible entity, if the credit under subsection (a) would otherwise (but for\n                     this subsection) not be allowable to such taxpayer pursuant to the application of\n                     subsection (f)(10), the tax imposed on such taxpayer under this chapter for the taxable\n                     year in which such vehicle was placed in service shall be increased by the amount\n                     of the payment received by such taxpayer.",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(g)(2)",
+    "source_subsections": [
+      "(g)(2)",
+      "(g)(2)(A)",
+      "(g)(2)(B)",
+      "(g)(2)(B)(i)",
+      "(g)(2)(B)(ii)",
+      "(g)(2)(B)(iii)",
+      "(g)(2)(C)",
+      "(g)(2)(D)",
+      "(g)(2)(D)(i)",
+      "(g)(2)(D)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Entity",
+    "text": "For purposes of this subsection, the term \u201celigible entity\u201d means, with respect to the vehicle for which the credit is allowed under subsection (a), the dealer which sold such vehicle to the taxpayer and has\u2014\u2014subject to paragraph (4), registered with the Secretary for purposes of this paragraph, at such time, and in such form and manner, as the Secretary may prescribe,\u2014prior to the election described in paragraph (1) and not later than at the time of such sale, disclosed to the taxpayer purchasing such vehicle\u2014\u2014the manufacturer's suggested retail price,\u2014the value of the credit allowed and any other incentive available for the purchase of such vehicle, and\u2014the amount provided by the dealer to such taxpayer as a condition of the election described in paragraph (1),\u2014not later than at the time of such sale, made payment to such taxpayer (whether in cash or in the form of a partial payment or down payment for the purchase of such vehicle) in an amount equal to the credit otherwise allowable to such taxpayer, and\u2014with respect to any incentive otherwise available for the purchase of a vehicle for which a credit is allowed under this section, including any incentive in the form of a rebate or discount provided by the dealer or manufacturer, ensured that\u2014\u2014the availability or use of such incentive shall not limit the ability of a taxpayer to make an election described in paragraph (1), and\u2014such election shall not limit the value or use of such incentive.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection, the term \u201celigible entity\u201d means, with respect to the vehicle for which the credit is allowed under subsection (a), the dealer which sold such vehicle to the taxpayer and has\u2014\u2014subject to paragraph (4), registered with the Secretary for purposes of this paragraph, at such time, and in such form and manner, as the Secretary may prescribe,\u2014prior to the election described in paragraph (1) and not later than at the time of such sale, disclosed to the taxpayer purchasing such vehicle\u2014\u2014the manufacturer's suggested retail price,\u2014the value of the credit allowed and any other incentive available for the purchase of such vehicle, and\u2014the amount provided by the dealer to such taxpayer as a condition of the election described in paragraph (1),\u2014not later than at the time of such sale, made payment to such taxpayer (whether in cash or in the form of a partial payment or down payment for the purchase of such vehicle) in an amount equal to the credit otherwise allowable to such taxpayer, and\u2014with respect to any incentive otherwise available for the purchase of a vehicle for which a credit is allowed under this section, including any incentive in the form of a rebate or discount provided by the dealer or manufacturer, ensured that\u2014\u2014the availability or use of such incentive shall not limit the ability of a taxpayer to make an election described in paragraph (1), and\u2014such election shall not limit the value or use of such incentive."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(g)(2)Eligible Entity\u2014For purposes of this subsection, the term \u201celigible entity\u201d means, with respect to\n                     the vehicle for which the credit is allowed under subsection (a), the dealer which\n                     sold such vehicle to the taxpayer and has\u2014I.R.C. \u00a7 30D(g)(2)(A)\u2014subject to paragraph (4), registered with the Secretary for purposes of this paragraph,\n                        at such time, and in such form and manner, as the Secretary may prescribe,I.R.C. \u00a7 30D(g)(2)(B)\u2014prior to the election described in paragraph (1) and not later than at the time of\n                        such sale, disclosed to the taxpayer purchasing such vehicle\u2014I.R.C. \u00a7 30D(g)(2)(B)(i)\u2014the manufacturer's suggested retail price,I.R.C. \u00a7 30D(g)(2)(B)(ii)\u2014the value of the credit allowed and any other incentive available for the purchase\n                           of such vehicle, andI.R.C. \u00a7 30D(g)(2)(B)(iii)\u2014the amount provided by the dealer to such taxpayer as a condition of the election\n                           described in paragraph (1),I.R.C. \u00a7 30D(g)(2)(C)\u2014not later than at the time of such sale, made payment to such taxpayer (whether in\n                        cash or in the form of a partial payment or down payment for the purchase of such\n                        vehicle) in an amount equal to the credit otherwise allowable to such taxpayer, andI.R.C. \u00a7 30D(g)(2)(D)\u2014with respect to any incentive otherwise available for the purchase of a vehicle for\n                        which a credit is allowed under this section, including any incentive in the form\n                        of a rebate or discount provided by the dealer or manufacturer, ensured that\u2014I.R.C. \u00a7 30D(g)(2)(D)(i)\u2014the availability or use of such incentive shall not limit the ability of a taxpayer\n                           to make an election described in paragraph (1), andI.R.C. \u00a7 30D(g)(2)(D)(ii)\u2014such election shall not limit the value or use of such incentive.",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(g)(3)",
+    "source_subsections": [
+      "(g)(3)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "An election described in paragraph (1) shall be made by the taxpayer not later than the date on which the vehicle for which the credit is allowed under subsection (a) is purchased.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "An election described in paragraph (1) shall be made by the taxpayer not later than the date on which the vehicle for which the credit is allowed under subsection (a) is purchased."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(g)(3)Timing\u2014An election described in paragraph (1) shall be made by the taxpayer not later than\n                     the date on which the vehicle for which the credit is allowed under subsection (a)\n                     is purchased.",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(g)(4)",
+    "source_subsections": [
+      "(g)(4)"
+    ],
+    "rule_type": "condition",
+    "title": "of Registration",
+    "text": "Upon determination by the Secretary that a dealer has failed to comply with the requirements described in paragraph (2), the Secretary may revoke the registration (as described in subparagraph (A) of such paragraph) of such dealer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Upon determination by the Secretary that a dealer has failed to comply with the requirements described in paragraph (2), the Secretary may revoke the registration (as described in subparagraph (A) of such paragraph) of such dealer."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(g)(4)Revocation of Registration\u2014Upon determination by the Secretary that a dealer has failed to comply with the requirements\n                     described in paragraph (2), the Secretary may revoke the registration (as described\n                     in subparagraph (A) of such paragraph) of such dealer.",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(g)(5)",
+    "source_subsections": [
+      "(g)(5)",
+      "(g)(5)(A)",
+      "(g)(5)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Treatment of Payments",
+    "text": "With respect to any payment described in paragraph (2)(C), such payment\u2014\u2014shall not be includible in the gross income of the taxpayer, and\u2014with respect to the dealer, shall not be deductible under this title.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "With respect to any payment described in paragraph (2)(C), such payment\u2014\u2014shall not be includible in the gross income of the taxpayer, and\u2014with respect to the dealer, shall not be deductible under this title."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(g)(5)Tax Treatment of Payments\u2014With respect to any payment described in paragraph (2)(C), such payment\u2014I.R.C. \u00a7 30D(g)(5)(A)\u2014shall not be includible in the gross income of the taxpayer, andI.R.C. \u00a7 30D(g)(5)(B)\u2014with respect to the dealer, shall not be deductible under this title.",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(g)(6)",
+    "source_subsections": [
+      "(g)(6)",
+      "(g)(6)(A)",
+      "(g)(6)(B)",
+      "(g)(6)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "of Certain Other Requirements",
+    "text": "In the case of any election under paragraph (1) with respect to any vehicle\u2014\u2014the requirements of paragraphs (1) and (2) of subsection (f) shall apply to the taxpayer who acquired the vehicle in the same manner as if the credit determined under this section with respect to such vehicle were allowed to such taxpayer,\u2014paragraph (6) of such subsection shall not apply, and\u2014the requirement of paragraph (9) of such subsection (f) shall be treated as satisfied if the eligible entity provides the vehicle identification number of such vehicle to the Secretary in such manner as the Secretary may provide.",
+    "conditions": [
+      "the credit determined under this section with respect to such vehicle were allowed to such taxpayer,\u2014paragraph (6) of such subsection shall not apply, and\u2014the requirement of paragraph (9) of such subsection (f) shall be treated as satisfied",
+      "the eligible entity provides the vehicle identification number of such vehicle to the Secretary in such manner as the Secretary may provide."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the credit determined under this section with respect to such vehicle were allowed to such taxpayer,\u2014paragraph (6) of such subsection shall not apply, and\u2014the requirement of paragraph (9) of such subsection (f) shall be treated as satisfied",
+        "the eligible entity provides the vehicle identification number of such vehicle to the Secretary in such manner as the Secretary may provide."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any election under paragraph (1) with respect to any vehicle\u2014\u2014the requirements of paragraphs (1) and (2) of subsection (f) shall apply to the taxpayer who acquired the vehicle in the same manner as"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(g)(6)Application of Certain Other Requirements\u2014In the case of any election under paragraph (1) with respect to any vehicle\u2014I.R.C. \u00a7 30D(g)(6)(A)\u2014the requirements of paragraphs (1) and (2) of subsection (f) shall apply to the taxpayer\n                        who acquired the vehicle in the same manner as if the credit determined under this\n                        section with respect to such vehicle were allowed to such taxpayer,I.R.C. \u00a7 30D(g)(6)(B)\u2014paragraph (6) of such subsection shall not apply, andI.R.C. \u00a7 30D(g)(6)(C)\u2014the requirement of paragraph (9) of such subsection (f) shall be treated as satisfied\n                        if the eligible entity provides the vehicle identification number of such vehicle\n                        to the Secretary in such manner as the Secretary may provide.",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(g)(7)(A)",
+    "source_subsections": [
+      "(g)(7)(A)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "The Secretary shall establish a program to make advance payments to any eligible entity in an amount equal to the cumulative amount of the credits allowed under subsection (a) with respect to any vehicles sold by such entity for which an election described in paragraph (1) has been made.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall establish a program to make advance payments to any eligible entity in an amount equal to the cumulative amount of the credits allowed under subsection (a) with respect to any vehicles sold by such entity for which an election described in paragraph (1) has been made."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(g)(7)(A)In General\u2014The Secretary shall establish a program to make advance payments to any eligible entity\n                        in an amount equal to the cumulative amount of the credits allowed under subsection\n                        (a) with respect to any vehicles sold by such entity for which an election described\n                        in paragraph (1) has been made.",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(g)(7)(B)",
+    "source_subsections": [
+      "(g)(7)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Payments",
+    "text": "Rules similar to the rules of section6417(d)(6)shall apply for purposes of this paragraph.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules of section6417(d)(6)shall apply for purposes of this paragraph."
+    },
+    "cross_references": [
+      {
+        "section": "6417(d)(6)",
+        "reason": "Rules similar to the rules of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(g)(7)(B)Excessive Payments\u2014Rules similar to the rules of section6417(d)(6)shall apply for purposes of this paragraph.",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(g)(7)(C)",
+    "source_subsections": [
+      "(g)(7)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "of Advance Payments",
+    "text": "For purposes of section 1324 of title 31, United States Code, the payments under subparagraph (A) shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of section 1324 of title 31, United States Code, the payments under subparagraph (A) shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section."
+    },
+    "cross_references": [
+      {
+        "section": "1324",
+        "reason": "For purposes of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(g)(7)(C)Treatment of Advance Payments\u2014For purposes of section 1324 of title 31, United States Code, the payments under subparagraph\n                        (A) shall be treated in the same manner as a refund due from a credit provision referred\n                        to in subsection (b)(2) of such section.",
+    "definitions": null
+  },
+  {
+    "section": "30D",
+    "subsection": "(g)(8)",
+    "source_subsections": [
+      "(g)(8)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "For purposes of this subsection, the term \u201cdealer\u201d means a person licensed by a State, the District of Columbia, the Commonwealth of Puerto Rico, any other territory or possession of the United States, an Indian tribal government, or any Alaska Native Corporation (as defined in section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(m)) to engage in the sale of vehicles.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection, the term \u201cdealer\u201d means a person licensed by a State, the District of Columbia, the Commonwealth of Puerto Rico, any other territory or possession of the United States, an Indian tribal government, or any Alaska Native Corporation (as defined in section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(m)) to engage in the sale of vehicles."
+    },
+    "cross_references": [
+      {
+        "section": "3",
+        "reason": "ve Corporation (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(g)(8)Dealer\u2014For purposes of this subsection, the term \u201cdealer\u201d means a person licensed by a State,\n                     the District of Columbia, the Commonwealth of Puerto Rico, any other territory or\n                     possession of the United States, an Indian tribal government, or any Alaska Native\n                     Corporation (as defined in section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(m)) to engage in the sale of vehicles.",
+    "definitions": {
+      "term": "dealer",
+      "requirements": [
+        "a person licensed by a State, the District of Columbia, the Commonwealth of Puerto Rico, any other territory or possession of the United States, an Indian tribal government, or any Alaska Native Corporation (as defined in section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(m)) to engage in the sale of vehicles."
+      ]
+    }
+  },
+  {
+    "section": "30D",
+    "subsection": "(g)(9)",
+    "source_subsections": [
+      "(g)(9)"
+    ],
+    "rule_type": "definition",
+    "title": "Tribal Government",
+    "text": "For purposes of this subsection, the term \u201cIndian tribal government\u201d means the recognized governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, community, component band, or component reservation, individually identified (including parenthetically) in the list published most recently as of the date of enactment of this subsection pursuant to section 104 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 5131).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection, the term \u201cIndian tribal government\u201d means the recognized governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, community, component band, or component reservation, individually identified (including parenthetically) in the list published most recently as of the date of enactment of this subsection pursuant to section 104 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 5131)."
+    },
+    "cross_references": [
+      {
+        "section": "104",
+        "reason": "f this subsection pursuant to..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(g)(9)Indian Tribal Government\u2014For purposes of this subsection, the term \u201cIndian tribal government\u201d means the recognized\n                     governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village,\n                     community, component band, or component reservation, individually identified (including\n                     parenthetically) in the list published most recently as of the date of enactment of\n                     this subsection pursuant to section 104 of the Federally Recognized Indian Tribe List\n                     Act of 1994 (25 U.S.C. 5131).",
+    "definitions": {
+      "term": "Indian tribal government",
+      "requirements": [
+        "the recognized governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, community, component band, or component reservation, individually identified (including parenthetically) in the list published most recently as of the date of enactment of this subsection pursuant to section 104 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 5131)."
+      ]
+    }
+  },
+  {
+    "section": "30D",
+    "subsection": "(h)",
+    "source_subsections": [
+      "(h)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "No credit shall be allowed under this section with respect to any vehicle acquired after September 30, 2025.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be allowed under this section with respect to any vehicle acquired after September 30, 2025."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30D(h)Termination\u2014No credit shall be allowed under this section with respect to any vehicle acquired\n                  after September 30, 2025.",
+    "definitions": null
+  }
+]

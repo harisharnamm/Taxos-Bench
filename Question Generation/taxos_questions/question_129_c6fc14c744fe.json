@@ -1,0 +1,22 @@
+{
+  "id": "c6fc14c744fe",
+  "section": "129",
+  "citation": "I.R.C. \u00a7 129(d)(4)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 129(d)(4) is discussed as follows: 'I.R.C. \u00a7 129(d)(4)Principal Shareholders Or Owners\u2014Not  more than 25 percent of the amounts paid or ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 129(d)(4)?",
+  "difficulty": 1,
+  "choices": [
+    "5.0%",
+    "7.5%",
+    "0.0%",
+    "95.0%",
+    "15.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 5.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 129(d)(4)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "1d5b10d8fe12",
+  "section": "45X",
+  "citation": "I.R.C. \u00a7 45X(c)(6)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 45X(c)(6) is discussed as follows: 'I.R.C. \u00a7 45X(c)(6)Applicable Critical Minerals\u2014The term \u201capplicable critical mineral\u201d means any of t...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 45X(c)(6)?",
+  "difficulty": 1,
+  "choices": [
+    "107.0%",
+    "87.0%",
+    "97.0%",
+    "3.0%",
+    "145.5%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 97.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 45X(c)(6)"
+  ]
+}

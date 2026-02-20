@@ -1,0 +1,22 @@
+{
+  "id": "1fd463dc5053",
+  "section": "970",
+  "citation": "I.R.C. \u00a7 970(a)(1)(B)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 970(a)(1)(B) is discussed as follows: 'I.R.C. \u00a7 970(a)(1)(B)\u2014an amount equal to 10 percent of so much of the gross  receipts for such year ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 970(a)(1)(B)?",
+  "difficulty": 1,
+  "choices": [
+    "90.0%",
+    "10.0%",
+    "15.0%",
+    "20.0%",
+    "0.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 10.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 970(a)(1)(B)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "c6f682cc92bd",
+  "section": "535",
+  "citation": "I.R.C. \u00a7 535(c)(2)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 535(c)(2) is discussed as follows: 'I.R.C. \u00a7 535(c)(2)Minimum CreditI.R.C. \u00a7 535(c)(2)(A)In General\u2014The  credit allowable under paragrap...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 535(c)(2)?",
+  "difficulty": 1,
+  "choices": [
+    "$135,000.00",
+    "$75,000.00",
+    "$150,000.00",
+    "$165,000.00",
+    "$300,000.00"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies $150,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 535(c)(2)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "61b747f63fee",
+  "section": "221",
+  "citation": "I.R.C. \u00a7 221(b)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 221(b) is discussed as follows: 'I.R.C. \u00a7 221(b)Maximum DeductionI.R.C. \u00a7 221(b)(1)In General\u2014Except as provided in paragraph(2), the...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 221(b)?",
+  "difficulty": 1,
+  "choices": [
+    "$15,000.00",
+    "$13,500.00",
+    "$16,500.00",
+    "$30,000.00",
+    "$7,500.00"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies $15,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 221(b)"
+  ]
+}

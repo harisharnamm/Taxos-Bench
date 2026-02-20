@@ -1,0 +1,21 @@
+{
+  "id": "3eb244e1ea70",
+  "section": "923",
+  "citation": "I.R.C. \u00a7 923(a)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 923(a) is discussed as follows: 'I.R.C. \u00a7 923(a)Exempt Foreign Trade Income [Repealed]\u2014For  purposes of this subpart\u2014I.R.C. \u00a7 923(a)(...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 923(a)?",
+  "difficulty": 1,
+  "choices": [
+    "40.0%",
+    "50.0%",
+    "60.0%",
+    "75.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 923(a)"
+  ]
+}

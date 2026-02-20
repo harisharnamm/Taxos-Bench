@@ -1,0 +1,22 @@
+{
+  "id": "48f686669825",
+  "section": "45",
+  "citation": "I.R.C. \u00a7 45(b)(11)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 45(b)(11) is discussed as follows: 'I.R.C. \u00a7 45(b)(11)Special Rule For Qualified Facility Located In Energy Community\u2014I.R.C. \u00a7 45(b)(11)...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 45(b)(11)?",
+  "difficulty": 1,
+  "choices": [
+    "99.8%",
+    "10.2%",
+    "0.0%",
+    "0.2%",
+    "0.3%"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies 0.17%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 45(b)(11)"
+  ]
+}

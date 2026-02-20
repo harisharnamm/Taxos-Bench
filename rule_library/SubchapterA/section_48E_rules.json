@@ -1,0 +1,1917 @@
+[
+  {
+    "section": "48E",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)",
+      "(a)(1)(A)",
+      "(a)(1)(B)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "For purposes ofsection 46, the clean electricity investment credit for any taxable year is an amount equal to the applicable percentage of the qualified investment for such taxable year with respect to\u2014\u2014any qualified facility, and\u2014any energy storage technology.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes ofsection 46, the clean electricity investment credit for any taxable year is an amount equal to the applicable percentage of the qualified investment for such taxable year with respect to\u2014\u2014any qualified facility, and\u2014any energy storage technology."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(a)(1)In General\u2014For purposes ofsection 46, the clean electricity investment credit for any taxable year is an amount equal\n                     to the applicable percentage of the qualified investment for such taxable year with\n                     respect to\u2014I.R.C. \u00a7 48E(a)(1)(A)\u2014any qualified facility, andI.R.C. \u00a7 48E(a)(1)(B)\u2014any energy storage technology.",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(a)(2)(A)(i)",
+    "source_subsections": [
+      "(a)(2)(A)(i)"
+    ],
+    "rule_type": "computation",
+    "title": "Rate",
+    "text": "In the case of any qualified facility which is not described in subclause (I) or (II) of clause (ii) and does not satisfy the requirements described in subclause (III) of such clause, the applicable percentage shall be 6 percent.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.06,
+        "text": "6 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any qualified facility which is not described in subclause (I) or (II) of clause (ii) and does not satisfy the requirements described in subclause (III) of such clause, the applicable percentage shall be 6 percent."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(a)(2)(A)(i)Base Rate\u2014In the case of any qualified facility which is not described in subclause (I) or (II)\n                           of clause (ii) and does not satisfy the requirements described in subclause (III)\n                           of such clause, the applicable percentage shall be 6 percent.",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(a)(2)(A)(ii)",
+    "source_subsections": [
+      "(a)(2)(A)(ii)",
+      "(a)(2)(A)(ii)(I)",
+      "(a)(2)(A)(ii)(II)",
+      "(a)(2)(A)(ii)(III)",
+      "(a)(2)(A)(ii)(III)(aa)",
+      "(a)(2)(A)(ii)(III)(bb)"
+    ],
+    "rule_type": "limitation",
+    "title": "Rate",
+    "text": "In the case of any qualified facility\u2014\u2014with a maximum net output of less than 1 megawatt (as measured in alternating current),\u2014the construction of which begins prior to the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (3) and (4) of subsection (d), or\u2014which\u2014\u2014satisfies the requirements of subsection (d)(3), and\u2014with respect to the construction of such facility, satisfies the requirements of subsection (d)(4),the applicable percentage shall be 30 percent.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.3,
+        "text": "30 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any qualified facility\u2014\u2014with a maximum net output of less than 1 megawatt (as measured in alternating current),\u2014the construction of which begins prior to the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (3) and (4) of subsection (d), or\u2014which\u2014\u2014satisfies the requirements of subsection (d)(3), and\u2014with respect to the construction of such facility, satisfies the requirements of subsection (d)(4),the applicable percentage shall be 30 percent."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(a)(2)(A)(ii)Alternative Rate\u2014In the case of any qualified facility\u2014I.R.C. \u00a7 48E(a)(2)(A)(ii)(I)\u2014with a maximum net output of less than 1 megawatt (as measured in alternating current),I.R.C. \u00a7 48E(a)(2)(A)(ii)(II)\u2014the construction of which begins prior to the date that is 60 days after the Secretary\n                              publishes guidance with respect to the requirements of paragraphs (3) and (4) of subsection\n                              (d), orI.R.C. \u00a7 48E(a)(2)(A)(ii)(III)\u2014which\u2014I.R.C. \u00a7 48E(a)(2)(A)(ii)(III)(aa)\u2014satisfies the requirements of subsection (d)(3), andI.R.C. \u00a7 48E(a)(2)(A)(ii)(III)(bb)\u2014with respect to the construction of such facility, satisfies the requirements of subsection\n                                 (d)(4),the applicable percentage shall be 30 percent.",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(a)(2)(B)(i)",
+    "source_subsections": [
+      "(a)(2)(B)(i)"
+    ],
+    "rule_type": "computation",
+    "title": "Rate",
+    "text": "In the case of any energy storage technology which is not described in subclause (I) or (II) of clause (ii) and does not satisfy the requirements described in subclause (III) of such clause, the applicable percentage shall be 6 percent.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.06,
+        "text": "6 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any energy storage technology which is not described in subclause (I) or (II) of clause (ii) and does not satisfy the requirements described in subclause (III) of such clause, the applicable percentage shall be 6 percent."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(a)(2)(B)(i)Base Rate\u2014In the case of any energy storage\n                           technology which is not described in subclause (I) or (II) of clause\n                           (ii) and does not satisfy the requirements described in subclause\n                           (III) of such clause, the applicable percentage shall be 6 percent.",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(a)(2)(B)(ii)",
+    "source_subsections": [
+      "(a)(2)(B)(ii)",
+      "(a)(2)(B)(ii)(I)",
+      "(a)(2)(B)(ii)(II)",
+      "(a)(2)(B)(ii)(III)",
+      "(a)(2)(B)(ii)(III)(aa)",
+      "(a)(2)(B)(ii)(III)(bb)"
+    ],
+    "rule_type": "computation",
+    "title": "Rate",
+    "text": "In the case of any energy storage technology\u2014\u2014with a capacity of less than 1 megawatt,\u2014the construction of which begins prior to the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (3) and (4) of subsection (d), or\u2014which\u2014\u2014satisfies the requirements of subsection (d)(3), and\u2014with respect to the construction of such property, satisfies the requirements of subsection (d)(4),the applicable percentage shall be 30 percent.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.3,
+        "text": "30 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any energy storage technology\u2014\u2014with a capacity of less than 1 megawatt,\u2014the construction of which begins prior to the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (3) and (4) of subsection (d), or\u2014which\u2014\u2014satisfies the requirements of subsection (d)(3), and\u2014with respect to the construction of such property, satisfies the requirements of subsection (d)(4),the applicable percentage shall be 30 percent."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(a)(2)(B)(ii)Alternative Rate\u2014In the case of any energy storage\n                           technology\u2014I.R.C. \u00a7 48E(a)(2)(B)(ii)(I)\u2014with a capacity of less than 1 megawatt,I.R.C. \u00a7 48E(a)(2)(B)(ii)(II)\u2014the construction of which begins\n                              prior to the date that is 60 days after the Secretary publishes guidance\n                              with respect to the requirements of paragraphs (3) and (4) of subsection\n                              (d), orI.R.C. \u00a7 48E(a)(2)(B)(ii)(III)\u2014which\u2014I.R.C. \u00a7 48E(a)(2)(B)(ii)(III)(aa)\u2014satisfies the requirements of subsection (d)(3), andI.R.C. \u00a7 48E(a)(2)(B)(ii)(III)(bb)\u2014with respect to the construction of such property, satisfies the requirements of subsection\n                                 (d)(4),the applicable percentage shall be 30 percent.",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(a)(3)(A)(i)",
+    "source_subsections": [
+      "(a)(3)(A)(i)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "In the case of any qualified investment with respect to a qualified facility or with respect to energy storage technology which is placed in service within an energy community (as defined insection 45(b)(11)(B), as applied without regard to clause (iv) thereof), for purposes of applying paragraph (2) with respect to such property or investment, the applicable percentage shall be increased by the applicable credit rate increase.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any qualified investment with respect to a qualified facility or with respect to energy storage technology which is placed in service within an energy community (as defined insection 45(b)(11)(B), as applied without regard to clause (iv) thereof), for purposes of applying paragraph (2) with respect to such property or investment, the applicable percentage shall be increased by the applicable credit rate increase."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(a)(3)(A)(i)In General\u2014In the case of any qualified investment with respect to a qualified facility or with\n                           respect to energy storage technology which is placed in service within an energy community\n                           (as defined insection 45(b)(11)(B), as applied without regard to clause (iv) thereof), for purposes of applying paragraph\n                           (2) with respect to such property or investment, the applicable percentage shall be\n                           increased by the applicable credit rate increase.",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(a)(3)(A)(ii)",
+    "source_subsections": [
+      "(a)(3)(A)(ii)",
+      "(a)(3)(A)(ii)(I)",
+      "(a)(3)(A)(ii)(II)"
+    ],
+    "rule_type": "computation",
+    "title": "Credit Rate Increase",
+    "text": "For purposes of clause (i), the applicable credit rate increase shall be an amount equal to\u2014\u2014in the case of any qualified investment with respect to a qualified facility described in paragraph (2)(A)(i) or with respect to energy storage technology described in paragraph (2)(B)(i), 2 percentage points, and\u2014in the case of any qualified investment with respect to a qualified facility described in paragraph (2)(A)(ii) or with respect to energy storage technology described in paragraph (2)(B)(ii), 10 percentage points.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.02,
+        "text": "2 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.1,
+        "text": "10 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of clause (i), the applicable credit rate increase shall be an amount equal to\u2014\u2014in the case of any qualified investment with respect to a qualified facility described in paragraph (2)(A)(i) or with respect to energy storage technology described in paragraph (2)(B)(i), 2 percentage points, and\u2014in the case of any qualified investment with respect to a qualified facility described in paragraph (2)(A)(ii) or with respect to energy storage technology described in paragraph (2)(B)(ii), 10 percentage points."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(a)(3)(A)(ii)Applicable Credit Rate Increase\u2014For purposes of clause (i), the applicable credit rate increase shall be an amount\n                           equal to\u2014I.R.C. \u00a7 48E(a)(3)(A)(ii)(I)\u2014in the case of any qualified investment with respect to a qualified facility described\n                              in paragraph (2)(A)(i) or with respect to energy storage technology described in paragraph\n                              (2)(B)(i), 2 percentage points, andI.R.C. \u00a7 48E(a)(3)(A)(ii)(II)\u2014in the case of any qualified investment with respect to a qualified facility described\n                              in paragraph (2)(A)(ii) or with respect to energy storage technology described in\n                              paragraph (2)(B)(ii), 10 percentage points.",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(a)(3)(B)(i)",
+    "source_subsections": [
+      "(a)(3)(B)(i)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "In the case of any qualified investment with respect to any qualified facility or energy storage technology the construction of which begins before June 16, 2025, 40 percent (or, in the case of a qualified facility which is an offshore wind facility, 20 percent).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.4,
+        "text": "40 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.2,
+        "text": "20 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any qualified investment with respect to any qualified facility or energy storage technology the construction of which begins before June 16, 2025, 40 percent (or, in the case of a qualified facility which is an offshore wind facility, 20 percent)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(a)(3)(B)(i)\u2014In the case of any qualified investment with respect to any qualified facility or\n                           energy storage technology the construction of which begins before June 16, 2025, 40\n                           percent (or, in the case of a qualified facility which is an offshore wind facility,\n                           20 percent).",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(a)(3)(B)(ii)",
+    "source_subsections": [
+      "(a)(3)(B)(ii)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "In the case of any qualified investment with respect to any qualified facility or energy storage technology the construction of which begins on or after June 16, 2025, and before January 1, 2026, 45 percent (or, in the case of a qualified facility which is an offshore wind facility, 27.5 percent).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.45,
+        "text": "45 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.275,
+        "text": "27.5 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any qualified investment with respect to any qualified facility or energy storage technology the construction of which begins on or after June 16, 2025, and before January 1, 2026, 45 percent (or, in the case of a qualified facility which is an offshore wind facility, 27.5 percent)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(a)(3)(B)(ii)\u2014In the case of any qualified investment with respect to any qualified facility or\n                           energy storage technology the construction of which begins on or after June 16, 2025,\n                           and before January 1, 2026, 45 percent (or, in the case of a qualified facility which\n                           is an offshore wind facility, 27.5 percent).",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(a)(3)(B)(iii)",
+    "source_subsections": [
+      "(a)(3)(B)(iii)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "In the case of any qualified investment with respect to any qualified facility or energy storage technology the construction of which begins during calendar year 2026, 50 percent (or, in the case of a qualified facility which is an offshore wind facility, 35 percent).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.35,
+        "text": "35 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any qualified investment with respect to any qualified facility or energy storage technology the construction of which begins during calendar year 2026, 50 percent (or, in the case of a qualified facility which is an offshore wind facility, 35 percent)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(a)(3)(B)(iii)\u2014In the case of any qualified investment with respect to any qualified facility or\n                           energy storage technology the construction of which begins during calendar year 2026,\n                           50 percent (or, in the case of a qualified facility which is an offshore wind facility,\n                           35 percent).",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(a)(3)(B)(iv)",
+    "source_subsections": [
+      "(a)(3)(B)(iv)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "In the case of any qualified investment with respect to any qualified facility or energy storage technology the construction of which begins after December 31, 2026, 55 percent.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.55,
+        "text": "55 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any qualified investment with respect to any qualified facility or energy storage technology the construction of which begins after December 31, 2026, 55 percent."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(a)(3)(B)(iv)\u2014In the case of any qualified investment with respect to any qualified facility or\n                           energy storage technology the construction of which begins after December 31, 2026,\n                           55 percent.",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)",
+      "(b)(1)(A)",
+      "(b)(1)(B)",
+      "(b)(1)(B)(i)",
+      "(b)(1)(B)(i)(I)",
+      "(b)(1)(B)(i)(II)",
+      "(b)(1)(B)(ii)"
+    ],
+    "rule_type": "limitation",
+    "title": "General",
+    "text": "For purposes of subsection (a), the qualified investment with respect to any qualified facility for any taxable year is the sum of\u2014\u2014the basis of any qualified property placed in service by the taxpayer during such taxable year which is part of a qualified facility, plus\u2014the amount of any expenditures which are\u2014\u2014paid or incurred by the taxpayer for qualified interconnection property\u2014\u2014in connection with a qualified facility which has a maximum net output of not greater than 5 megawatts (as measured in alternating current), and\u2014placed in service during the taxable year of the taxpayer, and\u2014properly chargeable to capital account of the taxpayer.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subsection (a), the qualified investment with respect to any qualified facility for any taxable year is the sum of\u2014\u2014the basis of any qualified property placed in service by the taxpayer during such taxable year which is part of a qualified facility, plus\u2014the amount of any expenditures which are\u2014\u2014paid or incurred by the taxpayer for qualified interconnection property\u2014\u2014in connection with a qualified facility which has a maximum net output of not greater than 5 megawatts (as measured in alternating current), and\u2014placed in service during the taxable year of the taxpayer, and\u2014properly chargeable to capital account of the taxpayer."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(b)(1)In General\u2014For purposes of subsection (a), the qualified investment with respect to any qualified\n                     facility for any taxable year is the sum of\u2014I.R.C. \u00a7 48E(b)(1)(A)\u2014the basis of any qualified property placed in service by the taxpayer during such\n                        taxable year which is part of a qualified facility, plusI.R.C. \u00a7 48E(b)(1)(B)\u2014the amount of any expenditures which are\u2014I.R.C. \u00a7 48E(b)(1)(B)(i)\u2014paid or incurred by the taxpayer for qualified interconnection property\u2014I.R.C. \u00a7 48E(b)(1)(B)(i)(I)\u2014in connection with a qualified facility which has a maximum net output of not greater\n                              than 5 megawatts (as measured in alternating current), andI.R.C. \u00a7 48E(b)(1)(B)(i)(II)\u2014placed in service during the taxable year of the taxpayer, andI.R.C. \u00a7 48E(b)(1)(B)(ii)\u2014properly chargeable to capital account of the taxpayer.",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)",
+      "(b)(2)(A)",
+      "(b)(2)(A)(i)",
+      "(b)(2)(A)(ii)",
+      "(b)(2)(B)",
+      "(b)(2)(C)",
+      "(b)(2)(C)(i)",
+      "(b)(2)(C)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Property",
+    "text": "For purposes of this section, the term \u201cqualified property\u201d means property\u2014\u2014which is\u2014\u2014tangible personal property, or\u2014other tangible property (not including a building or its structural components), but only if such property is used as an integral part of the qualified facility,\u2014with respect to which depreciation (or amortization in lieu of depreciation) is allowable, and.R.C. \u00a7 48E(b)(2)(C)(i)\u2014the construction, reconstruction, or erection of which is completed by the taxpayer, or\u2014which is acquired by the taxpayer if the original use of such property commences with the taxpayer.",
+    "conditions": [
+      "such property is used as an integral part of the qualified facility,\u2014with respect to which depreciation (or amortization in lieu of depreciation) is allowable, and.R.C. \u00a7 48E(b)(2)(C)(i)\u2014the construction, reconstruction, or erection of which is completed by the taxpayer, or\u2014which is acquired by the taxpayer",
+      "the original use of such property commences with the taxpayer."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such property is used as an integral part of the qualified facility,\u2014with respect to which depreciation (or amortization in lieu of depreciation) is allowable, and.R.C. \u00a7 48E(b)(2)(C)(i)\u2014the construction, reconstruction, or erection of which is completed by the taxpayer, or\u2014which is acquired by the taxpayer",
+        "the original use of such property commences with the taxpayer."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u201cqualified property\u201d means property\u2014\u2014which is\u2014\u2014tangible personal property, or\u2014other tangible property (not including a building or its structural components), but only"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(b)(2)Qualified Property\u2014For purposes of this section, the term \u201cqualified property\u201d means property\u2014I.R.C. \u00a7 48E(b)(2)(A)\u2014which is\u2014I.R.C. \u00a7 48E(b)(2)(A)(i)\u2014tangible personal property, orI.R.C. \u00a7 48E(b)(2)(A)(ii)\u2014other tangible property (not including a building or its structural components), but\n                           only if such property is used as an integral part of the qualified facility,I.R.C. \u00a7 48E(b)(2)(B)\u2014with respect to which depreciation (or amortization in lieu of depreciation) is allowable,\n                        andI.R.C. \u00a7 48E(b)(2)(C)I.R.C. \u00a7 48E(b)(2)(C)(i)\u2014the construction, reconstruction, or erection of which is completed by the taxpayer,\n                           orI.R.C. \u00a7 48E(b)(2)(C)(ii)\u2014which is acquired by the taxpayer if the original use of such property commences with\n                           the taxpayer.",
+    "definitions": {
+      "term": "qualified property",
+      "requirements": [
+        "property\u2014\u2014which is\u2014\u2014tangible personal property, or\u2014other tangible property (not including a building or its structural components), but only if such property is used as an integral part of the qualified facility,\u2014with respect to which depreciation (or amortization in lieu of depreciation) is allowable, and.R.C. \u00a7 48E(b)(2)(C)(i)\u2014the construction, reconstruction, or erection of which is completed by the taxpayer, or\u2014which is acquired by the taxpayer if the original use of such property commences with the taxpayer."
+      ]
+    }
+  },
+  {
+    "section": "48E",
+    "subsection": "(b)(3)(A)",
+    "source_subsections": [
+      "(b)(3)(A)",
+      "(b)(3)(A)(i)",
+      "(b)(3)(A)(ii)",
+      "(b)(3)(A)(iii)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "For purposes of this section, the term \u201cqualified facility\u201d means a facility\u2014\u2014which is used for the generation of electricity,\u2014which is placed in service after December 31, 2024, and\u2014for which the anticipated greenhouse gas emissions rate (as determined under subparagraph (B)(ii)) is not greater than zero.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u201cqualified facility\u201d means a facility\u2014\u2014which is used for the generation of electricity,\u2014which is placed in service after December 31, 2024, and\u2014for which the anticipated greenhouse gas emissions rate (as determined under subparagraph (B)(ii)) is not greater than zero."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(b)(3)(A)In General\u2014For purposes of this section, the term \u201cqualified facility\u201d means a facility\u2014I.R.C. \u00a7 48E(b)(3)(A)(i)\u2014which is used for the generation of electricity,I.R.C. \u00a7 48E(b)(3)(A)(ii)\u2014which is placed in service after December 31, 2024, andI.R.C. \u00a7 48E(b)(3)(A)(iii)\u2014for which the anticipated greenhouse gas emissions rate (as determined under subparagraph\n                           (B)(ii)) is not greater than zero.",
+    "definitions": {
+      "term": "qualified facility",
+      "requirements": [
+        "a facility\u2014\u2014which is used for the generation of electricity,\u2014which is placed in service after December 31, 2024, and\u2014for which the anticipated greenhouse gas emissions rate (as determined under subparagraph (B)(ii)) is not greater than zero."
+      ]
+    }
+  },
+  {
+    "section": "48E",
+    "subsection": "(b)(3)(B)(i)",
+    "source_subsections": [
+      "(b)(3)(B)(i)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Facility; Incremental Production",
+    "text": "Rules similar to the rules ofsection 45Y(b)(1)(C)shall apply for purposes of this paragraph.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules ofsection 45Y(b)(1)(C)shall apply for purposes of this paragraph."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(b)(3)(B)(i)Expansion Of Facility; Incremental Production\u2014Rules similar to the rules ofsection 45Y(b)(1)(C)shall apply for purposes of this paragraph.",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(b)(3)(B)(ii)",
+    "source_subsections": [
+      "(b)(3)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Gas Emissions Rate",
+    "text": "Rules similar to the rules ofsection 45Y(b)(2)shall apply for purposes of this paragraph.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules ofsection 45Y(b)(2)shall apply for purposes of this paragraph."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(b)(3)(B)(ii)Greenhouse Gas Emissions Rate\u2014Rules similar to the rules ofsection 45Y(b)(2)shall apply for purposes of this paragraph.",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(b)(3)(C)",
+    "source_subsections": [
+      "(b)(3)(C)",
+      "(b)(3)(C)(i)",
+      "(b)(3)(C)(ii)",
+      "(b)(3)(C)(iii)",
+      "(b)(3)(C)(iv)",
+      "(b)(3)(C)(v)",
+      "(b)(3)(C)(vi)",
+      "(b)(3)(C)(vii)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "The term \u201cqualified facility\u201d shall not include any facility for which\u2014\u2014a renewable electricity production credit determined undersection 45,\u2014an advanced nuclear power facility production credit determined undersection 45J,\u2014a carbon oxide sequestration credit determined undersection 45Q,\u2014a zero-emission nuclear power production credit determined undersection 45U,\u2014a clean electricity production credit determined undersection 45Y,\u2014an energy credit determined undersection 48, or\u2014a qualifying advanced coal project credit undersection 48A,is allowed undersection 38for the taxable year or any prior taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified facility\u201d shall not include any facility for which\u2014\u2014a renewable electricity production credit determined undersection 45,\u2014an advanced nuclear power facility production credit determined undersection 45J,\u2014a carbon oxide sequestration credit determined undersection 45Q,\u2014a zero-emission nuclear power production credit determined undersection 45U,\u2014a clean electricity production credit determined undersection 45Y,\u2014an energy credit determined undersection 48, or\u2014a qualifying advanced coal project credit undersection 48A,is allowed undersection 38for the taxable year or any prior taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(b)(3)(C)Exclusion\u2014The term \u201cqualified facility\u201d shall not include any facility for which\u2014I.R.C. \u00a7 48E(b)(3)(C)(i)\u2014a renewable electricity production credit determined undersection 45,I.R.C. \u00a7 48E(b)(3)(C)(ii)\u2014an advanced nuclear power facility production credit determined undersection 45J,I.R.C. \u00a7 48E(b)(3)(C)(iii)\u2014a carbon oxide sequestration credit determined undersection 45Q,I.R.C. \u00a7 48E(b)(3)(C)(iv)\u2014a zero-emission nuclear power production credit determined undersection 45U,I.R.C. \u00a7 48E(b)(3)(C)(v)\u2014a clean electricity production credit determined undersection 45Y,I.R.C. \u00a7 48E(b)(3)(C)(vi)\u2014an energy credit determined undersection 48, orI.R.C. \u00a7 48E(b)(3)(C)(vii)\u2014a qualifying advanced coal project credit undersection 48A,is allowed undersection 38for the taxable year or any prior taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(b)(4)",
+    "source_subsections": [
+      "(b)(4)"
+    ],
+    "rule_type": "definition",
+    "title": "Interconnection Property",
+    "text": "For purposes of this paragraph, the term \u201cqualified interconnection property\u201d has the meaning given such term insection 48(a)(8)(B).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the term \u201cqualified interconnection property\u201d has the meaning given such term insection 48(a)(8)(B)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(b)(4)Qualified Interconnection Property\u2014For purposes of this paragraph, the term \u201cqualified interconnection property\u201d has\n                     the meaning given such term insection 48(a)(8)(B).",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(b)(5)",
+    "source_subsections": [
+      "(b)(5)"
+    ],
+    "rule_type": "definition",
+    "title": "With Rehabilitation Credit",
+    "text": "The qualified investment with respect to any qualified facility for any taxable year shall not include that portion of the basis of any property which is attributable to qualified rehabilitation expenditures (as defined insection 47(c)(2)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The qualified investment with respect to any qualified facility for any taxable year shall not include that portion of the basis of any property which is attributable to qualified rehabilitation expenditures (as defined insection 47(c)(2))."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(b)(5)Coordination With Rehabilitation Credit\u2014The qualified investment with respect to any qualified facility for any taxable year\n                     shall not include that portion of the basis of any property which is attributable\n                     to qualified rehabilitation expenditures (as defined insection 47(c)(2)).",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(b)(6)",
+    "source_subsections": [
+      "(b)(6)"
+    ],
+    "rule_type": "definition",
+    "title": "Assistance From Prohibited Foreign Entities",
+    "text": "The terms \u201cqualified facility\u201d and \u201cqualified interconnection property\u201d shall not include any facility or property the construction, reconstruction, or erection of which begins after December 31, 2025, if the construction, reconstruction, or erection of such facility or property includes any material assistance from a prohibited foreign entity (as defined in section7701(a)(52)).",
+    "conditions": [
+      "the construction, reconstruction, or erection of such facility or property includes any material assistance from a prohibited foreign entity (as defined in section7701(a)(52))."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the construction, reconstruction, or erection of such facility or property includes any material assistance from a prohibited foreign entity (as defined in section7701(a)(52))."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The terms \u201cqualified facility\u201d and \u201cqualified interconnection property\u201d shall not include any facility or property the construction, reconstruction, or erection of which begins after December 31, 2025,"
+    },
+    "cross_references": [
+      {
+        "section": "7701(a)(52)",
+        "reason": "foreign entity (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(b)(6)Material Assistance From Prohibited Foreign Entities\u2014The terms \u201cqualified facility\u201d and \u201cqualified interconnection property\u201d shall not\n                     include any facility or property the construction, reconstruction, or erection of\n                     which begins after December 31, 2025, if the construction, reconstruction, or erection\n                     of such facility or property includes any material assistance from a prohibited foreign\n                     entity (as defined in section7701(a)(52)).",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(b)(7)",
+    "source_subsections": [
+      "(b)(7)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "For purposes of this subsection, the terms \u201cCO2e per KWh\u201d and \u201cgreenhouse gas emissions rate\u201d have the same meaning given such terms undersection 45Y.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection, the terms \u201cCO2e per KWh\u201d and \u201cgreenhouse gas emissions rate\u201d have the same meaning given such terms undersection 45Y."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(b)(7)Definitions\u2014For purposes of this subsection, the terms \u201cCO2e per KWh\u201d and \u201cgreenhouse gas emissions rate\u201d have the same meaning given such terms\n                     undersection 45Y.",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "Investment",
+    "text": "For purposes of subsection (a), the qualified investment with respect to energy storage technology for any taxable year is the basis of any energy storage technology placed in service by the taxpayer during such taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subsection (a), the qualified investment with respect to energy storage technology for any taxable year is the basis of any energy storage technology placed in service by the taxpayer during such taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(c)(1)Qualified Investment\u2014For purposes of subsection (a), the qualified investment\n                     with respect to energy storage technology for any taxable year is\n                     the basis of any energy storage technology placed in service by the\n                     taxpayer during such taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(c)(2)",
+    "source_subsections": [
+      "(c)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Storage Technology",
+    "text": "For purposes of this section, the term \u201cenergy storage technology\u201d has the meaning given such term insection 48(c)(6)(except that subparagraph (D) of such section shall not apply).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "that subparagraph (D) of such section shall not apply)."
+      ],
+      "result": "For purposes of this section, the term \u201cenergy storage technology\u201d has the meaning given such term insection 48(c)(6)("
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(c)(2)Energy Storage Technology\u2014For purposes of this section, the term \u201cenergy\n                     storage technology\u201d has the meaning given such term insection 48(c)(6)(except that subparagraph\n                     (D) of such section shall not apply).",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(c)(3)",
+    "source_subsections": [
+      "(c)(3)"
+    ],
+    "rule_type": "definition",
+    "title": "Assistance From Prohibited Foreign Entities",
+    "text": "The term \u201cenergy storage technology\u201d shall not include any property the construction of which begins after December 31, 2025, if the construction of such property includes any material assistance from a prohibited foreign entity (as defined in section7701(a)(52)).",
+    "conditions": [
+      "the construction of such property includes any material assistance from a prohibited foreign entity (as defined in section7701(a)(52))."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the construction of such property includes any material assistance from a prohibited foreign entity (as defined in section7701(a)(52))."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cenergy storage technology\u201d shall not include any property the construction of which begins after December 31, 2025,"
+    },
+    "cross_references": [
+      {
+        "section": "7701(a)(52)",
+        "reason": "foreign entity (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(c)(3)Material Assistance From Prohibited Foreign Entities\u2014The term \u201cenergy storage technology\u201d shall not include any property the construction\n                     of which begins after December 31, 2025, if the construction of such property includes\n                     any material assistance from a prohibited foreign entity (as defined in section7701(a)(52)).",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "Progress Expenditure Rules Made Applicable",
+    "text": "Rules similar to the rules of subsections (c)(4) and (d) ofsection 46(as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply for purposes of subsection (a).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules of subsections (c)(4) and (d) ofsection 46(as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply for purposes of subsection (a)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(d)(1)Certain Progress Expenditure Rules Made Applicable\u2014Rules similar to the rules of subsections (c)(4) and\n                     (d) ofsection 46(as in effect\n                     on the day before the date of the enactment of the Revenue Reconciliation\n                     Act of 1990) shall apply for purposes of subsection (a).",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(d)(2)",
+    "source_subsections": [
+      "(d)(2)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Rules similar to the rules ofsection 45(b)(3)shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules ofsection 45(b)(3)shall apply."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(d)(2)Special Rule For Property Financed By Subsidized Energy Financing\n                     Or Private Activity Bonds\u2014Rules similar to the rules ofsection 45(b)(3)shall apply.",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(d)(3)",
+    "source_subsections": [
+      "(d)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Wage Requirements",
+    "text": "Rules similar to the rules ofsection 48(a)(10)shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules ofsection 48(a)(10)shall apply."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(d)(3)Prevailing Wage Requirements\u2014Rules similar to the rules ofsection 48(a)(10)shall apply.",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(d)(4)",
+    "source_subsections": [
+      "(d)(4)"
+    ],
+    "rule_type": "condition",
+    "title": "Requirements",
+    "text": "Rules similar to the rules ofsection 45(b)(8)shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules ofsection 45(b)(8)shall apply."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(d)(4)Apprenticeship Requirements\u2014Rules similar to the rules ofsection 45(b)(8)shall apply.",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(d)(5)",
+    "source_subsections": [
+      "(d)(5)"
+    ],
+    "rule_type": "condition",
+    "title": "Content Requirement For Elective Payment",
+    "text": "In the case of a taxpayer making an election undersection 6417with respect to a credit under this section, rules similar to the rules ofsection 45Y(g)(12)shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a taxpayer making an election undersection 6417with respect to a credit under this section, rules similar to the rules ofsection 45Y(g)(12)shall apply."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(d)(5)Domestic Content Requirement For Elective Payment\u2014In the case of a taxpayer making an election undersection 6417with respect to a credit\n                     under this section, rules similar to the rules ofsection 45Y(g)(12)shall apply.",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(d)(6)(A)",
+    "source_subsections": [
+      "(d)(6)(A)",
+      "(d)(6)(A)(i)",
+      "(d)(6)(A)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "No credit shall be determined under subsection (a) for any taxable year if the taxpayer is\u2014\u2014a specified foreign entity (as defined in section7701(a)(51)(B)), or\u2014a foreign-influenced entity (as defined in section7701(a)(51)(D), without regard to clause (i)(II) thereof).",
+    "conditions": [
+      "the taxpayer is\u2014\u2014a specified foreign entity (as defined in section7701(a)(51)(B)), or\u2014a foreign-influenced entity (as defined in section7701(a)(51)(D), without regard to clause (i)(II) thereof)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the taxpayer is\u2014\u2014a specified foreign entity (as defined in section7701(a)(51)(B)), or\u2014a foreign-influenced entity (as defined in section7701(a)(51)(D), without regard to clause (i)(II) thereof)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be determined under subsection (a) for any taxable year"
+    },
+    "cross_references": [
+      {
+        "section": "7701(a)(51)(B)",
+        "reason": "foreign entity (as defined in..."
+      },
+      {
+        "section": "7701(a)(51)(D)",
+        "reason": "luenced entity (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(d)(6)(A)In General\u2014No credit shall be determined under subsection (a) for any taxable year if the taxpayer\n                        is\u2014I.R.C. \u00a7 48E(d)(6)(A)(i)\u2014a specified foreign entity (as defined in section7701(a)(51)(B)), orI.R.C. \u00a7 48E(d)(6)(A)(ii)\u2014a foreign-influenced entity (as defined in section7701(a)(51)(D), without regard to clause (i)(II) thereof).",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(d)(6)(B)",
+    "source_subsections": [
+      "(d)(6)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Control",
+    "text": "In the case of a taxpayer for which section7701(a)(51)(D)(i)(II)is determined to apply for any taxable year, no credit shall be determined under subsection (a) for such taxable year if such determination relates to a qualified facility described in subsection (b)(3) or energy storage technology described in subsection (c)(2).",
+    "conditions": [
+      "such determination relates to a qualified facility described in subsection (b)(3) or energy storage technology described in subsection (c)(2)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such determination relates to a qualified facility described in subsection (b)(3) or energy storage technology described in subsection (c)(2)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a taxpayer for which section7701(a)(51)(D)(i)(II)is determined to apply for any taxable year, no credit shall be determined under subsection (a) for such taxable year"
+    },
+    "cross_references": [
+      {
+        "section": "7701(a)(51)(D)(i)(II)",
+        "reason": "case of a taxpayer for which..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(d)(6)(B)Effective Control\u2014In the case of a taxpayer for which section7701(a)(51)(D)(i)(II)is determined to apply for any taxable year, no credit shall be determined under\n                        subsection (a) for such taxable year if such determination relates to a qualified\n                        facility described in subsection (b)(3) or energy storage technology described in\n                        subsection (c)(2).",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(e)(1)",
+    "source_subsections": [
+      "(e)(1)",
+      "(e)(1)(A)",
+      "(e)(1)(B)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "Subject to paragraph (4), the amount of the clean electricity investment credit under subsection (a) for any qualified investment with respect to any qualified facility or energy storage technology the construction of which begins during a calendar year described in paragraph (2) shall be equal to the product of\u2014\u2014the amount of the credit determined under subsection (a) without regard to this subsection, multiplied by\u2014the phase-out percentage under paragraph (2).",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Subject to paragraph (4), the amount of the clean electricity investment credit under subsection (a) for any qualified investment with respect to any qualified facility or energy storage technology the construction of which begins during a calendar year described in paragraph (2) shall be equal to the product of\u2014\u2014the amount of the credit determined under subsection (a) without regard to this subsection, multiplied by\u2014the phase-out percentage under paragraph (2)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(e)(1)In General\u2014Subject to paragraph (4), the amount of the clean electricity investment credit under\n                     subsection (a) for any qualified investment with respect to any qualified facility\n                     or energy storage technology the construction of which begins during a calendar year\n                     described in paragraph (2) shall be equal to the product of\u2014I.R.C. \u00a7 48E(e)(1)(A)\u2014the amount of the credit determined under subsection (a) without regard to this subsection,\n                        multiplied byI.R.C. \u00a7 48E(e)(1)(B)\u2014the phase-out percentage under paragraph (2).",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(e)(2)",
+    "source_subsections": [
+      "(e)(2)",
+      "(e)(2)(A)",
+      "(e)(2)(B)",
+      "(e)(2)(C)",
+      "(e)(2)(D)"
+    ],
+    "rule_type": "computation",
+    "title": "Percentage",
+    "text": "The phase-out percentage under this paragraph is equal to\u2014\u2014for any qualified investment with respect to any qualified facility or energy storage technology the construction of which begins during the first calendar year following the applicable year, 100 percent,\u2014for any qualified investment with respect to any qualified facility or energy storage technology the construction of which begins during the second calendar year following the applicable year, 75 percent,\u2014for any qualified investment with respect to any qualified facility or energy storage technology the construction of which begins during the third calendar year following the applicable year, 50 percent, and\u2014for any qualified investment with respect to any qualified facility or energy storage technology the construction of which begins during any calendar year subsequent to the calendar year described in subparagraph (C), 0 percent.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 1.0,
+        "text": "100 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.75,
+        "text": "75 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.0,
+        "text": "0 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The phase-out percentage under this paragraph is equal to\u2014\u2014for any qualified investment with respect to any qualified facility or energy storage technology the construction of which begins during the first calendar year following the applicable year, 100 percent,\u2014for any qualified investment with respect to any qualified facility or energy storage technology the construction of which begins during the second calendar year following the applicable year, 75 percent,\u2014for any qualified investment with respect to any qualified facility or energy storage technology the construction of which begins during the third calendar year following the applicable year, 50 percent, and\u2014for any qualified investment with respect to any qualified facility or energy storage technology the construction of which begins during any calendar year subsequent to the calendar year described in subparagraph (C), 0 percent."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(e)(2)Phase-Out Percentage\u2014The phase-out percentage under this paragraph is equal to\u2014I.R.C. \u00a7 48E(e)(2)(A)\u2014for any qualified investment with respect to any qualified facility or energy storage\n                        technology the construction of which begins during the first calendar year following\n                        the applicable year, 100 percent,I.R.C. \u00a7 48E(e)(2)(B)\u2014for any qualified investment with respect to any qualified facility or energy storage\n                        technology the construction of which begins during the second calendar year following\n                        the applicable year, 75 percent,I.R.C. \u00a7 48E(e)(2)(C)\u2014for any qualified investment with respect to any qualified facility or energy storage\n                        technology the construction of which begins during the third calendar year following\n                        the applicable year, 50 percent, andI.R.C. \u00a7 48E(e)(2)(D)\u2014for any qualified investment with respect to any qualified facility or energy storage\n                        technology the construction of which begins during any calendar year subsequent to\n                        the calendar year described in subparagraph (C), 0 percent.",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(e)(3)",
+    "source_subsections": [
+      "(e)(3)"
+    ],
+    "rule_type": "definition",
+    "title": "Year",
+    "text": "For purposes of this subsection, the term \u201capplicable year\u201d has the same meaning given such term insection 45Y(d)(3).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection, the term \u201capplicable year\u201d has the same meaning given such term insection 45Y(d)(3)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(e)(3)Applicable Year\u2014For purposes of this subsection, the term \u201capplicable year\u201d has the same meaning given\n                     such term insection 45Y(d)(3).",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(e)(4)(A)",
+    "source_subsections": [
+      "(e)(4)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "This section shall not apply to any qualified property placed in service by the taxpayer after December 31, 2027, which is part of an applicable facility.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "This section shall not apply to any qualified property placed in service by the taxpayer after December 31, 2027, which is part of an applicable facility."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(e)(4)(A)In General\u2014This section shall not apply to any qualified property placed in service by the taxpayer\n                        after December 31, 2027, which is part of an applicable facility.",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(e)(4)(B)",
+    "source_subsections": [
+      "(e)(4)(B)",
+      "(e)(4)(B)(i)",
+      "(e)(4)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Facility",
+    "text": "For purposes of this paragraph, the term \u201capplicable facility\u201d means a qualified facility which\u2014\u2014uses wind to produce electricity (within the meaning of such term as used in section45(d)(1), as determined without regard to any requirement under such section with respect to the date on which construction of property begins), or\u2014uses solar energy to produce electricity (within the meaning of such term as used in section45(d)(4), as determined without regard to any requirement under such section with respect to the date on which construction of property begins).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the term \u201capplicable facility\u201d means a qualified facility which\u2014\u2014uses wind to produce electricity (within the meaning of such term as used in section45(d)(1), as determined without regard to any requirement under such section with respect to the date on which construction of property begins), or\u2014uses solar energy to produce electricity (within the meaning of such term as used in section45(d)(4), as determined without regard to any requirement under such section with respect to the date on which construction of property begins)."
+    },
+    "cross_references": [
+      {
+        "section": "45(d)(1)",
+        "reason": "aning of such term as used in..."
+      },
+      {
+        "section": "45(d)(4)",
+        "reason": "aning of such term as used in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(e)(4)(B)Applicable Facility\u2014For purposes of this paragraph, the term \u201capplicable facility\u201d means a qualified facility\n                        which\u2014I.R.C. \u00a7 48E(e)(4)(B)(i)\u2014uses wind to produce electricity (within the meaning of such term as used in section45(d)(1), as determined without regard to any requirement under such section with respect\n                           to the date on which construction of property begins), orI.R.C. \u00a7 48E(e)(4)(B)(ii)\u2014uses solar energy to produce electricity (within the meaning of such term as used\n                           in section45(d)(4), as determined without regard to any requirement under such section with respect\n                           to the date on which construction of property begins).",
+    "definitions": {
+      "term": "applicable facility",
+      "requirements": [
+        "a qualified facility which\u2014\u2014uses wind to produce electricity (within the meaning of such term as used in section45(d)(1), as determined without regard to any requirement under such section with respect to the date on which construction of property begins), or\u2014uses solar energy to produce electricity (within the meaning of such term as used in section45(d)(4), as determined without regard to any requirement under such section with respect to the date on which construction of property begins)."
+      ]
+    }
+  },
+  {
+    "section": "48E",
+    "subsection": "(e)(4)(C)",
+    "source_subsections": [
+      "(e)(4)(C)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "This paragraph shall not apply with respect to any energy storage technology which is placed in service at any applicable facility.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "This paragraph shall not apply with respect to any energy storage technology which is placed in service at any applicable facility."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(e)(4)(C)Exception\u2014This paragraph shall not apply with respect to any energy storage technology which\n                        is placed in service at any applicable facility.",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(f)",
+    "source_subsections": [
+      "(f)"
+    ],
+    "rule_type": "definition",
+    "title": "Gas",
+    "text": "In this section, the term \u201cgreenhouse gas\u201d has the same meaning given such term undersection 45Y(e)(2).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In this section, the term \u201cgreenhouse gas\u201d has the same meaning given such term undersection 45Y(e)(2)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(f)Greenhouse Gas\u2014In this section, the term \u201cgreenhouse gas\u201d\n                  has the same meaning given such term undersection 45Y(e)(2).",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(g)",
+    "source_subsections": [
+      "(g)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Credit",
+    "text": "For purposes ofsection 50, if the Secretary determines that the greenhouse gas emissions rate for a qualified facility is greater than 10 grams of CO2e per KWh, any property for which a credit was allowed under this section with respect to such facility shall cease to be investment credit property in the taxable year in which the determination is made.",
+    "conditions": [
+      "the Secretary determines that the greenhouse gas emissions rate for a qualified facility is greater than 10 grams of CO2e per KWh, any property for which a credit was allowed under this section with respect to such facility shall cease to be investment credit property in the taxable year in which the determination is made."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the Secretary determines that the greenhouse gas emissions rate for a qualified facility is greater than 10 grams of CO2e per KWh, any property for which a credit was allowed under this section with respect to such facility shall cease to be investment credit property in the taxable year in which the determination is made."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes ofsection 50,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(g)Recapture Of Credit\u2014For purposes ofsection 50,\n                  if the Secretary determines that the greenhouse gas emissions rate\n                  for a qualified facility is greater than 10 grams of CO2e\n                  per KWh, any property for which a credit was allowed under this section\n                  with respect to such facility shall cease to be investment credit\n                  property in the taxable year in which the determination is made.",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(h)(1)",
+    "source_subsections": [
+      "(h)(1)",
+      "(h)(1)(A)",
+      "(h)(1)(A)(i)",
+      "(h)(1)(A)(ii)",
+      "(h)(1)(B)",
+      "(h)(1)(B)(i)",
+      "(h)(1)(B)(ii)"
+    ],
+    "rule_type": "limitation",
+    "title": "General",
+    "text": "In the case of any applicable facility with respect to which the Secretary makes an allocation of environmental justice capacity limitation under paragraph (4)\u2014\u2014the applicable percentage otherwise determined under subsection (a)(2) with respect to any eligible property which is part of such facility shall be increased by\u2014\u2014in the case of a facility described in subclause (I) of paragraph (2)(A)(iii) and not described in subclause (II) of such paragraph, 10 percentage points, and\u2014in the case of a facility described in subclause (II) of paragraph (2)(A)(iii), 20 percentage points, and\u2014the increase in the credit determined under subsection (a) by reason of this subsection for any taxable year with respect to all property which is part of such facility shall not exceed the amount which bears the same ratio to the amount of such increase (determined without regard to this subparagraph) as\u2014\u2014the environmental justice capacity limitation allocated to such facility, bears to\u2014the total megawatt nameplate capacity of such facility, as measured in direct current.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.1,
+        "text": "10 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.2,
+        "text": "20 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any applicable facility with respect to which the Secretary makes an allocation of environmental justice capacity limitation under paragraph (4)\u2014\u2014the applicable percentage otherwise determined under subsection (a)(2) with respect to any eligible property which is part of such facility shall be increased by\u2014\u2014in the case of a facility described in subclause (I) of paragraph (2)(A)(iii) and not described in subclause (II) of such paragraph, 10 percentage points, and\u2014in the case of a facility described in subclause (II) of paragraph (2)(A)(iii), 20 percentage points, and\u2014the increase in the credit determined under subsection (a) by reason of this subsection for any taxable year with respect to all property which is part of such facility shall not exceed the amount which bears the same ratio to the amount of such increase (determined without regard to this subparagraph) as\u2014\u2014the environmental justice capacity limitation allocated to such facility, bears to\u2014the total megawatt nameplate capacity of such facility, as measured in direct current."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(h)(1)In General\u2014In the case of any applicable facility with respect to\n                     which the Secretary makes an allocation of environmental justice capacity\n                     limitation under paragraph (4)\u2014I.R.C. \u00a7 48E(h)(1)(A)\u2014the applicable percentage otherwise\n                        determined under subsection (a)(2) with respect to any eligible property\n                        which is part of such facility shall be increased by\u2014I.R.C. \u00a7 48E(h)(1)(A)(i)\u2014in the case of a facility described\n                           in subclause (I) of paragraph (2)(A)(iii) and not described in subclause\n                           (II) of such paragraph, 10 percentage points, andI.R.C. \u00a7 48E(h)(1)(A)(ii)\u2014in the case of a facility described\n                           in subclause (II) of paragraph (2)(A)(iii), 20 percentage points,\n                           andI.R.C. \u00a7 48E(h)(1)(B)\u2014the increase in the credit determined\n                        under subsection (a) by reason of this subsection for any taxable\n                        year with respect to all property which is part of such facility shall\n                        not exceed the amount which bears the same ratio to the amount of\n                        such increase (determined without regard to this subparagraph) as\u2014I.R.C. \u00a7 48E(h)(1)(B)(i)\u2014the environmental justice capacity\n                           limitation allocated to such facility, bears toI.R.C. \u00a7 48E(h)(1)(B)(ii)\u2014the total megawatt nameplate capacity\n                           of such facility, as measured in direct current.",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(h)(2)(A)",
+    "source_subsections": [
+      "(h)(2)(A)",
+      "(h)(2)(A)(i)",
+      "(h)(2)(A)(ii)",
+      "(h)(2)(A)(iii)",
+      "(h)(2)(A)(iii)(I)",
+      "(h)(2)(A)(iii)(II)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201capplicable facility\u201d means any qualified facility\u2014\u2014which is not described insection 45Y(b)(2)(B),\u2014which has a maximum net output of less than 5 megawatts (as measured in alternating current), and\u2014which\u2014\u2014is located in a low-income community (as defined insection 45D(e)) or on Indian land (as defined insection 2601(2)of the Energy Policy Act of 1992 (25 U.S.C. 3501(2))), or\u2014is part of a qualified low-income residential building project or a qualified low-income economic benefit project.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201capplicable facility\u201d means any qualified facility\u2014\u2014which is not described insection 45Y(b)(2)(B),\u2014which has a maximum net output of less than 5 megawatts (as measured in alternating current), and\u2014which\u2014\u2014is located in a low-income community (as defined insection 45D(e)) or on Indian land (as defined insection 2601(2)of the Energy Policy Act of 1992 (25 U.S.C. 3501(2))), or\u2014is part of a qualified low-income residential building project or a qualified low-income economic benefit project."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(h)(2)(A)In General\u2014The term \u201capplicable facility\u201d\n                        means any qualified facility\u2014I.R.C. \u00a7 48E(h)(2)(A)(i)\u2014which is not described insection 45Y(b)(2)(B),I.R.C. \u00a7 48E(h)(2)(A)(ii)\u2014which has a maximum net output of\n                           less than 5 megawatts (as measured in alternating current), andI.R.C. \u00a7 48E(h)(2)(A)(iii)\u2014which\u2014I.R.C. \u00a7 48E(h)(2)(A)(iii)(I)\u2014is located in a low-income community\n                              (as defined insection 45D(e))\n                              or on Indian land (as defined insection\n                                 2601(2)of the Energy Policy Act of 1992 (25 U.S.C. 3501(2))),\n                              orI.R.C. \u00a7 48E(h)(2)(A)(iii)(II)\u2014is part of a qualified low-income\n                              residential building project or a qualified low-income economic benefit\n                              project.",
+    "definitions": {
+      "term": "applicable facility",
+      "requirements": [
+        "any qualified facility\u2014\u2014which is not described insection 45Y(b)(2)(B),\u2014which has a maximum net output of less than 5 megawatts (as measured in alternating current), and\u2014which\u2014\u2014is located in a low-income community (as defined insection 45D(e)) or on Indian land (as defined insection 2601(2)of the Energy Policy Act of 1992 (25 U.S.C. 3501(2))), or\u2014is part of a qualified low-income residential building project or a qualified low-income economic benefit project."
+      ]
+    }
+  },
+  {
+    "section": "48E",
+    "subsection": "(h)(2)(B)",
+    "source_subsections": [
+      "(h)(2)(B)",
+      "(h)(2)(B)(i)",
+      "(h)(2)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Low",
+    "text": "Income Residential Building Project\u2014A facility shall be treated as part of a qualified low-income residential building project if\u2014\u2014such facility is installed on a residential rental building which participates in a covered housing program (as defined in section 41411(a) of the Violence Against Women Act of 1994 (34 U.S.C. 12491(a)(3)), a housing assistance program administered by the Department of Agriculture under title V of the Housing Act of 1949, a housing program administered by a tribally designated housing entity (as defined in section 4(22) of the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4103(22))) or such other affordable housing programs as the Secretary may provide, and\u2014the financial benefits of the electricity produced by such facility are allocated equitably among the occupants of the dwelling units of such building.",
+    "conditions": [
+      "\u2014\u2014such facility is installed on a residential rental building which participates in a covered housing program (as defined in section 41411(a) of the Violence Against Women Act of 1994 (34 U.S.C. 12491(a)(3)), a housing assistance program administered by the Department of Agriculture under title V of the Housing Act of 1949, a housing program administered by a tribally designated housing entity (as defined in section 4(22) of the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4103(22))) or such other affordable housing programs as the Secretary may provide, and\u2014the financial benefits of the electricity produced by such facility are allocated equitably among the occupants of the dwelling units of such building."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014such facility is installed on a residential rental building which participates in a covered housing program (as defined in section 41411(a) of the Violence Against Women Act of 1994 (34 U.S.C. 12491(a)(3)), a housing assistance program administered by the Department of Agriculture under title V of the Housing Act of 1949, a housing program administered by a tribally designated housing entity (as defined in section 4(22) of the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4103(22))) or such other affordable housing programs as the Secretary may provide, and\u2014the financial benefits of the electricity produced by such facility are allocated equitably among the occupants of the dwelling units of such building."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Income Residential Building Project\u2014A facility shall be treated as part of a qualified low-income residential building project"
+    },
+    "cross_references": [
+      {
+        "section": "41411(a)",
+        "reason": "ousing program (as defined in..."
+      },
+      {
+        "section": "4(22)",
+        "reason": "housing entity (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(h)(2)(B)Qualified Low-Income Residential Building Project\u2014A facility shall be treated as part\n                        of a qualified low-income residential building project if\u2014I.R.C. \u00a7 48E(h)(2)(B)(i)\u2014such facility is installed on a residential\n                           rental building which participates in a covered housing program (as\n                           defined in section 41411(a) of the Violence Against Women Act of 1994\n                           (34 U.S.C. 12491(a)(3)), a housing assistance program administered\n                           by the Department of Agriculture under title V of the Housing Act\n                           of 1949, a housing program administered by a tribally designated housing\n                           entity (as defined in section 4(22) of the Native American Housing\n                           Assistance and Self-Determination Act of 1996 (25 U.S.C. 4103(22)))\n                           or such other affordable housing programs as the Secretary may provide,\n                           andI.R.C. \u00a7 48E(h)(2)(B)(ii)\u2014the financial benefits of the electricity\n                           produced by such facility are allocated equitably among the occupants\n                           of the dwelling units of such building.",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(h)(2)(C)",
+    "source_subsections": [
+      "(h)(2)(C)",
+      "(h)(2)(C)(i)",
+      "(h)(2)(C)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Low",
+    "text": "Income Economic Benefit Project\u2014A facility shall be treated as part of a qualified low-income economic benefit project if at least 50 percent of the financial benefits of the electricity produced by such facility are provided to households with income of\u2014\u2014less than 200 percent of the poverty line (as defined insection 36B(d)(3)(A)) applicable to a family of the size involved, or\u2014less than 80 percent of area median gross income (as determined undersection 142(d)(2)(B)).",
+    "conditions": [
+      "at least 50 percent of the financial benefits of the electricity produced by such facility are provided to households with income of\u2014\u2014less than 200 percent of the poverty line (as defined insection 36B(d)(3)(A)) applicable to a family of the size involved, or\u2014less than 80 percent of area median gross income (as determined undersection 142(d)(2)(B))."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      },
+      {
+        "label": "rate",
+        "value": 2.0,
+        "text": "200 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.8,
+        "text": "80 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "at least 50 percent of the financial benefits of the electricity produced by such facility are provided to households with income of\u2014\u2014less than 200 percent of the poverty line (as defined insection 36B(d)(3)(A)) applicable to a family of the size involved, or\u2014less than 80 percent of area median gross income (as determined undersection 142(d)(2)(B))."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Income Economic Benefit Project\u2014A facility shall be treated as part of a qualified low-income economic benefit project"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(h)(2)(C)Qualified Low-Income Economic Benefit Project\u2014A facility shall be treated as part\n                        of a qualified low-income economic benefit project if at least 50\n                        percent of the financial benefits of the electricity produced by such\n                        facility are provided to households with income of\u2014I.R.C. \u00a7 48E(h)(2)(C)(i)\u2014less than 200 percent of the poverty\n                           line (as defined insection 36B(d)(3)(A))\n                           applicable to a family of the size involved, orI.R.C. \u00a7 48E(h)(2)(C)(ii)\u2014less than 80 percent of area median\n                           gross income (as determined undersection\n                              142(d)(2)(B)).",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(h)(2)(D)",
+    "source_subsections": [
+      "(h)(2)(D)"
+    ],
+    "rule_type": "condition",
+    "title": "Benefit",
+    "text": "For purposes of subparagraphs (B) and (C), electricity acquired at a below-market rate shall not fail to be taken into account as a financial benefit.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraphs (B) and (C), electricity acquired at a below-market rate shall not fail to be taken into account as a financial benefit."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(h)(2)(D)Financial Benefit\u2014For purposes of subparagraphs (B)\n                        and (C), electricity acquired at a below-market rate shall not fail\n                        to be taken into account as a financial benefit.",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(h)(3)",
+    "source_subsections": [
+      "(h)(3)"
+    ],
+    "rule_type": "definition",
+    "title": "Property",
+    "text": "For purposes of this subsection, the term \u201celigible property\u201d means a qualified investment with respect to any applicable facility.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection, the term \u201celigible property\u201d means a qualified investment with respect to any applicable facility."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(h)(3)Eligible Property\u2014For purposes of this subsection, the term \u201celigible\n                     property\u201d means a qualified investment with respect to any applicable\n                     facility.",
+    "definitions": {
+      "term": "eligible property",
+      "requirements": [
+        "a qualified investment with respect to any applicable facility."
+      ]
+    }
+  },
+  {
+    "section": "48E",
+    "subsection": "(h)(4)(A)",
+    "source_subsections": [
+      "(h)(4)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Not later than January 1, 2025, the Secretary shall establish a program to allocate amounts of environmental justice capacity limitation to applicable facilities. In establishing such program and to carry out the purposes of this subsection, the Secretary shall provide procedures to allow for an efficient allocation process, including, when determined appropriate, consideration of multiple projects in a single application if such projects will be placed in service by a single taxpayer.",
+    "conditions": [
+      "determined appropriate, consideration of multiple projects in a single application",
+      "such projects will be placed in service by a single taxpayer."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "determined appropriate, consideration of multiple projects in a single application",
+        "such projects will be placed in service by a single taxpayer."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Not later than January 1, 2025, the Secretary shall establish a program to allocate amounts of environmental justice capacity limitation to applicable facilities. In establishing such program and to carry out the purposes of this subsection, the Secretary shall provide procedures to allow for an efficient allocation process, including,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(h)(4)(A)In General\u2014Not later than January 1, 2025, the\n                        Secretary shall establish a program to allocate amounts of environmental\n                        justice capacity limitation to applicable facilities. In establishing\n                        such program and to carry out the purposes of this subsection, the\n                        Secretary shall provide procedures to allow for an efficient allocation\n                        process, including, when determined appropriate, consideration of\n                        multiple projects in a single application if such projects will be\n                        placed in service by a single taxpayer.",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(h)(4)(B)",
+    "source_subsections": [
+      "(h)(4)(B)"
+    ],
+    "rule_type": "limitation",
+    "title": null,
+    "text": "The amount of environmental justice capacity limitation allocated by the Secretary under subparagraph (A) during any calendar year shall not exceed the annual capacity limitation with respect to such year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of environmental justice capacity limitation allocated by the Secretary under subparagraph (A) during any calendar year shall not exceed the annual capacity limitation with respect to such year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(h)(4)(B)Limitation\u2014The amount of environmental justice\n                        capacity limitation allocated by the Secretary under subparagraph\n                        (A) during any calendar year shall not exceed the annual capacity\n                        limitation with respect to such year.",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(h)(4)(C)",
+    "source_subsections": [
+      "(h)(4)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "Capacity Limitation",
+    "text": "For purposes of this paragraph, the term \u201cannual capacity limitation\u201d means 1.8 gigawatts of direct current capacity for each calendar year during the period beginning on January 1, 2025, and ending on December 31 of the applicable year (as defined insection 45Y(d)(3)), and zero thereafter.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the term \u201cannual capacity limitation\u201d means 1.8 gigawatts of direct current capacity for each calendar year during the period beginning on January 1, 2025, and ending on December 31 of the applicable year (as defined insection 45Y(d)(3)), and zero thereafter."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(h)(4)(C)Annual Capacity Limitation\u2014For purposes of this paragraph, the\n                        term \u201cannual capacity limitation\u201d means 1.8 gigawatts\n                        of direct current capacity for each calendar year during the period\n                        beginning on January 1, 2025, and ending on December 31 of the applicable\n                        year (as defined insection 45Y(d)(3)),\n                        and zero thereafter.",
+    "definitions": {
+      "term": "annual capacity limitation",
+      "requirements": [
+        "1.8 gigawatts of direct current capacity for each calendar year during the period beginning on January 1, 2025, and ending on December 31 of the applicable year (as defined insection 45Y(d)(3)), and zero thereafter."
+      ]
+    }
+  },
+  {
+    "section": "48E",
+    "subsection": "(h)(4)(D)(i)",
+    "source_subsections": [
+      "(h)(4)(D)(i)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "If the annual capacity limitation for any calendar year exceeds the aggregate amount allocated for such year under this paragraph, such limitation for the succeeding calendar year shall be increased by the amount of such excess. No amount may be carried under the preceding sentence to any calendar year after the third calendar year following the applicable year (as defined insection 45Y(d)(3)).",
+    "conditions": [
+      "the annual capacity limitation for any calendar year exceeds the aggregate amount allocated for such year under this paragraph, such limitation for the succeeding calendar year shall be increased by the amount of such excess. No amount may be carried under the preceding sentence to any calendar year after the third calendar year following the applicable year (as defined insection 45Y(d)(3))."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the annual capacity limitation for any calendar year exceeds the aggregate amount allocated for such year under this paragraph, such limitation for the succeeding calendar year shall be increased by the amount of such excess. No amount may be carried under the preceding sentence to any calendar year after the third calendar year following the applicable year (as defined insection 45Y(d)(3))."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(h)(4)(D)(i)In General\u2014If the annual capacity limitation\n                           for any calendar year exceeds the aggregate amount allocated for such\n                           year under this paragraph, such limitation for the succeeding calendar\n                           year shall be increased by the amount of such excess. No amount may\n                           be carried under the preceding sentence to any calendar year after\n                           the third calendar year following the applicable year (as defined\n                           insection 45Y(d)(3)).",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(h)(4)(D)(ii)",
+    "source_subsections": [
+      "(h)(4)(D)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "From Section 48 For Calendar Year 2025",
+    "text": "If the annual capacity limitation for calendar year 2024 undersection 48(e)(4)(D)exceeds the aggregate amount allocated for such year under such section, such excess amount may be carried over and applied to the annual capacity limitation under this subsection for calendar year 2025. The annual capacity limitation for calendar year 2025 shall be increased by the amount of such excess.",
+    "conditions": [
+      "the annual capacity limitation for calendar year 2024 undersection 48(e)(4)(D)exceeds the aggregate amount allocated for such year under such section, such excess amount may be carried over and applied to the annual capacity limitation under this subsection for calendar year 2025. The annual capacity limitation for calendar year 2025 shall be increased by the amount of such excess."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the annual capacity limitation for calendar year 2024 undersection 48(e)(4)(D)exceeds the aggregate amount allocated for such year under such section, such excess amount may be carried over and applied to the annual capacity limitation under this subsection for calendar year 2025. The annual capacity limitation for calendar year 2025 shall be increased by the amount of such excess."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(h)(4)(D)(ii)Carryover From Section 48 For Calendar Year 2025\u2014If the annual capacity limitation\n                           for calendar year 2024 undersection\n                              48(e)(4)(D)exceeds the aggregate amount allocated for\n                           such year under such section, such excess amount may be carried over\n                           and applied to the annual capacity limitation under this subsection\n                           for calendar year 2025. The annual capacity limitation for calendar\n                           year 2025 shall be increased by the amount of such excess.",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(h)(4)(E)(i)",
+    "source_subsections": [
+      "(h)(4)(E)(i)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Paragraph (1) shall not apply with respect to any property which is placed in service after the date that is 4 years after the date of the allocation with respect to the facility of which such property is a part",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Paragraph (1) shall not apply with respect to any property which is placed in service after the date that is 4 years after the date of the allocation with respect to the facility of which such property is a part"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(h)(4)(E)(i)In General\u2014Paragraph (1) shall not apply with\n                           respect to any property which is placed in service after the date\n                           that is 4 years after the date of the allocation with respect to the\n                           facility of which such property is a part",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(h)(4)(E)(ii)",
+    "source_subsections": [
+      "(h)(4)(E)(ii)"
+    ],
+    "rule_type": "limitation",
+    "title": "Of Carryover",
+    "text": "Any amount of environmental justice capacity limitation which expires under clause (i) during any calendar year shall be taken into account as an excess described in subparagraph (D)(i) (or as an increase in such excess) for such calendar year, subject to the limitation imposed by the last sentence of such subparagraph.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Any amount of environmental justice capacity limitation which expires under clause (i) during any calendar year shall be taken into account as an excess described in subparagraph (D)(i) (or as an increase in such excess) for such calendar year, subject to the limitation imposed by the last sentence of such subparagraph."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(h)(4)(E)(ii)Application Of Carryover\u2014Any amount of environmental justice\n                           capacity limitation which expires under clause (i) during any calendar\n                           year shall be taken into account as an excess described in subparagraph\n                           (D)(i) (or as an increase in such excess) for such calendar year,\n                           subject to the limitation imposed by the last sentence of such subparagraph.",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(h)(5)",
+    "source_subsections": [
+      "(h)(5)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The Secretary shall, by regulations or other guidance, provide for recapturing the benefit of any increase in the credit allowed under subsection (a) by reason of this subsection with respect to any property which ceases to be property eligible for such increase (but which does not cease to be investment credit property within the meaning ofsection 50(a)). The period and percentage of such recapture shall be determined under rules similar to the rules ofsection 50(a). To the extent provided by the Secretary, such recapture may not apply with respect to any property if, within 12 months after the date the taxpayer becomes aware (or reasonably should have become aware) of such property ceasing to be property eligible for such increase, the eligibility of such property for such increase is restored. The preceding sentence shall not apply more than once with respect to any facility.",
+    "conditions": [
+      ", within 12 months after the date the taxpayer becomes aware (or reasonably should have become aware) of such property ceasing to be property eligible for such increase, the eligibility of such property for such increase is restored. The preceding sentence shall not apply more than once with respect to any facility."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        ", within 12 months after the date the taxpayer becomes aware (or reasonably should have become aware) of such property ceasing to be property eligible for such increase, the eligibility of such property for such increase is restored. The preceding sentence shall not apply more than once with respect to any facility."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall, by regulations or other guidance, provide for recapturing the benefit of any increase in the credit allowed under subsection (a) by reason of this subsection with respect to any property which ceases to be property eligible for such increase (but which does not cease to be investment credit property within the meaning ofsection 50(a)). The period and percentage of such recapture shall be determined under rules similar to the rules ofsection 50(a). To the extent provided by the Secretary, such recapture may not apply with respect to any property"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(h)(5)Recapture\u2014The Secretary shall, by regulations or other guidance,\n                     provide for recapturing the benefit of any increase in the credit\n                     allowed under subsection (a) by reason of this subsection with respect\n                     to any property which ceases to be property eligible for such increase\n                     (but which does not cease to be investment credit property within\n                     the meaning ofsection 50(a)).\n                     The period and percentage of such recapture shall be determined under\n                     rules similar to the rules ofsection\n                        50(a). To the extent provided by the Secretary, such recapture\n                     may not apply with respect to any property if, within 12 months after\n                     the date the taxpayer becomes aware (or reasonably should have become\n                     aware) of such property ceasing to be property eligible for such increase,\n                     the eligibility of such property for such increase is restored. The\n                     preceding sentence shall not apply more than once with respect to\n                     any facility.",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(i)",
+    "source_subsections": [
+      "(i)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Credit For Expenditures For Wind And Solar Leasing Arrangements",
+    "text": "No credit shall be determined under this section for any qualified investment during the taxable year with respect to property described in paragraph (1) or (4) of section25D(d)(as applied by substituting \u201clessee\u201d for \u201ctaxpayer\u201d) if the taxpayer rents or leases such property to a third party during such taxable year.",
+    "conditions": [
+      "the taxpayer rents or leases such property to a third party during such taxable year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the taxpayer rents or leases such property to a third party during such taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be determined under this section for any qualified investment during the taxable year with respect to property described in paragraph (1) or (4) of section25D(d)(as applied by substituting \u201clessee\u201d for \u201ctaxpayer\u201d)"
+    },
+    "cross_references": [
+      {
+        "section": "25D(d)",
+        "reason": "ed in paragraph (1) or (4) of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(i)Denial Of Credit For Expenditures For Wind And Solar Leasing Arrangements\u2014No credit shall be determined under this section for any qualified investment during\n                  the taxable year with respect to property described in paragraph (1) or (4) of section25D(d)(as applied by substituting \u201clessee\u201d for \u201ctaxpayer\u201d) if the taxpayer rents or leases\n                  such property to a third party during such taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(j)",
+    "source_subsections": [
+      "(j)",
+      "(j)(1)",
+      "(j)(2)",
+      "(j)(3)"
+    ],
+    "rule_type": "definition",
+    "title": "To Qualified Fuel Cell Property",
+    "text": "For purposes of this section, in the case of any qualified fuel cell property (as defined in section48(c)(1), as applied without regard to subparagraph (E) thereof)\u2014\u2014subsection (b)(3)(A) shall be applied without regard to clause (iii) thereof,\u2014for purposes of subsection (a)(1), the applicable percentage shall be 30 percent and such percentage shall not be increased or otherwise adjusted by any other provision of this section, and\u2014subsection (g) shall not apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.3,
+        "text": "30 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, in the case of any qualified fuel cell property (as defined in section48(c)(1), as applied without regard to subparagraph (E) thereof)\u2014\u2014subsection (b)(3)(A) shall be applied without regard to clause (iii) thereof,\u2014for purposes of subsection (a)(1), the applicable percentage shall be 30 percent and such percentage shall not be increased or otherwise adjusted by any other provision of this section, and\u2014subsection (g) shall not apply."
+    },
+    "cross_references": [
+      {
+        "section": "48(c)(1)",
+        "reason": "cell property (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(j)Application To Qualified Fuel Cell Property\u2014For purposes of this section, in the case of any qualified fuel cell property (as\n                  defined in section48(c)(1), as applied without regard to subparagraph (E) thereof)\u2014I.R.C. \u00a7 48E(j)(1)\u2014subsection (b)(3)(A) shall be applied without regard to clause (iii) thereof,I.R.C. \u00a7 48E(j)(2)\u2014for purposes of subsection (a)(1), the applicable percentage shall be 30 percent and\n                     such percentage shall not be increased or otherwise adjusted by any other provision\n                     of this section, andI.R.C. \u00a7 48E(j)(3)\u2014subsection (g) shall not apply.",
+    "definitions": null
+  },
+  {
+    "section": "48E",
+    "subsection": "(k)",
+    "source_subsections": [
+      "(k)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Not later than January 1, 2025, the Secretary shall issue guidance regarding implementation of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Not later than January 1, 2025, the Secretary shall issue guidance regarding implementation of this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48E(k)Guidance\u2014Not later than January 1, 2025, the Secretary shall issue guidance regarding implementation\n                  of this section.",
+    "definitions": null
+  }
+]

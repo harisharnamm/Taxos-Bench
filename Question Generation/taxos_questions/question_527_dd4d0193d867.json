@@ -1,0 +1,22 @@
+{
+  "id": "dd4d0193d867",
+  "section": "527",
+  "citation": "I.R.C. \u00a7 527(e)(5)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 527(e)(5) is discussed as follows: 'I.R.C. \u00a7 527(e)(5)Qualified State Or Local Political OrganizationI.R.C. \u00a7 527(e)(5)(A)In General\u2014The...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 527(e)(5)?",
+  "difficulty": 1,
+  "choices": [
+    "$150.00",
+    "$300.00",
+    "$330.00",
+    "$270.00",
+    "$600.00"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $300.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 527(e)(5)"
+  ]
+}

@@ -1,0 +1,1485 @@
+[
+  {
+    "section": "45D",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "For purposes of section 38, in the case of a taxpayer who holds a qualified equity investment on a credit allowance date of such investment which occurs during the taxable year, the new markets tax credit determined under this section for such taxable year is an amount equal to the applicable percentage of the amount paid to the qualified community development entity for such investment at its original issue.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of section 38, in the case of a taxpayer who holds a qualified equity investment on a credit allowance date of such investment which occurs during the taxable year, the new markets tax credit determined under this section for such taxable year is an amount equal to the applicable percentage of the amount paid to the qualified community development entity for such investment at its original issue."
+    },
+    "cross_references": [
+      {
+        "section": "38",
+        "reason": "For purposes of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(a)(1)In General\u2014For purposes of section 38, in the case of a taxpayer who holds a qualified equity\n                     investment on a credit allowance date of such investment which occurs during the taxable\n                     year, the new markets tax credit determined under this section for such taxable year\n                     is an amount equal to the applicable percentage of the amount paid to the qualified\n                     community development entity for such investment at its original issue.",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(a)(2)(A)",
+    "source_subsections": [
+      "(a)(2)(A)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "5 percent with respect to the first 3 credit allowance dates, and",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.05,
+        "text": "5 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "5 percent with respect to the first 3 credit allowance dates, and"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(a)(2)(A)\u20145 percent with respect to the first 3 credit allowance dates, and",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(a)(2)(B)",
+    "source_subsections": [
+      "(a)(2)(B)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "6 percent with respect to the remainder of the credit allowance dates.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.06,
+        "text": "6 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "6 percent with respect to the remainder of the credit allowance dates."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(a)(2)(B)\u20146 percent with respect to the remainder of the credit allowance dates.",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(a)(3)",
+    "source_subsections": [
+      "(a)(3)",
+      "(a)(3)(A)",
+      "(a)(3)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Allowance Date",
+    "text": "For purposes of paragraph (1), the term \u201ccredit allowance date\u201d means, with respect to any qualified equity investment\u2014\u2014the date on which such investment is initially made, and\u2014each of the 6 anniversary dates of such date thereafter.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of paragraph (1), the term \u201ccredit allowance date\u201d means, with respect to any qualified equity investment\u2014\u2014the date on which such investment is initially made, and\u2014each of the 6 anniversary dates of such date thereafter."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(a)(3)Credit Allowance Date\u2014For purposes of paragraph (1), the term \u201ccredit allowance date\u201d means, with respect\n                     to any qualified equity investment\u2014I.R.C. \u00a7 45D(a)(3)(A)\u2014the date on which such investment is initially made, andI.R.C. \u00a7 45D(a)(3)(B)\u2014each of the 6 anniversary dates of such date thereafter.",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)",
+      "(b)(1)(A)",
+      "(b)(1)(B)",
+      "(b)(1)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cqualified equity investment\u201d means any equity investment in a qualified community development entity if\u2014\u2014such investment is acquired by the taxpayer at its original issue (directly or through an underwriter) solely in exchange for cash,\u2014substantially all of such cash is used by the qualified community development entity to make qualified low-income community investments, and\u2014such investment is designated for purposes of this section by the qualified community development entity.Such term shall not include any equity investment issued by a qualified community development entity more than 5 years after the date that such entity receives an allocation under subsection (f). Any allocation not used within such 5-year period may be reallocated by the Secretary under subsection (f).",
+    "conditions": [
+      "\u2014\u2014such investment is acquired by the taxpayer at its original issue (directly or through an underwriter) solely in exchange for cash,\u2014substantially all of such cash is used by the qualified community development entity to make qualified low-income community investments, and\u2014such investment is designated for purposes of this section by the qualified community development entity.Such term shall not include any equity investment issued by a qualified community development entity more than 5 years after the date that such entity receives an allocation under subsection (f). Any allocation not used within such 5-year period may be reallocated by the Secretary under subsection (f)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014such investment is acquired by the taxpayer at its original issue (directly or through an underwriter) solely in exchange for cash,\u2014substantially all of such cash is used by the qualified community development entity to make qualified low-income community investments, and\u2014such investment is designated for purposes of this section by the qualified community development entity.Such term shall not include any equity investment issued by a qualified community development entity more than 5 years after the date that such entity receives an allocation under subsection (f). Any allocation not used within such 5-year period may be reallocated by the Secretary under subsection (f)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified equity investment\u201d means any equity investment in a qualified community development entity"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(b)(1)In General\u2014The term \u201cqualified equity investment\u201d means any equity investment in a qualified\n                     community development entity if\u2014I.R.C. \u00a7 45D(b)(1)(A)\u2014such investment is acquired by the taxpayer at its original issue (directly or through\n                        an underwriter) solely in exchange for cash,I.R.C. \u00a7 45D(b)(1)(B)\u2014substantially all of such cash is used by the qualified community development entity\n                        to make qualified low-income community investments, andI.R.C. \u00a7 45D(b)(1)(C)\u2014such investment is designated for purposes of this section by the qualified community\n                        development entity.Such term shall not include any equity investment issued by a qualified community\n                        development entity more than 5 years after the date that such entity receives an allocation\n                        under subsection (f). Any allocation not used within such 5-year period may be reallocated\n                        by the Secretary under subsection (f).",
+    "definitions": {
+      "term": "qualified equity investment",
+      "requirements": [
+        "any equity investment in a qualified community development entity if\u2014\u2014such investment is acquired by the taxpayer at its original issue (directly or through an underwriter) solely in exchange for cash,\u2014substantially all of such cash is used by the qualified community development entity to make qualified low-income community investments, and\u2014such investment is designated for purposes of this section by the qualified community development entity.Such term shall not include any equity investment issued by a qualified community development entity more than 5 years after the date that such entity receives an allocation under subsection (f). Any allocation not used within such 5-year period may be reallocated by the Secretary under subsection (f)."
+      ]
+    }
+  },
+  {
+    "section": "45D",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)"
+    ],
+    "rule_type": "limitation",
+    "title": null,
+    "text": "The maximum amount of equity investments issued by a qualified community development entity which may be designated under paragraph (1)(C) by such entity shall not exceed the portion of the limitation amount allocated under subsection (f) to such entity.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The maximum amount of equity investments issued by a qualified community development entity which may be designated under paragraph (1)(C) by such entity shall not exceed the portion of the limitation amount allocated under subsection (f) to such entity."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(b)(2)Limitation\u2014The maximum amount of equity investments issued by a qualified community development\n                     entity which may be designated under paragraph (1)(C) by such entity shall not exceed\n                     the portion of the limitation amount allocated under subsection (f) to such entity.",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(b)(3)",
+    "source_subsections": [
+      "(b)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Harbor For Determining Use Of Cash",
+    "text": "The requirement of paragraph (1)(B) shall be treated as met if at least 85 percent of the aggregate gross assets of the qualified community development entity are invested in qualified low-income community investments.",
+    "conditions": [
+      "at least 85 percent of the aggregate gross assets of the qualified community development entity are invested in qualified low-income community investments."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.85,
+        "text": "85 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "at least 85 percent of the aggregate gross assets of the qualified community development entity are invested in qualified low-income community investments."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The requirement of paragraph (1)(B) shall be treated as met"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(b)(3)Safe Harbor For Determining Use Of Cash\u2014The requirement of paragraph (1)(B) shall be treated as met if at least 85 percent\n                     of the aggregate gross assets of the qualified community development entity are invested\n                     in qualified low-income community investments.",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(b)(4)",
+    "source_subsections": [
+      "(b)(4)"
+    ],
+    "rule_type": "definition",
+    "title": "Of Subsequent Purchasers",
+    "text": "The term \u201cqualified equity investment\u201d includes any equity investment which would (but for paragraph (1)(A)) be a qualified equity investment in the hands of the taxpayer if such investment was a qualified equity investment in the hands of a prior holder.",
+    "conditions": [
+      "such investment was a qualified equity investment in the hands of a prior holder."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such investment was a qualified equity investment in the hands of a prior holder."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified equity investment\u201d includes any equity investment which would (but for paragraph (1)(A)) be a qualified equity investment in the hands of the taxpayer"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(b)(4)Treatment Of Subsequent Purchasers\u2014The term \u201cqualified equity investment\u201d includes any equity investment which would\n                     (but for paragraph (1)(A)) be a qualified equity investment in the hands of the taxpayer\n                     if such investment was a qualified equity investment in the hands of a prior holder.",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(b)(5)",
+    "source_subsections": [
+      "(b)(5)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "A rule similar to the rule of section 1202(c)(3) shall apply for purposes of this subsection.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "A rule similar to the rule of section 1202(c)(3) shall apply for purposes of this subsection."
+    },
+    "cross_references": [
+      {
+        "section": "1202(c)(3)",
+        "reason": "A rule similar to the rule of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(b)(5)Redemptions\u2014A rule similar to the rule of section 1202(c)(3) shall apply for purposes of this\n                     subsection.",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(b)(6)",
+    "source_subsections": [
+      "(b)(6)",
+      "(b)(6)(A)",
+      "(b)(6)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Investment",
+    "text": "The term \u201cequity investment\u201d means\u2014\u2014any stock (other than nonqualified preferred stock as defined in section 351(g)(2)) in an entity which is a corporation, and\u2014any capital interest in an entity which is a partnership.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cequity investment\u201d means\u2014\u2014any stock (other than nonqualified preferred stock as defined in section 351(g)(2)) in an entity which is a corporation, and\u2014any capital interest in an entity which is a partnership."
+    },
+    "cross_references": [
+      {
+        "section": "351(g)(2)",
+        "reason": "preferred stock as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(b)(6)Equity Investment\u2014The term \u201cequity investment\u201d means\u2014I.R.C. \u00a7 45D(b)(6)(A)\u2014any stock (other than nonqualified preferred stock as defined in section 351(g)(2))\n                        in an entity which is a corporation, andI.R.C. \u00a7 45D(b)(6)(B)\u2014any capital interest in an entity which is a partnership.",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)",
+      "(c)(1)(A)",
+      "(c)(1)(B)",
+      "(c)(1)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cqualified community development entity\u201d means any domestic corporation or partnership if\u2014\u2014the primary mission of the entity is serving, or providing investment capital for, low-income communities or low-income persons,\u2014the entity maintains accountability to residents of low-income communities through their representation on any governing board of the entity or on any advisory board to the entity, and\u2014the entity is certified by the Secretary for purposes of this section as being a qualified community development entity.",
+    "conditions": [
+      "\u2014\u2014the primary mission of the entity is serving, or providing investment capital for, low-income communities or low-income persons,\u2014the entity maintains accountability to residents of low-income communities through their representation on any governing board of the entity or on any advisory board to the entity, and\u2014the entity is certified by the Secretary for purposes of this section as being a qualified community development entity."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014the primary mission of the entity is serving, or providing investment capital for, low-income communities or low-income persons,\u2014the entity maintains accountability to residents of low-income communities through their representation on any governing board of the entity or on any advisory board to the entity, and\u2014the entity is certified by the Secretary for purposes of this section as being a qualified community development entity."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified community development entity\u201d means any domestic corporation or partnership"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(c)(1)In General\u2014The term \u201cqualified community development entity\u201d means any domestic corporation or\n                     partnership if\u2014I.R.C. \u00a7 45D(c)(1)(A)\u2014the primary mission of the entity is serving, or providing investment capital for,\n                        low-income communities or low-income persons,I.R.C. \u00a7 45D(c)(1)(B)\u2014the entity maintains accountability to residents of low-income communities through\n                        their representation on any governing board of the entity or on any advisory board\n                        to the entity, andI.R.C. \u00a7 45D(c)(1)(C)\u2014the entity is certified by the Secretary for purposes of this section as being a qualified\n                        community development entity.",
+    "definitions": {
+      "term": "qualified community development entity",
+      "requirements": [
+        "any domestic corporation or partnership if\u2014\u2014the primary mission of the entity is serving, or providing investment capital for, low-income communities or low-income persons,\u2014the entity maintains accountability to residents of low-income communities through their representation on any governing board of the entity or on any advisory board to the entity, and\u2014the entity is certified by the Secretary for purposes of this section as being a qualified community development entity."
+      ]
+    }
+  },
+  {
+    "section": "45D",
+    "subsection": "(c)(2)",
+    "source_subsections": [
+      "(c)(2)",
+      "(c)(2)(A)",
+      "(c)(2)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Rules For Certain Organizations",
+    "text": "The requirements of paragraph (1) shall be treated as met by\u2014\u2014any specialized small business investment company (as defined in section 1044(c)(3)), and\u2014any community development financial institution (as defined in section 103 of the Community Development Banking and Financial Institutions Act of 1994 (12 U.S.C. 4702)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The requirements of paragraph (1) shall be treated as met by\u2014\u2014any specialized small business investment company (as defined in section 1044(c)(3)), and\u2014any community development financial institution (as defined in section 103 of the Community Development Banking and Financial Institutions Act of 1994 (12 U.S.C. 4702))."
+    },
+    "cross_references": [
+      {
+        "section": "1044(c)(3)",
+        "reason": "stment company (as defined in..."
+      },
+      {
+        "section": "103",
+        "reason": "al institution (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(c)(2)Special Rules For Certain Organizations\u2014The requirements of paragraph (1) shall be treated as met by\u2014I.R.C. \u00a7 45D(c)(2)(A)\u2014any specialized small business investment company (as defined in section 1044(c)(3)),\n                        andI.R.C. \u00a7 45D(c)(2)(B)\u2014any community development financial institution (as defined in section 103 of the\n                        Community Development Banking and Financial Institutions Act of 1994 (12 U.S.C. 4702)).",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)",
+      "(d)(1)(A)",
+      "(d)(1)(B)",
+      "(d)(1)(C)",
+      "(d)(1)(D)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cqualified low-income community investment\u201d means\u2014\u2014any capital or equity investment in, or loan to, any qualified active low-income community business,\u2014the purchase from another qualified community development entity of any loan made by such entity which is a qualified low-income community investment,\u2014financial counseling and other services specified in regulations prescribed by the Secretary to businesses located in, and residents of, low-income communities, and\u2014any equity investment in, or loan to, any qualified community development entity.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified low-income community investment\u201d means\u2014\u2014any capital or equity investment in, or loan to, any qualified active low-income community business,\u2014the purchase from another qualified community development entity of any loan made by such entity which is a qualified low-income community investment,\u2014financial counseling and other services specified in regulations prescribed by the Secretary to businesses located in, and residents of, low-income communities, and\u2014any equity investment in, or loan to, any qualified community development entity."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(d)(1)In General\u2014The term \u201cqualified low-income community investment\u201d means\u2014I.R.C. \u00a7 45D(d)(1)(A)\u2014any capital or equity investment in, or loan to, any qualified active low-income community\n                        business,I.R.C. \u00a7 45D(d)(1)(B)\u2014the purchase from another qualified community development entity of any loan made\n                        by such entity which is a qualified low-income community investment,I.R.C. \u00a7 45D(d)(1)(C)\u2014financial counseling and other services specified in regulations prescribed by the\n                        Secretary to businesses located in, and residents of, low-income communities, andI.R.C. \u00a7 45D(d)(1)(D)\u2014any equity investment in, or loan to, any qualified community development entity.",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(d)(2)(A)",
+    "source_subsections": [
+      "(d)(2)(A)",
+      "(d)(2)(A)(i)",
+      "(d)(2)(A)(ii)",
+      "(d)(2)(A)(iii)",
+      "(d)(2)(A)(iv)",
+      "(d)(2)(A)(v)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "For purposes of paragraph (1), the term \u201cqualified active low-income community business\u201d means, with respect to any taxable year, any corporation (including a nonprofit corporation) or partnership if for such year\u2014\u2014at least 50 percent of the total gross income of such entity is derived from the active conduct of a qualified business within any low-income community,\u2014a substantial portion of the use of the tangible property of such entity (whether owned or leased) is within any low-income community,\u2014a substantial portion of the services performed for such entity by its employees are performed in any low-income community,\u2014less than 5 percent of the average of the aggregate unadjusted bases of the property of such entity is attributable to collectibles (as defined in section 408(m)(2)) other than collectibles that are held primarily for sale to customers in the ordinary course of such business, and\u2014less than 5 percent of the average of the aggregate unadjusted bases of the property of such entity is attributable to nonqualified financial property (as defined in section 1397C(e)).",
+    "conditions": [
+      "for such year\u2014\u2014at least 50 percent of the total gross income of such entity is derived from the active conduct of a qualified business within any low-income community,\u2014a substantial portion of the use of the tangible property of such entity (whether owned or leased) is within any low-income community,\u2014a substantial portion of the services performed for such entity by its employees are performed in any low-income community,\u2014less than 5 percent of the average of the aggregate unadjusted bases of the property of such entity is attributable to collectibles (as defined in section 408(m)(2)) other than collectibles that are held primarily for sale to customers in the ordinary course of such business, and\u2014less than 5 percent of the average of the aggregate unadjusted bases of the property of such entity is attributable to nonqualified financial property (as defined in section 1397C(e))."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.05,
+        "text": "5 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.05,
+        "text": "5 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "for such year\u2014\u2014at least 50 percent of the total gross income of such entity is derived from the active conduct of a qualified business within any low-income community,\u2014a substantial portion of the use of the tangible property of such entity (whether owned or leased) is within any low-income community,\u2014a substantial portion of the services performed for such entity by its employees are performed in any low-income community,\u2014less than 5 percent of the average of the aggregate unadjusted bases of the property of such entity is attributable to collectibles (as defined in section 408(m)(2)) other than collectibles that are held primarily for sale to customers in the ordinary course of such business, and\u2014less than 5 percent of the average of the aggregate unadjusted bases of the property of such entity is attributable to nonqualified financial property (as defined in section 1397C(e))."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of paragraph (1), the term \u201cqualified active low-income community business\u201d means, with respect to any taxable year, any corporation (including a nonprofit corporation) or partnership"
+    },
+    "cross_references": [
+      {
+        "section": "408(m)(2)",
+        "reason": "o collectibles (as defined in..."
+      },
+      {
+        "section": "1397C(e)",
+        "reason": "ncial property (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(d)(2)(A)In General\u2014For purposes of paragraph (1), the term \u201cqualified active low-income community business\u201d\n                        means, with respect to any taxable year, any corporation (including a nonprofit corporation)\n                        or partnership if for such year\u2014I.R.C. \u00a7 45D(d)(2)(A)(i)\u2014at least 50 percent of the total gross income of such entity is derived from the active\n                           conduct of a qualified business within any low-income community,I.R.C. \u00a7 45D(d)(2)(A)(ii)\u2014a substantial portion of the use of the tangible property of such entity (whether\n                           owned or leased) is within any low-income community,I.R.C. \u00a7 45D(d)(2)(A)(iii)\u2014a substantial portion of the services performed for such entity by its employees are\n                           performed in any low-income community,I.R.C. \u00a7 45D(d)(2)(A)(iv)\u2014less than 5 percent of the average of the aggregate unadjusted bases of the property\n                           of such entity is attributable to collectibles (as defined in section 408(m)(2)) other\n                           than collectibles that are held primarily for sale to customers in the ordinary course\n                           of such business, andI.R.C. \u00a7 45D(d)(2)(A)(v)\u2014less than 5 percent of the average of the aggregate unadjusted bases of the property\n                           of such entity is attributable to nonqualified financial property (as defined in section\n                           1397C(e)).",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(d)(2)(B)",
+    "source_subsections": [
+      "(d)(2)(B)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "Such term shall include any business carried on by an individual as a proprietor if such business would meet the requirements of subparagraph (A) were it incorporated.",
+    "conditions": [
+      "such business would meet the requirements of subparagraph (A) were it incorporated."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such business would meet the requirements of subparagraph (A) were it incorporated."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Such term shall include any business carried on by an individual as a proprietor"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(d)(2)(B)Proprietorship\u2014Such term shall include any business carried on by an individual as a proprietor if\n                        such business would meet the requirements of subparagraph (A) were it incorporated.",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(d)(2)(C)",
+    "source_subsections": [
+      "(d)(2)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "Of Business May Be Qualified Active Low",
+    "text": "Income Community Business\u2014The term \u201cqualified active low-income community business\u201d includes any trades or businesses which would qualify as a qualified active low-income community business if such trades or businesses were separately incorporated.",
+    "conditions": [
+      "such trades or businesses were separately incorporated."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such trades or businesses were separately incorporated."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Income Community Business\u2014The term \u201cqualified active low-income community business\u201d includes any trades or businesses which would qualify as a qualified active low-income community business"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(d)(2)(C)Portions Of Business May Be Qualified Active Low-Income Community Business\u2014The term \u201cqualified active low-income community business\u201d includes any trades or businesses\n                        which would qualify as a qualified active low-income community business if such trades\n                        or businesses were separately incorporated.",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(d)(3)",
+    "source_subsections": [
+      "(d)(3)",
+      "(d)(3)(A)",
+      "(d)(3)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Business",
+    "text": "For purposes of this subsection, the term \u201cqualified business\u201d has the meaning given to such term by section 1397C(d); except that\u2014\u2014in lieu of applying paragraph (2)(B) thereof, the rental to others of real property located in any low-income community shall be treated as a qualified business if there are substantial improvements located on such property, and\u2014paragraph (3) thereof shall not apply.",
+    "conditions": [
+      "there are substantial improvements located on such property, and\u2014paragraph (3) thereof shall not apply."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "there are substantial improvements located on such property, and\u2014paragraph (3) thereof shall not apply."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "that\u2014\u2014in lieu of applying paragraph (2)(B) thereof, the rental to others of real property located in any low-income community shall be treated as a qualified business"
+      ],
+      "result": "For purposes of this subsection, the term \u201cqualified business\u201d has the meaning given to such term by section 1397C(d);"
+    },
+    "cross_references": [
+      {
+        "section": "1397C(d)",
+        "reason": "meaning given to such term by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(d)(3)Qualified Business\u2014For purposes of this subsection, the term \u201cqualified business\u201d has the meaning given\n                     to such term by section 1397C(d); except that\u2014I.R.C. \u00a7 45D(d)(3)(A)\u2014in lieu of applying paragraph (2)(B) thereof, the rental to others of real property\n                        located in any low-income community shall be treated as a qualified business if there\n                        are substantial improvements located on such property, andI.R.C. \u00a7 45D(d)(3)(B)\u2014paragraph (3) thereof shall not apply.",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(e)(1)",
+    "source_subsections": [
+      "(e)(1)",
+      "(e)(1)(A)",
+      "(e)(1)(B)",
+      "(e)(1)(B)(i)",
+      "(e)(1)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201clow-income community\u201d means any population census tract if\u2014\u2014the poverty rate for such tract is at least 20 percent, or.R.C. \u00a7 45D(e)(1)(B)(i)\u2014in the case of a tract not located within a metropolitan area, the median family income for such tract does not exceed 80 percent of statewide median family income, or\u2014in the case of a tract located within a metropolitan area, the median family income for such tract does not exceed 80 percent of the greater of statewide median family income or the metropolitan area median family income.Subparagraph (B) shall be applied using possession-wide median family income in the case of census tracts located within a possession of the United States.",
+    "conditions": [
+      "\u2014\u2014the poverty rate for such tract is at least 20 percent, or.R.C. \u00a7 45D(e)(1)(B)(i)\u2014in the case of a tract not located within a metropolitan area, the median family income for such tract does not exceed 80 percent of statewide median family income, or\u2014in the case of a tract located within a metropolitan area, the median family income for such tract does not exceed 80 percent of the greater of statewide median family income or the metropolitan area median family income.Subparagraph (B) shall be applied using possession-wide median family income in the case of census tracts located within a possession of the United States."
+    ],
+    "computations": [
+      {
+        "operation": "max",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.2,
+        "text": "20 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.8,
+        "text": "80 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.8,
+        "text": "80 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014the poverty rate for such tract is at least 20 percent, or.R.C. \u00a7 45D(e)(1)(B)(i)\u2014in the case of a tract not located within a metropolitan area, the median family income for such tract does not exceed 80 percent of statewide median family income, or\u2014in the case of a tract located within a metropolitan area, the median family income for such tract does not exceed 80 percent of the greater of statewide median family income or the metropolitan area median family income.Subparagraph (B) shall be applied using possession-wide median family income in the case of census tracts located within a possession of the United States."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201clow-income community\u201d means any population census tract"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(e)(1)In General\u2014The term \u201clow-income community\u201d means any population census tract if\u2014I.R.C. \u00a7 45D(e)(1)(A)\u2014the poverty rate for such tract is at least 20 percent, orI.R.C. \u00a7 45D(e)(1)(B)I.R.C. \u00a7 45D(e)(1)(B)(i)\u2014in the case of a tract not located within a metropolitan area, the median family income\n                           for such tract does not exceed 80 percent of statewide median family income, orI.R.C. \u00a7 45D(e)(1)(B)(ii)\u2014in the case of a tract located within a metropolitan area, the median family income\n                           for such tract does not exceed 80 percent of the greater of statewide median family\n                           income or the metropolitan area median family income.Subparagraph (B) shall be applied using possession-wide median family income in the\n                        case of census tracts located within a possession of the United States.",
+    "definitions": {
+      "term": "low-income community",
+      "requirements": [
+        "any population census tract if\u2014\u2014the poverty rate for such tract is at least 20 percent, or.R.C. \u00a7 45D(e)(1)(B)(i)\u2014in the case of a tract not located within a metropolitan area, the median family income for such tract does not exceed 80 percent of statewide median family income, or\u2014in the case of a tract located within a metropolitan area, the median family income for such tract does not exceed 80 percent of the greater of statewide median family income or the metropolitan area median family income.Subparagraph (B) shall be applied using possession-wide median family income in the case of census tracts located within a possession of the United States."
+      ]
+    }
+  },
+  {
+    "section": "45D",
+    "subsection": "(e)(2)",
+    "source_subsections": [
+      "(e)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Populations",
+    "text": "The Secretary shall prescribe regulations under which 1 or more targeted populations (within the meaning of section 103(20) of the Riegle Community Development and Regulatory Improvement Act of 1994 (12 U.S.C. 4702(20))) may be treated as low-income communities. Such regulations shall include procedures for determining which entities are qualified active low-income community businesses with respect to such populations.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall prescribe regulations under which 1 or more targeted populations (within the meaning of section 103(20) of the Riegle Community Development and Regulatory Improvement Act of 1994 (12 U.S.C. 4702(20))) may be treated as low-income communities. Such regulations shall include procedures for determining which entities are qualified active low-income community businesses with respect to such populations."
+    },
+    "cross_references": [
+      {
+        "section": "103(20)",
+        "reason": "ations (within the meaning of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(e)(2)Targeted Populations\u2014The Secretary shall prescribe regulations under which 1 or more targeted populations\n                     (within the meaning of section 103(20) of the Riegle Community Development and Regulatory\n                     Improvement Act of 1994 (12 U.S.C. 4702(20))) may be treated as low-income communities.\n                     Such regulations shall include procedures for determining which entities are qualified\n                     active low-income community businesses with respect to such populations.",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(e)(3)",
+    "source_subsections": [
+      "(e)(3)"
+    ],
+    "rule_type": "definition",
+    "title": "Not Within Census Tracts",
+    "text": "In the case of an area which is not tracted for population census tracts, the equivalent county divisions (as defined by the Bureau of the Census for purposes of defining poverty areas) shall be used for purposes of determining poverty rates and median family income.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of an area which is not tracted for population census tracts, the equivalent county divisions (as defined by the Bureau of the Census for purposes of defining poverty areas) shall be used for purposes of determining poverty rates and median family income."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(e)(3)Areas Not Within Census Tracts\u2014In the case of an area which is not tracted for population census tracts, the equivalent\n                     county divisions (as defined by the Bureau of the Census for purposes of defining\n                     poverty areas) shall be used for purposes of determining poverty rates and median\n                     family income.",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(e)(4)",
+    "source_subsections": [
+      "(e)(4)",
+      "(e)(4)(A)",
+      "(e)(4)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "With Low Population",
+    "text": "A population census tract with a population of less than 2,000 shall be treated as a low-income community for purposes of this section if such tract\u2014\u2014is within an empowerment zone the designation of which is in effect under section 1391, and\u2014is contiguous to 1 or more low-income communities (determined without regard to this paragraph).",
+    "conditions": [
+      "such tract\u2014\u2014is within an empowerment zone the designation of which is in effect under section 1391, and\u2014is contiguous to 1 or more low-income communities (determined without regard to this paragraph)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such tract\u2014\u2014is within an empowerment zone the designation of which is in effect under section 1391, and\u2014is contiguous to 1 or more low-income communities (determined without regard to this paragraph)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "A population census tract with a population of less than 2,000 shall be treated as a low-income community for purposes of this section"
+    },
+    "cross_references": [
+      {
+        "section": "1391",
+        "reason": "n of which is in effect under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(e)(4)Tracts With Low Population\u2014A population census tract with a population of less than 2,000 shall be treated as\n                     a low-income community for purposes of this section if such tract\u2014I.R.C. \u00a7 45D(e)(4)(A)\u2014is within an empowerment zone the designation of which is in effect under section\n                        1391, andI.R.C. \u00a7 45D(e)(4)(B)\u2014is contiguous to 1 or more low-income communities (determined without regard to this\n                        paragraph).",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(e)(5)(A)",
+    "source_subsections": [
+      "(e)(5)(A)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "In the case of a population census tract located within a high migration rural county, paragraph (1)(B)(i) shall be applied by substituting \u201c85 percent\u201d for \u201c80 percent\u201d.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.85,
+        "text": "85 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.8,
+        "text": "80 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a population census tract located within a high migration rural county, paragraph (1)(B)(i) shall be applied by substituting \u201c85 percent\u201d for \u201c80 percent\u201d."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(e)(5)(A)In General\u2014In the case of a population census tract located within a high migration rural county,\n                        paragraph (1)(B)(i) shall be applied by substituting \u201c85 percent\u201d for \u201c80 percent\u201d.",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(e)(5)(B)",
+    "source_subsections": [
+      "(e)(5)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Migration Rural County",
+    "text": "For purposes of this paragraph, the term \u201chigh migration rural county\u201d means any county which, during the 20-year period ending with the year in which the most recent census was conducted, has a net out-migration of inhabitants from the county of at least 10 percent of the population of the county at the beginning of such period.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.1,
+        "text": "10 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the term \u201chigh migration rural county\u201d means any county which, during the 20-year period ending with the year in which the most recent census was conducted, has a net out-migration of inhabitants from the county of at least 10 percent of the population of the county at the beginning of such period."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(e)(5)(B)High Migration Rural County\u2014For purposes of this paragraph, the term \u201chigh migration rural county\u201d means any county\n                        which, during the 20-year period ending with the year in which the most recent census\n                        was conducted, has a net out-migration of inhabitants from the county of at least\n                        10 percent of the population of the county at the beginning of such period.",
+    "definitions": {
+      "term": "high migration rural county",
+      "requirements": [
+        "any county which, during the 20-year period ending with the year in which the most recent census was conducted, has a net out-migration of inhabitants from the county of at least 10 percent of the population of the county at the beginning of such period."
+      ]
+    }
+  },
+  {
+    "section": "45D",
+    "subsection": "(f)(1)(A)",
+    "source_subsections": [
+      "(f)(1)(A)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$1,000,000,000 for 2001,",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 1000000000,
+        "text": "$1,000,000,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$1,000,000,000 for 2001,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(f)(1)(A)\u2014$1,000,000,000 for 2001,",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(f)(1)(B)",
+    "source_subsections": [
+      "(f)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$1,500,000,000 for 2002 and 2003,",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 1500000000,
+        "text": "$1,500,000,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$1,500,000,000 for 2002 and 2003,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(f)(1)(B)\u2014$1,500,000,000 for 2002 and 2003,",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(f)(1)(C)",
+    "source_subsections": [
+      "(f)(1)(C)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$2,000,000,000 for 2004 and 2005,",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 2000000000,
+        "text": "$2,000,000,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$2,000,000,000 for 2004 and 2005,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(f)(1)(C)\u2014$2,000,000,000 for 2004 and 2005,",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(f)(1)(D)",
+    "source_subsections": [
+      "(f)(1)(D)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$3,500,000,000 for 2006 and 2007,",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 3500000000,
+        "text": "$3,500,000,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$3,500,000,000 for 2006 and 2007,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(f)(1)(D)\u2014$3,500,000,000 for 2006 and 2007,",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(f)(1)(E)",
+    "source_subsections": [
+      "(f)(1)(E)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$5,000,000,000 for 2008,",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 5000000000,
+        "text": "$5,000,000,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$5,000,000,000 for 2008,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(f)(1)(E)\u2014$5,000,000,000 for 2008,",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(f)(1)(F)",
+    "source_subsections": [
+      "(f)(1)(F)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$5,000,000,000 for 2009,",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 5000000000,
+        "text": "$5,000,000,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$5,000,000,000 for 2009,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(f)(1)(F)\u2014$5,000,000,000 for 2009,",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(f)(1)(G)",
+    "source_subsections": [
+      "(f)(1)(G)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$3,500,000,000 for each of calendar years 2010 through 2019, and",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 3500000000,
+        "text": "$3,500,000,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$3,500,000,000 for each of calendar years 2010 through 2019, and"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(f)(1)(G)\u2014$3,500,000,000 for each of calendar years 2010 through 2019, and",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(f)(1)(H)",
+    "source_subsections": [
+      "(f)(1)(H)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$5,000,000,000 for each of calendar year after 2019.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 5000000000,
+        "text": "$5,000,000,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$5,000,000,000 for each of calendar year after 2019."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(f)(1)(H)\u2014$5,000,000,000 for each of calendar year after 2019.",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(f)(2)",
+    "source_subsections": [
+      "(f)(2)",
+      "(f)(2)(A)",
+      "(f)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Limitation",
+    "text": "The limitation under paragraph (1) shall be allocated by the Secretary among qualified community development entities selected by the Secretary. In making allocations under the preceding sentence, the Secretary shall give priority to any entity\u2014\u2014with a record of having successfully provided capital or technical assistance to disadvantaged businesses or communities, or\u2014which intends to satisfy the requirement under subsection (b)(1)(B) by making qualified low-income community investments in 1 or more businesses in which persons unrelated to such entity (within the meaning of section 267(b) or 707(b)(1)) hold the majority equity interest.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The limitation under paragraph (1) shall be allocated by the Secretary among qualified community development entities selected by the Secretary. In making allocations under the preceding sentence, the Secretary shall give priority to any entity\u2014\u2014with a record of having successfully provided capital or technical assistance to disadvantaged businesses or communities, or\u2014which intends to satisfy the requirement under subsection (b)(1)(B) by making qualified low-income community investments in 1 or more businesses in which persons unrelated to such entity (within the meaning of section 267(b) or 707(b)(1)) hold the majority equity interest."
+    },
+    "cross_references": [
+      {
+        "section": "267(b)",
+        "reason": "entity (within the meaning of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(f)(2)Allocation Of Limitation\u2014The limitation under paragraph (1) shall be allocated by the Secretary among qualified\n                     community development entities selected by the Secretary. In making allocations under\n                     the preceding sentence, the Secretary shall give priority to any entity\u2014I.R.C. \u00a7 45D(f)(2)(A)\u2014with a record of having successfully provided capital or technical assistance to disadvantaged\n                        businesses or communities, orI.R.C. \u00a7 45D(f)(2)(B)\u2014which intends to satisfy the requirement under subsection (b)(1)(B) by making qualified\n                        low-income community investments in 1 or more businesses in which persons unrelated\n                        to such entity (within the meaning of section 267(b) or 707(b)(1)) hold the majority\n                        equity interest.",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(f)(3)(A)",
+    "source_subsections": [
+      "(f)(3)(A)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "In General. \u2014 If the new markets tax credit limitation for any calendar year exceeds the aggregate amount allocated under paragraph (2) for such year, such limitation for the succeeding calendar year shall be increased by the amount of such excess.",
+    "conditions": [
+      "the new markets tax credit limitation for any calendar year exceeds the aggregate amount allocated under paragraph (2) for such year, such limitation for the succeeding calendar year shall be increased by the amount of such excess."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the new markets tax credit limitation for any calendar year exceeds the aggregate amount allocated under paragraph (2) for such year, such limitation for the succeeding calendar year shall be increased by the amount of such excess."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In General. \u2014"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(f)(3)(A)\u2014In General. \u2014 If the new markets tax credit limitation for any calendar year exceeds\n                        the aggregate amount allocated under paragraph (2) for such year, such limitation\n                        for the succeeding calendar year shall be increased by the amount of such excess.",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(f)(3)(B)",
+    "source_subsections": [
+      "(f)(3)(B)"
+    ],
+    "rule_type": "limitation",
+    "title": null,
+    "text": "LIMITATION.\u2014No amount may be carried under subparagraph (A) to any calendar year after the fifth calendar year after the calendar year in which the excess described in such subparagraph occurred. For purposes of this subparagraph, any excess described in subparagraph (A) with respect to any calendar year before 2026 shall be treated as occurring in calendar year 2025.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "LIMITATION.\u2014No amount may be carried under subparagraph (A) to any calendar year after the fifth calendar year after the calendar year in which the excess described in such subparagraph occurred. For purposes of this subparagraph, any excess described in subparagraph (A) with respect to any calendar year before 2026 shall be treated as occurring in calendar year 2025."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(f)(3)(B)\u2014LIMITATION.\u2014No amount may be carried under subparagraph (A) to any calendar year after\n                        the fifth calendar year after the calendar year in which the excess described in such\n                        subparagraph occurred. For purposes of this subparagraph, any excess described in\n                        subparagraph (A) with respect to any calendar year before 2026 shall be treated as\n                        occurring in calendar year 2025.",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(g)(1)",
+    "source_subsections": [
+      "(g)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "If, at any time during the 7-year period beginning on the date of the original issue of a qualified equity investment in a qualified community development entity, there is a recapture event with respect to such investment, then the tax imposed by this chapter for the taxable year in which such event occurs shall be increased by the credit recapture amount.",
+    "conditions": [
+      ", at any time during the 7-year period beginning on the date of the original issue of a qualified equity investment in a qualified community development entity, there is a recapture event with respect to such investment, then the tax imposed by this chapter for the taxable year in which such event occurs shall be increased by the credit recapture amount."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        ", at any time during the 7-year period beginning on the date of the original issue of a qualified equity investment in a qualified community development entity, there is a recapture event with respect to such investment, then the tax imposed by this chapter for the taxable year in which such event occurs shall be increased by the credit recapture amount."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(g)(1)In General\u2014If, at any time during the 7-year period beginning on the date of the original issue\n                     of a qualified equity investment in a qualified community development entity, there\n                     is a recapture event with respect to such investment, then the tax imposed by this\n                     chapter for the taxable year in which such event occurs shall be increased by the\n                     credit recapture amount.",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(g)(2)",
+    "source_subsections": [
+      "(g)(2)",
+      "(g)(2)(A)",
+      "(g)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Recapture Amount",
+    "text": "For purposes of paragraph (1), the credit recapture amount is an amount equal to the sum of\u2014\u2014the aggregate decrease in the credits allowed to the taxpayer under section 38 for all prior taxable years which would have resulted if no credit had been determined under this section with respect to such investment, plus\u2014interest at the underpayment rate established under section 6621 on the amount determined under subparagraph (A) for each prior taxable year for the period beginning on the due date for filing the return for the prior taxable year involved.No deduction shall be allowed under this chapter for interest described in subparagraph (B).",
+    "conditions": [
+      "no credit had been determined under this section with respect to such investment, plus\u2014interest at the underpayment rate established under section 6621 on the amount determined under subparagraph (A) for each prior taxable year for the period beginning on the due date for filing the return for the prior taxable year involved.No deduction shall be allowed under this chapter for interest described in subparagraph (B)."
+    ],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "no credit had been determined under this section with respect to such investment, plus\u2014interest at the underpayment rate established under section 6621 on the amount determined under subparagraph (A) for each prior taxable year for the period beginning on the due date for filing the return for the prior taxable year involved.No deduction shall be allowed under this chapter for interest described in subparagraph (B)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of paragraph (1), the credit recapture amount is an amount equal to the sum of\u2014\u2014the aggregate decrease in the credits allowed to the taxpayer under section 38 for all prior taxable years which would have resulted"
+    },
+    "cross_references": [
+      {
+        "section": "38",
+        "reason": "allowed to the taxpayer under..."
+      },
+      {
+        "section": "6621",
+        "reason": "ayment rate established under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(g)(2)Credit Recapture Amount\u2014For purposes of paragraph (1), the credit recapture amount is an amount equal to the\n                     sum of\u2014I.R.C. \u00a7 45D(g)(2)(A)\u2014the aggregate decrease in the credits allowed to the taxpayer under section 38 for\n                        all prior taxable years which would have resulted if no credit had been determined\n                        under this section with respect to such investment, plusI.R.C. \u00a7 45D(g)(2)(B)\u2014interest at the underpayment rate established under section 6621 on the amount determined\n                        under subparagraph (A) for each prior taxable year for the period beginning on the\n                        due date for filing the return for the prior taxable year involved.No deduction shall be allowed under this chapter for interest described in subparagraph\n                        (B).",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(g)(3)",
+    "source_subsections": [
+      "(g)(3)",
+      "(g)(3)(A)",
+      "(g)(3)(B)",
+      "(g)(3)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "Event",
+    "text": "For purposes of paragraph (1), there is a recapture event with respect to an equity investment in a qualified community development entity if\u2014\u2014such entity ceases to be a qualified community development entity,\u2014the proceeds of the investment cease to be used as required of subsection (b)(1)(B), or\u2014such investment is redeemed by such entity.",
+    "conditions": [
+      "\u2014\u2014such entity ceases to be a qualified community development entity,\u2014the proceeds of the investment cease to be used as required of subsection (b)(1)(B), or\u2014such investment is redeemed by such entity."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014such entity ceases to be a qualified community development entity,\u2014the proceeds of the investment cease to be used as required of subsection (b)(1)(B), or\u2014such investment is redeemed by such entity."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of paragraph (1), there is a recapture event with respect to an equity investment in a qualified community development entity"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(g)(3)Recapture Event\u2014For purposes of paragraph (1), there is a recapture event with respect to an equity\n                     investment in a qualified community development entity if\u2014I.R.C. \u00a7 45D(g)(3)(A)\u2014such entity ceases to be a qualified community development entity,I.R.C. \u00a7 45D(g)(3)(B)\u2014the proceeds of the investment cease to be used as required of subsection (b)(1)(B),\n                        orI.R.C. \u00a7 45D(g)(3)(C)\u2014such investment is redeemed by such entity.",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(g)(4)(A)",
+    "source_subsections": [
+      "(g)(4)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "Benefit Rule",
+    "text": "The tax for the taxable year shall be increased under paragraph (1) only with respect to credits allowed by reason of this section which were used to reduce tax liability. In the case of credits not so used to reduce tax liability, the carryforwards and carrybacks under section 39 shall be appropriately adjusted.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The tax for the taxable year shall be increased under paragraph (1) only with respect to credits allowed by reason of this section which were used to reduce tax liability. In the case of credits not so used to reduce tax liability, the carryforwards and carrybacks under section 39 shall be appropriately adjusted."
+    },
+    "cross_references": [
+      {
+        "section": "39",
+        "reason": "forwards and carrybacks under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(g)(4)(A)Tax Benefit Rule\u2014The tax for the taxable year shall be increased under paragraph (1) only with respect\n                        to credits allowed by reason of this section which were used to reduce tax liability.\n                        In the case of credits not so used to reduce tax liability, the carryforwards and\n                        carrybacks under section 39 shall be appropriately adjusted.",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(g)(4)(B)",
+    "source_subsections": [
+      "(g)(4)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Credits Against Tax",
+    "text": "Any increase in tax under this subsection shall not be treated as a tax imposed by this chapter for purposes of determining the amount of any credit under this chapter or for purposes of section 55.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Any increase in tax under this subsection shall not be treated as a tax imposed by this chapter for purposes of determining the amount of any credit under this chapter or for purposes of section 55."
+    },
+    "cross_references": [
+      {
+        "section": "55",
+        "reason": "is chapter or for purposes of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(g)(4)(B)No Credits Against Tax\u2014Any increase in tax under this subsection shall not be treated as a tax imposed by\n                        this chapter for purposes of determining the amount of any credit under this chapter\n                        or for purposes of section 55.",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(h)",
+    "source_subsections": [
+      "(h)"
+    ],
+    "rule_type": "condition",
+    "title": "Reduction",
+    "text": "The basis of any qualified equity investment shall be reduced by the amount of any credit determined under this section with respect to such investment. This subsection shall not apply for purposes of section 1202.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The basis of any qualified equity investment shall be reduced by the amount of any credit determined under this section with respect to such investment. This subsection shall not apply for purposes of section 1202."
+    },
+    "cross_references": [
+      {
+        "section": "1202",
+        "reason": "all not apply for purposes of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(h)Basis Reduction\u2014The basis of any qualified equity investment shall be reduced by the amount of any\n                  credit determined under this section with respect to such investment. This subsection\n                  shall not apply for purposes of section 1202.",
+    "definitions": null
+  },
+  {
+    "section": "45D",
+    "subsection": "(i)",
+    "source_subsections": [
+      "(i)",
+      "(i)(1)",
+      "(i)(2)",
+      "(i)(3)",
+      "(i)(4)",
+      "(i)(5)",
+      "(i)(6)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The Secretary shall prescribe such regulations as may be appropriate to carry out this section, including regulations\u2014\u2014which limit the credit for investments which are directly or indirectly subsidized by other Federal tax benefits (including the credit under section 42 and the exclusion from gross income under section 103),\u2014which prevent the abuse of the purposes of this section,\u2014which provide rules for determining whether the requirement of subsection (b)(1)(B) is treated as met,\u2014which impose appropriate reporting requirements,\u2014which apply the provisions of this section to newly formed entities, and\u2014which ensure that non-metropolitan counties receive a proportional allocation of qualified equity investments.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall prescribe such regulations as may be appropriate to carry out this section, including regulations\u2014\u2014which limit the credit for investments which are directly or indirectly subsidized by other Federal tax benefits (including the credit under section 42 and the exclusion from gross income under section 103),\u2014which prevent the abuse of the purposes of this section,\u2014which provide rules for determining whether the requirement of subsection (b)(1)(B) is treated as met,\u2014which impose appropriate reporting requirements,\u2014which apply the provisions of this section to newly formed entities, and\u2014which ensure that non-metropolitan counties receive a proportional allocation of qualified equity investments."
+    },
+    "cross_references": [
+      {
+        "section": "42",
+        "reason": "s (including the credit under..."
+      },
+      {
+        "section": "103",
+        "reason": "usion from gross income under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45D(i)Regulations\u2014The Secretary shall prescribe such regulations as may be appropriate to carry out\n                  this section, including regulations\u2014I.R.C. \u00a7 45D(i)(1)\u2014which limit the credit for investments which are directly or indirectly subsidized\n                     by other Federal tax benefits (including the credit under section 42 and the exclusion\n                     from gross income under section 103),I.R.C. \u00a7 45D(i)(2)\u2014which prevent the abuse of the purposes of this section,I.R.C. \u00a7 45D(i)(3)\u2014which provide rules for determining whether the requirement of subsection (b)(1)(B)\n                     is treated as met,I.R.C. \u00a7 45D(i)(4)\u2014which impose appropriate reporting requirements,I.R.C. \u00a7 45D(i)(5)\u2014which apply the provisions of this section to newly formed entities, andI.R.C. \u00a7 45D(i)(6)\u2014which ensure that non-metropolitan counties receive a proportional allocation of qualified\n                     equity investments.",
+    "definitions": null
+  }
+]

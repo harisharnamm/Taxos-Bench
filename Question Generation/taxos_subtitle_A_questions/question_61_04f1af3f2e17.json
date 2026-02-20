@@ -1,0 +1,22 @@
+{
+  "id": "04f1af3f2e17",
+  "section": "61",
+  "citation": "I.R.C. \u00a7 61(a)",
+  "type": "Calculation - Gross Income",
+  "scenario": "Alice received the following amounts during the year: Loan Proceeds: $10,104.81, Wages: $1,801.77, Gift from Parents: $7,698.02, Gambling Winnings: $26,725.42.",
+  "question": "Calculate Alice's gross income under I.R.C. \u00a7 61.",
+  "difficulty": 2,
+  "choices": [
+    "$17,802.83",
+    "$0.00",
+    "$46,330.02",
+    "$14,263.59",
+    "$28,527.19"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "Gross income includes all income from whatever source derived, unless excluded. Total: $28,527.19.",
+  "reasoning": "Summed included items, ignored excluded items (Gifts, Loans, etc.).",
+  "source_rules": [
+    "I.R.C. \u00a7 61(a)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "9fdcc0745ece",
+  "section": "59",
+  "citation": "I.R.C. \u00a7 59(k)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 59(k) is discussed as follows: 'I.R.C. \u00a7 59(k)Applicable Corporation\u2014For purposes of this part\u2014I.R.C. \u00a7 59(k)(1)Applicable Corporati...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 59(k)?",
+  "difficulty": 1,
+  "choices": [
+    "$500,000,000.00",
+    "$900,000,000.00",
+    "$2,000,000,000.00",
+    "$1,100,000,000.00",
+    "$1,000,000,000.00"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies $1,000,000,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 59(k)"
+  ]
+}

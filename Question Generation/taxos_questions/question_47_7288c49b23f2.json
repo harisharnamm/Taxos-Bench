@@ -1,0 +1,22 @@
+{
+  "id": "7288c49b23f2",
+  "section": "47",
+  "citation": "I.R.C. \u00a7 47(c)(1)(B)(i)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 47(c)(1)(B)(i) is discussed as follows: 'I.R.C. \u00a7 47(c)(1)(B)(i)In General\u2014For  purposes of subparagraph(A)(i), a building shall be treated a...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 47(c)(1)(B)(i)?",
+  "difficulty": 1,
+  "choices": [
+    "$2,500.00",
+    "$5,500.00",
+    "$10,000.00",
+    "$4,500.00",
+    "$5,000.00"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies $5,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 47(c)(1)(B)(i)"
+  ]
+}

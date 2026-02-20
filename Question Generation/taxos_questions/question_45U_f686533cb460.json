@@ -1,0 +1,22 @@
+{
+  "id": "f686533cb460",
+  "section": "45U",
+  "citation": "I.R.C. \u00a7 45U(b)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 45U(b) is discussed as follows: 'I.R.C. \u00a7 45U(b)DefinitionsI.R.C. \u00a7 45U(b)(1)Qualified Nuclear Power Facility\u2014For purposes of this se...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 45U(b)?",
+  "difficulty": 1,
+  "choices": [
+    "84.0%",
+    "16.0%",
+    "26.0%",
+    "6.0%",
+    "24.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 16.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 45U(b)"
+  ]
+}

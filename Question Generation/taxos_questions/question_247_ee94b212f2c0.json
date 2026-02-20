@@ -1,0 +1,22 @@
+{
+  "id": "ee94b212f2c0",
+  "section": "247",
+  "citation": "I.R.C. \u00a7 247(g)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 247(g) is discussed as follows: 'I.R.C. \u00a7 247(g)Election By Settlement Trust To Defer Income RecognitionI.R.C. \u00a7 247(g)(1)In General\u2014...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 247(g)?",
+  "difficulty": 1,
+  "choices": [
+    "10.0%",
+    "20.0%",
+    "15.0%",
+    "0.0%",
+    "90.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 10.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 247(g)"
+  ]
+}

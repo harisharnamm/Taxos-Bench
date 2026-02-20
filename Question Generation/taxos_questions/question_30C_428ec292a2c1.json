@@ -1,0 +1,22 @@
+{
+  "id": "428ec292a2c1",
+  "section": "30C",
+  "citation": "I.R.C. \u00a7 30C(b)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 30C(b) is discussed as follows: 'I.R.C. \u00a7 30C(b)Limitation\u2014The credit allowed under subsection (a) with respect to any single item of...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 30C(b)?",
+  "difficulty": 1,
+  "choices": [
+    "$200,000.00",
+    "$90,000.00",
+    "$110,000.00",
+    "$50,000.00",
+    "$100,000.00"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies $100,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 30C(b)"
+  ]
+}

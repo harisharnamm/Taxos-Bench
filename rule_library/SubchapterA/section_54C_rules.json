@@ -1,0 +1,521 @@
+[
+  {
+    "section": "54C",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "100 percent of the available project proceeds of such issue are to be used for capital expenditures incurred by governmental bodies, public power providers, or cooperative electric companies for one or more qualified renewable energy facilities,",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 1.0,
+        "text": "100 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "100 percent of the available project proceeds of such issue are to be used for capital expenditures incurred by governmental bodies, public power providers, or cooperative electric companies for one or more qualified renewable energy facilities,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54C(a)(1)\u2014100 percent of the available project proceeds of such issue are to be used for capital\n                     expenditures incurred by governmental bodies, public power providers, or cooperative\n                     electric companies for one or more qualified renewable energy facilities,",
+    "definitions": null
+  },
+  {
+    "section": "54C",
+    "subsection": "(a)(2)",
+    "source_subsections": [
+      "(a)(2)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "the bond is issued by a qualified issuer, and",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "the bond is issued by a qualified issuer, and"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54C(a)(2)\u2014the bond is issued by a qualified issuer, and",
+    "definitions": null
+  },
+  {
+    "section": "54C",
+    "subsection": "(a)(3)",
+    "source_subsections": [
+      "(a)(3)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "the issuer designates such bond for purposes of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "the issuer designates such bond for purposes of this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54C(a)(3)\u2014the issuer designates such bond for purposes of this section.",
+    "definitions": null
+  },
+  {
+    "section": "54C",
+    "subsection": "(b)",
+    "source_subsections": [
+      "(b)"
+    ],
+    "rule_type": "computation",
+    "title": "Credit Amount",
+    "text": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54C, effective for bonds issued after December 31, 2017.The annual credit determined under section54A(b)with respect to any new clean renewable energy bond shall be 70 percent of the amount so determined without regard to this subsection.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.7,
+        "text": "70 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54C, effective for bonds issued after December 31, 2017.The annual credit determined under section54A(b)with respect to any new clean renewable energy bond shall be 70 percent of the amount so determined without regard to this subsection."
+    },
+    "cross_references": [
+      {
+        "section": "54A(b)",
+        "reason": "nnual credit determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54C(b)Reduced Credit Amount\u2014Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54C, effective for bonds issued after December 31, 2017.The annual credit determined under section54A(b)with respect to any new clean renewable energy bond shall be 70 percent of the amount\n                  so determined without regard to this subsection.",
+    "definitions": null
+  },
+  {
+    "section": "54C",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)"
+    ],
+    "rule_type": "limitation",
+    "title": "General",
+    "text": "The maximum aggregate face amount of bonds which may be designated under subsection(a)by any issuer shall not exceed the limitation amount allocated under this subsection to such issuer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The maximum aggregate face amount of bonds which may be designated under subsection(a)by any issuer shall not exceed the limitation amount allocated under this subsection to such issuer."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54C(c)(1)In General\u2014The maximum aggregate face amount of bonds which may be designated under subsection(a)by any issuer shall not exceed the limitation amount allocated under this subsection\n                     to such issuer.",
+    "definitions": null
+  },
+  {
+    "section": "54C",
+    "subsection": "(c)(2)",
+    "source_subsections": [
+      "(c)(2)",
+      "(c)(2)(A)",
+      "(c)(2)(B)",
+      "(c)(2)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "Limitation on Amount of Bonds Designated",
+    "text": "There is a national new clean renewable energy bond limitation of $800,000,000 which shall be allocated by the Secretary as provided in paragraph(3), except that\u2014\u2014not more than 33 1/3 percent thereof may be allocated to qualified projects of public power providers,\u2014not more than 33 1/3 percent thereof may be allocated to qualified projects of governmental bodies, and\u2014not more than 33 1/3 percent thereof may be allocated to qualified projects of cooperative electric companies.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 800000000,
+        "text": "$800,000,000"
+      }
+    ],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.03,
+        "text": "3 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.03,
+        "text": "3 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.03,
+        "text": "3 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "that\u2014\u2014not more than 33 1/3 percent thereof may be allocated to qualified projects of public power providers,\u2014not more than 33 1/3 percent thereof may be allocated to qualified projects of governmental bodies, and\u2014not more than 33 1/3 percent thereof may be allocated to qualified projects of cooperative electric companies."
+      ],
+      "result": "There is a national new clean renewable energy bond limitation of $800,000,000 which shall be allocated by the Secretary as provided in paragraph(3),"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54C(c)(2)National Limitation on Amount of Bonds Designated\u2014There is a national new clean renewable energy bond limitation of $800,000,000 which\n                     shall be allocated by the Secretary as provided in paragraph(3), except that\u2014I.R.C. \u00a7 54C(c)(2)(A)\u2014not more than 33 1/3 percent thereof may be allocated to qualified projects of public\n                        power providers,I.R.C. \u00a7 54C(c)(2)(B)\u2014not more than 33 1/3 percent thereof may be allocated to qualified projects of governmental\n                        bodies, andI.R.C. \u00a7 54C(c)(2)(C)\u2014not more than 33 1/3 percent thereof may be allocated to qualified projects of cooperative\n                        electric companies.",
+    "definitions": null
+  },
+  {
+    "section": "54C",
+    "subsection": "(c)(3)(A)",
+    "source_subsections": [
+      "(c)(3)(A)"
+    ],
+    "rule_type": "limitation",
+    "title": "Among Public Power Providers.",
+    "text": "After the Secretary determines the qualified projects of public power providers which are appropriate for receiving an allocation of the national new clean renewable energy bond limitation, the Secretary shall, to the maximum extent practicable, make allocations among such projects in such manner that the amount allocated to each such project bears the same ratio to the cost of such project as the limitation under paragraph(2)(A)bears to the cost of all such projects.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "After the Secretary determines the qualified projects of public power providers which are appropriate for receiving an allocation of the national new clean renewable energy bond limitation, the Secretary shall, to the maximum extent practicable, make allocations among such projects in such manner that the amount allocated to each such project bears the same ratio to the cost of such project as the limitation under paragraph(2)(A)bears to the cost of all such projects."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54C(c)(3)(A)Allocation Among Public Power Providers.\u2014\u2014After the Secretary determines the qualified projects of public power providers which\n                        are appropriate for receiving an allocation of the national new clean renewable energy\n                        bond limitation, the Secretary shall, to the maximum extent practicable, make allocations\n                        among such projects in such manner that the amount allocated to each such project\n                        bears the same ratio to the cost of such project as the limitation under paragraph(2)(A)bears to the cost of all such projects.",
+    "definitions": null
+  },
+  {
+    "section": "54C",
+    "subsection": "(c)(3)(B)",
+    "source_subsections": [
+      "(c)(3)(B)"
+    ],
+    "rule_type": "limitation",
+    "title": "Among Governmental Bodies and Cooperative Electric Companies",
+    "text": "The Secretary shall make allocations of the amount of the national new clean renewable energy bond limitation described in paragraphs(2)(B)and(2)(C)among qualified projects of governmental bodies and cooperative electric companies, respectively, in such manner as the Secretary determines appropriate.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall make allocations of the amount of the national new clean renewable energy bond limitation described in paragraphs(2)(B)and(2)(C)among qualified projects of governmental bodies and cooperative electric companies, respectively, in such manner as the Secretary determines appropriate."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54C(c)(3)(B)Allocation Among Governmental Bodies and Cooperative Electric Companies\u2014The Secretary shall make allocations of the amount of the national new clean renewable\n                        energy bond limitation described in paragraphs(2)(B)and(2)(C)among qualified projects of governmental bodies and cooperative electric companies,\n                        respectively, in such manner as the Secretary determines appropriate.",
+    "definitions": null
+  },
+  {
+    "section": "54C",
+    "subsection": "(c)(4)",
+    "source_subsections": [
+      "(c)(4)"
+    ],
+    "rule_type": "limitation",
+    "title": "Limitation",
+    "text": "The national new clean renewable energy bond limitation shall be increased by $1,600,000,000. Such increase shall be allocated by the Secretary consistent with the rules of paragraphs(2)and(3).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 1600000000,
+        "text": "$1,600,000,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The national new clean renewable energy bond limitation shall be increased by $1,600,000,000. Such increase shall be allocated by the Secretary consistent with the rules of paragraphs(2)and(3)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54C(c)(4)Additional Limitation\u2014The national new clean renewable energy bond limitation shall be increased by $1,600,000,000.\n                     Such increase shall be allocated by the Secretary consistent with the rules of paragraphs(2)and(3).",
+    "definitions": null
+  },
+  {
+    "section": "54C",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)"
+    ],
+    "rule_type": "definition",
+    "title": "Renewable Energy Facility",
+    "text": "The term \u201cqualified renewable energy facility\u201d means a qualified facility (as determined under section45(d)without regard to paragraphs(8)and(10)thereof and to any placed in service date) owned by a public power provider, a governmental body, or a cooperative electric company.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified renewable energy facility\u201d means a qualified facility (as determined under section45(d)without regard to paragraphs(8)and(10)thereof and to any placed in service date) owned by a public power provider, a governmental body, or a cooperative electric company."
+    },
+    "cross_references": [
+      {
+        "section": "45(d)",
+        "reason": "facility (as determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54C(d)(1)Qualified Renewable Energy Facility\u2014The term \u201cqualified renewable energy facility\u201d\n                     means a qualified facility (as determined under section45(d)without regard to paragraphs(8)and(10)thereof and to any placed in service date) owned by a public power provider, a governmental\n                     body, or a cooperative electric company.",
+    "definitions": {
+      "term": "qualified renewable energy facility",
+      "requirements": [
+        "a qualified facility (as determined under section45(d)without regard to paragraphs(8)and(10)thereof and to any placed in service date) owned by a public power provider, a governmental body, or a cooperative electric company."
+      ]
+    }
+  },
+  {
+    "section": "54C",
+    "subsection": "(d)(2)",
+    "source_subsections": [
+      "(d)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Power Provider",
+    "text": "The term \u201cpublic power provider\u201d means a State utility with a service obligation, as such terms are defined in section217of the Federal Power Act (as in effect on the date of the enactment of this paragraph).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cpublic power provider\u201d means a State utility with a service obligation, as such terms are defined in section217of the Federal Power Act (as in effect on the date of the enactment of this paragraph)."
+    },
+    "cross_references": [
+      {
+        "section": "217o",
+        "reason": "as such terms are defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54C(d)(2)Public Power Provider\u2014The term \u201cpublic power provider\u201d means a State utility with a service obligation,\n                     as such terms are defined in section217of the Federal Power Act (as in effect on the date of the enactment of this paragraph).",
+    "definitions": {
+      "term": "public power provider",
+      "requirements": [
+        "a State utility with a service obligation, as such terms are defined in section217of the Federal Power Act (as in effect on the date of the enactment of this paragraph)."
+      ]
+    }
+  },
+  {
+    "section": "54C",
+    "subsection": "(d)(3)",
+    "source_subsections": [
+      "(d)(3)"
+    ],
+    "rule_type": "definition",
+    "title": "Body",
+    "text": "The term \u201cgovernmental body\u201d means any State or Indian tribal government, or any political subdivision thereof.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cgovernmental body\u201d means any State or Indian tribal government, or any political subdivision thereof."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54C(d)(3)Governmental Body\u2014The term \u201cgovernmental body\u201d means any State or Indian tribal government, or any political\n                     subdivision thereof.",
+    "definitions": {
+      "term": "governmental body",
+      "requirements": [
+        "any State or Indian tribal government, or any political subdivision thereof."
+      ]
+    }
+  },
+  {
+    "section": "54C",
+    "subsection": "(d)(4)",
+    "source_subsections": [
+      "(d)(4)"
+    ],
+    "rule_type": "definition",
+    "title": "Electric Company",
+    "text": "The term \u201ccooperative electric company\u201d means a mutual or cooperative electric company described in section501(c)(12)or section1381(a)(2)(C).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201ccooperative electric company\u201d means a mutual or cooperative electric company described in section501(c)(12)or section1381(a)(2)(C)."
+    },
+    "cross_references": [
+      {
+        "section": "501(c)(12)",
+        "reason": "electric company described in..."
+      },
+      {
+        "section": "1381(a)(2)(C)",
+        "reason": "or..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54C(d)(4)Cooperative Electric Company\u2014The term \u201ccooperative electric company\u201d means a mutual or cooperative electric company\n                     described in section501(c)(12)or section1381(a)(2)(C).",
+    "definitions": {
+      "term": "cooperative electric company",
+      "requirements": [
+        "a mutual or cooperative electric company described in section501(c)(12)or section1381(a)(2)(C)."
+      ]
+    }
+  },
+  {
+    "section": "54C",
+    "subsection": "(d)(5)",
+    "source_subsections": [
+      "(d)(5)"
+    ],
+    "rule_type": "definition",
+    "title": "Renewable Energy Bond Lender",
+    "text": "The term \u201cclean renewable energy bond lender\u201d means a lender which is a cooperative which is owned by, or has outstanding loans to, 100 or more cooperative electric companies and is in existence on February 1, 2002, and shall include any affiliated entity which is controlled by such lender.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cclean renewable energy bond lender\u201d means a lender which is a cooperative which is owned by, or has outstanding loans to, 100 or more cooperative electric companies and is in existence on February 1, 2002, and shall include any affiliated entity which is controlled by such lender."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54C(d)(5)Clean Renewable Energy Bond Lender\u2014The term \u201cclean renewable energy bond lender\u201d\n                     means a lender which is a cooperative which is owned by, or has outstanding loans\n                     to, 100 or more cooperative electric companies and is in existence on February 1,\n                     2002, and shall include any affiliated entity which is controlled by such lender.",
+    "definitions": {
+      "term": "clean renewable energy bond lender",
+      "requirements": [
+        "a lender which is a cooperative which is owned by, or has outstanding loans to, 100 or more cooperative electric companies and is in existence on February 1, 2002, and shall include any affiliated entity which is controlled by such lender."
+      ]
+    }
+  },
+  {
+    "section": "54C",
+    "subsection": "(d)(6)",
+    "source_subsections": [
+      "(d)(6)"
+    ],
+    "rule_type": "definition",
+    "title": "Issuer",
+    "text": "The term \u201cqualified issuer\u201d means a public power provider, a cooperative electric company, a governmental body, a clean renewable energy bond lender, or a not-for-profit electric utility which has received a loan or loan guarantee under the Rural Electrification Act.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified issuer\u201d means a public power provider, a cooperative electric company, a governmental body, a clean renewable energy bond lender, or a not-for-profit electric utility which has received a loan or loan guarantee under the Rural Electrification Act."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54C(d)(6)Qualified Issuer\u2014The term \u201cqualified issuer\u201d means a public power provider, a cooperative electric\n                     company, a governmental body, a clean renewable energy bond lender, or a not-for-profit\n                     electric utility which has received a loan or loan guarantee under the Rural Electrification\n                     Act.",
+    "definitions": {
+      "term": "qualified issuer",
+      "requirements": [
+        "a public power provider, a cooperative electric company, a governmental body, a clean renewable energy bond lender, or a not-for-profit electric utility which has received a loan or loan guarantee under the Rural Electrification Act."
+      ]
+    }
+  }
+]

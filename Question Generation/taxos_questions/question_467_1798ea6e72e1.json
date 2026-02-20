@@ -1,0 +1,22 @@
+{
+  "id": "1798ea6e72e1",
+  "section": "467",
+  "citation": "I.R.C. \u00a7 467(b)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 467(b) is discussed as follows: 'I.R.C. \u00a7 467(b)Accrual Of Rental PaymentsI.R.C. \u00a7 467(b)(1)Allocation Follows Agreement\u2014Except  as p...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 467(b)?",
+  "difficulty": 1,
+  "choices": [
+    "25.0%",
+    "75.0%",
+    "112.5%",
+    "65.0%",
+    "85.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 75.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 467(b)"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "e616cd18e9dd",
+  "section": "162",
+  "citation": "I.R.C. \u00a7 162(a)",
+  "type": "Calculation - Business Expenses",
+  "scenario": "XYZ Corp incurred the following expenses: Employee Salaries: $7,498.14, Traffic Fines: $1,826.30, Political Contributions: $821.09, Office Rent: $6,041.24, Personal Lunch: $9,615.09.",
+  "question": "Calculate the total deductible trade or business expenses under I.R.C. \u00a7 162.",
+  "difficulty": 2,
+  "choices": [
+    "$25,801.86",
+    "$13,539.38",
+    "$12,262.48",
+    "$6,769.69"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "Only ordinary and necessary business expenses are deductible. Fines, bribes, and personal expenses are not. Total: $13,539.38.",
+  "reasoning": "Summed deductible items.",
+  "source_rules": [
+    "I.R.C. \u00a7 162(a)",
+    "I.R.C. \u00a7 162(c)",
+    "I.R.C. \u00a7 162(f)"
+  ]
+}

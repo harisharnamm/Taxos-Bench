@@ -1,0 +1,22 @@
+{
+  "id": "dee60395dc71",
+  "section": "128",
+  "citation": "I.R.C. \u00a7 128(b)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 128(b) is discussed as follows: 'I.R.C. \u00a7 128(b)LimitationI.R.C. \u00a7 128(b)(1)In General\u2014The amount which may be excluded under subsect...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 128(b)?",
+  "difficulty": 1,
+  "choices": [
+    "$50.00",
+    "$200.00",
+    "$90.00",
+    "$100.00",
+    "$110.00"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies $100.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 128(b)"
+  ]
+}

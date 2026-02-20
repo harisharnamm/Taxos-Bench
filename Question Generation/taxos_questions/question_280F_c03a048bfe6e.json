@@ -1,0 +1,22 @@
+{
+  "id": "c03a048bfe6e",
+  "section": "280F",
+  "citation": "I.R.C. \u00a7 280F(d)(7)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 280F(d)(7) is discussed as follows: 'I.R.C. \u00a7 280F(d)(7)Automobile Price Inflation AdjustmentI.R.C. \u00a7 280F(d)(7)(A)In General\u2014In  the cas...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 280F(d)(7)?",
+  "difficulty": 1,
+  "choices": [
+    "$50.00",
+    "$100.00",
+    "$110.00",
+    "$90.00",
+    "$200.00"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $100.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 280F(d)(7)"
+  ]
+}

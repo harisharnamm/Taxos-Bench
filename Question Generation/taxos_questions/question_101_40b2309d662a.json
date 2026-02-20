@@ -1,0 +1,22 @@
+{
+  "id": "40b2309d662a",
+  "section": "101",
+  "citation": "I.R.C. \u00a7 101(f)(3)(G)(ii)(I)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 101(f)(3)(G)(ii)(I) is discussed as follows: 'I.R.C. \u00a7 101(f)(3)(G)(ii)(I)\u2014an  annual effective rate of 4 percent\n                              (3...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 101(f)(3)(G)(ii)(I)?",
+  "difficulty": 1,
+  "choices": [
+    "14.0%",
+    "4.0%",
+    "0.0%",
+    "6.0%",
+    "96.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 4.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 101(f)(3)(G)(ii)(I)"
+  ]
+}

@@ -1,0 +1,1642 @@
+[
+  {
+    "section": "32",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)"
+    ],
+    "rule_type": "limitation",
+    "title": "General",
+    "text": "In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by this subtitle for the taxable year an amount equal to the credit percentage of so much of the taxpayer's earned income for the taxable year as does not exceed the earned income amount.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by this subtitle for the taxable year an amount equal to the credit percentage of so much of the taxpayer's earned income for the taxable year as does not exceed the earned income amount."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(a)(1)In General\u2014In  the case of an eligible individual, there shall be allowed as a credit  against\n                     the tax imposed by this subtitle for the taxable year an amount  equal to the credit\n                     percentage of so much of the taxpayer's earned income  for the taxable year as does\n                     not exceed the earned income  amount.",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(a)(2)",
+    "source_subsections": [
+      "(a)(2)",
+      "(a)(2)(A)",
+      "(a)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The amount of the credit allowable to a taxpayer under paragraph(1)for any taxable year shall not exceed the excess (if any) of\u2014\u2014the credit percentage of the earned income amount, over\u2014the phaseout percentage of so much of the adjusted gross income (or, if greater, the earned income) of the taxpayer for the taxable year as exceeds the phaseout amount.",
+    "conditions": [
+      "any) of\u2014\u2014the credit percentage of the earned income amount, over\u2014the phaseout percentage of so much of the adjusted gross income (or,",
+      "greater, the earned income) of the taxpayer for the taxable year as exceeds the phaseout amount."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any) of\u2014\u2014the credit percentage of the earned income amount, over\u2014the phaseout percentage of so much of the adjusted gross income (or,",
+        "greater, the earned income) of the taxpayer for the taxable year as exceeds the phaseout amount."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of the credit allowable to a taxpayer under paragraph(1)for any taxable year shall not exceed the excess ("
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(a)(2)Limitation\u2014The  amount of the credit allowable to a taxpayer under paragraph(1)for any  taxable year shall not exceed the excess (if any) of\u2014I.R.C. \u00a7 32(a)(2)(A)\u2014the  credit percentage of the earned income amount, overI.R.C. \u00a7 32(a)(2)(B)\u2014the  phaseout percentage of so much of the  adjusted gross income (or, if  greater,\n                        the earned income) of the taxpayer for the taxable year as  exceeds the phaseout amount.",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The credit percentage and the phaseout percentage shall be determined as follows:In the case of an eli- The credit The phaseout gible individual with: percentage is: percentage is: 1 qualifying child 34 15.98 2 qualifying children 40 21.06 3 or more qualifying 45 21.06 children No qualifying 7.65 7.65 children",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The credit percentage and the phaseout percentage shall be determined as follows:In the case of an eli- The credit The phaseout gible individual with: percentage is: percentage is: 1 qualifying child 34 15.98 2 qualifying children 40 21.06 3 or more qualifying 45 21.06 children No qualifying 7.65 7.65 children"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(b)(1)Percentages\u2014The credit percentage and the phaseout percentage shall be determined as  follows:In the case of an eli-            The credit                The phaseout\ngible individual with:          percentage is:             percentage is:\n\n1 qualifying child                   34                        15.98\n2 qualifying children                40                        21.06\n3 or more qualifying                 45                        21.06\n  children\n\nNo qualifying                         7.65                      7.65\n  children",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(b)(2)(A)",
+    "source_subsections": [
+      "(b)(2)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Subject to subparagraph(B), the earned income amount and the phaseout amount shall be determined as follows:In the case of an eli- The earned income The phaseout amount gible individual with: amount is: is: 1 qualifying child $6,330 $11,610 2 or more qualifying $8,890 $11,610 children No qualifying $4,220 $5,280 children",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 6330,
+        "text": "$6,330"
+      },
+      {
+        "label": "amount",
+        "value": 11610,
+        "text": "$11,610"
+      },
+      {
+        "label": "amount",
+        "value": 8890,
+        "text": "$8,890"
+      },
+      {
+        "label": "amount",
+        "value": 11610,
+        "text": "$11,610"
+      },
+      {
+        "label": "amount",
+        "value": 4220,
+        "text": "$4,220"
+      },
+      {
+        "label": "amount",
+        "value": 5280,
+        "text": "$5,280"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Subject to subparagraph(B), the earned income amount and the phaseout amount shall be determined as follows:In the case of an eli- The earned income The phaseout amount gible individual with: amount is: is: 1 qualifying child $6,330 $11,610 2 or more qualifying $8,890 $11,610 children No qualifying $4,220 $5,280 children"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(b)(2)(A)In General\u2014Subject  to subparagraph(B), the earned income amount and the phaseout amount  shall be determined as follows:In the case of an eli-    The earned income    The phaseout amount\ngible individual with:    amount is:           is:\n\n1 qualifying child           $6,330               $11,610\n2 or more qualifying         $8,890               $11,610\n   children\nNo qualifying                $4,220                $5,280\n   children",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(b)(2)(B)",
+    "source_subsections": [
+      "(b)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Returns",
+    "text": "In the case of a joint return filed by an eligible individual and such individual's spouse, the phaseout amount determined under subparagraph(A)shall be increased by $5,000.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 5000,
+        "text": "$5,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a joint return filed by an eligible individual and such individual's spouse, the phaseout amount determined under subparagraph(A)shall be increased by $5,000."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(b)(2)(B)Joint Returns\u2014In the case of a  joint return filed by an eligible individual and such individual's\n                        spouse, the phaseout amount determined under subparagraph(A)shall be increased by $5,000.",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(c)(1)(A)",
+    "source_subsections": [
+      "(c)(1)(A)",
+      "(c)(1)(A)(i)",
+      "(c)(1)(A)(ii)",
+      "(c)(1)(A)(ii)(I)",
+      "(c)(1)(A)(ii)(II)",
+      "(c)(1)(A)(ii)(III)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201celigible individual\u201d means\u2014any individual who has a qualifying child for the taxable year, or\u2014any other individual who does not have a qualifying child for the taxable year, if\u2014\u2014such individual's principal place of abode is in the United States for more than one-half of such taxable year,\u2014such individual (or, if the individual is married, either the individual or the individual's spouse) has attained age 25 but not attained age 65 before the close of the taxable year, and\u2014such individual is not a dependent for whom a deduction is allowable under section151to another taxpayer for any taxable year beginning in the same calendar year as such taxable year.",
+    "conditions": [
+      "\u2014\u2014such individual's principal place of abode is in the United States for more than one-half of such taxable year,\u2014such individual (or,",
+      "the individual is married, either the individual or the individual's spouse) has attained age 25 but not attained age 65 before the close of the taxable year, and\u2014such individual is not a dependent for whom a deduction is allowable under section151to another taxpayer for any taxable year beginning in the same calendar year as such taxable year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014such individual's principal place of abode is in the United States for more than one-half of such taxable year,\u2014such individual (or,",
+        "the individual is married, either the individual or the individual's spouse) has attained age 25 but not attained age 65 before the close of the taxable year, and\u2014such individual is not a dependent for whom a deduction is allowable under section151to another taxpayer for any taxable year beginning in the same calendar year as such taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201celigible individual\u201d means\u2014any individual who has a qualifying child for the taxable year, or\u2014any other individual who does not have a qualifying child for the taxable year,"
+    },
+    "cross_references": [
+      {
+        "section": "151t",
+        "reason": "deduction is allowable under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(c)(1)(A)In General\u2014The  term \u201celigible individual\u201d meansI.R.C. \u00a7 32(c)(1)(A)(i)\u2014any  individual who has a qualifying child for the taxable year, orI.R.C. \u00a7 32(c)(1)(A)(ii)\u2014any  other individual who does not have a qualifying child for the taxable  year,\n                           if\u2014I.R.C. \u00a7 32(c)(1)(A)(ii)(I)\u2014such  individual's principal place of abode is in the United States for more  than\n                              one-half of such taxable year,I.R.C. \u00a7 32(c)(1)(A)(ii)(II)\u2014such  individual (or, if the individual is married, either the individual or the \n                              individual's spouse) has attained age 25 but not attained age 65 before  the close\n                              of the taxable year, andI.R.C. \u00a7 32(c)(1)(A)(ii)(III)\u2014such  individual is not a dependent for whom a deduction is allowable under  section151to another taxpayer for any taxable year beginning in the same  calendar year as\n                              such taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(c)(1)(B)",
+    "source_subsections": [
+      "(c)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Child Ineligible",
+    "text": "If an individual is the qualifying child of a taxpayer for any taxable year of such taxpayer beginning in a calendar year, such individual shall not be treated as an eligible individual for any taxable year of such individual beginning in such calendar year.",
+    "conditions": [
+      "an individual is the qualifying child of a taxpayer for any taxable year of such taxpayer beginning in a calendar year, such individual shall not be treated as an eligible individual for any taxable year of such individual beginning in such calendar year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "an individual is the qualifying child of a taxpayer for any taxable year of such taxpayer beginning in a calendar year, such individual shall not be treated as an eligible individual for any taxable year of such individual beginning in such calendar year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(c)(1)(B)Qualifying Child Ineligible\u2014If  an individual is the qualifying child of a taxpayer for any taxable year  of such\n                        taxpayer beginning in a calendar year, such individual shall not  be treated as an\n                        eligible individual for any taxable year of such  individual beginning in such calendar\n                        year.",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(c)(1)(C)",
+    "source_subsections": [
+      "(c)(1)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "For Individual Claiming Benefits Under Section 911",
+    "text": "The term \u201celigible individual\u201d does not include any individual who claims the benefits of section911(relating to citizens or residents living abroad) for the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201celigible individual\u201d does not include any individual who claims the benefits of section911(relating to citizens or residents living abroad) for the taxable year."
+    },
+    "cross_references": [
+      {
+        "section": "911",
+        "reason": "al who claims the benefits of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(c)(1)(C)Exception For Individual Claiming Benefits Under Section 911\u2014The  term \u201celigible individual\u201d does not include any individual who claims the  benefits\n                        of section911(relating to citizens or residents living abroad)  for the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(c)(1)(D)",
+    "source_subsections": [
+      "(c)(1)(D)"
+    ],
+    "rule_type": "definition",
+    "title": "On Eligibility Of Nonresident  Aliens",
+    "text": "The term \u201celigible individual\u201d shall not include any individual who is a nonresident alien individual for any portion of the taxable year unless such individual is treated for such taxable year as a resident of the United States for purposes of this chapter by reason of an election under subsection(g)or(h)of section6013.",
+    "conditions": [
+      "such individual is treated for such taxable year as a resident of the United States for purposes of this chapter by reason of an election under subsection(g)or(h)of section6013."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "such individual is treated for such taxable year as a resident of the United States for purposes of this chapter by reason of an election under subsection(g)or(h)of section6013."
+      ],
+      "except": [],
+      "result": "The term \u201celigible individual\u201d shall not include any individual who is a nonresident alien individual for any portion of the taxable year"
+    },
+    "cross_references": [
+      {
+        "section": "6013",
+        "reason": "on under subsection(g)or(h)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(c)(1)(D)Limitation On Eligibility Of Nonresident  Aliens\u2014The term \u201celigible individual\u201d shall not include any  individual  who is a nonresident\n                        alien individual for any portion of the  taxable year unless such individual is treated\n                        for such taxable year as a  resident of the United States for purposes of this chapter\n                        by reason of an  election under subsection(g)or(h)of section6013.",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(c)(1)(E)",
+    "source_subsections": [
+      "(c)(1)(E)",
+      "(c)(1)(E)(i)",
+      "(c)(1)(E)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Number Requirement",
+    "text": "No credit shall be allowed under this section to an eligible individual who does not include on the return of tax for the taxable year\u2014\u2014such individual's taxpayer identification number, and\u2014if the individual is married, the taxpayer identification number of such individual's spouse.",
+    "conditions": [
+      "the individual is married, the taxpayer identification number of such individual's spouse."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the individual is married, the taxpayer identification number of such individual's spouse."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be allowed under this section to an eligible individual who does not include on the return of tax for the taxable year\u2014\u2014such individual's taxpayer identification number, and\u2014"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(c)(1)(E)Identification Number Requirement\u2014No  credit shall be allowed under this section to an eligible individual who  does\n                        not include on the return of tax for the taxable year\u2014I.R.C. \u00a7 32(c)(1)(E)(i)\u2014such  individual's taxpayer identification number, andI.R.C. \u00a7 32(c)(1)(E)(ii)\u2014if  the individual is married, the  taxpayer identification number of such individual's\n                           spouse.",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(c)(2)(A)",
+    "source_subsections": [
+      "(c)(2)(A)",
+      "(c)(2)(A)(i)",
+      "(c)(2)(A)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "The term \u201cearned income\u201d means\u2014\u2014wages, salaries, tips, and other employee compensation, but only if such amounts are includible in gross income for the taxable year, plus\u2014the amount of the taxpayer's net earnings from self-employment for the taxable year (within the meaning of section1402(a)), but such net earnings shall be determined with regard to the deduction allowed to the taxpayer by section164(f).",
+    "conditions": [
+      "such amounts are includible in gross income for the taxable year, plus\u2014the amount of the taxpayer's net earnings from self-employment for the taxable year (within the meaning of section1402(a)), but such net earnings shall be determined with regard to the deduction allowed to the taxpayer by section164(f)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such amounts are includible in gross income for the taxable year, plus\u2014the amount of the taxpayer's net earnings from self-employment for the taxable year (within the meaning of section1402(a)), but such net earnings shall be determined with regard to the deduction allowed to the taxpayer by section164(f)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cearned income\u201d means\u2014\u2014wages, salaries, tips, and other employee compensation, but only"
+    },
+    "cross_references": [
+      {
+        "section": "1402(a)",
+        "reason": "e year (within the meaning of..."
+      },
+      {
+        "section": "164(f)",
+        "reason": "on allowed to the taxpayer by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(c)(2)(A)\u2014The  term \u201cearned income\u201d means\u2014I.R.C. \u00a7 32(c)(2)(A)(i)\u2014wages,  salaries, tips, and other employee compensation, but only if such amounts\n                           are includible in gross income for the taxable year, plusI.R.C. \u00a7 32(c)(2)(A)(ii)\u2014the  amount of the taxpayer's net earnings from self-employment for the taxable  year\n                           (within the meaning of section1402(a)), but such net earnings shall  be determined with regard to the deduction allowed\n                           to the taxpayer by  section164(f).",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(c)(2)(B)",
+    "source_subsections": [
+      "(c)(2)(B)",
+      "(c)(2)(B)(i)",
+      "(c)(2)(B)(ii)",
+      "(c)(2)(B)(iii)",
+      "(c)(2)(B)(iv)",
+      "(c)(2)(B)(v)",
+      "(c)(2)(B)(vi)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "For purposes of subparagraph(A)\u2014\u2014the earned income of an individual shall be computed without regard to any community property laws,\u2014no amount received as a pension or annuity shall be taken into account,\u2014no amount to which section871(a)applies (relating to income of nonresident alien individuals not connected with United States business) shall be taken into account,\u2014no amount received for services provided by an individual while the individual is an inmate at a penal institution shall be taken into account,\u2014no amount described in subparagraph(A)received for service performed in work activities as defined in paragraph (4) or (7) of section407(d)of the Social Security Act to which the taxpayer is assigned under any State program under part A of title IV of such Act shall be taken into account, but only to the extent such amount is subsidized under such State program, and\u2014a taxpayer may elect to treat amounts excluded from gross income by reason of section112as earned income.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph(A)\u2014\u2014the earned income of an individual shall be computed without regard to any community property laws,\u2014no amount received as a pension or annuity shall be taken into account,\u2014no amount to which section871(a)applies (relating to income of nonresident alien individuals not connected with United States business) shall be taken into account,\u2014no amount received for services provided by an individual while the individual is an inmate at a penal institution shall be taken into account,\u2014no amount described in subparagraph(A)received for service performed in work activities as defined in paragraph (4) or (7) of section407(d)of the Social Security Act to which the taxpayer is assigned under any State program under part A of title IV of such Act shall be taken into account, but only to the extent such amount is subsidized under such State program, and\u2014a taxpayer may elect to treat amounts excluded from gross income by reason of section112as earned income."
+    },
+    "cross_references": [
+      {
+        "section": "871(a)",
+        "reason": "o account,\u2014no amount to which..."
+      },
+      {
+        "section": "407(d)",
+        "reason": "ed in paragraph (4) or (7) of..."
+      },
+      {
+        "section": "112a",
+        "reason": "rom gross income by reason of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(c)(2)(B)\u2014For  purposes of subparagraph(A)\u2014I.R.C. \u00a7 32(c)(2)(B)(i)\u2014the  earned income of an individual shall be computed without regard to any  community\n                           property laws,I.R.C. \u00a7 32(c)(2)(B)(ii)\u2014no  amount received as a pension or annuity shall be taken into account,I.R.C. \u00a7 32(c)(2)(B)(iii)\u2014no  amount to which section871(a)applies (relating to income of nonresident  alien individuals not connected with\n                           United States business) shall be  taken into account,I.R.C. \u00a7 32(c)(2)(B)(iv)\u2014no  amount received for services provided by an individual while the  individual is\n                           an inmate at a penal institution shall be taken into  account,I.R.C. \u00a7 32(c)(2)(B)(v)\u2014no  amount described in subparagraph(A)received for service performed in  work activities as defined in paragraph (4) or\n                           (7) of section407(d)of  the Social Security Act to which the taxpayer is assigned under any State  program\n                           under part A of title IV of such Act  shall be taken into account,  but only to the\n                           extent such amount is subsidized under such State program,  andI.R.C. \u00a7 32(c)(2)(B)(vi)\u2014a taxpayer may elect to treat amounts excluded from gross income by reason of section112as earned income.",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(c)(3)(A)",
+    "source_subsections": [
+      "(c)(3)(A)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cqualifying child\u201d means a qualifying child of the taxpayer (as defined in section152(c), determined without regard to paragraph(1)(D)thereof and section152(e)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualifying child\u201d means a qualifying child of the taxpayer (as defined in section152(c), determined without regard to paragraph(1)(D)thereof and section152(e))."
+    },
+    "cross_references": [
+      {
+        "section": "152(c)",
+        "reason": "f the taxpayer (as defined in..."
+      },
+      {
+        "section": "152(e)",
+        "reason": "to paragraph(1)(D)thereof and..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(c)(3)(A)In General\u2014The  term \u201cqualifying child\u201d means a qualifying child of the taxpayer (as  defined\n                        in section152(c), determined without regard to paragraph(1)(D)thereof and section152(e)).",
+    "definitions": {
+      "term": "qualifying child",
+      "requirements": [
+        "a qualifying child of the taxpayer (as defined in section152(c), determined without regard to paragraph(1)(D)thereof and section152(e))."
+      ]
+    }
+  },
+  {
+    "section": "32",
+    "subsection": "(c)(3)(B)",
+    "source_subsections": [
+      "(c)(3)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Individual",
+    "text": "The term \u201cqualifying child\u201d shall not include an individual who is married as of the close of the taxpayer's taxable year unless the taxpayer is entitled to a deduction under section151for such taxable year with respect to such individual (or would be so entitled but for section152(e)).",
+    "conditions": [
+      "the taxpayer is entitled to a deduction under section151for such taxable year with respect to such individual (or would be so entitled but for section152(e))."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "the taxpayer is entitled to a deduction under section151for such taxable year with respect to such individual (or would be so entitled but for section152(e))."
+      ],
+      "except": [],
+      "result": "The term \u201cqualifying child\u201d shall not include an individual who is married as of the close of the taxpayer's taxable year"
+    },
+    "cross_references": [
+      {
+        "section": "151f",
+        "reason": "entitled to a deduction under..."
+      },
+      {
+        "section": "152(e)",
+        "reason": "would be so entitled but for..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(c)(3)(B)Married Individual\u2014The  term \u201cqualifying child\u201d shall not include an individual who is married as  of\n                        the close of the taxpayer's taxable year unless the taxpayer is  entitled to a deduction\n                        under section151for such taxable year with  respect to such individual (or would be so entitled but\n                        for section152(e)).",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(c)(3)(C)",
+    "source_subsections": [
+      "(c)(3)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Abode",
+    "text": "For purposes of subparagraph(A), the requirements of section152(c)(1)(B)shall be met only if the principal place of abode is in the United States.",
+    "conditions": [
+      "the principal place of abode is in the United States."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the principal place of abode is in the United States."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph(A), the requirements of section152(c)(1)(B)shall be met only"
+    },
+    "cross_references": [
+      {
+        "section": "152(c)(1)(B)",
+        "reason": "graph(A), the requirements of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(c)(3)(C)Place Of Abode\u2014For  purposes of subparagraph(A), the requirements of section152(c)(1)(B)shall be met only if the principal place of abode is in the United  States.",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(c)(3)(D)(i)",
+    "source_subsections": [
+      "(c)(3)(D)(i)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "A qualifying child shall not be taken into account under subsection(b)unless the taxpayer includes the name, age, and TIN of the qualifying child on the return of tax for the taxable year.",
+    "conditions": [
+      "the taxpayer includes the name, age, and TIN of the qualifying child on the return of tax for the taxable year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "the taxpayer includes the name, age, and TIN of the qualifying child on the return of tax for the taxable year."
+      ],
+      "except": [],
+      "result": "A qualifying child shall not be taken into account under subsection(b)"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(c)(3)(D)(i)In General\u2014A  qualifying child shall not be taken into account under subsection(b)unless the taxpayer includes the name, age, and TIN of the qualifying  child on\n                           the return of tax for the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(c)(3)(D)(ii)",
+    "source_subsections": [
+      "(c)(3)(D)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Methods",
+    "text": "The Secretary may prescribe other methods for providing the information described in clause(i).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary may prescribe other methods for providing the information described in clause(i)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(c)(3)(D)(ii)Other Methods\u2014The  Secretary may prescribe other methods for providing the information  described\n                           in clause(i).",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(c)(4)",
+    "source_subsections": [
+      "(c)(4)"
+    ],
+    "rule_type": "definition",
+    "title": "Of Military  Personnel Stationed Outside The United States",
+    "text": "For purposes of paragraphs(1)(A)(ii)(I)and(3)(C), the principal place of abode of a member of the Armed Forces of the United States shall be treated as in the United States during any period during which such member is stationed outside the United States while serving on extended active duty with the Armed Forces of the United States. For purposes of the preceding sentence, the term \u201cextended active duty\u201d means any period of active duty pursuant to a call or order to such duty for a period in excess of 90 days or for an indefinite period.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of paragraphs(1)(A)(ii)(I)and(3)(C), the principal place of abode of a member of the Armed Forces of the United States shall be treated as in the United States during any period during which such member is stationed outside the United States while serving on extended active duty with the Armed Forces of the United States. For purposes of the preceding sentence, the term \u201cextended active duty\u201d means any period of active duty pursuant to a call or order to such duty for a period in excess of 90 days or for an indefinite period."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(c)(4)Treatment Of Military  Personnel Stationed Outside The United States\u2014For  purposes of paragraphs(1)(A)(ii)(I)and(3)(C), the principal place of  abode of a member of the Armed Forces of the United States\n                     shall be  treated as in the United States during any period during which such member\n                     is stationed outside the United States while serving on extended active  duty  with\n                     the Armed Forces of the United States. For purposes of the  preceding sentence, the\n                     term \u201cextended active duty\u201d means any period of  active duty pursuant to a  call or\n                     order to such duty for a period in  excess of 90 days or for an indefinite period.",
+    "definitions": {
+      "term": "extended active duty",
+      "requirements": [
+        "any period of active duty pursuant to a call or order to such duty for a period in excess of 90 days or for an indefinite period."
+      ]
+    }
+  },
+  {
+    "section": "32",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "In the case of an individual who is married, this section shall apply only if a joint return is filed for the taxable year under section6013.",
+    "conditions": [
+      "a joint return is filed for the taxable year under section6013."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "a joint return is filed for the taxable year under section6013."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of an individual who is married, this section shall apply only"
+    },
+    "cross_references": [
+      {
+        "section": "6013",
+        "reason": "ed for the taxable year under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(d)(1)In General\u2014In the case of an individual who is married, this section shall apply only if a joint\n                     return is filed for the  taxable year under section6013.",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(d)(2)(A)",
+    "source_subsections": [
+      "(d)(2)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Except as provided in subparagraph (B), marital status shall be determined under section7703(a).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [
+      {
+        "applies_when": "subparagraph (B)",
+        "effect": "See referenced section"
+      }
+    ],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as provided in subparagraph (B), marital status shall be determined under section7703(a)."
+      ],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "7703(a)",
+        "reason": "tus shall be determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(d)(2)(A)In General\u2014Except as provided in subparagraph (B), marital status shall be determined under section7703(a).",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(d)(2)(B)",
+    "source_subsections": [
+      "(d)(2)(B)",
+      "(d)(2)(B)(i)",
+      "(d)(2)(B)(ii)",
+      "(d)(2)(B)(iii)",
+      "(d)(2)(B)(iii)(I)",
+      "(d)(2)(B)(iii)(II)"
+    ],
+    "rule_type": "condition",
+    "title": "Rule For Separated Spouse",
+    "text": "An individual shall not be treated as married if such individual\u2014\u2014is married (as determined under section7703(a)) and does not file a joint return for the taxable year,\u2014resides with a qualifying child of the individual for more than one-half of such taxable year, and.R.C. \u00a7 32(d)(2)(B)(iii)(I)\u2014during the last 6 months of such taxable year, does not have the same principal place of abode as the individual's spouse, or\u2014has a decree, instrument, or agreement (other than a decree of divorce) described in section121(d)(3)(C)with respect to the individual's spouse and is not a member of the same household with the individual's spouse by the end of the taxable year.",
+    "conditions": [
+      "such individual\u2014\u2014is married (as determined under section7703(a)) and does not file a joint return for the taxable year,\u2014resides with a qualifying child of the individual for more than one-half of such taxable year, and.R.C. \u00a7 32(d)(2)(B)(iii)(I)\u2014during the last 6 months of such taxable year, does not have the same principal place of abode as the individual's spouse, or\u2014has a decree, instrument, or agreement (other than a decree of divorce) described in section121(d)(3)(C)with respect to the individual's spouse and is not a member of the same household with the individual's spouse by the end of the taxable year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such individual\u2014\u2014is married (as determined under section7703(a)) and does not file a joint return for the taxable year,\u2014resides with a qualifying child of the individual for more than one-half of such taxable year, and.R.C. \u00a7 32(d)(2)(B)(iii)(I)\u2014during the last 6 months of such taxable year, does not have the same principal place of abode as the individual's spouse, or\u2014has a decree, instrument, or agreement (other than a decree of divorce) described in section121(d)(3)(C)with respect to the individual's spouse and is not a member of the same household with the individual's spouse by the end of the taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "An individual shall not be treated as married"
+    },
+    "cross_references": [
+      {
+        "section": "7703(a)",
+        "reason": "married (as determined under..."
+      },
+      {
+        "section": "121(d)(3)(C)",
+        "reason": "cree of divorce) described in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(d)(2)(B)Special Rule For Separated Spouse\u2014An individual shall not be treated as married if such individual\u2014I.R.C. \u00a7 32(d)(2)(B)(i)\u2014is married (as determined under section7703(a)) and does not file a joint return for the taxable year,I.R.C. \u00a7 32(d)(2)(B)(ii)\u2014resides with a qualifying child of the individual for more than one-half of such taxable\n                           year, andI.R.C. \u00a7 32(d)(2)(B)(iii)I.R.C. \u00a7 32(d)(2)(B)(iii)(I)\u2014during the last 6 months of such taxable year, does not have the same principal place\n                              of abode as the individual's spouse, orI.R.C. \u00a7 32(d)(2)(B)(iii)(II)\u2014has a decree, instrument, or agreement (other than a decree of divorce) described\n                              in section121(d)(3)(C)with respect to the individual's spouse and is not a member of the same household\n                              with the individual's spouse by the end of the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(e)",
+    "source_subsections": [
+      "(e)"
+    ],
+    "rule_type": "exception",
+    "title": "Year Must Be Full Taxable Year",
+    "text": "Except in the case of a taxable year closed by reason of the death of the taxpayer, no credit shall be allowable under this section in the case of a taxable year covering a period of less than 12 months.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "in the case of a taxable year closed by reason of the death of the taxpayer, no credit shall be allowable under this section in the case of a taxable year covering a period of less than 12 months."
+      ],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(e)Taxable Year Must Be Full Taxable Year\u2014Except  in the case of a taxable year closed by reason of the death of the  taxpayer,\n                  no credit shall be allowable under this section in the case of a  taxable year covering\n                  a period of less than 12 months.",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(f)(1)",
+    "source_subsections": [
+      "(f)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The amount of the credit allowed by this section shall be determined under tables prescribed by the Secretary.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of the credit allowed by this section shall be determined under tables prescribed by the Secretary."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(f)(1)In General\u2014The  amount of the credit allowed by this section shall be determined under  tables\n                     prescribed by the Secretary.",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(f)(2)",
+    "source_subsections": [
+      "(f)(2)",
+      "(f)(2)(A)",
+      "(f)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "For Tables",
+    "text": "The tables prescribed under paragraph(1)shall reflect the provisions of subsections(a)and(b)and shall have income brackets of not greater than $50 each\u2014\u2014for earned income between $0 and the amount of earned income at which the credit is phased out under subsection(b), and\u2014for adjusted gross income between the dollar amount at which the phaseout begins under subsection(b)and the amount of adjusted gross income at which the credit is phased out under subsection(b).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 50,
+        "text": "$50"
+      },
+      {
+        "label": "amount",
+        "value": 0,
+        "text": "$0"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The tables prescribed under paragraph(1)shall reflect the provisions of subsections(a)and(b)and shall have income brackets of not greater than $50 each\u2014\u2014for earned income between $0 and the amount of earned income at which the credit is phased out under subsection(b), and\u2014for adjusted gross income between the dollar amount at which the phaseout begins under subsection(b)and the amount of adjusted gross income at which the credit is phased out under subsection(b)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(f)(2)Requirements For Tables\u2014The  tables prescribed under paragraph(1)shall reflect the provisions of  subsections(a)and(b)and shall have income brackets of not greater than  $50 each\u2014I.R.C. \u00a7 32(f)(2)(A)\u2014for  earned income between $0 and the amount of earned income at which the  credit\n                        is phased out under subsection(b), andI.R.C. \u00a7 32(f)(2)(B)\u2014for   adjusted gross income between the dollar amount at which the phaseout  begins\n                        under subsection(b)and the amount of  adjusted gross income at  which the credit is phased out under\n                        subsection(b).",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(g)",
+    "source_subsections": [
+      "(g)"
+    ],
+    "rule_type": "condition",
+    "title": "With Advance Payments Of Earned Income Credit",
+    "text": "[Struck byPub. L. 111-226, \u00a7219(a)(1).]",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "[Struck byPub. L. 111-226, \u00a7219(a)(1).]"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(g)Coordination With Advance Payments Of Earned Income Credit\u2014[Struck byPub. L. 111-226, \u00a7219(a)(1).]",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(h)",
+    "source_subsections": [
+      "(h)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Credit To Taxpayers Subject To Alternative Minimum Tax",
+    "text": "[Repealed byPub. L. 107-16, \u00a7303(c).]",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "[Repealed byPub. L. 107-16, \u00a7303(c).]"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(h)Reduction Of Credit To Taxpayers Subject To Alternative Minimum Tax\u2014[Repealed byPub. L. 107-16, \u00a7303(c).]",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(i)(1)",
+    "source_subsections": [
+      "(i)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "No credit shall be allowed under subsection(a)for the taxable year if the aggregate amount of disqualified income of the taxpayer for the taxable year exceeds $10,000.",
+    "conditions": [
+      "the aggregate amount of disqualified income of the taxpayer for the taxable year exceeds $10,000."
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 10000,
+        "text": "$10,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the aggregate amount of disqualified income of the taxpayer for the taxable year exceeds $10,000."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be allowed under subsection(a)for the taxable year"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(i)(1)In General\u2014No  credit shall be allowed under subsection(a)for the taxable year if the  aggregate amount of disqualified income of the taxpayer\n                     for the taxable  year exceeds  $10,000.",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(i)(2)",
+    "source_subsections": [
+      "(i)(2)",
+      "(i)(2)(A)",
+      "(i)(2)(B)",
+      "(i)(2)(C)",
+      "(i)(2)(C)(i)",
+      "(i)(2)(C)(ii)",
+      "(i)(2)(C)(ii)(I)",
+      "(i)(2)(C)(ii)(II)",
+      "(i)(2)(D)",
+      "(i)(2)(E)",
+      "(i)(2)(E)(i)",
+      "(i)(2)(E)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Income",
+    "text": "For purposes of paragraph(1), the term \u201cdisqualified income\u201d means\u2014\u2014interest or dividends to the extent includible in gross income for the taxable year,\u2014interest received or accrued during the taxable year which is exempt from tax imposed by this chapter,\u2014the excess (if any) of\u2014\u2014gross income from rents or royalties not derived in the ordinary course of a trade or business, over\u2014the sum of\u2014\u2014the deductions (other than interest) which are clearly and directly allocable to such gross income, plus\u2014interest deductions properly allocable to such gross income,\u2014the capital gain net income (as defined in section1222) of the taxpayer for such taxable year, and\u2014the excess (if any) of\u2014\u2014the aggregate income from all passive activities for the taxable year (determined without regard to any amount included in earned income under subsection(c)(2)or described in a preceding subparagraph), over\u2014the aggregate losses from all passive activities for the taxable year (as so determined).For purposes of subparagraph(E), the term \u201cpassive activity\u201d has the meaning given such term by section469.",
+    "conditions": [
+      "any) of\u2014\u2014gross income from rents or royalties not derived in the ordinary course of a trade or business, over\u2014the sum of\u2014\u2014the deductions (other than interest) which are clearly and directly allocable to such gross income, plus\u2014interest deductions properly allocable to such gross income,\u2014the capital gain net income (as defined in section1222) of the taxpayer for such taxable year, and\u2014the excess (",
+      "any) of\u2014\u2014the aggregate income from all passive activities for the taxable year (determined without regard to any amount included in earned income under subsection(c)(2)or described in a preceding subparagraph), over\u2014the aggregate losses from all passive activities for the taxable year (as so determined).For purposes of subparagraph(E), the term \u201cpassive activity\u201d has the meaning given such term by section469."
+    ],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any) of\u2014\u2014gross income from rents or royalties not derived in the ordinary course of a trade or business, over\u2014the sum of\u2014\u2014the deductions (other than interest) which are clearly and directly allocable to such gross income, plus\u2014interest deductions properly allocable to such gross income,\u2014the capital gain net income (as defined in section1222) of the taxpayer for such taxable year, and\u2014the excess (",
+        "any) of\u2014\u2014the aggregate income from all passive activities for the taxable year (determined without regard to any amount included in earned income under subsection(c)(2)or described in a preceding subparagraph), over\u2014the aggregate losses from all passive activities for the taxable year (as so determined).For purposes of subparagraph(E), the term \u201cpassive activity\u201d has the meaning given such term by section469."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of paragraph(1), the term \u201cdisqualified income\u201d means\u2014\u2014interest or dividends to the extent includible in gross income for the taxable year,\u2014interest received or accrued during the taxable year which is exempt from tax imposed by this chapter,\u2014the excess ("
+    },
+    "cross_references": [
+      {
+        "section": "1222",
+        "reason": "ain net income (as defined in..."
+      },
+      {
+        "section": "469",
+        "reason": "he meaning given such term by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(i)(2)Disqualified Income\u2014For  purposes of paragraph(1), the term \u201cdisqualified income\u201d means\u2014I.R.C. \u00a7 32(i)(2)(A)\u2014interest  or dividends to the extent includible in gross income for the taxable  year,I.R.C. \u00a7 32(i)(2)(B)\u2014interest  received or accrued during the taxable year which is exempt from tax  imposed\n                        by this chapter,I.R.C. \u00a7 32(i)(2)(C)\u2014the  excess (if any) of\u2014I.R.C. \u00a7 32(i)(2)(C)(i)\u2014gross  income from rents or royalties not derived in the ordinary course of a  trade\n                           or business, overI.R.C. \u00a7 32(i)(2)(C)(ii)\u2014the  sum of\u2014I.R.C. \u00a7 32(i)(2)(C)(ii)(I)\u2014the  deductions (other than interest) which are clearly and directly allocable  to\n                              such gross income, plusI.R.C. \u00a7 32(i)(2)(C)(ii)(II)\u2014interest  deductions properly allocable to such gross  income,I.R.C. \u00a7 32(i)(2)(D)\u2014the  capital gain net income (as defined in section1222) of the taxpayer for  such taxable year, andI.R.C. \u00a7 32(i)(2)(E)\u2014the  excess (if any) of\u2014I.R.C. \u00a7 32(i)(2)(E)(i)\u2014the  aggregate income from all passive activities for the taxable year  (determined\n                           without regard to any amount included in earned income under  subsection(c)(2)or  described in a preceding subparagraph),  overI.R.C. \u00a7 32(i)(2)(E)(ii)\u2014the  aggregate losses from all passive activities for  the taxable year (as so  determined).For purposes of subparagraph(E), the term \u201cpassive  activity\u201d has the meaning given such term by section469.",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(j)(1)",
+    "source_subsections": [
+      "(j)(1)",
+      "(j)(1)(A)",
+      "(j)(1)(B)",
+      "(j)(1)(B)(i)",
+      "(j)(1)(B)(ii)",
+      "(j)(1)(B)(iii)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "In the case of any taxable year beginning after 2015 (2021 in the case of the dollar amount in subsection(i)(1)), each of the dollar amounts in subsections(b)(2)and(i)(1)shall be increased by an amount equal to\u2014\u2014such dollar amount, multiplied by\u2014the cost-of-living adjustment determined under section1(f)(3)for the calendar year in which the taxable year begins, determined by substituting in subparagraph (A)(ii) thereof\u2014\u2014in the case of amounts in subsection(b)(2)(A), \u201ccalendar year 1995\u201d for \u201ccalendar year 2016\u201d,\u2014in the case of the $5,000 amount in subsection(b)(2)(B), \u201ccalendar year 2008\u201d for \u201ccalendar year 2016\u201d, and\u2014in the case of the $10,000 amount in subsection(i)(1), \u201ccalendar year 2020\u201d for \u201ccalendar year 2016\u201d.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 5000,
+        "text": "$5,000"
+      },
+      {
+        "label": "amount",
+        "value": 10000,
+        "text": "$10,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any taxable year beginning after 2015 (2021 in the case of the dollar amount in subsection(i)(1)), each of the dollar amounts in subsections(b)(2)and(i)(1)shall be increased by an amount equal to\u2014\u2014such dollar amount, multiplied by\u2014the cost-of-living adjustment determined under section1(f)(3)for the calendar year in which the taxable year begins, determined by substituting in subparagraph (A)(ii) thereof\u2014\u2014in the case of amounts in subsection(b)(2)(A), \u201ccalendar year 1995\u201d for \u201ccalendar year 2016\u201d,\u2014in the case of the $5,000 amount in subsection(b)(2)(B), \u201ccalendar year 2008\u201d for \u201ccalendar year 2016\u201d, and\u2014in the case of the $10,000 amount in subsection(i)(1), \u201ccalendar year 2020\u201d for \u201ccalendar year 2016\u201d."
+    },
+    "cross_references": [
+      {
+        "section": "1(f)(3)",
+        "reason": "g adjustment determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(j)(1)In General\u2014In  the case of any taxable year beginning after 2015 (2021 in the case of the dollar\n                     amount in subsection(i)(1)), each of the dollar  amounts in subsections(b)(2)and(i)(1)shall be increased by an amount  equal to\u2014I.R.C. \u00a7 32(j)(1)(A)\u2014such  dollar amount, multiplied byI.R.C. \u00a7 32(j)(1)(B)\u2014the cost-of-living adjustment determined under section1(f)(3)for the calendar year in which the taxable year begins,  determined by substituting\n                        in subparagraph (A)(ii) thereof\u2014I.R.C. \u00a7 32(j)(1)(B)(i)\u2014in the case of amounts in subsection(b)(2)(A), \u201ccalendar year 1995\u201d for \u201ccalendar year 2016\u201d,I.R.C. \u00a7 32(j)(1)(B)(ii)\u2014in the case of the $5,000 amount in subsection(b)(2)(B), \u201ccalendar year 2008\u201d for \u201ccalendar year 2016\u201d, andI.R.C. \u00a7 32(j)(1)(B)(iii)\u2014in the case of the $10,000 amount in subsection(i)(1), \u201ccalendar year 2020\u201d for \u201ccalendar year 2016\u201d.",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(j)(2)(A)",
+    "source_subsections": [
+      "(j)(2)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "If any dollar amount in subsection(b)(2)(A)(after being increased under subparagraph(B)thereof), after being increased under paragraph(1), is not a multiple of $10, such dollar amount shall be rounded to the nearest multiple of $10.",
+    "conditions": [
+      "any dollar amount in subsection(b)(2)(A)(after being increased under subparagraph(B)thereof), after being increased under paragraph(1), is not a multiple of $10, such dollar amount shall be rounded to the nearest multiple of $10."
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 10,
+        "text": "$10,"
+      },
+      {
+        "label": "amount",
+        "value": 10,
+        "text": "$10"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any dollar amount in subsection(b)(2)(A)(after being increased under subparagraph(B)thereof), after being increased under paragraph(1), is not a multiple of $10, such dollar amount shall be rounded to the nearest multiple of $10."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(j)(2)(A)In General\u2014If  any dollar amount in  subsection(b)(2)(A)(after being increased under  subparagraph(B)thereof), after being increased under paragraph(1), is  not a multiple of $10, such dollar amount shall be rounded to the nearest  multiple\n                        of $10.",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(j)(2)(B)",
+    "source_subsections": [
+      "(j)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Income Threshold Amount",
+    "text": "If the dollar amount in subsection(i)(1), after being increased under paragraph(1), is not a multiple of $50, such amount shall be rounded to the next lowest multiple of $50.",
+    "conditions": [
+      "the dollar amount in subsection(i)(1), after being increased under paragraph(1), is not a multiple of $50, such amount shall be rounded to the next lowest multiple of $50."
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 50,
+        "text": "$50,"
+      },
+      {
+        "label": "amount",
+        "value": 50,
+        "text": "$50"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the dollar amount in subsection(i)(1), after being increased under paragraph(1), is not a multiple of $50, such amount shall be rounded to the next lowest multiple of $50."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(j)(2)(B)Disqualified Income Threshold Amount\u2014If  the dollar amount in subsection(i)(1), after being increased under  paragraph(1), is not a multiple of $50, such amount shall be rounded to  the next lowest multiple\n                        of $50.",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(k)(1)(A)",
+    "source_subsections": [
+      "(k)(1)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "No credit shall be allowed under this section for any taxable year in the disallowance period.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be allowed under this section for any taxable year in the disallowance period."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(k)(1)(A)In General\u2014No  credit shall be allowed under this section for any taxable year in the  disallowance\n                        period.",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(k)(1)(B)",
+    "source_subsections": [
+      "(k)(1)(B)",
+      "(k)(1)(B)(i)",
+      "(k)(1)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Period",
+    "text": "For purposes of paragraph(1), the disallowance period is\u2014\u2014the period of 10 taxable years after the most recent taxable year for which there was a final determination that the taxpayer's claim of credit under this section was due to fraud, and\u2014the period of 2 taxable years after the most recent taxable year for which there was a final determination that the taxpayer's claim of credit under this section was due to reckless or intentional disregard of rules and regulations (but not due to fraud).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of paragraph(1), the disallowance period is\u2014\u2014the period of 10 taxable years after the most recent taxable year for which there was a final determination that the taxpayer's claim of credit under this section was due to fraud, and\u2014the period of 2 taxable years after the most recent taxable year for which there was a final determination that the taxpayer's claim of credit under this section was due to reckless or intentional disregard of rules and regulations (but not due to fraud)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(k)(1)(B)Disallowance Period\u2014For  purposes of paragraph(1), the disallowance period is\u2014I.R.C. \u00a7 32(k)(1)(B)(i)\u2014the  period of 10 taxable years after the most recent taxable year for which  there\n                           was a final determination that the taxpayer's claim of credit under  this section\n                           was due to fraud, andI.R.C. \u00a7 32(k)(1)(B)(ii)\u2014the period of 2 taxable years after the most recent taxable year for which  there\n                           was a final determination that the taxpayer's claim of credit under  this section\n                           was due to reckless or intentional disregard of rules and  regulations (but not due\n                           to fraud).",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(k)(2)",
+    "source_subsections": [
+      "(k)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Making Improper Prior Claims",
+    "text": "In the case of a taxpayer who is denied credit under this section for any taxable year as a result of the deficiency procedures under subchapter B of chapter 63, no credit shall be allowed under this section for any subsequent taxable year unless the taxpayer provides such information as the Secretary may require to demonstrate eligibility for such credit.",
+    "conditions": [
+      "the taxpayer provides such information as the Secretary may require to demonstrate eligibility for such credit."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "the taxpayer provides such information as the Secretary may require to demonstrate eligibility for such credit."
+      ],
+      "except": [],
+      "result": "In the case of a taxpayer who is denied credit under this section for any taxable year as a result of the deficiency procedures under subchapter B of chapter 63, no credit shall be allowed under this section for any subsequent taxable year"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(k)(2)Taxpayers Making Improper Prior Claims\u2014In  the case of a taxpayer who is denied credit under this section for any  taxable\n                     year as a result of the deficiency procedures under subchapter B  of chapter 63, no\n                     credit shall be allowed under this section for any  subsequent taxable year unless\n                     the taxpayer provides such information as  the Secretary may require to demonstrate\n                     eligibility for such  credit.",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(l)",
+    "source_subsections": [
+      "(l)",
+      "(l)(1)",
+      "(l)(2)",
+      "(l)(3)",
+      "(l)(4)",
+      "(l)(5)"
+    ],
+    "rule_type": "definition",
+    "title": "With Certain Means",
+    "text": "With Certain Means-Tested Programs\u2014For purposes of\u2014\u2014the United States Housing Act of 1937,\u2014title V of the Housing Act of 1949,\u2014section 101 of the Housing and Urban Development Act of 1965,\u2014sections 221(d)(3), 235, and 236 of the National Housing Act, and\u2014the Food and Nutrition Act of 2008,any refund made to an individual (or the spouse of an individual) by reason of this section shall not be treated as income (and shall not be taken into account in determining resources for the month of its receipt and the following month).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "With Certain Means-Tested Programs\u2014For purposes of\u2014\u2014the United States Housing Act of 1937,\u2014title V of the Housing Act of 1949,\u2014section 101 of the Housing and Urban Development Act of 1965,\u2014sections 221(d)(3), 235, and 236 of the National Housing Act, and\u2014the Food and Nutrition Act of 2008,any refund made to an individual (or the spouse of an individual) by reason of this section shall not be treated as income (and shall not be taken into account in determining resources for the month of its receipt and the following month)."
+    },
+    "cross_references": [
+      {
+        "section": "101",
+        "reason": "V of the Housing Act of 1949,\u2014..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(l)Coordination With Certain Means-Tested Programs\u2014For  purposes of\u2014I.R.C. \u00a7 32(l)(1)\u2014the  United States Housing Act of 1937,I.R.C. \u00a7 32(l)(2)\u2014title  V of the Housing Act of 1949,I.R.C. \u00a7 32(l)(3)\u2014section  101 of the Housing and Urban Development Act of 1965,I.R.C. \u00a7 32(l)(4)\u2014sections  221(d)(3), 235, and 236 of the National Housing Act, andI.R.C. \u00a7 32(l)(5)\u2014the  Food and Nutrition Act of 2008,any refund made to an individual (or the spouse of  an individual) by reason of this\n                     section shall not  be treated as income (and shall not be taken into account in determining\n                     resources for the month of its receipt and the following  month).",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(m)",
+    "source_subsections": [
+      "(m)"
+    ],
+    "rule_type": "definition",
+    "title": "Numbers",
+    "text": "Solely for purposes of subsections(c)(1)(E)and(c)(3)(D), a taxpayer identification number means a social security number issued to an individual by the Social Security Administration (other than a social security number issued pursuant to clause (II) (or that portion of clause (III) that relates to clause (II)) of section 205(c)(2)(B)(i) of the Social Security Act) on or before the due date for filing the return for the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Solely for purposes of subsections(c)(1)(E)and(c)(3)(D), a taxpayer identification number means a social security number issued to an individual by the Social Security Administration (other than a social security number issued pursuant to clause (II) (or that portion of clause (III) that relates to clause (II)) of section 205(c)(2)(B)(i) of the Social Security Act) on or before the due date for filing the return for the taxable year."
+    },
+    "cross_references": [
+      {
+        "section": "205(c)(2)(B)(i)",
+        "reason": "at relates to clause (II)) of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(m)Identification Numbers\u2014Solely  for purposes of  subsections(c)(1)(E)and(c)(3)(D), a taxpayer  identification number means a social security number issued to an  individual\n                  by the Social Security Administration (other than a social  security number issued\n                  pursuant to clause (II) (or that portion of clause  (III) that relates to clause (II))\n                  of section 205(c)(2)(B)(i) of the  Social Security Act) on or before the due date\n                  for filing the return for the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(n)(1)(A)",
+    "source_subsections": [
+      "(n)(1)(A)"
+    ],
+    "rule_type": "limitation",
+    "title": "General",
+    "text": "Subsection(c)(1)(A)(ii)(II)shall be applied by substituting \u201cthe applicable minimum age\u201d for \u201cage 25\u201d.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Subsection(c)(1)(A)(ii)(II)shall be applied by substituting \u201cthe applicable minimum age\u201d for \u201cage 25\u201d."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(n)(1)(A)In General\u2014Subsection(c)(1)(A)(ii)(II)shall be applied by substituting \u201cthe applicable minimum age\u201d for \u201cage 25\u201d.",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(n)(1)(B)",
+    "source_subsections": [
+      "(n)(1)(B)",
+      "(n)(1)(B)(i)",
+      "(n)(1)(B)(ii)",
+      "(n)(1)(B)(iii)"
+    ],
+    "rule_type": "definition",
+    "title": "Minimum Age",
+    "text": "For purposes of this paragraph, the term \u201capplicable minimum age\u201d means\u2014\u2014except as otherwise provided in this subparagraph, age 19,\u2014in the case of a specified student (other than a qualified former foster youth or a qualified homeless youth), age 24, and\u2014in the case of a qualified former foster youth or a qualified homeless youth, age 18.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as otherwise provided in this subparagraph, age 19,\u2014in the case of a specified student (other than a qualified former foster youth or a qualified homeless youth), age 24, and\u2014in the case of a qualified former foster youth or a qualified homeless youth, age 18."
+      ],
+      "result": "For purposes of this paragraph, the term \u201capplicable minimum age\u201d means\u2014\u2014"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(n)(1)(B)Applicable Minimum Age\u2014For purposes of this paragraph, the term \u201capplicable minimum age\u201d means\u2014I.R.C. \u00a7 32(n)(1)(B)(i)\u2014except as otherwise provided in this subparagraph, age 19,I.R.C. \u00a7 32(n)(1)(B)(ii)\u2014in the case of a specified student (other than a qualified former foster youth or\n                           a qualified homeless youth), age 24, andI.R.C. \u00a7 32(n)(1)(B)(iii)\u2014in the case of a qualified former foster youth or a qualified homeless youth, age\n                           18.",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(n)(1)(C)",
+    "source_subsections": [
+      "(n)(1)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "Student",
+    "text": "For purposes of this paragraph, the term \u201cspecified student\u201d means, with respect to any taxable year, an individual who is an eligible student (as defined in section25A(b)(3)) during at least 5 calendar months during the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the term \u201cspecified student\u201d means, with respect to any taxable year, an individual who is an eligible student (as defined in section25A(b)(3)) during at least 5 calendar months during the taxable year."
+    },
+    "cross_references": [
+      {
+        "section": "25A(b)(3)",
+        "reason": "igible student (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(n)(1)(C)Specified Student\u2014For purposes of this paragraph, the term \u201cspecified student\u201d means, with respect to\n                        any taxable year, an individual who is an eligible student (as defined in section25A(b)(3)) during at least 5 calendar months during the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(n)(1)(D)",
+    "source_subsections": [
+      "(n)(1)(D)",
+      "(n)(1)(D)(i)",
+      "(n)(1)(D)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Former Foster Youth",
+    "text": "For purposes of this paragraph, the term \u201cqualified former foster youth\u201d means an individual who\u2014\u2014on or after the date that such individual attained age 14, was in foster care provided under the supervision or administration of an entity administering (or eligible to administer) a plan under part B or part E of title IV of the Social Security Act (without regard to whether Federal assistance was provided with respect to such child under such part E), and\u2014provides (in such manner as the Secretary may provide) consent for entities which administer a plan under part B or part E of title IV of the Social Security Act to disclose to the Secretary information related to the status of such individual as a qualified former foster youth.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the term \u201cqualified former foster youth\u201d means an individual who\u2014\u2014on or after the date that such individual attained age 14, was in foster care provided under the supervision or administration of an entity administering (or eligible to administer) a plan under part B or part E of title IV of the Social Security Act (without regard to whether Federal assistance was provided with respect to such child under such part E), and\u2014provides (in such manner as the Secretary may provide) consent for entities which administer a plan under part B or part E of title IV of the Social Security Act to disclose to the Secretary information related to the status of such individual as a qualified former foster youth."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(n)(1)(D)Qualified Former Foster Youth\u2014For purposes of this paragraph, the term \u201cqualified former foster youth\u201d means an\n                        individual who\u2014I.R.C. \u00a7 32(n)(1)(D)(i)\u2014on or after the date that such individual attained age 14, was in foster care provided\n                           under the supervision or administration of an entity administering (or eligible to\n                           administer) a plan under part B or part E of title IV of the Social Security Act (without\n                           regard to whether Federal assistance was provided with respect to such child under\n                           such part E), andI.R.C. \u00a7 32(n)(1)(D)(ii)\u2014provides (in such manner as the Secretary may provide) consent for entities which\n                           administer a plan under part B or part E of title IV of the Social Security Act to\n                           disclose to the Secretary information related to the status of such individual as\n                           a qualified former foster youth.",
+    "definitions": {
+      "term": "qualified former foster youth",
+      "requirements": [
+        "an individual who\u2014\u2014on or after the date that such individual attained age 14, was in foster care provided under the supervision or administration of an entity administering (or eligible to administer) a plan under part B or part E of title IV of the Social Security Act (without regard to whether Federal assistance was provided with respect to such child under such part E), and\u2014provides (in such manner as the Secretary may provide) consent for entities which administer a plan under part B or part E of title IV of the Social Security Act to disclose to the Secretary information related to the status of such individual as a qualified former foster youth."
+      ]
+    }
+  },
+  {
+    "section": "32",
+    "subsection": "(n)(1)(E)",
+    "source_subsections": [
+      "(n)(1)(E)"
+    ],
+    "rule_type": "definition",
+    "title": "Homeless Youth",
+    "text": "For purposes of this paragraph, the term \u201cqualified homeless youth\u201d means, with respect to any taxable year, an individual who certifies, in a manner as provided by the Secretary, that such individual is either an unaccompanied youth who is a homeless child or youth, or is unaccompanied, at risk of homelessness, and self-supporting.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the term \u201cqualified homeless youth\u201d means, with respect to any taxable year, an individual who certifies, in a manner as provided by the Secretary, that such individual is either an unaccompanied youth who is a homeless child or youth, or is unaccompanied, at risk of homelessness, and self-supporting."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(n)(1)(E)Qualified Homeless Youth\u2014For purposes of this paragraph, the term \u201cqualified homeless youth\u201d means, with respect\n                        to any taxable year, an individual who certifies, in a manner as provided by the Secretary,\n                        that such individual is either an unaccompanied youth who is a homeless child or youth,\n                        or is unaccompanied, at risk of homelessness, and self-supporting.",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(n)(2)",
+    "source_subsections": [
+      "(n)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Maximum Age For Credit",
+    "text": "Subsection(c)(1)(A)(ii)(II)shall be applied without regard to the phrase \u201cbut not attained age 65\u201d.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Subsection(c)(1)(A)(ii)(II)shall be applied without regard to the phrase \u201cbut not attained age 65\u201d."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(n)(2)Elimination Of Maximum Age For Credit\u2014Subsection(c)(1)(A)(ii)(II)shall be applied without regard to the phrase \u201cbut not attained age 65\u201d.",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(n)(3)",
+    "source_subsections": [
+      "(n)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "In Credit And Phaseout Percentages",
+    "text": "The table contained in subsection(b)(1)shall be applied by substituting \u201c15.3\u201d for \u201c7.65\u201d each place it appears therein.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The table contained in subsection(b)(1)shall be applied by substituting \u201c15.3\u201d for \u201c7.65\u201d each place it appears therein."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(n)(3)Increase In Credit And Phaseout Percentages\u2014The table contained in subsection(b)(1)shall be applied by substituting \u201c15.3\u201d for \u201c7.65\u201d each place it appears therein.",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(n)(4)(A)",
+    "source_subsections": [
+      "(n)(4)(A)",
+      "(n)(4)(A)(i)",
+      "(n)(4)(A)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The table contained in subsection(b)(2)(A)shall be applied\u2014\u2014by substituting \u201c$9,820\u201d for \u201c$4,220\u201d, and\u2014by substituting \u201c$11,610\u201d for \u201c$5,280\u201d.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 9820,
+        "text": "$9,820"
+      },
+      {
+        "label": "amount",
+        "value": 4220,
+        "text": "$4,220"
+      },
+      {
+        "label": "amount",
+        "value": 11610,
+        "text": "$11,610"
+      },
+      {
+        "label": "amount",
+        "value": 5280,
+        "text": "$5,280"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The table contained in subsection(b)(2)(A)shall be applied\u2014\u2014by substituting \u201c$9,820\u201d for \u201c$4,220\u201d, and\u2014by substituting \u201c$11,610\u201d for \u201c$5,280\u201d."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(n)(4)(A)In General\u2014The table contained in subsection(b)(2)(A)shall be applied\u2014I.R.C. \u00a7 32(n)(4)(A)(i)\u2014by substituting \u201c$9,820\u201d for \u201c$4,220\u201d, andI.R.C. \u00a7 32(n)(4)(A)(ii)\u2014by substituting \u201c$11,610\u201d for \u201c$5,280\u201d.",
+    "definitions": null
+  },
+  {
+    "section": "32",
+    "subsection": "(n)(4)(B)",
+    "source_subsections": [
+      "(n)(4)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "With Inflation Adjustment",
+    "text": "Subsection(j)shall not apply to any dollar amount specified in this paragraph",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Subsection(j)shall not apply to any dollar amount specified in this paragraph"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 32(n)(4)(B)Coordination With Inflation Adjustment\u2014Subsection(j)shall not apply to any dollar amount specified in this paragraph",
+    "definitions": null
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "id": "cfc98068b532",
+  "section": "302",
+  "citation": "I.R.C. \u00a7 302(b)(2)(B)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 302(b)(2)(B) is discussed as follows: 'I.R.C. \u00a7 302(b)(2)(B)Limitation\u2014This  paragraph shall not apply unless immediately after the redempt...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 302(b)(2)(B)?",
+  "difficulty": 1,
+  "choices": [
+    "60.0%",
+    "75.0%",
+    "40.0%",
+    "50.0%"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 302(b)(2)(B)"
+  ]
+}

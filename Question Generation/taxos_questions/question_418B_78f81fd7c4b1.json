@@ -1,0 +1,22 @@
+{
+  "id": "78f81fd7c4b1",
+  "section": "418B",
+  "citation": "I.R.C. \u00a7 418B(d)(3)(B)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 418B(d)(3)(B) is discussed as follows: 'I.R.C. \u00a7 418B(d)(3)(B)Eligible Plans\u2014A  plan is described in this subparagraph if\u2014I.R.C. \u00a7 418B(d)(3...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 418B(d)(3)(B)?",
+  "difficulty": 1,
+  "choices": [
+    "5.0%",
+    "7.5%",
+    "15.0%",
+    "0.0%",
+    "95.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 5.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 418B(d)(3)(B)"
+  ]
+}

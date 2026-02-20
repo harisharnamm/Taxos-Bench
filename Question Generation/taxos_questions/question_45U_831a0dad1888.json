@@ -1,0 +1,22 @@
+{
+  "id": "831a0dad1888",
+  "section": "45U",
+  "citation": "I.R.C. \u00a7 45U(b)(2)(A)(ii)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 45U(b)(2)(A)(ii) is discussed as follows: 'I.R.C. \u00a7 45U(b)(2)(A)(ii)\u2014the amount equal to 16 percent of the excess of\u2014I.R.C. \u00a7 45U(b)(2)(A)(ii)(...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 45U(b)(2)(A)(ii)?",
+  "difficulty": 1,
+  "choices": [
+    "24.0%",
+    "26.0%",
+    "6.0%",
+    "16.0%",
+    "84.0%"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies 16.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 45U(b)(2)(A)(ii)"
+  ]
+}

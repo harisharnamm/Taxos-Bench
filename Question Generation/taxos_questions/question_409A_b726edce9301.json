@@ -1,0 +1,22 @@
+{
+  "id": "b726edce9301",
+  "section": "409A",
+  "citation": "I.R.C. \u00a7 409A(b)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 409A(b) is discussed as follows: 'I.R.C. \u00a7 409A(b)Rules Relating To FundingI.R.C. \u00a7 409A(b)(1)Offshore Property In A Trust\u2014In the case...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 409A(b)?",
+  "difficulty": 1,
+  "choices": [
+    "1.0%",
+    "1.5%",
+    "0.0%",
+    "99.0%",
+    "11.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 1.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 409A(b)"
+  ]
+}

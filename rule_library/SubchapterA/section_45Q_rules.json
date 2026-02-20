@@ -1,0 +1,1444 @@
+[
+  {
+    "section": "45Q",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)",
+      "(a)(1)(A)",
+      "(a)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$20 per metric ton of qualified carbon oxide which is\u2014\u2014captured by the taxpayer using carbon capture equipment which is originally placed in service at a qualified facility before the date of the enactment of the Bipartisan Budget Act of 2018, and\u2014disposed of by the taxpayer in secure geological storage and not used by the taxpayer as described in paragraph (2)(B),",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 20,
+        "text": "$20"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$20 per metric ton of qualified carbon oxide which is\u2014\u2014captured by the taxpayer using carbon capture equipment which is originally placed in service at a qualified facility before the date of the enactment of the Bipartisan Budget Act of 2018, and\u2014disposed of by the taxpayer in secure geological storage and not used by the taxpayer as described in paragraph (2)(B),"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(a)(1)\u2014$20 per metric ton of qualified carbon oxide which is\u2014I.R.C. \u00a7 45Q(a)(1)(A)\u2014captured by the taxpayer using carbon capture equipment which is originally placed\n                        in service at a qualified facility before the date of the enactment of the Bipartisan\n                        Budget Act of 2018, andI.R.C. \u00a7 45Q(a)(1)(B)\u2014disposed of by the taxpayer in secure geological storage and not used by the taxpayer\n                        as described in paragraph (2)(B),",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(a)(2)",
+    "source_subsections": [
+      "(a)(2)",
+      "(a)(2)(A)",
+      "(a)(2)(B)",
+      "(a)(2)(B)(i)",
+      "(a)(2)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$10 per metric ton of qualified carbon oxide which is\u2014\u2014captured by the taxpayer using carbon capture equipment which is originally placed in service at a qualified facility before the date of the enactment of the Bipartisan Budget Act of 2018, and.R.C. \u00a7 45Q(a)(2)(B)(i)\u2014used by the taxpayer as a tertiary injectant in a qualified enhanced oil or natural gas recovery project and disposed of by the taxpayer in secure geological storage, or\u2014utilized by the taxpayer in a manner described in subsection (f)(5), and",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 10,
+        "text": "$10"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$10 per metric ton of qualified carbon oxide which is\u2014\u2014captured by the taxpayer using carbon capture equipment which is originally placed in service at a qualified facility before the date of the enactment of the Bipartisan Budget Act of 2018, and.R.C. \u00a7 45Q(a)(2)(B)(i)\u2014used by the taxpayer as a tertiary injectant in a qualified enhanced oil or natural gas recovery project and disposed of by the taxpayer in secure geological storage, or\u2014utilized by the taxpayer in a manner described in subsection (f)(5), and"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(a)(2)\u2014$10 per metric ton of qualified carbon oxide which is\u2014I.R.C. \u00a7 45Q(a)(2)(A)\u2014captured by the taxpayer using carbon capture equipment which is originally placed\n                        in service at a qualified facility before the date of the enactment of the Bipartisan\n                        Budget Act of 2018, andI.R.C. \u00a7 45Q(a)(2)(B)I.R.C. \u00a7 45Q(a)(2)(B)(i)\u2014used by the taxpayer as a tertiary injectant in a qualified enhanced oil or natural\n                           gas recovery project and disposed of by the taxpayer in secure geological storage,\n                           orI.R.C. \u00a7 45Q(a)(2)(B)(ii)\u2014utilized by the taxpayer in a manner described in subsection (f)(5), and",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(a)(3)",
+    "source_subsections": [
+      "(a)(3)",
+      "(a)(3)(A)",
+      "(a)(3)(B)",
+      "(a)(3)(B)(i)",
+      "(a)(3)(B)(ii)",
+      "(a)(3)(B)(iii)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "the applicable dollar amount (as determined under subsection (b)(1)) per metric ton of qualified carbon oxide which is\u2014\u2014captured by the taxpayer using carbon capture equipment which is originally placed in service at a qualified facility on or after the date of the enactment of the Bipartisan Budget Act of 2018, during the 12-year period beginning on the date the equipment was originally placed in service, and.R.C. \u00a7 45Q(a)(3)(B)(i)\u2014disposed of by the taxpayer in secure geological storage and not used by the taxpayer as described in clause (ii) or (iii),\u2014used by the taxpayer as a tertiary injectant in a qualified enhanced oil or natural gas recovery project and disposed of by the taxpayer in secure geological storage, or\u2014(iii) utilized by the taxpayer in a manner described in subsection (f)(5).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "the applicable dollar amount (as determined under subsection (b)(1)) per metric ton of qualified carbon oxide which is\u2014\u2014captured by the taxpayer using carbon capture equipment which is originally placed in service at a qualified facility on or after the date of the enactment of the Bipartisan Budget Act of 2018, during the 12-year period beginning on the date the equipment was originally placed in service, and.R.C. \u00a7 45Q(a)(3)(B)(i)\u2014disposed of by the taxpayer in secure geological storage and not used by the taxpayer as described in clause (ii) or (iii),\u2014used by the taxpayer as a tertiary injectant in a qualified enhanced oil or natural gas recovery project and disposed of by the taxpayer in secure geological storage, or\u2014(iii) utilized by the taxpayer in a manner described in subsection (f)(5)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(a)(3)\u2014the applicable dollar amount (as determined under subsection (b)(1)) per metric ton\n                     of qualified carbon oxide which is\u2014I.R.C. \u00a7 45Q(a)(3)(A)\u2014captured by the taxpayer using carbon capture equipment which is originally placed\n                        in service at a qualified facility on or after the date of the enactment of the Bipartisan\n                        Budget Act of 2018, during the 12-year period beginning on the date the equipment\n                        was originally placed in service, andI.R.C. \u00a7 45Q(a)(3)(B)I.R.C. \u00a7 45Q(a)(3)(B)(i)\u2014disposed of by the taxpayer in secure geological storage and not used by the taxpayer\n                           as described in clause (ii) or (iii),I.R.C. \u00a7 45Q(a)(3)(B)(ii)\u2014used by the taxpayer as a tertiary injectant in a qualified enhanced oil or natural\n                           gas recovery project and disposed of by the taxpayer in secure geological storage,\n                           orI.R.C. \u00a7 45Q(a)(3)(B)(iii)\u2014(iii) utilized by the taxpayer in a manner described in subsection (f)(5).",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(b)(1)(A)",
+    "source_subsections": [
+      "(b)(1)(A)",
+      "(b)(1)(A)(i)",
+      "(b)(1)(A)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Except as provided in subparagraph (B) or (C), the applicable dollar amount shall be an amount equal to\u2014\u2014for any taxable year beginning in a calendar year after 2024 and before 2027, $17, and\u2014for any taxable year beginning in a calendar year after 2026, an amount equal to the product of $17 and the inflation adjustment factor for such calendar year determined undersection 43(b)(3)(B)for such calendar year, determined by substituting \u201c2025\u201d for \u201c1990\u201d.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 17,
+        "text": "$17,"
+      },
+      {
+        "label": "amount",
+        "value": 17,
+        "text": "$17"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [
+      {
+        "applies_when": "subparagraph (B) or (C)",
+        "effect": "See referenced section"
+      }
+    ],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as provided in subparagraph (B) or (C), the applicable dollar amount shall be an amount equal to\u2014\u2014for any taxable year beginning in a calendar year after 2024 and before 2027, $17, and\u2014for any taxable year beginning in a calendar year after 2026, an amount equal to the product of $17 and the inflation adjustment factor for such calendar year determined undersection 43(b)(3)(B)for such calendar year, determined by substituting \u201c2025\u201d for \u201c1990\u201d."
+      ],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(b)(1)(A)In General\u2014Except as provided in subparagraph (B) or (C), the applicable dollar amount shall\n                        be an amount equal to\u2014I.R.C. \u00a7 45Q(b)(1)(A)(i)\u2014for any taxable year beginning in a calendar year after 2024 and before 2027, $17,\n                           andI.R.C. \u00a7 45Q(b)(1)(A)(ii)\u2014for any taxable year beginning in a calendar year after 2026, an amount equal to the\n                           product of $17 and the inflation adjustment factor for such calendar year determined\n                           undersection 43(b)(3)(B)for such calendar year, determined by substituting \u201c2025\u201d for \u201c1990\u201d.",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(b)(1)(B)",
+    "source_subsections": [
+      "(b)(1)(B)"
+    ],
+    "rule_type": "exception",
+    "title": "Rule For Direct Air Capture Facilities",
+    "text": "In the case of any qualified facility described in subsection(d)(2)(A)which is placed in service after December 31, 2022, the applicable dollar amount shall be an amount equal to the applicable dollar amount otherwise determined with respect to such qualified facility under subparagraph (A), except that such subparagraph shall be applied by substituting \u201c$36\u201d for \u201c$17\u201d each place it appears.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 36,
+        "text": "$36"
+      },
+      {
+        "label": "amount",
+        "value": 17,
+        "text": "$17"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "that such subparagraph shall be applied by substituting \u201c$36\u201d for \u201c$17\u201d each place it appears."
+      ],
+      "result": "In the case of any qualified facility described in subsection(d)(2)(A)which is placed in service after December 31, 2022, the applicable dollar amount shall be an amount equal to the applicable dollar amount otherwise determined with respect to such qualified facility under subparagraph (A),"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(b)(1)(B)Special Rule For Direct Air Capture Facilities\u2014In the case of any qualified facility described in subsection(d)(2)(A)which is placed in service after December 31, 2022, the applicable dollar amount\n                        shall be an amount equal to the applicable dollar amount otherwise determined with\n                        respect to such qualified facility under subparagraph (A), except that such subparagraph\n                        shall be applied by substituting \u201c$36\u201d for \u201c$17\u201d each place it appears.",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(b)(1)(C)",
+    "source_subsections": [
+      "(b)(1)(C)",
+      "(b)(1)(C)(i)",
+      "(b)(1)(C)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Dollar Amount For Additional Carbon Capture Equipment",
+    "text": "In the case of any qualified facility which is placed in service before January 1, 2023, if any additional carbon capture equipment is installed at such facility and such equipment is placed in service after December 31, 2022, the applicable dollar amount shall be an amount equal to the applicable dollar amount otherwise determined under this paragraph, except that subparagraph (B) shall be applied\u2014\u2014by substituting \u201cbefore January 1, 2023\u201d for \u201cafter December 31, 2022\u201d, and\u2014by substituting \u201cthe additional carbon capture equipment installed at such qualified facility\u201d for \u201csuch qualified facility\u201d.",
+    "conditions": [
+      "any additional carbon capture equipment is installed at such facility and such equipment is placed in service after December 31, 2022, the applicable dollar amount shall be an amount equal to the applicable dollar amount otherwise determined under this paragraph,"
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any additional carbon capture equipment is installed at such facility and such equipment is placed in service after December 31, 2022, the applicable dollar amount shall be an amount equal to the applicable dollar amount otherwise determined under this paragraph,"
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "that subparagraph (B) shall be applied\u2014\u2014by substituting \u201cbefore January 1, 2023\u201d for \u201cafter December 31, 2022\u201d, and\u2014by substituting \u201cthe additional carbon capture equipment installed at such qualified facility\u201d for \u201csuch qualified facility\u201d."
+      ],
+      "result": "In the case of any qualified facility which is placed in service before January 1, 2023,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(b)(1)(C)Applicable Dollar Amount For Additional Carbon Capture Equipment\u2014In the case of any qualified facility which is placed in service before January 1,\n                        2023, if any additional carbon capture equipment is installed at such facility and\n                        such equipment is placed in service after December 31, 2022, the applicable dollar\n                        amount shall be an amount equal to the applicable dollar amount otherwise determined\n                        under this paragraph, except that subparagraph (B) shall be applied\u2014I.R.C. \u00a7 45Q(b)(1)(C)(i)\u2014by substituting \u201cbefore January 1, 2023\u201d for \u201cafter December 31, 2022\u201d, andI.R.C. \u00a7 45Q(b)(1)(C)(ii)\u2014by substituting \u201cthe additional carbon capture equipment installed at such qualified\n                           facility\u201d for \u201csuch qualified facility\u201d.",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(b)(1)(D)",
+    "source_subsections": [
+      "(b)(1)(D)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The applicable dollar amount determined under subparagraph (A), (B), or (C) shall be rounded to the nearest cent.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The applicable dollar amount determined under subparagraph (A), (B), or (C) shall be rounded to the nearest cent."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(b)(1)(D)Rounding\u2014The applicable dollar amount determined under subparagraph (A), (B), or (C) shall\n                        be rounded to the nearest cent.",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)",
+      "(b)(2)(A)",
+      "(b)(2)(A)(i)",
+      "(b)(2)(A)(ii)",
+      "(b)(2)(B)",
+      "(b)(2)(B)(i)",
+      "(b)(2)(B)(ii)"
+    ],
+    "rule_type": "computation",
+    "title": "Of Additional Carbon Capture Equipment On Existing Qualified Facility",
+    "text": "In the case of a qualified facility placed in service before the date of the enactment of the Bipartisan Budget Act of 2018, for which additional carbon capture equipment is placed in service on or after the date of the enactment of such Act, the amount of qualified carbon oxide which is captured by the taxpayer shall be equal to\u2014\u2014for purposes of paragraphs (1)(A) and (2)(A) of subsection (a), the lesser of\u2014\u2014the total amount of qualified carbon oxide captured at such facility for the taxable year, or\u2014the total amount of the carbon dioxide capture capacity of the carbon capture equipment in service at such facility on the day before the date of the enactment of the Bipartisan Budget Act of 2018, and\u2014for purposes of paragraph (3)(A) of such subsection, an amount (not less than zero) equal to the excess of\u2014\u2014the amount described in clause (i) of subparagraph (A), over\u2014the amount described in clause (ii) of such subparagraph.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "min",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      },
+      {
+        "operation": "subtraction",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a qualified facility placed in service before the date of the enactment of the Bipartisan Budget Act of 2018, for which additional carbon capture equipment is placed in service on or after the date of the enactment of such Act, the amount of qualified carbon oxide which is captured by the taxpayer shall be equal to\u2014\u2014for purposes of paragraphs (1)(A) and (2)(A) of subsection (a), the lesser of\u2014\u2014the total amount of qualified carbon oxide captured at such facility for the taxable year, or\u2014the total amount of the carbon dioxide capture capacity of the carbon capture equipment in service at such facility on the day before the date of the enactment of the Bipartisan Budget Act of 2018, and\u2014for purposes of paragraph (3)(A) of such subsection, an amount (not less than zero) equal to the excess of\u2014\u2014the amount described in clause (i) of subparagraph (A), over\u2014the amount described in clause (ii) of such subparagraph."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(b)(2)Installation Of Additional Carbon Capture Equipment On Existing Qualified Facility\u2014In the case of a qualified facility placed in service before the date of the enactment\n                     of the Bipartisan Budget Act of 2018, for which additional carbon capture equipment\n                     is placed in service on or after the date of the enactment of such Act, the amount\n                     of qualified carbon oxide which is captured by the taxpayer shall be equal to\u2014I.R.C. \u00a7 45Q(b)(2)(A)\u2014for purposes of paragraphs (1)(A) and (2)(A) of subsection (a), the lesser of\u2014I.R.C. \u00a7 45Q(b)(2)(A)(i)\u2014the total amount of qualified carbon oxide captured at such facility for the taxable\n                           year, orI.R.C. \u00a7 45Q(b)(2)(A)(ii)\u2014the total amount of the carbon dioxide capture capacity of the carbon capture equipment\n                           in service at such facility on the day before the date of the enactment of the Bipartisan\n                           Budget Act of 2018, andI.R.C. \u00a7 45Q(b)(2)(B)\u2014for purposes of paragraph (3)(A) of such subsection, an amount (not less than zero)\n                        equal to the excess of\u2014I.R.C. \u00a7 45Q(b)(2)(B)(i)\u2014the amount described in clause (i) of subparagraph (A), overI.R.C. \u00a7 45Q(b)(2)(B)(ii)\u2014the amount described in clause (ii) of such subparagraph.",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(b)(3)",
+    "source_subsections": [
+      "(b)(3)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "For purposes of determining the carbon oxide sequestration credit under this section, a taxpayer may elect to have the dollar amounts applicable under paragraph (1) or (2) of subsection (a) apply in lieu of the dollar amount applicable under paragraph (3) of such subsection for each metric ton of qualified carbon oxide which is captured by the taxpayer using carbon capture equipment which is originally placed in service at a qualified facility on or after the date of the enactment of the Bipartisan Budget Act of 2018.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of determining the carbon oxide sequestration credit under this section, a taxpayer may elect to have the dollar amounts applicable under paragraph (1) or (2) of subsection (a) apply in lieu of the dollar amount applicable under paragraph (3) of such subsection for each metric ton of qualified carbon oxide which is captured by the taxpayer using carbon capture equipment which is originally placed in service at a qualified facility on or after the date of the enactment of the Bipartisan Budget Act of 2018."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(b)(3)Election\u2014For purposes of determining the carbon oxide sequestration credit under this section,\n                     a taxpayer may elect to have the dollar amounts applicable under paragraph (1) or\n                     (2) of subsection (a) apply in lieu of the dollar amount applicable under paragraph\n                     (3) of such subsection for each metric ton of qualified carbon oxide which is captured\n                     by the taxpayer using carbon capture equipment which is originally placed in service\n                     at a qualified facility on or after the date of the enactment of the Bipartisan Budget\n                     Act of 2018.",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)",
+      "(c)(1)(A)",
+      "(c)(1)(A)(i)",
+      "(c)(1)(A)(ii)",
+      "(c)(1)(A)(iii)",
+      "(c)(1)(B)",
+      "(c)(1)(B)(i)",
+      "(c)(1)(B)(ii)",
+      "(c)(1)(B)(iii)",
+      "(c)(1)(C)",
+      "(c)(1)(C)(i)",
+      "(c)(1)(C)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cqualified carbon oxide\u201d means\u2014\u2014any carbon dioxide which\u2014\u2014is captured from an industrial source by carbon capture equipment which is originally placed in service before the date of the enactment of the Bipartisan Budget Act of 2018,\u2014would otherwise be released into the atmosphere as industrial emission of greenhouse gas or lead to such release, and\u2014is measured at the source of capture and verified at the point of disposal, injection, or utilization,\u2014any carbon dioxide or other carbon oxide which\u2014\u2014is captured from an industrial source by carbon capture equipment which is originally placed in service on or after the date of the enactment of the Bipartisan Budget Act of 2018,\u2014would otherwise be released into the atmosphere as industrial emission of greenhouse gas or lead to such release, and\u2014is measured at the source of capture and verified at the point of disposal, injection, or utilization, or\u2014in the case of a direct air capture facility, any carbon dioxide which\u2014\u2014is captured directly from the ambient air, and\u2014is measured at the source of capture and verified at the point of disposal, injection, or utilization.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified carbon oxide\u201d means\u2014\u2014any carbon dioxide which\u2014\u2014is captured from an industrial source by carbon capture equipment which is originally placed in service before the date of the enactment of the Bipartisan Budget Act of 2018,\u2014would otherwise be released into the atmosphere as industrial emission of greenhouse gas or lead to such release, and\u2014is measured at the source of capture and verified at the point of disposal, injection, or utilization,\u2014any carbon dioxide or other carbon oxide which\u2014\u2014is captured from an industrial source by carbon capture equipment which is originally placed in service on or after the date of the enactment of the Bipartisan Budget Act of 2018,\u2014would otherwise be released into the atmosphere as industrial emission of greenhouse gas or lead to such release, and\u2014is measured at the source of capture and verified at the point of disposal, injection, or utilization, or\u2014in the case of a direct air capture facility, any carbon dioxide which\u2014\u2014is captured directly from the ambient air, and\u2014is measured at the source of capture and verified at the point of disposal, injection, or utilization."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(c)(1)In General\u2014The term \u201cqualified carbon oxide\u201d means\u2014I.R.C. \u00a7 45Q(c)(1)(A)\u2014any carbon dioxide which\u2014I.R.C. \u00a7 45Q(c)(1)(A)(i)\u2014is captured from an industrial source by carbon capture equipment which is originally\n                           placed in service before the date of the enactment of the Bipartisan Budget Act of\n                           2018,I.R.C. \u00a7 45Q(c)(1)(A)(ii)\u2014would otherwise be released into the atmosphere as industrial emission of greenhouse\n                           gas or lead to such release, andI.R.C. \u00a7 45Q(c)(1)(A)(iii)\u2014is measured at the source of capture and verified at the point of disposal, injection,\n                           or utilization,I.R.C. \u00a7 45Q(c)(1)(B)\u2014any carbon dioxide or other carbon oxide which\u2014I.R.C. \u00a7 45Q(c)(1)(B)(i)\u2014is captured from an industrial source by carbon capture equipment which is originally\n                           placed in service on or after the date of the enactment of the Bipartisan Budget Act\n                           of 2018,I.R.C. \u00a7 45Q(c)(1)(B)(ii)\u2014would otherwise be released into the atmosphere as industrial emission of greenhouse\n                           gas or lead to such release, andI.R.C. \u00a7 45Q(c)(1)(B)(iii)\u2014is measured at the source of capture and verified at the point of disposal, injection,\n                           or utilization, orI.R.C. \u00a7 45Q(c)(1)(C)\u2014in the case of a direct air capture facility, any carbon dioxide which\u2014I.R.C. \u00a7 45Q(c)(1)(C)(i)\u2014is captured directly from the ambient air, andI.R.C. \u00a7 45Q(c)(1)(C)(ii)\u2014is measured at the source of capture and verified at the point of disposal, injection,\n                           or utilization.",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(c)(2)",
+    "source_subsections": [
+      "(c)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Carbon Oxide",
+    "text": "The term \u201cqualified carbon oxide\u201d includes the initial deposit of captured carbon oxide used as a tertiary injectant. Such term does not include carbon oxide that is recaptured, recycled, and re-injected as part of the enhanced oil and natural gas recovery process.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified carbon oxide\u201d includes the initial deposit of captured carbon oxide used as a tertiary injectant. Such term does not include carbon oxide that is recaptured, recycled, and re-injected as part of the enhanced oil and natural gas recovery process."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(c)(2)Recycled Carbon Oxide\u2014The term \u201cqualified carbon oxide\u201d includes the initial deposit of captured carbon\n                     oxide used as a tertiary injectant. Such term does not include carbon oxide that is\n                     recaptured, recycled, and re-injected as part of the enhanced oil and natural gas\n                     recovery process.",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(d)",
+    "source_subsections": [
+      "(d)",
+      "(d)(1)",
+      "(d)(1)(A)",
+      "(d)(1)(B)",
+      "(d)(2)",
+      "(d)(2)(A)",
+      "(d)(2)(B)",
+      "(d)(2)(B)(i)",
+      "(d)(2)(B)(ii)",
+      "(d)(2)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "Facility",
+    "text": "For purposes of this section, the term \u201cqualified facility\u201d means any industrial facility or direct air capture facility\u2014\u2014the construction of which begins before January 1, 2033, either\u2014\u2014construction of carbon capture equipment begins before such date, or\u2014the original planning and design for such facility includes installation of carbon capture equipment, and\u2014which \u2014\u2014in the case of a direct air capture facility, captures not less than 1,000 metric tons of qualified carbon oxide during the taxable year,\u2014in the case of an electricity generating facility\u2014\u2014captures not less than 18,750 metric tons of qualified carbon oxide during the taxable year, and\u2014with respect to any carbon capture equipment for the applicable electric generating unit at such facility, has a capture design capacity of not less than 75 percent of the baseline carbon oxide production of such unit, or\u2014in the case of any other facility, captures not less than 12,500 metric tons of qualified carbon oxide during the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.75,
+        "text": "75 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u201cqualified facility\u201d means any industrial facility or direct air capture facility\u2014\u2014the construction of which begins before January 1, 2033, either\u2014\u2014construction of carbon capture equipment begins before such date, or\u2014the original planning and design for such facility includes installation of carbon capture equipment, and\u2014which \u2014\u2014in the case of a direct air capture facility, captures not less than 1,000 metric tons of qualified carbon oxide during the taxable year,\u2014in the case of an electricity generating facility\u2014\u2014captures not less than 18,750 metric tons of qualified carbon oxide during the taxable year, and\u2014with respect to any carbon capture equipment for the applicable electric generating unit at such facility, has a capture design capacity of not less than 75 percent of the baseline carbon oxide production of such unit, or\u2014in the case of any other facility, captures not less than 12,500 metric tons of qualified carbon oxide during the taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(d)Qualified Facility\u2014For purposes of this section, the term \u201cqualified facility\u201d means any industrial facility\n                  or direct air capture facility\u2014I.R.C. \u00a7 45Q(d)(1)\u2014the construction of which begins before January 1, 2033, either\u2014I.R.C. \u00a7 45Q(d)(1)(A)\u2014construction of carbon capture equipment begins before such date, orI.R.C. \u00a7 45Q(d)(1)(B)\u2014the original planning and design for such facility includes installation of carbon\n                        capture equipment, andI.R.C. \u00a7 45Q(d)(2)\u2014which \u2014I.R.C. \u00a7 45Q(d)(2)(A)\u2014in the case of a direct air capture facility, captures not less than 1,000 metric\n                        tons of qualified carbon oxide during the taxable year,I.R.C. \u00a7 45Q(d)(2)(B)\u2014in the case of an electricity generating facility\u2014I.R.C. \u00a7 45Q(d)(2)(B)(i)\u2014captures not less than 18,750 metric tons of qualified carbon oxide during the taxable\n                           year, andI.R.C. \u00a7 45Q(d)(2)(B)(ii)\u2014with respect to any carbon capture equipment for the applicable electric generating\n                           unit at such facility, has a capture design capacity of not less than 75 percent of\n                           the baseline carbon oxide production of such unit, orI.R.C. \u00a7 45Q(d)(2)(C)\u2014in the case of any other facility, captures not less than 12,500 metric tons of qualified\n                        carbon oxide during the taxable year.",
+    "definitions": {
+      "term": "qualified facility",
+      "requirements": [
+        "any industrial facility or direct air capture facility\u2014\u2014the construction of which begins before January 1, 2033, either\u2014\u2014construction of carbon capture equipment begins before such date, or\u2014the original planning and design for such facility includes installation of carbon capture equipment, and\u2014which \u2014\u2014in the case of a direct air capture facility, captures not less than 1,000 metric tons of qualified carbon oxide during the taxable year,\u2014in the case of an electricity generating facility\u2014\u2014captures not less than 18,750 metric tons of qualified carbon oxide during the taxable year, and\u2014with respect to any carbon capture equipment for the applicable electric generating unit at such facility, has a capture design capacity of not less than 75 percent of the baseline carbon oxide production of such unit, or\u2014in the case of any other facility, captures not less than 12,500 metric tons of qualified carbon oxide during the taxable year."
+      ]
+    }
+  },
+  {
+    "section": "45Q",
+    "subsection": "(e)(1)",
+    "source_subsections": [
+      "(e)(1)"
+    ],
+    "rule_type": "definition",
+    "title": "Electric Generating Unit",
+    "text": "The term \u201capplicable electric generating unit\u201d means the principal electric generating unit for which the carbon capture equipment is originally planned and designed.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201capplicable electric generating unit\u201d means the principal electric generating unit for which the carbon capture equipment is originally planned and designed."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(e)(1)Applicable Electric Generating Unit\u2014The term \u201capplicable electric generating unit\u201d means the principal electric generating\n                     unit for which the carbon capture equipment is originally planned and designed.",
+    "definitions": {
+      "term": "applicable electric generating unit",
+      "requirements": [
+        "the principal electric generating unit for which the carbon capture equipment is originally planned and designed."
+      ]
+    }
+  },
+  {
+    "section": "45Q",
+    "subsection": "(e)(2)(A)(i)",
+    "source_subsections": [
+      "(e)(2)(A)(i)",
+      "(e)(2)(A)(i)(I)",
+      "(e)(2)(A)(i)(II)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "In the case of an applicable electric generating unit which was originally placed in service more than 1 year prior to the date on which construction of the carbon capture equipment begins, the average annual carbon oxide production, by mass, from such unit during\u2014\u2014in the case of an applicable electric generating unit which was originally placed in service more than 1 year prior to the date on which construction of the carbon capture equipment begins and on or after the date which is 3 years prior to the date on which construction of such equipment begins, the period beginning on the date such unit was placed in service and ending on the date on which construction of such equipment began, and\u2014in the case of an applicable electric generating unit which was originally placed in service more than 3 years prior to the date on which construction of the carbon capture equipment begins, the 3 years with the highest annual carbon oxide production during the 12-year period preceding the date on which construction of such equipment began.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of an applicable electric generating unit which was originally placed in service more than 1 year prior to the date on which construction of the carbon capture equipment begins, the average annual carbon oxide production, by mass, from such unit during\u2014\u2014in the case of an applicable electric generating unit which was originally placed in service more than 1 year prior to the date on which construction of the carbon capture equipment begins and on or after the date which is 3 years prior to the date on which construction of such equipment begins, the period beginning on the date such unit was placed in service and ending on the date on which construction of such equipment began, and\u2014in the case of an applicable electric generating unit which was originally placed in service more than 3 years prior to the date on which construction of the carbon capture equipment begins, the 3 years with the highest annual carbon oxide production during the 12-year period preceding the date on which construction of such equipment began."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(e)(2)(A)(i)\u2014In the case of an applicable electric generating unit which was originally placed\n                           in service more than 1 year prior to the date on which construction of the carbon\n                           capture equipment begins, the average annual carbon oxide production, by mass, from\n                           such unit during\u2014I.R.C. \u00a7 45Q(e)(2)(A)(i)(I)\u2014in the case of an applicable electric generating unit which was originally placed\n                              in service more than 1 year prior to the date on which construction of the carbon\n                              capture equipment begins and on or after the date which is 3 years prior to the date\n                              on which construction of such equipment begins, the period beginning on the date such\n                              unit was placed in service and ending on the date on which construction of such equipment\n                              began, andI.R.C. \u00a7 45Q(e)(2)(A)(i)(II)\u2014in the case of an applicable electric generating unit which was originally placed\n                              in service more than 3 years prior to the date on which construction of the carbon\n                              capture equipment begins, the 3 years with the highest annual carbon oxide production\n                              during the 12-year period preceding the date on which construction of such equipment\n                              began.",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(e)(2)(A)(ii)",
+    "source_subsections": [
+      "(e)(2)(A)(ii)",
+      "(e)(2)(A)(ii)(I)",
+      "(e)(2)(A)(ii)(II)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "In the case of an applicable electric generating unit which\u2014\u2014as of the date on which construction of the carbon capture equipment begins, is not yet placed in service, or\u2014was placed in service during the 1-year period prior to the date on which construction of the carbon capture equipment begins,the designed annual carbon oxide production, by mass, as determined based on an assumed capacity factor of 60 percent.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.6,
+        "text": "60 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of an applicable electric generating unit which\u2014\u2014as of the date on which construction of the carbon capture equipment begins, is not yet placed in service, or\u2014was placed in service during the 1-year period prior to the date on which construction of the carbon capture equipment begins,the designed annual carbon oxide production, by mass, as determined based on an assumed capacity factor of 60 percent."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(e)(2)(A)(ii)\u2014In the case of an applicable electric generating unit which\u2014I.R.C. \u00a7 45Q(e)(2)(A)(ii)(I)\u2014as of the date on which construction of the carbon capture equipment begins, is not\n                              yet placed in service, orI.R.C. \u00a7 45Q(e)(2)(A)(ii)(II)\u2014was placed in service during the 1-year period prior to the date on which construction\n                              of the carbon capture equipment begins,the designed annual carbon oxide production, by mass, as determined based on an assumed\n                                 capacity factor of 60 percent.",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(e)(2)(B)",
+    "source_subsections": [
+      "(e)(2)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Factor",
+    "text": "The term \u201ccapacity factor\u201d means the ratio (expressed as a percentage) of the actual electric output from the applicable electric generating unit to the potential electric output from such unit.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201ccapacity factor\u201d means the ratio (expressed as a percentage) of the actual electric output from the applicable electric generating unit to the potential electric output from such unit."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(e)(2)(B)Capacity Factor\u2014The term \u201ccapacity factor\u201d means the ratio (expressed as a percentage) of the actual\n                        electric output from the applicable electric generating unit to the potential electric\n                        output from such unit.",
+    "definitions": {
+      "term": "capacity factor",
+      "requirements": [
+        "the ratio (expressed as a percentage) of the actual electric output from the applicable electric generating unit to the potential electric output from such unit."
+      ]
+    }
+  },
+  {
+    "section": "45Q",
+    "subsection": "(e)(3)(A)",
+    "source_subsections": [
+      "(e)(3)(A)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "Subject to subparagraph (B), the term \u201cdirect air capture facility\u201d means any facility which uses carbon capture equipment to capture carbon dioxide directly from the ambient air.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Subject to subparagraph (B), the term \u201cdirect air capture facility\u201d means any facility which uses carbon capture equipment to capture carbon dioxide directly from the ambient air."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(e)(3)(A)In General\u2014Subject to subparagraph (B), the term \u201cdirect air capture facility\u201d means any facility\n                        which uses carbon capture equipment to capture carbon dioxide directly from the ambient\n                        air.",
+    "definitions": {
+      "term": "direct air capture facility",
+      "requirements": [
+        "any facility which uses carbon capture equipment to capture carbon dioxide directly from the ambient air."
+      ]
+    }
+  },
+  {
+    "section": "45Q",
+    "subsection": "(e)(3)(B)",
+    "source_subsections": [
+      "(e)(3)(B)",
+      "(e)(3)(B)(i)",
+      "(e)(3)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "The term \u201cdirect air capture facility\u201d shall not include any facility which captures carbon dioxide\u2014\u2014which is deliberately released from naturally occurring subsurface springs, or\u2014using natural photosynthesis.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cdirect air capture facility\u201d shall not include any facility which captures carbon dioxide\u2014\u2014which is deliberately released from naturally occurring subsurface springs, or\u2014using natural photosynthesis."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(e)(3)(B)Exception\u2014The term \u201cdirect air capture facility\u201d shall not include any facility which captures\n                        carbon dioxide\u2014I.R.C. \u00a7 45Q(e)(3)(B)(i)\u2014which is deliberately released from naturally occurring subsurface springs, orI.R.C. \u00a7 45Q(e)(3)(B)(ii)\u2014using natural photosynthesis.",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(e)(4)",
+    "source_subsections": [
+      "(e)(4)"
+    ],
+    "rule_type": "definition",
+    "title": "Enhanced Oil Or Natural Gas Recovery Project",
+    "text": "The term \u201cqualified enhanced oil or natural gas recovery project\u201d has the meaning given the term \u201cqualified enhanced oil recovery project\u201d bysection 43(c)(2), by substituting \u201ccrude oil or natural gas\u201d for \u201ccrude oil\u201d in subparagraph (A)(i) thereof.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified enhanced oil or natural gas recovery project\u201d has the meaning given the term \u201cqualified enhanced oil recovery project\u201d bysection 43(c)(2), by substituting \u201ccrude oil or natural gas\u201d for \u201ccrude oil\u201d in subparagraph (A)(i) thereof."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(e)(4)Qualified Enhanced Oil Or Natural Gas Recovery Project\u2014The term \u201cqualified enhanced oil or natural gas recovery project\u201d has the meaning\n                     given the term \u201cqualified enhanced oil recovery project\u201d bysection 43(c)(2), by substituting \u201ccrude oil or natural gas\u201d for \u201ccrude oil\u201d in subparagraph (A)(i)\n                     thereof.",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(e)(5)",
+    "source_subsections": [
+      "(e)(5)"
+    ],
+    "rule_type": "definition",
+    "title": "Injectant",
+    "text": "The term \u201ctertiary injectant\u201d has the same meaning as when used withinsection 193(b)(1).",
+    "conditions": [
+      "used withinsection 193(b)(1)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "used withinsection 193(b)(1)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201ctertiary injectant\u201d has the same meaning as"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(e)(5)Tertiary Injectant\u2014The term \u201ctertiary injectant\u201d has the same meaning as when used withinsection 193(b)(1).",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(f)(1)",
+    "source_subsections": [
+      "(f)(1)",
+      "(f)(1)(A)",
+      "(f)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The credit under this section shall apply only with respect to qualified carbon oxide the capture and disposal, use, or utilization of which is within\u2014\u2014the United States (within the meaning of section 638(1)), or\u2014a possession of the United States (within the meaning of section 638(2)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The credit under this section shall apply only with respect to qualified carbon oxide the capture and disposal, use, or utilization of which is within\u2014\u2014the United States (within the meaning of section 638(1)), or\u2014a possession of the United States (within the meaning of section 638(2))."
+    },
+    "cross_references": [
+      {
+        "section": "638(1)",
+        "reason": "States (within the meaning of..."
+      },
+      {
+        "section": "638(2)",
+        "reason": "States (within the meaning of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(f)(1)Only Qualified Carbon Oxide Captured And Disposed Of Or Used Within The United States\n                     Taken Into Account\u2014The credit under this section shall apply only with respect to qualified carbon oxide\n                     the capture and disposal, use, or utilization of which is within\u2014I.R.C. \u00a7 45Q(f)(1)(A)\u2014the United States (within the meaning of section 638(1)), orI.R.C. \u00a7 45Q(f)(1)(B)\u2014a possession of the United States (within the meaning of section 638(2)).",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(f)(10)",
+    "source_subsections": [
+      "(f)(10)",
+      "(f)(10)(A)",
+      "(f)(10)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Relating To Prohibited Foreign Entities",
+    "text": "No credit shall be determined under subsection (a) for any taxable year beginning after the date of enactment of this paragraph if the taxpayer is\u2014\u2014a specified foreign entity (as defined insection 7701(a)(51)(B)), or\u2014a foreign-influenced entity (as defined insection 7701(a)(51)(D), determined without regard to clause (i)(II) thereof).",
+    "conditions": [
+      "the taxpayer is\u2014\u2014a specified foreign entity (as defined insection 7701(a)(51)(B)), or\u2014a foreign-influenced entity (as defined insection 7701(a)(51)(D), determined without regard to clause (i)(II) thereof)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the taxpayer is\u2014\u2014a specified foreign entity (as defined insection 7701(a)(51)(B)), or\u2014a foreign-influenced entity (as defined insection 7701(a)(51)(D), determined without regard to clause (i)(II) thereof)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be determined under subsection (a) for any taxable year beginning after the date of enactment of this paragraph"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(f)(10)Restrictions Relating To Prohibited Foreign Entities\u2014No credit shall be determined under subsection (a) for any taxable year beginning\n                     after the date of enactment of this paragraph if the taxpayer is\u2014I.R.C. \u00a7 45Q(f)(10)(A)\u2014a specified foreign entity (as defined insection 7701(a)(51)(B)), orI.R.C. \u00a7 45Q(f)(10)(B)\u2014a foreign-influenced entity (as defined insection 7701(a)(51)(D), determined without regard to clause (i)(II) thereof).",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(f)(2)",
+    "source_subsections": [
+      "(f)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Geological Storage",
+    "text": "The Secretary, in consultation with the Administrator of the Environmental Protection Agency, the Secretary of Energy, and the Secretary of the Interior, shall establish regulations for determining adequate security measures for the geological storage of qualified carbon oxide under subsection (a) such that the qualified carbon oxide does not escape into the atmosphere. Such term shall include storage at deep saline formations, oil and gas reservoirs, and unminable coal seams under such conditions as the Secretary may determine under such regulations.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary, in consultation with the Administrator of the Environmental Protection Agency, the Secretary of Energy, and the Secretary of the Interior, shall establish regulations for determining adequate security measures for the geological storage of qualified carbon oxide under subsection (a) such that the qualified carbon oxide does not escape into the atmosphere. Such term shall include storage at deep saline formations, oil and gas reservoirs, and unminable coal seams under such conditions as the Secretary may determine under such regulations."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(f)(2)Secure Geological Storage\u2014The Secretary, in consultation with the Administrator of the Environmental Protection\n                     Agency, the Secretary of Energy, and the Secretary of the Interior, shall establish\n                     regulations for determining adequate security measures for the geological storage\n                     of qualified carbon oxide under subsection (a) such that the qualified carbon oxide\n                     does not escape into the atmosphere. Such term shall include storage at deep saline\n                     formations, oil and gas reservoirs, and unminable coal seams under such conditions\n                     as the Secretary may determine under such regulations.",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(f)(3)(A)",
+    "source_subsections": [
+      "(f)(3)(A)",
+      "(f)(3)(A)(i)",
+      "(f)(3)(A)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Except as provided in subparagraph (B) or in any regulations prescribed by the Secretary, any credit under this section shall be attributable to\u2014\u2014in the case of qualified carbon oxide captured using carbon capture equipment which is originally placed in service at a qualified facility before the date of the enactment of the Bipartisan Budget Act of 2018, the person that captures and physically or contractually ensures the disposal, utilization, or use as a tertiary injectant of such qualified carbon oxide, and\u2014in the case of qualified carbon oxide captured using carbon capture equipment which is originally placed in service at a qualified facility on or after the date of the enactment of the Bipartisan Budget Act of 2018, the person that owns the carbon capture equipment and physically or contractually ensures the capture and disposal, utilization, or use as a tertiary injectant of such qualified carbon oxide.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [
+      {
+        "applies_when": "subparagraph (B) or in any regulations prescribed by the Secretary",
+        "effect": "See referenced section"
+      }
+    ],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as provided in subparagraph (B) or in any regulations prescribed by the Secretary, any credit under this section shall be attributable to\u2014\u2014in the case of qualified carbon oxide captured using carbon capture equipment which is originally placed in service at a qualified facility before the date of the enactment of the Bipartisan Budget Act of 2018, the person that captures and physically or contractually ensures the disposal, utilization, or use as a tertiary injectant of such qualified carbon oxide, and\u2014in the case of qualified carbon oxide captured using carbon capture equipment which is originally placed in service at a qualified facility on or after the date of the enactment of the Bipartisan Budget Act of 2018, the person that owns the carbon capture equipment and physically or contractually ensures the capture and disposal, utilization, or use as a tertiary injectant of such qualified carbon oxide."
+      ],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(f)(3)(A)In General\u2014Except as provided in subparagraph (B) or in any regulations prescribed by the Secretary,\n                        any credit under this section shall be attributable to\u2014I.R.C. \u00a7 45Q(f)(3)(A)(i)\u2014in the case of qualified carbon oxide captured using carbon capture equipment which\n                           is originally placed in service at a qualified facility before the date of the enactment\n                           of the Bipartisan Budget Act of 2018, the person that captures and physically or contractually\n                           ensures the disposal, utilization, or use as a tertiary injectant of such qualified\n                           carbon oxide, andI.R.C. \u00a7 45Q(f)(3)(A)(ii)\u2014in the case of qualified carbon oxide captured using carbon capture equipment which\n                           is originally placed in service at a qualified facility on or after the date of the\n                           enactment of the Bipartisan Budget Act of 2018, the person that owns the carbon capture\n                           equipment and physically or contractually ensures the capture and disposal, utilization,\n                           or use as a tertiary injectant of such qualified carbon oxide.",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(f)(3)(B)",
+    "source_subsections": [
+      "(f)(3)(B)",
+      "(f)(3)(B)(i)",
+      "(f)(3)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "If the person described in subparagraph (A) makes an election under this subparagraph in such time and manner as the Secretary may prescribe by regulations, the credit under this section\u2014\u2014shall be allowable to the person that disposes of the qualified carbon oxide, utilizes the qualified carbon oxide, or uses the qualified carbon oxide as a tertiary injectant, and\u2014shall not be allowable to the person described in subparagraph (A).",
+    "conditions": [
+      "the person described in subparagraph (A) makes an election under this subparagraph in such time and manner as the Secretary may prescribe by regulations, the credit under this section\u2014\u2014shall be allowable to the person that disposes of the qualified carbon oxide, utilizes the qualified carbon oxide, or uses the qualified carbon oxide as a tertiary injectant, and\u2014shall not be allowable to the person described in subparagraph (A)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the person described in subparagraph (A) makes an election under this subparagraph in such time and manner as the Secretary may prescribe by regulations, the credit under this section\u2014\u2014shall be allowable to the person that disposes of the qualified carbon oxide, utilizes the qualified carbon oxide, or uses the qualified carbon oxide as a tertiary injectant, and\u2014shall not be allowable to the person described in subparagraph (A)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(f)(3)(B)Election\u2014If the person described in subparagraph (A) makes an election under this subparagraph\n                        in such time and manner as the Secretary may prescribe by regulations, the credit\n                        under this section\u2014I.R.C. \u00a7 45Q(f)(3)(B)(i)\u2014shall be allowable to the person that disposes of the qualified carbon oxide, utilizes\n                           the qualified carbon oxide, or uses the qualified carbon oxide as a tertiary injectant,\n                           andI.R.C. \u00a7 45Q(f)(3)(B)(ii)\u2014shall not be allowable to the person described in subparagraph (A).",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(f)(4)",
+    "source_subsections": [
+      "(f)(4)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The Secretary shall, by regulations, provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any qualified carbon oxide which ceases to be captured, disposed of, or used as a tertiary injectant in a manner consistent with the requirements of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall, by regulations, provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any qualified carbon oxide which ceases to be captured, disposed of, or used as a tertiary injectant in a manner consistent with the requirements of this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(f)(4)Recapture\u2014The Secretary shall, by regulations, provide for recapturing the benefit of any credit\n                     allowable under subsection (a) with respect to any qualified carbon oxide which ceases\n                     to be captured, disposed of, or used as a tertiary injectant in a manner consistent\n                     with the requirements of this section.",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(f)(5)(A)",
+    "source_subsections": [
+      "(f)(5)(A)",
+      "(f)(5)(A)(i)",
+      "(f)(5)(A)(ii)",
+      "(f)(5)(A)(iii)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "For purposes of this section, utilization of qualified carbon oxide means\u2014\u2014the fixation of such qualified carbon oxide through photosynthesis or chemosynthesis, such as through the growing of algae or bacteria,\u2014the chemical conversion of such qualified carbon oxide to a material or chemical compound in which such qualified carbon oxide is securely stored, or\u2014the use of such qualified carbon oxide for any other purpose for which a commercial market exists (with the exception of use as a tertiary injectant in a qualified enhanced oil or natural gas recovery project), as determined by the Secretary.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, utilization of qualified carbon oxide means\u2014\u2014the fixation of such qualified carbon oxide through photosynthesis or chemosynthesis, such as through the growing of algae or bacteria,\u2014the chemical conversion of such qualified carbon oxide to a material or chemical compound in which such qualified carbon oxide is securely stored, or\u2014the use of such qualified carbon oxide for any other purpose for which a commercial market exists (with the exception of use as a tertiary injectant in a qualified enhanced oil or natural gas recovery project), as determined by the Secretary."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(f)(5)(A)In General\u2014For purposes of this section, utilization of qualified carbon oxide means\u2014I.R.C. \u00a7 45Q(f)(5)(A)(i)\u2014the fixation of such qualified carbon oxide through photosynthesis or chemosynthesis,\n                           such as through the growing of algae or bacteria,I.R.C. \u00a7 45Q(f)(5)(A)(ii)\u2014the chemical conversion of such qualified carbon oxide to a material or chemical compound\n                           in which such qualified carbon oxide is securely stored, orI.R.C. \u00a7 45Q(f)(5)(A)(iii)\u2014the use of such qualified carbon oxide for any other purpose for which a commercial\n                           market exists (with the exception of use as a tertiary injectant in a qualified enhanced\n                           oil or natural gas recovery project), as determined by the Secretary.",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(f)(5)(B)(i)",
+    "source_subsections": [
+      "(f)(5)(B)(i)",
+      "(f)(5)(B)(i)(I)",
+      "(f)(5)(B)(i)(II)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "For purposes of determining the amount of qualified carbon oxide utilized by the taxpayer under paragraph (2)(B)(ii) or (3)(B)(iii) of subsection (a), such amount shall be equal to the metric tons of qualified carbon oxide which the taxpayer demonstrates, based upon an analysis of lifecycle greenhouse gas emissions and subject to such requirements as the Secretary, in consultation with the Secretary of Energy and the Administrator of the Environmental Protection Agency, determines appropriate, were\u2014\u2014captured and permanently isolated from the atmosphere, or\u2014displaced from being emitted into the atmosphere,through use of a process described in subparagraph (A).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of determining the amount of qualified carbon oxide utilized by the taxpayer under paragraph (2)(B)(ii) or (3)(B)(iii) of subsection (a), such amount shall be equal to the metric tons of qualified carbon oxide which the taxpayer demonstrates, based upon an analysis of lifecycle greenhouse gas emissions and subject to such requirements as the Secretary, in consultation with the Secretary of Energy and the Administrator of the Environmental Protection Agency, determines appropriate, were\u2014\u2014captured and permanently isolated from the atmosphere, or\u2014displaced from being emitted into the atmosphere,through use of a process described in subparagraph (A)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(f)(5)(B)(i)In General\u2014For purposes of determining the amount of qualified carbon oxide utilized by the taxpayer\n                           under paragraph (2)(B)(ii) or (3)(B)(iii) of subsection (a), such amount shall be\n                           equal to the metric tons of qualified carbon oxide which the taxpayer demonstrates,\n                           based upon an analysis of lifecycle greenhouse gas emissions and subject to such requirements\n                           as the Secretary, in consultation with the Secretary of Energy and the Administrator\n                           of the Environmental Protection Agency, determines appropriate, were\u2014I.R.C. \u00a7 45Q(f)(5)(B)(i)(I)\u2014captured and permanently isolated from the atmosphere, orI.R.C. \u00a7 45Q(f)(5)(B)(i)(II)\u2014displaced from being emitted into the atmosphere,through use of a process described in subparagraph (A).",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(f)(5)(B)(ii)",
+    "source_subsections": [
+      "(f)(5)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Greenhouse Gas Emissions",
+    "text": "For purposes of clause (i), the term \u201clifecycle greenhouse gas emissions\u201d has the same meaning given such term under subparagraph (H) of section 211(o)(1) of the Clean Air Act (42 U.S.C. 7545(o)(1)), as in effect on the date of the enactment of the Bipartisan Budget Act of 2018, except that \u201cproduct\u201d shall be substituted for \u201cfuel\u201d each place it appears in such subparagraph.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "that \u201cproduct\u201d shall be substituted for \u201cfuel\u201d each place it appears in such subparagraph."
+      ],
+      "result": "For purposes of clause (i), the term \u201clifecycle greenhouse gas emissions\u201d has the same meaning given such term under subparagraph (H) of section 211(o)(1) of the Clean Air Act (42 U.S.C. 7545(o)(1)), as in effect on the date of the enactment of the Bipartisan Budget Act of 2018,"
+    },
+    "cross_references": [
+      {
+        "section": "211(o)(1)",
+        "reason": "erm under subparagraph (H) of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(f)(5)(B)(ii)Lifecycle Greenhouse Gas Emissions\u2014For purposes of clause (i), the term \u201clifecycle greenhouse gas emissions\u201d has the\n                           same meaning given such term under subparagraph (H) of section 211(o)(1) of the Clean\n                           Air Act (42 U.S.C. 7545(o)(1)), as in effect on the date of the enactment of the Bipartisan Budget Act of 2018,\n                           except that \u201cproduct\u201d shall be substituted for \u201cfuel\u201d each place it appears in such\n                           subparagraph.",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(f)(6)(A)",
+    "source_subsections": [
+      "(f)(6)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "For purposes of this section, in the case of an applicable facility, for any taxable year in which such facility captures not less than 500,000 metric tons of qualified carbon oxide during the taxable year, the person described in paragraph (3)(A)(ii) may elect to have such facility, and any carbon capture equipment placed in service at such facility, deemed as having been placed in service on the date of the enactment of the Bipartisan Budget Act of 2018.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, in the case of an applicable facility, for any taxable year in which such facility captures not less than 500,000 metric tons of qualified carbon oxide during the taxable year, the person described in paragraph (3)(A)(ii) may elect to have such facility, and any carbon capture equipment placed in service at such facility, deemed as having been placed in service on the date of the enactment of the Bipartisan Budget Act of 2018."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(f)(6)(A)In General\u2014For purposes of this section, in the case of an applicable facility, for any taxable\n                        year in which such facility captures not less than 500,000 metric tons of qualified\n                        carbon oxide during the taxable year, the person described in paragraph (3)(A)(ii)\n                        may elect to have such facility, and any carbon capture equipment placed in service\n                        at such facility, deemed as having been placed in service on the date of the enactment\n                        of the Bipartisan Budget Act of 2018.",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(f)(6)(B)",
+    "source_subsections": [
+      "(f)(6)(B)",
+      "(f)(6)(B)(i)",
+      "(f)(6)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Facility",
+    "text": "For purposes of this paragraph, the term \u201capplicable facility\u201d means a qualified facility\u2014\u2014which was placed in service before the date of the enactment of the Bipartisan Budget Act of 2018, and\u2014for which no taxpayer claimed a credit under this section in regards to such facility for any taxable year ending before the date of the enactment of such Act.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the term \u201capplicable facility\u201d means a qualified facility\u2014\u2014which was placed in service before the date of the enactment of the Bipartisan Budget Act of 2018, and\u2014for which no taxpayer claimed a credit under this section in regards to such facility for any taxable year ending before the date of the enactment of such Act."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(f)(6)(B)Applicable Facility\u2014For purposes of this paragraph, the term \u201capplicable facility\u201d means a qualified facility\u2014I.R.C. \u00a7 45Q(f)(6)(B)(i)\u2014which was placed in service before the date of the enactment of the Bipartisan Budget\n                           Act of 2018, andI.R.C. \u00a7 45Q(f)(6)(B)(ii)\u2014for which no taxpayer claimed a credit under this section in regards to such facility\n                           for any taxable year ending before the date of the enactment of such Act.",
+    "definitions": {
+      "term": "applicable facility",
+      "requirements": [
+        "a qualified facility\u2014\u2014which was placed in service before the date of the enactment of the Bipartisan Budget Act of 2018, and\u2014for which no taxpayer claimed a credit under this section in regards to such facility for any taxable year ending before the date of the enactment of such Act."
+      ]
+    }
+  },
+  {
+    "section": "45Q",
+    "subsection": "(f)(7)",
+    "source_subsections": [
+      "(f)(7)",
+      "(f)(7)(A)",
+      "(f)(7)(B)"
+    ],
+    "rule_type": "computation",
+    "title": "Adjustment",
+    "text": "In the case of any taxable year beginning in a calendar year after 2009, there shall be substituted for each dollar amount contained in paragraphs (1) and (2) of subsection (a) an amount equal to the product of\u2014\u2014such dollar amount, multiplied by\u2014the inflation adjustment factor for such calendar year determined under section 43(b)(3)(B) for such calendar year, determined by substituting \u201c2008\u201d for \u201c1990\u201d.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any taxable year beginning in a calendar year after 2009, there shall be substituted for each dollar amount contained in paragraphs (1) and (2) of subsection (a) an amount equal to the product of\u2014\u2014such dollar amount, multiplied by\u2014the inflation adjustment factor for such calendar year determined under section 43(b)(3)(B) for such calendar year, determined by substituting \u201c2008\u201d for \u201c1990\u201d."
+    },
+    "cross_references": [
+      {
+        "section": "43(b)(3)(B)",
+        "reason": "alendar year determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(f)(7)Inflation Adjustment\u2014In the case of any taxable year beginning in a calendar year after 2009, there shall\n                     be substituted for each dollar amount contained in paragraphs (1) and (2) of subsection\n                     (a) an amount equal to the product of\u2014I.R.C. \u00a7 45Q(f)(7)(A)\u2014such dollar amount, multiplied byI.R.C. \u00a7 45Q(f)(7)(B)\u2014the inflation adjustment factor for such calendar year determined under section 43(b)(3)(B)\n                        for such calendar year, determined by substituting \u201c2008\u201d for \u201c1990\u201d.",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(f)(8)",
+    "source_subsections": [
+      "(f)(8)"
+    ],
+    "rule_type": "condition",
+    "title": "Reduced for Tax",
+    "text": "Exempt Bonds\u2014Rules similar to the rule under section45(b)(3)shall apply for purposes of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Exempt Bonds\u2014Rules similar to the rule under section45(b)(3)shall apply for purposes of this section."
+    },
+    "cross_references": [
+      {
+        "section": "45(b)(3)",
+        "reason": "les similar to the rule under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(f)(8)Credit Reduced for Tax-Exempt Bonds\u2014Rules similar to the rule under section45(b)(3)shall apply for purposes of this section.",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(f)(9)",
+    "source_subsections": [
+      "(f)(9)",
+      "(f)(9)(A)",
+      "(f)(9)(B)",
+      "(f)(9)(C)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "For purposes of subsection (a)(3), a person described in paragraph(3)(A)(ii)may elect, at such time and in such manner as the Secretary may prescribe, to have the 12\u2013year period begin on the first day of the first taxable year in which a credit under this section is claimed with respect to carbon capture equipment which is originally placed in service at a qualified facility on or after the date of the enactment of the Bipartisan Budget Act of 2018 (after application of paragraph (6), where applicable) if\u2014\u2014no taxpayer claimed a credit under this section with respect to such carbon capture equipment for any prior taxable year,\u2014the qualified facility at which such carbon capture equipment is placed in service is located in an area affected by a federally-declared disaster (as defined bysection 165(i)(5)(A)) after the carbon capture equipment is originally placed in service, and\u2014such federally-declared disaster results in a cessation of the operation of the qualified facility or the carbon capture equipment after such equipment is originally placed in service.",
+    "conditions": [
+      "applicable)",
+      "\u2014\u2014no taxpayer claimed a credit under this section with respect to such carbon capture equipment for any prior taxable year,\u2014the qualified facility at which such carbon capture equipment is placed in service is located in an area affected by a federally-declared disaster (as defined bysection 165(i)(5)(A)) after the carbon capture equipment is originally placed in service, and\u2014such federally-declared disaster results in a cessation of the operation of the qualified facility or the carbon capture equipment after such equipment is originally placed in service."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "applicable)",
+        "\u2014\u2014no taxpayer claimed a credit under this section with respect to such carbon capture equipment for any prior taxable year,\u2014the qualified facility at which such carbon capture equipment is placed in service is located in an area affected by a federally-declared disaster (as defined bysection 165(i)(5)(A)) after the carbon capture equipment is originally placed in service, and\u2014such federally-declared disaster results in a cessation of the operation of the qualified facility or the carbon capture equipment after such equipment is originally placed in service."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subsection (a)(3), a person described in paragraph(3)(A)(ii)may elect, at such time and in such manner as the Secretary may prescribe, to have the 12\u2013year period begin on the first day of the first taxable year in which a credit under this section is claimed with respect to carbon capture equipment which is originally placed in service at a qualified facility on or after the date of the enactment of the Bipartisan Budget Act of 2018 (after application of paragraph (6),"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(f)(9)Election\u2014For purposes of subsection (a)(3), a person described in paragraph(3)(A)(ii)may elect, at such time and in such manner as the Secretary may prescribe, to have\n                     the 12\u2013year period begin on the first day of the first taxable year in which a credit\n                     under this section is claimed with respect to carbon capture equipment which is originally\n                     placed in service at a qualified facility on or after the date of the enactment of\n                     the Bipartisan Budget Act of 2018 (after application of paragraph (6), where applicable)\n                     if\u2014I.R.C. \u00a7 45Q(f)(9)(A)\u2014no taxpayer claimed a credit under this section with respect to such carbon capture\n                        equipment for any prior taxable year,I.R.C. \u00a7 45Q(f)(9)(B)\u2014the qualified facility at which such carbon capture equipment is placed in service\n                        is located in an area affected by a federally-declared disaster (as defined bysection 165(i)(5)(A)) after the carbon capture equipment is originally placed in service, andI.R.C. \u00a7 45Q(f)(9)(C)\u2014such federally-declared disaster results in a cessation of the operation of the qualified\n                        facility or the carbon capture equipment after such equipment is originally placed\n                        in service.",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(g)",
+    "source_subsections": [
+      "(g)",
+      "(g)(1)",
+      "(g)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Section For Certain Carbon Capture Equipment",
+    "text": "In the case of any carbon capture equipment placed in service before the date of the enactment of the Bipartisan Budget Act of 2018, the credit under this section shall apply with respect to qualified carbon oxide captured using such equipment the earlier of January 1, 2023, and before the end of the calendar year in which the Secretary, in consultation with the Administrator of the Environmental Protection Agency, certifies that, during the period beginning after October 3, 2008, a total of 75,000,000 metric tons of qualified carbon oxide have been taken into account in accordance with\u2014\u2014subsection (a) of this section, as in effect on the day before the date of the enactment of the Bipartisan Budget Act of 2018, and\u2014paragraphs (1) and (2) of subsection (a) of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any carbon capture equipment placed in service before the date of the enactment of the Bipartisan Budget Act of 2018, the credit under this section shall apply with respect to qualified carbon oxide captured using such equipment the earlier of January 1, 2023, and before the end of the calendar year in which the Secretary, in consultation with the Administrator of the Environmental Protection Agency, certifies that, during the period beginning after October 3, 2008, a total of 75,000,000 metric tons of qualified carbon oxide have been taken into account in accordance with\u2014\u2014subsection (a) of this section, as in effect on the day before the date of the enactment of the Bipartisan Budget Act of 2018, and\u2014paragraphs (1) and (2) of subsection (a) of this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(g)Application Of Section For Certain Carbon Capture Equipment\u2014In the case of any carbon capture equipment placed in service before the date of the\n                  enactment of the Bipartisan Budget Act of 2018, the credit under this section shall\n                  apply with respect to qualified carbon oxide captured using such equipment the earlier\n                  of January 1, 2023, and before the end of the calendar year in which the Secretary,\n                  in consultation with the Administrator of the Environmental Protection Agency, certifies\n                  that, during the period beginning after October 3, 2008, a total of 75,000,000 metric\n                  tons of qualified carbon oxide have been taken into account in accordance with\u2014I.R.C. \u00a7 45Q(g)(1)\u2014subsection (a) of this section, as in effect on the day before the date of the enactment\n                     of the Bipartisan Budget Act of 2018, andI.R.C. \u00a7 45Q(g)(2)\u2014paragraphs (1) and (2) of subsection (a) of this section.",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(h)(1)",
+    "source_subsections": [
+      "(h)(1)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "In the case of any qualified facility or any carbon capture equipment which satisfy the requirements of paragraph (2), the amount of the credit determined under subsection (a) shall be equal to such amount (determined without regard to this sentence) multiplied by 5.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any qualified facility or any carbon capture equipment which satisfy the requirements of paragraph (2), the amount of the credit determined under subsection (a) shall be equal to such amount (determined without regard to this sentence) multiplied by 5."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(h)(1)In General\u2014In the case of any qualified facility or any carbon capture equipment which satisfy\n                     the requirements of paragraph (2), the amount of the credit determined under subsection\n                     (a) shall be equal to such amount (determined without regard to this sentence) multiplied\n                     by 5.",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(h)(2)",
+    "source_subsections": [
+      "(h)(2)",
+      "(h)(2)(A)",
+      "(h)(2)(A)(i)",
+      "(h)(2)(A)(ii)",
+      "(h)(2)(B)",
+      "(h)(2)(B)(i)",
+      "(h)(2)(B)(ii)",
+      "(h)(2)(C)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The requirements described in this paragraph are that\u2014\u2014with respect to any qualified facility the construction of which begins on or after the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (3)(A) and (4), as well as any carbon capture equipment placed in service at such facility\u2014\u2014subject to subparagraph (B) of paragraph (3), the taxpayer satisfies the requirements under subparagraph (A) of such paragraph with respect to such facility and equipment, and\u2014the taxpayer satisfies the requirements under paragraph (4) with respect to the construction of such facility and equipment,\u2014with respect to any carbon capture equipment the construction of which begins on or after the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (3)(A) and (4), and which is installed at a qualified facility the construction of which began prior to such date\u2014\u2014subject to subparagraph (B) of paragraph (3), the taxpayer satisfies the requirements under subparagraph (A) of such paragraph with respect to such equipment, and\u2014the taxpayer satisfies the requirements under paragraph (4) with respect to the construction of such equipment, or\u2014the construction of carbon capture equipment begins prior to the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (3)(A) and (4), and such equipment is installed at a qualified facility the construction of which begins prior to such date.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The requirements described in this paragraph are that\u2014\u2014with respect to any qualified facility the construction of which begins on or after the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (3)(A) and (4), as well as any carbon capture equipment placed in service at such facility\u2014\u2014subject to subparagraph (B) of paragraph (3), the taxpayer satisfies the requirements under subparagraph (A) of such paragraph with respect to such facility and equipment, and\u2014the taxpayer satisfies the requirements under paragraph (4) with respect to the construction of such facility and equipment,\u2014with respect to any carbon capture equipment the construction of which begins on or after the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (3)(A) and (4), and which is installed at a qualified facility the construction of which began prior to such date\u2014\u2014subject to subparagraph (B) of paragraph (3), the taxpayer satisfies the requirements under subparagraph (A) of such paragraph with respect to such equipment, and\u2014the taxpayer satisfies the requirements under paragraph (4) with respect to the construction of such equipment, or\u2014the construction of carbon capture equipment begins prior to the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (3)(A) and (4), and such equipment is installed at a qualified facility the construction of which begins prior to such date."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(h)(2)Requirements\u2014The requirements described in this paragraph are that\u2014I.R.C. \u00a7 45Q(h)(2)(A)\u2014with respect to any qualified facility the construction of which begins on or after\n                        the date that is 60 days after the Secretary publishes guidance with respect to the\n                        requirements of paragraphs (3)(A) and (4), as well as any carbon capture equipment\n                        placed in service at such facility\u2014I.R.C. \u00a7 45Q(h)(2)(A)(i)\u2014subject to subparagraph (B) of paragraph (3), the taxpayer satisfies the requirements\n                           under subparagraph (A) of such paragraph with respect to such facility and equipment,\n                           andI.R.C. \u00a7 45Q(h)(2)(A)(ii)\u2014the taxpayer satisfies the requirements under paragraph (4) with respect to the construction\n                           of such facility and equipment,I.R.C. \u00a7 45Q(h)(2)(B)\u2014with respect to any carbon capture equipment the construction of which begins on or\n                        after the date that is 60 days after the Secretary publishes guidance with respect\n                        to the requirements of paragraphs (3)(A) and (4), and which is installed at a qualified\n                        facility the construction of which began prior to such date\u2014I.R.C. \u00a7 45Q(h)(2)(B)(i)\u2014subject to subparagraph (B) of paragraph (3), the taxpayer satisfies the requirements\n                           under subparagraph (A) of such paragraph with respect to such equipment, andI.R.C. \u00a7 45Q(h)(2)(B)(ii)\u2014the taxpayer satisfies the requirements under paragraph (4) with respect to the construction\n                           of such equipment, orI.R.C. \u00a7 45Q(h)(2)(C)\u2014the construction of carbon capture equipment begins prior to the date that is 60 days\n                        after the Secretary publishes guidance with respect to the requirements of paragraphs\n                        (3)(A) and (4), and such equipment is installed at a qualified facility the construction\n                        of which begins prior to such date.",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(h)(3)(A)",
+    "source_subsections": [
+      "(h)(3)(A)",
+      "(h)(3)(A)(i)",
+      "(h)(3)(A)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The requirements described in this subparagraph with respect to any qualified facility and any carbon capture equipment placed in service at such facility are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in\u2014\u2014the construction of such facility or equipment, and\u2014with respect to any taxable year, for any portion of such taxable year which is within the period described in subsection (a)(3)(A), the alteration or repair of such facility or such equipment,shall be paid wages at rates not less than the prevailing rates for construction, alteration, or repair of a similar character in the locality in which such facility and equipment are located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code. For purposes of determining an increased credit amount under paragraph (1) for a taxable year, the requirement under clause (ii) of this subparagraph is applied to such taxable year in which the alteration or repair of qualified facility occurs.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The requirements described in this subparagraph with respect to any qualified facility and any carbon capture equipment placed in service at such facility are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in\u2014\u2014the construction of such facility or equipment, and\u2014with respect to any taxable year, for any portion of such taxable year which is within the period described in subsection (a)(3)(A), the alteration or repair of such facility or such equipment,shall be paid wages at rates not less than the prevailing rates for construction, alteration, or repair of a similar character in the locality in which such facility and equipment are located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code. For purposes of determining an increased credit amount under paragraph (1) for a taxable year, the requirement under clause (ii) of this subparagraph is applied to such taxable year in which the alteration or repair of qualified facility occurs."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(h)(3)(A)In General\u2014The requirements described in this subparagraph with respect to any qualified facility\n                        and any carbon capture equipment placed in service at such facility are that the taxpayer\n                        shall ensure that any laborers and mechanics employed by the taxpayer or any contractor\n                        or subcontractor in\u2014I.R.C. \u00a7 45Q(h)(3)(A)(i)\u2014the construction of such facility or equipment, andI.R.C. \u00a7 45Q(h)(3)(A)(ii)\u2014with respect to any taxable year, for any portion of such taxable year which is within\n                           the period described in subsection (a)(3)(A), the alteration or repair of such facility\n                           or such equipment,shall be paid wages at rates not less than the prevailing rates for construction,\n                           alteration, or repair of a similar character in the locality in which such facility\n                           and equipment are located as most recently determined by the Secretary of Labor, in\n                           accordance with subchapter IV of chapter 31 of title 40, United States Code. For purposes\n                           of determining an increased credit amount under paragraph (1) for a taxable year,\n                           the requirement under clause (ii) of this subparagraph is applied to such taxable\n                           year in which the alteration or repair of qualified facility occurs.",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(h)(3)(B)",
+    "source_subsections": [
+      "(h)(3)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "And Penalty Related To Failure To Satisfy Wage Requirements",
+    "text": "Rules similar to the rules of section45(b)(7)(B)shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules of section45(b)(7)(B)shall apply."
+    },
+    "cross_references": [
+      {
+        "section": "45(b)(7)(B)",
+        "reason": "Rules similar to the rules of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(h)(3)(B)Correction And Penalty Related To Failure To Satisfy Wage Requirements\u2014Rules similar to the rules of section45(b)(7)(B)shall apply.",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(h)(4)",
+    "source_subsections": [
+      "(h)(4)"
+    ],
+    "rule_type": "condition",
+    "title": "Requirements",
+    "text": "Rules similar to the rules of section45(b)(8)shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules of section45(b)(8)shall apply."
+    },
+    "cross_references": [
+      {
+        "section": "45(b)(8)",
+        "reason": "Rules similar to the rules of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(h)(4)Apprenticeship Requirements\u2014Rules similar to the rules of section45(b)(8)shall apply.",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(h)(5)",
+    "source_subsections": [
+      "(h)(5)"
+    ],
+    "rule_type": "condition",
+    "title": "and Guidance",
+    "text": "The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(h)(5)Regulations and Guidance\u2014The Secretary shall issue such regulations or other guidance as the Secretary determines\n                     necessary to carry out the purposes of this subsection, including regulations or other\n                     guidance which provides for requirements for recordkeeping or information reporting\n                     for purposes of administering the requirements of this subsection.",
+    "definitions": null
+  },
+  {
+    "section": "45Q",
+    "subsection": "(i)",
+    "source_subsections": [
+      "(i)",
+      "(i)(1)",
+      "(i)(2)",
+      "(i)(3)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section, including regulations or other guidance to\u2014\u2014ensure proper allocation under subsection (a) for qualified carbon oxide captured by a taxpayer during the taxable year ending after the date of the enactment of the Bipartisan Budget Act of 2018,\u2014determine whether a facility satisfies the requirements under subsection (d)(1) during such taxable year, and\u2014for purposes of subsection (d)(2)(B)(ii), adjust the baseline carbon oxide production with respect to any applicable electric generating unit at any electricity generating facility if, after the date on which the carbon capture equipment is placed in service, modifications which are chargeable to capital account are made to such unit which result in a significant increase or decrease in carbon oxide production.",
+    "conditions": [
+      ", after the date on which the carbon capture equipment is placed in service, modifications which are chargeable to capital account are made to such unit which result in a significant increase or decrease in carbon oxide production."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        ", after the date on which the carbon capture equipment is placed in service, modifications which are chargeable to capital account are made to such unit which result in a significant increase or decrease in carbon oxide production."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section, including regulations or other guidance to\u2014\u2014ensure proper allocation under subsection (a) for qualified carbon oxide captured by a taxpayer during the taxable year ending after the date of the enactment of the Bipartisan Budget Act of 2018,\u2014determine whether a facility satisfies the requirements under subsection (d)(1) during such taxable year, and\u2014for purposes of subsection (d)(2)(B)(ii), adjust the baseline carbon oxide production with respect to any applicable electric generating unit at any electricity generating facility"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Q(i)Regulations\u2014The Secretary may prescribe such regulations and other guidance as may be necessary\n                  or appropriate to carry out this section, including regulations or other guidance\n                  to\u2014I.R.C. \u00a7 45Q(i)(1)\u2014ensure proper allocation under subsection (a) for qualified carbon oxide captured\n                     by a taxpayer during the taxable year ending after the date of the enactment of the\n                     Bipartisan Budget Act of 2018,I.R.C. \u00a7 45Q(i)(2)\u2014determine whether a facility satisfies the requirements under subsection (d)(1) during\n                     such taxable year, andI.R.C. \u00a7 45Q(i)(3)\u2014for purposes of subsection (d)(2)(B)(ii), adjust the baseline carbon oxide production\n                     with respect to any applicable electric generating unit at any electricity generating\n                     facility if, after the date on which the carbon capture equipment is placed in service,\n                     modifications which are chargeable to capital account are made to such unit which\n                     result in a significant increase or decrease in carbon oxide production.",
+    "definitions": null
+  }
+]

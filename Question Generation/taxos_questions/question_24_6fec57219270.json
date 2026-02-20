@@ -1,0 +1,22 @@
+{
+  "id": "6fec57219270",
+  "section": "24",
+  "citation": "I.R.C. \u00a7 24(j)(2)(B)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 24(j)(2)(B) is discussed as follows: 'I.R.C. \u00a7 24(j)(2)(B)Safe Harbor Based On Modified Adjusted Gross IncomeI.R.C. \u00a7 24(j)(2)(B)(i)In Gen...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 24(j)(2)(B)?",
+  "difficulty": 1,
+  "choices": [
+    "$120,000.00",
+    "$60,000.00",
+    "$54,000.00",
+    "$30,000.00",
+    "$66,000.00"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $60,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 24(j)(2)(B)"
+  ]
+}

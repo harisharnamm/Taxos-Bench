@@ -1,0 +1,21 @@
+{
+  "id": "a5145c4bbcde",
+  "section": "927",
+  "citation": "I.R.C. \u00a7 927(d)(4)(A)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 927(d)(4)(A) is discussed as follows: 'I.R.C. \u00a7 927(d)(4)(A)\u2014\u201cmore than 50 percent\u201d shall be substituted for \u201cat  least 80 percent\u201d each pl...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 927(d)(4)(A)?",
+  "difficulty": 1,
+  "choices": [
+    "75.0%",
+    "60.0%",
+    "50.0%",
+    "40.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 927(d)(4)(A)"
+  ]
+}

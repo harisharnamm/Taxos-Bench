@@ -1,0 +1,21 @@
+{
+  "id": "d79766abb1dd",
+  "section": "552",
+  "citation": "I.R.C. \u00a7 552(a)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 552(a) is discussed as follows: 'I.R.C. \u00a7 552(a)General Rule\u2014Editor's Note:Pub. L. 108-357, Sec. 413(a)(1), repealed Sec. 552, effect...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 552(a)?",
+  "difficulty": 1,
+  "choices": [
+    "50.0%",
+    "75.0%",
+    "40.0%",
+    "60.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 552(a)"
+  ]
+}

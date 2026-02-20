@@ -1,0 +1,22 @@
+{
+  "id": "c5d448d73a97",
+  "section": "45V",
+  "citation": "I.R.C. \u00a7 45V(b)(2)(B)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 45V(b)(2)(B) is discussed as follows: 'I.R.C. \u00a7 45V(b)(2)(B)\u2014In the case of any qualified clean hydrogen\n                        which is p...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 45V(b)(2)(B)?",
+  "difficulty": 1,
+  "choices": [
+    "37.5%",
+    "75.0%",
+    "35.0%",
+    "25.0%",
+    "15.0%"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies 25.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 45V(b)(2)(B)"
+  ]
+}

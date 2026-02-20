@@ -1,0 +1,22 @@
+{
+  "id": "02d4ba9c1a2f",
+  "section": "25B",
+  "citation": "I.R.C. \u00a7 25B(b)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 25B(b) is discussed as follows: 'I.R.C. \u00a7 25B(b)Applicable Percentage\u2014For purposes of this section\u2014I.R.C. \u00a7 25B(b)(1)Joint Returns\u2014In...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 25B(b)?",
+  "difficulty": 1,
+  "choices": [
+    "0.0%",
+    "90.0%",
+    "10.0%",
+    "15.0%",
+    "20.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 10.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 25B(b)"
+  ]
+}

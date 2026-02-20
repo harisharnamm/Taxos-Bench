@@ -1,0 +1,21 @@
+{
+  "id": "542b94b6d800",
+  "section": "54D",
+  "citation": "I.R.C. \u00a7 54D(f)(1)(A)(i)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 54D(f)(1)(A)(i) is discussed as follows: 'I.R.C. \u00a7 54D(f)(1)(A)(i)\u2014reducing energy consumption in publicly-owned buildings by at least 20 perc...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 54D(f)(1)(A)(i)?",
+  "difficulty": 1,
+  "choices": [
+    "30.0%",
+    "80.0%",
+    "10.0%",
+    "20.0%"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies 20.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 54D(f)(1)(A)(i)"
+  ]
+}

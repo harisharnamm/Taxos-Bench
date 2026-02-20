@@ -1,0 +1,22 @@
+{
+  "id": "b34dc0455642",
+  "section": "48C",
+  "citation": "I.R.C. \u00a7 48C(d)(1)(B)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 48C(d)(1)(B) is discussed as follows: 'I.R.C. \u00a7 48C(d)(1)(B)Limitation\u2014The total amount of credits that may be allocated under\n            ...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 48C(d)(1)(B)?",
+  "difficulty": 1,
+  "choices": [
+    "$1,150,000,000.00",
+    "$2,070,000,000.00",
+    "$2,300,000,000.00",
+    "$4,600,000,000.00",
+    "$2,530,000,000.00"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies $2,300,000,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 48C(d)(1)(B)"
+  ]
+}

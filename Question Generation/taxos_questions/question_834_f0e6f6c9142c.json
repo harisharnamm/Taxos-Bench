@@ -1,0 +1,22 @@
+{
+  "id": "f0e6f6c9142c",
+  "section": "834",
+  "citation": "I.R.C. \u00a7 834(c)(2)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 834(c)(2) is discussed as follows: 'I.R.C. \u00a7 834(c)(2)Investment Expenses\u2014Investment  expenses paid or accrued during the taxable year. ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 834(c)(2)?",
+  "difficulty": 1,
+  "choices": [
+    "96.0%",
+    "4.0%",
+    "14.0%",
+    "0.0%",
+    "6.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 4.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 834(c)(2)"
+  ]
+}

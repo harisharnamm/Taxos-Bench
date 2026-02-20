@@ -1,0 +1,22 @@
+{
+  "id": "10e26201833f",
+  "section": "72",
+  "citation": "I.R.C. \u00a7 72(v)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 72(v) is discussed as follows: 'I.R.C. \u00a7 72(v)10-Percent Additional Tax For Taxable Distributions From Modified Endowment ContractsI...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 72(v)?",
+  "difficulty": 1,
+  "choices": [
+    "15.0%",
+    "20.0%",
+    "10.0%",
+    "90.0%",
+    "0.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 10.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 72(v)"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "6b5508f0ac9e",
+  "section": "163",
+  "citation": "I.R.C. \u00a7 163(h)",
+  "type": "Calculation - Interest Deduction",
+  "scenario": "Bob paid the following interest amounts: Car Loan Interest (Personal): $2,335.20, Student Loan Interest (assume deductible for simplicity): $2,339.98, Credit Card Interest: $4,477.96.",
+  "question": "Calculate the total deductible interest under I.R.C. \u00a7 163.",
+  "difficulty": 2,
+  "choices": [
+    "$0.00",
+    "$6,813.16",
+    "$9,153.14",
+    "$2,339.98"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "Personal interest is generally not deductible. Qualified residence interest and investment interest are. Total: $2,339.98.",
+  "reasoning": "Summed deductible interest types.",
+  "source_rules": [
+    "I.R.C. \u00a7 163(h)"
+  ]
+}

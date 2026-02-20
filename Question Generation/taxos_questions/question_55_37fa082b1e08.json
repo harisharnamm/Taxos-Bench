@@ -1,0 +1,22 @@
+{
+  "id": "37fa082b1e08",
+  "section": "55",
+  "citation": "I.R.C. \u00a7 55(d)(4)(B)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 55(d)(4)(B) is discussed as follows: 'I.R.C. \u00a7 55(d)(4)(B)Inflation AdjustmentI.R.C. \u00a7 55(d)(4)(B)(i)In General\u2014In the case of any taxable...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 55(d)(4)(B)?",
+  "difficulty": 1,
+  "choices": [
+    "$2,000,000.00",
+    "$1,100,000.00",
+    "$500,000.00",
+    "$1,000,000.00",
+    "$900,000.00"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies $1,000,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 55(d)(4)(B)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "d7e8e1ca5fa9",
+  "section": "132",
+  "citation": "I.R.C. \u00a7 132(f)(5)(B)(ii)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 132(f)(5)(B)(ii) is discussed as follows: 'I.R.C. \u00a7 132(f)(5)(B)(ii)\u2014at  least 80 percent of the mileage use of which can reasonable be expecte...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 132(f)(5)(B)(ii)?",
+  "difficulty": 1,
+  "choices": [
+    "120.0%",
+    "90.0%",
+    "70.0%",
+    "80.0%",
+    "20.0%"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies 80.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 132(f)(5)(B)(ii)"
+  ]
+}

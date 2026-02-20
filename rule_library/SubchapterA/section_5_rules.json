@@ -1,0 +1,204 @@
+[
+  {
+    "section": "5",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "For rates of tax on nonresident aliens, see section871.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For rates of tax on nonresident aliens, see section871."
+    },
+    "cross_references": [
+      {
+        "section": "871",
+        "reason": "ax on nonresident aliens, see..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 5(a)(1)\u2014For  rates of tax on nonresident aliens, see section871.",
+    "definitions": null
+  },
+  {
+    "section": "5",
+    "subsection": "(a)(2)",
+    "source_subsections": [
+      "(a)(2)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "For doubling of tax on citizens of certain foreign countries, see section891.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For doubling of tax on citizens of certain foreign countries, see section891."
+    },
+    "cross_references": [
+      {
+        "section": "891",
+        "reason": "ertain foreign countries, see..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 5(a)(2)\u2014For  doubling of tax on citizens of certain foreign countries, see section891.",
+    "definitions": null
+  },
+  {
+    "section": "5",
+    "subsection": "(a)(3)",
+    "source_subsections": [
+      "(a)(3)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "For rate of withholding in the case of nonresident aliens, see section1441.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For rate of withholding in the case of nonresident aliens, see section1441."
+    },
+    "cross_references": [
+      {
+        "section": "1441",
+        "reason": "se of nonresident aliens, see..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 5(a)(3)\u2014For  rate of withholding in the case of nonresident aliens, see section1441.",
+    "definitions": null
+  },
+  {
+    "section": "5",
+    "subsection": "(a)(4)",
+    "source_subsections": [
+      "(a)(4)"
+    ],
+    "rule_type": "limitation",
+    "title": null,
+    "text": "For alternative minimum tax, see section55.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For alternative minimum tax, see section55."
+    },
+    "cross_references": [
+      {
+        "section": "55",
+        "reason": "alternative minimum tax, see..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 5(a)(4)\u2014For  alternative minimum tax, see section55.",
+    "definitions": null
+  },
+  {
+    "section": "5",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)"
+    ],
+    "rule_type": "limitation",
+    "title": null,
+    "text": "For limitation on tax in case of income of members of Armed Forces, astronauts, and victims of certain terrorist attacks on death, see section692.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For limitation on tax in case of income of members of Armed Forces, astronauts, and victims of certain terrorist attacks on death, see section692."
+    },
+    "cross_references": [
+      {
+        "section": "692",
+        "reason": "rrorist attacks on death, see..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 5(b)(1)\u2014For  limitation on tax in case of income of members of Armed Forces, astronauts, \n                     and victims of certain terrorist attacks on death, see section692.",
+    "definitions": null
+  },
+  {
+    "section": "5",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "For computation of tax where taxpayer restores substantial amount held under claim of right, see section1341.",
+    "conditions": [
+      "taxpayer restores substantial amount held under claim of right, see section1341."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "taxpayer restores substantial amount held under claim of right, see section1341."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For computation of tax"
+    },
+    "cross_references": [
+      {
+        "section": "1341",
+        "reason": "eld under claim of right, see..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 5(b)(2)\u2014For  computation of tax where taxpayer restores substantial amount held under  claim\n                     of right, see section1341.",
+    "definitions": null
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "id": "65b4b0aa3e0e",
+  "section": "1252",
+  "citation": "I.R.C. \u00a7 1252(a)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1252(a) is discussed as follows: 'I.R.C. \u00a7 1252(a)General RuleI.R.C. \u00a7 1252(a)(1)Ordinary Income\u2014Except  as otherwise provided in this...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1252(a)?",
+  "difficulty": 1,
+  "choices": [
+    "60.0%",
+    "40.0%",
+    "50.0%",
+    "90.0%",
+    "70.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 60.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1252(a)"
+  ]
+}

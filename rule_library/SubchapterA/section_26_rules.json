@@ -1,0 +1,310 @@
+[
+  {
+    "section": "26",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)",
+      "(a)(1)",
+      "(a)(2)"
+    ],
+    "rule_type": "limitation",
+    "title": "Based On Amount Of Tax",
+    "text": "The aggregate amount of credits allowed by this subpart for the taxable year shall not exceed the sum of\u2014\u2014the taxpayer's regular tax liability for the taxable year reduced by the foreign tax credit allowable under section27, and\u2014the tax imposed by section55(a)for the taxable year.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The aggregate amount of credits allowed by this subpart for the taxable year shall not exceed the sum of\u2014\u2014the taxpayer's regular tax liability for the taxable year reduced by the foreign tax credit allowable under section27, and\u2014the tax imposed by section55(a)for the taxable year."
+    },
+    "cross_references": [
+      {
+        "section": "27",
+        "reason": "gn tax credit allowable under..."
+      },
+      {
+        "section": "55(a)",
+        "reason": ", and\u2014the tax imposed by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 26(a)Limitation Based On Amount Of Tax\u2014The  aggregate amount of credits allowed by  this subpart\n                  for the taxable year shall not exceed the sum of\u2014I.R.C. \u00a7 26(a)(1)\u2014the taxpayer's regular tax liability for the taxable year reduced by the foreign tax\n                     credit allowable under section27, andI.R.C. \u00a7 26(a)(2)\u2014the tax imposed by section55(a)for the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "26",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cregular tax liability\u201d means the tax imposed by this chapter for the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cregular tax liability\u201d means the tax imposed by this chapter for the taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 26(b)(1)In General\u2014The  term \u201cregular tax liability\u201d means the tax imposed by this chapter for the  taxable\n                     year.",
+    "definitions": {
+      "term": "regular tax liability",
+      "requirements": [
+        "the tax imposed by this chapter for the taxable year."
+      ]
+    }
+  },
+  {
+    "section": "26",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)",
+      "(b)(2)(A)",
+      "(b)(2)(B)",
+      "(b)(2)(C)",
+      "(b)(2)(D)",
+      "(b)(2)(E)",
+      "(b)(2)(F)",
+      "(b)(2)(G)",
+      "(b)(2)(H)",
+      "(b)(2)(I)",
+      "(b)(2)(J)",
+      "(b)(2)(K)",
+      "(b)(2)(L)",
+      "(b)(2)(M)",
+      "(b)(2)(N)",
+      "(b)(2)(O)",
+      "(b)(2)(Q)",
+      "(b)(2)(R)",
+      "(b)(2)(S)",
+      "(b)(2)(T)",
+      "(b)(2)(U)",
+      "(b)(2)(V)",
+      "(b)(2)(W)",
+      "(b)(2)(X)",
+      "(b)(2)(Y)",
+      "(b)(2)(Z)"
+    ],
+    "rule_type": "condition",
+    "title": "For Certain Taxes",
+    "text": "For purposes of paragraph(1), any tax imposed by any of the following provisions shall not be treated as tax imposed by this chapter:\u2014section55(relating to minimum tax),\u2014section59A(relating to base erosion and anti-abuse tax),\u2014subsection(m)(5)(B),(q),(t), or(v)of section72(relating to additional taxes on certain distributions),\u2014section143(m)(relating to recapture of proration of Federal subsidy from use of mortgage bonds and mortgage credit certificates),\u2014section530(d)(4)(relating to additional tax on certain distributions from Coverdell education savings accounts),\u2014section531(relating to accumulated earnings tax),\u2014section541(relating to personal holding company tax),\u2014section1351(d)(1)(relating to recoveries of foreign expropriation losses),\u2014section1374(relating to tax on certain built-in gains of S corporations),\u2014section1375(relating to tax imposed when passive investment income of corporation having subchapter C earnings and profits exceeds 25 percent of gross receipts),\u2014subparagraph(A)of section7518(g)(6)(relating to nonqualified withdrawals from capital construction funds taxed at highest marginal rate),\u2014sections871(a)and881(relating to certain income of nonresident aliens and foreign corporations),\u2014section860E(e)(relating to taxes with respect to certain residual interests),\u2014section884(relating to branch profits tax),\u2014sections453(l)(3)and453A(c)(relating to interest on certain deferred tax liabilities), Repealed\u2014section860k(relating to treatment of transfers of high-yield interests to disqualified holders),\u2014section220(f)(4)(relating to additional tax on Archer MSA distributions not used for qualified medical expenses),\u2014section138(c)(2)(relating to penalty for distributions from Medicare Advantage MSA not used for qualified medical expenses if minimum balance not maintained),\u2014sections106(e)(3)(A)(ii),223(b)(8)(B)(i)(II), and408(d)(9)(D)(i)(II)(relating to certain failures to maintain high deductible health plan coverage),\u2014section170(o)(3)(B)(relating to recapture of certain deductions for fractional gifts),\u2014section223(f)(4)(relating to additional tax on health savings account distributions not used for qualified medical expenses),\u2014subsections(a)(1)(B)(i)and(b)(4)(A)of section409A(relating to interest and additional tax with respect to certain deferred compensation),\u2014section36(f)(relating to recapture of homebuyer credit),\u2014section457A(c)(1)(B)(relating to determinability of amounts of compensation),\u2014section529A(c)(3)(A)(relating to additional tax on ABLE account distributions not used for qualified disability expenses), and\u2014section24(j)(2)(relating to excess advance payments).",
+    "conditions": [
+      "passive investment income of corporation having subchapter C earnings and profits exceeds 25 percent of gross receipts),\u2014subparagraph(A)of section7518(g)(6)(relating to nonqualified withdrawals from capital construction funds taxed at highest marginal rate),\u2014sections871(a)and881(relating to certain income of nonresident aliens and foreign corporations),\u2014section860E(e)(relating to taxes with respect to certain residual interests),\u2014section884(relating to branch profits tax),\u2014sections453(l)(3)and453A(c)(relating to interest on certain deferred tax liabilities), Repealed\u2014section860k(relating to treatment of transfers of high-yield interests to disqualified holders),\u2014section220(f)(4)(relating to additional tax on Archer MSA distributions not used for qualified medical expenses),\u2014section138(c)(2)(relating to penalty for distributions from Medicare Advantage MSA not used for qualified medical expenses",
+      "minimum balance not maintained),\u2014sections106(e)(3)(A)(ii),223(b)(8)(B)(i)(II), and408(d)(9)(D)(i)(II)(relating to certain failures to maintain high deductible health plan coverage),\u2014section170(o)(3)(B)(relating to recapture of certain deductions for fractional gifts),\u2014section223(f)(4)(relating to additional tax on health savings account distributions not used for qualified medical expenses),\u2014subsections(a)(1)(B)(i)and(b)(4)(A)of section409A(relating to interest and additional tax with respect to certain deferred compensation),\u2014section36(f)(relating to recapture of homebuyer credit),\u2014section457A(c)(1)(B)(relating to determinability of amounts of compensation),\u2014section529A(c)(3)(A)(relating to additional tax on ABLE account distributions not used for qualified disability expenses), and\u2014section24(j)(2)(relating to excess advance payments)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.25,
+        "text": "25 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "passive investment income of corporation having subchapter C earnings and profits exceeds 25 percent of gross receipts),\u2014subparagraph(A)of section7518(g)(6)(relating to nonqualified withdrawals from capital construction funds taxed at highest marginal rate),\u2014sections871(a)and881(relating to certain income of nonresident aliens and foreign corporations),\u2014section860E(e)(relating to taxes with respect to certain residual interests),\u2014section884(relating to branch profits tax),\u2014sections453(l)(3)and453A(c)(relating to interest on certain deferred tax liabilities), Repealed\u2014section860k(relating to treatment of transfers of high-yield interests to disqualified holders),\u2014section220(f)(4)(relating to additional tax on Archer MSA distributions not used for qualified medical expenses),\u2014section138(c)(2)(relating to penalty for distributions from Medicare Advantage MSA not used for qualified medical expenses",
+        "minimum balance not maintained),\u2014sections106(e)(3)(A)(ii),223(b)(8)(B)(i)(II), and408(d)(9)(D)(i)(II)(relating to certain failures to maintain high deductible health plan coverage),\u2014section170(o)(3)(B)(relating to recapture of certain deductions for fractional gifts),\u2014section223(f)(4)(relating to additional tax on health savings account distributions not used for qualified medical expenses),\u2014subsections(a)(1)(B)(i)and(b)(4)(A)of section409A(relating to interest and additional tax with respect to certain deferred compensation),\u2014section36(f)(relating to recapture of homebuyer credit),\u2014section457A(c)(1)(B)(relating to determinability of amounts of compensation),\u2014section529A(c)(3)(A)(relating to additional tax on ABLE account distributions not used for qualified disability expenses), and\u2014section24(j)(2)(relating to excess advance payments)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of paragraph(1), any tax imposed by any of the following provisions shall not be treated as tax imposed by this chapter:\u2014section55(relating to minimum tax),\u2014section59A(relating to base erosion and anti-abuse tax),\u2014subsection(m)(5)(B),(q),(t), or(v)of section72(relating to additional taxes on certain distributions),\u2014section143(m)(relating to recapture of proration of Federal subsidy from use of mortgage bonds and mortgage credit certificates),\u2014section530(d)(4)(relating to additional tax on certain distributions from Coverdell education savings accounts),\u2014section531(relating to accumulated earnings tax),\u2014section541(relating to personal holding company tax),\u2014section1351(d)(1)(relating to recoveries of foreign expropriation losses),\u2014section1374(relating to tax on certain built-in gains of S corporations),\u2014section1375(relating to tax imposed"
+    },
+    "cross_references": [
+      {
+        "section": "55",
+        "reason": "tax imposed by this chapter:\u2014..."
+      },
+      {
+        "section": "59A",
+        "reason": "(relating to minimum tax),\u2014..."
+      },
+      {
+        "section": "72",
+        "reason": "ion(m)(5)(B),(q),(t), or(v)of..."
+      },
+      {
+        "section": "143(m)",
+        "reason": "es on certain distributions),\u2014..."
+      },
+      {
+        "section": "530(d)(4)",
+        "reason": "ortgage credit certificates),\u2014..."
+      },
+      {
+        "section": "531",
+        "reason": "education savings accounts),\u2014..."
+      },
+      {
+        "section": "541",
+        "reason": "to accumulated earnings tax),\u2014..."
+      },
+      {
+        "section": "1351(d)(1)",
+        "reason": "ersonal holding company tax),\u2014..."
+      },
+      {
+        "section": "1374",
+        "reason": "oreign expropriation losses),\u2014..."
+      },
+      {
+        "section": "1375",
+        "reason": "-in gains of S corporations),\u2014..."
+      },
+      {
+        "section": "7518(g)(6)",
+        "reason": "receipts),\u2014subparagraph(A)of..."
+      },
+      {
+        "section": "860E(e)",
+        "reason": "ns and foreign corporations),\u2014..."
+      },
+      {
+        "section": "884",
+        "reason": "certain residual interests),\u2014..."
+      },
+      {
+        "section": "860k",
+        "reason": "ed tax liabilities), Repealed\u2014..."
+      },
+      {
+        "section": "220(f)(4)",
+        "reason": "sts to disqualified holders),\u2014..."
+      },
+      {
+        "section": "138(c)(2)",
+        "reason": "qualified medical expenses),\u2014..."
+      },
+      {
+        "section": "170(o)(3)(B)",
+        "reason": "ctible health plan coverage),\u2014..."
+      },
+      {
+        "section": "223(f)(4)",
+        "reason": "ctions for fractional gifts),\u2014..."
+      },
+      {
+        "section": "409A",
+        "reason": "ons(a)(1)(B)(i)and(b)(4)(A)of..."
+      },
+      {
+        "section": "36(f)",
+        "reason": "rtain deferred compensation),\u2014..."
+      },
+      {
+        "section": "457A(c)(1)(B)",
+        "reason": "capture of homebuyer credit),\u2014..."
+      },
+      {
+        "section": "529A(c)(3)(A)",
+        "reason": "of amounts of compensation),\u2014..."
+      },
+      {
+        "section": "24(j)(2)",
+        "reason": "ied disability expenses), and\u2014..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 26(b)(2)Exception For Certain Taxes\u2014For  purposes of paragraph(1), any tax imposed by any of the following  provisions shall not be treated as tax\n                     imposed by this chapter:I.R.C. \u00a7 26(b)(2)(A)\u2014section55(relating to minimum tax),I.R.C. \u00a7 26(b)(2)(B)\u2014section59A(relating to base erosion and anti-abuse tax),I.R.C. \u00a7 26(b)(2)(C)\u2014subsection(m)(5)(B),(q),(t), or(v)of section72(relating to additional taxes on  certain distributions),I.R.C. \u00a7 26(b)(2)(D)\u2014section143(m)(relating to recapture of proration of Federal subsidy from use of  mortgage bonds\n                        and mortgage credit certificates),I.R.C. \u00a7 26(b)(2)(E)\u2014section530(d)(4)(relating to additional tax on certain distributions  from  Coverdell education\n                        savings  accounts),I.R.C. \u00a7 26(b)(2)(F)\u2014section531(relating to accumulated earnings tax),I.R.C. \u00a7 26(b)(2)(G)\u2014section541(relating to personal holding company tax),I.R.C. \u00a7 26(b)(2)(H)\u2014section1351(d)(1)(relating to recoveries of foreign expropriation losses),I.R.C. \u00a7 26(b)(2)(I)\u2014section1374(relating to tax on certain built-in gains of S corporations),I.R.C. \u00a7 26(b)(2)(J)\u2014section1375(relating to tax imposed when passive investment income of  corporation having subchapter\n                        C earnings and profits exceeds 25 percent of  gross receipts),I.R.C. \u00a7 26(b)(2)(K)\u2014subparagraph(A)of section7518(g)(6)(relating to nonqualified withdrawals from  capital construction funds taxed at highest\n                        marginal rate),I.R.C. \u00a7 26(b)(2)(L)\u2014sections871(a)and881(relating to certain income of nonresident aliens and  foreign corporations),I.R.C. \u00a7 26(b)(2)(M)\u2014section860E(e)(relating to taxes with respect to certain residual interests),I.R.C. \u00a7 26(b)(2)(N)\u2014section884(relating to branch profits tax),I.R.C. \u00a7 26(b)(2)(O)\u2014sections453(l)(3)and453A(c)(relating to interest on certain deferred tax  liabilities),I.R.C. \u00a7 26(b)(2)(P) Repealed\u2014section860k(relating to treatment of transfers of high-yield interests to disqualified holders),I.R.C. \u00a7 26(b)(2)(Q)\u2014section220(f)(4)(relating to additional\n                        tax on  Archer MSA  distributions  not used for qualified medical expenses),I.R.C. \u00a7 26(b)(2)(R)\u2014section138(c)(2)(relating to penalty for distributions from  Medicare  Advantage MSA  not used for\n                        qualified medical expenses if minimum balance  not maintained),I.R.C. \u00a7 26(b)(2)(S)\u2014sections106(e)(3)(A)(ii),223(b)(8)(B)(i)(II), and408(d)(9)(D)(i)(II)(relating to certain failures to maintain high deductible health plan coverage),I.R.C. \u00a7 26(b)(2)(T)\u2014section170(o)(3)(B)(relating to recapture of certain deductions for fractional gifts),I.R.C. \u00a7 26(b)(2)(U)\u2014section223(f)(4)(relating to additional tax on health savings account  distributions not used for\n                        qualified medical expenses),I.R.C. \u00a7 26(b)(2)(V)\u2014subsections(a)(1)(B)(i)and(b)(4)(A)of section409A(relating to interest and\n                        additional tax with respect to certain deferred  compensation),I.R.C. \u00a7 26(b)(2)(W)\u2014section36(f)(relating to recapture of homebuyer credit),I.R.C. \u00a7 26(b)(2)(X)\u2014section457A(c)(1)(B)(relating to determinability of amounts of compensation),I.R.C. \u00a7 26(b)(2)(Y)\u2014section529A(c)(3)(A)(relating to additional tax on ABLE account distributions not used for qualified\n                        disability expenses), andI.R.C. \u00a7 26(b)(2)(Z)\u2014section24(j)(2)(relating to excess advance payments).",
+    "definitions": null
+  },
+  {
+    "section": "26",
+    "subsection": "(b)(2)Repealed",
+    "source_subsections": [
+      "(b)(2)Repealed"
+    ],
+    "rule_type": "condition",
+    "title": "Repealed",
+    "text": "section860k(relating to treatment of transfers of high-yield interests to disqualified holders),",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "section860k(relating to treatment of transfers of high-yield interests to disqualified holders),"
+    },
+    "cross_references": [
+      {
+        "section": "860k",
+        "reason": "..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 26(b)(2)(P) Repealed\u2014section860k(relating to treatment of transfers of high-yield interests to disqualified holders),",
+    "definitions": null
+  },
+  {
+    "section": "26",
+    "subsection": "(c)",
+    "source_subsections": [
+      "(c)"
+    ],
+    "rule_type": "definition",
+    "title": "Minimum Tax",
+    "text": "For purposes of this part, the term \u201ctentative minimum tax\u201d means the amount determined under section55(b)(1).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this part, the term \u201ctentative minimum tax\u201d means the amount determined under section55(b)(1)."
+    },
+    "cross_references": [
+      {
+        "section": "55(b)(1)",
+        "reason": "s the amount determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 26(c)Tentative Minimum Tax\u2014For  purposes of this part, the term \u201ctentative minimum tax\u201d means the amount  determined\n                  under section55(b)(1).",
+    "definitions": {
+      "term": "tentative minimum tax",
+      "requirements": [
+        "the amount determined under section55(b)(1)."
+      ]
+    }
+  }
+]

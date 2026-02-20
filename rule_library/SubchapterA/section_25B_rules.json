@@ -1,0 +1,553 @@
+[
+  {
+    "section": "25B",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)"
+    ],
+    "rule_type": "limitation",
+    "title": "Of Credit",
+    "text": "In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by this subtitle for the taxable year an amount equal to the applicable percentage of so much of the qualified retirement savings contributions of the eligible individual for the taxable year as do not exceed $2,100.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 2100,
+        "text": "$2,100"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by this subtitle for the taxable year an amount equal to the applicable percentage of so much of the qualified retirement savings contributions of the eligible individual for the taxable year as do not exceed $2,100."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25B(a)Allowance Of Credit\u2014In the case of an eligible individual, there shall be allowed as a credit against\n                  the tax imposed by this subtitle for the taxable year an amount equal to the applicable\n                  percentage of so much of the qualified retirement savings contributions of the eligible\n                  individual for the taxable year as do not exceed $2,100.",
+    "definitions": null
+  },
+  {
+    "section": "25B",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)",
+      "(b)(1)(A)",
+      "(b)(1)(B)",
+      "(b)(1)(C)",
+      "(b)(1)(D)"
+    ],
+    "rule_type": "condition",
+    "title": "Returns",
+    "text": "In the case of a joint return, the applicable percentage is\u2014\u2014if the adjusted gross income of the taxpayer is not over $30,000, 50 percent,\u2014if the adjusted gross income of the taxpayer is over $30,000 but not over $32,500, 20 percent,\u2014if the adjusted gross income of the taxpayer is over $32,500 but not over $50,000, 10 percent, and\u2014if the adjusted gross income of the taxpayer is over $50,000, zero percent.",
+    "conditions": [
+      "the adjusted gross income of the taxpayer is not over $30,000, 50 percent,\u2014",
+      "the adjusted gross income of the taxpayer is over $30,000 but not over $32,500, 20 percent,\u2014",
+      "the adjusted gross income of the taxpayer is over $32,500 but not over $50,000, 10 percent, and\u2014",
+      "the adjusted gross income of the taxpayer is over $50,000, zero percent."
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 30000,
+        "text": "$30,000,"
+      },
+      {
+        "label": "amount",
+        "value": 30000,
+        "text": "$30,000"
+      },
+      {
+        "label": "amount",
+        "value": 32500,
+        "text": "$32,500,"
+      },
+      {
+        "label": "amount",
+        "value": 32500,
+        "text": "$32,500"
+      },
+      {
+        "label": "amount",
+        "value": 50000,
+        "text": "$50,000,"
+      },
+      {
+        "label": "amount",
+        "value": 50000,
+        "text": "$50,000,"
+      }
+    ],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.2,
+        "text": "20 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.1,
+        "text": "10 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the adjusted gross income of the taxpayer is not over $30,000, 50 percent,\u2014",
+        "the adjusted gross income of the taxpayer is over $30,000 but not over $32,500, 20 percent,\u2014",
+        "the adjusted gross income of the taxpayer is over $32,500 but not over $50,000, 10 percent, and\u2014",
+        "the adjusted gross income of the taxpayer is over $50,000, zero percent."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a joint return, the applicable percentage is\u2014\u2014"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25B(b)(1)Joint Returns\u2014In the case of a joint return, the applicable percentage is\u2014I.R.C. \u00a7 25B(b)(1)(A)\u2014if the adjusted gross income of the taxpayer is not over $30,000, 50 percent,I.R.C. \u00a7 25B(b)(1)(B)\u2014if the adjusted gross income of the taxpayer is over $30,000 but not over $32,500,\n                        20 percent,I.R.C. \u00a7 25B(b)(1)(C)\u2014if the adjusted gross income of the taxpayer is over $32,500 but not over $50,000,\n                        10 percent, andI.R.C. \u00a7 25B(b)(1)(D)\u2014if the adjusted gross income of the taxpayer is over $50,000, zero percent.",
+    "definitions": null
+  },
+  {
+    "section": "25B",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)",
+      "(b)(2)(A)",
+      "(b)(2)(B)"
+    ],
+    "rule_type": "exception",
+    "title": "Returns",
+    "text": "In the case of\u2014\u2014a head of household, the applicable percentage shall be determined under paragraph(1)except that such paragraph shall be applied by substituting for each dollar amount therein (as adjusted under paragraph(3)) a dollar amount equal to 75 percent of such dollar amount, and\u2014any taxpayer not described in paragraph(1)or subparagraph(A), the applicable percentage shall be determined under paragraph(1)except that such paragraph shall be applied by substituting for each dollar amount therein (as adjusted under paragraph(3)) a dollar amount equal to 50 percent of such dollar amount.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.75,
+        "text": "75 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "that such paragraph shall be applied by substituting for each dollar amount therein (as adjusted under paragraph(3)) a dollar amount equal to 75 percent of such dollar amount, and\u2014any taxpayer not described in paragraph(1)or subparagraph(A), the applicable percentage shall be determined under paragraph(1)",
+        "that such paragraph shall be applied by substituting for each dollar amount therein (as adjusted under paragraph(3)) a dollar amount equal to 50 percent of such dollar amount."
+      ],
+      "result": "In the case of\u2014\u2014a head of household, the applicable percentage shall be determined under paragraph(1)"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25B(b)(2)Other Returns\u2014In the case of\u2014I.R.C. \u00a7 25B(b)(2)(A)\u2014a head of household, the applicable percentage shall be determined under paragraph(1)except that such paragraph shall be applied by substituting for each dollar amount\n                        therein (as adjusted under paragraph(3)) a dollar amount equal to 75 percent of such dollar amount, andI.R.C. \u00a7 25B(b)(2)(B)\u2014any taxpayer not described in paragraph(1)or subparagraph(A), the applicable percentage shall be determined under paragraph(1)except that such paragraph shall be applied by substituting for each dollar amount\n                        therein (as adjusted under paragraph(3)) a dollar amount equal to 50 percent of such dollar amount.",
+    "definitions": null
+  },
+  {
+    "section": "25B",
+    "subsection": "(b)(3)",
+    "source_subsections": [
+      "(b)(3)",
+      "(b)(3)(A)",
+      "(b)(3)(B)"
+    ],
+    "rule_type": "computation",
+    "title": "Adjustment",
+    "text": "In the case of any taxable year beginning in a calendar year after 2006, each of the dollar amounts in paragraph (1) shall be increased by an amount equal to\u2014\u2014such dollar amount, multiplied by\u2014the cost-of-living adjustment determined under section1(f)(3)for the calendar year in which the taxable year begins, determined by substituting \u201ccalendar year 2005\u201d for \u201ccalendar year 2016\u201d in subparagraph(A)(ii)thereof.Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $500.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 500,
+        "text": "$500"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any taxable year beginning in a calendar year after 2006, each of the dollar amounts in paragraph (1) shall be increased by an amount equal to\u2014\u2014such dollar amount, multiplied by\u2014the cost-of-living adjustment determined under section1(f)(3)for the calendar year in which the taxable year begins, determined by substituting \u201ccalendar year 2005\u201d for \u201ccalendar year 2016\u201d in subparagraph(A)(ii)thereof.Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $500."
+    },
+    "cross_references": [
+      {
+        "section": "1(f)(3)",
+        "reason": "g adjustment determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25B(b)(3)Inflation Adjustment\u2014In the case of any taxable year beginning in a calendar year after 2006, each of the\n                     dollar amounts in paragraph (1) shall be increased by an amount equal to\u2014I.R.C. \u00a7 25B(b)(3)(A)\u2014such dollar amount, multiplied byI.R.C. \u00a7 25B(b)(3)(B)\u2014the cost-of-living adjustment determined under section1(f)(3)for the calendar year in which the taxable year begins, determined by substituting\n                        \u201ccalendar year 2005\u201d for \u201ccalendar year 2016\u201d in subparagraph(A)(ii)thereof.Any increase determined under the preceding sentence shall be rounded to the nearest\n                        multiple of $500.",
+    "definitions": null
+  },
+  {
+    "section": "25B",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201celigible individual\u201d means any individual if such individual has attained the age of 18 as of the close of the taxable year.",
+    "conditions": [
+      "such individual has attained the age of 18 as of the close of the taxable year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such individual has attained the age of 18 as of the close of the taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201celigible individual\u201d means any individual"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25B(c)(1)In General\u2014The term \u201celigible individual\u201d means any individual if such individual has attained\n                     the age of 18 as of the close of the taxable year.",
+    "definitions": {
+      "term": "eligible individual",
+      "requirements": [
+        "any individual if such individual has attained the age of 18 as of the close of the taxable year."
+      ]
+    }
+  },
+  {
+    "section": "25B",
+    "subsection": "(c)(2)",
+    "source_subsections": [
+      "(c)(2)",
+      "(c)(2)(A)",
+      "(c)(2)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "And Full",
+    "text": "Time Students Not Eligible\u2014The term \u201celigible individual\u201d shall not include\u2014\u2014any individual with respect to whom a deduction under section151is allowed to another taxpayer for a taxable year beginning in the calendar year in which such individual's taxable year begins, and\u2014any individual who is a student (as defined in section152(f)(2)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Time Students Not Eligible\u2014The term \u201celigible individual\u201d shall not include\u2014\u2014any individual with respect to whom a deduction under section151is allowed to another taxpayer for a taxable year beginning in the calendar year in which such individual's taxable year begins, and\u2014any individual who is a student (as defined in section152(f)(2))."
+    },
+    "cross_references": [
+      {
+        "section": "151i",
+        "reason": "ect to whom a deduction under..."
+      },
+      {
+        "section": "152(f)(2)",
+        "reason": "o is a student (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25B(c)(2)Dependents And Full-Time Students Not Eligible\u2014The term \u201celigible individual\u201d shall not include\u2014I.R.C. \u00a7 25B(c)(2)(A)\u2014any individual with respect to whom a deduction under section151is allowed to another taxpayer for a taxable year beginning in the calendar year\n                        in which such individual's taxable year begins, andI.R.C. \u00a7 25B(c)(2)(B)\u2014any individual who is a student (as defined in section152(f)(2)).",
+    "definitions": null
+  },
+  {
+    "section": "25B",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)",
+      "(d)(1)(A)",
+      "(d)(1)(B)",
+      "(d)(1)(B)(i)",
+      "(d)(1)(B)(ii)",
+      "(d)(1)(B)(ii)(I)",
+      "(d)(1)(B)(ii)(II)",
+      "(d)(1)(B)(iii)",
+      "(d)(1)(C)",
+      "(d)(1)(D)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cqualified retirement savings contributions\u201d means, with respect to any taxable year, the sum of\u2014\u2014the amount of contributions made by the eligible individual during such taxable year to the ABLE account (within the meaning of section529A) of which such individual is the designated beneficiary, and\u2014in the case of any taxable year beginning before January 1, 2027\u2014\u2014the amount of the qualified retirement contributions (as defined in section219(e)) made by the eligible individual,\u2014the amount of\u2014\u2014any elective deferrals (as defined in section402(g)(3)) of such individual, and\u2014any elective deferral of compensation by such individual under an eligible deferred compensation plan (as defined in section457(b)) of an eligible employer described in section457(e)(1)(A), and\u2014the amount of voluntary employee contributions by such individual to any qualified retirement plan (as defined in section4974(c)).",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified retirement savings contributions\u201d means, with respect to any taxable year, the sum of\u2014\u2014the amount of contributions made by the eligible individual during such taxable year to the ABLE account (within the meaning of section529A) of which such individual is the designated beneficiary, and\u2014in the case of any taxable year beginning before January 1, 2027\u2014\u2014the amount of the qualified retirement contributions (as defined in section219(e)) made by the eligible individual,\u2014the amount of\u2014\u2014any elective deferrals (as defined in section402(g)(3)) of such individual, and\u2014any elective deferral of compensation by such individual under an eligible deferred compensation plan (as defined in section457(b)) of an eligible employer described in section457(e)(1)(A), and\u2014the amount of voluntary employee contributions by such individual to any qualified retirement plan (as defined in section4974(c))."
+    },
+    "cross_references": [
+      {
+        "section": "529A",
+        "reason": "ccount (within the meaning of..."
+      },
+      {
+        "section": "219(e)",
+        "reason": "contributions (as defined in..."
+      },
+      {
+        "section": "402(g)(3)",
+        "reason": "tive deferrals (as defined in..."
+      },
+      {
+        "section": "457(b)",
+        "reason": "pensation plan (as defined in..."
+      },
+      {
+        "section": "457(e)(1)(A)",
+        "reason": "ligible employer described in..."
+      },
+      {
+        "section": "4974(c)",
+        "reason": "etirement plan (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25B(d)(1)In General\u2014The term \u201cqualified retirement savings contributions\u201d means, with respect to any taxable\n                     year, the sum of\u2014I.R.C. \u00a7 25B(d)(1)(A)\u2014the amount of contributions made by the eligible individual during such taxable year\n                        to the ABLE account (within the meaning of section529A) of which such individual is the designated beneficiary, andI.R.C. \u00a7 25B(d)(1)(B)\u2014in the case of any taxable year beginning before January 1, 2027\u2014I.R.C. \u00a7 25B(d)(1)(B)(i)\u2014the amount of the qualified retirement contributions (as defined in section219(e)) made by the eligible individual,I.R.C. \u00a7 25B(d)(1)(B)(ii)\u2014the amount of\u2014I.R.C. \u00a7 25B(d)(1)(B)(ii)(I)\u2014any elective deferrals (as defined in section402(g)(3)) of such individual, andI.R.C. \u00a7 25B(d)(1)(B)(ii)(II)\u2014any elective deferral of compensation by such individual under an eligible deferred\n                              compensation plan (as defined in section457(b)) of an eligible employer described in section457(e)(1)(A), andI.R.C. \u00a7 25B(d)(1)(B)(iii)\u2014the amount of voluntary employee contributions by such individual to any qualified\n                           retirement plan (as defined in section4974(c)).",
+    "definitions": null
+  },
+  {
+    "section": "25B",
+    "subsection": "(d)(2)(A)",
+    "source_subsections": [
+      "(d)(2)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The qualified retirement savings contributions determined under paragraph (1) shall be reduced (but not below zero) by the aggregate distributions received by the individual during the testing period from any entity of a type to which contributions under paragraph (1) may be made. The preceding sentence shall not apply to the portion of any distribution which is not includible in gross income by reason of a trustee-to-trustee transfer or a rollover distribution.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The qualified retirement savings contributions determined under paragraph (1) shall be reduced (but not below zero) by the aggregate distributions received by the individual during the testing period from any entity of a type to which contributions under paragraph (1) may be made. The preceding sentence shall not apply to the portion of any distribution which is not includible in gross income by reason of a trustee-to-trustee transfer or a rollover distribution."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25B(d)(2)(A)In General\u2014The qualified retirement savings contributions determined under paragraph\u00a0(1)\u00a0shall\n                        be reduced (but not below zero) by the aggregate distributions received by the individual\n                        during the testing period from any entity of a type to which contributions under paragraph\u00a0(1)\u00a0may\n                        be made. The preceding sentence shall not apply to the portion of any distribution\n                        which is not includible in gross income by reason of a trustee-to-trustee transfer\n                        or a rollover distribution.",
+    "definitions": null
+  },
+  {
+    "section": "25B",
+    "subsection": "(d)(2)(B)",
+    "source_subsections": [
+      "(d)(2)(B)",
+      "(d)(2)(B)(i)",
+      "(d)(2)(B)(ii)",
+      "(d)(2)(B)(iii)"
+    ],
+    "rule_type": "condition",
+    "title": "Period",
+    "text": "For purposes of subparagraph (A), the testing period, with respect to a taxable year, is the period which includes\u2014\u2014such taxable year,\u2014the 2 preceding taxable years, and\u2014the period after such taxable year and before the due date (including extensions) for filing the return of tax for such taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph (A), the testing period, with respect to a taxable year, is the period which includes\u2014\u2014such taxable year,\u2014the 2 preceding taxable years, and\u2014the period after such taxable year and before the due date (including extensions) for filing the return of tax for such taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25B(d)(2)(B)Testing Period\u2014For purposes of subparagraph\u00a0(A), the testing period, with respect to a taxable year,\n                        is the period which includes\u2014I.R.C. \u00a7 25B(d)(2)(B)(i)\u2014such taxable year,I.R.C. \u00a7 25B(d)(2)(B)(ii)\u2014the 2 preceding taxable years, andI.R.C. \u00a7 25B(d)(2)(B)(iii)\u2014the period after such taxable year and before the due date (including extensions)\n                           for filing the return of tax for such taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "25B",
+    "subsection": "(d)(2)(C)",
+    "source_subsections": [
+      "(d)(2)(C)",
+      "(d)(2)(C)(i)",
+      "(d)(2)(C)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Distributions",
+    "text": "There shall not be taken into account under subparagraph(A)\u2014\u2014any distribution referred to in section72(p),401(k)(8),401(m)(6),402(g)(2),404(k), or408(d)(4), and\u2014any distribution to which section408A(d)(3)applies.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "There shall not be taken into account under subparagraph(A)\u2014\u2014any distribution referred to in section72(p),401(k)(8),401(m)(6),402(g)(2),404(k), or408(d)(4), and\u2014any distribution to which section408A(d)(3)applies."
+    },
+    "cross_references": [
+      {
+        "section": "72(p)",
+        "reason": "y distribution referred to in..."
+      },
+      {
+        "section": "408A(d)(3)",
+        "reason": "and\u2014any distribution to which..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25B(d)(2)(C)Excepted Distributions\u2014There shall not be taken into account under subparagraph(A)\u2014I.R.C. \u00a7 25B(d)(2)(C)(i)\u2014any distribution referred to in section72(p),401(k)(8),401(m)(6),402(g)(2),404(k), or408(d)(4), andI.R.C. \u00a7 25B(d)(2)(C)(ii)\u2014any distribution to which section408A(d)(3)applies.",
+    "definitions": null
+  },
+  {
+    "section": "25B",
+    "subsection": "(d)(2)(D)",
+    "source_subsections": [
+      "(d)(2)(D)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Distributions Received By Spouse Of Individual",
+    "text": "Treatment Of Distributions Received By Spouse Of Individual \u2014 For purposes of determining distributions received by an individual under subparagraph (A) for any taxable year, any distribution received by the spouse of such individual shall be treated as received by such individual if such individual and spouse file a joint return for such taxable year and for the taxable year during which the spouse receives the distribution.",
+    "conditions": [
+      "such individual and spouse file a joint return for such taxable year and for the taxable year during which the spouse receives the distribution."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such individual and spouse file a joint return for such taxable year and for the taxable year during which the spouse receives the distribution."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Treatment Of Distributions Received By Spouse Of Individual \u2014 For purposes of determining distributions received by an individual under subparagraph (A) for any taxable year, any distribution received by the spouse of such individual shall be treated as received by such individual"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25B(d)(2)(D)Treatment Of Distributions Received By Spouse Of Individual\u2014Treatment Of Distributions Received By Spouse Of Individual\u00a0\u2014\u00a0For purposes of determining\n                        distributions received by an individual under subparagraph\u00a0(A)\u00a0for any taxable year,\n                        any distribution received by the spouse of such individual shall be treated as received\n                        by such individual if such individual and spouse file a joint return for such taxable\n                        year and for the taxable year during which the spouse receives the distribution.",
+    "definitions": null
+  },
+  {
+    "section": "25B",
+    "subsection": "(e)",
+    "source_subsections": [
+      "(e)"
+    ],
+    "rule_type": "condition",
+    "title": "Gross Income",
+    "text": "For purposes of this section, adjusted gross income shall be determined without regard to sections911,931, and933.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, adjusted gross income shall be determined without regard to sections911,931, and933."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25B(e)Adjusted Gross Income\u2014For purposes of this section, adjusted gross income shall be determined without regard\n                  to sections911,931, and933.",
+    "definitions": null
+  },
+  {
+    "section": "25B",
+    "subsection": "(f)",
+    "source_subsections": [
+      "(f)"
+    ],
+    "rule_type": "exception",
+    "title": "In The Contract",
+    "text": "Notwithstanding any other provision of law, a qualified retirement savings contribution shall not fail to be included in determining the investment in the contract for purposes of section72by reason of the credit under this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Notwithstanding any other provision of law, a qualified retirement savings contribution shall not fail to be included in determining the investment in the contract for purposes of section72by reason of the credit under this section."
+    },
+    "cross_references": [
+      {
+        "section": "72b",
+        "reason": "the contract for purposes of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25B(f)Investment In The Contract\u2014Notwithstanding any other provision of law, a qualified retirement savings contribution\n                  shall not fail to be included in determining the investment in the contract for purposes\n                  of section72by reason of the credit under this section.",
+    "definitions": null
+  }
+]

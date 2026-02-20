@@ -1,0 +1,22 @@
+{
+  "id": "9d360920da18",
+  "section": "138",
+  "citation": "I.R.C. \u00a7 138(c)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 138(c) is discussed as follows: 'I.R.C. \u00a7 138(c)Special Rules For DistributionsI.R.C. \u00a7 138(c)(1)Distributions For Qualified Medical ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 138(c)?",
+  "difficulty": 1,
+  "choices": [
+    "70.0%",
+    "60.0%",
+    "50.0%",
+    "40.0%",
+    "90.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 60.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 138(c)"
+  ]
+}

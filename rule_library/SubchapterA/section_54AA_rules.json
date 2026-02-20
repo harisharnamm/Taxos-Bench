@@ -1,0 +1,491 @@
+[
+  {
+    "section": "54AA",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54AA, effective for bonds issued after December 31, 2017.If a taxpayer holds a build America bond on one or more interest payment dates of the bond during any taxable year, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the credits determined under subsection(b)with respect to such dates.",
+    "conditions": [
+      "a taxpayer holds a build America bond on one or more interest payment dates of the bond during any taxable year, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the credits determined under subsection(b)with respect to such dates."
+    ],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "a taxpayer holds a build America bond on one or more interest payment dates of the bond during any taxable year, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the credits determined under subsection(b)with respect to such dates."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54AA, effective for bonds issued after December 31, 2017."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54AA(a)In General\u2014Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54AA, effective for bonds issued after December 31, 2017.If a taxpayer holds a build America bond on one or more interest payment dates of\n                  the bond during any taxable year, there shall be allowed as a credit against the tax\n                  imposed by this chapter for the taxable year an amount equal to the sum of the credits\n                  determined under subsection(b)with respect to such dates.",
+    "definitions": null
+  },
+  {
+    "section": "54AA",
+    "subsection": "(b)",
+    "source_subsections": [
+      "(b)"
+    ],
+    "rule_type": "computation",
+    "title": "Of Credit",
+    "text": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54AA, effective for bonds issued after December 31, 2017.The amount of the credit determined under this subsection with respect to any interest payment date for a build America bond is 35 percent of the amount of interest payable by the issuer with respect to such date.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.35,
+        "text": "35 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54AA, effective for bonds issued after December 31, 2017.The amount of the credit determined under this subsection with respect to any interest payment date for a build America bond is 35 percent of the amount of interest payable by the issuer with respect to such date."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54AA(b)Amount Of Credit\u2014Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54AA, effective for bonds issued after December 31, 2017.The amount of the credit determined under this subsection with respect to any interest\n                  payment date for a build America bond is 35 percent of the amount of interest payable\n                  by the issuer with respect to such date.",
+    "definitions": null
+  },
+  {
+    "section": "54AA",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)",
+      "(c)(1)(A)",
+      "(c)(1)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The credit allowed under subsection(a)for any taxable year shall not exceed the excess of\u2014\u2014the sum of the regular tax liability (as defined in section26(b)) plus the tax imposed by section55, over\u2014the sum of the credits allowable under this part (other than subpart C and this subpart).",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "subtraction",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      },
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The credit allowed under subsection(a)for any taxable year shall not exceed the excess of\u2014\u2014the sum of the regular tax liability (as defined in section26(b)) plus the tax imposed by section55, over\u2014the sum of the credits allowable under this part (other than subpart C and this subpart)."
+    },
+    "cross_references": [
+      {
+        "section": "26(b)",
+        "reason": "tax liability (as defined in..."
+      },
+      {
+        "section": "55",
+        "reason": ") plus the tax imposed by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54AA(c)(1)In General\u2014The credit allowed under subsection(a)for any taxable year shall not exceed the excess of\u2014I.R.C. \u00a7 54AA(c)(1)(A)\u2014the sum of the regular tax liability\n                        (as defined in section26(b))\n                        plus the tax imposed by section55, overI.R.C. \u00a7 54AA(c)(1)(B)\u2014the sum of the credits allowable under this part (other than subpart C and this subpart).",
+    "definitions": null
+  },
+  {
+    "section": "54AA",
+    "subsection": "(c)(2)",
+    "source_subsections": [
+      "(c)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Unused Credit",
+    "text": "If the credit allowable under subsection(a)exceeds the limitation imposed by paragraph(1)for such taxable year, such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection(a)for such taxable year (determined before the application of paragraph(1)for such succeeding taxable year).",
+    "conditions": [
+      "the credit allowable under subsection(a)exceeds the limitation imposed by paragraph(1)for such taxable year, such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection(a)for such taxable year (determined before the application of paragraph(1)for such succeeding taxable year)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the credit allowable under subsection(a)exceeds the limitation imposed by paragraph(1)for such taxable year, such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection(a)for such taxable year (determined before the application of paragraph(1)for such succeeding taxable year)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54AA(c)(2)Carryover Of Unused Credit\u2014If the credit allowable under subsection(a)exceeds the limitation imposed by paragraph(1)for such taxable year, such excess shall be carried to the succeeding taxable year\n                     and added to the credit allowable under subsection(a)for such taxable year (determined before the application of paragraph(1)for such succeeding taxable year).",
+    "definitions": null
+  },
+  {
+    "section": "54AA",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)",
+      "(d)(1)(A)",
+      "(d)(1)(B)",
+      "(d)(1)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "For purposes of this section, the term \u201cbuild America bond\u201d means any obligation (other than a private activity bond) if\u2014\u2014the interest on such obligation would (but for this section) be excludable from gross income under section103,\u2014such obligation is issued before January 1, 2011, and\u2014the issuer makes an irrevocable election to have this section apply.",
+    "conditions": [
+      "\u2014\u2014the interest on such obligation would (but for this section) be excludable from gross income under section103,\u2014such obligation is issued before January 1, 2011, and\u2014the issuer makes an irrevocable election to have this section apply."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014the interest on such obligation would (but for this section) be excludable from gross income under section103,\u2014such obligation is issued before January 1, 2011, and\u2014the issuer makes an irrevocable election to have this section apply."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u201cbuild America bond\u201d means any obligation (other than a private activity bond)"
+    },
+    "cross_references": [
+      {
+        "section": "103",
+        "reason": "dable from gross income under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54AA(d)(1)In General\u2014For purposes of this section, the term \u201cbuild America bond\u201d means any obligation (other\n                     than a private activity bond) if\u2014I.R.C. \u00a7 54AA(d)(1)(A)\u2014the interest on such obligation would\n                        (but for this section) be excludable from gross income under section103,I.R.C. \u00a7 54AA(d)(1)(B)\u2014such obligation is issued before January 1, 2011, andI.R.C. \u00a7 54AA(d)(1)(C)\u2014the issuer makes an irrevocable election to have this section apply.",
+    "definitions": {
+      "term": "build America bond",
+      "requirements": [
+        "any obligation (other than a private activity bond) if\u2014\u2014the interest on such obligation would (but for this section) be excludable from gross income under section103,\u2014such obligation is issued before January 1, 2011, and\u2014the issuer makes an irrevocable election to have this section apply."
+      ]
+    }
+  },
+  {
+    "section": "54AA",
+    "subsection": "(d)(2)",
+    "source_subsections": [
+      "(d)(2)",
+      "(d)(2)(A)",
+      "(d)(2)(B)",
+      "(d)(2)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "Rules",
+    "text": "For purposes of applying paragraph(1)\u2014\u2014for purposes of section149(b), a build America bond shall not be treated as federally guaranteed by reason of the credit allowed under subsection(a)or section6431,\u2014for purposes of section148, the yield on a build America bond shall be determined without regard to the credit allowed under subsection(a), and\u2014a bond shall not be treated as a build America bond if the issue price has more than a de minimis amount (determined under rules similar to the rules of section1273(a)(3)) of premium over the stated principal amount of the bond.",
+    "conditions": [
+      "the issue price has more than a de minimis amount (determined under rules similar to the rules of section1273(a)(3)) of premium over the stated principal amount of the bond."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the issue price has more than a de minimis amount (determined under rules similar to the rules of section1273(a)(3)) of premium over the stated principal amount of the bond."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of applying paragraph(1)\u2014\u2014for purposes of section149(b), a build America bond shall not be treated as federally guaranteed by reason of the credit allowed under subsection(a)or section6431,\u2014for purposes of section148, the yield on a build America bond shall be determined without regard to the credit allowed under subsection(a), and\u2014a bond shall not be treated as a build America bond"
+    },
+    "cross_references": [
+      {
+        "section": "149(b)",
+        "reason": "paragraph(1)\u2014\u2014for purposes of..."
+      },
+      {
+        "section": "6431",
+        "reason": "allowed under subsection(a)or..."
+      },
+      {
+        "section": "148",
+        "reason": ",\u2014for purposes of..."
+      },
+      {
+        "section": "1273(a)(3)",
+        "reason": "rules similar to the rules of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54AA(d)(2)Applicable Rules\u2014For purposes of applying paragraph(1)\u2014I.R.C. \u00a7 54AA(d)(2)(A)\u2014for purposes of section149(b), a build America bond shall not be treated as federally guaranteed by reason of the\n                        credit allowed under subsection(a)or section6431,I.R.C. \u00a7 54AA(d)(2)(B)\u2014for purposes of section148, the yield on a build America bond shall be determined without regard to the credit\n                        allowed under subsection(a), andI.R.C. \u00a7 54AA(d)(2)(C)\u2014a bond shall not be treated as a build America bond if the issue price has more than\n                        a de minimis amount\n                        (determined under rules similar to the rules of section1273(a)(3)) of premium over the stated principal amount of the bond.",
+    "definitions": null
+  },
+  {
+    "section": "54AA",
+    "subsection": "(e)",
+    "source_subsections": [
+      "(e)"
+    ],
+    "rule_type": "definition",
+    "title": "Payment Date",
+    "text": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54AA, effective for bonds issued after December 31, 2017.For purposes of this section, the term \u2018interest payment date\u2019 means any date on which the holder of record of the build America bond is entitled to a payment of interest under such bond.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54AA, effective for bonds issued after December 31, 2017.For purposes of this section, the term \u2018interest payment date\u2019 means any date on which the holder of record of the build America bond is entitled to a payment of interest under such bond."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54AA(e)Interest Payment Date\u2014Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54AA, effective for bonds issued after December 31, 2017.For purposes of this section, the term \u2018interest payment date\u2019 means any date on which\n                  the holder of record of the build America bond is entitled to a payment of interest\n                  under such bond.",
+    "definitions": null
+  },
+  {
+    "section": "54AA",
+    "subsection": "(f)(1)",
+    "source_subsections": [
+      "(f)(1)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "For purposes of this title, interest on any build America bond shall be includible in gross income.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this title, interest on any build America bond shall be includible in gross income."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54AA(f)(1)Interest On Build America Bonds Includible In Gross Income For Federal Income Tax\n                     Purposes\u2014For purposes of this title, interest on any build America bond shall be includible\n                     in gross income.",
+    "definitions": null
+  },
+  {
+    "section": "54AA",
+    "subsection": "(f)(2)",
+    "source_subsections": [
+      "(f)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Certain Rules",
+    "text": "Rules similar to the rules of subsections(f),(g),(h), and(i)of section54Ashall apply for purposes of the credit allowed under subsection(a).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules of subsections(f),(g),(h), and(i)of section54Ashall apply for purposes of the credit allowed under subsection(a)."
+    },
+    "cross_references": [
+      {
+        "section": "54A",
+        "reason": "sections(f),(g),(h), and(i)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54AA(f)(2)Application Of Certain Rules\u2014Rules similar to the rules of subsections(f),(g),(h), and(i)of section54Ashall apply for purposes of the credit allowed under subsection(a).",
+    "definitions": null
+  },
+  {
+    "section": "54AA",
+    "subsection": "(g)(1)",
+    "source_subsections": [
+      "(g)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "Allowed Refundable Credit",
+    "text": "In lieu of any credit allowed under this section with respect to such bond, the issuer of such bond shall be allowed a credit as provided in section6431.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In lieu of any credit allowed under this section with respect to such bond, the issuer of such bond shall be allowed a credit as provided in section6431."
+    },
+    "cross_references": [
+      {
+        "section": "6431",
+        "reason": "lowed a credit as provided in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54AA(g)(1)Issuer Allowed Refundable Credit\u2014In lieu of any credit allowed under this section with respect to such bond, the issuer\n                     of such bond shall be allowed a credit as provided in section6431.",
+    "definitions": null
+  },
+  {
+    "section": "54AA",
+    "subsection": "(g)(2)(A)",
+    "source_subsections": [
+      "(g)(2)(A)",
+      "(g)(2)(A)(i)",
+      "(g)(2)(A)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "100% of the excess of\u2014\u2014the available project proceeds (as defined in section54A) of such issue, over\u2014the amounts in a reasonably required reserve (within the meaning of section150(a)(3)) with respect to such issue, are to be used for capital expenditures, and",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "subtraction",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 1.0,
+        "text": "100%"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "100% of the excess of\u2014\u2014the available project proceeds (as defined in section54A) of such issue, over\u2014the amounts in a reasonably required reserve (within the meaning of section150(a)(3)) with respect to such issue, are to be used for capital expenditures, and"
+    },
+    "cross_references": [
+      {
+        "section": "54A",
+        "reason": "oject proceeds (as defined in..."
+      },
+      {
+        "section": "150(a)(3)",
+        "reason": "eserve (within the meaning of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54AA(g)(2)(A)\u2014100% of the excess of\u2014I.R.C. \u00a7 54AA(g)(2)(A)(i)\u2014the available project proceeds (as defined in section54A)\n                           of such issue, overI.R.C. \u00a7 54AA(g)(2)(A)(ii)\u2014the amounts in a reasonably required reserve (within the meaning of section150(a)(3)) with respect to such issue, are to be used for capital expenditures, and",
+    "definitions": null
+  },
+  {
+    "section": "54AA",
+    "subsection": "(g)(2)(B)",
+    "source_subsections": [
+      "(g)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "the issuer makes an irrevocable election to have this subsection apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "the issuer makes an irrevocable election to have this subsection apply."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54AA(g)(2)(B)\u2014the issuer makes an irrevocable election to have this subsection apply.",
+    "definitions": null
+  },
+  {
+    "section": "54AA",
+    "subsection": "(h)",
+    "source_subsections": [
+      "(h)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54AA, effective for bonds issued after December 31, 2017.The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section and section6431.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54AA, effective for bonds issued after December 31, 2017.The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section and section6431."
+    },
+    "cross_references": [
+      {
+        "section": "6431",
+        "reason": "to carry out this section and..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54AA(h)Regulations\u2014Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54AA, effective for bonds issued after December 31, 2017.The Secretary may prescribe such regulations and other guidance as may be necessary\n                  or appropriate to carry out this section and section6431.",
+    "definitions": null
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "id": "ff8d0ddbba4d",
+  "section": "86",
+  "citation": "I.R.C. \u00a7 86(c)(1)(A)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 86(c)(1)(A) is discussed as follows: 'I.R.C. \u00a7 86(c)(1)(A)\u2014except  as otherwise provided in this paragraph, $25,000,...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 86(c)(1)(A)?",
+  "difficulty": 1,
+  "choices": [
+    "$22,500.00",
+    "$50,000.00",
+    "$27,500.00",
+    "$12,500.00",
+    "$25,000.00"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies $25,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 86(c)(1)(A)"
+  ]
+}

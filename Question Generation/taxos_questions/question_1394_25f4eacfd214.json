@@ -1,0 +1,22 @@
+{
+  "id": "25f4eacfd214",
+  "section": "1394",
+  "citation": "I.R.C. \u00a7 1394(b)(3)(C)(iv)(I)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1394(b)(3)(C)(iv)(I) is discussed as follows: 'I.R.C. \u00a7 1394(b)(3)(C)(iv)(I)In General\u2014In the case of a population census tract located within a hi...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1394(b)(3)(C)(iv)(I)?",
+  "difficulty": 1,
+  "choices": [
+    "120.0%",
+    "90.0%",
+    "70.0%",
+    "20.0%",
+    "80.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 80.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1394(b)(3)(C)(iv)(I)"
+  ]
+}

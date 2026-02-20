@@ -1,0 +1,22 @@
+{
+  "id": "ac523e76d327",
+  "section": "1442",
+  "citation": "I.R.C. \u00a7 1442(c)(2)(A)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1442(c)(2)(A) is discussed as follows: 'I.R.C. \u00a7 1442(c)(2)(A)In General\u2014If dividends are received during a taxable year by a corporation\u2014I....'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1442(c)(2)(A)?",
+  "difficulty": 1,
+  "choices": [
+    "15.0%",
+    "0.0%",
+    "90.0%",
+    "10.0%",
+    "20.0%"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies 10.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1442(c)(2)(A)"
+  ]
+}

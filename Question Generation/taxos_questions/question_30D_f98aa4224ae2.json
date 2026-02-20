@@ -1,0 +1,22 @@
+{
+  "id": "f98aa4224ae2",
+  "section": "30D",
+  "citation": "I.R.C. \u00a7 30D(e)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 30D(e) is discussed as follows: 'I.R.C. \u00a7 30D(e)Critical Mineral and Battery Component RequirementsI.R.C. \u00a7 30D(e)(1)Critical Mineral...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 30D(e)?",
+  "difficulty": 1,
+  "choices": [
+    "40.0%",
+    "70.0%",
+    "90.0%",
+    "50.0%",
+    "60.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 60.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 30D(e)"
+  ]
+}

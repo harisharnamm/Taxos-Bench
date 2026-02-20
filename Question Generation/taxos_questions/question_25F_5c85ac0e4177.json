@@ -1,0 +1,22 @@
+{
+  "id": "5c85ac0e4177",
+  "section": "25F",
+  "citation": "I.R.C. \u00a7 25F(d)(1)(B)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 25F(d)(1)(B) is discussed as follows: 'I.R.C. \u00a7 25F(d)(1)(B)\u2014such organization spends not less than 90 percent of the income of the organiz...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 25F(d)(1)(B)?",
+  "difficulty": 1,
+  "choices": [
+    "10.0%",
+    "80.0%",
+    "100.0%",
+    "135.0%",
+    "90.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 90.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 25F(d)(1)(B)"
+  ]
+}

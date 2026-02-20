@@ -1,0 +1,22 @@
+{
+  "id": "8d40abc7a378",
+  "section": "881",
+  "citation": "I.R.C. \u00a7 881(c)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 881(c) is discussed as follows: 'I.R.C. \u00a7 881(c)Repeal Of Tax On Interest Of Foreign Corporations Received From Certain Portfolio\n   ...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 881(c)?",
+  "difficulty": 1,
+  "choices": [
+    "$500,000.00",
+    "$1,000,000.00",
+    "$1,100,000.00",
+    "$900,000.00",
+    "$2,000,000.00"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $1,000,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 881(c)"
+  ]
+}

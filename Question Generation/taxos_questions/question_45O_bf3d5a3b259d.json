@@ -1,0 +1,22 @@
+{
+  "id": "bf3d5a3b259d",
+  "section": "45O",
+  "citation": "I.R.C. \u00a7 45O(b)(1)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 45O(b)(1) is discussed as follows: 'I.R.C. \u00a7 45O(b)(1)\u2014$100,000, reduced by...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 45O(b)(1)?",
+  "difficulty": 1,
+  "choices": [
+    "$90,000.00",
+    "$200,000.00",
+    "$100,000.00",
+    "$110,000.00",
+    "$50,000.00"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies $100,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 45O(b)(1)"
+  ]
+}

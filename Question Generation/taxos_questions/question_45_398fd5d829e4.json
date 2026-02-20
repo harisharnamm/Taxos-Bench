@@ -1,0 +1,22 @@
+{
+  "id": "398fd5d829e4",
+  "section": "45",
+  "citation": "I.R.C. \u00a7 45(e)(8)(D)(ii)(I)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 45(e)(8)(D)(ii)(I) is discussed as follows: 'I.R.C. \u00a7 45(e)(8)(D)(ii)(I)Credit Amount\u2014Subparagraph (A) shall be applied by substituting \u201d$2 per b...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 45(e)(8)(D)(ii)(I)?",
+  "difficulty": 1,
+  "choices": [
+    "$2.00",
+    "$4.00",
+    "$4.40",
+    "$3.60",
+    "$8.00"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $4.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 45(e)(8)(D)(ii)(I)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "cbbfa08dd11e",
+  "section": "36C",
+  "citation": "I.R.C. \u00a7 36C(b)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 36C(b) is discussed as follows: 'I.R.C. \u00a7 36C(b)Limitations\u2014Editor's Note:Section 36C was effective for taxable years beginning after...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 36C(b)?",
+  "difficulty": 1,
+  "choices": [
+    "$11,853.00",
+    "$13,170.00",
+    "$6,585.00",
+    "$14,487.00",
+    "$26,340.00"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $13,170.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 36C(b)"
+  ]
+}

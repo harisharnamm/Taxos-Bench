@@ -1,0 +1,770 @@
+[
+  {
+    "section": "45E",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)"
+    ],
+    "rule_type": "computation",
+    "title": "Rule",
+    "text": "For purposes of section38, in the case of an eligible employer, the small employer pension plan startup cost credit determined under this section for any taxable year is an amount equal to 50 percent of the qualified startup costs paid or incurred by the taxpayer during the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of section38, in the case of an eligible employer, the small employer pension plan startup cost credit determined under this section for any taxable year is an amount equal to 50 percent of the qualified startup costs paid or incurred by the taxpayer during the taxable year."
+    },
+    "cross_references": [
+      {
+        "section": "38",
+        "reason": "For purposes of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45E(a)General Rule\u2014For purposes of section38, in the case of an eligible employer, the small employer pension plan startup cost\n                  credit determined under this section for any taxable year is an amount equal to 50\n                  percent of the qualified startup costs paid or incurred by the taxpayer during the\n                  taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "45E",
+    "subsection": "(b)",
+    "source_subsections": [
+      "(b)",
+      "(b)(1)",
+      "(b)(1)(A)",
+      "(b)(1)(B)",
+      "(b)(1)(B)(i)",
+      "(b)(1)(B)(ii)",
+      "(b)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Limitation",
+    "text": "The amount of the credit determined under this section for any taxable year shall not exceed\u2014\u2014for the first credit year and each of the 2 taxable years immediately following the first credit year, the greater of\u2014\u2014$500, or\u2014the lesser of\u2014\u2014$250 for each employee of the eligible employer who is not a highly compensated employee (as defined in section 414(q)) and who is eligible to participate in the eligible employer plan maintained by the eligible employer, or\u2014$5,000, and\u2014zero for any other taxable year.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "min",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      },
+      {
+        "operation": "max",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 500,
+        "text": "$500,"
+      },
+      {
+        "label": "amount",
+        "value": 250,
+        "text": "$250"
+      },
+      {
+        "label": "amount",
+        "value": 5000,
+        "text": "$5,000,"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of the credit determined under this section for any taxable year shall not exceed\u2014\u2014for the first credit year and each of the 2 taxable years immediately following the first credit year, the greater of\u2014\u2014$500, or\u2014the lesser of\u2014\u2014$250 for each employee of the eligible employer who is not a highly compensated employee (as defined in section 414(q)) and who is eligible to participate in the eligible employer plan maintained by the eligible employer, or\u2014$5,000, and\u2014zero for any other taxable year."
+    },
+    "cross_references": [
+      {
+        "section": "414(q)",
+        "reason": "sated employee (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45E(b)Dollar Limitation\u2014The amount of the credit determined under this section for any taxable year shall\n                  not exceed\u2014I.R.C. \u00a7 45E(b)(1)\u2014for the first credit year and each of the 2 taxable years immediately following the\n                     first credit year, the greater of\u2014I.R.C. \u00a7 45E(b)(1)(A)\u2014$500, orI.R.C. \u00a7 45E(b)(1)(B)\u2014the lesser of\u2014I.R.C. \u00a7 45E(b)(1)(B)(i)\u2014$250 for each employee of the eligible employer who is not a highly compensated employee\n                           (as defined in section 414(q)) and who is eligible to participate in the eligible\n                           employer plan maintained by the eligible employer, orI.R.C. \u00a7 45E(b)(1)(B)(ii)\u2014$5,000, andI.R.C. \u00a7 45E(b)(2)\u2014zero for any other taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "45E",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201celigible employer\u201d has the meaning given such term by section408(p)(2)(C)(i).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201celigible employer\u201d has the meaning given such term by section408(p)(2)(C)(i)."
+    },
+    "cross_references": [
+      {
+        "section": "408(p)(2)(C)(i)",
+        "reason": "he meaning given such term by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45E(c)(1)In General\u2014The term \u201celigible employer\u201d has the meaning given such term by section408(p)(2)(C)(i).",
+    "definitions": null
+  },
+  {
+    "section": "45E",
+    "subsection": "(c)(2)",
+    "source_subsections": [
+      "(c)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "For New Qualified Employer Plans",
+    "text": "Such term shall not include an employer if, during the 3-taxable year period immediately preceding the 1st taxable year for which the credit under this section is otherwise allowable for a qualified employer plan of the employer, the employer or any member of any controlled group including the employer (or any predecessor of either) established or maintained a qualified employer plan with respect to which contributions were made, or benefits were accrued, for substantially the same employees as are in the qualified employer plan.",
+    "conditions": [
+      ", during the 3-taxable year period immediately preceding the 1st taxable year for which the credit under this section is otherwise allowable for a qualified employer plan of the employer, the employer or any member of any controlled group including the employer (or any predecessor of either) established or maintained a qualified employer plan with respect to which contributions were made, or benefits were accrued, for substantially the same employees as are in the qualified employer plan."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        ", during the 3-taxable year period immediately preceding the 1st taxable year for which the credit under this section is otherwise allowable for a qualified employer plan of the employer, the employer or any member of any controlled group including the employer (or any predecessor of either) established or maintained a qualified employer plan with respect to which contributions were made, or benefits were accrued, for substantially the same employees as are in the qualified employer plan."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Such term shall not include an employer"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45E(c)(2)Requirement For New Qualified Employer Plans\u2014Such term shall not include an employer if, during the 3-taxable year period immediately\n                     preceding the 1st taxable year for which the credit under this section is otherwise\n                     allowable for a qualified employer plan of the employer, the employer or any member\n                     of any controlled group including the employer (or any predecessor of either) established\n                     or maintained a qualified employer plan with respect to which contributions were made,\n                     or benefits were accrued, for substantially the same employees as are in the qualified\n                     employer plan.",
+    "definitions": null
+  },
+  {
+    "section": "45E",
+    "subsection": "(d)(1)(A)",
+    "source_subsections": [
+      "(d)(1)(A)",
+      "(d)(1)(A)(i)",
+      "(d)(1)(A)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cqualified startup costs\u201d means any ordinary and necessary expenses of an eligible employer which are paid or incurred in connection with\u2014\u2014the establishment or administration of an eligible employer plan, or\u2014the retirement-related education of employees with respect to such plan.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified startup costs\u201d means any ordinary and necessary expenses of an eligible employer which are paid or incurred in connection with\u2014\u2014the establishment or administration of an eligible employer plan, or\u2014the retirement-related education of employees with respect to such plan."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45E(d)(1)(A)In General\u2014The term \u201cqualified startup costs\u201d means any ordinary and necessary expenses of an\n                        eligible employer which are paid or incurred in connection with\u2014I.R.C. \u00a7 45E(d)(1)(A)(i)\u2014the establishment or administration of an eligible employer plan, orI.R.C. \u00a7 45E(d)(1)(A)(ii)\u2014the retirement-related education of employees with respect to such plan.",
+    "definitions": {
+      "term": "qualified startup costs",
+      "requirements": [
+        "any ordinary and necessary expenses of an eligible employer which are paid or incurred in connection with\u2014\u2014the establishment or administration of an eligible employer plan, or\u2014the retirement-related education of employees with respect to such plan."
+      ]
+    }
+  },
+  {
+    "section": "45E",
+    "subsection": "(d)(1)(B)",
+    "source_subsections": [
+      "(d)(1)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Must Have At Least 1 Participant",
+    "text": "Such term shall not include any expense in connection with a plan that does not have at least 1 employee eligible to participate who is not a highly compensated employee.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Such term shall not include any expense in connection with a plan that does not have at least 1 employee eligible to participate who is not a highly compensated employee."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45E(d)(1)(B)Plan Must Have At Least 1 Participant\u2014Such term shall not include any expense in connection with a plan that does not have\n                        at least 1 employee eligible to participate who is not a highly compensated employee.",
+    "definitions": null
+  },
+  {
+    "section": "45E",
+    "subsection": "(d)(2)",
+    "source_subsections": [
+      "(d)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Employer Plan",
+    "text": "The term \u201celigible employer plan\u201d means a qualified employer plan within the meaning of section4972(d).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201celigible employer plan\u201d means a qualified employer plan within the meaning of section4972(d)."
+    },
+    "cross_references": [
+      {
+        "section": "4972(d)",
+        "reason": "er plan within the meaning of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45E(d)(2)Eligible Employer Plan\u2014The term \u201celigible employer plan\u201d means a qualified employer plan within the meaning\n                     of section4972(d).",
+    "definitions": {
+      "term": "eligible employer plan",
+      "requirements": [
+        "a qualified employer plan within the meaning of section4972(d)."
+      ]
+    }
+  },
+  {
+    "section": "45E",
+    "subsection": "(d)(3)",
+    "source_subsections": [
+      "(d)(3)",
+      "(d)(3)(A)",
+      "(d)(3)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Credit Year",
+    "text": "The term \u201cfirst credit year\u201d means\u2013-\u2014the taxable year which includes the date that the eligible employer plan to which such costs relate becomes effective with respect to the eligible employer, or\u2014at the election of the eligible employer, the taxable year preceding the taxable year referred to in subparagraph(A).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cfirst credit year\u201d means\u2013-\u2014the taxable year which includes the date that the eligible employer plan to which such costs relate becomes effective with respect to the eligible employer, or\u2014at the election of the eligible employer, the taxable year preceding the taxable year referred to in subparagraph(A)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45E(d)(3)First Credit Year\u2014The term \u201cfirst credit year\u201d means\u2013-I.R.C. \u00a7 45E(d)(3)(A)\u2014the taxable year which includes the date that the eligible employer plan to which\n                        such costs relate becomes effective with respect to the eligible employer, orI.R.C. \u00a7 45E(d)(3)(B)\u2014at the election of the eligible employer, the taxable year preceding the taxable year\n                        referred to in subparagraph(A).",
+    "definitions": null
+  },
+  {
+    "section": "45E",
+    "subsection": "(e)(1)",
+    "source_subsections": [
+      "(e)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "Rules",
+    "text": "All persons treated as a single employer under subsection(a)or(b)of section52, or subsection(m)or(o)of section414, shall be treated as one person. All eligible employer plans shall be treated as 1 eligible employer plan.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "All persons treated as a single employer under subsection(a)or(b)of section52, or subsection(m)or(o)of section414, shall be treated as one person. All eligible employer plans shall be treated as 1 eligible employer plan."
+    },
+    "cross_references": [
+      {
+        "section": "52",
+        "reason": "er under subsection(a)or(b)of..."
+      },
+      {
+        "section": "414",
+        "reason": ", or subsection(m)or(o)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45E(e)(1)Aggregation Rules\u2014All persons treated as a single employer under subsection(a)or(b)of section52, or subsection(m)or(o)of section414, shall be treated as one person. All eligible employer plans shall be treated as\n                     1 eligible employer plan.",
+    "definitions": null
+  },
+  {
+    "section": "45E",
+    "subsection": "(e)(2)",
+    "source_subsections": [
+      "(e)(2)",
+      "(e)(2)(A)",
+      "(e)(2)(B)"
+    ],
+    "rule_type": "computation",
+    "title": "Of Deduction",
+    "text": "No deduction shall be allowed \u2014\u2014for that portion of the qualified startup costs paid or incurred for the taxable year which is equal to so much of the portion of the credit determined under subsection (a) as is properly allocable to such costs, and\u2014for that portion of the employer contributions by the employer for the taxable year which is equal to so much of the credit increase determined under subsection (f) as is properly allocable to such contributions.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No deduction shall be allowed \u2014\u2014for that portion of the qualified startup costs paid or incurred for the taxable year which is equal to so much of the portion of the credit determined under subsection (a) as is properly allocable to such costs, and\u2014for that portion of the employer contributions by the employer for the taxable year which is equal to so much of the credit increase determined under subsection (f) as is properly allocable to such contributions."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45E(e)(2)Disallowance Of Deduction\u2014No deduction shall be allowed  \u2014I.R.C. \u00a7 45E(e)(2)(A)\u2014for that portion of the qualified startup costs paid or incurred for the taxable year\n                        which is equal to so much of the portion of the credit determined under subsection\n                        (a) as is properly allocable to such costs, andI.R.C. \u00a7 45E(e)(2)(B)\u2014for that portion of the employer contributions by the employer for the taxable year\n                        which is equal to so much of the credit increase determined under subsection (f) as\n                        is properly allocable to such contributions.",
+    "definitions": null
+  },
+  {
+    "section": "45E",
+    "subsection": "(e)(3)",
+    "source_subsections": [
+      "(e)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Not To Claim Credit",
+    "text": "This section shall not apply to a taxpayer for any taxable year if such taxpayer elects to have this section not apply for such taxable year.",
+    "conditions": [
+      "such taxpayer elects to have this section not apply for such taxable year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such taxpayer elects to have this section not apply for such taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "This section shall not apply to a taxpayer for any taxable year"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45E(e)(3)Election Not To Claim Credit\u2014This section shall not apply to a taxpayer for any taxable year if such taxpayer elects\n                     to have this section not apply for such taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "45E",
+    "subsection": "(e)(4)",
+    "source_subsections": [
+      "(e)(4)"
+    ],
+    "rule_type": "condition",
+    "title": "Credit For Certain Small Employers",
+    "text": "In the case of an employer which would be an eligible employer under subsection (c) if section 408(p)(2)(C)(i) was applied by substituting \u201c50 employees\u201d for \u201c100 employees\u201d, subsection (a) shall be applied by substituting \u201c100 percent\u201d for \u201c50 percent\u201d.",
+    "conditions": [
+      "section 408(p)(2)(C)(i) was applied by substituting \u201c50 employees\u201d for \u201c100 employees\u201d, subsection (a) shall be applied by substituting \u201c100 percent\u201d for \u201c50 percent\u201d."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 1.0,
+        "text": "100 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "section 408(p)(2)(C)(i) was applied by substituting \u201c50 employees\u201d for \u201c100 employees\u201d, subsection (a) shall be applied by substituting \u201c100 percent\u201d for \u201c50 percent\u201d."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of an employer which would be an eligible employer under subsection (c)"
+    },
+    "cross_references": [
+      {
+        "section": "408(p)(2)(C)(i)",
+        "reason": "loyer under subsection (c) if..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45E(e)(4)Increased Credit For Certain Small Employers\u2014In the case of an employer which would be an eligible employer under subsection (c)\n                     if section 408(p)(2)(C)(i) was applied by substituting \u201c50 employees\u201d for \u201c100 employees\u201d,\n                     subsection (a) shall be applied by substituting \u201c100 percent\u201d for \u201c50 percent\u201d.",
+    "definitions": null
+  },
+  {
+    "section": "45E",
+    "subsection": "(f)(1)",
+    "source_subsections": [
+      "(f)(1)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "In the case of an eligible employer, the credit allowed for the taxable year under subsection (a) (determined without regard to this subsection) shall be increased by an amount equal to the applicable percentage of employer contributions (other than any elective deferrals (as defined in section 402(g)(3)) by the employer to an eligible employer plan (other than a defined benefit plan (as defined in section 414(j))).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of an eligible employer, the credit allowed for the taxable year under subsection (a) (determined without regard to this subsection) shall be increased by an amount equal to the applicable percentage of employer contributions (other than any elective deferrals (as defined in section 402(g)(3)) by the employer to an eligible employer plan (other than a defined benefit plan (as defined in section 414(j)))."
+    },
+    "cross_references": [
+      {
+        "section": "402(g)(3)",
+        "reason": "tive deferrals (as defined in..."
+      },
+      {
+        "section": "414(j)",
+        "reason": "d benefit plan (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45E(f)(1)In General\u2014In the case of an eligible employer, the credit allowed for the taxable year under\n                     subsection (a) (determined without regard to this subsection) shall be increased by\n                     an amount equal to the applicable percentage of employer contributions (other than\n                     any elective deferrals (as defined in section 402(g)(3)) by the employer to an eligible\n                     employer plan (other than a defined benefit plan (as defined in section 414(j))).",
+    "definitions": null
+  },
+  {
+    "section": "45E",
+    "subsection": "(f)(2)(A)",
+    "source_subsections": [
+      "(f)(2)(A)"
+    ],
+    "rule_type": "limitation",
+    "title": "Limitation",
+    "text": "The amount determined under paragraph (1) (before the application of subparagraph (B)) with respect to any employee of the employer shall not exceed $1,000.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 1000,
+        "text": "$1,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount determined under paragraph (1) (before the application of subparagraph (B)) with respect to any employee of the employer shall not exceed $1,000."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45E(f)(2)(A)Dollar Limitation\u2014The amount determined under paragraph (1) (before the application of subparagraph\n                        (B)) with respect to any employee of the employer shall not exceed $1,000.",
+    "definitions": null
+  },
+  {
+    "section": "45E",
+    "subsection": "(f)(2)(B)",
+    "source_subsections": [
+      "(f)(2)(B)",
+      "(f)(2)(B)(i)",
+      "(f)(2)(B)(ii)"
+    ],
+    "rule_type": "computation",
+    "title": "Phase",
+    "text": "In\u2014In the case of any eligible employer which had for the preceding taxable year more than 50 employees, the amount determined under paragraph (1) (without regard to this subparagraph) shall be reduced by an amount equal to the product of\u2014\u2014the amount otherwise so determined under paragraph (1), multiplied by\u2014a percentage equal to 2 percentage points for each employee of the employer for the preceding taxable year in excess of 50 employees.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.02,
+        "text": "2 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In\u2014In the case of any eligible employer which had for the preceding taxable year more than 50 employees, the amount determined under paragraph (1) (without regard to this subparagraph) shall be reduced by an amount equal to the product of\u2014\u2014the amount otherwise so determined under paragraph (1), multiplied by\u2014a percentage equal to 2 percentage points for each employee of the employer for the preceding taxable year in excess of 50 employees."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45E(f)(2)(B)Credit Phase-In\u2014In the case of any eligible employer which had for the preceding taxable year more\n                        than 50 employees, the amount determined under paragraph (1) (without regard to this\n                        subparagraph) shall be reduced by an amount equal to the product of\u2014I.R.C. \u00a7 45E(f)(2)(B)(i)\u2014the amount otherwise so determined under paragraph (1), multiplied byI.R.C. \u00a7 45E(f)(2)(B)(ii)\u2014a percentage equal to 2 percentage points for each employee of the employer for the\n                           preceding taxable year in excess of 50 employees.",
+    "definitions": null
+  },
+  {
+    "section": "45E",
+    "subsection": "(f)(2)(C)(i)",
+    "source_subsections": [
+      "(f)(2)(C)(i)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "No contributions with respect to any employee who receives wages from the employer for the taxable year in excess of $100,000 may be taken into account for such taxable year under subparagraph (A).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 100000,
+        "text": "$100,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No contributions with respect to any employee who receives wages from the employer for the taxable year in excess of $100,000 may be taken into account for such taxable year under subparagraph (A)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45E(f)(2)(C)(i)In General\u2014No contributions with respect to any employee who receives wages from the employer\n                           for the taxable year in excess of $100,000 may be taken into account for such taxable\n                           year under subparagraph (A).",
+    "definitions": null
+  },
+  {
+    "section": "45E",
+    "subsection": "(f)(2)(C)(ii)",
+    "source_subsections": [
+      "(f)(2)(C)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "For purposes of the preceding sentence, the term \u2018wages\u2019 has the meaning given such term by section 3121(a).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of the preceding sentence, the term \u2018wages\u2019 has the meaning given such term by section 3121(a)."
+    },
+    "cross_references": [
+      {
+        "section": "3121(a)",
+        "reason": "he meaning given such term by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45E(f)(2)(C)(ii)Wages\u2014For purposes of the preceding sentence, the term \u2018wages\u2019 has the meaning given such\n                           term by section 3121(a).",
+    "definitions": null
+  },
+  {
+    "section": "45E",
+    "subsection": "(f)(2)(C)(iii)",
+    "source_subsections": [
+      "(f)(2)(C)(iii)",
+      "(f)(2)(C)(iii)(I)",
+      "(f)(2)(C)(iii)(II)"
+    ],
+    "rule_type": "computation",
+    "title": "Adjustment",
+    "text": "In the case of any taxable year beginning in a calendar year after 2023, the $100,000 amount under clause (i) shall be increased by an amount equal to\u2014\u2014such dollar amount, multiplied by\u2014the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting \u2018calendar year 2007\u2019 for \u2018calendar year 2016\u2019 in subparagraph (A)(ii) thereof.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 100000,
+        "text": "$100,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any taxable year beginning in a calendar year after 2023, the $100,000 amount under clause (i) shall be increased by an amount equal to\u2014\u2014such dollar amount, multiplied by\u2014the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting \u2018calendar year 2007\u2019 for \u2018calendar year 2016\u2019 in subparagraph (A)(ii) thereof."
+    },
+    "cross_references": [
+      {
+        "section": "1(f)(3)",
+        "reason": "g adjustment determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45E(f)(2)(C)(iii)Inflation Adjustment\u2014In the case of any taxable year beginning in a calendar year after 2023, the $100,000\n                           amount under clause (i) shall be increased by an amount equal to\u2014I.R.C. \u00a7 45E(f)(2)(C)(iii)(I)\u2014such dollar amount, multiplied byI.R.C. \u00a7 45E(f)(2)(C)(iii)(II)\u2014the cost-of-living adjustment determined under section 1(f)(3) for the calendar year\n                              in which the taxable year begins, determined by substituting \u2018calendar year 2007\u2019\n                              for \u2018calendar year 2016\u2019 in subparagraph (A)(ii) thereof.",
+    "definitions": null
+  },
+  {
+    "section": "45E",
+    "subsection": "(f)(3)",
+    "source_subsections": [
+      "(f)(3)"
+    ],
+    "rule_type": "computation",
+    "title": "Percentage",
+    "text": "For purposes of this section, the applicable percentage for the taxable year during which the eligible employer plan is established with respect to the eligible employer shall be 100 percent, and for taxable years thereafter shall be determined under the following table:In the case of the following taxable year beginning after the taxable year during which plan is established with respect to the eligible employer:The applicable percentage shall be:1st100 %2nd75 %3rd50 %4th25 %Any taxable year thereafter0%",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 1.0,
+        "text": "100 percent"
+      },
+      {
+        "label": "rate",
+        "value": 1.0,
+        "text": "100 %"
+      },
+      {
+        "label": "rate",
+        "value": 0.75,
+        "text": "75 %"
+      },
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 %"
+      },
+      {
+        "label": "rate",
+        "value": 0.25,
+        "text": "25 %"
+      },
+      {
+        "label": "rate",
+        "value": 0.0,
+        "text": "0%"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the applicable percentage for the taxable year during which the eligible employer plan is established with respect to the eligible employer shall be 100 percent, and for taxable years thereafter shall be determined under the following table:In the case of the following taxable year beginning after the taxable year during which plan is established with respect to the eligible employer:The applicable percentage shall be:1st100 %2nd75 %3rd50 %4th25 %Any taxable year thereafter0%"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45E(f)(3)Applicable Percentage \u2014For purposes of this section, the applicable percentage for the taxable year during\n                  which the eligible employer plan is established with respect to the eligible employer\n                  shall be 100 percent, and for taxable years thereafter shall be determined under the\n                  following table:In the case of the following taxable year beginning after the taxable year during\n                                       which plan is established with respect to the eligible employer:The applicable percentage shall be:1st100 %2nd75 %3rd50 %4th25 %Any taxable year thereafter0%",
+    "definitions": null
+  },
+  {
+    "section": "45E",
+    "subsection": "(f)(4)",
+    "source_subsections": [
+      "(f)(4)"
+    ],
+    "rule_type": "exception",
+    "title": "Of Eligible Employer; Number Of Employees",
+    "text": "For purposes of this subsection, whether an employer is an eligible employer and the number of employees of an employer shall be determined under the rules of subsection (c), except that paragraph (2) thereof shall only apply to the taxable year during which the eligible employer plan to which this section applies is established with respect to the eligible employer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "that paragraph (2) thereof shall only apply to the taxable year during which the eligible employer plan to which this section applies is established with respect to the eligible employer."
+      ],
+      "result": "For purposes of this subsection, whether an employer is an eligible employer and the number of employees of an employer shall be determined under the rules of subsection (c),"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45E(f)(4)Determination Of Eligible Employer; Number Of Employees\u2014For purposes of this subsection, whether an employer is an eligible employer and the\n                     number of employees of an employer shall be determined under the rules of subsection\n                     (c), except that paragraph (2) thereof shall only apply to the taxable year during\n                     which the eligible employer plan to which this section applies is established with\n                     respect to the eligible employer.",
+    "definitions": null
+  }
+]

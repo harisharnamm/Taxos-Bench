@@ -1,0 +1,22 @@
+{
+  "id": "6fea65b41bb1",
+  "section": "59A",
+  "citation": "I.R.C. \u00a7 59A(b)(1)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 59A(b)(1) is discussed as follows: 'I.R.C. \u00a7 59A(b)(1)In General\u2014Except as provided in paragraph (2), the term \u201cbase erosion minimum tax...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 59A(b)(1)?",
+  "difficulty": 1,
+  "choices": [
+    "0.0%",
+    "5.0%",
+    "7.5%",
+    "95.0%",
+    "15.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 5.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 59A(b)(1)"
+  ]
+}

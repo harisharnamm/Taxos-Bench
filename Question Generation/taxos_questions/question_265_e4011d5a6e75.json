@@ -1,0 +1,22 @@
+{
+  "id": "e4011d5a6e75",
+  "section": "265",
+  "citation": "I.R.C. \u00a7 265(b)(7)(B)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 265(b)(7)(B) is discussed as follows: 'I.R.C. \u00a7 265(b)(7)(B)Limitation\u2014The amount of tax-exempt obligations not taken into account by reaso...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 265(b)(7)(B)?",
+  "difficulty": 1,
+  "choices": [
+    "98.0%",
+    "0.0%",
+    "2.0%",
+    "12.0%",
+    "3.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 2.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 265(b)(7)(B)"
+  ]
+}

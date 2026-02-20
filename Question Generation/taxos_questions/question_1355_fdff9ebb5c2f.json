@@ -1,0 +1,22 @@
+{
+  "id": "fdff9ebb5c2f",
+  "section": "1355",
+  "citation": "I.R.C. \u00a7 1355(c)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1355(c) is discussed as follows: 'I.R.C. \u00a7 1355(c)Shipping Activity Requirement\u2014For  purposes of this section\u2014I.R.C. \u00a7 1355(c)(1)In Ge...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1355(c)?",
+  "difficulty": 1,
+  "choices": [
+    "15.0%",
+    "35.0%",
+    "37.5%",
+    "75.0%",
+    "25.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 25.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1355(c)"
+  ]
+}

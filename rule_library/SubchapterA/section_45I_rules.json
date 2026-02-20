@@ -1,0 +1,536 @@
+[
+  {
+    "section": "45I",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)",
+      "(a)(1)",
+      "(a)(2)"
+    ],
+    "rule_type": "computation",
+    "title": "Rule",
+    "text": "For purposes of section38, the marginal well production credit for any taxable year is an amount equal to the product of\u2014\u2014the credit amount, and\u2014the qualified crude oil production and the qualified natural gas production which is attributable to the taxpayer.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of section38, the marginal well production credit for any taxable year is an amount equal to the product of\u2014\u2014the credit amount, and\u2014the qualified crude oil production and the qualified natural gas production which is attributable to the taxpayer."
+    },
+    "cross_references": [
+      {
+        "section": "38",
+        "reason": "For purposes of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45I(a)General Rule\u2014For  purposes of section38, the marginal well production credit for any  taxable year is an amount equal to\n                  the product of\u2014I.R.C. \u00a7 45I(a)(1)\u2014the  credit amount, andI.R.C. \u00a7 45I(a)(2)\u2014the   qualified crude oil production\n                     and the qualified natural gas production  which is attributable to the taxpayer.",
+    "definitions": null
+  },
+  {
+    "section": "45I",
+    "subsection": "(b)(1)(A)",
+    "source_subsections": [
+      "(b)(1)(A)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$3 per barrel of qualified crude oil production, and",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 3,
+        "text": "$3"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$3 per barrel of qualified crude oil production, and"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45I(b)(1)(A)\u2014$3  per barrel of qualified crude oil production, and",
+    "definitions": null
+  },
+  {
+    "section": "45I",
+    "subsection": "(b)(1)(B)",
+    "source_subsections": [
+      "(b)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "50 cents per 1,000 cubic feet of qualified natural gas production.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "50 cents per 1,000 cubic feet of qualified natural gas production."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45I(b)(1)(B)\u201450  cents per 1,000 cubic feet of qualified natural gas  production.",
+    "definitions": null
+  },
+  {
+    "section": "45I",
+    "subsection": "(b)(2)(A)",
+    "source_subsections": [
+      "(b)(2)(A)",
+      "(b)(2)(A)(i)",
+      "(b)(2)(A)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The $3 and 50 cents amounts under paragraph(1)shall each be reduced (but not below zero) by an amount which bears the same ratio to such amount (determined without regard to this paragraph) as\u2014\u2014the excess (if any) of the applicable reference price over $15 ($1.67 for qualified natural gas production), bears to\u2014$3 ($0.33 for qualified natural gas production).The applicable reference price for a taxable year is the reference price of the calendar year preceding the calendar year in which the taxable year begins.",
+    "conditions": [
+      "any) of the applicable reference price over $15 ($1.67 for qualified natural gas production), bears to\u2014$3 ($0.33 for qualified natural gas production).The applicable reference price for a taxable year is the reference price of the calendar year preceding the calendar year in which the taxable year begins."
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 3,
+        "text": "$3"
+      },
+      {
+        "label": "amount",
+        "value": 15,
+        "text": "$15"
+      },
+      {
+        "label": "amount",
+        "value": 1,
+        "text": "$1"
+      },
+      {
+        "label": "amount",
+        "value": 3,
+        "text": "$3"
+      },
+      {
+        "label": "amount",
+        "value": 0,
+        "text": "$0"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any) of the applicable reference price over $15 ($1.67 for qualified natural gas production), bears to\u2014$3 ($0.33 for qualified natural gas production).The applicable reference price for a taxable year is the reference price of the calendar year preceding the calendar year in which the taxable year begins."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The $3 and 50 cents amounts under paragraph(1)shall each be reduced (but not below zero) by an amount which bears the same ratio to such amount (determined without regard to this paragraph) as\u2014\u2014the excess ("
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45I(b)(2)(A)In General\u2014The $3 and 50 cents amounts under paragraph(1)shall each be reduced\n                        (but  not below zero) by an amount which bears the same ratio to such amount  (determined\n                        without regard to this paragraph) as\u2014I.R.C. \u00a7 45I(b)(2)(A)(i)\u2014the  excess (if any) of the applicable reference price over $15 ($1.67 for  qualified\n                           natural gas production), bears toI.R.C. \u00a7 45I(b)(2)(A)(ii)\u2014$3  ($0.33 for qualified natural gas production).The applicable reference price for a taxable year is the  reference price of the calendar\n                           year preceding the calendar year in which  the taxable year begins.",
+    "definitions": null
+  },
+  {
+    "section": "45I",
+    "subsection": "(b)(2)(B)",
+    "source_subsections": [
+      "(b)(2)(B)"
+    ],
+    "rule_type": "computation",
+    "title": "Adjustment",
+    "text": "In the case of any taxable year beginning in a calendar year after 2005, each of the dollar amounts contained in subparagraph(A)shall be increased to an amount equal to such dollar amount multiplied by the inflation adjustment factor for such calendar year (determined under section43(b)(3)(B)by substituting \u201c2004\u201d for \u201c1990\u201d).",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any taxable year beginning in a calendar year after 2005, each of the dollar amounts contained in subparagraph(A)shall be increased to an amount equal to such dollar amount multiplied by the inflation adjustment factor for such calendar year (determined under section43(b)(3)(B)by substituting \u201c2004\u201d for \u201c1990\u201d)."
+    },
+    "cross_references": [
+      {
+        "section": "43(b)(3)(B)",
+        "reason": "lendar year (determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45I(b)(2)(B)Inflation Adjustment\u2014In  the case of any taxable year beginning in a calendar year after 2005, each  of\n                        the dollar amounts contained in subparagraph(A)shall be increased to  an amount equal to such dollar amount multiplied by the inflation\n                        adjustment factor for such calendar year (determined under section43(b)(3)(B)by substituting \u201c2004\u201d for \u201c1990\u201d).",
+    "definitions": null
+  },
+  {
+    "section": "45I",
+    "subsection": "(b)(2)(C)",
+    "source_subsections": [
+      "(b)(2)(C)",
+      "(b)(2)(C)(i)",
+      "(b)(2)(C)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Price",
+    "text": "For purposes of this paragraph, the term \u201creference price\u201d means, with respect to any calendar year\u2014\u2014in the case of qualified crude oil production, the reference price determined under section45K(d)(2)(C), and\u2014in the case of qualified natural gas production, the Secretary's estimate of the annual average wellhead price per 1,000 cubic feet for all domestic natural gas.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the term \u201creference price\u201d means, with respect to any calendar year\u2014\u2014in the case of qualified crude oil production, the reference price determined under section45K(d)(2)(C), and\u2014in the case of qualified natural gas production, the Secretary's estimate of the annual average wellhead price per 1,000 cubic feet for all domestic natural gas."
+    },
+    "cross_references": [
+      {
+        "section": "45K(d)(2)(C)",
+        "reason": "erence price determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45I(b)(2)(C)Reference Price\u2014For  purposes of this paragraph, the term \u201creference price\u201d means, with respect  to\n                        any calendar year\u2014I.R.C. \u00a7 45I(b)(2)(C)(i)\u2014in  the case of qualified crude oil production, the reference price determined  under\n                           section45K(d)(2)(C), andI.R.C. \u00a7 45I(b)(2)(C)(ii)\u2014in  the case of qualified natural gas production, the Secretary's estimate of  the\n                           annual average wellhead price per 1,000 cubic feet for all domestic  natural gas.",
+    "definitions": null
+  },
+  {
+    "section": "45I",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The terms \u201cqualified crude oil production\u201d and \u201cqualified natural gas production\u201d mean domestic crude oil or natural gas which is produced from a qualified marginal well.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The terms \u201cqualified crude oil production\u201d and \u201cqualified natural gas production\u201d mean domestic crude oil or natural gas which is produced from a qualified marginal well."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45I(c)(1)In General\u2014The  terms \u201cqualified crude oil production\u201d\n                     and \u201cqualified natural gas  production\u201d mean domestic crude oil or natural gas which\n                     is produced from  a qualified marginal well.",
+    "definitions": null
+  },
+  {
+    "section": "45I",
+    "subsection": "(c)(2)(A)",
+    "source_subsections": [
+      "(c)(2)(A)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "Crude oil or natural gas produced during any taxable year from any well shall not be treated as qualified crude oil production or qualified natural gas production to the extent production from the well during the taxable year exceeds 1,095 barrels or barrel-of-oil equivalents (as defined in section45K(d)(5)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Crude oil or natural gas produced during any taxable year from any well shall not be treated as qualified crude oil production or qualified natural gas production to the extent production from the well during the taxable year exceeds 1,095 barrels or barrel-of-oil equivalents (as defined in section45K(d)(5))."
+    },
+    "cross_references": [
+      {
+        "section": "45K(d)(5)",
+        "reason": "il equivalents (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45I(c)(2)(A)In General\u2014Crude  oil or natural gas produced during any taxable year from any well shall  not\n                        be treated as qualified crude oil production or qualified natural gas  production\n                        to the extent production from the well during the taxable year  exceeds 1,095 barrels\n                        or barrel-of-oil equivalents (as defined in  section45K(d)(5)).",
+    "definitions": null
+  },
+  {
+    "section": "45I",
+    "subsection": "(c)(2)(B)(i)",
+    "source_subsections": [
+      "(c)(2)(B)(i)"
+    ],
+    "rule_type": "condition",
+    "title": "Taxable Years",
+    "text": "In the case of a short taxable year, the limitations under this paragraph shall be proportionately reduced to reflect the ratio which the number of days in such taxable year bears to 365.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a short taxable year, the limitations under this paragraph shall be proportionately reduced to reflect the ratio which the number of days in such taxable year bears to 365."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45I(c)(2)(B)(i)Short Taxable Years\u2014In  the case of a short taxable year, the limitations under this paragraph  shall\n                           be proportionately reduced to reflect the ratio which the number of  days in such\n                           taxable year bears to 365.",
+    "definitions": null
+  },
+  {
+    "section": "45I",
+    "subsection": "(c)(2)(B)(ii)",
+    "source_subsections": [
+      "(c)(2)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Not In Production Entire Year",
+    "text": "In the case of a well which is not capable of production during each day of a taxable year, the limitations under this paragraph applicable to the well shall be proportionately reduced to reflect the ratio which the number of days of production bears to the total number of days in the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a well which is not capable of production during each day of a taxable year, the limitations under this paragraph applicable to the well shall be proportionately reduced to reflect the ratio which the number of days of production bears to the total number of days in the taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45I(c)(2)(B)(ii)Wells Not In Production Entire Year\u2014In  the case of a well which is not capable of production during each day of a  taxable\n                           year, the limitations under this paragraph applicable to the well  shall be proportionately\n                           reduced to reflect the ratio which the number of  days of production bears to the\n                           total number of days in the taxable  year.",
+    "definitions": null
+  },
+  {
+    "section": "45I",
+    "subsection": "(c)(3)(A)",
+    "source_subsections": [
+      "(c)(3)(A)",
+      "(c)(3)(A)(i)",
+      "(c)(3)(A)(ii)",
+      "(c)(3)(A)(ii)(I)",
+      "(c)(3)(A)(ii)(II)"
+    ],
+    "rule_type": "definition",
+    "title": "Marginal Well",
+    "text": "The term \u201cqualified marginal well\u201d means a domestic well\u2014\u2014the production from which during the taxable year is treated as marginal production under section613A(c)(6), or\u2014which, during the taxable year\u2014\u2014has average daily production of not more than 25 barrel-of-oil equivalents (as so defined), and\u2014produces water at a rate not less than 95 percent of total well effluent.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.95,
+        "text": "95 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified marginal well\u201d means a domestic well\u2014\u2014the production from which during the taxable year is treated as marginal production under section613A(c)(6), or\u2014which, during the taxable year\u2014\u2014has average daily production of not more than 25 barrel-of-oil equivalents (as so defined), and\u2014produces water at a rate not less than 95 percent of total well effluent."
+    },
+    "cross_references": [
+      {
+        "section": "613A(c)(6)",
+        "reason": "as marginal production under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45I(c)(3)(A)Qualified Marginal Well\u2014The  term \u201cqualified marginal well\u201d means a domestic well\u2014I.R.C. \u00a7 45I(c)(3)(A)(i)\u2014the  production from which during the taxable year is treated as marginal  production\n                           under section613A(c)(6), orI.R.C. \u00a7 45I(c)(3)(A)(ii)\u2014which,  during the taxable year\u2014I.R.C. \u00a7 45I(c)(3)(A)(ii)(I)\u2014has  average daily production of not more than 25 barrel-of-oil equivalents (as  so\n                              defined), andI.R.C. \u00a7 45I(c)(3)(A)(ii)(II)\u2014produces  water at a rate not less than 95 percent of total well  effluent.",
+    "definitions": {
+      "term": "qualified marginal well",
+      "requirements": [
+        "a domestic well\u2014\u2014the production from which during the taxable year is treated as marginal production under section613A(c)(6), or\u2014which, during the taxable year\u2014\u2014has average daily production of not more than 25 barrel-of-oil equivalents (as so defined), and\u2014produces water at a rate not less than 95 percent of total well effluent."
+      ]
+    }
+  },
+  {
+    "section": "45I",
+    "subsection": "(c)(3)(B)",
+    "source_subsections": [
+      "(c)(3)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Oil, Etc.",
+    "text": "The terms \u201ccrude oil\u201d, \u201cnatural gas\u201d, \u201cdomestic\u201d, and \u201cbarrel\u201d have the meanings given such terms by section613A(e).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The terms \u201ccrude oil\u201d, \u201cnatural gas\u201d, \u201cdomestic\u201d, and \u201cbarrel\u201d have the meanings given such terms by section613A(e)."
+    },
+    "cross_references": [
+      {
+        "section": "613A(e)",
+        "reason": "meanings given such terms by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45I(c)(3)(B)Crude Oil, Etc.\u2014The  terms \u201ccrude oil\u201d, \u201cnatural gas\u201d, \u201cdomestic\u201d, and \u201cbarrel\u201d have the  meanings\n                        given such terms by section613A(e).",
+    "definitions": null
+  },
+  {
+    "section": "45I",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)"
+    ],
+    "rule_type": "limitation",
+    "title": "Attributable To The Taxpayer",
+    "text": "In the case of a qualified marginal well in which there is more than one owner of operating interests in the well and the crude oil or natural gas production exceeds the limitation under subsection(c)(2), qualifying crude oil production or qualifying natural gas production attributable to the taxpayer shall be determined on the basis of the ratio which taxpayer's revenue interest in the production bears to the aggregate of the revenue interests of all operating interest owners in the production.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a qualified marginal well in which there is more than one owner of operating interests in the well and the crude oil or natural gas production exceeds the limitation under subsection(c)(2), qualifying crude oil production or qualifying natural gas production attributable to the taxpayer shall be determined on the basis of the ratio which taxpayer's revenue interest in the production bears to the aggregate of the revenue interests of all operating interest owners in the production."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45I(d)(1)Production Attributable To The Taxpayer\u2014In  the case of a qualified marginal well in which there is more than one  owner of\n                     operating interests in the well and the crude oil or natural gas  production exceeds\n                     the limitation under subsection(c)(2), qualifying  crude oil production or qualifying natural gas production attributable\n                     to  the taxpayer shall be determined on the basis of the ratio which  taxpayer's revenue\n                     interest in the production bears to the aggregate of  the revenue interests of all\n                     operating interest owners in the  production.",
+    "definitions": null
+  },
+  {
+    "section": "45I",
+    "subsection": "(d)(2)",
+    "source_subsections": [
+      "(d)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Interest Required",
+    "text": "Any credit under this section may be claimed only on production which is attributable to the holder of an operating interest.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Any credit under this section may be claimed only on production which is attributable to the holder of an operating interest."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45I(d)(2)Operating Interest Required\u2014Any  credit under this section may be claimed only on production which is  attributable\n                     to the holder of an operating interest.",
+    "definitions": null
+  },
+  {
+    "section": "45I",
+    "subsection": "(d)(3)",
+    "source_subsections": [
+      "(d)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "From Nonconventional Sources Excluded",
+    "text": "In the case of production from a qualified marginal well which is eligible for the credit allowed under section45Kfor the taxable year, no credit shall be allowable under this section unless the taxpayer elects not to claim the credit under section45Kwith respect to the well.",
+    "conditions": [
+      "the taxpayer elects not to claim the credit under section45Kwith respect to the well."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "the taxpayer elects not to claim the credit under section45Kwith respect to the well."
+      ],
+      "except": [],
+      "result": "In the case of production from a qualified marginal well which is eligible for the credit allowed under section45Kfor the taxable year, no credit shall be allowable under this section"
+    },
+    "cross_references": [
+      {
+        "section": "45K",
+        "reason": "for the credit allowed under..."
+      },
+      {
+        "section": "45K",
+        "reason": "not to claim the credit under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45I(d)(3)Production From Nonconventional Sources Excluded\u2014In  the case of production from a qualified marginal well which is eligible  for the\n                     credit allowed under  section45Kfor the taxable year, no credit\n                     shall be allowable under this section unless the taxpayer elects not to  claim the\n                     credit under  section45Kwith respect to the well.",
+    "definitions": null
+  }
+]

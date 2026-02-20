@@ -1,0 +1,22 @@
+{
+  "id": "2d9e3548f531",
+  "section": "61",
+  "citation": "I.R.C. \u00a7 61(a)",
+  "type": "Calculation - Gross Income",
+  "scenario": "Bob received the following amounts during the year: Dividends: $31,544.00, Loan Proceeds: $18,140.43, Interest on Bank Account: $28,958.57.",
+  "question": "Calculate Bob's gross income under I.R.C. \u00a7 61.",
+  "difficulty": 2,
+  "choices": [
+    "$60,502.57",
+    "$0.00",
+    "$30,251.28",
+    "$18,140.43",
+    "$78,643.00"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "Gross income includes all income from whatever source derived, unless excluded. Total: $60,502.57.",
+  "reasoning": "Summed included items, ignored excluded items.",
+  "source_rules": [
+    "I.R.C. \u00a7 61(a)"
+  ]
+}

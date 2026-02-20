@@ -1,0 +1,21 @@
+{
+  "id": "f080e985f63e",
+  "section": "883",
+  "citation": "I.R.C. \u00a7 883(c)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 883(c) is discussed as follows: 'I.R.C. \u00a7 883(c)Treatment Of Certain Foreign CorporationsI.R.C. \u00a7 883(c)(1)In General\u2014Paragraph  (1) ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 883(c)?",
+  "difficulty": 1,
+  "choices": [
+    "40.0%",
+    "75.0%",
+    "50.0%",
+    "60.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 883(c)"
+  ]
+}

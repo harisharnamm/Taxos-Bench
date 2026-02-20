@@ -1,0 +1,22 @@
+{
+  "id": "885422f99044",
+  "section": "30",
+  "citation": "I.R.C. \u00a7 30(a)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 30(a) is discussed as follows: 'I.R.C. \u00a7 30(a)Allowance Of Credit\u2014There shall be allowed as a credit against the tax imposed by this...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 30(a)?",
+  "difficulty": 1,
+  "choices": [
+    "20.0%",
+    "10.0%",
+    "90.0%",
+    "15.0%",
+    "0.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 10.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 30(a)"
+  ]
+}

@@ -1,0 +1,460 @@
+[
+  {
+    "section": "54B",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "100 percent of the available project proceeds of such issue are to be used for one or more qualified forestry conservation purposes,",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 1.0,
+        "text": "100 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "100 percent of the available project proceeds of such issue are to be used for one or more qualified forestry conservation purposes,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54B(a)(1)\u2014100 percent of the available project proceeds of such issue are to be used for one\n                     or more qualified forestry conservation purposes,",
+    "definitions": null
+  },
+  {
+    "section": "54B",
+    "subsection": "(a)(2)",
+    "source_subsections": [
+      "(a)(2)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "the bond is issued by a qualified issuer, and",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "the bond is issued by a qualified issuer, and"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54B(a)(2)\u2014the bond is issued by a qualified issuer, and",
+    "definitions": null
+  },
+  {
+    "section": "54B",
+    "subsection": "(a)(3)",
+    "source_subsections": [
+      "(a)(3)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "the issuer designates such bond for purposes of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "the issuer designates such bond for purposes of this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54B(a)(3)\u2014the issuer designates such bond for purposes of this section.",
+    "definitions": null
+  },
+  {
+    "section": "54B",
+    "subsection": "(b)",
+    "source_subsections": [
+      "(b)"
+    ],
+    "rule_type": "limitation",
+    "title": "On Amount Of Bonds Designated",
+    "text": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54B, effective for bonds issued after December 31, 2017.The maximum aggregate face amount of bonds which may be designated under subsection(a)by any issuer shall not exceed the limitation amount allocated to such issuer under subsection(d).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54B, effective for bonds issued after December 31, 2017.The maximum aggregate face amount of bonds which may be designated under subsection(a)by any issuer shall not exceed the limitation amount allocated to such issuer under subsection(d)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54B(b)Limitation On Amount Of Bonds Designated\u2014Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54B, effective for bonds issued after December 31, 2017.The maximum aggregate face amount of bonds which may be designated under subsection(a)by any issuer shall not exceed the limitation amount allocated to such issuer under\n                  subsection(d).",
+    "definitions": null
+  },
+  {
+    "section": "54B",
+    "subsection": "(c)",
+    "source_subsections": [
+      "(c)"
+    ],
+    "rule_type": "limitation",
+    "title": "Limitation On Amount Of Bonds Designated",
+    "text": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54B, effective for bonds issued after December 31, 2017.There is a national qualified forestry conservation bond limitation of $500,000,000.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 500000000,
+        "text": "$500,000,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54B, effective for bonds issued after December 31, 2017.There is a national qualified forestry conservation bond limitation of $500,000,000."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54B(c)National Limitation On Amount Of Bonds Designated\u2014Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54B, effective for bonds issued after December 31, 2017.There is a national qualified forestry conservation bond limitation of $500,000,000.",
+    "definitions": null
+  },
+  {
+    "section": "54B",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)"
+    ],
+    "rule_type": "limitation",
+    "title": "General",
+    "text": "The Secretary shall make allocations of the amount of the national qualified forestry conservation bond limitation described in subsection(c)among qualified forestry conservation purposes in such manner as the Secretary determines appropriate so as to ensure that all of such limitation is allocated before the date which is 24 months after the date of the enactment of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall make allocations of the amount of the national qualified forestry conservation bond limitation described in subsection(c)among qualified forestry conservation purposes in such manner as the Secretary determines appropriate so as to ensure that all of such limitation is allocated before the date which is 24 months after the date of the enactment of this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54B(d)(1)In General\u2014The Secretary shall make allocations of the amount of the national qualified forestry\n                     conservation bond limitation described in subsection(c)among qualified forestry conservation purposes in such manner as the Secretary determines\n                     appropriate so as to ensure that all of such limitation is allocated before the date\n                     which is 24 months after the date of the enactment of this section.",
+    "definitions": null
+  },
+  {
+    "section": "54B",
+    "subsection": "(d)(2)",
+    "source_subsections": [
+      "(d)(2)"
+    ],
+    "rule_type": "limitation",
+    "title": "Of Applications",
+    "text": "The Secretary shall solicit applications for allocations of the national qualified forestry conservation bond limitation described in subsection(c)not later than 90 days after the date of the enactment of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall solicit applications for allocations of the national qualified forestry conservation bond limitation described in subsection(c)not later than 90 days after the date of the enactment of this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54B(d)(2)Solicitation Of Applications\u2014The Secretary shall solicit applications for allocations of the national qualified\n                     forestry conservation bond limitation described in subsection(c)not later than 90 days after the date of the enactment of this section.",
+    "definitions": null
+  },
+  {
+    "section": "54B",
+    "subsection": "(e)(1)",
+    "source_subsections": [
+      "(e)(1)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Some portion of the land acquired must be adjacent to United States Forest Service Land.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Some portion of the land acquired must be adjacent to United States Forest Service Land."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54B(e)(1)\u2014Some portion of the land acquired must be adjacent to United States Forest Service\n                     Land.",
+    "definitions": null
+  },
+  {
+    "section": "54B",
+    "subsection": "(e)(2)",
+    "source_subsections": [
+      "(e)(2)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "At least half of the land acquired must be transferred to the United States Forest Service at no net cost to the United States and not more than half of the land acquired may either remain with or be conveyed to a State.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "At least half of the land acquired must be transferred to the United States Forest Service at no net cost to the United States and not more than half of the land acquired may either remain with or be conveyed to a State."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54B(e)(2)\u2014At least half of the land acquired must be transferred to the United States Forest\n                     Service at no net cost to the United States and not more than half of the land acquired\n                     may either remain with or be conveyed to a State.",
+    "definitions": null
+  },
+  {
+    "section": "54B",
+    "subsection": "(e)(3)",
+    "source_subsections": [
+      "(e)(3)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "All of the land must be subject to a native fish habitat conservation plan approved by the United States Fish and Wildlife Service.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "All of the land must be subject to a native fish habitat conservation plan approved by the United States Fish and Wildlife Service."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54B(e)(3)\u2014All of the land must be subject to a native fish habitat conservation plan approved\n                     by the United States Fish and Wildlife Service.",
+    "definitions": null
+  },
+  {
+    "section": "54B",
+    "subsection": "(e)(4)",
+    "source_subsections": [
+      "(e)(4)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The amount of acreage acquired must be at least 40,000 acres.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of acreage acquired must be at least 40,000 acres."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54B(e)(4)\u2014The amount of acreage acquired must be at least 40,000 acres.",
+    "definitions": null
+  },
+  {
+    "section": "54B",
+    "subsection": "(f)",
+    "source_subsections": [
+      "(f)"
+    ],
+    "rule_type": "definition",
+    "title": "Issuer",
+    "text": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54B, effective for bonds issued after December 31, 2017.For purposes of this section, the term \u201cqualified issuer\u201d means a State or any political subdivision or instrumentality thereof or a501(c)(3)organization (as defined in section150(a)(4)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54B, effective for bonds issued after December 31, 2017.For purposes of this section, the term \u201cqualified issuer\u201d means a State or any political subdivision or instrumentality thereof or a501(c)(3)organization (as defined in section150(a)(4))."
+    },
+    "cross_references": [
+      {
+        "section": "150(a)(4)",
+        "reason": "3)organization (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54B(f)Qualified Issuer\u2014Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54B, effective for bonds issued after December 31, 2017.For purposes of this section, the term \u201cqualified issuer\u201d means a State or any political\n                  subdivision or instrumentality thereof or a501(c)(3)organization\n                  (as defined in section150(a)(4)).",
+    "definitions": {
+      "term": "qualified issuer",
+      "requirements": [
+        "a State or any political subdivision or instrumentality thereof or a501(c)(3)organization (as defined in section150(a)(4))."
+      ]
+    }
+  },
+  {
+    "section": "54B",
+    "subsection": "(g)",
+    "source_subsections": [
+      "(g)"
+    ],
+    "rule_type": "condition",
+    "title": "Arbitrage Rule",
+    "text": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54B, effective for bonds issued after December 31, 2017.In the case of any qualified forestry conservation bond issued as part of an issue, section54A(d)(4)(C)shall be applied to such issue without regard to clause(i).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54B, effective for bonds issued after December 31, 2017.In the case of any qualified forestry conservation bond issued as part of an issue, section54A(d)(4)(C)shall be applied to such issue without regard to clause(i)."
+    },
+    "cross_references": [
+      {
+        "section": "54A(d)(4)(C)",
+        "reason": "d issued as part of an issue,..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54B(g)Special Arbitrage Rule\u2014Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54B, effective for bonds issued after December 31, 2017.In the case of any qualified forestry conservation bond issued as part of an issue,\n                  section54A(d)(4)(C)shall be applied to such issue without regard to clause(i).",
+    "definitions": null
+  },
+  {
+    "section": "54B",
+    "subsection": "(h)",
+    "source_subsections": [
+      "(h)",
+      "(h)(1)",
+      "(h)(1)(A)",
+      "(h)(1)(B)",
+      "(h)(2)",
+      "(h)(2)(A)",
+      "(h)(2)(B)",
+      "(h)(3)",
+      "(h)(3)(A)",
+      "(h)(3)(B)",
+      "(h)(3)(B)(i)",
+      "(h)(3)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "To Treat 50 Percent Of Bond Allocation As Payment Of Tax",
+    "text": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54B, effective for bonds issued after December 31, 2017. General\u2014a qualified issuer receives an allocation of any portion of the national qualified forestry conservation bond limitation described in subsection(c), and\u2014the qualified issuer elects the application of this subsection with respect to such allocation, then the qualified issuer (without regard to whether the issuer is subject to tax under this chapter) shall be treated as having made a payment against the tax imposed by this chapter, for the taxable year preceding the taxable year in which the allocation is received, in an amount equal to 50 percent of the amount of such allocation. Of Deemed Payment General\u2014Notwithstanding any other provision of this title, the Secretary shall not use the payment of tax described in paragraph(1)as an offset or credit against any tax liability of the qualified issuer but shall refund such payment to such issuer. Interest\u2014Except as provided in paragraph(3)(A), the payment described in paragraph(1)shall not be taken into account in determining any amount of interest under this title. For, And Effect Of, Election\u2014No election under this subsection shall take effect unless the qualified issuer certifies to the Secretary that any payment of tax refunded to the issuer under this subsection will be used exclusively for 1 or more qualified forestry conservation purposes. If the qualified issuer fails to use any portion of such payment for such purpose, the issuer shall be liable to the United States in an amount equal to such portion, plus interest at the overpayment rate under section6621for the period from the date such portion was refunded to the date such amount is paid. Any such amount shall be assessed and collected in the same manner as tax imposed by this chapter, except that subchapter B of chapter 63 (relating to deficiency procedures) shall not apply in respect of such assessment or collection. Of Election On Allocation\u2014If a qualified issuer makes the election under this subsection with respect to any allocation\u2014\u2014the issuer may issue no bonds pursuant to the allocation, and\u2014the Secretary may not reallocate such allocation for any other purpose.",
+    "conditions": [
+      "the qualified issuer fails to use any portion of such payment for such purpose, the issuer shall be liable to the United States in an amount equal to such portion, plus interest at the overpayment rate under section6621for the period from the date such portion was refunded to the date such amount is paid. Any such amount shall be assessed and collected in the same manner as tax imposed by this chapter,",
+      "a qualified issuer makes the election under this subsection with respect to any allocation\u2014\u2014the issuer may issue no bonds pursuant to the allocation, and\u2014the Secretary may not reallocate such allocation for any other purpose.",
+      "the qualified issuer certifies to the Secretary that any payment of tax refunded to the issuer under this subsection will be used exclusively for 1 or more qualified forestry conservation purposes."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [
+      {
+        "applies_when": "paragraph(3)(A)",
+        "effect": "See referenced section"
+      }
+    ],
+    "logical_structure": {
+      "if": [
+        "the qualified issuer fails to use any portion of such payment for such purpose, the issuer shall be liable to the United States in an amount equal to such portion, plus interest at the overpayment rate under section6621for the period from the date such portion was refunded to the date such amount is paid. Any such amount shall be assessed and collected in the same manner as tax imposed by this chapter,",
+        "a qualified issuer makes the election under this subsection with respect to any allocation\u2014\u2014the issuer may issue no bonds pursuant to the allocation, and\u2014the Secretary may not reallocate such allocation for any other purpose."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [
+        "the qualified issuer certifies to the Secretary that any payment of tax refunded to the issuer under this subsection will be used exclusively for 1 or more qualified forestry conservation purposes."
+      ],
+      "except": [
+        "as provided in paragraph(3)(A), the payment described in paragraph(1)shall not be taken into account in determining any amount of interest under this title. For, And Effect Of, Election\u2014No election under this subsection shall take effect",
+        "that subchapter B of chapter 63 (relating to deficiency procedures) shall not apply in respect of such assessment or collection. Of Election On Allocation\u2014"
+      ],
+      "result": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54B, effective for bonds issued after December 31, 2017. General\u2014a qualified issuer receives an allocation of any portion of the national qualified forestry conservation bond limitation described in subsection(c), and\u2014the qualified issuer elects the application of this subsection with respect to such allocation, then the qualified issuer (without regard to whether the issuer is subject to tax under this chapter) shall be treated as having made a payment against the tax imposed by this chapter, for the taxable year preceding the taxable year in which the allocation is received, in an amount equal to 50 percent of the amount of such allocation. Of Deemed Payment General\u2014Notwithstanding any other provision of this title, the Secretary shall not use the payment of tax described in paragraph(1)as an offset or credit against any tax liability of the qualified issuer but shall refund such payment to such issuer. Interest\u2014"
+    },
+    "cross_references": [
+      {
+        "section": "6621f",
+        "reason": "at the overpayment rate under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54B(h)Election To Treat 50 Percent Of Bond Allocation As Payment Of Tax\u2014Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54B, effective for bonds issued after December 31, 2017.I.R.C. \u00a7 54B(h)(1)In GeneralI.R.C. \u00a7 54B(h)(1)(A)\u2014a qualified issuer receives an allocation of any portion of the national qualified\n                        forestry conservation bond limitation described in subsection(c), andI.R.C. \u00a7 54B(h)(1)(B)\u2014the qualified issuer elects the application of this subsection with respect to such\n                        allocation, then the qualified issuer (without regard to whether the issuer is subject\n                        to tax under this chapter) shall be treated as having made a payment against the tax\n                        imposed by this chapter, for the taxable year preceding the taxable year in which\n                        the allocation is received, in an amount equal to 50 percent of the amount of such\n                        allocation.I.R.C. \u00a7 54B(h)(2)Treatment Of Deemed PaymentI.R.C. \u00a7 54B(h)(2)(A)In General\u2014Notwithstanding any other provision of this title, the Secretary shall not use the\n                        payment of tax described in paragraph(1)as an offset or credit against any tax liability of the qualified issuer but shall\n                        refund such payment to such issuer.I.R.C. \u00a7 54B(h)(2)(B)No Interest\u2014Except as provided in paragraph(3)(A), the payment described in paragraph(1)shall not be taken into account in determining any amount of interest under this\n                        title.I.R.C. \u00a7 54B(h)(3)Requirement For, And Effect Of, ElectionI.R.C. \u00a7 54B(h)(3)(A)Requirement\u2014No election under this subsection shall take effect unless the qualified issuer certifies\n                        to the Secretary that any payment of tax refunded to the issuer under this subsection\n                        will be used exclusively for 1 or more qualified forestry conservation purposes. If\n                        the qualified issuer fails to use any portion of such payment for such purpose, the\n                        issuer shall be liable to the United States in an amount equal to such portion, plus\n                        interest at the overpayment rate under section6621for the period from the date such portion was refunded to the date such amount is\n                        paid. Any such amount shall be assessed and collected in the same manner as tax imposed\n                        by this chapter, except that subchapter B of chapter 63 (relating to deficiency procedures)\n                        shall not apply in respect of such assessment or collection.I.R.C. \u00a7 54B(h)(3)(B)Effect Of Election On Allocation\u2014If a qualified issuer makes the election under this subsection with respect to any\n                        allocation\u2014I.R.C. \u00a7 54B(h)(3)(B)(i)\u2014the issuer may issue no bonds pursuant to the allocation, andI.R.C. \u00a7 54B(h)(3)(B)(ii)\u2014the Secretary may not reallocate such allocation for any other purpose.",
+    "definitions": null
+  }
+]

@@ -1,0 +1,2860 @@
+[
+  {
+    "section": "30B",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)",
+      "(a)(1)",
+      "(a)(2)",
+      "(a)(3)",
+      "(a)(4)",
+      "(a)(5)"
+    ],
+    "rule_type": "computation",
+    "title": "Of Credit",
+    "text": "There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of\u2014\u2014the new qualified fuel cell motor vehicle credit determined under subsection (b),\u2014the new advanced lean burn technology motor vehicle credit determined under subsection (c),\u2014the new qualified hybrid motor vehicle credit determined under subsection (d),\u2014the new qualified alternative fuel motor vehicle credit determined under subsection (e), and\u2014the plug-in conversion credit determined under subsection (i).",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of\u2014\u2014the new qualified fuel cell motor vehicle credit determined under subsection (b),\u2014the new advanced lean burn technology motor vehicle credit determined under subsection (c),\u2014the new qualified hybrid motor vehicle credit determined under subsection (d),\u2014the new qualified alternative fuel motor vehicle credit determined under subsection (e), and\u2014the plug-in conversion credit determined under subsection (i)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(a)Allowance Of Credit\u2014There shall be allowed as a credit against the tax imposed\n                  by this chapter for the taxable year an amount equal to the sum of\u2014I.R.C. \u00a7 30B(a)(1)\u2014the new qualified fuel cell motor\n                     vehicle credit determined under subsection (b),I.R.C. \u00a7 30B(a)(2)\u2014the new advanced lean burn technology\n                     motor vehicle credit determined under subsection (c),I.R.C. \u00a7 30B(a)(3)\u2014the new qualified hybrid motor vehicle\n                     credit determined under subsection (d),I.R.C. \u00a7 30B(a)(4)\u2014the new qualified alternative fuel\n                     motor vehicle credit determined under subsection (e), andI.R.C. \u00a7 30B(a)(5)\u2014the plug-in conversion credit determined\n                     under subsection (i).",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(b)(1)(A)",
+    "source_subsections": [
+      "(b)(1)(A)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$8,000 ($4,000 in the case of a vehicle placed in service after December 31, 2009), if such vehicle has a gross vehicle weight rating of not more than 8,500 pounds,",
+    "conditions": [
+      "such vehicle has a gross vehicle weight rating of not more than 8,500 pounds,"
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 8000,
+        "text": "$8,000"
+      },
+      {
+        "label": "amount",
+        "value": 4000,
+        "text": "$4,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such vehicle has a gross vehicle weight rating of not more than 8,500 pounds,"
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$8,000 ($4,000 in the case of a vehicle placed in service after December 31, 2009),"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(b)(1)(A)\u2014$8,000 ($4,000 in the case of a vehicle\n                        placed in service after December 31, 2009), if such vehicle has a\n                        gross vehicle weight rating of not more than 8,500 pounds,",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(b)(1)(B)",
+    "source_subsections": [
+      "(b)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$10,000, if such vehicle has a gross vehicle weight rating of more than 8,500 pounds but not more than 14,000 pounds,",
+    "conditions": [
+      "such vehicle has a gross vehicle weight rating of more than 8,500 pounds but not more than 14,000 pounds,"
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 10000,
+        "text": "$10,000,"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such vehicle has a gross vehicle weight rating of more than 8,500 pounds but not more than 14,000 pounds,"
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$10,000,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(b)(1)(B)\u2014$10,000, if such vehicle has a gross\n                        vehicle weight rating of more than 8,500 pounds but not more than\n                        14,000 pounds,",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(b)(1)(C)",
+    "source_subsections": [
+      "(b)(1)(C)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$20,000, if such vehicle has a gross vehicle weight rating of more than 14,000 pounds but not more than 26,000 pounds, and",
+    "conditions": [
+      "such vehicle has a gross vehicle weight rating of more than 14,000 pounds but not more than 26,000 pounds, and"
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 20000,
+        "text": "$20,000,"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such vehicle has a gross vehicle weight rating of more than 14,000 pounds but not more than 26,000 pounds, and"
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$20,000,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(b)(1)(C)\u2014$20,000, if such vehicle has a gross\n                        vehicle weight rating of more than 14,000 pounds but not more than\n                        26,000 pounds, and",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(b)(1)(D)",
+    "source_subsections": [
+      "(b)(1)(D)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$40,000, if such vehicle has a gross vehicle weight rating of more than 26,000 pounds.",
+    "conditions": [
+      "such vehicle has a gross vehicle weight rating of more than 26,000 pounds."
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 40000,
+        "text": "$40,000,"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such vehicle has a gross vehicle weight rating of more than 26,000 pounds."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$40,000,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(b)(1)(D)\u2014$40,000, if such vehicle has a gross\n                        vehicle weight rating of more than 26,000 pounds.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(b)(2)(A)(i)",
+    "source_subsections": [
+      "(b)(2)(A)(i)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$1,000, if such vehicle achieves at least 150 percent but less than 175 percent of the 2002 model year city fuel economy,",
+    "conditions": [
+      "such vehicle achieves at least 150 percent but less than 175 percent of the 2002 model year city fuel economy,"
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 1000,
+        "text": "$1,000,"
+      }
+    ],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 1.5,
+        "text": "150 percent"
+      },
+      {
+        "label": "rate",
+        "value": 1.75,
+        "text": "175 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such vehicle achieves at least 150 percent but less than 175 percent of the 2002 model year city fuel economy,"
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$1,000,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(b)(2)(A)(i)\u2014$1,000, if such vehicle achieves at least\n                           150 percent but less than 175 percent of the 2002 model year city\n                           fuel economy,",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(b)(2)(A)(ii)",
+    "source_subsections": [
+      "(b)(2)(A)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$1,500, if such vehicle achieves at least 175 percent but less than 200 percent of the 2002 model year city fuel economy,",
+    "conditions": [
+      "such vehicle achieves at least 175 percent but less than 200 percent of the 2002 model year city fuel economy,"
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 1500,
+        "text": "$1,500,"
+      }
+    ],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 1.75,
+        "text": "175 percent"
+      },
+      {
+        "label": "rate",
+        "value": 2.0,
+        "text": "200 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such vehicle achieves at least 175 percent but less than 200 percent of the 2002 model year city fuel economy,"
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$1,500,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(b)(2)(A)(ii)\u2014$1,500, if such vehicle achieves at\n                           least 175 percent but less than 200 percent of the 2002 model year\n                           city fuel economy,",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(b)(2)(A)(iii)",
+    "source_subsections": [
+      "(b)(2)(A)(iii)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$2,000, if such vehicle achieves at least 200 percent but less than 225 percent of the 2002 model year city fuel economy,",
+    "conditions": [
+      "such vehicle achieves at least 200 percent but less than 225 percent of the 2002 model year city fuel economy,"
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 2000,
+        "text": "$2,000,"
+      }
+    ],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 2.0,
+        "text": "200 percent"
+      },
+      {
+        "label": "rate",
+        "value": 2.25,
+        "text": "225 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such vehicle achieves at least 200 percent but less than 225 percent of the 2002 model year city fuel economy,"
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$2,000,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(b)(2)(A)(iii)\u2014$2,000, if such vehicle achieves at\n                           least 200 percent but less than 225 percent of the 2002 model year\n                           city fuel economy,",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(b)(2)(A)(iv)",
+    "source_subsections": [
+      "(b)(2)(A)(iv)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$2,500, if such vehicle achieves at least 225 percent but less than 250 percent of the 2002 model year city fuel economy,",
+    "conditions": [
+      "such vehicle achieves at least 225 percent but less than 250 percent of the 2002 model year city fuel economy,"
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 2500,
+        "text": "$2,500,"
+      }
+    ],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 2.25,
+        "text": "225 percent"
+      },
+      {
+        "label": "rate",
+        "value": 2.5,
+        "text": "250 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such vehicle achieves at least 225 percent but less than 250 percent of the 2002 model year city fuel economy,"
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$2,500,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(b)(2)(A)(iv)\u2014$2,500, if such vehicle achieves at\n                           least 225 percent but less than 250 percent of the 2002 model year\n                           city fuel economy,",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(b)(2)(A)(v)",
+    "source_subsections": [
+      "(b)(2)(A)(v)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$3,000, if such vehicle achieves at least 250 percent but less than 275 percent of the 2002 model year city fuel economy,",
+    "conditions": [
+      "such vehicle achieves at least 250 percent but less than 275 percent of the 2002 model year city fuel economy,"
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 3000,
+        "text": "$3,000,"
+      }
+    ],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 2.5,
+        "text": "250 percent"
+      },
+      {
+        "label": "rate",
+        "value": 2.75,
+        "text": "275 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such vehicle achieves at least 250 percent but less than 275 percent of the 2002 model year city fuel economy,"
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$3,000,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(b)(2)(A)(v)\u2014$3,000, if such vehicle achieves at least\n                           250 percent but less than 275 percent of the 2002 model year city\n                           fuel economy,",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(b)(2)(A)(vi)",
+    "source_subsections": [
+      "(b)(2)(A)(vi)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$3,500, if such vehicle achieves at least 275 percent but less than 300 percent of the 2002 model year city fuel economy, and",
+    "conditions": [
+      "such vehicle achieves at least 275 percent but less than 300 percent of the 2002 model year city fuel economy, and"
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 3500,
+        "text": "$3,500,"
+      }
+    ],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 2.75,
+        "text": "275 percent"
+      },
+      {
+        "label": "rate",
+        "value": 3.0,
+        "text": "300 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such vehicle achieves at least 275 percent but less than 300 percent of the 2002 model year city fuel economy, and"
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$3,500,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(b)(2)(A)(vi)\u2014$3,500, if such vehicle achieves at\n                           least 275 percent but less than 300 percent of the 2002 model year\n                           city fuel economy, and",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(b)(2)(A)(vii)",
+    "source_subsections": [
+      "(b)(2)(A)(vii)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$4,000, if such vehicle achieves at least 300 percent of the 2002 model year city fuel economy.",
+    "conditions": [
+      "such vehicle achieves at least 300 percent of the 2002 model year city fuel economy."
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 4000,
+        "text": "$4,000,"
+      }
+    ],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 3.0,
+        "text": "300 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such vehicle achieves at least 300 percent of the 2002 model year city fuel economy."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$4,000,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(b)(2)(A)(vii)\u2014$4,000, if such vehicle achieves at\n                           least 300 percent of the 2002 model year city fuel economy.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(b)(2)(B)",
+    "source_subsections": [
+      "(b)(2)(B)",
+      "(b)(2)(B)(i)",
+      "(b)(2)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Model Year City Fuel Economy",
+    "text": "For purposes of subparagraph (A), the 2002 model year city fuel economy with respect to a vehicle shall be determined in accordance with the following tables: the case of a passenger automobile:If vehicle inertia weight class is:The 2002 model year city fuel economy is:1,500 or 1,750 lbs45.2 mpg2,000 lbs39.6 mpg2,250 lbs35.2 mpg2,500 lbs31.7 mpg2,750 lbs28.8 mpg3,000 lbs26.4 mpg3,500 lbs22.6 mpg4,000 lbs19.8 mpg4,500 lbs17.6 mpg5,000 lbs15.9 mpg5,500 lbs14.4 mpg6,000 lbs13.2 mpg6,500 lbs12.2 mpg7,000 to 8,500 lbs11.3 mpg. the case of a light truck:If vehicle inertia weight class is:The 2002 model year city fuel economy is:1,500 or 1,750 lbs39.4 mpg2,000 lbs35.2 mpg2,250 lbs31.8 mpg2,500 lbs29.0 mpg2,750 lbs26.8 mpg3,000 lbs24.9 mpg3,500 lbs21.8 mpg4,000 lbs19.4 mpg4,500 lbs17.6 mpg5,000 lbs16.1 mpg5,500 lbs14.8 mpg6,000 lbs13.7 mpg6,500 lbs12.8 mpg7,000 to 8,500 lbs12.1 mpg.",
+    "conditions": [
+      "vehicle inertia weight class is:The 2002 model year city fuel economy is:1,500 or 1,750 lbs45.2 mpg2,000 lbs39.6 mpg2,250 lbs35.2 mpg2,500 lbs31.7 mpg2,750 lbs28.8 mpg3,000 lbs26.4 mpg3,500 lbs22.6 mpg4,000 lbs19.8 mpg4,500 lbs17.6 mpg5,000 lbs15.9 mpg5,500 lbs14.4 mpg6,000 lbs13.2 mpg6,500 lbs12.2 mpg7,000 to 8,500 lbs11.3 mpg. the case of a light truck:",
+      "vehicle inertia weight class is:The 2002 model year city fuel economy is:1,500 or 1,750 lbs39.4 mpg2,000 lbs35.2 mpg2,250 lbs31.8 mpg2,500 lbs29.0 mpg2,750 lbs26.8 mpg3,000 lbs24.9 mpg3,500 lbs21.8 mpg4,000 lbs19.4 mpg4,500 lbs17.6 mpg5,000 lbs16.1 mpg5,500 lbs14.8 mpg6,000 lbs13.7 mpg6,500 lbs12.8 mpg7,000 to 8,500 lbs12.1 mpg."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "vehicle inertia weight class is:The 2002 model year city fuel economy is:1,500 or 1,750 lbs45.2 mpg2,000 lbs39.6 mpg2,250 lbs35.2 mpg2,500 lbs31.7 mpg2,750 lbs28.8 mpg3,000 lbs26.4 mpg3,500 lbs22.6 mpg4,000 lbs19.8 mpg4,500 lbs17.6 mpg5,000 lbs15.9 mpg5,500 lbs14.4 mpg6,000 lbs13.2 mpg6,500 lbs12.2 mpg7,000 to 8,500 lbs11.3 mpg. the case of a light truck:",
+        "vehicle inertia weight class is:The 2002 model year city fuel economy is:1,500 or 1,750 lbs39.4 mpg2,000 lbs35.2 mpg2,250 lbs31.8 mpg2,500 lbs29.0 mpg2,750 lbs26.8 mpg3,000 lbs24.9 mpg3,500 lbs21.8 mpg4,000 lbs19.4 mpg4,500 lbs17.6 mpg5,000 lbs16.1 mpg5,500 lbs14.8 mpg6,000 lbs13.7 mpg6,500 lbs12.8 mpg7,000 to 8,500 lbs12.1 mpg."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph (A), the 2002 model year city fuel economy with respect to a vehicle shall be determined in accordance with the following tables: the case of a passenger automobile:"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(b)(2)(B)2002 Model Year City Fuel Economy\u2014For purposes of subparagraph (A), the 2002 model year\n                        city fuel economy with respect to a vehicle shall be determined in\n                        accordance with the following tables:I.R.C. \u00a7 30B(b)(2)(B)(i)In the case of a passenger automobile:If vehicle inertia weight class is:The 2002 model year city fuel economy is:1,500 or 1,750\n                                       lbs45.2 mpg2,000 lbs39.6 mpg2,250 lbs35.2 mpg2,500 lbs31.7 mpg2,750 lbs28.8 mpg3,000 lbs26.4 mpg3,500 lbs22.6 mpg4,000 lbs19.8 mpg4,500 lbs17.6 mpg5,000 lbs15.9 mpg5,500 lbs14.4 mpg6,000 lbs13.2 mpg6,500 lbs12.2 mpg7,000 to 8,500\n                                       lbs11.3 mpg.I.R.C. \u00a7 30B(b)(2)(B)(ii)In the case of a light truck:If vehicle inertia weight class is:The 2002 model year city fuel economy is:1,500 or 1,750\n                                       lbs39.4 mpg2,000 lbs35.2 mpg2,250 lbs31.8 mpg2,500 lbs29.0 mpg2,750 lbs26.8 mpg3,000 lbs24.9 mpg3,500 lbs21.8 mpg4,000 lbs19.4 mpg4,500 lbs17.6 mpg5,000 lbs16.1 mpg5,500 lbs14.8 mpg6,000 lbs13.7 mpg6,500 lbs12.8 mpg7,000 to 8,500\n                                       lbs12.1 mpg.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(b)(2)(C)",
+    "source_subsections": [
+      "(b)(2)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "Inertia Weight Class",
+    "text": "For purposes of subparagraph (B), the term \u201cvehicle inertia weight class\u201d has the same meaning as when defined in regulations prescribed by the Administrator of the Environmental Protection Agency for purposes of the administration of title II of the Clean Air Act (42 U.S.C. 7521et seq.).",
+    "conditions": [
+      "defined in regulations prescribed by the Administrator of the Environmental Protection Agency for purposes of the administration of title II of the Clean Air Act (42 U.S.C. 7521et seq.)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "defined in regulations prescribed by the Administrator of the Environmental Protection Agency for purposes of the administration of title II of the Clean Air Act (42 U.S.C. 7521et seq.)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph (B), the term \u201cvehicle inertia weight class\u201d has the same meaning as"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(b)(2)(C)Vehicle Inertia Weight Class\u2014For purposes of subparagraph (B), the term \u201cvehicle\n                        inertia weight class\u201d has the same meaning as when defined in\n                        regulations prescribed by the Administrator of the Environmental Protection\n                        Agency for purposes of the administration of title II of the Clean\n                        Air Act (42 U.S.C. 7521et\n                        seq.).",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(b)(3)",
+    "source_subsections": [
+      "(b)(3)",
+      "(b)(3)(A)",
+      "(b)(3)(B)",
+      "(b)(3)(C)",
+      "(b)(3)(D)",
+      "(b)(3)(E)"
+    ],
+    "rule_type": "definition",
+    "title": "Qualified Fuel Cell Motor Vehicle",
+    "text": "For purposes of this subsection, the term \u201cnew qualified fuel cell motor vehicle\u201d means a motor vehicle\u2014\u2014which is propelled by power derived from 1 or more cells which convert chemical energy directly into electricity by combining oxygen with hydrogen fuel which is stored on board the vehicle in any form and may or may not require reformation prior to use,\u2014which, in the case of a passenger automobile or light truck, has received on or after the date of the enactment of this section a certificate that such vehicle meets or exceeds the Bin 5 Tier II emission level established in regulations prescribed by the Administrator of the Environmental Protection Agency under section 202(i) of the Clean Air Act for that make and model year vehicle,\u2014the original use of which commences with the taxpayer,\u2014which is acquired for use or lease by the taxpayer and not for resale, and\u2014which is made by a manufacturer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection, the term \u201cnew qualified fuel cell motor vehicle\u201d means a motor vehicle\u2014\u2014which is propelled by power derived from 1 or more cells which convert chemical energy directly into electricity by combining oxygen with hydrogen fuel which is stored on board the vehicle in any form and may or may not require reformation prior to use,\u2014which, in the case of a passenger automobile or light truck, has received on or after the date of the enactment of this section a certificate that such vehicle meets or exceeds the Bin 5 Tier II emission level established in regulations prescribed by the Administrator of the Environmental Protection Agency under section 202(i) of the Clean Air Act for that make and model year vehicle,\u2014the original use of which commences with the taxpayer,\u2014which is acquired for use or lease by the taxpayer and not for resale, and\u2014which is made by a manufacturer."
+    },
+    "cross_references": [
+      {
+        "section": "202(i)",
+        "reason": "ental Protection Agency under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(b)(3)New Qualified Fuel Cell Motor Vehicle\u2014For purposes of this subsection, the term \u201cnew\n                     qualified fuel cell motor vehicle\u201d means a motor vehicle\u2014I.R.C. \u00a7 30B(b)(3)(A)\u2014which is propelled by power derived from\n                        1 or more cells which convert chemical energy directly into electricity\n                        by combining oxygen with hydrogen fuel which is stored on board the\n                        vehicle in any form and may or may not require reformation prior to\n                        use,I.R.C. \u00a7 30B(b)(3)(B)\u2014which, in the case of a passenger automobile\n                        or light truck, has received on or after the date of the enactment\n                        of this section a certificate that such vehicle meets or exceeds the\n                        Bin 5 Tier II emission level established in regulations prescribed\n                        by the Administrator of the Environmental Protection Agency under\n                        section 202(i) of the Clean Air Act for that make and model year vehicle,I.R.C. \u00a7 30B(b)(3)(C)\u2014the original use of which commences with\n                        the taxpayer,I.R.C. \u00a7 30B(b)(3)(D)\u2014which is acquired for use or lease by\n                        the taxpayer and not for resale, andI.R.C. \u00a7 30B(b)(3)(E)\u2014which is made by a manufacturer.",
+    "definitions": {
+      "term": "new qualified fuel cell motor vehicle",
+      "requirements": [
+        "a motor vehicle\u2014\u2014which is propelled by power derived from 1 or more cells which convert chemical energy directly into electricity by combining oxygen with hydrogen fuel which is stored on board the vehicle in any form and may or may not require reformation prior to use,\u2014which, in the case of a passenger automobile or light truck, has received on or after the date of the enactment of this section a certificate that such vehicle meets or exceeds the Bin 5 Tier II emission level established in regulations prescribed by the Administrator of the Environmental Protection Agency under section 202(i) of the Clean Air Act for that make and model year vehicle,\u2014the original use of which commences with the taxpayer,\u2014which is acquired for use or lease by the taxpayer and not for resale, and\u2014which is made by a manufacturer."
+      ]
+    }
+  },
+  {
+    "section": "30B",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "For purposes of subsection (a), the new advanced lean burn technology motor vehicle credit determined under this subsection for the taxable year is the credit amount determined under paragraph (2) with respect to a new advanced lean burn technology motor vehicle placed in service by the taxpayer during the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subsection (a), the new advanced lean burn technology motor vehicle credit determined under this subsection for the taxable year is the credit amount determined under paragraph (2) with respect to a new advanced lean burn technology motor vehicle placed in service by the taxpayer during the taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(c)(1)In General\u2014For purposes of subsection (a), the new advanced lean\n                     burn technology motor vehicle credit determined under this subsection\n                     for the taxable year is the credit amount determined under paragraph\n                     (2) with respect to a new advanced lean burn technology motor vehicle\n                     placed in service by the taxpayer during the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(c)(2)(A)(i)",
+    "source_subsections": [
+      "(c)(2)(A)(i)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "GeneralThe credit amount determined under this paragraph shall be determined in accordance with the following table:In the case of a vehicle which achieves a fuel economy (expressed as a percentage of the 2002 model year city fuel economy) of:The credit amount is:At least 125 percent but less than 150 percent$ 400At least 150 percent but less than 175 percent$ 800At least 175 percent but less than 200 percent$1,200At least 200 percent but less than 225 percent$1,600At least 225 percent but less than 250 percent$2,000At least 250 percent$2,400.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 1200,
+        "text": "$1,200"
+      },
+      {
+        "label": "amount",
+        "value": 1600,
+        "text": "$1,600"
+      },
+      {
+        "label": "amount",
+        "value": 2000,
+        "text": "$2,000"
+      },
+      {
+        "label": "amount",
+        "value": 2400,
+        "text": "$2,400"
+      }
+    ],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 1.25,
+        "text": "125 percent"
+      },
+      {
+        "label": "rate",
+        "value": 1.5,
+        "text": "150 percent"
+      },
+      {
+        "label": "rate",
+        "value": 1.5,
+        "text": "150 percent"
+      },
+      {
+        "label": "rate",
+        "value": 1.75,
+        "text": "175 percent"
+      },
+      {
+        "label": "rate",
+        "value": 1.75,
+        "text": "175 percent"
+      },
+      {
+        "label": "rate",
+        "value": 2.0,
+        "text": "200 percent"
+      },
+      {
+        "label": "rate",
+        "value": 2.0,
+        "text": "200 percent"
+      },
+      {
+        "label": "rate",
+        "value": 2.25,
+        "text": "225 percent"
+      },
+      {
+        "label": "rate",
+        "value": 2.25,
+        "text": "225 percent"
+      },
+      {
+        "label": "rate",
+        "value": 2.5,
+        "text": "250 percent"
+      },
+      {
+        "label": "rate",
+        "value": 2.5,
+        "text": "250 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "GeneralThe credit amount determined under this paragraph shall be determined in accordance with the following table:In the case of a vehicle which achieves a fuel economy (expressed as a percentage of the 2002 model year city fuel economy) of:The credit amount is:At least 125 percent but less than 150 percent$ 400At least 150 percent but less than 175 percent$ 800At least 175 percent but less than 200 percent$1,200At least 200 percent but less than 225 percent$1,600At least 225 percent but less than 250 percent$2,000At least 250 percent$2,400."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(c)(2)(A)(i)In GeneralThe credit amount determined under this paragraph shall\n                        be determined in accordance with the following table:In the case of a vehicle which achieves a fuel\n                                       economy (expressed as a percentage of the 2002 model year city fuel\n                                       economy) of:The credit amount is:At least 125 percent\n                                       but less than 150 percent$  400At least 150 percent\n                                       but less than 175 percent$  800At least 175 percent\n                                       but less than 200 percent$1,200At least 200 percent\n                                       but less than 225 percent$1,600At least 225 percent\n                                       but less than 250 percent$2,000At least 250 percent$2,400.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(c)(2)(A)(ii)",
+    "source_subsections": [
+      "(c)(2)(A)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Model Year City Fuel Economy",
+    "text": "For purposes of clause (i), the 2002 model year city fuel economy with respect to a vehicle shall be determined on a gasoline gallon equivalent basis as determined by the Administrator of the Environmental Protection Agency using the tables provided in subsection (b)(2)(B) with respect to such vehicle.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of clause (i), the 2002 model year city fuel economy with respect to a vehicle shall be determined on a gasoline gallon equivalent basis as determined by the Administrator of the Environmental Protection Agency using the tables provided in subsection (b)(2)(B) with respect to such vehicle."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(c)(2)(A)(ii)2002 Model Year City Fuel Economy\u2014For purposes of clause (i), the 2002 model year city\n                           fuel economy with respect to a vehicle shall be determined on a gasoline\n                           gallon equivalent basis as determined by the Administrator of the\n                           Environmental Protection Agency using the tables provided in subsection\n                           (b)(2)(B) with respect to such vehicle.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(c)(2)(B)",
+    "source_subsections": [
+      "(c)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "CreditThe amount determined under subparagraph (A) with respect to a new advanced lean burn technology motor vehicle shall be increased by the conservation credit amount determined in accordance with the following table:In the case of a vehicle which achieves a fuel savings (expressed in gallons of gasoline) of:The credit amount is:At least 1,200 but less than 1,800$ 250At least 1,800 but less than 2,400$ 500At least 2,400 but less than 3,000$ 750At least 3,000$1,000.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 1000,
+        "text": "$1,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "CreditThe amount determined under subparagraph (A) with respect to a new advanced lean burn technology motor vehicle shall be increased by the conservation credit amount determined in accordance with the following table:In the case of a vehicle which achieves a fuel savings (expressed in gallons of gasoline) of:The credit amount is:At least 1,200 but less than 1,800$ 250At least 1,800 but less than 2,400$ 500At least 2,400 but less than 3,000$ 750At least 3,000$1,000."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(c)(2)(B)Conservation CreditThe amount determined under subparagraph (A) with respect\n                     to a new advanced lean burn technology motor vehicle shall be increased\n                     by the conservation credit amount determined in accordance with the\n                     following table:In the case of a vehicle which achieves a fuel\n                                    savings (expressed in gallons of gasoline) of:The credit amount is:At least 1,200\n                                    but less than 1,800$  250At least 1,800\n                                    but less than 2,400$  500At least 2,400\n                                    but less than 3,000$  750At least 3,000$1,000.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(c)(3)",
+    "source_subsections": [
+      "(c)(3)",
+      "(c)(3)(A)",
+      "(c)(3)(A)(i)",
+      "(c)(3)(A)(ii)",
+      "(c)(3)(A)(iii)",
+      "(c)(3)(A)(iv)",
+      "(c)(3)(A)(iv)(I)",
+      "(c)(3)(A)(iv)(II)",
+      "(c)(3)(B)",
+      "(c)(3)(C)",
+      "(c)(3)(D)"
+    ],
+    "rule_type": "definition",
+    "title": "Advanced Lean Burn Technology Motor Vehicle",
+    "text": "For purposes of this subsection, the term \u201cnew advanced lean burn technology motor vehicle\u201d means a passenger automobile or a light truck\u2014\u2014with an internal combustion engine which\u2014\u2014is designed to operate primarily using more air than is necessary for complete combustion of the fuel,\u2014incorporates direct injection,\u2014achieves at least 125 percent of the 2002 model year city fuel economy,\u2014for 2004 and later model vehicles, has received a certificate that such vehicle meets or exceeds\u2014\u2014in the case of a vehicle having a gross vehicle weight rating of 6,000 pounds or less, the Bin 5 Tier II emission standard established in regulations prescribed by the Administrator of the Environmental Protection Agency under section 202(i) of the Clean Air Act for that make and model year vehicle, and\u2014in the case of a vehicle having a gross vehicle weight rating of more than 6,000 pounds but not more than 8,500 pounds, the Bin 8 Tier II emission standard which is so established,\u2014the original use of which commences with the taxpayer,\u2014which is acquired for use or lease by the taxpayer and not for resale, and\u2014which is made by a manufacturer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 1.25,
+        "text": "125 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection, the term \u201cnew advanced lean burn technology motor vehicle\u201d means a passenger automobile or a light truck\u2014\u2014with an internal combustion engine which\u2014\u2014is designed to operate primarily using more air than is necessary for complete combustion of the fuel,\u2014incorporates direct injection,\u2014achieves at least 125 percent of the 2002 model year city fuel economy,\u2014for 2004 and later model vehicles, has received a certificate that such vehicle meets or exceeds\u2014\u2014in the case of a vehicle having a gross vehicle weight rating of 6,000 pounds or less, the Bin 5 Tier II emission standard established in regulations prescribed by the Administrator of the Environmental Protection Agency under section 202(i) of the Clean Air Act for that make and model year vehicle, and\u2014in the case of a vehicle having a gross vehicle weight rating of more than 6,000 pounds but not more than 8,500 pounds, the Bin 8 Tier II emission standard which is so established,\u2014the original use of which commences with the taxpayer,\u2014which is acquired for use or lease by the taxpayer and not for resale, and\u2014which is made by a manufacturer."
+    },
+    "cross_references": [
+      {
+        "section": "202(i)",
+        "reason": "ental Protection Agency under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(c)(3)New Advanced Lean Burn Technology Motor Vehicle\u2014For purposes of this subsection, the term \u201cnew\n                     advanced lean burn technology motor vehicle\u201d means a passenger\n                     automobile or a light truck\u2014I.R.C. \u00a7 30B(c)(3)(A)\u2014with an internal combustion engine which\u2014I.R.C. \u00a7 30B(c)(3)(A)(i)\u2014is designed to operate primarily using\n                           more air than is necessary for complete combustion of the fuel,I.R.C. \u00a7 30B(c)(3)(A)(ii)\u2014incorporates direct injection,I.R.C. \u00a7 30B(c)(3)(A)(iii)\u2014achieves at least 125 percent of the\n                           2002 model year city fuel economy,I.R.C. \u00a7 30B(c)(3)(A)(iv)\u2014for 2004 and later model vehicles, has\n                           received a certificate that such vehicle meets or exceeds\u2014I.R.C. \u00a7 30B(c)(3)(A)(iv)(I)\u2014in the case of a vehicle having a gross\n                              vehicle weight rating of 6,000 pounds or less, the Bin 5 Tier II emission\n                              standard established in regulations prescribed by the Administrator\n                              of the Environmental Protection Agency under section 202(i) of the\n                              Clean Air Act for that make and model year vehicle, andI.R.C. \u00a7 30B(c)(3)(A)(iv)(II)\u2014in the case of a vehicle having a gross\n                              vehicle weight rating of more than 6,000 pounds but not more than\n                              8,500 pounds, the Bin 8 Tier II emission standard which is so established,I.R.C. \u00a7 30B(c)(3)(B)\u2014the original use of which commences with\n                        the taxpayer,I.R.C. \u00a7 30B(c)(3)(C)\u2014which is acquired for use or lease by\n                        the taxpayer and not for resale, andI.R.C. \u00a7 30B(c)(3)(D)\u2014which is made by a manufacturer.",
+    "definitions": {
+      "term": "new advanced lean burn technology motor vehicle",
+      "requirements": [
+        "a passenger automobile or a light truck\u2014\u2014with an internal combustion engine which\u2014\u2014is designed to operate primarily using more air than is necessary for complete combustion of the fuel,\u2014incorporates direct injection,\u2014achieves at least 125 percent of the 2002 model year city fuel economy,\u2014for 2004 and later model vehicles, has received a certificate that such vehicle meets or exceeds\u2014\u2014in the case of a vehicle having a gross vehicle weight rating of 6,000 pounds or less, the Bin 5 Tier II emission standard established in regulations prescribed by the Administrator of the Environmental Protection Agency under section 202(i) of the Clean Air Act for that make and model year vehicle, and\u2014in the case of a vehicle having a gross vehicle weight rating of more than 6,000 pounds but not more than 8,500 pounds, the Bin 8 Tier II emission standard which is so established,\u2014the original use of which commences with the taxpayer,\u2014which is acquired for use or lease by the taxpayer and not for resale, and\u2014which is made by a manufacturer."
+      ]
+    }
+  },
+  {
+    "section": "30B",
+    "subsection": "(c)(4)(A)",
+    "source_subsections": [
+      "(c)(4)(A)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "120,000 divided by the 2002 model year city fuel economy for the vehicle inertia weight class, over",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "120,000 divided by the 2002 model year city fuel economy for the vehicle inertia weight class, over"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(c)(4)(A)\u2014120,000 divided by the 2002 model year\n                        city fuel economy for the vehicle inertia weight class, over",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(c)(4)(B)",
+    "source_subsections": [
+      "(c)(4)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "120,000 divided by the city fuel economy for such vehicle.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "120,000 divided by the city fuel economy for such vehicle."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(c)(4)(B)\u2014120,000 divided by the city fuel economy\n                        for such vehicle.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "For purposes of subsection (a), the new qualified hybrid motor vehicle credit determined under this subsection for the taxable year is the credit amount determined under paragraph (2) with respect to a new qualified hybrid motor vehicle placed in service by the taxpayer during the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subsection (a), the new qualified hybrid motor vehicle credit determined under this subsection for the taxable year is the credit amount determined under paragraph (2) with respect to a new qualified hybrid motor vehicle placed in service by the taxpayer during the taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(d)(1)In General\u2014For purposes of subsection (a), the new qualified hybrid\n                     motor vehicle credit determined under this subsection for the taxable\n                     year is the credit amount determined under paragraph (2) with respect\n                     to a new qualified hybrid motor vehicle placed in service by the taxpayer\n                     during the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(d)(2)(A)(i)",
+    "source_subsections": [
+      "(d)(2)(A)(i)"
+    ],
+    "rule_type": "condition",
+    "title": "Economy",
+    "text": "The amount determined under this clause is the amount which would be determined under subsection (c)(2)(A) if such vehicle were a vehicle referred to in such subsection.",
+    "conditions": [
+      "such vehicle were a vehicle referred to in such subsection."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such vehicle were a vehicle referred to in such subsection."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount determined under this clause is the amount which would be determined under subsection (c)(2)(A)"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(d)(2)(A)(i)Fuel Economy\u2014The amount determined under this clause is the amount\n                           which would be determined under subsection (c)(2)(A) if such vehicle\n                           were a vehicle referred to in such subsection.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(d)(2)(A)(ii)",
+    "source_subsections": [
+      "(d)(2)(A)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Credit",
+    "text": "The amount determined under this clause is the amount which would be determined under subsection (c)(2)(B) if such vehicle were a vehicle referred to in such subsection.",
+    "conditions": [
+      "such vehicle were a vehicle referred to in such subsection."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such vehicle were a vehicle referred to in such subsection."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount determined under this clause is the amount which would be determined under subsection (c)(2)(B)"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(d)(2)(A)(ii)Conservation Credit\u2014The amount determined under this clause is the amount\n                           which would be determined under subsection (c)(2)(B) if such vehicle\n                           were a vehicle referred to in such subsection.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(d)(2)(B)(i)",
+    "source_subsections": [
+      "(d)(2)(B)(i)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "In the case of any new qualified hybrid motor vehicle to which subparagraph (A) does not apply, the amount determined under this paragraph is the amount equal to the applicable percentage of the qualified incremental hybrid cost of the vehicle as certified under clause (v).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any new qualified hybrid motor vehicle to which subparagraph (A) does not apply, the amount determined under this paragraph is the amount equal to the applicable percentage of the qualified incremental hybrid cost of the vehicle as certified under clause (v)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(d)(2)(B)(i)In General\u2014In the case of any new qualified hybrid motor vehicle\n                           to which subparagraph (A) does not apply, the amount determined under\n                           this paragraph is the amount equal to the applicable percentage of\n                           the qualified incremental hybrid cost of the vehicle as certified\n                           under clause (v).",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(d)(2)(B)(ii)",
+    "source_subsections": [
+      "(d)(2)(B)(ii)",
+      "(d)(2)(B)(ii)(I)",
+      "(d)(2)(B)(ii)(II)",
+      "(d)(2)(B)(ii)(III)"
+    ],
+    "rule_type": "condition",
+    "title": "Percentage",
+    "text": "For purposes of clause (i), the applicable percentage is\u2014\u201420 percent if the vehicle achieves an increase in city fuel economy relative to a comparable vehicle of at least 30 percent but less than 40 percent,\u201430 percent if the vehicle achieves such an increase of at least 40 percent but less than 50 percent, and\u201440 percent if the vehicle achieves such an increase of at least 50 percent.",
+    "conditions": [
+      "the vehicle achieves an increase in city fuel economy relative to a comparable vehicle of at least 30 percent but less than 40 percent,\u201430 percent",
+      "the vehicle achieves such an increase of at least 40 percent but less than 50 percent, and\u201440 percent",
+      "the vehicle achieves such an increase of at least 50 percent."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.2,
+        "text": "20 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.3,
+        "text": "30 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.4,
+        "text": "40 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.3,
+        "text": "30 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.4,
+        "text": "40 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.4,
+        "text": "40 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the vehicle achieves an increase in city fuel economy relative to a comparable vehicle of at least 30 percent but less than 40 percent,\u201430 percent",
+        "the vehicle achieves such an increase of at least 40 percent but less than 50 percent, and\u201440 percent",
+        "the vehicle achieves such an increase of at least 50 percent."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of clause (i), the applicable percentage is\u2014\u201420 percent"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(d)(2)(B)(ii)Applicable Percentage\u2014For purposes of clause (i), the applicable percentage\n                           is\u2014I.R.C. \u00a7 30B(d)(2)(B)(ii)(I)\u201420 percent if the vehicle achieves an\n                              increase in city fuel economy relative to a comparable vehicle of\n                              at least 30 percent but less than 40 percent,I.R.C. \u00a7 30B(d)(2)(B)(ii)(II)\u201430 percent if the vehicle achieves such\n                              an increase of at least 40 percent but less than 50 percent, andI.R.C. \u00a7 30B(d)(2)(B)(ii)(III)\u201440 percent if the vehicle achieves\n                              such an increase of at least 50 percent.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(d)(2)(B)(iii)",
+    "source_subsections": [
+      "(d)(2)(B)(iii)",
+      "(d)(2)(B)(iii)(I)",
+      "(d)(2)(B)(iii)(II)",
+      "(d)(2)(B)(iii)(III)"
+    ],
+    "rule_type": "condition",
+    "title": "Incremental Hybrid Cost",
+    "text": "For purposes of this subparagraph, the qualified incremental hybrid cost of any vehicle is equal to the amount of the excess of the manufacturer's suggested retail price for such vehicle over such price for a comparable vehicle, to the extent such amount does not exceed\u2014\u2014$7,500, if such vehicle has a gross vehicle weight rating of not more than 14,000 pounds,\u2014$15,000, if such vehicle has a gross vehicle weight rating of more than 14,000 pounds but not more than 26,000 pounds, and\u2014$30,000, if such vehicle has a gross vehicle weight rating of more than 26,000 pounds.",
+    "conditions": [
+      "such vehicle has a gross vehicle weight rating of not more than 14,000 pounds,\u2014$15,000,",
+      "such vehicle has a gross vehicle weight rating of more than 14,000 pounds but not more than 26,000 pounds, and\u2014$30,000,",
+      "such vehicle has a gross vehicle weight rating of more than 26,000 pounds."
+    ],
+    "computations": [
+      {
+        "operation": "subtraction",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 7500,
+        "text": "$7,500,"
+      },
+      {
+        "label": "amount",
+        "value": 15000,
+        "text": "$15,000,"
+      },
+      {
+        "label": "amount",
+        "value": 30000,
+        "text": "$30,000,"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such vehicle has a gross vehicle weight rating of not more than 14,000 pounds,\u2014$15,000,",
+        "such vehicle has a gross vehicle weight rating of more than 14,000 pounds but not more than 26,000 pounds, and\u2014$30,000,",
+        "such vehicle has a gross vehicle weight rating of more than 26,000 pounds."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subparagraph, the qualified incremental hybrid cost of any vehicle is equal to the amount of the excess of the manufacturer's suggested retail price for such vehicle over such price for a comparable vehicle, to the extent such amount does not exceed\u2014\u2014$7,500,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(d)(2)(B)(iii)Qualified Incremental Hybrid Cost\u2014For purposes of this subparagraph, the qualified incremental\n                           hybrid cost of any vehicle is equal to the amount of the excess of\n                           the manufacturer's suggested retail price for such vehicle over such\n                           price for a comparable vehicle, to the extent such amount does not\n                           exceed\u2014I.R.C. \u00a7 30B(d)(2)(B)(iii)(I)\u2014$7,500, if such vehicle has a gross vehicle\n                              weight rating of not more than 14,000 pounds,I.R.C. \u00a7 30B(d)(2)(B)(iii)(II)\u2014$15,000, if such vehicle has a gross\n                              vehicle weight rating of more than 14,000 pounds but not more than\n                              26,000 pounds, andI.R.C. \u00a7 30B(d)(2)(B)(iii)(III)\u2014$30,000, if such vehicle has a gross\n                              vehicle weight rating of more than 26,000 pounds.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(d)(2)(B)(iv)",
+    "source_subsections": [
+      "(d)(2)(B)(iv)"
+    ],
+    "rule_type": "definition",
+    "title": "Vehicle",
+    "text": "For purposes of this subparagraph, the term \u201ccomparable vehicle\u201d means, with respect to any new qualified hybrid motor vehicle, any vehicle which is powered solely by a gasoline or diesel internal combustion engine and which is comparable in weight, size, and use to such vehicle.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subparagraph, the term \u201ccomparable vehicle\u201d means, with respect to any new qualified hybrid motor vehicle, any vehicle which is powered solely by a gasoline or diesel internal combustion engine and which is comparable in weight, size, and use to such vehicle."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(d)(2)(B)(iv)Comparable Vehicle\u2014For purposes of this subparagraph, the term \u201ccomparable\n                           vehicle\u201d means, with respect to any new qualified hybrid motor\n                           vehicle, any vehicle which is powered solely by a gasoline or diesel\n                           internal combustion engine and which is comparable in weight, size,\n                           and use to such vehicle.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(d)(2)(B)(v)",
+    "source_subsections": [
+      "(d)(2)(B)(v)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "A certification described in clause (i) shall be made by the manufacturer and shall be determined in accordance with guidance prescribed by the Secretary. Such guidance shall specify procedures and methods for calculating fuel economy savings and incremental hybrid costs.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "A certification described in clause (i) shall be made by the manufacturer and shall be determined in accordance with guidance prescribed by the Secretary. Such guidance shall specify procedures and methods for calculating fuel economy savings and incremental hybrid costs."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(d)(2)(B)(v)Certification\u2014A certification described in clause (i) shall be made\n                           by the manufacturer and shall be determined in accordance with guidance\n                           prescribed by the Secretary. Such guidance shall specify procedures\n                           and methods for calculating fuel economy savings and incremental hybrid\n                           costs.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(d)(3)(A)",
+    "source_subsections": [
+      "(d)(3)(A)",
+      "(d)(3)(A)(i)",
+      "(d)(3)(A)(i)(I)",
+      "(d)(3)(A)(i)(II)",
+      "(d)(3)(A)(ii)",
+      "(d)(3)(A)(ii)(I)",
+      "(d)(3)(A)(ii)(II)",
+      "(d)(3)(A)(iii)",
+      "(d)(3)(A)(iii)(I)",
+      "(d)(3)(A)(iii)(II)",
+      "(d)(3)(A)(iii)(III)",
+      "(d)(3)(A)(iv)",
+      "(d)(3)(A)(v)",
+      "(d)(3)(A)(vi)",
+      "(d)(3)(A)(vii)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cnew qualified hybrid motor vehicle\u201d means a motor vehicle\u2014\u2014which draws propulsion energy from onboard sources of stored energy which are both\u2014\u2014an internal combustion or heat engine using consumable fuel, and\u2014a rechargeable energy storage system,\u2014which, in the case of a vehicle to which paragraph (2)(A) applies, has received a certificate of conformity under the Clean Air Act and meets or exceeds the equivalent qualifying California low emission vehicle standard under section 243(e)(2) of the Clean Air Act for that make and model year, and\u2014in the case of a vehicle having a gross vehicle weight rating of 6,000 pounds or less, the Bin 5 Tier II emission standard established in regulations prescribed by the Administrator of the Environmental Protection Agency under section 202(i) of the Clean Air Act for that make and model year vehicle, and\u2014in the case of a vehicle having a gross vehicle weight rating of more than 6,000 pounds but not more than 8,500 pounds, the Bin 8 Tier II emission standard which is so established,\u2014which has a maximum available power of at least\u2014\u20144 percent in the case of a vehicle to which paragraph (2)(A) applies,\u201410 percent in the case of a vehicle which has a gross vehicle weight rating of more than 8,500 pounds and not more than 14,000 pounds, and\u201415 percent in the case of a vehicle in excess of 14,000 pounds,\u2014which, in the case of a vehicle to which paragraph (2)(B) applies, has an internal combustion or heat engine which has received a certificate of conformity under the Clean Air Act as meeting the emission standards set in the regulations prescribed by the Administrator of the Environmental Protection Agency for 2004 through 2007 model year diesel heavy duty engines or ottocycle heavy duty engines, as applicable,\u2014the original use of which commences with the taxpayer,\u2014which is acquired for use or lease by the taxpayer and not for resale, and\u2014which is made by a manufacturer.Such term shall not include any vehicle which is not a passenger automobile or light truck if such vehicle has a gross vehicle weight rating of less than 8,500 pounds.",
+    "conditions": [
+      "such vehicle has a gross vehicle weight rating of less than 8,500 pounds."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.04,
+        "text": "4 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.1,
+        "text": "10 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.15,
+        "text": "15 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such vehicle has a gross vehicle weight rating of less than 8,500 pounds."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cnew qualified hybrid motor vehicle\u201d means a motor vehicle\u2014\u2014which draws propulsion energy from onboard sources of stored energy which are both\u2014\u2014an internal combustion or heat engine using consumable fuel, and\u2014a rechargeable energy storage system,\u2014which, in the case of a vehicle to which paragraph (2)(A) applies, has received a certificate of conformity under the Clean Air Act and meets or exceeds the equivalent qualifying California low emission vehicle standard under section 243(e)(2) of the Clean Air Act for that make and model year, and\u2014in the case of a vehicle having a gross vehicle weight rating of 6,000 pounds or less, the Bin 5 Tier II emission standard established in regulations prescribed by the Administrator of the Environmental Protection Agency under section 202(i) of the Clean Air Act for that make and model year vehicle, and\u2014in the case of a vehicle having a gross vehicle weight rating of more than 6,000 pounds but not more than 8,500 pounds, the Bin 8 Tier II emission standard which is so established,\u2014which has a maximum available power of at least\u2014\u20144 percent in the case of a vehicle to which paragraph (2)(A) applies,\u201410 percent in the case of a vehicle which has a gross vehicle weight rating of more than 8,500 pounds and not more than 14,000 pounds, and\u201415 percent in the case of a vehicle in excess of 14,000 pounds,\u2014which, in the case of a vehicle to which paragraph (2)(B) applies, has an internal combustion or heat engine which has received a certificate of conformity under the Clean Air Act as meeting the emission standards set in the regulations prescribed by the Administrator of the Environmental Protection Agency for 2004 through 2007 model year diesel heavy duty engines or ottocycle heavy duty engines, as applicable,\u2014the original use of which commences with the taxpayer,\u2014which is acquired for use or lease by the taxpayer and not for resale, and\u2014which is made by a manufacturer.Such term shall not include any vehicle which is not a passenger automobile or light truck"
+    },
+    "cross_references": [
+      {
+        "section": "243(e)(2)",
+        "reason": "ission vehicle standard under..."
+      },
+      {
+        "section": "202(i)",
+        "reason": "ental Protection Agency under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(d)(3)(A)In General\u2014The term \u201cnew qualified hybrid motor vehicle\u201d\n                        means a motor vehicle\u2014I.R.C. \u00a7 30B(d)(3)(A)(i)\u2014which draws propulsion energy from onboard\n                           sources of stored energy which are both\u2014I.R.C. \u00a7 30B(d)(3)(A)(i)(I)\u2014an internal combustion or heat engine\n                              using consumable fuel, andI.R.C. \u00a7 30B(d)(3)(A)(i)(II)\u2014a rechargeable energy storage system,I.R.C. \u00a7 30B(d)(3)(A)(ii)\u2014which, in the case of a vehicle to which\n                           paragraph (2)(A) applies, has received a certificate of conformity\n                           under the Clean Air Act and meets or exceeds the equivalent qualifying\n                           California low emission vehicle standard under section 243(e)(2) of\n                           the Clean Air Act for that make and model year, andI.R.C. \u00a7 30B(d)(3)(A)(ii)(I)\u2014in the case of a vehicle having a gross\n                              vehicle weight rating of 6,000 pounds or less, the Bin 5 Tier II emission\n                              standard established in regulations prescribed by the Administrator\n                              of the Environmental Protection Agency under section 202(i) of the\n                              Clean Air Act for that make and model year vehicle, andI.R.C. \u00a7 30B(d)(3)(A)(ii)(II)\u2014in the case of a vehicle having a gross\n                              vehicle weight rating of more than 6,000 pounds but not more than\n                              8,500 pounds, the Bin 8 Tier II emission standard which is so established,I.R.C. \u00a7 30B(d)(3)(A)(iii)\u2014which has a maximum available power\n                           of at least\u2014I.R.C. \u00a7 30B(d)(3)(A)(iii)(I)\u20144 percent in the case of a vehicle to\n                              which paragraph (2)(A) applies,I.R.C. \u00a7 30B(d)(3)(A)(iii)(II)\u201410 percent in the case of a vehicle\n                              which has a gross vehicle weight rating of more than 8,500 pounds\n                              and not more than 14,000 pounds, andI.R.C. \u00a7 30B(d)(3)(A)(iii)(III)\u201415 percent in the case of a vehicle\n                              in excess of 14,000 pounds,I.R.C. \u00a7 30B(d)(3)(A)(iv)\u2014which, in the case of a vehicle to which\n                           paragraph (2)(B) applies, has an internal combustion or heat engine\n                           which has received a certificate of conformity under the Clean Air\n                           Act as meeting the emission standards set in the regulations prescribed\n                           by the Administrator of the Environmental Protection Agency for 2004\n                           through 2007 model year diesel heavy duty engines or ottocycle heavy\n                           duty engines, as applicable,I.R.C. \u00a7 30B(d)(3)(A)(v)\u2014the original use of which commences with\n                           the taxpayer,I.R.C. \u00a7 30B(d)(3)(A)(vi)\u2014which is acquired for use or lease by\n                           the taxpayer and not for resale, andI.R.C. \u00a7 30B(d)(3)(A)(vii)\u2014which is made by a manufacturer.Such term shall\n                           not include any vehicle which is not a passenger automobile or light\n                           truck if such vehicle has a gross vehicle weight rating of less than\n                           8,500 pounds.",
+    "definitions": {
+      "term": "new qualified hybrid motor vehicle",
+      "requirements": [
+        "a motor vehicle\u2014\u2014which draws propulsion energy from onboard sources of stored energy which are both\u2014\u2014an internal combustion or heat engine using consumable fuel, and\u2014a rechargeable energy storage system,\u2014which, in the case of a vehicle to which paragraph (2)(A) applies, has received a certificate of conformity under the Clean Air Act and meets or exceeds the equivalent qualifying California low emission vehicle standard under section 243(e)(2) of the Clean Air Act for that make and model year, and\u2014in the case of a vehicle having a gross vehicle weight rating of 6,000 pounds or less, the Bin 5 Tier II emission standard established in regulations prescribed by the Administrator of the Environmental Protection Agency under section 202(i) of the Clean Air Act for that make and model year vehicle, and\u2014in the case of a vehicle having a gross vehicle weight rating of more than 6,000 pounds but not more than 8,500 pounds, the Bin 8 Tier II emission standard which is so established,\u2014which has a maximum available power of at least\u2014\u20144 percent in the case of a vehicle to which paragraph (2)(A) applies,\u201410 percent in the case of a vehicle which has a gross vehicle weight rating of more than 8,500 pounds and not more than 14,000 pounds, and\u201415 percent in the case of a vehicle in excess of 14,000 pounds,\u2014which, in the case of a vehicle to which paragraph (2)(B) applies, has an internal combustion or heat engine which has received a certificate of conformity under the Clean Air Act as meeting the emission standards set in the regulations prescribed by the Administrator of the Environmental Protection Agency for 2004 through 2007 model year diesel heavy duty engines or ottocycle heavy duty engines, as applicable,\u2014the original use of which commences with the taxpayer,\u2014which is acquired for use or lease by the taxpayer and not for resale, and\u2014which is made by a manufacturer.Such term shall not include any vehicle which is not a passenger automobile or light truck if such vehicle has a gross vehicle weight rating of less than 8,500 pounds."
+      ]
+    }
+  },
+  {
+    "section": "30B",
+    "subsection": "(d)(3)(B)",
+    "source_subsections": [
+      "(d)(3)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Fuel",
+    "text": "For purposes of subparagraph (A)(i)(I), the term \u201cconsumable fuel\u201d means any solid, liquid, or gaseous matter which releases energy when consumed by an auxiliary power unit.",
+    "conditions": [
+      "consumed by an auxiliary power unit."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "consumed by an auxiliary power unit."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph (A)(i)(I), the term \u201cconsumable fuel\u201d means any solid, liquid, or gaseous matter which releases energy"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(d)(3)(B)Consumable Fuel\u2014For purposes of subparagraph (A)(i)(I), the term \u201cconsumable\n                        fuel\u201d means any solid, liquid, or gaseous matter which releases\n                        energy when consumed by an auxiliary power unit.",
+    "definitions": {
+      "term": "consumable fuel",
+      "requirements": [
+        "any solid, liquid, or gaseous matter which releases energy when consumed by an auxiliary power unit."
+      ]
+    }
+  },
+  {
+    "section": "30B",
+    "subsection": "(d)(3)(C)(i)",
+    "source_subsections": [
+      "(d)(3)(C)(i)"
+    ],
+    "rule_type": "definition",
+    "title": "Passenger Automobiles And Light Trucks",
+    "text": "In the case of a vehicle to which paragraph (2)(A) applies, the term \u201cmaximum available power\u201d means the maximum power available from the rechargeable energy storage system, during a standard 10 second pulse power or equivalent test, divided by such maximum power and the SAE net power of the heat engine.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a vehicle to which paragraph (2)(A) applies, the term \u201cmaximum available power\u201d means the maximum power available from the rechargeable energy storage system, during a standard 10 second pulse power or equivalent test, divided by such maximum power and the SAE net power of the heat engine."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(d)(3)(C)(i)Certain Passenger Automobiles And Light Trucks\u2014In the case of a vehicle to which paragraph (2)(A) applies,\n                           the term \u201cmaximum available power\u201d means the maximum power\n                           available from the rechargeable energy storage system, during a standard\n                           10 second pulse power or equivalent test, divided by such maximum\n                           power and the SAE net power of the heat engine.",
+    "definitions": {
+      "term": "maximum available power",
+      "requirements": [
+        "the maximum power available from the rechargeable energy storage system, during a standard 10 second pulse power or equivalent test, divided by such maximum power and the SAE net power of the heat engine."
+      ]
+    }
+  },
+  {
+    "section": "30B",
+    "subsection": "(d)(3)(C)(ii)",
+    "source_subsections": [
+      "(d)(3)(C)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Motor Vehicles",
+    "text": "In the case of a vehicle to which paragraph (2)(B) applies, the term \u201cmaximum available power\u201d means the maximum power available from the rechargeable energy storage system, during a standard 10 second pulse power or equivalent test, divided by the vehicle's total traction power. For purposes of the preceding sentence, the term \u201ctotal traction power\u201d means the sum of the peak power from the rechargeable energy storage system and the heat engine peak power of the vehicle, except that if such storage system is the sole means by which the vehicle can be driven, the total traction power is the peak power of such storage system.",
+    "conditions": [
+      "such storage system is the sole means by which the vehicle can be driven, the total traction power is the peak power of such storage system."
+    ],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such storage system is the sole means by which the vehicle can be driven, the total traction power is the peak power of such storage system."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "that"
+      ],
+      "result": "In the case of a vehicle to which paragraph (2)(B) applies, the term \u201cmaximum available power\u201d means the maximum power available from the rechargeable energy storage system, during a standard 10 second pulse power or equivalent test, divided by the vehicle's total traction power. For purposes of the preceding sentence, the term \u201ctotal traction power\u201d means the sum of the peak power from the rechargeable energy storage system and the heat engine peak power of the vehicle,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(d)(3)(C)(ii)Other Motor Vehicles\u2014In the case of a vehicle to which paragraph (2)(B) applies,\n                           the term \u201cmaximum available power\u201d means the maximum power\n                           available from the rechargeable energy storage system, during a standard\n                           10 second pulse power or equivalent test, divided by the vehicle's\n                           total traction power. For purposes of the preceding sentence, the\n                           term \u201ctotal traction power\u201d means the sum of the peak\n                           power from the rechargeable energy storage system and the heat engine\n                           peak power of the vehicle, except that if such storage system is the\n                           sole means by which the vehicle can be driven, the total traction\n                           power is the peak power of such storage system.",
+    "definitions": {
+      "term": "maximum available power",
+      "requirements": [
+        "the maximum power available from the rechargeable energy storage system, during a standard 10 second pulse power or equivalent test, divided by the vehicle's total traction power. For purposes of the preceding sentence, the term \u201ctotal traction power\u201d means the sum of the peak power from the rechargeable energy storage system and the heat engine peak power of the vehicle, except that if such storage system is the sole means by which the vehicle can be driven, the total traction power is the peak power of such storage system."
+      ]
+    }
+  },
+  {
+    "section": "30B",
+    "subsection": "(d)(3)(D)",
+    "source_subsections": [
+      "(d)(3)(D)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Plug",
+    "text": "in Vehicles\u2014Any vehicle with respect to which a credit is allowable under section30D(determined without regard to subsection(c)thereof) shall not be taken into account under this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "in Vehicles\u2014Any vehicle with respect to which a credit is allowable under section30D(determined without regard to subsection(c)thereof) shall not be taken into account under this section."
+    },
+    "cross_references": [
+      {
+        "section": "30D",
+        "reason": "h a credit is allowable under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(d)(3)(D)Exclusion Of Plug-in Vehicles\u2014Any vehicle with respect to which\n                        a credit is allowable under section30D(determined\n                        without regard to subsection(c)thereof)\n                        shall not be taken into account under this section.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(e)(1)",
+    "source_subsections": [
+      "(e)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Credit",
+    "text": "Except as provided in paragraph (5), the new qualified alternative fuel motor vehicle credit determined under this subsection is an amount equal to the applicable percentage of the incremental cost of any new qualified alternative fuel motor vehicle placed in service by the taxpayer during the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [
+      {
+        "applies_when": "paragraph (5)",
+        "effect": "See referenced section"
+      }
+    ],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as provided in paragraph (5), the new qualified alternative fuel motor vehicle credit determined under this subsection is an amount equal to the applicable percentage of the incremental cost of any new qualified alternative fuel motor vehicle placed in service by the taxpayer during the taxable year."
+      ],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(e)(1)Allowance Of Credit\u2014Except as provided in paragraph (5), the new qualified\n                     alternative fuel motor vehicle credit determined under this subsection\n                     is an amount equal to the applicable percentage of the incremental\n                     cost of any new qualified alternative fuel motor vehicle placed in\n                     service by the taxpayer during the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(e)(2)(A)",
+    "source_subsections": [
+      "(e)(2)(A)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "50 percent, plus",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "50 percent, plus"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(e)(2)(A)\u201450 percent, plus",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(e)(2)(B)",
+    "source_subsections": [
+      "(e)(2)(B)",
+      "(e)(2)(B)(i)",
+      "(e)(2)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "30 percent, if such vehicle\u2014\u2014has received a certificate of conformity under the Clean Air Act and meets or exceeds the most stringent standard available for certification under the Clean Air Act for that make and model year vehicle (other than a zero emission standard), or\u2014has received an order certifying the vehicle as meeting the same requirements as vehicles which may be sold or leased in California and meets or exceeds the most stringent standard available for certification under the State laws of California (enacted in accordance with a waiver granted under section 209(b) of the Clean Air Act) for that make and model year vehicle (other than a zero emission standard).For purposes of the preceding sentence, in the case of any new qualified alternative fuel motor vehicle which weighs more than 14,000 pounds gross vehicle weight rating, the most stringent standard available shall be such standard available for certification on the date of the enactment of the Energy Tax Incentives Act of 2005.",
+    "conditions": [
+      "such vehicle\u2014\u2014has received a certificate of conformity under the Clean Air Act and meets or exceeds the most stringent standard available for certification under the Clean Air Act for that make and model year vehicle (other than a zero emission standard), or\u2014has received an order certifying the vehicle as meeting the same requirements as vehicles which may be sold or leased in California and meets or exceeds the most stringent standard available for certification under the State laws of California (enacted in accordance with a waiver granted under section 209(b) of the Clean Air Act) for that make and model year vehicle (other than a zero emission standard).For purposes of the preceding sentence, in the case of any new qualified alternative fuel motor vehicle which weighs more than 14,000 pounds gross vehicle weight rating, the most stringent standard available shall be such standard available for certification on the date of the enactment of the Energy Tax Incentives Act of 2005."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.3,
+        "text": "30 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such vehicle\u2014\u2014has received a certificate of conformity under the Clean Air Act and meets or exceeds the most stringent standard available for certification under the Clean Air Act for that make and model year vehicle (other than a zero emission standard), or\u2014has received an order certifying the vehicle as meeting the same requirements as vehicles which may be sold or leased in California and meets or exceeds the most stringent standard available for certification under the State laws of California (enacted in accordance with a waiver granted under section 209(b) of the Clean Air Act) for that make and model year vehicle (other than a zero emission standard).For purposes of the preceding sentence, in the case of any new qualified alternative fuel motor vehicle which weighs more than 14,000 pounds gross vehicle weight rating, the most stringent standard available shall be such standard available for certification on the date of the enactment of the Energy Tax Incentives Act of 2005."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "30 percent,"
+    },
+    "cross_references": [
+      {
+        "section": "209(b)",
+        "reason": "e with a waiver granted under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(e)(2)(B)\u201430 percent, if such vehicle\u2014I.R.C. \u00a7 30B(e)(2)(B)(i)\u2014has received a certificate of conformity\n                           under the Clean Air Act and meets or exceeds the most stringent standard\n                           available for certification under the Clean Air Act for that make\n                           and model year vehicle (other than a zero emission standard), orI.R.C. \u00a7 30B(e)(2)(B)(ii)\u2014has received an order certifying the\n                           vehicle as meeting the same requirements as vehicles which may be\n                           sold or leased in California and meets or exceeds the most stringent\n                           standard available for certification under the State laws of California\n                           (enacted in accordance with a waiver granted under section 209(b)\n                           of the Clean Air Act) for that make and model year vehicle (other\n                           than a zero emission standard).For purposes of\n                           the preceding sentence, in the case of any new qualified alternative\n                           fuel motor vehicle which weighs more than 14,000 pounds gross vehicle\n                           weight rating, the most stringent standard available shall be such\n                           standard available for certification on the date of the enactment\n                           of the Energy Tax Incentives Act of 2005.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(e)(3)(A)",
+    "source_subsections": [
+      "(e)(3)(A)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$5,000, if such vehicle has a gross vehicle weight rating of not more than 8,500 pounds,",
+    "conditions": [
+      "such vehicle has a gross vehicle weight rating of not more than 8,500 pounds,"
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 5000,
+        "text": "$5,000,"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such vehicle has a gross vehicle weight rating of not more than 8,500 pounds,"
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$5,000,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(e)(3)(A)\u2014$5,000, if such vehicle has a gross vehicle\n                        weight rating of not more than 8,500 pounds,",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(e)(3)(B)",
+    "source_subsections": [
+      "(e)(3)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$10,000, if such vehicle has a gross vehicle weight rating of more than 8,500 pounds but not more than 14,000 pounds,",
+    "conditions": [
+      "such vehicle has a gross vehicle weight rating of more than 8,500 pounds but not more than 14,000 pounds,"
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 10000,
+        "text": "$10,000,"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such vehicle has a gross vehicle weight rating of more than 8,500 pounds but not more than 14,000 pounds,"
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$10,000,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(e)(3)(B)\u2014$10,000, if such vehicle has a gross\n                        vehicle weight rating of more than 8,500 pounds but not more than\n                        14,000 pounds,",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(e)(3)(C)",
+    "source_subsections": [
+      "(e)(3)(C)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$25,000, if such vehicle has a gross vehicle weight rating of more than 14,000 pounds but not more than 26,000 pounds, and",
+    "conditions": [
+      "such vehicle has a gross vehicle weight rating of more than 14,000 pounds but not more than 26,000 pounds, and"
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 25000,
+        "text": "$25,000,"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such vehicle has a gross vehicle weight rating of more than 14,000 pounds but not more than 26,000 pounds, and"
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$25,000,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(e)(3)(C)\u2014$25,000, if such vehicle has a gross\n                        vehicle weight rating of more than 14,000 pounds but not more than\n                        26,000 pounds, and",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(e)(3)(D)",
+    "source_subsections": [
+      "(e)(3)(D)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$40,000, if such vehicle has a gross vehicle weight rating of more than 26,000 pounds.",
+    "conditions": [
+      "such vehicle has a gross vehicle weight rating of more than 26,000 pounds."
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 40000,
+        "text": "$40,000,"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such vehicle has a gross vehicle weight rating of more than 26,000 pounds."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$40,000,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(e)(3)(D)\u2014$40,000, if such vehicle has a gross\n                        vehicle weight rating of more than 26,000 pounds.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(e)(4)(A)",
+    "source_subsections": [
+      "(e)(4)(A)",
+      "(e)(4)(A)(i)",
+      "(e)(4)(A)(ii)",
+      "(e)(4)(A)(iii)",
+      "(e)(4)(A)(iv)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cnew qualified alternative fuel motor vehicle\u201d means any motor vehicle\u2014\u2014which is only capable of operating on an alternative fuel,\u2014the original use of which commences with the taxpayer,\u2014which is acquired by the taxpayer for use or lease, but not for resale, and\u2014which is made by a manufacturer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cnew qualified alternative fuel motor vehicle\u201d means any motor vehicle\u2014\u2014which is only capable of operating on an alternative fuel,\u2014the original use of which commences with the taxpayer,\u2014which is acquired by the taxpayer for use or lease, but not for resale, and\u2014which is made by a manufacturer."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(e)(4)(A)In General\u2014The term \u201cnew qualified alternative fuel motor\n                        vehicle\u201d means any motor vehicle\u2014I.R.C. \u00a7 30B(e)(4)(A)(i)\u2014which is only capable of operating on\n                           an alternative fuel,I.R.C. \u00a7 30B(e)(4)(A)(ii)\u2014the original use of which commences\n                           with the taxpayer,I.R.C. \u00a7 30B(e)(4)(A)(iii)\u2014which is acquired by the taxpayer for\n                           use or lease, but not for resale, andI.R.C. \u00a7 30B(e)(4)(A)(iv)\u2014which is made by a manufacturer.",
+    "definitions": {
+      "term": "new qualified alternative fuel motor vehicle",
+      "requirements": [
+        "any motor vehicle\u2014\u2014which is only capable of operating on an alternative fuel,\u2014the original use of which commences with the taxpayer,\u2014which is acquired by the taxpayer for use or lease, but not for resale, and\u2014which is made by a manufacturer."
+      ]
+    }
+  },
+  {
+    "section": "30B",
+    "subsection": "(e)(4)(B)",
+    "source_subsections": [
+      "(e)(4)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Fuel",
+    "text": "The term \u201calternative fuel\u201d means compressed natural gas, liquefied natural gas, liquefied petroleum gas, hydrogen, and any liquid at least 85 percent of the volume of which consists of methanol.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.85,
+        "text": "85 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201calternative fuel\u201d means compressed natural gas, liquefied natural gas, liquefied petroleum gas, hydrogen, and any liquid at least 85 percent of the volume of which consists of methanol."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(e)(4)(B)Alternative Fuel\u2014The term \u201calternative fuel\u201d means compressed\n                        natural gas, liquefied natural gas, liquefied petroleum gas, hydrogen,\n                        and any liquid at least 85 percent of the volume of which consists\n                        of methanol.",
+    "definitions": {
+      "term": "alternative fuel",
+      "requirements": [
+        "compressed natural gas, liquefied natural gas, liquefied petroleum gas, hydrogen, and any liquid at least 85 percent of the volume of which consists of methanol."
+      ]
+    }
+  },
+  {
+    "section": "30B",
+    "subsection": "(e)(5)(A)",
+    "source_subsections": [
+      "(e)(5)(A)",
+      "(e)(5)(A)(i)",
+      "(e)(5)(A)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "In the case of a mixed-fuel vehicle placed in service by the taxpayer during the taxable year, the credit determined under this subsection is an amount equal to\u2014\u2014in the case of a 75/25 mixed-fuel vehicle, 70 percent of the credit which would have been allowed under this subsection if such vehicle was a qualified alternative fuel motor vehicle, and\u2014in the case of a 90/10 mixed-fuel vehicle, 90 percent of the credit which would have been allowed under this subsection if such vehicle was a qualified alternative fuel motor vehicle.",
+    "conditions": [
+      "such vehicle was a qualified alternative fuel motor vehicle, and\u2014in the case of a 90/10 mixed-fuel vehicle, 90 percent of the credit which would have been allowed under this subsection",
+      "such vehicle was a qualified alternative fuel motor vehicle."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.7,
+        "text": "70 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.9,
+        "text": "90 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such vehicle was a qualified alternative fuel motor vehicle, and\u2014in the case of a 90/10 mixed-fuel vehicle, 90 percent of the credit which would have been allowed under this subsection",
+        "such vehicle was a qualified alternative fuel motor vehicle."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a mixed-fuel vehicle placed in service by the taxpayer during the taxable year, the credit determined under this subsection is an amount equal to\u2014\u2014in the case of a 75/25 mixed-fuel vehicle, 70 percent of the credit which would have been allowed under this subsection"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(e)(5)(A)In General\u2014In the case of a mixed-fuel vehicle placed in service\n                        by the taxpayer during the taxable year, the credit determined under\n                        this subsection is an amount equal to\u2014I.R.C. \u00a7 30B(e)(5)(A)(i)\u2014in the case of a 75/25 mixed-fuel vehicle,\n                           70 percent of the credit which would have been allowed under this\n                           subsection if such vehicle was a qualified alternative fuel motor\n                           vehicle, andI.R.C. \u00a7 30B(e)(5)(A)(ii)\u2014in the case of a 90/10 mixed-fuel vehicle,\n                           90 percent of the credit which would have been allowed under this\n                           subsection if such vehicle was a qualified alternative fuel motor\n                           vehicle.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(e)(5)(B)",
+    "source_subsections": [
+      "(e)(5)(B)",
+      "(e)(5)(B)(i)",
+      "(e)(5)(B)(ii)",
+      "(e)(5)(B)(ii)(I)",
+      "(e)(5)(B)(ii)(II)",
+      "(e)(5)(B)(iii)",
+      "(e)(5)(B)(iv)",
+      "(e)(5)(B)(v)"
+    ],
+    "rule_type": "definition",
+    "title": "Vehicle",
+    "text": "For purposes of this subsection, the term \u201cmixed-fuel vehicle\u201d means any motor vehicle described in subparagraph (C) or (D) of paragraph (3), which\u2014\u2014is certified by the manufacturer as being able to perform efficiently in normal operation on a combination of an alternative fuel and a petroleum-based fuel,\u2014either\u2014\u2014has received a certificate of conformity under the Clean Air Act, or\u2014has received an order certifying the vehicle as meeting the same requirements as vehicles which may be sold or leased in California and meets or exceeds the low emission vehicle standard under section 88.105-94 of title 40, Code of Federal Regulations, for that make and model year vehicle,\u2014the original use of which commences with the taxpayer,\u2014which is acquired by the taxpayer for use or lease, but not for resale, and\u2014which is made by a manufacturer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection, the term \u201cmixed-fuel vehicle\u201d means any motor vehicle described in subparagraph (C) or (D) of paragraph (3), which\u2014\u2014is certified by the manufacturer as being able to perform efficiently in normal operation on a combination of an alternative fuel and a petroleum-based fuel,\u2014either\u2014\u2014has received a certificate of conformity under the Clean Air Act, or\u2014has received an order certifying the vehicle as meeting the same requirements as vehicles which may be sold or leased in California and meets or exceeds the low emission vehicle standard under section 88.105-94 of title 40, Code of Federal Regulations, for that make and model year vehicle,\u2014the original use of which commences with the taxpayer,\u2014which is acquired by the taxpayer for use or lease, but not for resale, and\u2014which is made by a manufacturer."
+    },
+    "cross_references": [
+      {
+        "section": "88",
+        "reason": "ission vehicle standard under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(e)(5)(B)Mixed-Fuel Vehicle\u2014For purposes of this subsection, the term \u201cmixed-fuel\n                        vehicle\u201d means any motor vehicle described in subparagraph (C)\n                        or (D) of paragraph (3), which\u2014I.R.C. \u00a7 30B(e)(5)(B)(i)\u2014is certified by the manufacturer as being\n                           able to perform efficiently in normal operation on a combination of\n                           an alternative fuel and a petroleum-based fuel,I.R.C. \u00a7 30B(e)(5)(B)(ii)\u2014either\u2014I.R.C. \u00a7 30B(e)(5)(B)(ii)(I)\u2014has received a certificate of conformity\n                              under the Clean Air Act, orI.R.C. \u00a7 30B(e)(5)(B)(ii)(II)\u2014has received an order certifying the\n                              vehicle as meeting the same requirements as vehicles which may be\n                              sold or leased in California and meets or exceeds the low emission\n                              vehicle standard under section 88.105-94 of title 40, Code of Federal\n                              Regulations, for that make and model year vehicle,I.R.C. \u00a7 30B(e)(5)(B)(iii)\u2014the original use of which commences\n                           with the taxpayer,I.R.C. \u00a7 30B(e)(5)(B)(iv)\u2014which is acquired by the taxpayer for\n                           use or lease, but not for resale, andI.R.C. \u00a7 30B(e)(5)(B)(v)\u2014which is made by a manufacturer.",
+    "definitions": {
+      "term": "mixed-fuel vehicle",
+      "requirements": [
+        "any motor vehicle described in subparagraph (C) or (D) of paragraph (3), which\u2014\u2014is certified by the manufacturer as being able to perform efficiently in normal operation on a combination of an alternative fuel and a petroleum-based fuel,\u2014either\u2014\u2014has received a certificate of conformity under the Clean Air Act, or\u2014has received an order certifying the vehicle as meeting the same requirements as vehicles which may be sold or leased in California and meets or exceeds the low emission vehicle standard under section 88.105-94 of title 40, Code of Federal Regulations, for that make and model year vehicle,\u2014the original use of which commences with the taxpayer,\u2014which is acquired by the taxpayer for use or lease, but not for resale, and\u2014which is made by a manufacturer."
+      ]
+    }
+  },
+  {
+    "section": "30B",
+    "subsection": "(e)(5)(C)",
+    "source_subsections": [
+      "(e)(5)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "/25 Mixed",
+    "text": "Fuel Vehicle\u2014For purposes of this subsection, the term \u201c75/25 mixed-fuel vehicle\u201d means a mixed-fuel vehicle which operates using at least 75 percent alternative fuel and not more than 25 percent petroleum-based fuel.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.75,
+        "text": "75 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.25,
+        "text": "25 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Fuel Vehicle\u2014For purposes of this subsection, the term \u201c75/25 mixed-fuel vehicle\u201d means a mixed-fuel vehicle which operates using at least 75 percent alternative fuel and not more than 25 percent petroleum-based fuel."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(e)(5)(C)75/25 Mixed-Fuel Vehicle\u2014For purposes of this subsection, the term \u201c75/25\n                        mixed-fuel vehicle\u201d means a mixed-fuel vehicle which operates\n                        using at least 75 percent alternative fuel and not more than 25 percent\n                        petroleum-based fuel.",
+    "definitions": {
+      "term": "75/25 mixed-fuel vehicle",
+      "requirements": [
+        "a mixed-fuel vehicle which operates using at least 75 percent alternative fuel and not more than 25 percent petroleum-based fuel."
+      ]
+    }
+  },
+  {
+    "section": "30B",
+    "subsection": "(e)(5)(D)",
+    "source_subsections": [
+      "(e)(5)(D)"
+    ],
+    "rule_type": "definition",
+    "title": "/10 Mixed",
+    "text": "Fuel Vehicle\u2014For purposes of this subsection, the term \u201c90/10 mixed-fuel vehicle\u201d means a mixed-fuel vehicle which operates using at least 90 percent alternative fuel and not more than 10 percent petroleum-based fuel.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.9,
+        "text": "90 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.1,
+        "text": "10 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Fuel Vehicle\u2014For purposes of this subsection, the term \u201c90/10 mixed-fuel vehicle\u201d means a mixed-fuel vehicle which operates using at least 90 percent alternative fuel and not more than 10 percent petroleum-based fuel."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(e)(5)(D)90/10 Mixed-Fuel Vehicle\u2014For purposes of this subsection, the term \u201c90/10\n                        mixed-fuel vehicle\u201d means a mixed-fuel vehicle which operates\n                        using at least 90 percent alternative fuel and not more than 10 percent\n                        petroleum-based fuel.",
+    "definitions": {
+      "term": "90/10 mixed-fuel vehicle",
+      "requirements": [
+        "a mixed-fuel vehicle which operates using at least 90 percent alternative fuel and not more than 10 percent petroleum-based fuel."
+      ]
+    }
+  },
+  {
+    "section": "30B",
+    "subsection": "(f)(1)",
+    "source_subsections": [
+      "(f)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "In the case of a qualified vehicle sold during the phaseout period, only the applicable percentage of the credit otherwise allowable under subsection (c) or (d) shall be allowed.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a qualified vehicle sold during the phaseout period, only the applicable percentage of the credit otherwise allowable under subsection (c) or (d) shall be allowed."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(f)(1)In General\u2014In the case of a qualified vehicle sold during the phaseout\n                     period, only the applicable percentage of the credit otherwise allowable\n                     under subsection (c) or (d) shall be allowed.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(f)(2)",
+    "source_subsections": [
+      "(f)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Period",
+    "text": "For purposes of this subsection, the phaseout period is the period beginning with the second calendar quarter following the calendar quarter which includes the first date on which the number of qualified vehicles manufactured by the manufacturer of the vehicle referred to in paragraph (1) sold for use in the United States after December 31, 2005, is at least 60,000.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection, the phaseout period is the period beginning with the second calendar quarter following the calendar quarter which includes the first date on which the number of qualified vehicles manufactured by the manufacturer of the vehicle referred to in paragraph (1) sold for use in the United States after December 31, 2005, is at least 60,000."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(f)(2)Phaseout Period\u2014For purposes of this subsection, the phaseout period\n                     is the period beginning with the second calendar quarter following\n                     the calendar quarter which includes the first date on which the number\n                     of qualified vehicles manufactured by the manufacturer of the vehicle\n                     referred to in paragraph (1) sold for use in the United States after\n                     December 31, 2005, is at least 60,000.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(f)(3)(A)",
+    "source_subsections": [
+      "(f)(3)(A)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "50 percent for the first 2 calendar quarters of the phaseout period,",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "50 percent for the first 2 calendar quarters of the phaseout period,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(f)(3)(A)\u201450 percent for the first 2 calendar quarters\n                        of the phaseout period,",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(f)(3)(B)",
+    "source_subsections": [
+      "(f)(3)(B)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "25 percent for the 3d and 4th calendar quarters of the phaseout period, and",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.25,
+        "text": "25 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "25 percent for the 3d and 4th calendar quarters of the phaseout period, and"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(f)(3)(B)\u201425 percent for the 3d and 4th calendar\n                        quarters of the phaseout period, and",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(f)(3)(C)",
+    "source_subsections": [
+      "(f)(3)(C)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "0 percent for each calendar quarter thereafter.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.0,
+        "text": "0 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "0 percent for each calendar quarter thereafter."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(f)(3)(C)\u20140 percent for each calendar quarter thereafter.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(f)(4)(A)",
+    "source_subsections": [
+      "(f)(4)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "For purposes of this subsection, all persons treated as a single employer under subsection(a)or(b)of section52or subsection(m)or(o)of section414shall be treated as a single manufacturer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection, all persons treated as a single employer under subsection(a)or(b)of section52or subsection(m)or(o)of section414shall be treated as a single manufacturer."
+    },
+    "cross_references": [
+      {
+        "section": "52o",
+        "reason": "er under subsection(a)or(b)of..."
+      },
+      {
+        "section": "414s",
+        "reason": "r subsection(m)or(o)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(f)(4)(A)In General\u2014For purposes of this subsection, all persons treated\n                        as a single employer under subsection(a)or(b)of section52or subsection(m)or(o)of section414shall be treated as a single\n                        manufacturer.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(f)(4)(B)",
+    "source_subsections": [
+      "(f)(4)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Foreign Corporations",
+    "text": "For purposes of subparagraph (A), in applying subsections(a)and(b)of section52to this section, section1563shall be applied without regard to subsection(b)(2)(C)thereof.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph (A), in applying subsections(a)and(b)of section52to this section, section1563shall be applied without regard to subsection(b)(2)(C)thereof."
+    },
+    "cross_references": [
+      {
+        "section": "52t",
+        "reason": "plying subsections(a)and(b)of..."
+      },
+      {
+        "section": "1563s",
+        "reason": "o this section,..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(f)(4)(B)Inclusion Of Foreign Corporations\u2014For purposes of subparagraph (A), in applying subsections(a)and(b)of section52to this section, section1563shall be applied without\n                        regard to subsection(b)(2)(C)thereof.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(f)(5)",
+    "source_subsections": [
+      "(f)(5)"
+    ],
+    "rule_type": "definition",
+    "title": "Vehicle",
+    "text": "For purposes of this subsection, the term \u201cqualified vehicle\u201d means any new qualified hybrid motor vehicle (described in subsection (d)(2)(A)) and any new advanced lean burn technology motor vehicle.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection, the term \u201cqualified vehicle\u201d means any new qualified hybrid motor vehicle (described in subsection (d)(2)(A)) and any new advanced lean burn technology motor vehicle."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(f)(5)Qualified Vehicle\u2014For purposes of this subsection, the term \u201cqualified\n                     vehicle\u201d means any new qualified hybrid motor vehicle (described\n                     in subsection (d)(2)(A)) and any new advanced lean burn technology\n                     motor vehicle.",
+    "definitions": {
+      "term": "qualified vehicle",
+      "requirements": [
+        "any new qualified hybrid motor vehicle (described in subsection (d)(2)(A)) and any new advanced lean burn technology motor vehicle."
+      ]
+    }
+  },
+  {
+    "section": "30B",
+    "subsection": "(g)(1)",
+    "source_subsections": [
+      "(g)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "Credit Treated As Part Of General Business Credit",
+    "text": "So much of the credit which would be allowed under subsection (a) for any taxable year (determined without regard to this subsection) that is attributable to property of a character subject to an allowance for depreciation shall be treated as a credit listed in section38(b)for such taxable year (and not allowed under subsection (a)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "So much of the credit which would be allowed under subsection (a) for any taxable year (determined without regard to this subsection) that is attributable to property of a character subject to an allowance for depreciation shall be treated as a credit listed in section38(b)for such taxable year (and not allowed under subsection (a))."
+    },
+    "cross_references": [
+      {
+        "section": "38(b)",
+        "reason": "treated as a credit listed in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(g)(1)Business Credit Treated As Part Of General Business Credit\u2014So much of the credit which would be allowed under subsection\n                     (a) for any taxable year (determined without regard to this subsection)\n                     that is attributable to property of a character subject to an allowance\n                     for depreciation shall be treated as a credit listed in section38(b)for such taxable year (and\n                     not allowed under subsection (a)).",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(g)(2)",
+    "source_subsections": [
+      "(g)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Credit",
+    "text": "For purposes of this title, the credit allowed under subsection (a) for any taxable year (determined after application of paragraph (1)) shall be treated as a credit allowable under subpart A for such taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this title, the credit allowed under subsection (a) for any taxable year (determined after application of paragraph (1)) shall be treated as a credit allowable under subpart A for such taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(g)(2)Personal Credit\u2014For purposes of this title, the credit allowed under\n                     subsection (a) for any taxable year (determined after application\n                     of paragraph (1)) shall be treated as a credit allowable under subpart\n                     A for such taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(h)(1)",
+    "source_subsections": [
+      "(h)(1)"
+    ],
+    "rule_type": "definition",
+    "title": "Vehicle",
+    "text": "The term \u201cmotor vehicle\u201d means any vehicle which is manufactured primarily for use on public streets, roads, and highways (not including a vehicle operated exclusively on a rail or rails) and which has at least 4 wheels.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cmotor vehicle\u201d means any vehicle which is manufactured primarily for use on public streets, roads, and highways (not including a vehicle operated exclusively on a rail or rails) and which has at least 4 wheels."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(h)(1)Motor Vehicle\u2014The term \u201cmotor vehicle\u201d means any vehicle\n                     which is manufactured primarily for use on public streets, roads,\n                     and highways (not including a vehicle operated exclusively on a rail\n                     or rails) and which has at least 4 wheels.",
+    "definitions": {
+      "term": "motor vehicle",
+      "requirements": [
+        "any vehicle which is manufactured primarily for use on public streets, roads, and highways (not including a vehicle operated exclusively on a rail or rails) and which has at least 4 wheels."
+      ]
+    }
+  },
+  {
+    "section": "30B",
+    "subsection": "(h)(10)",
+    "source_subsections": [
+      "(h)(10)",
+      "(h)(10)(A)",
+      "(h)(10)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "With Air Quality And Motor Vehicle Safety Standards",
+    "text": "Unless otherwise provided in this section, a motor vehicle shall not be considered eligible for a credit under this section unless such vehicle is in compliance with\u2014\u2014the applicable provisions of the Clean Air Act for the applicable make and model year of the vehicle (or applicable air quality provisions of State law in the case of a State which has adopted such provision under a waiver under section 209(b) of the Clean Air Act), and\u2014the motor vehicle safety provisions of sections 30101 through 30169 of title 49, United States Code.",
+    "conditions": [
+      "otherwise provided in this section, a motor vehicle shall not be considered eligible for a credit under this section",
+      "such vehicle is in compliance with\u2014\u2014the applicable provisions of the Clean Air Act for the applicable make and model year of the vehicle (or applicable air quality provisions of State law in the case of a State which has adopted such provision under a waiver under section 209(b) of the Clean Air Act), and\u2014the motor vehicle safety provisions of sections 30101 through 30169 of title 49, United States Code."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "otherwise provided in this section, a motor vehicle shall not be considered eligible for a credit under this section",
+        "such vehicle is in compliance with\u2014\u2014the applicable provisions of the Clean Air Act for the applicable make and model year of the vehicle (or applicable air quality provisions of State law in the case of a State which has adopted such provision under a waiver under section 209(b) of the Clean Air Act), and\u2014the motor vehicle safety provisions of sections 30101 through 30169 of title 49, United States Code."
+      ],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "209(b)",
+        "reason": "rovision under a waiver under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(h)(10)Interaction With Air Quality And Motor Vehicle Safety Standards\u2014Unless otherwise provided in this section, a motor vehicle\n                     shall not be considered eligible for a credit under this section unless\n                     such vehicle is in compliance with\u2014I.R.C. \u00a7 30B(h)(10)(A)\u2014the applicable provisions of the Clean\n                        Air Act for the applicable make and model year of the vehicle (or\n                        applicable air quality provisions of State law in the case of a State\n                        which has adopted such provision under a waiver under section 209(b)\n                        of the Clean Air Act), andI.R.C. \u00a7 30B(h)(10)(B)\u2014the motor vehicle safety provisions of\n                        sections 30101 through 30169 of title 49, United States Code.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(h)(2)",
+    "source_subsections": [
+      "(h)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Fuel Economy",
+    "text": "The city fuel economy with respect to any vehicle shall be measured in a manner which is substantially similar to the manner city fuel economy is measured in accordance with procedures under part 600 of subchapter Q of chapter I of title 40, Code of Federal Regulations, as in effect on the date of the enactment of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The city fuel economy with respect to any vehicle shall be measured in a manner which is substantially similar to the manner city fuel economy is measured in accordance with procedures under part 600 of subchapter Q of chapter I of title 40, Code of Federal Regulations, as in effect on the date of the enactment of this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(h)(2)City Fuel Economy\u2014The city fuel economy with respect to any vehicle shall\n                     be measured in a manner which is substantially similar to the manner\n                     city fuel economy is measured in accordance with procedures under\n                     part 600 of subchapter Q of chapter I of title 40, Code of Federal\n                     Regulations, as in effect on the date of the enactment of this section.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(h)(3)",
+    "source_subsections": [
+      "(h)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Terms",
+    "text": "The terms \u201cautomobile\u201d, \u201cpassenger automobile\u201d, \u201cmedium duty passenger vehicle\u201d, \u201clight truck\u201d, and \u201cmanufacturer\u201d have the meanings given such terms in regulations prescribed by the Administrator of the Environmental Protection Agency for purposes of the administration of title II of the Clean Air Act (42 U.S.C. 7521et seq.).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The terms \u201cautomobile\u201d, \u201cpassenger automobile\u201d, \u201cmedium duty passenger vehicle\u201d, \u201clight truck\u201d, and \u201cmanufacturer\u201d have the meanings given such terms in regulations prescribed by the Administrator of the Environmental Protection Agency for purposes of the administration of title II of the Clean Air Act (42 U.S.C. 7521et seq.)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(h)(3)Other Terms\u2014The terms \u201cautomobile\u201d, \u201cpassenger\n                     automobile\u201d, \u201cmedium duty passenger vehicle\u201d, \u201clight\n                     truck\u201d, and \u201cmanufacturer\u201d have the meanings given\n                     such terms in regulations prescribed by the Administrator of the Environmental\n                     Protection Agency for purposes of the administration of title II of\n                     the Clean Air Act (42 U.S.C. 7521et\n                     seq.).",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(h)(4)",
+    "source_subsections": [
+      "(h)(4)"
+    ],
+    "rule_type": "condition",
+    "title": "In Basis",
+    "text": "For purposes of this subtitle, the basis of any property for which a credit is allowable under subsection (a) shall be reduced by the amount of such credit so allowed (determined without regard to subsection (g)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subtitle, the basis of any property for which a credit is allowable under subsection (a) shall be reduced by the amount of such credit so allowed (determined without regard to subsection (g))."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(h)(4)Reduction In Basis\u2014For purposes of this subtitle, the basis of any property\n                     for which a credit is allowable under subsection (a) shall be reduced\n                     by the amount of such credit so allowed (determined without regard\n                     to subsection (g)).",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(h)(5)",
+    "source_subsections": [
+      "(h)(5)",
+      "(h)(5)(A)",
+      "(h)(5)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Double Benefit",
+    "text": "The amount of any deduction or other credit allowable under this chapter\u2014\u2014for any incremental cost taken into account in computing the amount of the credit determined under subsection (e) shall be reduced by the amount of such credit attributable to such cost, and\u2014with respect to a vehicle described under subsection (b) or (c), shall be reduced by the amount of credit allowed under subsection (a) for such vehicle for the taxable year (determined without regard to subsection (g)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of any deduction or other credit allowable under this chapter\u2014\u2014for any incremental cost taken into account in computing the amount of the credit determined under subsection (e) shall be reduced by the amount of such credit attributable to such cost, and\u2014with respect to a vehicle described under subsection (b) or (c), shall be reduced by the amount of credit allowed under subsection (a) for such vehicle for the taxable year (determined without regard to subsection (g))."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(h)(5)No Double Benefit\u2014The amount of any deduction or other credit allowable\n                     under this chapter\u2014I.R.C. \u00a7 30B(h)(5)(A)\u2014for any incremental cost taken into account\n                        in computing the amount of the credit determined under subsection\n                        (e) shall be reduced by the amount of such credit attributable to\n                        such cost, andI.R.C. \u00a7 30B(h)(5)(B)\u2014with respect to a vehicle described under\n                        subsection (b) or (c), shall be reduced by the amount of credit allowed\n                        under subsection (a) for such vehicle for the taxable year (determined\n                        without regard to subsection (g)).",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(h)(6)",
+    "source_subsections": [
+      "(h)(6)"
+    ],
+    "rule_type": "condition",
+    "title": "Used By Tax",
+    "text": "Exempt Entity\u2014In the case of a vehicle whose use is described in paragraph(3)or(4)of section50(b)and which is not subject to a lease, the person who sold such vehicle to the person or entity using such vehicle shall be treated as the taxpayer that placed such vehicle in service, but only if such person clearly discloses to such person or entity in a document the amount of any credit allowable under subsection (a) with respect to such vehicle (determined without regard to subsection (g)). For purposes of subsection (g), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.",
+    "conditions": [
+      "such person clearly discloses to such person or entity in a document the amount of any credit allowable under subsection (a) with respect to such vehicle (determined without regard to subsection (g)). For purposes of subsection (g), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such person clearly discloses to such person or entity in a document the amount of any credit allowable under subsection (a) with respect to such vehicle (determined without regard to subsection (g)). For purposes of subsection (g), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Exempt Entity\u2014In the case of a vehicle whose use is described in paragraph(3)or(4)of section50(b)and which is not subject to a lease, the person who sold such vehicle to the person or entity using such vehicle shall be treated as the taxpayer that placed such vehicle in service, but only"
+    },
+    "cross_references": [
+      {
+        "section": "50(b)",
+        "reason": "cribed in paragraph(3)or(4)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(h)(6)Property Used By Tax-Exempt Entity\u2014In the case of a vehicle whose use is described in paragraph(3)or(4)of section50(b)and which is not subject\n                     to a lease, the person who sold such vehicle to the person or entity\n                     using such vehicle shall be treated as the taxpayer that placed such\n                     vehicle in service, but only if such person clearly discloses to such\n                     person or entity in a document the amount of any credit allowable\n                     under subsection (a) with respect to such vehicle (determined without\n                     regard to subsection (g)). For purposes of subsection (g), property\n                     to which this paragraph applies shall be treated as of a character\n                     subject to an allowance for depreciation.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(h)(7)",
+    "source_subsections": [
+      "(h)(7)"
+    ],
+    "rule_type": "condition",
+    "title": "Used Outside United States, Etc., Not Qualified",
+    "text": "No credit shall be allowable under subsection (a) with respect to any property referred to in section50(b)(1)or with respect to the portion of the cost of any property taken into account under section179.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be allowable under subsection (a) with respect to any property referred to in section50(b)(1)or with respect to the portion of the cost of any property taken into account under section179."
+    },
+    "cross_references": [
+      {
+        "section": "50(b)(1)",
+        "reason": "o any property referred to in..."
+      },
+      {
+        "section": "179",
+        "reason": "erty taken into account under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(h)(7)Property Used Outside United States, Etc., Not Qualified\u2014No credit shall be allowable under subsection (a) with\n                     respect to any property referred to in section50(b)(1)or with respect to\n                     the portion of the cost of any property taken into account under section179.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(h)(8)",
+    "source_subsections": [
+      "(h)(8)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The Secretary shall, by regulations, provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any property which ceases to be property eligible for such credit (including recapture in the case of a lease period of less than the economic life of a vehicle).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall, by regulations, provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any property which ceases to be property eligible for such credit (including recapture in the case of a lease period of less than the economic life of a vehicle)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(h)(8)Recapture\u2014The Secretary shall, by regulations, provide for recapturing\n                     the benefit of any credit allowable under subsection (a) with respect\n                     to any property which ceases to be property eligible for such credit\n                     (including recapture in the case of a lease period of less than the\n                     economic life of a vehicle).",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(h)(9)",
+    "source_subsections": [
+      "(h)(9)"
+    ],
+    "rule_type": "condition",
+    "title": "To Not Take Credit",
+    "text": "No credit shall be allowed under subsection (a) for any vehicle if the taxpayer elects to not have this section apply to such vehicle.",
+    "conditions": [
+      "the taxpayer elects to not have this section apply to such vehicle."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the taxpayer elects to not have this section apply to such vehicle."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be allowed under subsection (a) for any vehicle"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(h)(9)Election To Not Take Credit\u2014No credit shall be allowed under subsection (a) for\n                     any vehicle if the taxpayer elects to not have this section apply\n                     to such vehicle.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(i)(1)",
+    "source_subsections": [
+      "(i)(1)"
+    ],
+    "rule_type": "limitation",
+    "title": "General",
+    "text": "For purposes of subsection (a), the plug-in conversion credit determined under this subsection with respect to any motor vehicle which is converted to a plug-in electric drive motor vehicle is 10 percent of so much of the cost of the converting such vehicle as does not exceed $40,000.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 40000,
+        "text": "$40,000"
+      }
+    ],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.1,
+        "text": "10 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subsection (a), the plug-in conversion credit determined under this subsection with respect to any motor vehicle which is converted to a plug-in electric drive motor vehicle is 10 percent of so much of the cost of the converting such vehicle as does not exceed $40,000."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(i)(1)In General\u2014For purposes of subsection (a), the plug-in conversion\n                     credit determined under this subsection with respect to any motor\n                     vehicle which is converted to a plug-in electric drive motor vehicle\n                     is 10 percent of so much of the cost of the converting such vehicle\n                     as does not exceed $40,000.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(i)(2)",
+    "source_subsections": [
+      "(i)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Plug",
+    "text": "In Electric Drive Motor Vehicle\u2014For purposes of this subsection, the term \u201cqualified plug-in electric drive motor vehicle\u201d means any new qualified plug-in electric drive motor vehicle (as defined in section 30D, determined without regard to whether such vehicle is made by a manufacturer or whether the original use of such vehicle commences with the taxpayer).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In Electric Drive Motor Vehicle\u2014For purposes of this subsection, the term \u201cqualified plug-in electric drive motor vehicle\u201d means any new qualified plug-in electric drive motor vehicle (as defined in section 30D, determined without regard to whether such vehicle is made by a manufacturer or whether the original use of such vehicle commences with the taxpayer)."
+    },
+    "cross_references": [
+      {
+        "section": "30D",
+        "reason": "motor vehicle (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(i)(2)Qualified Plug-In Electric Drive Motor Vehicle\u2014For purposes of this subsection, the term \u201cqualified\n                     plug-in electric drive motor vehicle\u201d means any new qualified\n                     plug-in electric drive motor vehicle (as defined in section 30D, determined\n                     without regard to whether such vehicle is made by a manufacturer or\n                     whether the original use of such vehicle commences with the taxpayer).",
+    "definitions": {
+      "term": "qualified plug-in electric drive motor vehicle",
+      "requirements": [
+        "any new qualified plug-in electric drive motor vehicle (as defined in section 30D, determined without regard to whether such vehicle is made by a manufacturer or whether the original use of such vehicle commences with the taxpayer)."
+      ]
+    }
+  },
+  {
+    "section": "30B",
+    "subsection": "(i)(3)",
+    "source_subsections": [
+      "(i)(3)"
+    ],
+    "rule_type": "exception",
+    "title": "Allowed In Addition To Other Credits",
+    "text": "The credit allowed under this subsection shall be allowed with respect to a motor vehicle notwithstanding whether a credit has been allowed with respect to such motor vehicle under this section (other than this subsection) in any preceding taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The credit allowed under this subsection shall be allowed with respect to a motor vehicle notwithstanding whether a credit has been allowed with respect to such motor vehicle under this section (other than this subsection) in any preceding taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(i)(3)Credit Allowed In Addition To Other Credits\u2014The credit allowed under this subsection shall be allowed\n                     with respect to a motor vehicle notwithstanding whether a credit has\n                     been allowed with respect to such motor vehicle under this section\n                     (other than this subsection) in any preceding taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(i)(4)",
+    "source_subsections": [
+      "(i)(4)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "This subsection shall not apply to conversions made after December 31, 2011.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "This subsection shall not apply to conversions made after December 31, 2011."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(i)(4)Termination\u2014This subsection shall not apply to conversions made after\n                     December 31, 2011.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(j)(2)",
+    "source_subsections": [
+      "(j)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "In Prescription Of Certain Regulations",
+    "text": "The Secretary of the Treasury, in coordination with the Secretary of Transportation and the Administrator of the Environmental Protection Agency, shall prescribe such regulations as necessary to determine whether a motor vehicle meets the requirements to be eligible for a credit under this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary of the Treasury, in coordination with the Secretary of Transportation and the Administrator of the Environmental Protection Agency, shall prescribe such regulations as necessary to determine whether a motor vehicle meets the requirements to be eligible for a credit under this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(j)(2)Coordination In Prescription Of Certain Regulations\u2014The Secretary of the Treasury, in coordination with the\n                     Secretary of Transportation and the Administrator of the Environmental\n                     Protection Agency, shall prescribe such regulations as necessary to\n                     determine whether a motor vehicle meets the requirements to be eligible\n                     for a credit under this section.",
+    "definitions": null
+  },
+  {
+    "section": "30B",
+    "subsection": "(k)",
+    "source_subsections": [
+      "(k)",
+      "(k)(1)",
+      "(k)(2)",
+      "(k)(3)",
+      "(k)(4)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "This section shall not apply to any property purchased after\u2014\u2014in the case of a new qualified fuel cell motor vehicle (as described in subsection (b)), December 31, 2021,\u2014in the case of a new advanced lean burn technology motor vehicle (as described in subsection (c)) or a new qualified hybrid motor vehicle (as described in subsection (d)(2)(A)), December 31, 2010,\u2014in the case of a new qualified hybrid motor vehicle (as described in subsection (d)(2)(B)), December 31, 2009, and\u2014in the case of a new qualified alternative fuel vehicle (as described in subsection (e)), December 31, 2010.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "This section shall not apply to any property purchased after\u2014\u2014in the case of a new qualified fuel cell motor vehicle (as described in subsection (b)), December 31, 2021,\u2014in the case of a new advanced lean burn technology motor vehicle (as described in subsection (c)) or a new qualified hybrid motor vehicle (as described in subsection (d)(2)(A)), December 31, 2010,\u2014in the case of a new qualified hybrid motor vehicle (as described in subsection (d)(2)(B)), December 31, 2009, and\u2014in the case of a new qualified alternative fuel vehicle (as described in subsection (e)), December 31, 2010."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30B(k)Termination\u2014This section shall not apply to any property purchased\n                  after\u2014I.R.C. \u00a7 30B(k)(1)\u2014in the case of a new qualified fuel cell\n                     motor vehicle (as described in subsection (b)), December 31, 2021,I.R.C. \u00a7 30B(k)(2)\u2014in the case of a new advanced lean burn\n                     technology motor vehicle (as described in subsection (c)) or a new\n                     qualified hybrid motor vehicle (as described in subsection (d)(2)(A)),\n                     December 31, 2010,I.R.C. \u00a7 30B(k)(3)\u2014in the case of a new qualified hybrid\n                     motor vehicle (as described in subsection (d)(2)(B)), December 31,\n                     2009, andI.R.C. \u00a7 30B(k)(4)\u2014in the case of a new qualified alternative\n                     fuel vehicle (as described in subsection (e)), December 31, 2010.",
+    "definitions": null
+  }
+]

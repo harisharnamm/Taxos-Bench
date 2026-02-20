@@ -1,0 +1,198 @@
+[
+  {
+    "section": "46",
+    "subsection": "(1)",
+    "source_subsections": [
+      "(1)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "the rehabilitation credit,",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "the rehabilitation credit,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 46(1)\u2014the rehabilitation credit,",
+    "definitions": null
+  },
+  {
+    "section": "46",
+    "subsection": "(2)",
+    "source_subsections": [
+      "(2)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "the energy credit,",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "the energy credit,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 46(2)\u2014the energy credit,",
+    "definitions": null
+  },
+  {
+    "section": "46",
+    "subsection": "(3)",
+    "source_subsections": [
+      "(3)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "the qualifying advanced coal project credit,",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "the qualifying advanced coal project credit,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 46(3)\u2014the qualifying advanced coal project\n                  credit,",
+    "definitions": null
+  },
+  {
+    "section": "46",
+    "subsection": "(4)",
+    "source_subsections": [
+      "(4)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "the qualifying gasification project credit,",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "the qualifying gasification project credit,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 46(4)\u2014the qualifying gasification project\n                  credit,",
+    "definitions": null
+  },
+  {
+    "section": "46",
+    "subsection": "(5)",
+    "source_subsections": [
+      "(5)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "the qualifying advanced energy project credit,",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "the qualifying advanced energy project credit,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 46(5)\u2014the qualifying advanced energy project\n                  credit,",
+    "definitions": null
+  },
+  {
+    "section": "46",
+    "subsection": "(6)",
+    "source_subsections": [
+      "(6)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "the advanced manufacturing investment credit, and",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "the advanced manufacturing investment credit, and"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 46(6)\u2014the advanced manufacturing investment\n                  credit, and",
+    "definitions": null
+  },
+  {
+    "section": "46",
+    "subsection": "(7)",
+    "source_subsections": [
+      "(7)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "the clean electricity investment credit.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "the clean electricity investment credit."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 46(7)\u2014the clean electricity investment credit.",
+    "definitions": null
+  }
+]

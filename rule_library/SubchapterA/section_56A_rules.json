@@ -1,0 +1,927 @@
+[
+  {
+    "section": "56A",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "For purposes of this part, the term \u201cadjusted financial statement income\u201d means, with respect to any corporation for any taxable year, the net income or loss of the taxpayer set forth on the taxpayer's applicable financial statement for such taxable year, adjusted as provided in this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this part, the term \u201cadjusted financial statement income\u201d means, with respect to any corporation for any taxable year, the net income or loss of the taxpayer set forth on the taxpayer's applicable financial statement for such taxable year, adjusted as provided in this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56A(a)In General\u2014For purposes of this part, the term \u201cadjusted financial statement income\u201d means, with\n                  respect to any corporation for any taxable year, the net income or loss of the taxpayer\n                  set forth on the taxpayer's applicable financial statement for such taxable year,\n                  adjusted as provided in this section.",
+    "definitions": null
+  },
+  {
+    "section": "56A",
+    "subsection": "(b)",
+    "source_subsections": [
+      "(b)"
+    ],
+    "rule_type": "definition",
+    "title": "Financial Statement",
+    "text": "For purposes of this section, the term \u201capplicable financial statement\u201d means, with respect to any taxable year, an applicable financial statement (as defined insection 451(b)(3)or as specified by the Secretary in regulations or other guidance) which covers such taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u201capplicable financial statement\u201d means, with respect to any taxable year, an applicable financial statement (as defined insection 451(b)(3)or as specified by the Secretary in regulations or other guidance) which covers such taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56A(b)Applicable Financial Statement\u2014For purposes of this section, the term \u201capplicable financial statement\u201d means, with\n                  respect to any taxable year, an applicable financial statement (as defined insection 451(b)(3)or as specified by the Secretary in regulations or other guidance) which covers such\n                  taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "56A",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "Covering Different Taxable Years",
+    "text": "Appropriate adjustments shall be made in adjusted financial statement income in any case in which an applicable financial statement covers a period other than the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Appropriate adjustments shall be made in adjusted financial statement income in any case in which an applicable financial statement covers a period other than the taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56A(c)(1)Statements Covering Different Taxable Years\u2014Appropriate adjustments shall be made in adjusted financial statement income in any\n                     case in which an applicable financial statement covers a period other than the taxable\n                     year.",
+    "definitions": null
+  },
+  {
+    "section": "56A",
+    "subsection": "(c)(10)(A)",
+    "source_subsections": [
+      "(c)(10)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Adjusted financial statement income shall be adjusted so as not to include any item of income in connection with a mortgage servicing contract any earlier than when such income is included in gross income under any other provision of this chapter.",
+    "conditions": [
+      "such income is included in gross income under any other provision of this chapter."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such income is included in gross income under any other provision of this chapter."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Adjusted financial statement income shall be adjusted so as not to include any item of income in connection with a mortgage servicing contract any earlier than"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56A(c)(10)(A)In General\u2014Adjusted financial statement income shall be adjusted so as not to include any item\n                        of income in connection with a mortgage servicing contract any earlier than when such\n                        income is included in gross income under any other provision of this chapter.",
+    "definitions": null
+  },
+  {
+    "section": "56A",
+    "subsection": "(c)(10)(B)",
+    "source_subsections": [
+      "(c)(10)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "For Amounts Not Representing Reasonable Compensation",
+    "text": "The Secretary shall provide regulations to prevent the avoidance of taxes imposed by this chapter with respect to amounts not representing reasonable compensation (as determined by the Secretary) with respect to a mortgage servicing contract.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall provide regulations to prevent the avoidance of taxes imposed by this chapter with respect to amounts not representing reasonable compensation (as determined by the Secretary) with respect to a mortgage servicing contract."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56A(c)(10)(B)Rules For Amounts Not Representing Reasonable Compensation\u2014The Secretary shall provide regulations to prevent the avoidance of taxes imposed\n                        by this chapter with respect to amounts not representing reasonable compensation (as\n                        determined by the Secretary) with respect to a mortgage servicing contract.",
+    "definitions": null
+  },
+  {
+    "section": "56A",
+    "subsection": "(c)(11)(A)",
+    "source_subsections": [
+      "(c)(11)(A)",
+      "(c)(11)(A)(i)",
+      "(c)(11)(A)(ii)",
+      "(c)(11)(A)(iii)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Except as otherwise provided in rules prescribed by the Secretary in regulations or other guidance, adjusted financial statement income shall be\u2014\u2014adjusted to disregard any amount of income, cost, or expense that would otherwise be included on the applicable financial statement in connection with any covered benefit plan,\u2014increased by any amount of income in connection with any such covered benefit plan that is included in the gross income of the corporation under any other provision of this chapter, and\u2014reduced by deductions allowed under any other provision of this chapter with respect to any such covered benefit plan.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as otherwise provided in rules prescribed by the Secretary in regulations or other guidance, adjusted financial statement income shall be\u2014\u2014adjusted to disregard any amount of income, cost, or expense that would otherwise be included on the applicable financial statement in connection with any covered benefit plan,\u2014increased by any amount of income in connection with any such covered benefit plan that is included in the gross income of the corporation under any other provision of this chapter, and\u2014reduced by deductions allowed under any other provision of this chapter with respect to any such covered benefit plan."
+      ],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56A(c)(11)(A)In General\u2014Except as otherwise provided in rules prescribed by the Secretary in regulations or\n                        other guidance, adjusted financial statement income shall be\u2014I.R.C. \u00a7 56A(c)(11)(A)(i)\u2014adjusted to disregard any amount of income, cost, or expense that would otherwise\n                           be included on the applicable financial statement in connection with any covered benefit\n                           plan,I.R.C. \u00a7 56A(c)(11)(A)(ii)\u2014increased by any amount of income in connection with any such covered benefit plan\n                           that is included in the gross income of the corporation under any other provision\n                           of this chapter, andI.R.C. \u00a7 56A(c)(11)(A)(iii)\u2014reduced by deductions allowed under any other provision of this chapter with respect\n                           to any such covered benefit plan.",
+    "definitions": null
+  },
+  {
+    "section": "56A",
+    "subsection": "(c)(11)(B)",
+    "source_subsections": [
+      "(c)(11)(B)",
+      "(c)(11)(B)(i)",
+      "(c)(11)(B)(ii)",
+      "(c)(11)(B)(iii)"
+    ],
+    "rule_type": "definition",
+    "title": "Benefit Plan",
+    "text": "For purposes of this paragraph, the term \u201ccovered benefit plan\u201d means\u2014\u2014a defined benefit plan (other than a multiemployer plan described insection 414(f)) if the trust which is part of such plan is an employees\u2019 trust described insection 401(a)which is exempt from tax undersection 501(a),\u2014any qualified foreign plan (as defined insection 404A(e)), or\u2014any other defined benefit plan which provides post-employment benefits other than pension benefits.",
+    "conditions": [
+      "the trust which is part of such plan is an employees\u2019 trust described insection 401(a)which is exempt from tax undersection 501(a),\u2014any qualified foreign plan (as defined insection 404A(e)), or\u2014any other defined benefit plan which provides post-employment benefits other than pension benefits."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the trust which is part of such plan is an employees\u2019 trust described insection 401(a)which is exempt from tax undersection 501(a),\u2014any qualified foreign plan (as defined insection 404A(e)), or\u2014any other defined benefit plan which provides post-employment benefits other than pension benefits."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the term \u201ccovered benefit plan\u201d means\u2014\u2014a defined benefit plan (other than a multiemployer plan described insection 414(f))"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56A(c)(11)(B)Covered Benefit Plan\u2014For purposes of this paragraph, the term \u201ccovered benefit plan\u201d means\u2014I.R.C. \u00a7 56A(c)(11)(B)(i)\u2014a defined benefit plan (other than a multiemployer plan described insection 414(f)) if the trust which is part of such plan is an employees\u2019 trust described insection 401(a)which is exempt from tax undersection 501(a),I.R.C. \u00a7 56A(c)(11)(B)(ii)\u2014any qualified foreign plan (as defined insection 404A(e)), orI.R.C. \u00a7 56A(c)(11)(B)(iii)\u2014any other defined benefit plan which provides post-employment benefits other than\n                           pension benefits.",
+    "definitions": null
+  },
+  {
+    "section": "56A",
+    "subsection": "(c)(12)",
+    "source_subsections": [
+      "(c)(12)",
+      "(c)(12)(A)",
+      "(c)(12)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Entities",
+    "text": "In the case of an organization subject to tax undersection 511, adjusted financial statement income shall be appropriately adjusted to only take into account any adjusted financial statement income\u2014\u2014of an unrelated trade or business (as defined insection 513) of such organization, or\u2014derived from debt-financed property (as defined insection 514) to the extent that income from such property is treated as unrelated business taxable income.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of an organization subject to tax undersection 511, adjusted financial statement income shall be appropriately adjusted to only take into account any adjusted financial statement income\u2014\u2014of an unrelated trade or business (as defined insection 513) of such organization, or\u2014derived from debt-financed property (as defined insection 514) to the extent that income from such property is treated as unrelated business taxable income."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56A(c)(12)Tax-Exempt Entities\u2014In the case of an organization subject to tax undersection 511, adjusted financial statement income shall be appropriately adjusted to only take\n                     into account any adjusted financial statement income\u2014I.R.C. \u00a7 56A(c)(12)(A)\u2014of an unrelated trade or business (as defined insection 513) of such organization, orI.R.C. \u00a7 56A(c)(12)(B)\u2014derived from debt-financed property (as defined insection 514) to the extent that income from such property is treated as unrelated business taxable\n                        income.",
+    "definitions": null
+  },
+  {
+    "section": "56A",
+    "subsection": "(c)(13)",
+    "source_subsections": [
+      "(c)(13)",
+      "(c)(13)(A)",
+      "(c)(13)(A)(i)",
+      "(c)(13)(A)(ii)",
+      "(c)(13)(B)",
+      "(c)(13)(B)(i)",
+      "(c)(13)(B)(i)(I)",
+      "(c)(13)(B)(i)(II)",
+      "(c)(13)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Adjusted financial statement income shall be\u2014Editor's Note:Sec. 56A(c)(13)(A), below, before amendment byPub. L. 119-21, Sec. 70523(a)(1), is applicable to taxable years beginning on or before Dec. 31, 2025.\u2014reduced by depreciation deductions allowed undersection 167with respect to property to whichsection 168applies to the extent of the amount allowed as deductions in computing taxable income for the taxable year, andEditor's Note:Sec. 56A(c)(13)(A), below, after amendment byPub. L. 119-21, Sec. 70523(a)(1), is applicable to taxable years beginning after Dec. 31, 2025.\u2014reduced by\u2014\u2014depreciation deductions allowed undersection 167with respect to property to whichsection 168applies to the extent of the amount allowed as deductions in computing taxable income for the year, and\u2014any deduction allowed for expenses undersection 263(c)(including any deduction for such expenses undersection 59(e)or291(b)(2)) with respect to property described therein to the extent of the amount allowed as deductions in computing taxable income for the year, and\u2014appropriately adjusted\u2014Editor's Note:Sec. 56A(c)(13)(B)(i), below, before amendment byPub. L. 119-21, Sec. 70523(a)(2), is applicable to taxable years beginning on or before Dec. 31, 2025.\u2014to disregard any amount of depreciation expense that is taken into account on the taxpayer's applicable financial statement with respect to such property, andEditor's Note:Sec. 56A(c)(13)(B)(i), below, after amendment byPub. L. 119-21, Sec. 70523(a)(2), is applicable to taxable years beginning after Dec. 31, 2025.\u2014to disregard any amount of\u2014\u2014depreciation expense that is taken into account on the taxpayer's applicable financial statement with respect to such property, and\u2014depletion expense that is taken into account on the taxpayer's applicable financial statement with respect to the intangible drilling and development costs of such property, and\u2014to take into account any other item specified by the Secretary in order to provide that such property is accounted for in the same manner as it is accounted for under this chapter.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Adjusted financial statement income shall be\u2014Editor's Note:Sec. 56A(c)(13)(A), below, before amendment byPub. L. 119-21, Sec. 70523(a)(1), is applicable to taxable years beginning on or before Dec. 31, 2025.\u2014reduced by depreciation deductions allowed undersection 167with respect to property to whichsection 168applies to the extent of the amount allowed as deductions in computing taxable income for the taxable year, andEditor's Note:Sec. 56A(c)(13)(A), below, after amendment byPub. L. 119-21, Sec. 70523(a)(1), is applicable to taxable years beginning after Dec. 31, 2025.\u2014reduced by\u2014\u2014depreciation deductions allowed undersection 167with respect to property to whichsection 168applies to the extent of the amount allowed as deductions in computing taxable income for the year, and\u2014any deduction allowed for expenses undersection 263(c)(including any deduction for such expenses undersection 59(e)or291(b)(2)) with respect to property described therein to the extent of the amount allowed as deductions in computing taxable income for the year, and\u2014appropriately adjusted\u2014Editor's Note:Sec. 56A(c)(13)(B)(i), below, before amendment byPub. L. 119-21, Sec. 70523(a)(2), is applicable to taxable years beginning on or before Dec. 31, 2025.\u2014to disregard any amount of depreciation expense that is taken into account on the taxpayer's applicable financial statement with respect to such property, andEditor's Note:Sec. 56A(c)(13)(B)(i), below, after amendment byPub. L. 119-21, Sec. 70523(a)(2), is applicable to taxable years beginning after Dec. 31, 2025.\u2014to disregard any amount of\u2014\u2014depreciation expense that is taken into account on the taxpayer's applicable financial statement with respect to such property, and\u2014depletion expense that is taken into account on the taxpayer's applicable financial statement with respect to the intangible drilling and development costs of such property, and\u2014to take into account any other item specified by the Secretary in order to provide that such property is accounted for in the same manner as it is accounted for under this chapter."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56A(c)(13)Depreciation\u2014Adjusted financial statement income shall be\u2014Editor's Note:Sec. 56A(c)(13)(A), below, before amendment byPub. L. 119-21, Sec. 70523(a)(1), is applicable to taxable years beginning on or before Dec. 31,\n                              2025.I.R.C. \u00a7 56A(c)(13)(A)\u2014reduced by depreciation deductions allowed undersection 167with respect to property to whichsection 168applies to the extent of the amount allowed as deductions in computing taxable income\n                        for the taxable year, andEditor's Note:Sec. 56A(c)(13)(A), below, after amendment byPub. L. 119-21, Sec. 70523(a)(1), is applicable to taxable years beginning after Dec. 31, 2025.I.R.C. \u00a7 56A(c)(13)(A)\u2014reduced by\u2014I.R.C. \u00a7 56A(c)(13)(A)(i)\u2014depreciation deductions allowed undersection 167with respect to property to whichsection 168applies to the extent of the amount allowed as deductions in computing taxable income\n                           for the year, andI.R.C. \u00a7 56A(c)(13)(A)(ii)\u2014any deduction allowed for expenses undersection 263(c)(including any deduction for such expenses undersection 59(e)or291(b)(2)) with respect to property described therein to the extent of the amount allowed as\n                           deductions in computing taxable income for the year, andI.R.C. \u00a7 56A(c)(13)(B)\u2014appropriately adjusted\u2014Editor's Note:Sec. 56A(c)(13)(B)(i), below, before amendment byPub. L. 119-21, Sec. 70523(a)(2), is applicable to taxable years beginning on or before Dec. 31,\n                                 2025.I.R.C. \u00a7 56A(c)(13)(B)(i)\u2014to disregard any amount of depreciation expense that is taken into account on the\n                           taxpayer's applicable financial statement with respect to such property, andEditor's Note:Sec. 56A(c)(13)(B)(i), below, after amendment byPub. L. 119-21, Sec. 70523(a)(2), is applicable to taxable years beginning after Dec. 31, 2025.I.R.C. \u00a7 56A(c)(13)(B)(i)\u2014to disregard any amount of\u2014I.R.C. \u00a7 56A(c)(13)(B)(i)(I)\u2014depreciation expense that is taken into account on the taxpayer's applicable financial\n                              statement with respect to such property, andI.R.C. \u00a7 56A(c)(13)(B)(i)(II)\u2014depletion expense that is taken into account on the taxpayer's applicable financial\n                              statement with respect to the intangible drilling and development costs of such property,\n                              andI.R.C. \u00a7 56A(c)(13)(B)(ii)\u2014to take into account any other item specified by the Secretary in order to provide\n                           that such property is accounted for in the same manner as it is accounted for under\n                           this chapter.",
+    "definitions": null
+  },
+  {
+    "section": "56A",
+    "subsection": "(c)(14)(A)",
+    "source_subsections": [
+      "(c)(14)(A)",
+      "(c)(14)(A)(i)",
+      "(c)(14)(A)(ii)",
+      "(c)(14)(A)(ii)(I)",
+      "(c)(14)(A)(ii)(II)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Adjusted financial statement income shall be\u2014\u2014reduced by amortization deductions allowed undersection 197with respect to qualified wireless spectrum to the extent of the amount allowed as deductions in computing taxable income for the taxable year, and\u2014appropriately adjusted\u2014\u2014to disregard any amount of amortization expense that is taken into account on the taxpayer's applicable financial statement with respect to such qualified wireless spectrum, and\u2014to take into account any other item specified by the Secretary in order to provide that such qualified wireless spectrum is accounted for in the same manner as it is accounted for under this chapter.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Adjusted financial statement income shall be\u2014\u2014reduced by amortization deductions allowed undersection 197with respect to qualified wireless spectrum to the extent of the amount allowed as deductions in computing taxable income for the taxable year, and\u2014appropriately adjusted\u2014\u2014to disregard any amount of amortization expense that is taken into account on the taxpayer's applicable financial statement with respect to such qualified wireless spectrum, and\u2014to take into account any other item specified by the Secretary in order to provide that such qualified wireless spectrum is accounted for in the same manner as it is accounted for under this chapter."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56A(c)(14)(A)In General\u2014Adjusted financial statement income shall be\u2014I.R.C. \u00a7 56A(c)(14)(A)(i)\u2014reduced by amortization deductions allowed undersection 197with respect to qualified wireless spectrum to the extent of the amount allowed as\n                           deductions in computing taxable income for the taxable year, andI.R.C. \u00a7 56A(c)(14)(A)(ii)\u2014appropriately adjusted\u2014I.R.C. \u00a7 56A(c)(14)(A)(ii)(I)\u2014to disregard any amount of amortization expense that is taken into account on the\n                              taxpayer's applicable financial statement with respect to such qualified wireless\n                              spectrum, andI.R.C. \u00a7 56A(c)(14)(A)(ii)(II)\u2014to take into account any other item specified by the Secretary in order to provide\n                              that such qualified wireless spectrum is accounted for in the same manner as it is\n                              accounted for under this chapter.",
+    "definitions": null
+  },
+  {
+    "section": "56A",
+    "subsection": "(c)(14)(B)",
+    "source_subsections": [
+      "(c)(14)(B)",
+      "(c)(14)(B)(i)",
+      "(c)(14)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Wireless Spectrum",
+    "text": "For purposes of this paragraph, the term \u201cqualified wireless spectrum\u201d means wireless spectrum which\u2014\u2014is used in the trade or business of a wireless telecommunications carrier, and\u2014was acquired after December 31, 2007, and before the date of enactment of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the term \u201cqualified wireless spectrum\u201d means wireless spectrum which\u2014\u2014is used in the trade or business of a wireless telecommunications carrier, and\u2014was acquired after December 31, 2007, and before the date of enactment of this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56A(c)(14)(B)Qualified Wireless Spectrum\u2014For purposes of this paragraph, the term \u201cqualified wireless spectrum\u201d means wireless\n                        spectrum which\u2014I.R.C. \u00a7 56A(c)(14)(B)(i)\u2014is used in the trade or business of a wireless telecommunications carrier, andI.R.C. \u00a7 56A(c)(14)(B)(ii)\u2014was acquired after December 31, 2007, and before the date of enactment of this section.",
+    "definitions": {
+      "term": "qualified wireless spectrum",
+      "requirements": [
+        "wireless spectrum which\u2014\u2014is used in the trade or business of a wireless telecommunications carrier, and\u2014was acquired after December 31, 2007, and before the date of enactment of this section."
+      ]
+    }
+  },
+  {
+    "section": "56A",
+    "subsection": "(c)(15)",
+    "source_subsections": [
+      "(c)(15)",
+      "(c)(15)(A)",
+      "(c)(15)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Authority To Adjust Items",
+    "text": "The Secretary shall issue regulations or other guidance to provide for such adjustments to adjusted financial statement income as the Secretary determines necessary to carry out the purposes of this section, including adjustments\u2014\u2014to prevent the omission or duplication of any item, and\u2014to carry out the principles of part II of subchapter C of this chapter (relating to corporate liquidations), part III of subchapter C of this chapter (relating to corporate organizations and reorganizations), and part II of subchapter K of this chapter (relating to partnership contributions and distributions).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall issue regulations or other guidance to provide for such adjustments to adjusted financial statement income as the Secretary determines necessary to carry out the purposes of this section, including adjustments\u2014\u2014to prevent the omission or duplication of any item, and\u2014to carry out the principles of part II of subchapter C of this chapter (relating to corporate liquidations), part III of subchapter C of this chapter (relating to corporate organizations and reorganizations), and part II of subchapter K of this chapter (relating to partnership contributions and distributions)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56A(c)(15)Secretarial Authority To Adjust Items\u2014The Secretary shall issue regulations or other guidance to provide for such adjustments\n                     to adjusted financial statement income as the Secretary determines necessary to carry\n                     out the purposes of this section, including adjustments\u2014I.R.C. \u00a7 56A(c)(15)(A)\u2014to prevent the omission or duplication of any item, andI.R.C. \u00a7 56A(c)(15)(B)\u2014to carry out the principles of part II of subchapter C of this chapter (relating to\n                        corporate liquidations), part III of subchapter C of this chapter (relating to corporate\n                        organizations and reorganizations), and part II of subchapter K of this chapter (relating\n                        to partnership contributions and distributions).",
+    "definitions": null
+  },
+  {
+    "section": "56A",
+    "subsection": "(c)(2)(A)",
+    "source_subsections": [
+      "(c)(2)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "Financial Statements",
+    "text": "If the financial results of a taxpayer are reported on the applicable financial statement for a group of entities, rules similar to the rules ofsection 451(b)(5)shall apply.",
+    "conditions": [
+      "the financial results of a taxpayer are reported on the applicable financial statement for a group of entities, rules similar to the rules ofsection 451(b)(5)shall apply."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the financial results of a taxpayer are reported on the applicable financial statement for a group of entities, rules similar to the rules ofsection 451(b)(5)shall apply."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56A(c)(2)(A)Consolidated Financial Statements\u2014If the financial results of a taxpayer are reported on the applicable financial statement\n                        for a group of entities, rules similar to the rules ofsection 451(b)(5)shall apply.",
+    "definitions": null
+  },
+  {
+    "section": "56A",
+    "subsection": "(c)(2)(B)",
+    "source_subsections": [
+      "(c)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Returns",
+    "text": "Except as provided in regulations prescribed by the Secretary, if the taxpayer is part of an affiliated group of corporations filing a consolidated return for any taxable year, adjusted financial statement income for such group for such taxable year shall take into account items on the group's applicable financial statement which are properly allocable to members of such group.",
+    "conditions": [
+      "the taxpayer is part of an affiliated group of corporations filing a consolidated return for any taxable year, adjusted financial statement income for such group for such taxable year shall take into account items on the group's applicable financial statement which are properly allocable to members of such group."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [
+      {
+        "applies_when": "regulations prescribed by the Secretary",
+        "effect": "See referenced section"
+      }
+    ],
+    "logical_structure": {
+      "if": [
+        "the taxpayer is part of an affiliated group of corporations filing a consolidated return for any taxable year, adjusted financial statement income for such group for such taxable year shall take into account items on the group's applicable financial statement which are properly allocable to members of such group."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as provided in regulations prescribed by the Secretary,"
+      ],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56A(c)(2)(B)Consolidated Returns\u2014Except as provided in regulations prescribed by the Secretary, if the taxpayer is\n                        part of an affiliated group of corporations filing a consolidated return for any taxable\n                        year, adjusted financial statement income for such group for such taxable year shall\n                        take into account items on the group's applicable financial statement which are properly\n                        allocable to members of such group.",
+    "definitions": null
+  },
+  {
+    "section": "56A",
+    "subsection": "(c)(2)(C)",
+    "source_subsections": [
+      "(c)(2)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Dividends And Other Amounts",
+    "text": "In the case of any corporation which is not included on a consolidated return with the taxpayer, adjusted financial statement income of the taxpayer with respect to such other corporation shall be determined by only taking into account the dividends received from such other corporation (reduced to the extent provided by the Secretary in regulations or other guidance) and other amounts which are includible in gross income or deductible as a loss under this chapter (other than amounts required to be included under sections951and951Aor such other amounts as provided by the Secretary) with respect to such other corporation.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any corporation which is not included on a consolidated return with the taxpayer, adjusted financial statement income of the taxpayer with respect to such other corporation shall be determined by only taking into account the dividends received from such other corporation (reduced to the extent provided by the Secretary in regulations or other guidance) and other amounts which are includible in gross income or deductible as a loss under this chapter (other than amounts required to be included under sections951and951Aor such other amounts as provided by the Secretary) with respect to such other corporation."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56A(c)(2)(C)Treatment Of Dividends And Other Amounts\u2014In the case of any corporation which is not included on a consolidated return with\n                        the taxpayer, adjusted financial statement income of the taxpayer with respect to\n                        such other corporation shall be determined by only taking into account the dividends\n                        received from such other corporation (reduced to the extent provided by the Secretary\n                        in regulations or other guidance) and other amounts which are includible in gross\n                        income or deductible as a loss under this chapter (other than amounts required to\n                        be included under sections951and951Aor such other amounts as provided by the Secretary) with respect to such other corporation.",
+    "definitions": null
+  },
+  {
+    "section": "56A",
+    "subsection": "(c)(2)(D)(i)",
+    "source_subsections": [
+      "(c)(2)(D)(i)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Except as provided by the Secretary, if the taxpayer is a partner in a partnership, adjusted financial statement income of the taxpayer with respect to such partnership shall be adjusted to only take into account the taxpayer's distributive share of adjusted financial statement income of such partnership.",
+    "conditions": [
+      "the taxpayer is a partner in a partnership, adjusted financial statement income of the taxpayer with respect to such partnership shall be adjusted to only take into account the taxpayer's distributive share of adjusted financial statement income of such partnership."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the taxpayer is a partner in a partnership, adjusted financial statement income of the taxpayer with respect to such partnership shall be adjusted to only take into account the taxpayer's distributive share of adjusted financial statement income of such partnership."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as provided by the Secretary,"
+      ],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56A(c)(2)(D)(i)In General\u2014Except as provided by the Secretary, if the taxpayer is a partner in a partnership,\n                           adjusted financial statement income of the taxpayer with respect to such partnership\n                           shall be adjusted to only take into account the taxpayer's distributive share of adjusted\n                           financial statement income of such partnership.",
+    "definitions": null
+  },
+  {
+    "section": "56A",
+    "subsection": "(c)(2)(D)(ii)",
+    "source_subsections": [
+      "(c)(2)(D)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Financial Statement Income Of Partnerships",
+    "text": "For the purposes of this part, the adjusted financial statement income of a partnership shall be the partnership's net income or loss set forth on such partnership's applicable financial statement (adjusted under rules similar to the rules of this section).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For the purposes of this part, the adjusted financial statement income of a partnership shall be the partnership's net income or loss set forth on such partnership's applicable financial statement (adjusted under rules similar to the rules of this section)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56A(c)(2)(D)(ii)Adjusted Financial Statement Income Of Partnerships\u2014For the purposes of this part, the adjusted financial statement income of a partnership\n                           shall be the partnership's net income or loss set forth on such partnership's applicable\n                           financial statement (adjusted under rules similar to the rules of this section).",
+    "definitions": null
+  },
+  {
+    "section": "56A",
+    "subsection": "(c)(3)(A)",
+    "source_subsections": [
+      "(c)(3)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "If, for any taxable year, a taxpayer is a United States shareholder of one or more controlled foreign corporations, the adjusted financial statement income of such taxpayer with respect to such controlled foreign corporation (as determined under paragraph (2)(C)) shall be adjusted to also take into account such taxpayer's pro rata share (determined under rules similar to the rules undersection 951(a)(2)) of items taken into account in computing the net income or loss set forth on the applicable financial statement (as adjusted under rules similar to those that apply in determining adjusted financial statement income) of each such controlled foreign corporation with respect to which such taxpayer is a United States shareholder.",
+    "conditions": [
+      ", for any taxable year, a taxpayer is a United States shareholder of one or more controlled foreign corporations, the adjusted financial statement income of such taxpayer with respect to such controlled foreign corporation (as determined under paragraph (2)(C)) shall be adjusted to also take into account such taxpayer's pro rata share (determined under rules similar to the rules undersection 951(a)(2)) of items taken into account in computing the net income or loss set forth on the applicable financial statement (as adjusted under rules similar to those that apply in determining adjusted financial statement income) of each such controlled foreign corporation with respect to which such taxpayer is a United States shareholder."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        ", for any taxable year, a taxpayer is a United States shareholder of one or more controlled foreign corporations, the adjusted financial statement income of such taxpayer with respect to such controlled foreign corporation (as determined under paragraph (2)(C)) shall be adjusted to also take into account such taxpayer's pro rata share (determined under rules similar to the rules undersection 951(a)(2)) of items taken into account in computing the net income or loss set forth on the applicable financial statement (as adjusted under rules similar to those that apply in determining adjusted financial statement income) of each such controlled foreign corporation with respect to which such taxpayer is a United States shareholder."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56A(c)(3)(A)In General\u2014If, for any taxable year, a taxpayer is a United States shareholder of one or more\n                        controlled foreign corporations, the adjusted financial statement income of such taxpayer\n                        with respect to such controlled foreign corporation (as determined under paragraph\n                        (2)(C)) shall be adjusted to also take into account such taxpayer's pro rata share\n                        (determined under rules similar to the rules undersection 951(a)(2)) of items taken into account in computing the net income or loss set forth on the\n                        applicable financial statement (as adjusted under rules similar to those that apply\n                        in determining adjusted financial statement income) of each such controlled foreign\n                        corporation with respect to which such taxpayer is a United States shareholder.",
+    "definitions": null
+  },
+  {
+    "section": "56A",
+    "subsection": "(c)(3)(B)",
+    "source_subsections": [
+      "(c)(3)(B)",
+      "(c)(3)(B)(i)",
+      "(c)(3)(B)(ii)"
+    ],
+    "rule_type": "computation",
+    "title": "Adjustments",
+    "text": "In any case in which the adjustment determined under subparagraph (A) would result in a negative adjustment for such taxable year\u2014\u2014no adjustment shall be made under this paragraph for such taxable year, and\u2014the amount of the adjustment determined under this paragraph for the succeeding taxable year (determined without regard to this paragraph) shall be reduced by an amount equal to the negative adjustment for such taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In any case in which the adjustment determined under subparagraph (A) would result in a negative adjustment for such taxable year\u2014\u2014no adjustment shall be made under this paragraph for such taxable year, and\u2014the amount of the adjustment determined under this paragraph for the succeeding taxable year (determined without regard to this paragraph) shall be reduced by an amount equal to the negative adjustment for such taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56A(c)(3)(B)Negative Adjustments\u2014In any case in which the adjustment determined under subparagraph (A) would result\n                        in a negative adjustment for such taxable year\u2014I.R.C. \u00a7 56A(c)(3)(B)(i)\u2014no adjustment shall be made under this paragraph for such taxable year, andI.R.C. \u00a7 56A(c)(3)(B)(ii)\u2014the amount of the adjustment determined under this paragraph for the succeeding taxable\n                           year (determined without regard to this paragraph) shall be reduced by an amount equal\n                           to the negative adjustment for such taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "56A",
+    "subsection": "(c)(4)",
+    "source_subsections": [
+      "(c)(4)"
+    ],
+    "rule_type": "condition",
+    "title": "Connected Income",
+    "text": "In the case of a foreign corporation, to determine adjusted financial statement income, the principles ofsection 882shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a foreign corporation, to determine adjusted financial statement income, the principles ofsection 882shall apply."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56A(c)(4)Effectively Connected Income\u2014In the case of a foreign corporation, to determine adjusted financial statement income,\n                     the principles ofsection 882shall apply.",
+    "definitions": null
+  },
+  {
+    "section": "56A",
+    "subsection": "(c)(5)",
+    "source_subsections": [
+      "(c)(5)"
+    ],
+    "rule_type": "condition",
+    "title": "For Certain Taxes",
+    "text": "Adjusted financial statement income shall be appropriately adjusted to disregard any Federal income taxes, or income, war profits, or excess profits taxes (within the meaning ofsection 901) with respect to a foreign country or possession of the United States, which are taken into account on the taxpayer's applicable financial statement. To the extent provided by the Secretary, the preceding sentence shall not apply to income, war profits, or excess profits taxes (within the meaning ofsection 901) that are imposed by a foreign country or possession of the United States and taken into account on the taxpayer's applicable financial statement if the taxpayer does not choose to have the benefits of subpart A of part III of subchapter N for the taxable year. The Secretary shall prescribe such regulations or other guidance as may be necessary and appropriate to provide for the proper treatment of current and deferred taxes for purposes of this paragraph, including the time at which such taxes are properly taken into account.",
+    "conditions": [
+      "the taxpayer does not choose to have the benefits of subpart A of part III of subchapter N for the taxable year. The Secretary shall prescribe such regulations or other guidance as may be necessary and appropriate to provide for the proper treatment of current and deferred taxes for purposes of this paragraph, including the time at which such taxes are properly taken into account."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the taxpayer does not choose to have the benefits of subpart A of part III of subchapter N for the taxable year. The Secretary shall prescribe such regulations or other guidance as may be necessary and appropriate to provide for the proper treatment of current and deferred taxes for purposes of this paragraph, including the time at which such taxes are properly taken into account."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Adjusted financial statement income shall be appropriately adjusted to disregard any Federal income taxes, or income, war profits, or excess profits taxes (within the meaning ofsection 901) with respect to a foreign country or possession of the United States, which are taken into account on the taxpayer's applicable financial statement. To the extent provided by the Secretary, the preceding sentence shall not apply to income, war profits, or excess profits taxes (within the meaning ofsection 901) that are imposed by a foreign country or possession of the United States and taken into account on the taxpayer's applicable financial statement"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56A(c)(5)Adjustments For Certain Taxes\u2014Adjusted financial statement income shall be appropriately adjusted to disregard any\n                     Federal income taxes, or income, war profits, or excess profits taxes (within the\n                     meaning ofsection 901) with respect to a foreign country or possession of the United States, which are\n                     taken into account on the taxpayer's applicable financial statement. To the extent\n                     provided by the Secretary, the preceding sentence shall not apply to income, war profits,\n                     or excess profits taxes (within the meaning ofsection 901) that are imposed by a foreign country or possession of the United States and taken\n                     into account on the taxpayer's applicable financial statement if the taxpayer does\n                     not choose to have the benefits of subpart A of part III of subchapter N for the taxable\n                     year. The Secretary shall prescribe such regulations or other guidance as may be necessary\n                     and appropriate to provide for the proper treatment of current and deferred taxes\n                     for purposes of this paragraph, including the time at which such taxes are properly\n                     taken into account.",
+    "definitions": null
+  },
+  {
+    "section": "56A",
+    "subsection": "(c)(6)",
+    "source_subsections": [
+      "(c)(6)"
+    ],
+    "rule_type": "condition",
+    "title": "With Respect To Disregarded Entities",
+    "text": "Adjusted financial statement income shall be adjusted to take into account any adjusted financial statement income of a disregarded entity owned by the taxpayer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Adjusted financial statement income shall be adjusted to take into account any adjusted financial statement income of a disregarded entity owned by the taxpayer."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56A(c)(6)Adjustment With Respect To Disregarded Entities\u2014Adjusted financial statement income shall be adjusted to take into account any adjusted\n                     financial statement income of a disregarded entity owned by the taxpayer.",
+    "definitions": null
+  },
+  {
+    "section": "56A",
+    "subsection": "(c)(7)",
+    "source_subsections": [
+      "(c)(7)"
+    ],
+    "rule_type": "condition",
+    "title": "Rule For Cooperatives",
+    "text": "In the case of a cooperative to whichsection 1381applies, the adjusted financial statement income (determined without regard to this paragraph) shall be reduced by the amounts referred to insection 1382(b)(relating to patronage dividends and per-unit retain allocations) to the extent such amounts were not otherwise taken into account in determining adjusted financial statement income.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a cooperative to whichsection 1381applies, the adjusted financial statement income (determined without regard to this paragraph) shall be reduced by the amounts referred to insection 1382(b)(relating to patronage dividends and per-unit retain allocations) to the extent such amounts were not otherwise taken into account in determining adjusted financial statement income."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56A(c)(7)Special Rule For Cooperatives\u2014In the case of a cooperative to whichsection 1381applies, the adjusted financial statement income (determined without regard to this\n                     paragraph) shall be reduced by the amounts referred to insection 1382(b)(relating to patronage dividends and per-unit retain allocations) to the extent such\n                     amounts were not otherwise taken into account in determining adjusted financial statement\n                     income.",
+    "definitions": null
+  },
+  {
+    "section": "56A",
+    "subsection": "(c)(8)",
+    "source_subsections": [
+      "(c)(8)",
+      "(c)(8)(A)",
+      "(c)(8)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "For Alaska Native Corporations",
+    "text": "Adjusted financial statement income shall be appropriately adjusted to allow\u2014\u2014cost recovery and depletion attributable to property the basis of which is determined under section 21(c) of the Alaska Native Claims Settlement Act (43 U.S.C. 1620(c)), and\u2014deductions for amounts payable made pursuant to section 7(i) or section 7(j) of such Act (43 U.S.C. 1606(i)and1606(j)) only at such time as the deductions are allowed for tax purposes.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Adjusted financial statement income shall be appropriately adjusted to allow\u2014\u2014cost recovery and depletion attributable to property the basis of which is determined under section 21(c) of the Alaska Native Claims Settlement Act (43 U.S.C. 1620(c)), and\u2014deductions for amounts payable made pursuant to section 7(i) or section 7(j) of such Act (43 U.S.C. 1606(i)and1606(j)) only at such time as the deductions are allowed for tax purposes."
+    },
+    "cross_references": [
+      {
+        "section": "21(c)",
+        "reason": "of which is determined under..."
+      },
+      {
+        "section": "7(i)",
+        "reason": "unts payable made pursuant to..."
+      },
+      {
+        "section": "7(j)",
+        "reason": "or..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56A(c)(8)Rules For Alaska Native Corporations\u2014Adjusted financial statement income shall be appropriately adjusted to allow\u2014I.R.C. \u00a7 56A(c)(8)(A)\u2014cost recovery and depletion attributable to property the basis of which is determined\n                        under section 21(c) of the Alaska Native Claims Settlement Act (43 U.S.C. 1620(c)), andI.R.C. \u00a7 56A(c)(8)(B)\u2014deductions for amounts payable made pursuant to section 7(i) or section 7(j) of such\n                        Act (43 U.S.C. 1606(i)and1606(j)) only at such time as the deductions are allowed for tax purposes.",
+    "definitions": null
+  },
+  {
+    "section": "56A",
+    "subsection": "(c)(9)",
+    "source_subsections": [
+      "(c)(9)"
+    ],
+    "rule_type": "condition",
+    "title": "Attributable To Elections For Direct Payment Of Certain Credits",
+    "text": "Adjusted financial statement income shall be appropriately adjusted to disregard any amount treated as a payment against the tax imposed by subtitle A pursuant to an election undersection 48D(d)or6417, to the extent such amount was not otherwise taken into account under paragraph (5).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Adjusted financial statement income shall be appropriately adjusted to disregard any amount treated as a payment against the tax imposed by subtitle A pursuant to an election undersection 48D(d)or6417, to the extent such amount was not otherwise taken into account under paragraph (5)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56A(c)(9)Amounts Attributable To Elections For Direct Payment Of Certain Credits\u2014Adjusted financial statement income shall be appropriately adjusted to disregard any\n                     amount treated as a payment against the tax imposed by subtitle A pursuant to an election\n                     undersection 48D(d)or6417, to the extent such amount was not otherwise taken into account under paragraph (5).",
+    "definitions": null
+  },
+  {
+    "section": "56A",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)",
+      "(d)(1)(A)",
+      "(d)(1)(B)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "Adjusted financial statement income (determined after application of subsection (c) and without regard to this subsection) shall be reduced by an amount equal to the lesser of\u2014\u2014the aggregate amount of financial statement net operating loss carryovers to the taxable year, or\u201480 percent of adjusted financial statement income computed without regard to the deduction allowable under this subsection.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "min",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.8,
+        "text": "80 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Adjusted financial statement income (determined after application of subsection (c) and without regard to this subsection) shall be reduced by an amount equal to the lesser of\u2014\u2014the aggregate amount of financial statement net operating loss carryovers to the taxable year, or\u201480 percent of adjusted financial statement income computed without regard to the deduction allowable under this subsection."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56A(d)(1)In General\u2014Adjusted financial statement income (determined after application of subsection (c)\n                     and without regard to this subsection) shall be reduced by an amount equal to the\n                     lesser of\u2014I.R.C. \u00a7 56A(d)(1)(A)\u2014the aggregate amount of financial statement net operating loss carryovers to the taxable\n                        year, orI.R.C. \u00a7 56A(d)(1)(B)\u201480 percent of adjusted financial statement income computed without regard to the deduction\n                        allowable under this subsection.",
+    "definitions": null
+  },
+  {
+    "section": "56A",
+    "subsection": "(d)(2)",
+    "source_subsections": [
+      "(d)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Statement Net Operating Loss Carryover",
+    "text": "A financial statement net operating loss for any taxable year shall be a financial statement net operating loss carryover to each taxable year following the taxable year of the loss. The portion of such loss which shall be carried to subsequent taxable years shall be the amount of such loss remaining (if any) after the application of paragraph (1).",
+    "conditions": [
+      "any) after the application of paragraph (1)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any) after the application of paragraph (1)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "A financial statement net operating loss for any taxable year shall be a financial statement net operating loss carryover to each taxable year following the taxable year of the loss. The portion of such loss which shall be carried to subsequent taxable years shall be the amount of such loss remaining ("
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56A(d)(2)Financial Statement Net Operating Loss Carryover\u2014A financial statement net operating loss for any taxable year shall be a financial\n                     statement net operating loss carryover to each taxable year following the taxable\n                     year of the loss. The portion of such loss which shall be carried to subsequent taxable\n                     years shall be the amount of such loss remaining (if any) after the application of\n                     paragraph (1).",
+    "definitions": null
+  },
+  {
+    "section": "56A",
+    "subsection": "(d)(3)",
+    "source_subsections": [
+      "(d)(3)"
+    ],
+    "rule_type": "definition",
+    "title": "Statement Net Operating Loss Defined",
+    "text": "Statement Net Operating Loss Defined\u2014For purposes of this subsection, the term \u201cfinancial statement net operating loss\u201d means the amount of the net loss (if any) set forth on the corporation's applicable financial statement (determined after application of subsection (c) and without regard to this subsection) for taxable years ending after December 31, 2019.",
+    "conditions": [
+      "any) set forth on the corporation's applicable financial statement (determined after application of subsection (c) and without regard to this subsection) for taxable years ending after December 31, 2019."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any) set forth on the corporation's applicable financial statement (determined after application of subsection (c) and without regard to this subsection) for taxable years ending after December 31, 2019."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Statement Net Operating Loss Defined\u2014For purposes of this subsection, the term \u201cfinancial statement net operating loss\u201d means the amount of the net loss ("
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56A(d)(3)Financial Statement Net Operating Loss Defined\u2014For purposes of this subsection, the term \u201cfinancial statement net operating loss\u201d\n                     means the amount of the net loss (if any) set forth on the corporation's applicable\n                     financial statement (determined after application of subsection (c) and without regard\n                     to this subsection) for taxable years ending after December 31, 2019.",
+    "definitions": {
+      "term": "financial statement net operating loss",
+      "requirements": [
+        "the amount of the net loss (if any) set forth on the corporation's applicable financial statement (determined after application of subsection (c) and without regard to this subsection) for taxable years ending after December 31, 2019."
+      ]
+    }
+  },
+  {
+    "section": "56A",
+    "subsection": "(e)",
+    "source_subsections": [
+      "(e)"
+    ],
+    "rule_type": "condition",
+    "title": "And Other Guidance",
+    "text": "The Secretary shall provide for such regulations and other guidance as necessary to carry out the purposes of this section, including regulations and other guidance relating to the effect of the rules of this section on partnerships with income taken into account by an applicable corporation.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall provide for such regulations and other guidance as necessary to carry out the purposes of this section, including regulations and other guidance relating to the effect of the rules of this section on partnerships with income taken into account by an applicable corporation."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56A(e)Regulations And Other Guidance\u2014The Secretary shall provide for such regulations and other guidance as necessary to\n                  carry out the purposes of this section, including regulations and other guidance relating\n                  to the effect of the rules of this section on partnerships with income taken into\n                  account by an applicable corporation.",
+    "definitions": null
+  }
+]

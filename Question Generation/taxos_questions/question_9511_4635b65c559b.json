@@ -1,0 +1,22 @@
+{
+  "id": "4635b65c559b",
+  "section": "9511",
+  "citation": "I.R.C. \u00a7 9511(b)(4)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 9511(b)(4) is discussed as follows: 'I.R.C. \u00a7 9511(b)(4)Applicable Amount Defined\u2014\u2014In paragraph (1)(F)(ii), the term \u201capplicable amount\u201d ...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 9511(b)(4)?",
+  "difficulty": 1,
+  "choices": [
+    "$342,650,000.00",
+    "$311,500,000.00",
+    "$280,350,000.00",
+    "$623,000,000.00",
+    "$155,750,000.00"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $311,500,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 9511(b)(4)"
+  ]
+}

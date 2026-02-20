@@ -1,0 +1,22 @@
+{
+  "id": "9bf4a15affda",
+  "section": "960",
+  "citation": "I.R.C. \u00a7 960(d)(4)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 960(d)(4) is discussed as follows: 'I.R.C. \u00a7 960(d)(4)Disallowance Of Foreign Tax Credit With Respect To Distributions Of Previously Tax...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 960(d)(4)?",
+  "difficulty": 1,
+  "choices": [
+    "10.0%",
+    "15.0%",
+    "20.0%",
+    "0.0%",
+    "90.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 10.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 960(d)(4)"
+  ]
+}

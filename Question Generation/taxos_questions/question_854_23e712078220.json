@@ -1,0 +1,22 @@
+{
+  "id": "23e712078220",
+  "section": "854",
+  "citation": "I.R.C. \u00a7 854(b)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 854(b) is discussed as follows: 'I.R.C. \u00a7 854(b)Other DividendsI.R.C. \u00a7 854(b)(1)Amount Treated As DividendI.R.C. \u00a7 854(b)(1)(A)Deduc...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 854(b)?",
+  "difficulty": 1,
+  "choices": [
+    "5.0%",
+    "142.5%",
+    "85.0%",
+    "95.0%",
+    "105.0%"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies 95.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 854(b)"
+  ]
+}

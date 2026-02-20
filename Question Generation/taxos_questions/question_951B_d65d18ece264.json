@@ -1,0 +1,22 @@
+{
+  "id": "d65d18ece264",
+  "section": "951B",
+  "citation": "I.R.C. \u00a7 951B(b)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 951B(b) is discussed as follows: 'I.R.C. \u00a7 951B(b)Foreign Controlled United States Shareholder\u2014For purposes of this section, the term ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 951B(b)?",
+  "difficulty": 1,
+  "choices": [
+    "20.0%",
+    "0.0%",
+    "15.0%",
+    "90.0%",
+    "10.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 10.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 951B(b)"
+  ]
+}

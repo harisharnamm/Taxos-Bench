@@ -1,0 +1,22 @@
+{
+  "id": "d7f9e70a4ea3",
+  "section": "61",
+  "citation": "I.R.C. \u00a7 61(a)",
+  "type": "Calculation - Gross Income",
+  "scenario": "Bob received the following amounts during the year: Dividends: $23,492.72, Gift from Parents: $48,627.71, Wages: $34,940.57, Life Insurance Proceeds (Death): $37,872.80, Gambling Winnings: $3,461.70.",
+  "question": "Calculate Bob's gross income under I.R.C. \u00a7 61.",
+  "difficulty": 2,
+  "choices": [
+    "$61,894.99",
+    "$86,500.51",
+    "$148,395.50",
+    "$0.00",
+    "$30,947.49"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "Gross income includes all income from whatever source derived, unless excluded. Total: $61,894.99.",
+  "reasoning": "Summed included items, ignored excluded items.",
+  "source_rules": [
+    "I.R.C. \u00a7 61(a)"
+  ]
+}

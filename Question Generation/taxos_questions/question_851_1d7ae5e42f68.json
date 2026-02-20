@@ -1,0 +1,22 @@
+{
+  "id": "1d7ae5e42f68",
+  "section": "851",
+  "citation": "I.R.C. \u00a7 851(e)(2)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 851(e)(2) is discussed as follows: 'I.R.C. \u00a7 851(e)(2)Limitation\u2014The  provisions of this subsection shall not apply at the close of any ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 851(e)(2)?",
+  "difficulty": 1,
+  "choices": [
+    "35.0%",
+    "37.5%",
+    "15.0%",
+    "75.0%",
+    "25.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 25.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 851(e)(2)"
+  ]
+}

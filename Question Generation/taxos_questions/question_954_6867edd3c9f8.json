@@ -1,0 +1,22 @@
+{
+  "id": "6867edd3c9f8",
+  "section": "954",
+  "citation": "I.R.C. \u00a7 954(h)(2)(B)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 954(h)(2)(B) is discussed as follows: 'I.R.C. \u00a7 954(h)(2)(B)Predominantly Engaged\u2014A controlled foreign corporation shall be treated as pred...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 954(h)(2)(B)?",
+  "difficulty": 1,
+  "choices": [
+    "60.0%",
+    "105.0%",
+    "70.0%",
+    "30.0%",
+    "80.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 70.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 954(h)(2)(B)"
+  ]
+}

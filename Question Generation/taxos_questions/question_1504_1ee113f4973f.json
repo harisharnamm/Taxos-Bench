@@ -1,0 +1,22 @@
+{
+  "id": "1ee113f4973f",
+  "section": "1504",
+  "citation": "I.R.C. \u00a7 1504(a)(2)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1504(a)(2) is discussed as follows: 'I.R.C. \u00a7 1504(a)(2)80-Percent Voting And Value Test\u2014The  ownership of stock of any corporation meets...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1504(a)(2)?",
+  "difficulty": 1,
+  "choices": [
+    "120.0%",
+    "80.0%",
+    "20.0%",
+    "90.0%",
+    "70.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 80.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1504(a)(2)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "355ae8d34aa9",
+  "section": "1400N",
+  "citation": "I.R.C. \u00a7 1400N(l)(4)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 1400N(l)(4) is discussed as follows: 'I.R.C. \u00a7 1400N(l)(4)Gulf Tax Credit Bond\u2014For purposes of this subsection\u2014I.R.C. \u00a7 1400N(l)(4)(A)In G...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 1400N(l)(4)?",
+  "difficulty": 1,
+  "choices": [
+    "$200,000,000.00",
+    "$400,000,000.00",
+    "$180,000,000.00",
+    "$220,000,000.00",
+    "$100,000,000.00"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies $200,000,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1400N(l)(4)"
+  ]
+}

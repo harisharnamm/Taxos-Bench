@@ -1,0 +1,22 @@
+{
+  "id": "c907130fa89c",
+  "section": "1400B",
+  "citation": "I.R.C. \u00a7 1400B(b)(4)(B)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 1400B(b)(4)(B) is discussed as follows: 'I.R.C. \u00a7 1400B(b)(4)(B)Special Rule For Buildings Which Are Substantially ImprovedI.R.C. \u00a7 1400B(b)(...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 1400B(b)(4)(B)?",
+  "difficulty": 1,
+  "choices": [
+    "$5,000.00",
+    "$10,000.00",
+    "$4,500.00",
+    "$2,500.00",
+    "$5,500.00"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies $5,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1400B(b)(4)(B)"
+  ]
+}

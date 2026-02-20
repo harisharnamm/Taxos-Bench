@@ -1,0 +1,22 @@
+{
+  "id": "40e446201816",
+  "section": "23",
+  "citation": "I.R.C. \u00a7 23(h)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 23(h) is discussed as follows: 'I.R.C. \u00a7 23(h)Adjustments For InflationI.R.C. \u00a7 23(h)(1)In General\u2014In the case of a taxable year beg...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 23(h)?",
+  "difficulty": 1,
+  "choices": [
+    "$10.00",
+    "$9.00",
+    "$5.00",
+    "$20.00",
+    "$11.00"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies $10.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 23(h)"
+  ]
+}

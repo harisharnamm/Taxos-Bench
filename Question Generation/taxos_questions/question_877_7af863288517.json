@@ -1,0 +1,22 @@
+{
+  "id": "7af863288517",
+  "section": "877",
+  "citation": "I.R.C. \u00a7 877(a)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 877(a) is discussed as follows: 'I.R.C. \u00a7 877(a)Treatment Of ExpatriatesI.R.C. \u00a7 877(a)(1)In General\u2014Every nonresident alien individu...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 877(a)?",
+  "difficulty": 1,
+  "choices": [
+    "$900.00",
+    "$1,000.00",
+    "$500.00",
+    "$2,000.00",
+    "$1,100.00"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $1,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 877(a)"
+  ]
+}

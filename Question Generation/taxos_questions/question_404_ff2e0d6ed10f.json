@@ -1,0 +1,22 @@
+{
+  "id": "ff2e0d6ed10f",
+  "section": "404",
+  "citation": "I.R.C. \u00a7 404(a)(3)(A)(i)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 404(a)(3)(A)(i) is discussed as follows: 'I.R.C. \u00a7 404(a)(3)(A)(i)In General\u2014In  the taxable year when paid, if the contributions are paid int...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 404(a)(3)(A)(i)?",
+  "difficulty": 1,
+  "choices": [
+    "15.0%",
+    "75.0%",
+    "35.0%",
+    "37.5%",
+    "25.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 25.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 404(a)(3)(A)(i)"
+  ]
+}

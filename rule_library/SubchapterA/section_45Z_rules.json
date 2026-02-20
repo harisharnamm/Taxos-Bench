@@ -1,0 +1,1231 @@
+[
+  {
+    "section": "45Z",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)",
+      "(a)(1)(A)",
+      "(a)(1)(A)(i)",
+      "(a)(1)(A)(ii)",
+      "(a)(1)(B)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "For purposes ofsection 38, the clean fuel production credit for any taxable year is an amount equal to the product of\u2014\u2014the applicable amount per gallon (or gallon equivalent) with respect to any transportation fuel which is\u2014\u2014produced by the taxpayer at a qualified facility, and\u2014sold by the taxpayer in a manner described in paragraph (4) during the taxable year, and\u2014the emissions factor for such fuel (as determined under subsection (b)).",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes ofsection 38, the clean fuel production credit for any taxable year is an amount equal to the product of\u2014\u2014the applicable amount per gallon (or gallon equivalent) with respect to any transportation fuel which is\u2014\u2014produced by the taxpayer at a qualified facility, and\u2014sold by the taxpayer in a manner described in paragraph (4) during the taxable year, and\u2014the emissions factor for such fuel (as determined under subsection (b))."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(a)(1)In General\u2014For purposes ofsection 38, the clean fuel production credit for any taxable year is an amount equal to the\n                     product of\u2014I.R.C. \u00a7 45Z(a)(1)(A)\u2014the applicable amount per gallon (or gallon equivalent) with respect to any transportation\n                        fuel which is\u2014I.R.C. \u00a7 45Z(a)(1)(A)(i)\u2014produced by the taxpayer at a qualified facility, andI.R.C. \u00a7 45Z(a)(1)(A)(ii)\u2014sold by the taxpayer in a manner described in paragraph (4) during the taxable year,\n                           andI.R.C. \u00a7 45Z(a)(1)(B)\u2014the emissions factor for such fuel (as determined under subsection (b)).",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(a)(2)(A)",
+    "source_subsections": [
+      "(a)(2)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "Amount",
+    "text": "In the case of any transportation fuel produced at a qualified facility which does not satisfy the requirements described in subparagraph (B), the applicable amount shall be 20 cents.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any transportation fuel produced at a qualified facility which does not satisfy the requirements described in subparagraph (B), the applicable amount shall be 20 cents."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(a)(2)(A)Base Amount\u2014In the case of any transportation fuel produced at a qualified facility which does\n                        not satisfy the requirements described in subparagraph (B), the applicable amount\n                        shall be 20 cents.",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(a)(2)(B)",
+    "source_subsections": [
+      "(a)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Amount",
+    "text": "In the case of any transportation fuel produced at a qualified facility which satisfies the requirements under paragraphs (6) and (7) of subsection (f), the applicable amount shall be $1.00.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 1,
+        "text": "$1"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any transportation fuel produced at a qualified facility which satisfies the requirements under paragraphs (6) and (7) of subsection (f), the applicable amount shall be $1.00."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(a)(2)(B)Alternative Amount\u2014In the case of any transportation fuel produced at a qualified facility which satisfies\n                        the requirements under paragraphs (6) and (7) of subsection (f), the applicable amount\n                        shall be $1.00.",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(a)(3)",
+    "source_subsections": [
+      "(a)(3)",
+      "(a)(3)(A)",
+      "(a)(3)(A)(i)",
+      "(a)(3)(A)(ii)",
+      "(a)(3)(B)",
+      "(a)(3)(B)(i)",
+      "(a)(3)(B)(i)(I)",
+      "(a)(3)(B)(i)(II)",
+      "(a)(3)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "of Sustainable Aviation Fuel",
+    "text": "For purposes of this section, the term \u201csustainable aviation fuel\u201d means liquid fuel, the portion of which is not kerosene, which is sold for use in an aircraft and which \u2014\u2014meets the requirements of \u2014\u2014ASTM International Standard D7566, or\u2014the Fischer Tropsch provisions of ASTM International Standard D1655, Annex A1, and\u2014is not derived from palm fatty acid distillates or petroleum.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u201csustainable aviation fuel\u201d means liquid fuel, the portion of which is not kerosene, which is sold for use in an aircraft and which \u2014\u2014meets the requirements of \u2014\u2014ASTM International Standard D7566, or\u2014the Fischer Tropsch provisions of ASTM International Standard D1655, Annex A1, and\u2014is not derived from palm fatty acid distillates or petroleum."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(a)(3)Definition of Sustainable Aviation Fuel\u2014For purposes of this section, the term \u201csustainable aviation fuel\u201d means liquid fuel,\n                     the portion of which is not kerosene, which is sold for use in an aircraft and which\n                     \u2014I.R.C. \u00a7 45Z(a)(3)(A)\u2014meets the requirements of \u2014I.R.C. \u00a7 45Z(a)(3)(A)(i)\u2014ASTM International Standard D7566, orI.R.C. \u00a7 45Z(a)(3)(A)(ii)\u2014the Fischer Tropsch provisions of ASTM International Standard D1655, Annex A1, andI.R.C. \u00a7 45Z(a)(3)(B)\u2014is not derived from palm fatty acid distillates or petroleum.",
+    "definitions": {
+      "term": "sustainable aviation fuel",
+      "requirements": [
+        "liquid fuel, the portion of which is not kerosene, which is sold for use in an aircraft and which \u2014\u2014meets the requirements of \u2014\u2014ASTM International Standard D7566, or\u2014the Fischer Tropsch provisions of ASTM International Standard D1655, Annex A1, and\u2014is not derived from palm fatty acid distillates or petroleum."
+      ]
+    }
+  },
+  {
+    "section": "45Z",
+    "subsection": "(a)(4)",
+    "source_subsections": [
+      "(a)(4)",
+      "(a)(4)(A)",
+      "(a)(4)(B)",
+      "(a)(4)(C)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "For purposes of paragraph (1), the transportation fuel is sold in a manner described in this paragraph if such fuel is sold by the taxpayer to an unrelated person\u2014\u2014for use by such person in the production of a fuel mixture,\u2014for use by such person in a trade or business, or\u2014who sells such fuel at retail to another person and places such fuel in the fuel tank of such other person.",
+    "conditions": [
+      "such fuel is sold by the taxpayer to an unrelated person\u2014\u2014for use by such person in the production of a fuel mixture,\u2014for use by such person in a trade or business, or\u2014who sells such fuel at retail to another person and places such fuel in the fuel tank of such other person."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such fuel is sold by the taxpayer to an unrelated person\u2014\u2014for use by such person in the production of a fuel mixture,\u2014for use by such person in a trade or business, or\u2014who sells such fuel at retail to another person and places such fuel in the fuel tank of such other person."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of paragraph (1), the transportation fuel is sold in a manner described in this paragraph"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(a)(4)Sale\u2014For purposes of paragraph (1), the transportation fuel is sold in a manner described\n                     in this paragraph if such fuel is sold by the taxpayer to an unrelated person\u2014I.R.C. \u00a7 45Z(a)(4)(A)\u2014for use by such person in the production of a fuel mixture,I.R.C. \u00a7 45Z(a)(4)(B)\u2014for use by such person in a trade or business, orI.R.C. \u00a7 45Z(a)(4)(C)\u2014who sells such fuel at retail to another person and places such fuel in the fuel tank\n                        of such other person.",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(b)(1)(A)(i)",
+    "source_subsections": [
+      "(b)(1)(A)(i)",
+      "(b)(1)(A)(i)(I)",
+      "(b)(1)(A)(i)(I)(aa)",
+      "(b)(1)(A)(i)(I)(bb)",
+      "(b)(1)(A)(i)(II)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "The emissions factor of a transportation fuel shall be an amount equal to the quotient of\u2014\u2014an amount equal to\u2014\u201450 kilograms of CO2e per mmBTU, minus\u2014the emissions rate for such fuel, divided by\u201450 kilograms of CO2e per mmBTU.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The emissions factor of a transportation fuel shall be an amount equal to the quotient of\u2014\u2014an amount equal to\u2014\u201450 kilograms of CO2e per mmBTU, minus\u2014the emissions rate for such fuel, divided by\u201450 kilograms of CO2e per mmBTU."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(b)(1)(A)(i)In General\u2014The emissions factor of a transportation fuel shall be an amount equal to the quotient\n                           of\u2014I.R.C. \u00a7 45Z(b)(1)(A)(i)(I)\u2014an amount equal to\u2014I.R.C. \u00a7 45Z(b)(1)(A)(i)(I)(aa)\u201450 kilograms of CO2e per mmBTU, minusI.R.C. \u00a7 45Z(b)(1)(A)(i)(I)(bb)\u2014the emissions rate for such fuel, divided byI.R.C. \u00a7 45Z(b)(1)(A)(i)(II)\u201450 kilograms of CO2e per mmBTU.",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(b)(1)(B)(i)",
+    "source_subsections": [
+      "(b)(1)(B)(i)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Subject to clauses (ii), (iii), (iv), and (v), the Secretary shall annually publish a table which sets forth the emissions rate for similar types and categories of transportation fuels based on the amount of lifecycle greenhouse gas emissions (as described in section 211(o)(1)(H) of the Clean Air Act (42 U.S.C. 7545(o)(1)(H)), as in effect on the date of the enactment of this section) for such fuels, expressed as kilograms of CO2e per mmBTU, which a taxpayer shall use for purposes of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Subject to clauses (ii), (iii), (iv), and (v), the Secretary shall annually publish a table which sets forth the emissions rate for similar types and categories of transportation fuels based on the amount of lifecycle greenhouse gas emissions (as described in section 211(o)(1)(H) of the Clean Air Act (42 U.S.C. 7545(o)(1)(H)), as in effect on the date of the enactment of this section) for such fuels, expressed as kilograms of CO2e per mmBTU, which a taxpayer shall use for purposes of this section."
+    },
+    "cross_references": [
+      {
+        "section": "211(o)(1)(H)",
+        "reason": "as emissions (as described in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(b)(1)(B)(i)In General\u2014Subject to clauses (ii), (iii), (iv), and (v), the Secretary shall annually publish\n                           a table which sets forth the emissions rate for similar types and categories of transportation\n                           fuels based on the amount of lifecycle greenhouse gas emissions (as described in section\n                           211(o)(1)(H) of the Clean Air Act (42 U.S.C. 7545(o)(1)(H)), as in effect on the date\n                           of the enactment of this section) for such fuels, expressed as kilograms of CO2e per mmBTU, which a taxpayer shall use for purposes of this section.",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(b)(1)(B)(ii)",
+    "source_subsections": [
+      "(b)(1)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Fuel",
+    "text": "In the case of any transportation fuel which is not a sustainable aviation fuel, the lifecycle greenhouse gas emissions of such fuel shall be based on the most recent determinations under the Greenhouse gases, Regulated Emissions, and Energy use in Transportation model developed by Argonne National Laboratory, or a successor model (as determined by the Secretary).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any transportation fuel which is not a sustainable aviation fuel, the lifecycle greenhouse gas emissions of such fuel shall be based on the most recent determinations under the Greenhouse gases, Regulated Emissions, and Energy use in Transportation model developed by Argonne National Laboratory, or a successor model (as determined by the Secretary)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(b)(1)(B)(ii)Non-Aviation Fuel\u2014In the case of any transportation fuel which is not a sustainable aviation fuel, the\n                           lifecycle greenhouse gas emissions of such fuel shall be based on the most recent\n                           determinations under the Greenhouse gases, Regulated Emissions, and Energy use in\n                           Transportation model developed by Argonne National Laboratory, or a successor model\n                           (as determined by the Secretary).",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(b)(1)(B)(iii)",
+    "source_subsections": [
+      "(b)(1)(B)(iii)",
+      "(b)(1)(B)(iii)(I)",
+      "(b)(1)(B)(iii)(II)"
+    ],
+    "rule_type": "condition",
+    "title": "Fuel",
+    "text": "In the case of any transportation fuel which is a sustainable aviation fuel, the lifecycle greenhouse gas emissions of such fuel shall be determined in accordance with\u2014\u2014the most recent Carbon Offsetting and Reduction Scheme for International Aviation which has been adopted by the International Civil Aviation Organization with the agreement of the United States, or\u2014any similar methodology which satisfies the criteria under section 211(o)(1)(H) of the Clean Air Act (42 U.S.C. 7545(o)(1)(H)), as in effect on the date of enactment of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any transportation fuel which is a sustainable aviation fuel, the lifecycle greenhouse gas emissions of such fuel shall be determined in accordance with\u2014\u2014the most recent Carbon Offsetting and Reduction Scheme for International Aviation which has been adopted by the International Civil Aviation Organization with the agreement of the United States, or\u2014any similar methodology which satisfies the criteria under section 211(o)(1)(H) of the Clean Air Act (42 U.S.C. 7545(o)(1)(H)), as in effect on the date of enactment of this section."
+    },
+    "cross_references": [
+      {
+        "section": "211(o)(1)(H)",
+        "reason": "satisfies the criteria under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(b)(1)(B)(iii)Aviation Fuel\u2014In the case of any transportation fuel which is a sustainable aviation fuel, the lifecycle\n                           greenhouse gas emissions of such fuel shall be determined in accordance with\u2014I.R.C. \u00a7 45Z(b)(1)(B)(iii)(I)\u2014the most recent Carbon Offsetting and Reduction Scheme for International Aviation\n                              which has been adopted by the International Civil Aviation Organization with the agreement\n                              of the United States, orI.R.C. \u00a7 45Z(b)(1)(B)(iii)(II)\u2014any similar methodology which satisfies the criteria under section 211(o)(1)(H) of\n                              the Clean Air Act (42 U.S.C. 7545(o)(1)(H)), as in effect on the date of enactment\n                              of this section.",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(b)(1)(B)(iv)",
+    "source_subsections": [
+      "(b)(1)(B)(iv)"
+    ],
+    "rule_type": "exception",
+    "title": "Of Indirect Land Use Changes",
+    "text": "Notwithstanding clauses (i), (ii), and (iii), the emissions rate shall be adjusted as necessary to exclude any emissions attributed to indirect land use change. Any such adjustment shall be based on regulations or methodologies determined by the Secretary.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Notwithstanding clauses (i), (ii), and (iii), the emissions rate shall be adjusted as necessary to exclude any emissions attributed to indirect land use change. Any such adjustment shall be based on regulations or methodologies determined by the Secretary."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(b)(1)(B)(iv)Exclusion Of Indirect Land Use Changes\u2014Notwithstanding clauses (i), (ii), and (iii), the emissions rate shall be adjusted\n                           as necessary to exclude any emissions attributed to indirect land use change. Any\n                           such adjustment shall be based on regulations or methodologies determined by the Secretary.",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(b)(1)(B)(v)",
+    "source_subsections": [
+      "(b)(1)(B)(v)",
+      "(b)(1)(B)(v)(I)",
+      "(b)(1)(B)(v)(II)"
+    ],
+    "rule_type": "exception",
+    "title": "ManuresI.R.C. \u00a7 45Z(b)(1)(B)(v)(I)",
+    "text": "shall provide a distinct emissions rate with respect to such fuel based on the specific animal manure feedstock, which may include dairy manure, swine manure, poultry manure, or any other sources as are determined appropriate by the Secretary, and\u2014notwithstanding subparagraph (E), may provide an emissions rate that is less than zero.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "shall provide a distinct emissions rate with respect to such fuel based on the specific animal manure feedstock, which may include dairy manure, swine manure, poultry manure, or any other sources as are determined appropriate by the Secretary, and\u2014notwithstanding subparagraph (E), may provide an emissions rate that is less than zero."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(b)(1)(B)(v)Animal ManuresI.R.C. \u00a7 45Z(b)(1)(B)(v)(I)\u2014shall provide a distinct emissions rate with respect to such fuel based on the specific\n                              animal manure feedstock, which may include dairy manure, swine manure, poultry manure,\n                              or any other sources as are determined appropriate by the Secretary, andI.R.C. \u00a7 45Z(b)(1)(B)(v)(II)\u2014notwithstanding subparagraph (E), may provide an emissions rate that is less than\n                              zero.",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(b)(1)(C)(i)",
+    "source_subsections": [
+      "(b)(1)(C)(i)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Subject to clause (ii), the Secretary may round the emissions rates under subparagraph (B) to the nearest multiple of 5 kilograms of CO2e per mmBTU.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Subject to clause (ii), the Secretary may round the emissions rates under subparagraph (B) to the nearest multiple of 5 kilograms of CO2e per mmBTU."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(b)(1)(C)(i)In General\u2014Subject to clause (ii), the Secretary may round the emissions rates under subparagraph\n                           (B) to the nearest multiple of 5 kilograms of CO2e per mmBTU.",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(b)(1)(C)(ii)",
+    "source_subsections": [
+      "(b)(1)(C)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "In the case of an emissions rate that is between 2.5 kilograms of CO2e per mmBTU and -2.5 kilograms of CO2e per mmBTU, the Secretary may round such rate to zero.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of an emissions rate that is between 2.5 kilograms of CO2e per mmBTU and -2.5 kilograms of CO2e per mmBTU, the Secretary may round such rate to zero."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(b)(1)(C)(ii)Exception\u2014In the case of an emissions rate that is between 2.5 kilograms of CO2e per mmBTU and -2.5 kilograms of CO2e per mmBTU, the Secretary may round such rate to zero.",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(b)(1)(D)",
+    "source_subsections": [
+      "(b)(1)(D)"
+    ],
+    "rule_type": "condition",
+    "title": "Emissions Rate",
+    "text": "In the case of any transportation fuel for which an emissions rate has not been established under subparagraph (B), a taxpayer producing such fuel may file a petition with the Secretary for determination of the emissions rate with respect to such fuel.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any transportation fuel for which an emissions rate has not been established under subparagraph (B), a taxpayer producing such fuel may file a petition with the Secretary for determination of the emissions rate with respect to such fuel."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(b)(1)(D)Provisional Emissions Rate\u2014In the case of any transportation fuel for which an emissions rate has not been established\n                        under subparagraph (B), a taxpayer producing such fuel may file a petition with the\n                        Secretary for determination of the emissions rate with respect to such fuel.",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(b)(1)(E)",
+    "source_subsections": [
+      "(b)(1)(E)"
+    ],
+    "rule_type": "condition",
+    "title": "On Negative Emission Rates",
+    "text": "For purposes of this section, the emissions rate for a transportation fuel may not be less than zero.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the emissions rate for a transportation fuel may not be less than zero."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(b)(1)(E)Prohibition On Negative Emission Rates\u2014For purposes of this section, the emissions rate for a transportation fuel may not\n                        be less than zero.",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "If any amount determined under paragraph (1)(A) is not a multiple of 0.1, such amount shall be rounded to the nearest multiple of 0.1.",
+    "conditions": [
+      "any amount determined under paragraph (1)(A) is not a multiple of 0.1, such amount shall be rounded to the nearest multiple of 0.1."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any amount determined under paragraph (1)(A) is not a multiple of 0.1, such amount shall be rounded to the nearest multiple of 0.1."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(b)(2)Rounding\u2014If any amount determined under paragraph (1)(A) is not a multiple of 0.1, such amount\n                     shall be rounded to the nearest multiple of 0.1.",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "In the case of calendar years beginning after 2024, the 20 cent amount in subsection (a)(2)(A) and the $1.00 amount in subsection (a)(2)(B) shall each be adjusted by multiplying such amount by the inflation adjustment factor for the calendar year in which the sale of the transportation fuel occurs. If any amount as increased under the preceding sentence is not a multiple of 1 cent, such amount shall be rounded to the nearest multiple of 1 cent.",
+    "conditions": [
+      "any amount as increased under the preceding sentence is not a multiple of 1 cent, such amount shall be rounded to the nearest multiple of 1 cent."
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 1,
+        "text": "$1"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any amount as increased under the preceding sentence is not a multiple of 1 cent, such amount shall be rounded to the nearest multiple of 1 cent."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of calendar years beginning after 2024, the 20 cent amount in subsection (a)(2)(A) and the $1.00 amount in subsection (a)(2)(B) shall each be adjusted by multiplying such amount by the inflation adjustment factor for the calendar year in which the sale of the transportation fuel occurs."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(c)(1)In General\u2014In the case of calendar years beginning after 2024, the 20 cent amount in subsection\n                     (a)(2)(A) and the $1.00 amount in subsection (a)(2)(B) shall each be adjusted by multiplying\n                     such amount by the inflation adjustment factor for the calendar year in which the\n                     sale of the transportation fuel occurs. If any amount as increased under the preceding\n                     sentence is not a multiple of 1 cent, such amount shall be rounded to the nearest\n                     multiple of 1 cent.",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(c)(2)",
+    "source_subsections": [
+      "(c)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Adjustment Factor",
+    "text": "For purposes of paragraph (1), the inflation adjustment factor shall be the inflation adjustment factor determined and published by the Secretary pursuant tosection 45Y(c), determined by substituting \u201ccalendar year 2022\u201d for \u201ccalendar year 1992\u201d in paragraph (3) thereof.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of paragraph (1), the inflation adjustment factor shall be the inflation adjustment factor determined and published by the Secretary pursuant tosection 45Y(c), determined by substituting \u201ccalendar year 2022\u201d for \u201ccalendar year 1992\u201d in paragraph (3) thereof."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(c)(2)Inflation Adjustment Factor\u2014For purposes of paragraph (1), the inflation adjustment factor shall be the inflation\n                     adjustment factor determined and published by the Secretary pursuant tosection 45Y(c), determined by substituting \u201ccalendar year 2022\u201d for \u201ccalendar year 1992\u201d in paragraph\n                     (3) thereof.",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "The term \u201cmmBTU\u201d means 1,000,000 British thermal units.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cmmBTU\u201d means 1,000,000 British thermal units."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(d)(1)mmBTU\u2014The term \u201cmmBTU\u201d means 1,000,000 British thermal units.",
+    "definitions": {
+      "term": "mmBTU",
+      "requirements": [
+        "1,000,000 British thermal units."
+      ]
+    }
+  },
+  {
+    "section": "45Z",
+    "subsection": "(d)(2)",
+    "source_subsections": [
+      "(d)(2)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "The term \u201cCO2e\u201d means, with respect to any greenhouse gas, the equivalent carbon dioxide (as determined based on relative global warming potential).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cCO2e\u201d means, with respect to any greenhouse gas, the equivalent carbon dioxide (as determined based on relative global warming potential)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(d)(2)CO2e\u2014The term \u201cCO2e\u201d means, with respect to any greenhouse gas, the equivalent carbon dioxide (as determined\n                     based on relative global warming potential).",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(d)(3)",
+    "source_subsections": [
+      "(d)(3)"
+    ],
+    "rule_type": "definition",
+    "title": "Gas",
+    "text": "The term \u201cgreenhouse gas\u201d has the same meaning given that term under section 211(o)(1)(G) of the Clean Air Act (42 U.S.C. 7545(o)(1)(G)), as in effect on the date of the enactment of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cgreenhouse gas\u201d has the same meaning given that term under section 211(o)(1)(G) of the Clean Air Act (42 U.S.C. 7545(o)(1)(G)), as in effect on the date of the enactment of this section."
+    },
+    "cross_references": [
+      {
+        "section": "211(o)(1)(G)",
+        "reason": "meaning given that term under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(d)(3)Greenhouse Gas\u2014The term \u201cgreenhouse gas\u201d has the same meaning given that term under section 211(o)(1)(G)\n                     of the Clean Air Act (42 U.S.C. 7545(o)(1)(G)), as in effect on the date of the enactment\n                     of this section.",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(d)(4)",
+    "source_subsections": [
+      "(d)(4)",
+      "(d)(4)(A)",
+      "(d)(4)(B)",
+      "(d)(4)(B)(i)",
+      "(d)(4)(B)(ii)",
+      "(d)(4)(B)(iii)"
+    ],
+    "rule_type": "definition",
+    "title": "Facility",
+    "text": "The term \u201cqualified facility\u201d\u2014\u2014means a facility used for the production of transportation fuels, and\u2014does not include any facility for which one of the following credits is allowed undersection 38for the taxable year:\u2014The credit for production of clean hydrogen undersection 45V.\u2014The credit determined undersection 46to the extent that such credit is attributable to the energy credit determined undersection 48with respect to any specified clean hydrogen production facility for which an election is made under subsection (a)(15) of such section.\u2014The credit for carbon oxide sequestration undersection 45Q.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified facility\u201d\u2014\u2014means a facility used for the production of transportation fuels, and\u2014does not include any facility for which one of the following credits is allowed undersection 38for the taxable year:\u2014The credit for production of clean hydrogen undersection 45V.\u2014The credit determined undersection 46to the extent that such credit is attributable to the energy credit determined undersection 48with respect to any specified clean hydrogen production facility for which an election is made under subsection (a)(15) of such section.\u2014The credit for carbon oxide sequestration undersection 45Q."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(d)(4)Qualified Facility\u2014The term \u201cqualified facility\u201d\u2014I.R.C. \u00a7 45Z(d)(4)(A)\u2014means a facility used for the production of transportation fuels, andI.R.C. \u00a7 45Z(d)(4)(B)\u2014does not include any facility for which one of the following credits is allowed undersection 38for the taxable year:I.R.C. \u00a7 45Z(d)(4)(B)(i)\u2014The credit for production of clean hydrogen undersection 45V.I.R.C. \u00a7 45Z(d)(4)(B)(ii)\u2014The credit determined undersection 46to the extent that such credit is attributable to the energy credit determined undersection 48with respect to any specified clean hydrogen production facility for which an election\n                           is made under subsection (a)(15) of such section.I.R.C. \u00a7 45Z(d)(4)(B)(iii)\u2014The credit for carbon oxide sequestration undersection 45Q.",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(d)(5)(A)",
+    "source_subsections": [
+      "(d)(5)(A)",
+      "(d)(5)(A)(i)",
+      "(d)(5)(A)(ii)",
+      "(d)(5)(A)(iii)",
+      "(d)(5)(A)(iv)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201ctransportation fuel\u201d means a fuel which\u2014\u2014is suitable for use as a fuel in a highway vehicle or aircraft,\u2014has an emissions rate which is not greater than 50 kilograms of CO2e per mmBTU,\u2014is not derived from coprocessing an applicable material (or materials derived from an applicable material) with a feedstock which is not biomass, and\u2014is not produced from a fuel for which a credit under this section is allowable.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201ctransportation fuel\u201d means a fuel which\u2014\u2014is suitable for use as a fuel in a highway vehicle or aircraft,\u2014has an emissions rate which is not greater than 50 kilograms of CO2e per mmBTU,\u2014is not derived from coprocessing an applicable material (or materials derived from an applicable material) with a feedstock which is not biomass, and\u2014is not produced from a fuel for which a credit under this section is allowable."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(d)(5)(A)In General\u2014The term \u201ctransportation fuel\u201d means a fuel which\u2014I.R.C. \u00a7 45Z(d)(5)(A)(i)\u2014is suitable for use as a fuel in a highway vehicle or aircraft,I.R.C. \u00a7 45Z(d)(5)(A)(ii)\u2014has an emissions rate which is not greater than 50 kilograms of CO2e per mmBTU,I.R.C. \u00a7 45Z(d)(5)(A)(iii)\u2014is not derived from coprocessing an applicable material (or materials derived from\n                           an applicable material) with a feedstock which is not biomass, andI.R.C. \u00a7 45Z(d)(5)(A)(iv)\u2014is not produced from a fuel for which a credit under this section is allowable.",
+    "definitions": {
+      "term": "transportation fuel",
+      "requirements": [
+        "a fuel which\u2014\u2014is suitable for use as a fuel in a highway vehicle or aircraft,\u2014has an emissions rate which is not greater than 50 kilograms of CO2e per mmBTU,\u2014is not derived from coprocessing an applicable material (or materials derived from an applicable material) with a feedstock which is not biomass, and\u2014is not produced from a fuel for which a credit under this section is allowable."
+      ]
+    }
+  },
+  {
+    "section": "45Z",
+    "subsection": "(d)(5)(B)(i)",
+    "source_subsections": [
+      "(d)(5)(B)(i)",
+      "(d)(5)(B)(i)(I)",
+      "(d)(5)(B)(i)(II)",
+      "(d)(5)(B)(i)(III)"
+    ],
+    "rule_type": "definition",
+    "title": "Material",
+    "text": "The term \u201capplicable material\u201d means\u2014\u2014monoglycerides, diglycerides, and triglycerides,\u2014free fatty acids, and\u2014fatty acid esters.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201capplicable material\u201d means\u2014\u2014monoglycerides, diglycerides, and triglycerides,\u2014free fatty acids, and\u2014fatty acid esters."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(d)(5)(B)(i)Applicable Material\u2014The term \u201capplicable material\u201d means\u2014I.R.C. \u00a7 45Z(d)(5)(B)(i)(I)\u2014monoglycerides, diglycerides, and triglycerides,I.R.C. \u00a7 45Z(d)(5)(B)(i)(II)\u2014free fatty acids, andI.R.C. \u00a7 45Z(d)(5)(B)(i)(III)\u2014fatty acid esters.",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(d)(5)(B)(ii)",
+    "source_subsections": [
+      "(d)(5)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "The term \u201cbiomass\u201d has the same meaning given such term insection 45K(c)(3).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cbiomass\u201d has the same meaning given such term insection 45K(c)(3)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(d)(5)(B)(ii)Biomass\u2014The term \u201cbiomass\u201d has the same meaning given such term insection 45K(c)(3).",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(d)(5)(C)",
+    "source_subsections": [
+      "(d)(5)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "And Guidance",
+    "text": "The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of subparagraph (A)(iv).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of subparagraph (A)(iv)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(d)(5)(C)Regulations And Guidance\u2014The Secretary shall issue such regulations or other guidance as the Secretary determines\n                        necessary to carry out the purposes of subparagraph (A)(iv).",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(e)",
+    "source_subsections": [
+      "(e)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Not later than January 1, 2025, the Secretary shall issue guidance regarding implementation of this section, including calculation of emissions factors for transportation fuel, the table described in subsection (b)(1)(B)(i), and the determination of clean fuel production credits under this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Not later than January 1, 2025, the Secretary shall issue guidance regarding implementation of this section, including calculation of emissions factors for transportation fuel, the table described in subsection (b)(1)(B)(i), and the determination of clean fuel production credits under this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(e)Guidance\u2014Not later than January 1, 2025, the Secretary shall issue guidance regarding implementation\n                  of this section, including calculation of emissions factors for transportation fuel,\n                  the table described in subsection (b)(1)(B)(i), and the determination of clean fuel\n                  production credits under this section.",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(f)(1)(A)",
+    "source_subsections": [
+      "(f)(1)(A)",
+      "(f)(1)(A)(i)",
+      "(f)(1)(A)(i)(I)",
+      "(f)(1)(A)(i)(II)",
+      "(f)(1)(A)(i)(II)(aa)",
+      "(f)(1)(A)(i)(II)(aa)(AA)",
+      "(f)(1)(A)(i)(II)(aa)(BB)",
+      "(f)(1)(A)(i)(II)(bb)",
+      "(f)(1)(A)(ii)",
+      "(f)(1)(A)(iii)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "No clean fuel production credit shall be determined under subsection (a) with respect to any transportation fuel unless\u2014\u2014the taxpayer\u2014\u2014is registered as a producer of clean fuel undersection 4101at the time of production, and\u2014in the case of any transportation fuel which is a sustainable aviation fuel, provides\u2014\u2014certification (in such form and manner as the Secretary shall prescribe) from an unrelated party demonstrating compliance with\u2014\u2014any general requirements, supply chain traceability requirements, and information transmission requirements established under the Carbon Offsetting and Reduction Scheme for International Aviation described in subclause (I) of subsection (b)(1)(B)(iii), or\u2014in the case of any methodology described in subclause (II) of such subsection, requirements similar to the requirements described in subitem (AA), andEditor's Note:Sec. 45Z(f)(1)(A)(i)(II)(bb), below, before amendment byPub. L. 119-21, Sec. 70521(a)(1)(A), is effective for transportation fuel produced on or before Dec. 31, 2025.\u2014such other information with respect to such fuel as the Secretary may require for purposes of carrying out this section, andEditor's Note:Sec. 45Z(f)(1)(A)(i)(II)(bb), below, after amendment byPub. L. 119-21, Sec. 70521(a)(1)(A), is effective for transportation fuel produced after Dec. 31, 2025.\u2014such other information with respect to such fuel as the Secretary may require for purposes of carrying out this section,Editor's Note:Sec. 45Z(f)(1)(A)(ii), below, before amendment byPub. L. 119-21, Sec. 70521(a)(1)(B), is effective for transportation fuel produced on or before Dec. 31, 2025.\u2014such fuel is produced in the United States.Editor's Note:Sec. 45Z(f)(1)(A)(ii), below, after amendment byPub. L. 119-21, Sec. 70521(a)(1)(B), is effective for transportation fuel produced after Dec. 31, 2025.\u2014such fuel is produced in the United States, andEditor's Note:Sec. 45Z(f)(1)(A)(iii), below, as added byPub. L. 119-21, Sec. 70521(a)(1)(B), is effective for transportation fuel produced after Dec. 31, 2025.\u2014such fuel is exclusively derived from a feedstock which was produced or grown in the United States, Mexico, or Canada.",
+    "conditions": [
+      "\u2014\u2014the taxpayer\u2014\u2014is registered as a producer of clean fuel undersection 4101at the time of production, and\u2014in the case of any transportation fuel which is a sustainable aviation fuel, provides\u2014\u2014certification (in such form and manner as the Secretary shall prescribe) from an unrelated party demonstrating compliance with\u2014\u2014any general requirements, supply chain traceability requirements, and information transmission requirements established under the Carbon Offsetting and Reduction Scheme for International Aviation described in subclause (I) of subsection (b)(1)(B)(iii), or\u2014in the case of any methodology described in subclause (II) of such subsection, requirements similar to the requirements described in subitem (AA), andEditor's Note:Sec. 45Z(f)(1)(A)(i)(II)(bb), below, before amendment byPub. L. 119-21, Sec. 70521(a)(1)(A), is effective for transportation fuel produced on or before Dec. 31, 2025.\u2014such other information with respect to such fuel as the Secretary may require for purposes of carrying out this section, andEditor's Note:Sec. 45Z(f)(1)(A)(i)(II)(bb), below, after amendment byPub. L. 119-21, Sec. 70521(a)(1)(A), is effective for transportation fuel produced after Dec. 31, 2025.\u2014such other information with respect to such fuel as the Secretary may require for purposes of carrying out this section,Editor's Note:Sec. 45Z(f)(1)(A)(ii), below, before amendment byPub. L. 119-21, Sec. 70521(a)(1)(B), is effective for transportation fuel produced on or before Dec. 31, 2025.\u2014such fuel is produced in the United States.Editor's Note:Sec. 45Z(f)(1)(A)(ii), below, after amendment byPub. L. 119-21, Sec. 70521(a)(1)(B), is effective for transportation fuel produced after Dec. 31, 2025.\u2014such fuel is produced in the United States, andEditor's Note:Sec. 45Z(f)(1)(A)(iii), below, as added byPub. L. 119-21, Sec. 70521(a)(1)(B), is effective for transportation fuel produced after Dec. 31, 2025.\u2014such fuel is exclusively derived from a feedstock which was produced or grown in the United States, Mexico, or Canada."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "\u2014\u2014the taxpayer\u2014\u2014is registered as a producer of clean fuel undersection 4101at the time of production, and\u2014in the case of any transportation fuel which is a sustainable aviation fuel, provides\u2014\u2014certification (in such form and manner as the Secretary shall prescribe) from an unrelated party demonstrating compliance with\u2014\u2014any general requirements, supply chain traceability requirements, and information transmission requirements established under the Carbon Offsetting and Reduction Scheme for International Aviation described in subclause (I) of subsection (b)(1)(B)(iii), or\u2014in the case of any methodology described in subclause (II) of such subsection, requirements similar to the requirements described in subitem (AA), andEditor's Note:Sec. 45Z(f)(1)(A)(i)(II)(bb), below, before amendment byPub. L. 119-21, Sec. 70521(a)(1)(A), is effective for transportation fuel produced on or before Dec. 31, 2025.\u2014such other information with respect to such fuel as the Secretary may require for purposes of carrying out this section, andEditor's Note:Sec. 45Z(f)(1)(A)(i)(II)(bb), below, after amendment byPub. L. 119-21, Sec. 70521(a)(1)(A), is effective for transportation fuel produced after Dec. 31, 2025.\u2014such other information with respect to such fuel as the Secretary may require for purposes of carrying out this section,Editor's Note:Sec. 45Z(f)(1)(A)(ii), below, before amendment byPub. L. 119-21, Sec. 70521(a)(1)(B), is effective for transportation fuel produced on or before Dec. 31, 2025.\u2014such fuel is produced in the United States.Editor's Note:Sec. 45Z(f)(1)(A)(ii), below, after amendment byPub. L. 119-21, Sec. 70521(a)(1)(B), is effective for transportation fuel produced after Dec. 31, 2025.\u2014such fuel is produced in the United States, andEditor's Note:Sec. 45Z(f)(1)(A)(iii), below, as added byPub. L. 119-21, Sec. 70521(a)(1)(B), is effective for transportation fuel produced after Dec. 31, 2025.\u2014such fuel is exclusively derived from a feedstock which was produced or grown in the United States, Mexico, or Canada."
+      ],
+      "except": [],
+      "result": "No clean fuel production credit shall be determined under subsection (a) with respect to any transportation fuel"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(f)(1)(A)In General\u2014No clean fuel production credit shall be determined under subsection (a) with respect\n                        to any transportation fuel unless\u2014I.R.C. \u00a7 45Z(f)(1)(A)(i)\u2014the taxpayer\u2014I.R.C. \u00a7 45Z(f)(1)(A)(i)(I)\u2014is registered as a producer of clean fuel undersection 4101at the time of production, andI.R.C. \u00a7 45Z(f)(1)(A)(i)(II)\u2014in the case of any transportation fuel which is a sustainable aviation fuel, provides\u2014I.R.C. \u00a7 45Z(f)(1)(A)(i)(II)(aa)\u2014certification (in such form and manner as the Secretary shall prescribe) from an unrelated\n                                 party demonstrating compliance with\u2014I.R.C. \u00a7 45Z(f)(1)(A)(i)(II)(aa)(AA)\u2014any general requirements, supply chain traceability requirements, and information\n                                    transmission requirements established under the Carbon Offsetting and Reduction Scheme\n                                    for International Aviation described in subclause (I) of subsection (b)(1)(B)(iii),\n                                    orI.R.C. \u00a7 45Z(f)(1)(A)(i)(II)(aa)(BB)\u2014in the case of any methodology described in subclause (II) of such subsection, requirements\n                                    similar to the requirements described in subitem (AA), andEditor's Note:Sec. 45Z(f)(1)(A)(i)(II)(bb), below, before amendment byPub. L. 119-21, Sec. 70521(a)(1)(A), is effective for transportation fuel produced on or before\n                                       Dec. 31, 2025.I.R.C. \u00a7 45Z(f)(1)(A)(i)(II)(bb)\u2014such other information with respect to such fuel as the Secretary may require for\n                                 purposes of carrying out this section, andEditor's Note:Sec. 45Z(f)(1)(A)(i)(II)(bb), below, after amendment byPub. L. 119-21, Sec. 70521(a)(1)(A), is effective for transportation fuel produced after Dec. 31,\n                                       2025.I.R.C. \u00a7 45Z(f)(1)(A)(i)(II)(bb)\u2014such other information with respect to such fuel as the Secretary may require for\n                                 purposes of carrying out this section,Editor's Note:Sec. 45Z(f)(1)(A)(ii), below, before amendment byPub. L. 119-21, Sec. 70521(a)(1)(B), is effective for transportation fuel produced on or before\n                                 Dec. 31, 2025.I.R.C. \u00a7 45Z(f)(1)(A)(ii)\u2014such fuel is produced in the United States.Editor's Note:Sec. 45Z(f)(1)(A)(ii), below, after amendment byPub. L. 119-21, Sec. 70521(a)(1)(B), is effective for transportation fuel produced after Dec. 31,\n                                 2025.I.R.C. \u00a7 45Z(f)(1)(A)(ii)\u2014such fuel is produced in the United States, andEditor's Note:Sec. 45Z(f)(1)(A)(iii), below, as added byPub. L. 119-21, Sec. 70521(a)(1)(B), is effective for transportation fuel produced after Dec. 31,\n                                 2025.I.R.C. \u00a7 45Z(f)(1)(A)(iii)\u2014such fuel is exclusively derived from a feedstock which was produced or grown in the\n                           United States, Mexico, or Canada.",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(f)(1)(B)",
+    "source_subsections": [
+      "(f)(1)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "States",
+    "text": "For purposes of this paragraph, the term \u201cUnited States\u201d includes any possession of the United States.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the term \u201cUnited States\u201d includes any possession of the United States."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(f)(1)(B)United States\u2014For purposes of this paragraph, the term \u201cUnited States\u201d includes any possession of\n                        the United States.",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(f)(2)",
+    "source_subsections": [
+      "(f)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Attributable To The Taxpayer",
+    "text": "In the case of a facility in which more than 1 person has an ownership interest, except to the extent provided in regulations prescribed by the Secretary, production from the facility shall be allocated among such persons in proportion to their respective ownership interests in the gross sales from such facility.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "to the extent provided in regulations prescribed by the Secretary, production from the facility shall be allocated among such persons in proportion to their respective ownership interests in the gross sales from such facility."
+      ],
+      "result": "In the case of a facility in which more than 1 person has an ownership interest,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(f)(2)Production Attributable To The Taxpayer\u2014In the case of a facility in which more than 1 person has an ownership interest, except\n                     to the extent provided in regulations prescribed by the Secretary, production from\n                     the facility shall be allocated among such persons in proportion to their respective\n                     ownership interests in the gross sales from such facility.",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(f)(3)",
+    "source_subsections": [
+      "(f)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Persons",
+    "text": "Persons shall be treated as related to each other if such persons would be treated as a single employer under the regulations prescribed undersection 52(b). In the case of a corporation which is a member of an affiliated group of corporations filing a consolidated return, such corporation shall be treated as selling fuel to an unrelated person if such fuel is sold to such a person by another member of such group. The Secretary may prescribe additional related person rules similar to the rule described in the preceding sentence for entities which are not described in such sentence, including rules for related persons with respect to which the taxpayer has reason to believe will sell fuel to an unrelated person in a manner described in subsection (a)(4).",
+    "conditions": [
+      "such persons would be treated as a single employer under the regulations prescribed undersection 52(b). In the case of a corporation which is a member of an affiliated group of corporations filing a consolidated return, such corporation shall be treated as selling fuel to an unrelated person",
+      "such fuel is sold to such a person by another member of such group. The Secretary may prescribe additional related person rules similar to the rule described in the preceding sentence for entities which are not described in such sentence, including rules for related persons with respect to which the taxpayer has reason to believe will sell fuel to an unrelated person in a manner described in subsection (a)(4)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such persons would be treated as a single employer under the regulations prescribed undersection 52(b). In the case of a corporation which is a member of an affiliated group of corporations filing a consolidated return, such corporation shall be treated as selling fuel to an unrelated person",
+        "such fuel is sold to such a person by another member of such group. The Secretary may prescribe additional related person rules similar to the rule described in the preceding sentence for entities which are not described in such sentence, including rules for related persons with respect to which the taxpayer has reason to believe will sell fuel to an unrelated person in a manner described in subsection (a)(4)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Persons shall be treated as related to each other"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(f)(3)Related Persons\u2014Persons shall be treated as related to each other if such persons would be treated\n                     as a single employer under the regulations prescribed undersection 52(b). In the case of a corporation which is a member of an affiliated group of corporations\n                     filing a consolidated return, such corporation shall be treated as selling fuel to\n                     an unrelated person if such fuel is sold to such a person by another member of such\n                     group. The Secretary may prescribe additional related person rules similar to the\n                     rule described in the preceding sentence for entities which are not described in such\n                     sentence, including rules for related persons with respect to which the taxpayer has\n                     reason to believe will sell fuel to an unrelated person in a manner described in subsection\n                     (a)(4).",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(f)(4)",
+    "source_subsections": [
+      "(f)(4)"
+    ],
+    "rule_type": "condition",
+    "title": "In The Case Of Estates And Trusts",
+    "text": "Under regulations prescribed by the Secretary, rules similar to the rules of subsection (d) ofsection 52shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Under regulations prescribed by the Secretary, rules similar to the rules of subsection (d) ofsection 52shall apply."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(f)(4)Pass-Thru In The Case Of Estates And Trusts\u2014Under regulations prescribed by the Secretary, rules similar to the rules of subsection\n                     (d) ofsection 52shall apply.",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(f)(5)",
+    "source_subsections": [
+      "(f)(5)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Credit To Patrons Of Agricultural Cooperative",
+    "text": "Rules similar to the rules ofsection 45Y(g)(6)shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules ofsection 45Y(g)(6)shall apply."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(f)(5)Allocation Of Credit To Patrons Of Agricultural Cooperative\u2014Rules similar to the rules ofsection 45Y(g)(6)shall apply.",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(f)(6)(A)",
+    "source_subsections": [
+      "(f)(6)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Subject to subparagraph (B), rules similar to the rules ofsection 45(b)(7)shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Subject to subparagraph (B), rules similar to the rules ofsection 45(b)(7)shall apply."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(f)(6)(A)In General\u2014Subject to subparagraph (B), rules similar to the rules ofsection 45(b)(7)shall apply.",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(f)(6)(B)",
+    "source_subsections": [
+      "(f)(6)(B)",
+      "(f)(6)(B)(i)",
+      "(f)(6)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Rule For Facilities Placed In Service Before January 1, 2025",
+    "text": "For purposes of subparagraph (A), in the case of any qualified facility placed in service before January 1, 2025\u2014\u2014clause (i) ofsection 45(b)(7)(A)shall not apply, and\u2014clause (ii) of such section shall be applied by substituting \u201cwith respect to any taxable year beginning after December 31, 2024, for which the credit is allowed under this section\u201d for \u201cwith respect to any taxable year, for any portion of such taxable year which is within the period described in subsection (a)(2)(A)(ii).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph (A), in the case of any qualified facility placed in service before January 1, 2025\u2014\u2014clause (i) ofsection 45(b)(7)(A)shall not apply, and\u2014clause (ii) of such section shall be applied by substituting \u201cwith respect to any taxable year beginning after December 31, 2024, for which the credit is allowed under this section\u201d for \u201cwith respect to any taxable year, for any portion of such taxable year which is within the period described in subsection (a)(2)(A)(ii)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(f)(6)(B)Special Rule For Facilities Placed In Service Before January 1, 2025\u2014For purposes of subparagraph (A), in the case of any qualified facility placed in\n                        service before January 1, 2025\u2014I.R.C. \u00a7 45Z(f)(6)(B)(i)\u2014clause (i) ofsection 45(b)(7)(A)shall not apply, andI.R.C. \u00a7 45Z(f)(6)(B)(ii)\u2014clause (ii) of such section shall be applied by substituting \u201cwith respect to any\n                           taxable year beginning after December 31, 2024, for which the credit is allowed under\n                           this section\u201d for \u201cwith respect to any taxable year, for any portion of such taxable\n                           year which is within the period described in subsection (a)(2)(A)(ii).",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(f)(7)",
+    "source_subsections": [
+      "(f)(7)"
+    ],
+    "rule_type": "condition",
+    "title": "Requirements",
+    "text": "Rules similar to the rules ofsection 45(b)(8)shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules ofsection 45(b)(8)shall apply."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(f)(7)Apprenticeship Requirements\u2014Rules similar to the rules ofsection 45(b)(8)shall apply.",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(f)(8)(A)",
+    "source_subsections": [
+      "(f)(8)(A)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "No credit shall be determined under subsection (a) for any taxable year beginning after the date of enactment of this paragraph if the taxpayer is a specified foreign entity (as defined in section 7701(a)(51)(B)).",
+    "conditions": [
+      "the taxpayer is a specified foreign entity (as defined in section 7701(a)(51)(B))."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the taxpayer is a specified foreign entity (as defined in section 7701(a)(51)(B))."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be determined under subsection (a) for any taxable year beginning after the date of enactment of this paragraph"
+    },
+    "cross_references": [
+      {
+        "section": "7701(a)(51)(B)",
+        "reason": "foreign entity (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(f)(8)(A)In General\u2014No credit shall be determined under subsection (a) for any taxable year beginning\n                        after the date of enactment of this paragraph if the taxpayer is a specified foreign\n                        entity (as defined in section 7701(a)(51)(B)).",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(f)(8)(B)",
+    "source_subsections": [
+      "(f)(8)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Prohibited Foreign Entities",
+    "text": "No credit shall be determined under subsection (a) for any taxable year beginning after the date which is 2 years after the date of enactment of this paragraph if the taxpayer is a foreign-influenced entity (as defined in section 7701(a)(51)(D), without regard to clause (i)(II) thereof).",
+    "conditions": [
+      "the taxpayer is a foreign-influenced entity (as defined in section 7701(a)(51)(D), without regard to clause (i)(II) thereof)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the taxpayer is a foreign-influenced entity (as defined in section 7701(a)(51)(D), without regard to clause (i)(II) thereof)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be determined under subsection (a) for any taxable year beginning after the date which is 2 years after the date of enactment of this paragraph"
+    },
+    "cross_references": [
+      {
+        "section": "7701(a)(51)(D)",
+        "reason": "luenced entity (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(f)(8)(B)Other Prohibited Foreign Entities\u2014No credit shall be determined under subsection (a) for any taxable year beginning\n                        after the date which is 2 years after the date of enactment of this paragraph if the\n                        taxpayer is a foreign-influenced entity (as defined in section 7701(a)(51)(D), without\n                        regard to clause (i)(II) thereof).",
+    "definitions": null
+  },
+  {
+    "section": "45Z",
+    "subsection": "(g)",
+    "source_subsections": [
+      "(g)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "This section shall not apply to transportation fuel sold after December 31, 2029.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "This section shall not apply to transportation fuel sold after December 31, 2029."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Z(g)Termination\u2014This section shall not apply to transportation fuel sold after December 31, 2029.",
+    "definitions": null
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "id": "8d68787260b9",
+  "section": "1362",
+  "citation": "I.R.C. \u00a7 1362(e)(6)(D)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1362(e)(6)(D) is discussed as follows: 'I.R.C. \u00a7 1362(e)(6)(D)Pro Rata Allocation For S Termination Year Not To Apply If 50-Percent Change I...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1362(e)(6)(D)?",
+  "difficulty": 1,
+  "choices": [
+    "60.0%",
+    "40.0%",
+    "75.0%",
+    "50.0%"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1362(e)(6)(D)"
+  ]
+}

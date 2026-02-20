@@ -1,0 +1,22 @@
+{
+  "id": "4dec3b20e387",
+  "section": "4972",
+  "citation": "I.R.C. \u00a7 4972(a)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 4972(a) is discussed as follows: 'I.R.C. \u00a7 4972(a)Tax Imposed\u2014In the case of any qualified employer plan, there is hereby imposed a ta...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 4972(a)?",
+  "difficulty": 1,
+  "choices": [
+    "15.0%",
+    "0.0%",
+    "90.0%",
+    "20.0%",
+    "10.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 10.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 4972(a)"
+  ]
+}

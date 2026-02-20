@@ -1,0 +1,22 @@
+{
+  "id": "aa0b6568bcff",
+  "section": "593",
+  "citation": "I.R.C. \u00a7 593(b)(2)(A)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 593(b)(2)(A) is discussed as follows: 'I.R.C. \u00a7 593(b)(2)(A)In General\u2014Subject  to subparagraphs (B) and (C), the amount determined under t...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 593(b)(2)(A)?",
+  "difficulty": 1,
+  "choices": [
+    "8.0%",
+    "92.0%",
+    "0.0%",
+    "18.0%",
+    "12.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 8.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 593(b)(2)(A)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "fcdbd5fdf471",
+  "section": "664",
+  "citation": "I.R.C. \u00a7 664(g)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 664(g) is discussed as follows: 'I.R.C. \u00a7 664(g)Qualified Gratuitous Transfer Of Qualified Employer SecuritiesI.R.C. \u00a7 664(g)(1)In Ge...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 664(g)?",
+  "difficulty": 1,
+  "choices": [
+    "$10,000.00",
+    "$5,500.00",
+    "$5,000.00",
+    "$2,500.00",
+    "$4,500.00"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies $5,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 664(g)"
+  ]
+}

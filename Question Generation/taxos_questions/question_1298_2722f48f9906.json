@@ -1,0 +1,22 @@
+{
+  "id": "2722f48f9906",
+  "section": "1298",
+  "citation": "I.R.C. \u00a7 1298(b)(7)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1298(b)(7) is discussed as follows: 'I.R.C. \u00a7 1298(b)(7)Treatment Of Certain Foreign Corporations Owning Stock In 25-Percent Owned Domest...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1298(b)(7)?",
+  "difficulty": 1,
+  "choices": [
+    "75.0%",
+    "25.0%",
+    "15.0%",
+    "35.0%",
+    "37.5%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 25.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1298(b)(7)"
+  ]
+}

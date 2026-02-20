@@ -1,0 +1,21 @@
+{
+  "id": "bb460a9676a7",
+  "section": "48D",
+  "citation": "I.R.C. \u00a7 48D(d)(2)(F)(i)(II)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 48D(d)(2)(F)(i)(II) is discussed as follows: 'I.R.C. \u00a7 48D(d)(2)(F)(i)(II)\u2014an amount equal to 20 percent of such excessive payment....'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 48D(d)(2)(F)(i)(II)?",
+  "difficulty": 1,
+  "choices": [
+    "10.0%",
+    "20.0%",
+    "80.0%",
+    "30.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 20.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 48D(d)(2)(F)(i)(II)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "19e1967dcb18",
+  "section": "460",
+  "citation": "I.R.C. \u00a7 460(b)(6)(B)(ii)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 460(b)(6)(B)(ii) is discussed as follows: 'I.R.C. \u00a7 460(b)(6)(B)(ii)\u201410  percent of the cumulative look-back income (or loss) under the contrac...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 460(b)(6)(B)(ii)?",
+  "difficulty": 1,
+  "choices": [
+    "15.0%",
+    "20.0%",
+    "0.0%",
+    "90.0%",
+    "10.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 10.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 460(b)(6)(B)(ii)"
+  ]
+}

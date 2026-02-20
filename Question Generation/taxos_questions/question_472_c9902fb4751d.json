@@ -1,0 +1,22 @@
+{
+  "id": "c9902fb4751d",
+  "section": "472",
+  "citation": "I.R.C. \u00a7 472(g)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 472(g) is discussed as follows: 'I.R.C. \u00a7 472(g)Conformity Rules Applied On Controlled Group BasisI.R.C. \u00a7 472(g)(1)In General\u2014Except...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 472(g)?",
+  "difficulty": 1,
+  "choices": [
+    "70.0%",
+    "20.0%",
+    "120.0%",
+    "90.0%",
+    "80.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 80.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 472(g)"
+  ]
+}

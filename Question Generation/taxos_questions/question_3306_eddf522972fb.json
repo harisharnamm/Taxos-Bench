@@ -1,0 +1,22 @@
+{
+  "id": "eddf522972fb",
+  "section": "3306",
+  "citation": "I.R.C. \u00a7 3306(a)(3)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 3306(a)(3) is discussed as follows: 'I.R.C. \u00a7 3306(a)(3)Domestic Service\u2014In  the case of domestic service in a private home, local colleg...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 3306(a)(3)?",
+  "difficulty": 1,
+  "choices": [
+    "$2,000.00",
+    "$500.00",
+    "$1,000.00",
+    "$1,100.00",
+    "$900.00"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies $1,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 3306(a)(3)"
+  ]
+}

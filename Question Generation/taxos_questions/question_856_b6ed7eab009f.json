@@ -1,0 +1,22 @@
+{
+  "id": "b6ed7eab009f",
+  "section": "856",
+  "citation": "I.R.C. \u00a7 856(d)(8)(A)(i)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 856(d)(8)(A)(i) is discussed as follows: 'I.R.C. \u00a7 856(d)(8)(A)(i)In General\u2014The requirements of this subparagraph are met with respect to any...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 856(d)(8)(A)(i)?",
+  "difficulty": 1,
+  "choices": [
+    "90.0%",
+    "135.0%",
+    "10.0%",
+    "100.0%",
+    "80.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 90.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 856(d)(8)(A)(i)"
+  ]
+}

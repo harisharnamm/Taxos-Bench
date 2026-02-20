@@ -1,0 +1,22 @@
+{
+  "id": "05c63a428ca3",
+  "section": "267A",
+  "citation": "I.R.C. \u00a7 267A(e)(4)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 267A(e)(4) is discussed as follows: 'I.R.C. \u00a7 267A(e)(4)\u2014rules for treating a tax preference as an exclusion from income for purposes of ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 267A(e)(4)?",
+  "difficulty": 1,
+  "choices": [
+    "75.0%",
+    "25.0%",
+    "15.0%",
+    "35.0%",
+    "37.5%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 25.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 267A(e)(4)"
+  ]
+}

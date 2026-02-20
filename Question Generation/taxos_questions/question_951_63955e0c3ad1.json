@@ -1,0 +1,22 @@
+{
+  "id": "63955e0c3ad1",
+  "section": "951",
+  "citation": "I.R.C. \u00a7 951(b)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 951(b) is discussed as follows: 'I.R.C. \u00a7 951(b)United States Shareholder Defined\u2014For purposes of this title, the term \u201cUnited States...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 951(b)?",
+  "difficulty": 1,
+  "choices": [
+    "10.0%",
+    "20.0%",
+    "0.0%",
+    "90.0%",
+    "15.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 10.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 951(b)"
+  ]
+}

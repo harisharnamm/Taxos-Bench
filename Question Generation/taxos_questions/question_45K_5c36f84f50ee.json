@@ -1,0 +1,22 @@
+{
+  "id": "5c36f84f50ee",
+  "section": "45K",
+  "citation": "I.R.C. \u00a7 45K(g)(2)(B)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 45K(g)(2)(B) is discussed as follows: 'I.R.C. \u00a7 45K(g)(2)(B)Extension Period To Commence With Unadjusted Credit Amount\u2014For purposes  of app...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 45K(g)(2)(B)?",
+  "difficulty": 1,
+  "choices": [
+    "$3.30",
+    "$1.50",
+    "$2.70",
+    "$6.00",
+    "$3.00"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies $3.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 45K(g)(2)(B)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "b4af07adf5bc",
+  "section": "1059",
+  "citation": "I.R.C. \u00a7 1059(e)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1059(e) is discussed as follows: 'I.R.C. \u00a7 1059(e)Special Rules For Certain DistributionsI.R.C. \u00a7 1059(e)(1)Treatment Of Partial Liqui...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1059(e)?",
+  "difficulty": 1,
+  "choices": [
+    "85.0%",
+    "5.0%",
+    "22.5%",
+    "25.0%",
+    "15.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 15.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1059(e)"
+  ]
+}

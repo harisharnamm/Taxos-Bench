@@ -1,0 +1,21 @@
+{
+  "id": "6308422dd486",
+  "section": "1252",
+  "citation": "I.R.C. \u00a7 1252(a)(3)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1252(a)(3) is discussed as follows: 'I.R.C. \u00a7 1252(a)(3)Applicable Percentage\u2014For  purposes of this section\u2014The applicable\nIf the farm la...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1252(a)(3)?",
+  "difficulty": 1,
+  "choices": [
+    "50.0%",
+    "60.0%",
+    "30.0%",
+    "40.0%"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies 40.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1252(a)(3)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "a6ff153f3929",
+  "section": "30",
+  "citation": "I.R.C. \u00a7 30(b)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 30(b) is discussed as follows: 'I.R.C. \u00a7 30(b)Per Vehicle Dollar Limitation\u2014The amount of the credit allowed under subsection(a)with...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 30(b)?",
+  "difficulty": 1,
+  "choices": [
+    "$2,750.00",
+    "$2,250.00",
+    "$1,250.00",
+    "$2,500.00",
+    "$5,000.00"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies $2,500.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 30(b)"
+  ]
+}

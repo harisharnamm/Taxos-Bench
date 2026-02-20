@@ -1,0 +1,22 @@
+{
+  "id": "47c1c914e349",
+  "section": "167",
+  "citation": "I.R.C. \u00a7 167(g)(3)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 167(g)(3) is discussed as follows: 'I.R.C. \u00a7 167(g)(3)Exception From Look-Back Method\u2014Paragraph(1)(D)shall not apply with respect to any...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 167(g)(3)?",
+  "difficulty": 1,
+  "choices": [
+    "$50,000.00",
+    "$200,000.00",
+    "$90,000.00",
+    "$110,000.00",
+    "$100,000.00"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies $100,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 167(g)(3)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "42baea752db8",
+  "section": "3306",
+  "citation": "I.R.C. \u00a7 3306(c)(10)(A)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 3306(c)(10)(A) is discussed as follows: 'I.R.C. \u00a7 3306(c)(10)(A)\u2014service performed in any calendar quarter in the employ  of any organization...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 3306(c)(10)(A)?",
+  "difficulty": 1,
+  "choices": [
+    "$50.00",
+    "$100.00",
+    "$55.00",
+    "$25.00",
+    "$45.00"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies $50.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 3306(c)(10)(A)"
+  ]
+}

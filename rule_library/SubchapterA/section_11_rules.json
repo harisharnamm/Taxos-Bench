@@ -1,0 +1,137 @@
+[
+  {
+    "section": "11",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)"
+    ],
+    "rule_type": "condition",
+    "title": "In General",
+    "text": "A tax is hereby imposed for each taxable year on the taxable income of every corporation.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "A tax is hereby imposed for each taxable year on the taxable income of every corporation."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 11(a)Corporations In General\u2014A  tax is hereby imposed for each taxable year on the\n                  taxable income of every  corporation.",
+    "definitions": null
+  },
+  {
+    "section": "11",
+    "subsection": "(b)",
+    "source_subsections": [
+      "(b)"
+    ],
+    "rule_type": "computation",
+    "title": "Of Tax",
+    "text": "The amount of the tax imposed by subsection (a) shall be 21 percent of taxable income.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.21,
+        "text": "21 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of the tax imposed by subsection (a) shall be 21 percent of taxable income."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 11(b)Amount Of Tax\u2014The amount of the tax imposed by\n                  subsection (a) shall be 21 percent of taxable income.",
+    "definitions": null
+  },
+  {
+    "section": "11",
+    "subsection": "(c)",
+    "source_subsections": [
+      "(c)",
+      "(c)(1)",
+      "(c)(2)",
+      "(c)(3)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Subsection(a)shall not apply to a corporation subject to a tax imposed by\u2014\u2014section594(relating to mutual savings banks conducting life insurance business),\u2014subchapter L (sec.801and following, relating to insurance companies), or\u2014subchapter M (sec.851and following, relating to regulated investment companies and real estate investment trusts).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Subsection(a)shall not apply to a corporation subject to a tax imposed by\u2014\u2014section594(relating to mutual savings banks conducting life insurance business),\u2014subchapter L (sec.801and following, relating to insurance companies), or\u2014subchapter M (sec.851and following, relating to regulated investment companies and real estate investment trusts)."
+    },
+    "cross_references": [
+      {
+        "section": "594",
+        "reason": "subject to a tax imposed by\u2014\u2014..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 11(c)Exceptions\u2014Subsection(a)shall\n                  not apply to a corporation subject to a tax imposed by\u2014I.R.C. \u00a7 11(c)(1)\u2014section594(relating to mutual savings\n                     banks conducting life insurance business),I.R.C. \u00a7 11(c)(2)\u2014subchapter  L (sec.801and following, relating to\n                     insurance companies), orI.R.C. \u00a7 11(c)(3)\u2014subchapter  M (sec.851and following, relating to\n                     regulated investment companies and  real estate investment trusts).",
+    "definitions": null
+  },
+  {
+    "section": "11",
+    "subsection": "(d)",
+    "source_subsections": [
+      "(d)"
+    ],
+    "rule_type": "condition",
+    "title": "Corporations",
+    "text": "In the case of a foreign corporation, the taxes imposed by subsection(a)and section55shall apply only as provided by section882.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a foreign corporation, the taxes imposed by subsection(a)and section55shall apply only as provided by section882."
+    },
+    "cross_references": [
+      {
+        "section": "55s",
+        "reason": "s imposed by subsection(a)and..."
+      },
+      {
+        "section": "882",
+        "reason": "all apply only as provided by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 11(d)Foreign Corporations\u2014In  the case of a foreign corporation,\n                  the taxes imposed by subsection(a)and\n                  section55shall apply only as\n                  provided by section882.",
+    "definitions": null
+  }
+]

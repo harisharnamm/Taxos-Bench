@@ -1,0 +1,22 @@
+{
+  "id": "1a3cc7eb2007",
+  "section": "74",
+  "citation": "I.R.C. \u00a7 74(d)(2)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 74(d)(2) is discussed as follows: 'I.R.C. \u00a7 74(d)(2)Limitation Based On Adjusted Gross IncomeI.R.C. \u00a7 74(d)(2)(A)In General\u2014Paragraph(1...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 74(d)(2)?",
+  "difficulty": 1,
+  "choices": [
+    "$1,100,000.00",
+    "$2,000,000.00",
+    "$500,000.00",
+    "$1,000,000.00",
+    "$900,000.00"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies $1,000,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 74(d)(2)"
+  ]
+}

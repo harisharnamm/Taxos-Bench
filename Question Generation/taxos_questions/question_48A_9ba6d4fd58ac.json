@@ -1,0 +1,22 @@
+{
+  "id": "9ba6d4fd58ac",
+  "section": "48A",
+  "citation": "I.R.C. \u00a7 48A(e)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 48A(e) is discussed as follows: 'I.R.C. \u00a7 48A(e)Qualifying Advanced Coal ProjectsI.R.C. \u00a7 48A(e)(1)Requirements\u2014For  purposes of subs...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 48A(e)?",
+  "difficulty": 1,
+  "choices": [
+    "75.0%",
+    "85.0%",
+    "112.5%",
+    "65.0%",
+    "25.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 75.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 48A(e)"
+  ]
+}

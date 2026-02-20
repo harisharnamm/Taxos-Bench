@@ -1,0 +1,21 @@
+{
+  "id": "b1901fdeac44",
+  "section": "1212",
+  "citation": "I.R.C. \u00a7 1212(c)(1)(B)(i)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1212(c)(1)(B)(i) is discussed as follows: 'I.R.C. \u00a7 1212(c)(1)(B)(i)\u201440  percent of the amount so allowed shall be treated as a short-term capi...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1212(c)(1)(B)(i)?",
+  "difficulty": 1,
+  "choices": [
+    "30.0%",
+    "40.0%",
+    "50.0%",
+    "60.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 40.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1212(c)(1)(B)(i)"
+  ]
+}

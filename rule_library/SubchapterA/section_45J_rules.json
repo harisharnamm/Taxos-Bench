@@ -1,0 +1,705 @@
+[
+  {
+    "section": "45J",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "1.8 cents, multiplied by",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "1.8 cents, multiplied by"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45J(a)(1)\u20141.8  cents, multiplied by",
+    "definitions": null
+  },
+  {
+    "section": "45J",
+    "subsection": "(a)(2)",
+    "source_subsections": [
+      "(a)(2)",
+      "(a)(2)(A)",
+      "(a)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "the kilowatt hours of electricity\u2014\u2014produced by the taxpayer at an advanced nuclear power facility during the 8-year period beginning on the date the facility was originally placed in service, and\u2014sold by the taxpayer to an unrelated person during the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "the kilowatt hours of electricity\u2014\u2014produced by the taxpayer at an advanced nuclear power facility during the 8-year period beginning on the date the facility was originally placed in service, and\u2014sold by the taxpayer to an unrelated person during the taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45J(a)(2)\u2014the kilowatt hours of electricity\u2014I.R.C. \u00a7 45J(a)(2)(A)\u2014produced by the taxpayer at an advanced nuclear power facility during the 8-year period\n                        beginning on the date the facility was originally placed in   service, andI.R.C. \u00a7 45J(a)(2)(B)\u2014sold  by the taxpayer to an unrelated person during the taxable  year.",
+    "definitions": null
+  },
+  {
+    "section": "45J",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)",
+      "(b)(1)(A)",
+      "(b)(1)(B)"
+    ],
+    "rule_type": "limitation",
+    "title": "General",
+    "text": "The amount of credit which would (but for this subsection and subsection(c)) be allowed with respect to any facility for any taxable year shall not exceed the amount which bears the same ratio to such amount of credit as\u2014\u2014the national megawatt capacity limitation allocated to the facility, bears to\u2014the total megawatt nameplate capacity of such facility.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of credit which would (but for this subsection and subsection(c)) be allowed with respect to any facility for any taxable year shall not exceed the amount which bears the same ratio to such amount of credit as\u2014\u2014the national megawatt capacity limitation allocated to the facility, bears to\u2014the total megawatt nameplate capacity of such facility."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45J(b)(1)In General\u2014The  amount of credit which would (but for this subsection\n                     and subsection(c))\n                     be allowed with respect to any facility for any taxable year  shall not  exceed the\n                     amount which bears the same ratio to such amount of credit as\u2014I.R.C. \u00a7 45J(b)(1)(A)\u2014the  national megawatt capacity limitation allocated to the facility, bears   toI.R.C. \u00a7 45J(b)(1)(B)\u2014the  total megawatt nameplate capacity of such facility.",
+    "definitions": null
+  },
+  {
+    "section": "45J",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)"
+    ],
+    "rule_type": "limitation",
+    "title": "Of National Limitation",
+    "text": "The aggregate amount of national megawatt capacity limitation allocated by the Secretary under paragraph(3)shall not exceed 6,000 megawatts.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The aggregate amount of national megawatt capacity limitation allocated by the Secretary under paragraph(3)shall not exceed 6,000 megawatts."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45J(b)(2)Amount Of National Limitation\u2014The aggregate amount of national megawatt capacity limitation allocated by the Secretary\n                     under paragraph(3)shall not exceed 6,000 megawatts.",
+    "definitions": null
+  },
+  {
+    "section": "45J",
+    "subsection": "(b)(3)",
+    "source_subsections": [
+      "(b)(3)"
+    ],
+    "rule_type": "limitation",
+    "title": "Of Limitation",
+    "text": "The Secretary shall allocate the national megawatt capacity limitation in such manner as the Secretary may prescribe.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall allocate the national megawatt capacity limitation in such manner as the Secretary may prescribe."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45J(b)(3)Allocation Of Limitation\u2014The  Secretary shall allocate the national  megawatt capacity limitation in  such\n                     manner as the Secretary may prescribe.",
+    "definitions": null
+  },
+  {
+    "section": "45J",
+    "subsection": "(b)(4)",
+    "source_subsections": [
+      "(b)(4)"
+    ],
+    "rule_type": "limitation",
+    "title": null,
+    "text": "Not later than 6 months after the date of the enactment of or any amendment to this section, the Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection. Such regulations shall provide a certification process under which the Secretary, after consultation with the Secretary of Energy, shall approve and allocate the national megawatt capacity limitation.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Not later than 6 months after the date of the enactment of or any amendment to this section, the Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection. Such regulations shall provide a certification process under which the Secretary, after consultation with the Secretary of Energy, shall approve and allocate the national megawatt capacity limitation."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45J(b)(4)Regulations\u2014Not later than 6 months after the date of the enactment of or any amendment to this\n                     section,  the Secretary shall prescribe such regulations as may be necessary  or \n                     appropriate to carry out the purposes of this subsection. Such regulations   shall\n                     provide a certification process under which the Secretary, after   consultation with\n                     the Secretary of Energy, shall approve and allocate the   national megawatt capacity\n                     limitation.",
+    "definitions": null
+  },
+  {
+    "section": "45J",
+    "subsection": "(b)(5)(A)",
+    "source_subsections": [
+      "(b)(5)(A)",
+      "(b)(5)(A)(i)",
+      "(b)(5)(A)(ii)"
+    ],
+    "rule_type": "limitation",
+    "title": "General",
+    "text": "Any unutilized national megawatt capacity limitation shall be allocated by the Secretary under paragraph (3) as rapidly as is practicable after December 31, 2020\u2014\u2014first to facilities placed in service on or before such date to the extent that such facilities did not receive an allocation equal to their full nameplate capacity, and\u2014then to facilities placed in service after such date in the order in which such facilities are placed in service.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Any unutilized national megawatt capacity limitation shall be allocated by the Secretary under paragraph (3) as rapidly as is practicable after December 31, 2020\u2014\u2014first to facilities placed in service on or before such date to the extent that such facilities did not receive an allocation equal to their full nameplate capacity, and\u2014then to facilities placed in service after such date in the order in which such facilities are placed in service."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45J(b)(5)(A)In General\u2014Any unutilized national megawatt capacity limitation shall be allocated by the Secretary\n                        under paragraph (3) as rapidly as is practicable after December 31, 2020\u2014I.R.C. \u00a7 45J(b)(5)(A)(i)\u2014first to facilities placed in service on or before such date to the extent that such\n                           facilities did not receive an allocation equal to their full nameplate capacity, andI.R.C. \u00a7 45J(b)(5)(A)(ii)\u2014then to facilities placed in service after such date in the order in which such facilities\n                           are placed in service.",
+    "definitions": null
+  },
+  {
+    "section": "45J",
+    "subsection": "(b)(5)(B)(i)",
+    "source_subsections": [
+      "(b)(5)(B)(i)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "6,000 megawatts, over",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "6,000 megawatts, over"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45J(b)(5)(B)(i)\u20146,000 megawatts, over",
+    "definitions": null
+  },
+  {
+    "section": "45J",
+    "subsection": "(b)(5)(B)(ii)",
+    "source_subsections": [
+      "(b)(5)(B)(ii)"
+    ],
+    "rule_type": "limitation",
+    "title": null,
+    "text": "the aggregate amount of national megawatt capacity limitation allocated by the Secretary before January 1, 2021, reduced by any amount of such limitation which was allocated to a facility which was not placed in service before such date.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "the aggregate amount of national megawatt capacity limitation allocated by the Secretary before January 1, 2021, reduced by any amount of such limitation which was allocated to a facility which was not placed in service before such date."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45J(b)(5)(B)(ii)\u2014the aggregate amount of national megawatt capacity limitation allocated by the Secretary\n                           before January 1, 2021, reduced by any amount of such limitation which was allocated\n                           to a facility which was not placed in service before such date.",
+    "definitions": null
+  },
+  {
+    "section": "45J",
+    "subsection": "(b)(5)(C)",
+    "source_subsections": [
+      "(b)(5)(C)",
+      "(b)(5)(C)(i)",
+      "(b)(5)(C)(ii)"
+    ],
+    "rule_type": "limitation",
+    "title": "With Other Provisions",
+    "text": "In the case of any unutilized national megawatt capacity limitation allocated by the Secretary pursuant to this paragraph\u2014\u2014such allocation shall be treated for purposes of this section in the same manner as an allocation of national megawatt capacity limitation, and\u2014subsection (d)(1)(B) shall not apply to any facility which receives such allocation.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any unutilized national megawatt capacity limitation allocated by the Secretary pursuant to this paragraph\u2014\u2014such allocation shall be treated for purposes of this section in the same manner as an allocation of national megawatt capacity limitation, and\u2014subsection (d)(1)(B) shall not apply to any facility which receives such allocation."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45J(b)(5)(C)Coordination With Other Provisions\u2014In the case of any unutilized national megawatt capacity limitation allocated by the\n                        Secretary pursuant to this paragraph\u2014I.R.C. \u00a7 45J(b)(5)(C)(i)\u2014such allocation shall be treated for purposes of this section in the same manner as\n                           an allocation of national megawatt capacity limitation, andI.R.C. \u00a7 45J(b)(5)(C)(ii)\u2014subsection (d)(1)(B) shall not apply to any facility which receives such allocation.",
+    "definitions": null
+  },
+  {
+    "section": "45J",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)",
+      "(c)(1)(A)",
+      "(c)(1)(B)"
+    ],
+    "rule_type": "limitation",
+    "title": "Limitation",
+    "text": "The amount of the credit allowable under subsection(a)(after the application of subsection(b)) for any taxable year with respect to any facility shall not exceed an amount which bears the same ratio to $125,000,000 as\u2014\u2014the national megawatt capacity limitation allocated under subsection(b)to the facility, bears to\u20141,000.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 125000000,
+        "text": "$125,000,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of the credit allowable under subsection(a)(after the application of subsection(b)) for any taxable year with respect to any facility shall not exceed an amount which bears the same ratio to $125,000,000 as\u2014\u2014the national megawatt capacity limitation allocated under subsection(b)to the facility, bears to\u20141,000."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45J(c)(1)Annual Limitation\u2014The  amount of the credit allowable under subsection(a)(after the  application of subsection(b))\n                     for any taxable year with respect  to any  facility shall not exceed an amount which\n                     bears the same ratio to   $125,000,000 as\u2014I.R.C. \u00a7 45J(c)(1)(A)\u2014the  national megawatt capacity limitation allocated under subsection(b)to\n                        the facility, bears toI.R.C. \u00a7 45J(c)(1)(B)\u20141,000.",
+    "definitions": null
+  },
+  {
+    "section": "45J",
+    "subsection": "(c)(2)(A)",
+    "source_subsections": [
+      "(c)(2)(A)",
+      "(c)(2)(A)(i)",
+      "(c)(2)(A)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The amount of the credit determined under subsection(a)shall be reduced by an amount which bears the same ratio to the amount of the credit (determined without regard to this paragraph) as\u2014\u2014the amount by which the reference price (as defined in section45(e)(2)(C)) for the calendar year in which the sale occurs exceeds 8 cents, bears to\u20143 cents.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of the credit determined under subsection(a)shall be reduced by an amount which bears the same ratio to the amount of the credit (determined without regard to this paragraph) as\u2014\u2014the amount by which the reference price (as defined in section45(e)(2)(C)) for the calendar year in which the sale occurs exceeds 8 cents, bears to\u20143 cents."
+    },
+    "cross_references": [
+      {
+        "section": "45(e)(2)(C)",
+        "reason": "eference price (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45J(c)(2)(A)In General\u2014The  amount of the credit determined under subsection(a)shall be reduced by an amount which bears the same ratio to the amount of  the credit\n                        (determined without regard to this paragraph) as\u2014I.R.C. \u00a7 45J(c)(2)(A)(i)\u2014the  amount by which the reference price (as defined in section45(e)(2)(C))\n                           for the calendar year in which the sale occurs exceeds 8 cents, bears toI.R.C. \u00a7 45J(c)(2)(A)(ii)\u20143  cents.",
+    "definitions": null
+  },
+  {
+    "section": "45J",
+    "subsection": "(c)(2)(B)",
+    "source_subsections": [
+      "(c)(2)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Adjustment Based On Inflation",
+    "text": "The 8 cent amount in subparagraph(A)shall be adjusted by multiplying such amount by the inflation adjustment factor (as defined in section45(e)(2)(B)) for the calendar year in which the sale occurs. If any amount as increased under the preceding sentence is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.",
+    "conditions": [
+      "any amount as increased under the preceding sentence is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any amount as increased under the preceding sentence is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The 8 cent amount in subparagraph(A)shall be adjusted by multiplying such amount by the inflation adjustment factor (as defined in section45(e)(2)(B)) for the calendar year in which the sale occurs."
+    },
+    "cross_references": [
+      {
+        "section": "45(e)(2)(B)",
+        "reason": "ustment factor (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45J(c)(2)(B)Phaseout Adjustment Based On Inflation\u2014The  8 cent amount in  subparagraph(A)shall be adjusted by multiplying  such amount by the inflation adjustment factor\n                        (as defined in  section45(e)(2)(B))\n                        for the calendar year in which the sale  occurs. If any amount as increased under\n                        the preceding sentence is  not a multiple of 0.1 cent, such amount shall be rounded\n                        to the  nearest multiple of 0.1 cent.",
+    "definitions": null
+  },
+  {
+    "section": "45J",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)",
+      "(d)(1)(A)",
+      "(d)(1)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cadvanced nuclear power facility\u201d means any advanced nuclear facility\u2014\u2014which is owned by the taxpayer and which uses nuclear energy to produce electricity, and\u2014which is placed in service after the date of the enactment of this paragraph and before January 1, 2021.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cadvanced nuclear power facility\u201d means any advanced nuclear facility\u2014\u2014which is owned by the taxpayer and which uses nuclear energy to produce electricity, and\u2014which is placed in service after the date of the enactment of this paragraph and before January 1, 2021."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45J(d)(1)In General\u2014The  term \u201cadvanced nuclear power facility\u201d\n                     means any  advanced nuclear  facility\u2014I.R.C. \u00a7 45J(d)(1)(A)\u2014which is owned by the taxpayer and which uses nuclear energy to produce   electricity,\n                        andI.R.C. \u00a7 45J(d)(1)(B)\u2014which is placed in service after the date of the enactment  of this  paragraph and\n                        before January 1, 2021.",
+    "definitions": {
+      "term": "advanced nuclear power facility",
+      "requirements": [
+        "any advanced nuclear facility\u2014\u2014which is owned by the taxpayer and which uses nuclear energy to produce electricity, and\u2014which is placed in service after the date of the enactment of this paragraph and before January 1, 2021."
+      ]
+    }
+  },
+  {
+    "section": "45J",
+    "subsection": "(d)(2)",
+    "source_subsections": [
+      "(d)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Nuclear Facility",
+    "text": "For purposes of paragraph (1), the term \u201cadvanced nuclear facility\u201d means any nuclear facility the reactor design for which is approved after December 31, 1993, by the Nuclear Regulatory Commission (and such design or a substantially similar design of comparable capacity was not approved on or before such date).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of paragraph (1), the term \u201cadvanced nuclear facility\u201d means any nuclear facility the reactor design for which is approved after December 31, 1993, by the Nuclear Regulatory Commission (and such design or a substantially similar design of comparable capacity was not approved on or before such date)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45J(d)(2)Advanced Nuclear Facility\u2014For  purposes of paragraph (1), the term  \u201cadvanced nuclear facility\u201d  means any nuclear\n                     facility the reactor design for\n                     which is approved after  December 31, 1993, by the Nuclear Regulatory Commission \n                     (and such design  or a substantially similar design of comparable capacity was  not\n                     approved  on or before such date).",
+    "definitions": {
+      "term": "advanced nuclear facility",
+      "requirements": [
+        "any nuclear facility the reactor design for which is approved after December 31, 1993, by the Nuclear Regulatory Commission (and such design or a substantially similar design of comparable capacity was not approved on or before such date)."
+      ]
+    }
+  },
+  {
+    "section": "45J",
+    "subsection": "(e)(1)",
+    "source_subsections": [
+      "(e)(1)",
+      "(e)(1)(A)",
+      "(e)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "If, with respect to a credit under subsection (a) for any taxable year\u2014\u2014a qualified public entity would be the taxpayer (but for this paragraph), and\u2014such entity elects the application of this paragraph for such taxable year with respect to all (or any portion specified in such election) of such credit, the eligible project partner specified in such election, and not the qualified public entity, shall be treated as the taxpayer for purposes of this title with respect to such credit (or such portion thereof).",
+    "conditions": [
+      ", with respect to a credit under subsection (a) for any taxable year\u2014\u2014a qualified public entity would be the taxpayer (but for this paragraph), and\u2014such entity elects the application of this paragraph for such taxable year with respect to all (or any portion specified in such election) of such credit, the eligible project partner specified in such election, and not the qualified public entity, shall be treated as the taxpayer for purposes of this title with respect to such credit (or such portion thereof)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        ", with respect to a credit under subsection (a) for any taxable year\u2014\u2014a qualified public entity would be the taxpayer (but for this paragraph), and\u2014such entity elects the application of this paragraph for such taxable year with respect to all (or any portion specified in such election) of such credit, the eligible project partner specified in such election, and not the qualified public entity, shall be treated as the taxpayer for purposes of this title with respect to such credit (or such portion thereof)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45J(e)(1)In General\u2014If, with respect to a credit under subsection (a) for any taxable year\u2014I.R.C. \u00a7 45J(e)(1)(A)\u2014a qualified public entity would be the taxpayer (but for this paragraph), andI.R.C. \u00a7 45J(e)(1)(B)\u2014such entity elects the application of this paragraph for such taxable year with respect\n                        to all (or any portion specified in such election) of such credit, the eligible project\n                        partner specified in such election, and not the qualified public entity, shall be\n                        treated as the taxpayer for purposes of this title with respect to such credit (or\n                        such portion thereof).",
+    "definitions": null
+  },
+  {
+    "section": "45J",
+    "subsection": "(e)(2)(A)",
+    "source_subsections": [
+      "(e)(2)(A)",
+      "(e)(2)(A)(i)",
+      "(e)(2)(A)(ii)",
+      "(e)(2)(A)(iii)"
+    ],
+    "rule_type": "definition",
+    "title": "Public Entity",
+    "text": "The term \u201cqualified public entity\u201d means\u2014\u2014a Federal, State, or local government entity, or any political subdivision, agency, or instrumentality thereof,\u2014a mutual or cooperative electric company described in section501(c)(12)or1381(a)(2), or\u2014a not-for-profit electric utility which had or has received a loan or loan guarantee under the Rural Electrification Act of 1936.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified public entity\u201d means\u2014\u2014a Federal, State, or local government entity, or any political subdivision, agency, or instrumentality thereof,\u2014a mutual or cooperative electric company described in section501(c)(12)or1381(a)(2), or\u2014a not-for-profit electric utility which had or has received a loan or loan guarantee under the Rural Electrification Act of 1936."
+    },
+    "cross_references": [
+      {
+        "section": "501(c)(12)",
+        "reason": "electric company described in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45J(e)(2)(A)Qualified Public Entity\u2014The term \u201cqualified public entity\u201d means\u2014I.R.C. \u00a7 45J(e)(2)(A)(i)\u2014a Federal, State, or local government entity, or any political subdivision, agency,\n                           or instrumentality thereof,I.R.C. \u00a7 45J(e)(2)(A)(ii)\u2014a mutual or cooperative electric company described in section501(c)(12)or1381(a)(2), orI.R.C. \u00a7 45J(e)(2)(A)(iii)\u2014a not-for-profit electric utility which had or has received a loan or loan guarantee\n                           under the Rural Electrification Act of 1936.",
+    "definitions": null
+  },
+  {
+    "section": "45J",
+    "subsection": "(e)(2)(B)",
+    "source_subsections": [
+      "(e)(2)(B)",
+      "(e)(2)(B)(i)",
+      "(e)(2)(B)(ii)",
+      "(e)(2)(B)(iii)",
+      "(e)(2)(B)(iv)",
+      "(e)(2)(B)(v)"
+    ],
+    "rule_type": "definition",
+    "title": "Project Partner",
+    "text": "The term \u201celigible project partner\u201d means any person who\u2014\u2014is responsible for, or participates in, the design or construction of the advanced nuclear power facility to which the credit under subsection (a) relates,\u2014participates in the provision of the nuclear steam supply system to such facility,\u2014participates in the provision of nuclear fuel to such facility,\u2014is a financial institution providing financing for the construction or operation of such facility, or\u2014has an ownership interest in such facility.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201celigible project partner\u201d means any person who\u2014\u2014is responsible for, or participates in, the design or construction of the advanced nuclear power facility to which the credit under subsection (a) relates,\u2014participates in the provision of the nuclear steam supply system to such facility,\u2014participates in the provision of nuclear fuel to such facility,\u2014is a financial institution providing financing for the construction or operation of such facility, or\u2014has an ownership interest in such facility."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45J(e)(2)(B)Eligible Project Partner\u2014The term \u201celigible project partner\u201d means any person who\u2014I.R.C. \u00a7 45J(e)(2)(B)(i)\u2014is responsible for, or participates in, the design or construction of the advanced\n                           nuclear power facility to which the credit under subsection (a) relates,I.R.C. \u00a7 45J(e)(2)(B)(ii)\u2014participates in the provision of the nuclear steam supply system to such facility,I.R.C. \u00a7 45J(e)(2)(B)(iii)\u2014participates in the provision of nuclear fuel to such facility,I.R.C. \u00a7 45J(e)(2)(B)(iv)\u2014is a financial institution providing financing for the construction or operation of\n                           such facility, orI.R.C. \u00a7 45J(e)(2)(B)(v)\u2014has an ownership interest in such facility.",
+    "definitions": {
+      "term": "eligible project partner",
+      "requirements": [
+        "any person who\u2014\u2014is responsible for, or participates in, the design or construction of the advanced nuclear power facility to which the credit under subsection (a) relates,\u2014participates in the provision of the nuclear steam supply system to such facility,\u2014participates in the provision of nuclear fuel to such facility,\u2014is a financial institution providing financing for the construction or operation of such facility, or\u2014has an ownership interest in such facility."
+      ]
+    }
+  },
+  {
+    "section": "45J",
+    "subsection": "(e)(3)(A)",
+    "source_subsections": [
+      "(e)(3)(A)",
+      "(e)(3)(A)(i)",
+      "(e)(3)(A)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "To Partnerships",
+    "text": "In the case of a credit under subsection (a) which is determined at the partnership level\u2014\u2014for purposes of paragraph (1)(A), a qualified public entity shall be treated as the taxpayer with respect to such entity's distributive share of such credit, and\u2014the term \u201celigible project partner\u201d shall include any partner of the partnership.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a credit under subsection (a) which is determined at the partnership level\u2014\u2014for purposes of paragraph (1)(A), a qualified public entity shall be treated as the taxpayer with respect to such entity's distributive share of such credit, and\u2014the term \u201celigible project partner\u201d shall include any partner of the partnership."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45J(e)(3)(A)Application To Partnerships\u2014In the case of a credit under subsection (a) which is determined at the partnership\n                        level\u2014I.R.C. \u00a7 45J(e)(3)(A)(i)\u2014for purposes of paragraph (1)(A), a qualified public entity shall be treated as the\n                           taxpayer with respect to such entity's distributive share of such credit, andI.R.C. \u00a7 45J(e)(3)(A)(ii)\u2014the term \u201celigible project partner\u201d\n                           shall include any partner of the partnership.",
+    "definitions": null
+  },
+  {
+    "section": "45J",
+    "subsection": "(e)(3)(B)",
+    "source_subsections": [
+      "(e)(3)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Year In Which Credit Taken Into Account",
+    "text": "In the case of any credit (or portion thereof) with respect to which an election is made under paragraph (1), such credit shall be taken into account in the first taxable year of the eligible project partner ending with, or after, the qualified public entity's taxable year with respect to which the credit was determined.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any credit (or portion thereof) with respect to which an election is made under paragraph (1), such credit shall be taken into account in the first taxable year of the eligible project partner ending with, or after, the qualified public entity's taxable year with respect to which the credit was determined."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45J(e)(3)(B)Taxable Year In Which Credit Taken Into Account\u2014In the case of any credit (or portion thereof) with respect to which an election is\n                        made under paragraph (1), such credit shall be taken into account in the first taxable\n                        year of the eligible project partner ending with, or after, the qualified public entity's\n                        taxable year with respect to which the credit was determined.",
+    "definitions": null
+  },
+  {
+    "section": "45J",
+    "subsection": "(e)(3)(C)",
+    "source_subsections": [
+      "(e)(3)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Transfer Under Private Use Rules",
+    "text": "For purposes of section141(b)(1), any benefit derived by an eligible project partner in connection with an election under this subsection shall not be taken into account as a private business use.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of section141(b)(1), any benefit derived by an eligible project partner in connection with an election under this subsection shall not be taken into account as a private business use."
+    },
+    "cross_references": [
+      {
+        "section": "141(b)(1)",
+        "reason": "For purposes of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45J(e)(3)(C)Treatment Of Transfer Under Private Use Rules\u2014For purposes of section141(b)(1), any benefit derived by an eligible project partner in connection with an election\n                        under this subsection shall not be taken into account as a private business use.",
+    "definitions": null
+  },
+  {
+    "section": "45J",
+    "subsection": "(f)",
+    "source_subsections": [
+      "(f)"
+    ],
+    "rule_type": "condition",
+    "title": "Rules To Apply",
+    "text": "Rules similar to the rules of paragraphs(1),(3),(4), and(5)of section45(e)shall apply for purposes of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules of paragraphs(1),(3),(4), and(5)of section45(e)shall apply for purposes of this section."
+    },
+    "cross_references": [
+      {
+        "section": "45(e)",
+        "reason": "ragraphs(1),(3),(4), and(5)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45J(f)Other Rules To Apply\u2014Rules  similar to the rules of paragraphs(1),(3),(4), and(5)of  section45(e)shall apply for purposes of this section.",
+    "definitions": null
+  }
+]

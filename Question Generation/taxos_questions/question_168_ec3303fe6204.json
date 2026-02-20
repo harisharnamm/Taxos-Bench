@@ -1,0 +1,22 @@
+{
+  "id": "ec3303fe6204",
+  "section": "168",
+  "citation": "I.R.C. \u00a7 168(k)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 168(k) is discussed as follows: 'I.R.C. \u00a7 168(k)Special Allowance For Certain Property\u2014I.R.C. \u00a7 168(k)(1)Additional Allowance\u2014In the ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 168(k)?",
+  "difficulty": 1,
+  "choices": [
+    "40.0%",
+    "50.0%",
+    "60.0%",
+    "90.0%",
+    "70.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 60.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 168(k)"
+  ]
+}

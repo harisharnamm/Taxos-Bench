@@ -1,0 +1,22 @@
+{
+  "id": "897c8f8899b8",
+  "section": "807",
+  "citation": "I.R.C. \u00a7 807(e)(5)(A)(ii)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 807(e)(5)(A)(ii) is discussed as follows: 'I.R.C. \u00a7 807(e)(5)(A)(ii)\u2014the closing balance of such items, shall be 80 percent  of the amount whic...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 807(e)(5)(A)(ii)?",
+  "difficulty": 1,
+  "choices": [
+    "120.0%",
+    "20.0%",
+    "90.0%",
+    "70.0%",
+    "80.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 80.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 807(e)(5)(A)(ii)"
+  ]
+}

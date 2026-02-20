@@ -1,0 +1,22 @@
+{
+  "id": "684701bf06c0",
+  "section": "141",
+  "citation": "I.R.C. \u00a7 141(d)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 141(d) is discussed as follows: 'I.R.C. \u00a7 141(d)Certain Issues Used To Acquire Nongovernmental Output Property\n                  Trea...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 141(d)?",
+  "difficulty": 1,
+  "choices": [
+    "$2,500,000.00",
+    "$5,000,000.00",
+    "$10,000,000.00",
+    "$4,500,000.00",
+    "$5,500,000.00"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $5,000,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 141(d)"
+  ]
+}

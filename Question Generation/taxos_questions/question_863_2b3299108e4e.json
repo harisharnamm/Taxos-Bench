@@ -1,0 +1,21 @@
+{
+  "id": "2b3299108e4e",
+  "section": "863",
+  "citation": "I.R.C. \u00a7 863(c)(2)(A)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 863(c)(2)(A) is discussed as follows: 'I.R.C. \u00a7 863(c)(2)(A)In General\u201450  percent of all transportation income attributable to transportat...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 863(c)(2)(A)?",
+  "difficulty": 1,
+  "choices": [
+    "75.0%",
+    "60.0%",
+    "50.0%",
+    "40.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 863(c)(2)(A)"
+  ]
+}

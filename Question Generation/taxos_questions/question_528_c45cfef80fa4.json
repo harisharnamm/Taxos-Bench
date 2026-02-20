@@ -1,0 +1,22 @@
+{
+  "id": "c45cfef80fa4",
+  "section": "528",
+  "citation": "I.R.C. \u00a7 528(b)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 528(b) is discussed as follows: 'I.R.C. \u00a7 528(b)Tax Imposed\u2014A  tax is hereby imposed for each taxable year on the homeowners associat...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 528(b)?",
+  "difficulty": 1,
+  "choices": [
+    "42.0%",
+    "32.0%",
+    "68.0%",
+    "48.0%",
+    "22.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 32.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 528(b)"
+  ]
+}

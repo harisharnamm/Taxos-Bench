@@ -1,0 +1,22 @@
+{
+  "id": "d8dc3083693c",
+  "section": "545",
+  "citation": "I.R.C. \u00a7 545(a)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 545(a) is discussed as follows: 'I.R.C. \u00a7 545(a)Definition\u2014For  purposes of this part, the term \u201cundistributed personal holding compa...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 545(a)?",
+  "difficulty": 1,
+  "choices": [
+    "0.0%",
+    "90.0%",
+    "20.0%",
+    "15.0%",
+    "10.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 10.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 545(a)"
+  ]
+}

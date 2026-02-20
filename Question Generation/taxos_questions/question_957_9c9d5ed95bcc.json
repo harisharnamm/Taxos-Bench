@@ -1,0 +1,22 @@
+{
+  "id": "9c9d5ed95bcc",
+  "section": "957",
+  "citation": "I.R.C. \u00a7 957(b)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 957(b) is discussed as follows: 'I.R.C. \u00a7 957(b)Special Rule For Insurance\u2014For  purposes only of taking into account income described...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 957(b)?",
+  "difficulty": 1,
+  "choices": [
+    "85.0%",
+    "65.0%",
+    "75.0%",
+    "112.5%",
+    "25.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 75.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 957(b)"
+  ]
+}

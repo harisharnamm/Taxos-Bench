@@ -1,0 +1,21 @@
+{
+  "id": "1e48c06b4fa4",
+  "section": "424",
+  "citation": "I.R.C. \u00a7 424(e)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 424(e) is discussed as follows: 'I.R.C. \u00a7 424(e)Parent Corporation\u2014For  purposes of this part, the term \u201cparent corporation\"\n        ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 424(e)?",
+  "difficulty": 1,
+  "choices": [
+    "75.0%",
+    "60.0%",
+    "50.0%",
+    "40.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 424(e)"
+  ]
+}

@@ -1,0 +1,1109 @@
+[
+  {
+    "section": "47",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "For purposes of section46, for any taxable year during the 5-year period beginning in the taxable year in which a qualified rehabilitated building is placed in service, the rehabilitation credit for such year is an amount equal to the ratable share for such year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of section46, for any taxable year during the 5-year period beginning in the taxable year in which a qualified rehabilitated building is placed in service, the rehabilitation credit for such year is an amount equal to the ratable share for such year."
+    },
+    "cross_references": [
+      {
+        "section": "46",
+        "reason": "For purposes of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 47(a)(1)In General\u2014For purposes of section46, for any taxable year during the 5-year period beginning in the taxable year in which\n                     a qualified rehabilitated building is placed in service, the rehabilitation credit\n                     for such year is an amount equal to the ratable share for such year.",
+    "definitions": null
+  },
+  {
+    "section": "47",
+    "subsection": "(a)(2)",
+    "source_subsections": [
+      "(a)(2)"
+    ],
+    "rule_type": "computation",
+    "title": "Share",
+    "text": "For purposes of paragraph (1), the ratable share for any taxable year during the period described in such paragraph is the amount equal to 20 percent of the qualified rehabilitation expenditures with respect to the qualified rehabilitated building, as allocated ratably to each year during such period.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.2,
+        "text": "20 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of paragraph (1), the ratable share for any taxable year during the period described in such paragraph is the amount equal to 20 percent of the qualified rehabilitation expenditures with respect to the qualified rehabilitated building, as allocated ratably to each year during such period."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 47(a)(2)Ratable Share\u2014For purposes of paragraph (1), the ratable share for any taxable year during the period\n                     described in such paragraph is the amount equal to 20 percent of the qualified rehabilitation\n                     expenditures with respect to the qualified rehabilitated building, as allocated ratably\n                     to each year during such period.",
+    "definitions": null
+  },
+  {
+    "section": "47",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Qualified rehabilitation expenditures with respect to any qualified rehabilitated building shall be taken into account for the taxable year in which such qualified rehabilitated building is placed in service.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Qualified rehabilitation expenditures with respect to any qualified rehabilitated building shall be taken into account for the taxable year in which such qualified rehabilitated building is placed in service."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 47(b)(1)In General\u2014Qualified  rehabilitation expenditures with respect to any qualified rehabilitated\n                     building shall be taken into account for the taxable year in which such  qualified\n                     rehabilitated building is placed in service.",
+    "definitions": null
+  },
+  {
+    "section": "47",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "With Subsection (d)",
+    "text": "The amount which would (but for this paragraph) be taken into account under paragraph(1)with respect to any qualified rehabilitated building shall be reduced (but not below zero) by any amount of qualified rehabilitation expenditures taken into account under subsection(d)by the taxpayer or a predecessor of the taxpayer(or, in the case of a sale and leaseback described in section50(a)(2)(C), by the lessee), to the extent any amount so taken into account has not been required to be recaptured under section50(a).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount which would (but for this paragraph) be taken into account under paragraph(1)with respect to any qualified rehabilitated building shall be reduced (but not below zero) by any amount of qualified rehabilitation expenditures taken into account under subsection(d)by the taxpayer or a predecessor of the taxpayer(or, in the case of a sale and leaseback described in section50(a)(2)(C), by the lessee), to the extent any amount so taken into account has not been required to be recaptured under section50(a)."
+    },
+    "cross_references": [
+      {
+        "section": "50(a)(2)(C)",
+        "reason": "le and leaseback described in..."
+      },
+      {
+        "section": "50(a)",
+        "reason": "quired to be recaptured under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 47(b)(2)Coordination With Subsection (d)\u2014The  amount which would (but for this paragraph) be taken into account under paragraph(1)with respect to any qualified rehabilitated building shall  be reduced\n                     (but not below zero) by any amount of qualified rehabilitation  expenditures taken\n                     into account under subsection(d)by the taxpayer or a  predecessor of the taxpayer(or, in the case of a sale and leaseback described in  section50(a)(2)(C), by the lessee), to the extent any amount so taken  into account has not been required\n                        to be recaptured under section50(a).",
+    "definitions": null
+  },
+  {
+    "section": "47",
+    "subsection": "(c)(1)(A)",
+    "source_subsections": [
+      "(c)(1)(A)",
+      "(c)(1)(A)(i)",
+      "(c)(1)(A)(ii)",
+      "(c)(1)(A)(iii)",
+      "(c)(1)(A)(iv)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cqualified rehabilitated building\u201d means any building (and its structural components) if\u2014\u2014such building has been substantially rehabilitated,\u2014such building was placed in service before the beginning of the rehabilitation,\u2014such building is a certified historic structure, and,\u2014depreciation (or amortization in lieu of depreciation) is allowable with respect to such building.",
+    "conditions": [
+      "\u2014\u2014such building has been substantially rehabilitated,\u2014such building was placed in service before the beginning of the rehabilitation,\u2014such building is a certified historic structure, and,\u2014depreciation (or amortization in lieu of depreciation) is allowable with respect to such building."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014such building has been substantially rehabilitated,\u2014such building was placed in service before the beginning of the rehabilitation,\u2014such building is a certified historic structure, and,\u2014depreciation (or amortization in lieu of depreciation) is allowable with respect to such building."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified rehabilitated building\u201d means any building (and its structural components)"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 47(c)(1)(A)In General\u2014The  term \u201cqualified rehabilitated building\u201d\n                        means any building (and its  structural components) if\u2014I.R.C. \u00a7 47(c)(1)(A)(i)\u2014such  building has been substantially rehabilitated,I.R.C. \u00a7 47(c)(1)(A)(ii)\u2014such  building was placed in service before the beginning of the rehabilitation,I.R.C. \u00a7 47(c)(1)(A)(iii)\u2014such building is a certified historic structure, and,I.R.C. \u00a7 47(c)(1)(A)(iv)\u2014depreciation  (or amortization in lieu of depreciation) is allowable with respect\n                           to  such building.",
+    "definitions": {
+      "term": "qualified rehabilitated building",
+      "requirements": [
+        "any building (and its structural components) if\u2014\u2014such building has been substantially rehabilitated,\u2014such building was placed in service before the beginning of the rehabilitation,\u2014such building is a certified historic structure, and,\u2014depreciation (or amortization in lieu of depreciation) is allowable with respect to such building."
+      ]
+    }
+  },
+  {
+    "section": "47",
+    "subsection": "(c)(1)(B)(i)",
+    "source_subsections": [
+      "(c)(1)(B)(i)",
+      "(c)(1)(B)(i)(I)",
+      "(c)(1)(B)(i)(II)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "For purposes of subparagraph(A)(i), a building shall be treated as having been substantially rehabilitated only if the qualified rehabilitation expenditures during the 24-month period selected by the taxpayer (at the time and in the manner prescribed by regulation) and ending with or within the taxable year exceed the greater of\u2014\u2014the adjusted basis of such building (and its structural components), or\u2014$5,000.The adjusted basis of the building (and its structural components) shall be determined as of the beginning of the 1st day of such 24-month period, or of the holding period of the building, whichever is later. For purposes of the preceding sentence, the determination of the beginning of the holding period shall be made without regard to any reconstruction by the taxpayer in connection with the rehabilitation.",
+    "conditions": [
+      "the qualified rehabilitation expenditures during the 24-month period selected by the taxpayer (at the time and in the manner prescribed by regulation) and ending with or within the taxable year exceed the greater of\u2014\u2014the adjusted basis of such building (and its structural components), or\u2014$5,000.The adjusted basis of the building (and its structural components) shall be determined as of the beginning of the 1st day of such 24-month period, or of the holding period of the building, whichever is later. For purposes of the preceding sentence, the determination of the beginning of the holding period shall be made without regard to any reconstruction by the taxpayer in connection with the rehabilitation."
+    ],
+    "computations": [
+      {
+        "operation": "max",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 5000,
+        "text": "$5,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the qualified rehabilitation expenditures during the 24-month period selected by the taxpayer (at the time and in the manner prescribed by regulation) and ending with or within the taxable year exceed the greater of\u2014\u2014the adjusted basis of such building (and its structural components), or\u2014$5,000.The adjusted basis of the building (and its structural components) shall be determined as of the beginning of the 1st day of such 24-month period, or of the holding period of the building, whichever is later. For purposes of the preceding sentence, the determination of the beginning of the holding period shall be made without regard to any reconstruction by the taxpayer in connection with the rehabilitation."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph(A)(i), a building shall be treated as having been substantially rehabilitated only"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 47(c)(1)(B)(i)In General\u2014For  purposes of subparagraph(A)(i), a building shall be treated as having  been substantially rehabilitated only if\n                           the qualified rehabilitation  expenditures during the 24-month period selected by\n                           the taxpayer (at the  time and in the manner prescribed by regulation) and ending\n                           with or within  the taxable year exceed the greater of\u2014I.R.C. \u00a7 47(c)(1)(B)(i)(I)\u2014the  adjusted basis of such building\n                              (and its structural components),  orI.R.C. \u00a7 47(c)(1)(B)(i)(II)\u2014$5,000.The adjusted basis of the building (and its structural\n                              components) shall be determined as of the beginning of the 1st day of such  24-month\n                              period, or of the holding period of the building, whichever is  later. For purposes\n                              of the preceding sentence, the determination of the  beginning of the holding period\n                              shall be made without regard to any  reconstruction by the taxpayer in connection\n                              with the rehabilitation.",
+    "definitions": null
+  },
+  {
+    "section": "47",
+    "subsection": "(c)(1)(B)(ii)",
+    "source_subsections": [
+      "(c)(1)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Rule For Phased Rehabilitation",
+    "text": "In the case of any rehabilitation which may reasonably be expected to be completed in phases set forth in architectural plans and specifications completed before the rehabilitation begins, clause(i)shall be applied by substituting \u201c60-month period\u201d for \u201c24-month period\u201d.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any rehabilitation which may reasonably be expected to be completed in phases set forth in architectural plans and specifications completed before the rehabilitation begins, clause(i)shall be applied by substituting \u201c60-month period\u201d for \u201c24-month period\u201d."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 47(c)(1)(B)(ii)Special Rule For Phased Rehabilitation\u2014In  the case of any rehabilitation which may reasonably be expected to be  completed\n                           in phases set forth in architectural plans and specifications  completed before the\n                           rehabilitation begins, clause(i)shall be applied by  substituting \u201c60-month period\u201d for \u201c24-month period\u201d.",
+    "definitions": null
+  },
+  {
+    "section": "47",
+    "subsection": "(c)(1)(B)(iii)",
+    "source_subsections": [
+      "(c)(1)(B)(iii)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The Secretary shall prescribe by regulation rules for applying this subparagraph to lessees.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall prescribe by regulation rules for applying this subparagraph to lessees."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 47(c)(1)(B)(iii)Lessees\u2014The  Secretary shall prescribe by regulation rules for applying this  subparagraph\n                           to lessees.",
+    "definitions": null
+  },
+  {
+    "section": "47",
+    "subsection": "(c)(1)(C)",
+    "source_subsections": [
+      "(c)(1)(C)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Rehabilitation includes reconstruction.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rehabilitation includes reconstruction."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 47(c)(1)(C)Reconstruction\u2014Rehabilitation  includes reconstruction.",
+    "definitions": null
+  },
+  {
+    "section": "47",
+    "subsection": "(c)(2)(A)",
+    "source_subsections": [
+      "(c)(2)(A)",
+      "(c)(2)(A)(i)",
+      "(c)(2)(A)(i)(I)",
+      "(c)(2)(A)(i)(II)",
+      "(c)(2)(A)(i)(III)",
+      "(c)(2)(A)(i)(IV)",
+      "(c)(2)(A)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cqualified rehabilitation expenditure\u201d means any amount properly chargeable to capital account\u2014\u2014for property for which depreciation is allowable under section168and which is\u2014\u2014nonresidential real property,\u2014residential rental property,\u2014real property which has a class life of more than 12.5 years, or\u2014an addition or improvement to property described in subclause(I),(II), or(III), and\u2014in connection with the rehabilitation of a qualified rehabilitated building.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified rehabilitation expenditure\u201d means any amount properly chargeable to capital account\u2014\u2014for property for which depreciation is allowable under section168and which is\u2014\u2014nonresidential real property,\u2014residential rental property,\u2014real property which has a class life of more than 12.5 years, or\u2014an addition or improvement to property described in subclause(I),(II), or(III), and\u2014in connection with the rehabilitation of a qualified rehabilitated building."
+    },
+    "cross_references": [
+      {
+        "section": "168a",
+        "reason": "preciation is allowable under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 47(c)(2)(A)In General\u2014The  term \u201cqualified rehabilitation expenditure\u201d\n                        means any amount properly  chargeable to capital account\u2014I.R.C. \u00a7 47(c)(2)(A)(i)\u2014for  property for which depreciation is allowable under section168and which  is\u2014I.R.C. \u00a7 47(c)(2)(A)(i)(I)\u2014nonresidential  real property,I.R.C. \u00a7 47(c)(2)(A)(i)(II)\u2014residential  rental property,I.R.C. \u00a7 47(c)(2)(A)(i)(III)\u2014real  property which has a class life of more than 12.5 years, orI.R.C. \u00a7 47(c)(2)(A)(i)(IV)\u2014an  addition or improvement to property described in subclause(I),(II), or(III), andI.R.C. \u00a7 47(c)(2)(A)(ii)\u2014in  connection with the rehabilitation of a qualified rehabilitated building.",
+    "definitions": {
+      "term": "qualified rehabilitation expenditure",
+      "requirements": [
+        "any amount properly chargeable to capital account\u2014\u2014for property for which depreciation is allowable under section168and which is\u2014\u2014nonresidential real property,\u2014residential rental property,\u2014real property which has a class life of more than 12.5 years, or\u2014an addition or improvement to property described in subclause(I),(II), or(III), and\u2014in connection with the rehabilitation of a qualified rehabilitated building."
+      ]
+    }
+  },
+  {
+    "section": "47",
+    "subsection": "(c)(2)(B)(i)",
+    "source_subsections": [
+      "(c)(2)(B)(i)"
+    ],
+    "rule_type": "condition",
+    "title": "Line Depreciation Must Be Used",
+    "text": "Any expenditure with respect to which the taxpayer does not use the straight line method over a recovery period determined under subsection(c)or(g)of section168. The preceding sentence shall not apply to any expenditure to the extent the alternative depreciation system of section168(g)applies to such expenditure by reason of subparagraph(B)or(C)of section168(g)(1).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Any expenditure with respect to which the taxpayer does not use the straight line method over a recovery period determined under subsection(c)or(g)of section168. The preceding sentence shall not apply to any expenditure to the extent the alternative depreciation system of section168(g)applies to such expenditure by reason of subparagraph(B)or(C)of section168(g)(1)."
+    },
+    "cross_references": [
+      {
+        "section": "168",
+        "reason": "ed under subsection(c)or(g)of..."
+      },
+      {
+        "section": "168(g)",
+        "reason": "native depreciation system of..."
+      },
+      {
+        "section": "168(g)(1)",
+        "reason": "son of subparagraph(B)or(C)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 47(c)(2)(B)(i)Straight Line Depreciation Must Be Used\u2014Any  expenditure with respect to which the taxpayer does not use the straight  line\n                           method over a recovery period determined under subsection(c)or(g)of section168. The preceding sentence shall not apply to any expenditure  to the extent the alternative\n                           depreciation system of section168(g)applies to such expenditure by reason of subparagraph(B)or(C)of  section168(g)(1).",
+    "definitions": null
+  },
+  {
+    "section": "47",
+    "subsection": "(c)(2)(B)(ii)",
+    "source_subsections": [
+      "(c)(2)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Acquisition",
+    "text": "The cost of acquiring any building or interest therein.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The cost of acquiring any building or interest therein."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 47(c)(2)(B)(ii)Cost Of Acquisition\u2014The  cost of acquiring any building or interest therein.",
+    "definitions": null
+  },
+  {
+    "section": "47",
+    "subsection": "(c)(2)(B)(iii)",
+    "source_subsections": [
+      "(c)(2)(B)(iii)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Any expenditure attributable to the enlargement of an existing building.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Any expenditure attributable to the enlargement of an existing building."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 47(c)(2)(B)(iii)Enlargements\u2014Any  expenditure attributable to the enlargement of an existing building.",
+    "definitions": null
+  },
+  {
+    "section": "47",
+    "subsection": "(c)(2)(B)(iv)",
+    "source_subsections": [
+      "(c)(2)(B)(iv)"
+    ],
+    "rule_type": "condition",
+    "title": "Historic Structure",
+    "text": "Any expenditure attributable to the rehabilitation of a qualified rehabilitated building unless the rehabilitation is a certified rehabilitation (within the meaning of subparagraph (C)).",
+    "conditions": [
+      "the rehabilitation is a certified rehabilitation (within the meaning of subparagraph (C))."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "the rehabilitation is a certified rehabilitation (within the meaning of subparagraph (C))."
+      ],
+      "except": [],
+      "result": "Any expenditure attributable to the rehabilitation of a qualified rehabilitated building"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 47(c)(2)(B)(iv)Certified Historic Structure\u2014Any expenditure attributable to the rehabilitation of a qualified rehabilitated building\n                           unless the rehabilitation is a certified rehabilitation (within the meaning of subparagraph\n                           (C)).",
+    "definitions": null
+  },
+  {
+    "section": "47",
+    "subsection": "(c)(2)(B)(v)",
+    "source_subsections": [
+      "(c)(2)(B)(v)",
+      "(c)(2)(B)(v)(I)",
+      "(c)(2)(B)(v)(II)"
+    ],
+    "rule_type": "exception",
+    "title": "Use PropertyI.R.C. \u00a7 47(c)(2)(B)(v)(I)In General",
+    "text": "Any expenditure in connection with the rehabilitation of a building which is allocable to the portion of such property which is (or may reasonably be expected to be) tax-exempt use property (within the meaning of section168(h), except that \u201c50 percent\u201d shall be substituted for \u201c35 percent\u201d in paragraph(1)(B)(iii)thereof). Not To Apply For Purposes Of Paragraph (1)(C)\u2014This clause shall not apply for purposes of determining under paragraph(1)(C)whether a building has been substantially rehabilitated.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.35,
+        "text": "35 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "that \u201c50 percent\u201d shall be substituted for \u201c35 percent\u201d in paragraph(1)(B)(iii)thereof). Not To Apply For Purposes Of Paragraph (1)(C)\u2014This clause shall not apply for purposes of determining under paragraph(1)(C)whether a building has been substantially rehabilitated."
+      ],
+      "result": "Any expenditure in connection with the rehabilitation of a building which is allocable to the portion of such property which is (or may reasonably be expected to be) tax-exempt use property (within the meaning of section168(h),"
+    },
+    "cross_references": [
+      {
+        "section": "168(h)",
+        "reason": "operty (within the meaning of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 47(c)(2)(B)(v)Tax-Exempt Use PropertyI.R.C. \u00a7 47(c)(2)(B)(v)(I)In General\u2014Any  expenditure in connection with the rehabilitation of a building which is  allocable\n                              to the portion of such property which is (or may reasonably be  expected to be) tax-exempt\n                              use property\n                              (within the meaning of section168(h), except that \u201c50 percent\u201d shall be substituted for \u201c35 percent\u201d in paragraph(1)(B)(iii)thereof).I.R.C. \u00a7 47(c)(2)(B)(v)(II)Clause Not To Apply For Purposes Of Paragraph (1)(C)\u2014This  clause shall not apply for purposes of determining under paragraph(1)(C)whether a building has been substantially rehabilitated.",
+    "definitions": null
+  },
+  {
+    "section": "47",
+    "subsection": "(c)(2)(B)(vi)",
+    "source_subsections": [
+      "(c)(2)(B)(vi)"
+    ],
+    "rule_type": "definition",
+    "title": "Of Lessee",
+    "text": "Any expenditure of a lessee of a building if, on the date the rehabilitation is completed, the remaining term of the lease (determined without regard to any renewal periods) is less than the recovery period determined under section168(c).",
+    "conditions": [
+      ", on the date the rehabilitation is completed, the remaining term of the lease (determined without regard to any renewal periods) is less than the recovery period determined under section168(c)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        ", on the date the rehabilitation is completed, the remaining term of the lease (determined without regard to any renewal periods) is less than the recovery period determined under section168(c)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Any expenditure of a lessee of a building"
+    },
+    "cross_references": [
+      {
+        "section": "168(c)",
+        "reason": "overy period determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 47(c)(2)(B)(vi)Expenditures Of Lessee\u2014Any  expenditure of a lessee of a building if, on the date the rehabilitation  is\n                           completed, the remaining term of the lease\n                           (determined without regard  to any renewal periods) is less than the recovery period\n                           determined under  section168(c).",
+    "definitions": null
+  },
+  {
+    "section": "47",
+    "subsection": "(c)(2)(C)",
+    "source_subsections": [
+      "(c)(2)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "Rehabilitation",
+    "text": "For purposes of subparagraph(B), the term \u201ccertified rehabilitation\u201d means any rehabilitation of a certified historic structure which the Secretary of the Interior has certified to the Secretary as being consistent with the historic character of such property or the district in which such property is located.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph(B), the term \u201ccertified rehabilitation\u201d means any rehabilitation of a certified historic structure which the Secretary of the Interior has certified to the Secretary as being consistent with the historic character of such property or the district in which such property is located."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 47(c)(2)(C)Certified Rehabilitation\u2014For  purposes of subparagraph(B), the term \u201ccertified rehabilitation\u201d means  any rehabilitation of a certified historic\n                        structure which the Secretary  of the Interior has certified to the Secretary as being\n                        consistent with  the historic character of such\n                        property or the district in which such property is located.",
+    "definitions": {
+      "term": "certified rehabilitation",
+      "requirements": [
+        "any rehabilitation of a certified historic structure which the Secretary of the Interior has certified to the Secretary as being consistent with the historic character of such property or the district in which such property is located."
+      ]
+    }
+  },
+  {
+    "section": "47",
+    "subsection": "(c)(2)(D)",
+    "source_subsections": [
+      "(c)(2)(D)"
+    ],
+    "rule_type": "condition",
+    "title": "Real Property; Residential Rental Property; Class Life",
+    "text": "For purposes of subparagraph(A), the terms \u201cnonresidential real property,\u201d \u201cresidential rental property,\u201d and \u201cclass life\u201d have the respective meanings given such terms by section168.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph(A), the terms \u201cnonresidential real property,\u201d \u201cresidential rental property,\u201d and \u201cclass life\u201d have the respective meanings given such terms by section168."
+    },
+    "cross_references": [
+      {
+        "section": "168",
+        "reason": "meanings given such terms by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 47(c)(2)(D)Nonresidential Real Property; Residential Rental Property; Class Life\u2014For purposes of subparagraph(A), the terms \u201cnonresidential real  property,\u201d \u201cresidential rental property,\u201d\n                        and \u201cclass life\u201d have the  respective meanings given such terms by section168.",
+    "definitions": null
+  },
+  {
+    "section": "47",
+    "subsection": "(c)(3)(A)",
+    "source_subsections": [
+      "(c)(3)(A)",
+      "(c)(3)(A)(i)",
+      "(c)(3)(A)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201ccertified historic structure\u201d means any building (and its structural components) which\u2014\u2014is listed in the National Register, or\u2014is located in a registered historic district and is certified by the Secretary of the Interior to the Secretary as being of historic significance to the district.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201ccertified historic structure\u201d means any building (and its structural components) which\u2014\u2014is listed in the National Register, or\u2014is located in a registered historic district and is certified by the Secretary of the Interior to the Secretary as being of historic significance to the district."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 47(c)(3)(A)In General\u2014The  term \u201ccertified historic structure\u201d\n                        means any building (and its structural  components) which\u2014I.R.C. \u00a7 47(c)(3)(A)(i)\u2014is  listed in the National Register, orI.R.C. \u00a7 47(c)(3)(A)(ii)\u2014is  located in a registered historic district and is certified by the  Secretary of\n                           the Interior to the Secretary as being of historic  significance to the district.",
+    "definitions": {
+      "term": "certified historic structure",
+      "requirements": [
+        "any building (and its structural components) which\u2014\u2014is listed in the National Register, or\u2014is located in a registered historic district and is certified by the Secretary of the Interior to the Secretary as being of historic significance to the district."
+      ]
+    }
+  },
+  {
+    "section": "47",
+    "subsection": "(c)(3)(B)",
+    "source_subsections": [
+      "(c)(3)(B)",
+      "(c)(3)(B)(i)",
+      "(c)(3)(B)(ii)",
+      "(c)(3)(B)(ii)(I)",
+      "(c)(3)(B)(ii)(II)"
+    ],
+    "rule_type": "definition",
+    "title": "Historic District",
+    "text": "The term \u201cregistered historic district\u201d means\u2014\u2014any district listed in the National Register, and\u2014any district\u2014\u2014which is designated under a statute of the appropriate State or local government, if such statute is certified by the Secretary of the Interior to the Secretary as containing criteria which will substantially achieve the purpose of preserving and rehabilitating buildings of historic significance to the district, and\u2014which is certified by the Secretary of the Interior to the Secretary as meeting substantially all of the requirements for the listing of districts in the National Register.",
+    "conditions": [
+      "such statute is certified by the Secretary of the Interior to the Secretary as containing criteria which will substantially achieve the purpose of preserving and rehabilitating buildings of historic significance to the district, and\u2014which is certified by the Secretary of the Interior to the Secretary as meeting substantially all of the requirements for the listing of districts in the National Register."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such statute is certified by the Secretary of the Interior to the Secretary as containing criteria which will substantially achieve the purpose of preserving and rehabilitating buildings of historic significance to the district, and\u2014which is certified by the Secretary of the Interior to the Secretary as meeting substantially all of the requirements for the listing of districts in the National Register."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cregistered historic district\u201d means\u2014\u2014any district listed in the National Register, and\u2014any district\u2014\u2014which is designated under a statute of the appropriate State or local government,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 47(c)(3)(B)Registered Historic District\u2014The  term \u201cregistered historic district\u201d\n                        means\u2014I.R.C. \u00a7 47(c)(3)(B)(i)\u2014any  district listed in the National Register, andI.R.C. \u00a7 47(c)(3)(B)(ii)\u2014any  district\u2014I.R.C. \u00a7 47(c)(3)(B)(ii)(I)\u2014which  is designated under a statute of the appropriate State or local  government,\n                              if such statute is certified by the Secretary of the Interior  to the Secretary as\n                              containing criteria which will substantially achieve  the purpose of preserving and\n                              rehabilitating buildings of historic  significance to the district, andI.R.C. \u00a7 47(c)(3)(B)(ii)(II)\u2014which  is certified by the Secretary of the Interior to the Secretary as meeting \n                              substantially all of the requirements for the listing of districts in the  National\n                              Register.",
+    "definitions": null
+  },
+  {
+    "section": "47",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)",
+      "(d)(1)(A)",
+      "(d)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "In the case of any building to which this subsection applies, except as provided in paragraph(3)\u2014\u2014if such building is self-rehabilitated property, any qualified rehabilitation expenditure with respect to such building shall be taken into account for the taxable year for which such expenditure is properly chargeable to capital account with respect to such building, and\u2014if such building is not self-rehabilitated property, any qualified rehabilitation expenditure with respect to such building shall be taken into account for the taxable year in which paid.",
+    "conditions": [
+      "such building is self-rehabilitated property, any qualified rehabilitation expenditure with respect to such building shall be taken into account for the taxable year for which such expenditure is properly chargeable to capital account with respect to such building, and\u2014",
+      "such building is not self-rehabilitated property, any qualified rehabilitation expenditure with respect to such building shall be taken into account for the taxable year in which paid."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [
+      {
+        "applies_when": "paragraph(3)\u2014\u2014if such building is self-rehabilitated property",
+        "effect": "See referenced section"
+      }
+    ],
+    "logical_structure": {
+      "if": [
+        "such building is self-rehabilitated property, any qualified rehabilitation expenditure with respect to such building shall be taken into account for the taxable year for which such expenditure is properly chargeable to capital account with respect to such building, and\u2014",
+        "such building is not self-rehabilitated property, any qualified rehabilitation expenditure with respect to such building shall be taken into account for the taxable year in which paid."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as provided in paragraph(3)\u2014\u2014"
+      ],
+      "result": "In the case of any building to which this subsection applies,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 47(d)(1)In General\u2014In  the case of any building to which this subsection applies, except as  provided\n                     in paragraph(3)\u2014I.R.C. \u00a7 47(d)(1)(A)\u2014if  such building is self-rehabilitated property, any qualified rehabilitation  expenditure\n                        with respect to such building shall be taken into account for  the taxable year for\n                        which such expenditure is properly chargeable to  capital account with respect to\n                        such building, andI.R.C. \u00a7 47(d)(1)(B)\u2014if  such building is not self-rehabilitated property, any qualified  rehabilitation\n                        expenditure with respect to such building shall be taken  into account for the taxable\n                        year in which paid.",
+    "definitions": null
+  },
+  {
+    "section": "47",
+    "subsection": "(d)(2)(A)",
+    "source_subsections": [
+      "(d)(2)(A)",
+      "(d)(2)(A)(i)",
+      "(d)(2)(A)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "This subsection shall apply to any building which is being rehabilitated by or for the taxpayer if\u2014\u2014the normal rehabilitation period for such building is 2 years or more, and\u2014it is reasonable to expect that such building will be a qualified rehabilitated building in the hands of the taxpayer when it is placed in service.Clauses(i)and(ii)shall be applied on the basis of facts known as the close of the taxable year of the taxpayer in which the rehabilitation begins (or, if later, at the close of the first taxable year to which an election under this subsection applies).",
+    "conditions": [
+      "\u2014\u2014the normal rehabilitation period for such building is 2 years or more, and\u2014it is reasonable to expect that such building will be a qualified rehabilitated building in the hands of the taxpayer",
+      "it is placed in service.Clauses(i)and(ii)shall be applied on the basis of facts known as the close of the taxable year of the taxpayer in which the rehabilitation begins (or,",
+      "later, at the close of the first taxable year to which an election under this subsection applies)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014the normal rehabilitation period for such building is 2 years or more, and\u2014it is reasonable to expect that such building will be a qualified rehabilitated building in the hands of the taxpayer",
+        "it is placed in service.Clauses(i)and(ii)shall be applied on the basis of facts known as the close of the taxable year of the taxpayer in which the rehabilitation begins (or,",
+        "later, at the close of the first taxable year to which an election under this subsection applies)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "This subsection shall apply to any building which is being rehabilitated by or for the taxpayer"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 47(d)(2)(A)In General\u2014This  subsection shall apply to any building which is being rehabilitated by or  for\n                        the taxpayer if\u2014I.R.C. \u00a7 47(d)(2)(A)(i)\u2014the  normal rehabilitation period for such building is 2 years or more, andI.R.C. \u00a7 47(d)(2)(A)(ii)\u2014it  is reasonable to expect that such building will be a qualified  rehabilitated\n                           building in the hands of the taxpayer when it is placed in  service.Clauses(i)and(ii)shall be applied on the basis of  facts known as the close of the taxable year of\n                           the taxpayer in which the  rehabilitation begins (or, if later, at the close of the\n                           first taxable  year to which an election under this subsection applies).",
+    "definitions": null
+  },
+  {
+    "section": "47",
+    "subsection": "(d)(2)(B)",
+    "source_subsections": [
+      "(d)(2)(B)",
+      "(d)(2)(B)(i)",
+      "(d)(2)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Rehabilitation Period",
+    "text": "For purposes of subparagraph(A), the term \u201cnormal rehabilitation period\u201d means the period reasonably expected to be required for the rehabilitation of the building\u2014\u2014beginning with the date on which physical work on the rehabilitation begins (or, if later, the first day of the first taxable year to which an election under this subsection applies), and\u2014ending on the date on which it is expected that the property will be available for placing in service.",
+    "conditions": [
+      "later, the first day of the first taxable year to which an election under this subsection applies), and\u2014ending on the date on which it is expected that the property will be available for placing in service."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "later, the first day of the first taxable year to which an election under this subsection applies), and\u2014ending on the date on which it is expected that the property will be available for placing in service."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph(A), the term \u201cnormal rehabilitation period\u201d means the period reasonably expected to be required for the rehabilitation of the building\u2014\u2014beginning with the date on which physical work on the rehabilitation begins (or,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 47(d)(2)(B)Normal Rehabilitation Period\u2014For  purposes of subparagraph(A), the term \u201cnormal rehabilitation period\u201d  means the period reasonably expected to\n                        be required for the rehabilitation  of the building\u2014I.R.C. \u00a7 47(d)(2)(B)(i)\u2014beginning  with the date on which physical work on the rehabilitation begins (or,\n                           if  later, the first day of the first taxable year to which an election under  this\n                           subsection applies), andI.R.C. \u00a7 47(d)(2)(B)(ii)\u2014ending  on the date on which it is expected that the property will be available  for\n                           placing in service.",
+    "definitions": {
+      "term": "normal rehabilitation period",
+      "requirements": [
+        "the period reasonably expected to be required for the rehabilitation of the building\u2014\u2014beginning with the date on which physical work on the rehabilitation begins (or, if later, the first day of the first taxable year to which an election under this subsection applies), and\u2014ending on the date on which it is expected that the property will be available for placing in service."
+      ]
+    }
+  },
+  {
+    "section": "47",
+    "subsection": "(d)(3)(A)",
+    "source_subsections": [
+      "(d)(3)(A)",
+      "(d)(3)(A)(i)",
+      "(d)(3)(A)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Parts, Etc.",
+    "text": "Property which is to be a component part of, or is otherwise to be included in, any building to which this subsection applies shall be taken into account\u2014\u2014at a time not earlier than the time at which it becomes irrevocably devoted to use in the building, and\u2014as if (at the time referred to in clause(i)) the taxpayer had expended an amount equal to that portion of the cost to the taxpayer of such component or other property which, for purposes of this subpart, is properly chargeable (during such taxable year) to capital account with respect to such building.",
+    "conditions": [
+      "(at the time referred to in clause(i)) the taxpayer had expended an amount equal to that portion of the cost to the taxpayer of such component or other property which, for purposes of this subpart, is properly chargeable (during such taxable year) to capital account with respect to such building."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "(at the time referred to in clause(i)) the taxpayer had expended an amount equal to that portion of the cost to the taxpayer of such component or other property which, for purposes of this subpart, is properly chargeable (during such taxable year) to capital account with respect to such building."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Property which is to be a component part of, or is otherwise to be included in, any building to which this subsection applies shall be taken into account\u2014\u2014at a time not earlier than the time at which it becomes irrevocably devoted to use in the building, and\u2014as"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 47(d)(3)(A)Component Parts, Etc.\u2014Property  which is to be a component part of, or is otherwise to be included in, any\n                        building to which this subsection applies shall be taken into account\u2014I.R.C. \u00a7 47(d)(3)(A)(i)\u2014at a  time not earlier than the time at which it becomes irrevocably devoted to  use\n                           in the building, andI.R.C. \u00a7 47(d)(3)(A)(ii)\u2014as  if (at the time referred to in clause(i)) the taxpayer had expended an  amount equal to that portion of the cost to the taxpayer\n                           of such component  or other property which, for purposes of this subpart, is properly\n                           chargeable (during such taxable year) to capital account with respect to  such building.",
+    "definitions": null
+  },
+  {
+    "section": "47",
+    "subsection": "(d)(3)(B)",
+    "source_subsections": [
+      "(d)(3)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Borrowing Disregarded",
+    "text": "Any amount borrowed directly or indirectly by the taxpayer from the person rehabilitating the property for him shall not be treated as an amount expended for such rehabilitation.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Any amount borrowed directly or indirectly by the taxpayer from the person rehabilitating the property for him shall not be treated as an amount expended for such rehabilitation."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 47(d)(3)(B)Certain Borrowing Disregarded\u2014Any  amount borrowed directly or indirectly by the taxpayer from the person  rehabilitating\n                        the property for him shall not be treated as an amount  expended for such rehabilitation.",
+    "definitions": null
+  },
+  {
+    "section": "47",
+    "subsection": "(d)(3)(C)(i)",
+    "source_subsections": [
+      "(d)(3)(C)(i)"
+    ],
+    "rule_type": "limitation",
+    "title": "General",
+    "text": "In the case of a building which is not self-rehabilitated, the amount taken into account under paragraph(1)(B)for any taxable year shall not exceed the amount which represents the portion of the overall cost to the taxpayer of the rehabilitation which is properly attributable to the portion of the rehabilitation which is completed during such taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a building which is not self-rehabilitated, the amount taken into account under paragraph(1)(B)for any taxable year shall not exceed the amount which represents the portion of the overall cost to the taxpayer of the rehabilitation which is properly attributable to the portion of the rehabilitation which is completed during such taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 47(d)(3)(C)(i)In General\u2014In  the case of a building which is not self-rehabilitated, the amount taken  into\n                           account under paragraph(1)(B)for any taxable year shall not exceed  the amount which represents the portion of\n                           the overall cost to the  taxpayer of the rehabilitation which is properly attributable\n                           to the  portion of the rehabilitation which is completed during such taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "47",
+    "subsection": "(d)(3)(C)(ii)",
+    "source_subsections": [
+      "(d)(3)(C)(ii)",
+      "(d)(3)(C)(ii)(I)",
+      "(d)(3)(C)(ii)(II)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Certain Amounts",
+    "text": "In the case of a building which is not a self-rehabilitated building, if for the taxable year\u2014\u2014the amount which (but for clause(i)) would have been taken into account under paragraph(1)(B)exceeds the limitation of clause(i), then the amount of such excess shall be taken into account under paragraph(1)(B)for the succeeding taxable year, or\u2014the limitation of clause(i)exceeds the amount taken into account under paragraph(1)(B), then the amount of such excess shall increase the limitation of clause(i)for the succeeding taxable year.",
+    "conditions": [
+      "for the taxable year\u2014\u2014the amount which (but for clause(i)) would have been taken into account under paragraph(1)(B)exceeds the limitation of clause(i), then the amount of such excess shall be taken into account under paragraph(1)(B)for the succeeding taxable year, or\u2014the limitation of clause(i)exceeds the amount taken into account under paragraph(1)(B), then the amount of such excess shall increase the limitation of clause(i)for the succeeding taxable year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "for the taxable year\u2014\u2014the amount which (but for clause(i)) would have been taken into account under paragraph(1)(B)exceeds the limitation of clause(i), then the amount of such excess shall be taken into account under paragraph(1)(B)for the succeeding taxable year, or\u2014the limitation of clause(i)exceeds the amount taken into account under paragraph(1)(B), then the amount of such excess shall increase the limitation of clause(i)for the succeeding taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a building which is not a self-rehabilitated building,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 47(d)(3)(C)(ii)Carry-Over Of Certain Amounts\u2014In the case of a building which is not a self-rehabilitated building, if  for the\n                           taxable year\u2014I.R.C. \u00a7 47(d)(3)(C)(ii)(I)\u2014the  amount which (but for clause(i)) would have been taken into account under  paragraph(1)(B)exceeds the limitation of clause(i), then the amount of  such excess shall be taken into account under paragraph(1)(B)for the  succeeding taxable year, orI.R.C. \u00a7 47(d)(3)(C)(ii)(II)\u2014the  limitation of clause(i)exceeds the amount taken into account under  paragraph(1)(B), then the amount of such excess shall increase the  limitation of clause(i)for the succeeding taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "47",
+    "subsection": "(d)(3)(D)",
+    "source_subsections": [
+      "(d)(3)(D)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Percentage Of Completion",
+    "text": "The determination under subparagraph(C)(i)of the portion of the overall cost to the taxpayer of the rehabilitation which is properly attributable to rehabilitation completed during any taxable year shall be made, under regulations prescribed by the Secretary, on the basis of engineering or architectural estimates or on the basis of cost accounting records. Unless the taxpayer establishes otherwise by clear and convincing evidence, the rehabilitation shall be deemed to be completed not more rapidly than ratably over the normal rehabilitation period.",
+    "conditions": [
+      "the taxpayer establishes otherwise by clear and convincing evidence, the rehabilitation shall be deemed to be completed not more rapidly than ratably over the normal rehabilitation period."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "the taxpayer establishes otherwise by clear and convincing evidence, the rehabilitation shall be deemed to be completed not more rapidly than ratably over the normal rehabilitation period."
+      ],
+      "except": [],
+      "result": "The determination under subparagraph(C)(i)of the portion of the overall cost to the taxpayer of the rehabilitation which is properly attributable to rehabilitation completed during any taxable year shall be made, under regulations prescribed by the Secretary, on the basis of engineering or architectural estimates or on the basis of cost accounting records."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 47(d)(3)(D)Determination Of Percentage Of Completion\u2014The  determination under subparagraph(C)(i)of the portion of the overall cost  to the taxpayer of the rehabilitation which is\n                        properly attributable to  rehabilitation completed during any taxable year shall be\n                        made, under  regulations prescribed by the Secretary, on the basis of engineering\n                        or  architectural estimates or on the basis of cost accounting records. Unless  the\n                        taxpayer establishes otherwise by clear and convincing evidence, the  rehabilitation\n                        shall be deemed to be completed not more rapidly than  ratably over the normal rehabilitation\n                        period.",
+    "definitions": null
+  },
+  {
+    "section": "47",
+    "subsection": "(d)(3)(E)",
+    "source_subsections": [
+      "(d)(3)(E)"
+    ],
+    "rule_type": "condition",
+    "title": "Progress Expenditures For Certain Prior Periods",
+    "text": "No qualified rehabilitation expenditures shall be taken into account under this subsection for any period before the first day of the first taxable year to which an election under this subsection applies.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No qualified rehabilitation expenditures shall be taken into account under this subsection for any period before the first day of the first taxable year to which an election under this subsection applies."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 47(d)(3)(E)No Progress Expenditures For Certain Prior Periods\u2014No  qualified rehabilitation expenditures shall be taken into account under  this\n                        subsection for any period before the first day of the first taxable  year to which\n                        an election under this subsection applies.",
+    "definitions": null
+  },
+  {
+    "section": "47",
+    "subsection": "(d)(3)(F)",
+    "source_subsections": [
+      "(d)(3)(F)",
+      "(d)(3)(F)(i)",
+      "(d)(3)(F)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Progress Expenditures For Property For Year It Is Placed In Service, Etc.",
+    "text": "In the case of any building, no qualified rehabilitation expenditures shall be taken into account under this subsection for the earlier of\u2014\u2014the taxable year in which the building is placed in service, or\u2014the first taxable year for which recapture is required under section50(a)(2)with respect to such property, or for any taxable year thereafter.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any building, no qualified rehabilitation expenditures shall be taken into account under this subsection for the earlier of\u2014\u2014the taxable year in which the building is placed in service, or\u2014the first taxable year for which recapture is required under section50(a)(2)with respect to such property, or for any taxable year thereafter."
+    },
+    "cross_references": [
+      {
+        "section": "50(a)(2)",
+        "reason": "h recapture is required under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 47(d)(3)(F)No Progress Expenditures For Property For Year It Is Placed In Service, Etc.\u2014In  the case of any building, no qualified rehabilitation expenditures shall  be taken\n                        into account under this subsection for the earlier of\u2014I.R.C. \u00a7 47(d)(3)(F)(i)\u2014the  taxable year in which the building is placed in service, orI.R.C. \u00a7 47(d)(3)(F)(ii)\u2014the  first taxable year for which recapture is required under section50(a)(2)with respect to such property, or for any taxable year thereafter.",
+    "definitions": null
+  },
+  {
+    "section": "47",
+    "subsection": "(d)(4)",
+    "source_subsections": [
+      "(d)(4)"
+    ],
+    "rule_type": "definition",
+    "title": "Building",
+    "text": "For purposes of this subsection, the term \u201cself-rehabilitated building\u201d means any building if it is reasonable to believe that more than half of the qualified rehabilitation expenditures for such building will be made directly by the taxpayer.",
+    "conditions": [
+      "it is reasonable to believe that more than half of the qualified rehabilitation expenditures for such building will be made directly by the taxpayer."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "it is reasonable to believe that more than half of the qualified rehabilitation expenditures for such building will be made directly by the taxpayer."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection, the term \u201cself-rehabilitated building\u201d means any building"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 47(d)(4)Self-Rehabilitation Building\u2014For  purposes of this subsection, the term \u201cself-rehabilitated building\u201d means any\n                     building if it is reasonable to believe that more than half of the  qualified rehabilitation\n                     expenditures for such building will be made  directly by the taxpayer.",
+    "definitions": {
+      "term": "self-rehabilitated building",
+      "requirements": [
+        "any building if it is reasonable to believe that more than half of the qualified rehabilitation expenditures for such building will be made directly by the taxpayer."
+      ]
+    }
+  },
+  {
+    "section": "47",
+    "subsection": "(d)(5)",
+    "source_subsections": [
+      "(d)(5)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "This subsection shall apply to any taxpayer only if such taxpayer has made an election under this paragraph. Such an election shall apply to the taxable year for which made and all subsequent taxable years. Such an election, once made, may be revoked only with the consent of the Secretary.",
+    "conditions": [
+      "such taxpayer has made an election under this paragraph. Such an election shall apply to the taxable year for which made and all subsequent taxable years. Such an election, once made, may be revoked only with the consent of the Secretary."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such taxpayer has made an election under this paragraph. Such an election shall apply to the taxable year for which made and all subsequent taxable years. Such an election, once made, may be revoked only with the consent of the Secretary."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "This subsection shall apply to any taxpayer only"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 47(d)(5)Election\u2014This  subsection shall apply to any taxpayer only if such taxpayer has made an  election\n                     under this paragraph. Such an election shall apply to the taxable  year for which\n                     made and all subsequent taxable years. Such an election,  once made, may be revoked\n                     only with the consent of the Secretary.",
+    "definitions": null
+  }
+]

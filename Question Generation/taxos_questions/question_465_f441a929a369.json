@@ -1,0 +1,22 @@
+{
+  "id": "f441a929a369",
+  "section": "465",
+  "citation": "I.R.C. \u00a7 465(c)(7)(E)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 465(c)(7)(E) is discussed as follows: 'I.R.C. \u00a7 465(c)(7)(E)Definitions\u2014For  purposes of this paragraph\u2014I.R.C. \u00a7 465(c)(7)(E)(i)Non-Owner E...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 465(c)(7)(E)?",
+  "difficulty": 1,
+  "choices": [
+    "7.5%",
+    "0.0%",
+    "5.0%",
+    "15.0%",
+    "95.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 5.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 465(c)(7)(E)"
+  ]
+}

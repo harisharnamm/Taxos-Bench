@@ -1,0 +1,21 @@
+{
+  "id": "00e4760708d1",
+  "section": "810",
+  "citation": "I.R.C. \u00a7 810(b)(4)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 810(b)(4) is discussed as follows: 'I.R.C. \u00a7 810(b)(4)Carryback For 2008 Or 2009 LossesI.R.C. \u00a7 810(b)(4)(A)In General\u2014In the case of an...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 810(b)(4)?",
+  "difficulty": 1,
+  "choices": [
+    "40.0%",
+    "50.0%",
+    "60.0%",
+    "75.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 810(b)(4)"
+  ]
+}

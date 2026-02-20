@@ -1,0 +1,22 @@
+{
+  "id": "b79d1d189989",
+  "section": "1472",
+  "citation": "I.R.C. \u00a7 1472(a)(2)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1472(a)(2) is discussed as follows: 'I.R.C. \u00a7 1472(a)(2)\u2014the requirements of subsection(b)are not met with respect to such beneficial own...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1472(a)(2)?",
+  "difficulty": 1,
+  "choices": [
+    "70.0%",
+    "40.0%",
+    "45.0%",
+    "20.0%",
+    "30.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 30.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1472(a)(2)"
+  ]
+}

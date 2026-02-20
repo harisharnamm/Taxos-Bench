@@ -1,0 +1,21 @@
+{
+  "id": "e55d9a4e2234",
+  "section": "172",
+  "citation": "I.R.C. \u00a7 172(b)(2)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 172(b)(2) is discussed as follows: 'I.R.C. \u00a7 172(b)(2)Amount Of Carrybacks And Carryovers\u2014The  entire amount of the net operating\n      ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 172(b)(2)?",
+  "difficulty": 1,
+  "choices": [
+    "10.0%",
+    "80.0%",
+    "20.0%",
+    "30.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 20.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 172(b)(2)"
+  ]
+}

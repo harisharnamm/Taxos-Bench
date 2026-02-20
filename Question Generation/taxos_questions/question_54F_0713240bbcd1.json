@@ -1,0 +1,22 @@
+{
+  "id": "0713240bbcd1",
+  "section": "54F",
+  "citation": "I.R.C. \u00a7 54F(c)(1)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 54F(c)(1) is discussed as follows: 'I.R.C. \u00a7 54F(c)(1)\u2014$11,000,000,000 for 2009...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 54F(c)(1)?",
+  "difficulty": 1,
+  "choices": [
+    "$5,500,000,000.00",
+    "$11,000,000,000.00",
+    "$9,900,000,000.00",
+    "$22,000,000,000.00",
+    "$12,100,000,000.00"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $11,000,000,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 54F(c)(1)"
+  ]
+}

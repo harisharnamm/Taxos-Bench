@@ -1,0 +1,22 @@
+{
+  "id": "316e91112b6a",
+  "section": "71",
+  "citation": "I.R.C. \u00a7 71(f)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 71(f) is discussed as follows: 'I.R.C. \u00a7 71(f)Recomputation Where Excess Front-Loading Of Alimony Payments\u2014Editor's Note:Pub. L. 115...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 71(f)?",
+  "difficulty": 1,
+  "choices": [
+    "$7,500.00",
+    "$15,000.00",
+    "$16,500.00",
+    "$30,000.00",
+    "$13,500.00"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $15,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 71(f)"
+  ]
+}

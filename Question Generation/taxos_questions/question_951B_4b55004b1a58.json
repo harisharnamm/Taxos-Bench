@@ -1,0 +1,21 @@
+{
+  "id": "4b55004b1a58",
+  "section": "951B",
+  "citation": "I.R.C. \u00a7 951B(b)(1)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 951B(b)(1) is discussed as follows: 'I.R.C. \u00a7 951B(b)(1)\u2014section951(b)were applied by substituting \u201cmore than 50 percent\u201d for \u201c10 percent...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 951B(b)(1)?",
+  "difficulty": 1,
+  "choices": [
+    "60.0%",
+    "50.0%",
+    "40.0%",
+    "75.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 951B(b)(1)"
+  ]
+}

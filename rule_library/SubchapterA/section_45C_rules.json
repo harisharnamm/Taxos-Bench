@@ -1,0 +1,500 @@
+[
+  {
+    "section": "45C",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)"
+    ],
+    "rule_type": "computation",
+    "title": "Rule",
+    "text": "For purposes of section38, the credit determined under this section for the taxable year is an amount equal to 25 percent of the qualified clinical testing expenses for the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.25,
+        "text": "25 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of section38, the credit determined under this section for the taxable year is an amount equal to 25 percent of the qualified clinical testing expenses for the taxable year."
+    },
+    "cross_references": [
+      {
+        "section": "38",
+        "reason": "For purposes of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45C(a)General Rule\u2014For  purposes of section38, the credit determined under this section for the  taxable year is an amount equal\n                  to 25 percent of the qualified clinical  testing expenses for the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "45C",
+    "subsection": "(b)(1)(A)",
+    "source_subsections": [
+      "(b)(1)(A)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "Except as otherwise provided in this paragraph, the term \u201cqualified clinical testing expenses\u201d means the amounts which are paid or incurred by the taxpayer during the taxable year which would be described in subsection(b)of section41if such subsection were applied with the modifications set forth in subparagraph(B).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as otherwise provided in this paragraph, the term \u201cqualified clinical testing expenses\u201d means the amounts which are paid or incurred by the taxpayer during the taxable year which would be described in subsection(b)of section41if such subsection were applied with the modifications set forth in subparagraph(B)."
+      ],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "41i",
+        "reason": "described in subsection(b)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45C(b)(1)(A)In General\u2014Except  as otherwise provided in this paragraph, the term \u201cqualified clinical  testing\n                        expenses\u201d means the amounts which are paid or incurred by the  taxpayer during the\n                        taxable year which would be described in subsection(b)of section41if such subsection were applied with the modifications  set forth in subparagraph(B).",
+    "definitions": {
+      "term": "qualified clinical testing expenses",
+      "requirements": [
+        "the amounts which are paid or incurred by the taxpayer during the taxable year which would be described in subsection(b)of section41if such subsection were applied with the modifications set forth in subparagraph(B)."
+      ]
+    }
+  },
+  {
+    "section": "45C",
+    "subsection": "(b)(1)(B)",
+    "source_subsections": [
+      "(b)(1)(B)",
+      "(b)(1)(B)(i)",
+      "(b)(1)(B)(ii)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "For purposes of subparagraph(A), subsection(b)of section41shall be applied\u2014\u2014by substituting \u201cclinical testing\u201d for \u201cqualified research\u201d each place it appears in paragraphs(2)and(3)of such subsection, and\u2014by substituting \u201c100 percent\u201d for \u201c65 percent\u201d in paragraph(3)(A)of such subsection.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 1.0,
+        "text": "100 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.65,
+        "text": "65 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph(A), subsection(b)of section41shall be applied\u2014\u2014by substituting \u201cclinical testing\u201d for \u201cqualified research\u201d each place it appears in paragraphs(2)and(3)of such subsection, and\u2014by substituting \u201c100 percent\u201d for \u201c65 percent\u201d in paragraph(3)(A)of such subsection."
+    },
+    "cross_references": [
+      {
+        "section": "41s",
+        "reason": "paragraph(A), subsection(b)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45C(b)(1)(B)Modifications\u2014For  purposes of subparagraph(A), subsection(b)of section41shall be  applied\u2014I.R.C. \u00a7 45C(b)(1)(B)(i)\u2014by  substituting \u201cclinical testing\u201d\n                           for \u201cqualified research\u201d each place it  appears in paragraphs(2)and(3)of such subsection, andI.R.C. \u00a7 45C(b)(1)(B)(ii)\u2014by  substituting \u201c100 percent\u201d\n                           for \u201c65 percent\u201d in paragraph(3)(A)of such  subsection.",
+    "definitions": null
+  },
+  {
+    "section": "45C",
+    "subsection": "(b)(1)(C)",
+    "source_subsections": [
+      "(b)(1)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "For Amounts Funded By Grants, Etc.",
+    "text": "The term \u201cqualified clinical testing expenses\u201d shall not include any amount to the extent such amount is funded by any grant, contract, or otherwise by another person (or any governmental entity).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified clinical testing expenses\u201d shall not include any amount to the extent such amount is funded by any grant, contract, or otherwise by another person (or any governmental entity)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45C(b)(1)(C)Exclusion For Amounts Funded By Grants, Etc.\u2014The  term \u201cqualified clinical testing expenses\u201d\n                        shall not include any amount to  the extent such amount is funded by any grant, contract,\n                        or otherwise by  another person (or any governmental entity).",
+    "definitions": null
+  },
+  {
+    "section": "45C",
+    "subsection": "(b)(2)(A)",
+    "source_subsections": [
+      "(b)(2)(A)",
+      "(b)(2)(A)(i)",
+      "(b)(2)(A)(ii)",
+      "(b)(2)(A)(ii)(I)",
+      "(b)(2)(A)(ii)(II)",
+      "(b)(2)(A)(iii)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cclinical testing\u201d means any human clinical testing\u2014\u2014which is carried out under an exemption for a drug being tested for a rare disease or condition under section 505(i) of the Federal Food, Drug, and Cosmetic Act (or regulations issued under such section),\u2014which occurs\u2014\u2014after the date such drug is designated under section 526 of such Act, and\u2014before the date on which an application with respect to such drug is approved under section 505(b) of such Act or, if the drug is a biological product, before the date on which a license for such drug is issued under section 351 of the Public Health Service Act, and\u2014which is conducted by or on behalf of the taxpayer to whom the designation under such section526applies.",
+    "conditions": [
+      "the drug is a biological product, before the date on which a license for such drug is issued under section 351 of the Public Health Service Act, and\u2014which is conducted by or on behalf of the taxpayer to whom the designation under such section526applies."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the drug is a biological product, before the date on which a license for such drug is issued under section 351 of the Public Health Service Act, and\u2014which is conducted by or on behalf of the taxpayer to whom the designation under such section526applies."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cclinical testing\u201d means any human clinical testing\u2014\u2014which is carried out under an exemption for a drug being tested for a rare disease or condition under section 505(i) of the Federal Food, Drug, and Cosmetic Act (or regulations issued under such section),\u2014which occurs\u2014\u2014after the date such drug is designated under section 526 of such Act, and\u2014before the date on which an application with respect to such drug is approved under section 505(b) of such Act or,"
+    },
+    "cross_references": [
+      {
+        "section": "505(i)",
+        "reason": "re disease or condition under..."
+      },
+      {
+        "section": "526",
+        "reason": "such drug is designated under..."
+      },
+      {
+        "section": "505(b)",
+        "reason": "o such drug is approved under..."
+      },
+      {
+        "section": "351",
+        "reason": "for such drug is issued under..."
+      },
+      {
+        "section": "526a",
+        "reason": "om the designation under such..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45C(b)(2)(A)In General\u2014The  term \u201cclinical testing\u201d means any human clinical testing\u2014I.R.C. \u00a7 45C(b)(2)(A)(i)\u2014which  is carried out under an exemption for a drug being tested for a rare  disease\n                           or condition under section 505(i) of the Federal Food, Drug, and  Cosmetic Act (or\n                           regulations issued under such section),I.R.C. \u00a7 45C(b)(2)(A)(ii)\u2014which  occurs\u2014I.R.C. \u00a7 45C(b)(2)(A)(ii)(I)\u2014after  the date such drug is designated under section 526 of such Act, andI.R.C. \u00a7 45C(b)(2)(A)(ii)(II)\u2014before  the date on which an application with respect  to such drug is approved  under\n                              section 505(b) of such Act or, if the drug is a biological product,  before the date\n                              on which a license for such drug is issued under section  351 of the Public Health\n                              Service Act,   andI.R.C. \u00a7 45C(b)(2)(A)(iii)\u2014which  is conducted by or on behalf of the taxpayer to whom the designation under\n                           such section526applies.",
+    "definitions": {
+      "term": "clinical testing",
+      "requirements": [
+        "any human clinical testing\u2014\u2014which is carried out under an exemption for a drug being tested for a rare disease or condition under section 505(i) of the Federal Food, Drug, and Cosmetic Act (or regulations issued under such section),\u2014which occurs\u2014\u2014after the date such drug is designated under section 526 of such Act, and\u2014before the date on which an application with respect to such drug is approved under section 505(b) of such Act or, if the drug is a biological product, before the date on which a license for such drug is issued under section 351 of the Public Health Service Act, and\u2014which is conducted by or on behalf of the taxpayer to whom the designation under such section526applies."
+      ]
+    }
+  },
+  {
+    "section": "45C",
+    "subsection": "(b)(2)(B)",
+    "source_subsections": [
+      "(b)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Must Be Related To Use For Rare Disease Or Condition",
+    "text": "Human clinical testing shall be taken into account under subparagraph(A)only to the extent such testing is related to the use of a drug for the rare disease or condition for which it was designated under section 526 of the Federal Food, Drug, and Cosmetic Act.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Human clinical testing shall be taken into account under subparagraph(A)only to the extent such testing is related to the use of a drug for the rare disease or condition for which it was designated under section 526 of the Federal Food, Drug, and Cosmetic Act."
+    },
+    "cross_references": [
+      {
+        "section": "526",
+        "reason": "which it was designated under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45C(b)(2)(B)Testing Must Be Related To Use For Rare Disease Or Condition\u2014Human  clinical testing shall be taken into account under subparagraph(A)only\n                        to the extent such testing is related to the use of a drug for the rare  disease or\n                        condition for which it was designated under section 526 of the  Federal Food, Drug,\n                        and Cosmetic Act.",
+    "definitions": null
+  },
+  {
+    "section": "45C",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Except as provided in paragraph(2), any qualified clinical testing expenses for a taxable year to which an election under this section applies shall not be taken into account for purposes of determining the credit allowable under section41for such taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [
+      {
+        "applies_when": "paragraph(2)",
+        "effect": "See referenced section"
+      }
+    ],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as provided in paragraph(2), any qualified clinical testing expenses for a taxable year to which an election under this section applies shall not be taken into account for purposes of determining the credit allowable under section41for such taxable year."
+      ],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "41f",
+        "reason": "ng the credit allowable under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45C(c)(1)In General\u2014Except  as provided in paragraph(2), any qualified clinical testing expenses for  a taxable year to which an election\n                     under this section applies shall not  be taken into account for purposes of determining\n                     the credit allowable  under section41for such taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "45C",
+    "subsection": "(c)(2)",
+    "source_subsections": [
+      "(c)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Included In Determining Base Period Research Expenses",
+    "text": "Any qualified clinical testing expenses for any taxable year which are qualified research expenses (within the meaning of section41(b)) shall be taken into account in determining base period research expenses for purposes of applying section41to subsequent taxable years.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Any qualified clinical testing expenses for any taxable year which are qualified research expenses (within the meaning of section41(b)) shall be taken into account in determining base period research expenses for purposes of applying section41to subsequent taxable years."
+    },
+    "cross_references": [
+      {
+        "section": "41(b)",
+        "reason": "penses (within the meaning of..."
+      },
+      {
+        "section": "41t",
+        "reason": "nses for purposes of applying..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45C(c)(2)Expenses Included In Determining Base Period Research Expenses\u2014Any  qualified clinical testing expenses for any taxable year which are  qualified\n                     research expenses (within the meaning of section41(b))\n                     shall be  taken into account in determining base period research expenses for  purposes\n                     of applying section41to subsequent taxable years.",
+    "definitions": null
+  },
+  {
+    "section": "45C",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)",
+      "(d)(1)(A)",
+      "(d)(1)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Disease Or Condition",
+    "text": "For purposes of this section, the term \u201crare disease or condition\u201d means any disease or condition which\u2014\u2014affects less than 200,000 persons in the United States, or\u2014affects more than 200,000 persons in the United States but for which there is no reasonable expectation that the cost of developing and making available in the United States a drug for such disease or condition will be recovered from sales in the United States of such drug.Determinations under the preceding sentence with respect to any drug shall be made on the basis of the facts and circumstances as of the date such drug is designated under section526of the Federal Food, Drug, and Cosmetic Act.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u201crare disease or condition\u201d means any disease or condition which\u2014\u2014affects less than 200,000 persons in the United States, or\u2014affects more than 200,000 persons in the United States but for which there is no reasonable expectation that the cost of developing and making available in the United States a drug for such disease or condition will be recovered from sales in the United States of such drug.Determinations under the preceding sentence with respect to any drug shall be made on the basis of the facts and circumstances as of the date such drug is designated under section526of the Federal Food, Drug, and Cosmetic Act."
+    },
+    "cross_references": [
+      {
+        "section": "526o",
+        "reason": "such drug is designated under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45C(d)(1)Rare Disease Or Condition\u2014For  purposes of this section, the term \u201crare disease or condition\u201d means any  disease\n                     or condition which\u2014I.R.C. \u00a7 45C(d)(1)(A)\u2014affects  less than 200,000 persons in the United States, orI.R.C. \u00a7 45C(d)(1)(B)\u2014affects  more than 200,000 persons in the United States but for which there is no\n                        reasonable expectation that the cost of developing and making available in  the United\n                        States a drug for such disease or condition will be recovered  from sales in the United\n                        States of such drug.Determinations under the preceding\n                        sentence with respect to any drug shall be made on the basis of the facts  and circumstances\n                        as of the date such drug is designated under section526of the Federal Food, Drug, and Cosmetic Act.",
+    "definitions": {
+      "term": "rare disease or condition",
+      "requirements": [
+        "any disease or condition which\u2014\u2014affects less than 200,000 persons in the United States, or\u2014affects more than 200,000 persons in the United States but for which there is no reasonable expectation that the cost of developing and making available in the United States a drug for such disease or condition will be recovered from sales in the United States of such drug.Determinations under the preceding sentence with respect to any drug shall be made on the basis of the facts and circumstances as of the date such drug is designated under section526of the Federal Food, Drug, and Cosmetic Act."
+      ]
+    }
+  },
+  {
+    "section": "45C",
+    "subsection": "(d)(2)",
+    "source_subsections": [
+      "(d)(2)",
+      "(d)(2)(A)",
+      "(d)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Limitations On Foreign Testing",
+    "text": "No credit shall be allowed under this section with respect to any clinical testing conducted outside the United States unless\u2014\u2014such testing is conducted outside the United States because there is an insufficient testing population in the United States, and\u2014such testing is conducted by a United States person or by any other person who is not related to the taxpayer to whom the designation under section526of the Federal Food, Drug, and Cosmetic Act applies.",
+    "conditions": [
+      "\u2014\u2014such testing is conducted outside the United States because there is an insufficient testing population in the United States, and\u2014such testing is conducted by a United States person or by any other person who is not related to the taxpayer to whom the designation under section526of the Federal Food, Drug, and Cosmetic Act applies."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "\u2014\u2014such testing is conducted outside the United States because there is an insufficient testing population in the United States, and\u2014such testing is conducted by a United States person or by any other person who is not related to the taxpayer to whom the designation under section526of the Federal Food, Drug, and Cosmetic Act applies."
+      ],
+      "except": [],
+      "result": "No credit shall be allowed under this section with respect to any clinical testing conducted outside the United States"
+    },
+    "cross_references": [
+      {
+        "section": "526o",
+        "reason": "to whom the designation under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45C(d)(2)Special Limitations On Foreign Testing\u2014No  credit shall be allowed under this section with respect to any clinical  testing\n                     conducted outside the United States unless\u2014I.R.C. \u00a7 45C(d)(2)(A)\u2014such  testing is conducted outside the United States because there is an  insufficient\n                        testing population in the United States, andI.R.C. \u00a7 45C(d)(2)(B)\u2014such  testing is conducted by a United States person or by any other person who  is\n                        not related to the taxpayer to whom the designation under section526of the Federal Food, Drug, and Cosmetic Act applies.",
+    "definitions": null
+  },
+  {
+    "section": "45C",
+    "subsection": "(d)(3)",
+    "source_subsections": [
+      "(d)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Rules Made Applicable",
+    "text": "Rules similar to the rules of paragraphs(1)and(2)of section41(f)shall apply for purposes of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules of paragraphs(1)and(2)of section41(f)shall apply for purposes of this section."
+    },
+    "cross_references": [
+      {
+        "section": "41(f)",
+        "reason": "ules of paragraphs(1)and(2)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45C(d)(3)Certain Rules Made Applicable\u2014Rules  similar to the rules of paragraphs(1)and(2)of section41(f)shall  apply for purposes of this section.",
+    "definitions": null
+  },
+  {
+    "section": "45C",
+    "subsection": "(d)(4)",
+    "source_subsections": [
+      "(d)(4)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "This section shall apply to any taxpayer for any taxable year only if such taxpayer elects (at such time and in such manner as the Secretary may by regulations prescribe) to have this section apply for such taxable year.",
+    "conditions": [
+      "such taxpayer elects (at such time and in such manner as the Secretary may by regulations prescribe) to have this section apply for such taxable year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such taxpayer elects (at such time and in such manner as the Secretary may by regulations prescribe) to have this section apply for such taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "This section shall apply to any taxpayer for any taxable year only"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45C(d)(4)Election\u2014This  section shall apply to any taxpayer for any taxable year only if such  taxpayer\n                     elects (at such time and in such manner as the Secretary may by  regulations prescribe)\n                     to have this section apply for such taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "45C",
+    "subsection": "(e)",
+    "source_subsections": [
+      "(e)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "[Repealed byPub. L. 105-34, sec. 604(a), effective for amounts paid or incurred after May 31, 1997.]",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "[Repealed byPub. L. 105-34, sec. 604(a), effective for amounts paid or incurred after May 31, 1997.]"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45C(e)\u2014[Repealed byPub. L. 105-34, sec. 604(a), effective for amounts paid or  incurred after May 31, 1997.]",
+    "definitions": null
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "id": "a743a228f616",
+  "section": "430",
+  "citation": "I.R.C. \u00a7 430(i)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 430(i) is discussed as follows: 'I.R.C. \u00a7 430(i)Special Rules For At-Risk PlansI.R.C. \u00a7 430(i)(1)Funding Target For Plans In At-Risk ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 430(i)?",
+  "difficulty": 1,
+  "choices": [
+    "20.0%",
+    "120.0%",
+    "80.0%",
+    "90.0%",
+    "70.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 80.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 430(i)"
+  ]
+}

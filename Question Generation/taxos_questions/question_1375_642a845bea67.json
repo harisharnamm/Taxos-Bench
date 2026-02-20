@@ -1,0 +1,22 @@
+{
+  "id": "642a845bea67",
+  "section": "1375",
+  "citation": "I.R.C. \u00a7 1375(b)(1)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1375(b)(1) is discussed as follows: 'I.R.C. \u00a7 1375(b)(1)Excess Net Passive IncomeI.R.C. \u00a7 1375(b)(1)(A)In General\u2014Except  as provided in ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1375(b)(1)?",
+  "difficulty": 1,
+  "choices": [
+    "35.0%",
+    "15.0%",
+    "25.0%",
+    "37.5%",
+    "75.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 25.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1375(b)(1)"
+  ]
+}

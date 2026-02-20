@@ -1,0 +1,22 @@
+{
+  "id": "a1924800f9f5",
+  "section": "1401",
+  "citation": "I.R.C. \u00a7 1401(b)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 1401(b) is discussed as follows: 'I.R.C. \u00a7 1401(b)Hospital InsuranceI.R.C. \u00a7 1401(b)(1)In General\u2014In  addition to the tax imposed by t...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 1401(b)?",
+  "difficulty": 1,
+  "choices": [
+    "$250,000.00",
+    "$125,000.00",
+    "$275,000.00",
+    "$500,000.00",
+    "$225,000.00"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies $250,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1401(b)"
+  ]
+}

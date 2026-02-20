@@ -1,0 +1,22 @@
+{
+  "id": "717a4295eb90",
+  "section": "402A",
+  "citation": "I.R.C. \u00a7 402A(e)(3)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 402A(e)(3) is discussed as follows: 'I.R.C. \u00a7 402A(e)(3)Contribution Limitation\u2014I.R.C. \u00a7 402A(e)(3)(A)In General\u2014Subject to subparagraph ...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 402A(e)(3)?",
+  "difficulty": 1,
+  "choices": [
+    "$90.00",
+    "$200.00",
+    "$50.00",
+    "$110.00",
+    "$100.00"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies $100.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 402A(e)(3)"
+  ]
+}

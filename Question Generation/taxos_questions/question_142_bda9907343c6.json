@@ -1,0 +1,22 @@
+{
+  "id": "bda9907343c6",
+  "section": "142",
+  "citation": "I.R.C. \u00a7 142(k)(5)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 142(k)(5) is discussed as follows: 'I.R.C. \u00a7 142(k)(5)Annual Aggregate Face Amount Of Tax-Exempt FinancingI.R.C. \u00a7 142(k)(5)(A)In Genera...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 142(k)(5)?",
+  "difficulty": 1,
+  "choices": [
+    "$10.00",
+    "$9.00",
+    "$5.00",
+    "$11.00",
+    "$20.00"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies $10.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 142(k)(5)"
+  ]
+}

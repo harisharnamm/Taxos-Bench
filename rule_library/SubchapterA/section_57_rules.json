@@ -1,0 +1,804 @@
+[
+  {
+    "section": "57",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "With respect to each property (as defined in section614), the excess of the deduction for depletion allowable under section611for the taxable year over the adjusted basis of the property at the end of the taxable year (determined without regard to the depletion deduction for the taxable year). This paragraph shall not apply to any deduction for depletion computed in accordance with section613A(c).",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "subtraction",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "With respect to each property (as defined in section614), the excess of the deduction for depletion allowable under section611for the taxable year over the adjusted basis of the property at the end of the taxable year (determined without regard to the depletion deduction for the taxable year). This paragraph shall not apply to any deduction for depletion computed in accordance with section613A(c)."
+    },
+    "cross_references": [
+      {
+        "section": "614",
+        "reason": "each property (as defined in..."
+      },
+      {
+        "section": "611f",
+        "reason": "for depletion allowable under..."
+      },
+      {
+        "section": "613A(c)",
+        "reason": "n computed in accordance with..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 57(a)(1)Depletion\u2014With respect to each property (as defined in section614), the excess of the deduction for depletion allowable under section611for the taxable year over the adjusted basis of the property at the end of the taxable\n                     year (determined without regard to the depletion deduction for the taxable year).\n                     This paragraph shall not apply to any deduction for depletion computed in accordance\n                     with section613A(c).",
+    "definitions": null
+  },
+  {
+    "section": "57",
+    "subsection": "(a)(2)(A)",
+    "source_subsections": [
+      "(a)(2)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "With respect to all oil, gas, and geothermal properties of the taxpayer, the amount (if any) by which the amount of the excess intangible drilling costs arising in the taxable year is greater than 65 percent of the net income of the taxpayer from oil, gas, and geothermal properties for the taxable year.",
+    "conditions": [
+      "any) by which the amount of the excess intangible drilling costs arising in the taxable year is greater than 65 percent of the net income of the taxpayer from oil, gas, and geothermal properties for the taxable year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.65,
+        "text": "65 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any) by which the amount of the excess intangible drilling costs arising in the taxable year is greater than 65 percent of the net income of the taxpayer from oil, gas, and geothermal properties for the taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "With respect to all oil, gas, and geothermal properties of the taxpayer, the amount ("
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 57(a)(2)(A)In General\u2014With respect to all oil, gas, and geothermal properties of the taxpayer, the amount\n                        (if any) by which the amount of the excess intangible drilling costs arising in the\n                        taxable year is greater than 65 percent of the net income of the taxpayer from oil,\n                        gas, and geothermal properties for the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "57",
+    "subsection": "(a)(2)(B)",
+    "source_subsections": [
+      "(a)(2)(B)",
+      "(a)(2)(B)(i)",
+      "(a)(2)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Intangible Drilling Costs",
+    "text": "For purposes of subparagraph(A), the amount of the excess intangible drilling costs arising in the taxable year is the excess of\u2014\u2014the intangible drilling and development costs paid or incurred in connection with oil, gas, and geothermal wells (other than costs incurred in drilling a nonproductive well) allowable under section263(c)or291(b)for the taxable year, over\u2014the amount which would have been allowable for the taxable year if such costs had been capitalized and straight line recovery of intangibles (as defined in subsection(b)) had been used with respect to such costs.",
+    "conditions": [
+      "such costs had been capitalized and straight line recovery of intangibles (as defined in subsection(b)) had been used with respect to such costs."
+    ],
+    "computations": [
+      {
+        "operation": "subtraction",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such costs had been capitalized and straight line recovery of intangibles (as defined in subsection(b)) had been used with respect to such costs."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph(A), the amount of the excess intangible drilling costs arising in the taxable year is the excess of\u2014\u2014the intangible drilling and development costs paid or incurred in connection with oil, gas, and geothermal wells (other than costs incurred in drilling a nonproductive well) allowable under section263(c)or291(b)for the taxable year, over\u2014the amount which would have been allowable for the taxable year"
+    },
+    "cross_references": [
+      {
+        "section": "263(c)",
+        "reason": "ductive well) allowable under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 57(a)(2)(B)Excess Intangible Drilling Costs\u2014For purposes of subparagraph(A), the amount of the excess intangible drilling costs arising in the taxable year is\n                        the excess of\u2014I.R.C. \u00a7 57(a)(2)(B)(i)\u2014the intangible drilling and development costs paid or incurred in connection with\n                           oil, gas, and geothermal wells (other than costs incurred in drilling a nonproductive\n                           well) allowable under section263(c)or291(b)for the taxable year, overI.R.C. \u00a7 57(a)(2)(B)(ii)\u2014the amount which would have been allowable for the taxable year if such costs had\n                           been capitalized and straight line recovery of intangibles (as defined in subsection(b)) had been used with respect to such costs.",
+    "definitions": null
+  },
+  {
+    "section": "57",
+    "subsection": "(a)(2)(C)",
+    "source_subsections": [
+      "(a)(2)(C)",
+      "(a)(2)(C)(i)",
+      "(a)(2)(C)(ii)"
+    ],
+    "rule_type": "computation",
+    "title": "Income From Oil, Gas, And Geothermal Properties",
+    "text": "For purposes of subparagraph(A), the amount of the net income of the taxpayer from oil, gas, and geothermal properties for the taxable year is the excess of\u2014\u2014the aggregate amount of gross income (within the meaning of section613(a)) from all oil, gas, and geothermal properties of the taxpayer received or accrued by the taxpayer during the taxable year, over\u2014the amount of any deductions allocable to such properties reduced by the excess described in subparagraph(B)for such taxable year.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "subtraction",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph(A), the amount of the net income of the taxpayer from oil, gas, and geothermal properties for the taxable year is the excess of\u2014\u2014the aggregate amount of gross income (within the meaning of section613(a)) from all oil, gas, and geothermal properties of the taxpayer received or accrued by the taxpayer during the taxable year, over\u2014the amount of any deductions allocable to such properties reduced by the excess described in subparagraph(B)for such taxable year."
+    },
+    "cross_references": [
+      {
+        "section": "613(a)",
+        "reason": "income (within the meaning of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 57(a)(2)(C)Net Income From Oil, Gas, And Geothermal Properties\u2014For purposes of subparagraph(A), the amount of the net income of the taxpayer from oil, gas, and geothermal properties\n                        for the taxable year is the excess of\u2014I.R.C. \u00a7 57(a)(2)(C)(i)\u2014the aggregate amount of gross income (within the meaning of section613(a)) from all oil, gas, and geothermal properties of the taxpayer received or accrued\n                           by the taxpayer during the taxable year, overI.R.C. \u00a7 57(a)(2)(C)(ii)\u2014the amount of any deductions allocable to such properties reduced by the excess described\n                           in subparagraph(B)for such taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "57",
+    "subsection": "(a)(2)(D)",
+    "source_subsections": [
+      "(a)(2)(D)",
+      "(a)(2)(D)(i)",
+      "(a)(2)(D)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "This paragraph shall be applied separately with respect to\u2014\u2014all oil and gas properties which are not described in clause(ii), and\u2014all properties which are geothermal deposits (as defined in section613(e)(2)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "This paragraph shall be applied separately with respect to\u2014\u2014all oil and gas properties which are not described in clause(ii), and\u2014all properties which are geothermal deposits (as defined in section613(e)(2))."
+    },
+    "cross_references": [
+      {
+        "section": "613(e)(2)",
+        "reason": "ermal deposits (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 57(a)(2)(D)Paragraph Applied Separately With Respect To Geothermal Properties And Oil And Gas\n                        Properties\u2014This paragraph shall be applied separately with respect to\u2014I.R.C. \u00a7 57(a)(2)(D)(i)\u2014all oil and gas properties which are not described in clause(ii), andI.R.C. \u00a7 57(a)(2)(D)(ii)\u2014all properties which are geothermal deposits (as defined in section613(e)(2)).",
+    "definitions": null
+  },
+  {
+    "section": "57",
+    "subsection": "(a)(2)(E)(i)",
+    "source_subsections": [
+      "(a)(2)(E)(i)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "This paragraph shall not apply to any taxpayer which is not an integrated oil company (as defined in section291(b)(4)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "This paragraph shall not apply to any taxpayer which is not an integrated oil company (as defined in section291(b)(4))."
+    },
+    "cross_references": [
+      {
+        "section": "291(b)(4)",
+        "reason": "ed oil company (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 57(a)(2)(E)(i)In General\u2014This paragraph shall not apply to any taxpayer which is not an integrated oil company\n                           (as defined in section291(b)(4)).",
+    "definitions": null
+  },
+  {
+    "section": "57",
+    "subsection": "(a)(2)(E)(ii)",
+    "source_subsections": [
+      "(a)(2)(E)(ii)"
+    ],
+    "rule_type": "limitation",
+    "title": "On Benefit",
+    "text": "The reduction in alternative minimum taxable income by reason of clause(i)for any taxable year shall not exceed 40 percent of the alternative minimum taxable income for such year determined without regard to clause(i)and the alternative tax net operating loss deduction under section56(a)(4).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.4,
+        "text": "40 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The reduction in alternative minimum taxable income by reason of clause(i)for any taxable year shall not exceed 40 percent of the alternative minimum taxable income for such year determined without regard to clause(i)and the alternative tax net operating loss deduction under section56(a)(4)."
+    },
+    "cross_references": [
+      {
+        "section": "56(a)(4)",
+        "reason": "perating loss deduction under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 57(a)(2)(E)(ii)Limitation On Benefit\u2014The reduction in alternative minimum taxable income by reason of clause(i)for any taxable year shall not exceed 40 percent of the alternative minimum taxable\n                           income for such year determined without regard to clause(i)and the alternative tax net operating loss deduction under section56(a)(4).",
+    "definitions": null
+  },
+  {
+    "section": "57",
+    "subsection": "(a)(3)",
+    "source_subsections": [
+      "(a)(3)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "[Repealed.Pub. L. 100-647, title I, 1007(b)(14)(B), Nov. 10, 1988, 102 Stat. 3430]",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "[Repealed.Pub. L. 100-647, title I, 1007(b)(14)(B), Nov. 10, 1988, 102 Stat. 3430]"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 57(a)(3)\u2014[Repealed.Pub. L. 100-647, title I, 1007(b)(14)(B), Nov. 10, 1988, 102 Stat. 3430]",
+    "definitions": null
+  },
+  {
+    "section": "57",
+    "subsection": "(a)(4)",
+    "source_subsections": [
+      "(a)(4)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "[Stricken.Pub. L. 104-188, title I, 1616, Aug. 20, 1996, 110 Stat. 1755.]",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "[Stricken.Pub. L. 104-188, title I, 1616, Aug. 20, 1996, 110 Stat. 1755.]"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 57(a)(4)\u2014[Stricken.Pub. L. 104-188, title I, 1616, Aug. 20, 1996, 110 Stat. 1755.]",
+    "definitions": null
+  },
+  {
+    "section": "57",
+    "subsection": "(a)(5)(A)",
+    "source_subsections": [
+      "(a)(5)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Interest on specified private activity bonds reduced by any deduction (not allowable in computing the regular tax) which would have been allowable if such interest were includible in gross income.",
+    "conditions": [
+      "such interest were includible in gross income."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such interest were includible in gross income."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Interest on specified private activity bonds reduced by any deduction (not allowable in computing the regular tax) which would have been allowable"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 57(a)(5)(A)In General\u2014Interest on specified private activity bonds reduced by any deduction (not allowable\n                        in computing the regular tax) which would have been allowable if such interest were\n                        includible in gross income.",
+    "definitions": null
+  },
+  {
+    "section": "57",
+    "subsection": "(a)(5)(B)",
+    "source_subsections": [
+      "(a)(5)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Of Exempt",
+    "text": "Interest Dividends\u2014Under regulations prescribed by the Secretary, any exempt-interest dividend (as defined in section852(b)(5)(A)) shall be treated as interest on a specified private activity bond to the extent of its proportionate share of the interest on such bonds received by the company paying such dividend.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Interest Dividends\u2014Under regulations prescribed by the Secretary, any exempt-interest dividend (as defined in section852(b)(5)(A)) shall be treated as interest on a specified private activity bond to the extent of its proportionate share of the interest on such bonds received by the company paying such dividend."
+    },
+    "cross_references": [
+      {
+        "section": "852(b)(5)(A)",
+        "reason": "erest dividend (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 57(a)(5)(B)Treatment Of Exempt-Interest Dividends\u2014Under regulations prescribed by the Secretary, any exempt-interest dividend (as defined\n                        in section852(b)(5)(A)) shall be treated as interest on a specified private activity bond to the extent\n                        of its proportionate share of the interest on such bonds received by the company paying\n                        such dividend.",
+    "definitions": null
+  },
+  {
+    "section": "57",
+    "subsection": "(a)(5)(C)(i)",
+    "source_subsections": [
+      "(a)(5)(C)(i)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "For purposes of this part, the term \u201cspecified private activity bond\u201d means any private activity bond (as defined in section141) which is issued after August 7, 1986, and the interest on which is not includible in gross income under section103.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this part, the term \u201cspecified private activity bond\u201d means any private activity bond (as defined in section141) which is issued after August 7, 1986, and the interest on which is not includible in gross income under section103."
+    },
+    "cross_references": [
+      {
+        "section": "141",
+        "reason": "activity bond (as defined in..."
+      },
+      {
+        "section": "103",
+        "reason": "ludible in gross income under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 57(a)(5)(C)(i)In General\u2014For purposes of this part, the term \u201cspecified private activity bond\u201d means any private\n                           activity bond (as defined in section141) which is issued after August 7, 1986, and the interest on which is not includible\n                           in gross income under section103.",
+    "definitions": {
+      "term": "specified private activity bond",
+      "requirements": [
+        "any private activity bond (as defined in section141) which is issued after August 7, 1986, and the interest on which is not includible in gross income under section103."
+      ]
+    }
+  },
+  {
+    "section": "57",
+    "subsection": "(a)(5)(C)(ii)",
+    "source_subsections": [
+      "(a)(5)(C)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "For Qualified 501(c)(3) Bonds",
+    "text": "For purposes of clause(i), the term \u201cprivate activity bond\u201d shall not include any qualified501(c)(3)bond (as defined in section145).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of clause(i), the term \u201cprivate activity bond\u201d shall not include any qualified501(c)(3)bond (as defined in section145)."
+    },
+    "cross_references": [
+      {
+        "section": "145",
+        "reason": "d501(c)(3)bond (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 57(a)(5)(C)(ii)Exception For Qualified 501(c)(3) Bonds\u2014For purposes of clause(i), the term \u201cprivate activity bond\u201d shall not include any qualified501(c)(3)bond (as defined in section145).",
+    "definitions": null
+  },
+  {
+    "section": "57",
+    "subsection": "(a)(5)(C)(iii)",
+    "source_subsections": [
+      "(a)(5)(C)(iii)",
+      "(a)(5)(C)(iii)(I)",
+      "(a)(5)(C)(iii)(II)",
+      "(a)(5)(C)(iii)(III)"
+    ],
+    "rule_type": "definition",
+    "title": "For Certain Housing Bonds",
+    "text": "For purposes of clause(i), the term \u201cprivate activity bond\u201d shall not include any bond issued after the date of the enactment of this clause if such bond is\u2014\u2014an exempt facility bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide qualified residential rental projects (as defined in section142(d)),\u2014a qualified mortgage bond (as defined in section143(a)), or\u2014a qualified veterans' mortgage bond (as defined in section143(b)).The preceding sentence shall not apply to any refunding bond unless such preceding sentence applied to the refunded bond (or in the case of a series of refundings, the original bond).",
+    "conditions": [
+      "such bond is\u2014\u2014an exempt facility bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide qualified residential rental projects (as defined in section142(d)),\u2014a qualified mortgage bond (as defined in section143(a)), or\u2014a qualified veterans' mortgage bond (as defined in section143(b)).The preceding sentence shall not apply to any refunding bond",
+      "such preceding sentence applied to the refunded bond (or in the case of a series of refundings, the original bond)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.95,
+        "text": "95 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such bond is\u2014\u2014an exempt facility bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide qualified residential rental projects (as defined in section142(d)),\u2014a qualified mortgage bond (as defined in section143(a)), or\u2014a qualified veterans' mortgage bond (as defined in section143(b)).The preceding sentence shall not apply to any refunding bond"
+      ],
+      "and": [],
+      "or": [],
+      "unless": [
+        "such preceding sentence applied to the refunded bond (or in the case of a series of refundings, the original bond)."
+      ],
+      "except": [],
+      "result": "For purposes of clause(i), the term \u201cprivate activity bond\u201d shall not include any bond issued after the date of the enactment of this clause"
+    },
+    "cross_references": [
+      {
+        "section": "142(d)",
+        "reason": "ental projects (as defined in..."
+      },
+      {
+        "section": "143(a)",
+        "reason": "mortgage bond (as defined in..."
+      },
+      {
+        "section": "143(b)",
+        "reason": "mortgage bond (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 57(a)(5)(C)(iii)Exception For Certain Housing Bonds\u2014For purposes of clause(i), the term \u201cprivate activity bond\u201d shall not include any bond issued after the date\n                           of the enactment of this clause if such bond is\u2014I.R.C. \u00a7 57(a)(5)(C)(iii)(I)\u2014an exempt facility bond issued as part of an issue 95 percent or more of the net proceeds\n                              of which are to be used to provide qualified residential rental projects (as defined\n                              in section142(d)),I.R.C. \u00a7 57(a)(5)(C)(iii)(II)\u2014a qualified mortgage bond (as defined in section143(a)), orI.R.C. \u00a7 57(a)(5)(C)(iii)(III)\u2014a qualified veterans' mortgage bond (as defined in section143(b)).The preceding sentence shall not apply to any refunding bond unless such preceding\n                              sentence applied to the refunded bond (or in the case of a series of refundings, the\n                              original bond).",
+    "definitions": null
+  },
+  {
+    "section": "57",
+    "subsection": "(a)(5)(C)(iv)",
+    "source_subsections": [
+      "(a)(5)(C)(iv)"
+    ],
+    "rule_type": "definition",
+    "title": "For Refundings",
+    "text": "For purposes of clause(i), the term \u201cprivate activity bond\u201d shall not include any refunding bond (whether a current or advance refunding) if the refunded bond (or in the case of a series of refundings, the original bond) was issued before August 8, 1986.",
+    "conditions": [
+      "the refunded bond (or in the case of a series of refundings, the original bond) was issued before August 8, 1986."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the refunded bond (or in the case of a series of refundings, the original bond) was issued before August 8, 1986."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of clause(i), the term \u201cprivate activity bond\u201d shall not include any refunding bond (whether a current or advance refunding)"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 57(a)(5)(C)(iv)Exception For Refundings\u2014For purposes of clause(i), the term \u201cprivate activity bond\u201d shall not include any refunding bond (whether a\n                           current or advance refunding) if the refunded bond (or in the case of a series of\n                           refundings, the original bond) was issued before August 8, 1986.",
+    "definitions": null
+  },
+  {
+    "section": "57",
+    "subsection": "(a)(5)(C)(v)",
+    "source_subsections": [
+      "(a)(5)(C)(v)",
+      "(a)(5)(C)(v)(I)",
+      "(a)(5)(C)(v)(II)",
+      "(a)(5)(C)(v)(III)"
+    ],
+    "rule_type": "condition",
+    "title": "Bonds Issued Before September 1, 1986",
+    "text": "For purposes of this subparagraph, a bond issued before September 1, 1986, shall be treated as issued before August 8, 1986, unless such bond would be a private activity bond if\u2014\u2014paragraphs(1)and(2)of section141(b)were applied by substituting \u201c25 percent\u201d for \u201c10 percent\u201d each place it appears,\u2014paragraphs(3),(4), and(5)of section141(b)did not apply, and\u2014subparagraph(B)of section141(c)(1)did not apply.",
+    "conditions": [
+      "\u2014\u2014paragraphs(1)and(2)of section141(b)were applied by substituting \u201c25 percent\u201d for \u201c10 percent\u201d each place it appears,\u2014paragraphs(3),(4), and(5)of section141(b)did not apply, and\u2014subparagraph(B)of section141(c)(1)did not apply.",
+      "such bond would be a private activity bond"
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.25,
+        "text": "25 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.1,
+        "text": "10 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014paragraphs(1)and(2)of section141(b)were applied by substituting \u201c25 percent\u201d for \u201c10 percent\u201d each place it appears,\u2014paragraphs(3),(4), and(5)of section141(b)did not apply, and\u2014subparagraph(B)of section141(c)(1)did not apply."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [
+        "such bond would be a private activity bond"
+      ],
+      "except": [],
+      "result": "For purposes of this subparagraph, a bond issued before September 1, 1986, shall be treated as issued before August 8, 1986,"
+    },
+    "cross_references": [
+      {
+        "section": "141(b)",
+        "reason": "ond if\u2014\u2014paragraphs(1)and(2)of..."
+      },
+      {
+        "section": "141(b)",
+        "reason": ",\u2014paragraphs(3),(4), and(5)of..."
+      },
+      {
+        "section": "141(c)(1)",
+        "reason": "apply, and\u2014subparagraph(B)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 57(a)(5)(C)(v)Certain Bonds Issued Before September 1, 1986\u2014For purposes of this subparagraph, a bond issued before September 1, 1986, shall be\n                           treated as issued before August 8, 1986, unless such bond would be a private activity\n                           bond if\u2014I.R.C. \u00a7 57(a)(5)(C)(v)(I)\u2014paragraphs(1)and(2)of section141(b)were applied by substituting \u201c25 percent\u201d for \u201c10 percent\u201d each place it appears,I.R.C. \u00a7 57(a)(5)(C)(v)(II)\u2014paragraphs(3),(4), and(5)of section141(b)did not apply, andI.R.C. \u00a7 57(a)(5)(C)(v)(III)\u2014subparagraph(B)of section141(c)(1)did not apply.",
+    "definitions": null
+  },
+  {
+    "section": "57",
+    "subsection": "(a)(5)(C)(vi)",
+    "source_subsections": [
+      "(a)(5)(C)(vi)",
+      "(a)(5)(C)(vi)(I)",
+      "(a)(5)(C)(vi)(II)",
+      "(a)(5)(C)(vi)(III)"
+    ],
+    "rule_type": "definition",
+    "title": "For Bonds Issued In 2009 And 2010I.R.C. \u00a7 57(a)(5)(C)(vi)(I)In General",
+    "text": "For purposes of clause(i), the term \u201cprivate activity bond\u201d shall not include any bond issued after December 31, 2008, and before January 1, 2011. Of Refunding Bonds\u2014For purposes of subclause(I), a refunding bond (whether a current or advance refunding) shall be treated as issued on the date of the issuance of the refunded bond (or in the case of a series of refundings, the original bond). For Certain Refunding Bonds\u2014Subclause(II)shall not apply to any refunding bond which is issued to refund any bond which was issued after December 31, 2003, and before January 1, 2009.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of clause(i), the term \u201cprivate activity bond\u201d shall not include any bond issued after December 31, 2008, and before January 1, 2011. Of Refunding Bonds\u2014For purposes of subclause(I), a refunding bond (whether a current or advance refunding) shall be treated as issued on the date of the issuance of the refunded bond (or in the case of a series of refundings, the original bond). For Certain Refunding Bonds\u2014Subclause(II)shall not apply to any refunding bond which is issued to refund any bond which was issued after December 31, 2003, and before January 1, 2009."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 57(a)(5)(C)(vi)Exception For Bonds Issued In 2009 And 2010I.R.C. \u00a7 57(a)(5)(C)(vi)(I)In General\u2014For purposes of clause(i), the term \u201cprivate activity bond\u201d shall not include any bond issued after December\n                              31, 2008, and before January 1, 2011.I.R.C. \u00a7 57(a)(5)(C)(vi)(II)Treatment Of Refunding Bonds\u2014For purposes of subclause(I), a refunding bond (whether a current or advance refunding) shall be treated as issued\n                              on the date of the issuance of the refunded bond (or in the case of a series of refundings,\n                              the original bond).I.R.C. \u00a7 57(a)(5)(C)(vi)(III)Exception For Certain Refunding Bonds\u2014Subclause(II)shall not apply to any refunding bond which is issued to refund any bond which was\n                              issued after December 31, 2003, and before January 1, 2009.",
+    "definitions": null
+  },
+  {
+    "section": "57",
+    "subsection": "(a)(6)",
+    "source_subsections": [
+      "(a)(6)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The amounts which would be treated as items of tax preference with respect to the taxpayer under paragraphs(2),(3),(4), and(12)of this subsection (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986). The preceding sentence shall not apply to any property to which section56(a)(1)or(5)applies.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amounts which would be treated as items of tax preference with respect to the taxpayer under paragraphs(2),(3),(4), and(12)of this subsection (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986). The preceding sentence shall not apply to any property to which section56(a)(1)or(5)applies."
+    },
+    "cross_references": [
+      {
+        "section": "56(a)(1)",
+        "reason": "pply to any property to which..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 57(a)(6)Accelerated Depreciation Or Amortization On Certain Property Placed In Service Before\n                     January 1, 1987\u2014The amounts which would be treated as items of tax preference with respect to the\n                     taxpayer under paragraphs(2),(3),(4), and(12)of this subsection (as in effect on the day before the date of the enactment of the\n                     Tax Reform Act of 1986). The preceding sentence shall not apply to any property to\n                     which section56(a)(1)or(5)applies.",
+    "definitions": null
+  },
+  {
+    "section": "57",
+    "subsection": "(a)(7)",
+    "source_subsections": [
+      "(a)(7)"
+    ],
+    "rule_type": "computation",
+    "title": "For Gains On Sale Of Certain Small Business Stock",
+    "text": "In the case of stock acquired on or before the date of the enactment of the Creating Small Business Jobs Act of 2010, an amount equal to 7 percent of the amount excluded from gross income for the taxable year under section1202.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.07,
+        "text": "7 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of stock acquired on or before the date of the enactment of the Creating Small Business Jobs Act of 2010, an amount equal to 7 percent of the amount excluded from gross income for the taxable year under section1202."
+    },
+    "cross_references": [
+      {
+        "section": "1202",
+        "reason": "me for the taxable year under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 57(a)(7)Exclusion For Gains On Sale Of Certain Small Business Stock\u2014In the case of stock acquired on or before the date of the enactment of the Creating\n                     Small Business Jobs Act of 2010, an amount equal to 7 percent of the amount excluded\n                     from gross income for the taxable year under section1202.",
+    "definitions": null
+  },
+  {
+    "section": "57",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cstraight line recovery of intangibles\u201d, when used with respect to intangible drilling and development costs for any well, means (except in the case of an election under paragraph(2)) ratable amortization of such costs over the 120-month period beginning with the month in which production from such well begins.",
+    "conditions": [
+      "used with respect to intangible drilling and development costs for any well, means ("
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "used with respect to intangible drilling and development costs for any well, means ("
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "in the case of an election under paragraph(2)) ratable amortization of such costs over the 120-month period beginning with the month in which production from such well begins."
+      ],
+      "result": "The term \u201cstraight line recovery of intangibles\u201d,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 57(b)(1)In General\u2014The  term \u201cstraight line recovery of intangibles\u201d, when used with respect to  intangible\n                     drilling and development costs for any well, means (except in  the case of an election\n                     under paragraph(2)) ratable amortization of such  costs over the 120-month period beginning with the\n                     month in which  production from such well begins.",
+    "definitions": null
+  },
+  {
+    "section": "57",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "If the taxpayer elects with respect to the intangible drilling and development costs for any well, the term \u201cstraight line recovery of intangibles\u201d means any method which would be permitted for purposes of determining cost depletion with respect to such well and which is selected by the taxpayer for purposes of subsection(a)(2).",
+    "conditions": [
+      "the taxpayer elects with respect to the intangible drilling and development costs for any well, the term \u201cstraight line recovery of intangibles\u201d means any method which would be permitted for purposes of determining cost depletion with respect to such well and which is selected by the taxpayer for purposes of subsection(a)(2)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the taxpayer elects with respect to the intangible drilling and development costs for any well, the term \u201cstraight line recovery of intangibles\u201d means any method which would be permitted for purposes of determining cost depletion with respect to such well and which is selected by the taxpayer for purposes of subsection(a)(2)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 57(b)(2)Election\u2014If  the taxpayer elects with respect to the intangible drilling and  development costs\n                     for any well, the term \u201cstraight line recovery of  intangibles\u201d means any method which\n                     would be permitted for purposes of  determining cost depletion with respect to such\n                     well and which is selected  by the taxpayer for purposes of subsection(a)(2).",
+    "definitions": {
+      "term": "straight line recovery of intangibles",
+      "requirements": [
+        "any method which would be permitted for purposes of determining cost depletion with respect to such well and which is selected by the taxpayer for purposes of subsection(a)(2)."
+      ]
+    }
+  }
+]

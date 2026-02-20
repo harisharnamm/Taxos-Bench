@@ -1,0 +1,21 @@
+{
+  "id": "0c236452ba3e",
+  "section": "1239",
+  "citation": "I.R.C. \u00a7 1239(c)(1)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1239(c)(1) is discussed as follows: 'I.R.C. \u00a7 1239(c)(1)General Rule\u2014For  purposes of this section, the term \u201ccontrolled entity\u201d means, w...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1239(c)(1)?",
+  "difficulty": 1,
+  "choices": [
+    "60.0%",
+    "50.0%",
+    "75.0%",
+    "40.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1239(c)(1)"
+  ]
+}

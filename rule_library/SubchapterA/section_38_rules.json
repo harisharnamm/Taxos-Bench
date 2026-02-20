@@ -1,0 +1,995 @@
+[
+  {
+    "section": "38",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)",
+      "(a)(1)",
+      "(a)(2)",
+      "(a)(3)"
+    ],
+    "rule_type": "computation",
+    "title": "Of Credit",
+    "text": "There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of\u2014\u2014the business credit carryforwards carried to such taxable year,\u2014the amount of the current year business credit, plus\u2014the business credit carrybacks carried to such taxable year.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of\u2014\u2014the business credit carryforwards carried to such taxable year,\u2014the amount of the current year business credit, plus\u2014the business credit carrybacks carried to such taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 38(a)Allowance Of Credit\u2014There shall be allowed as a credit against the tax imposed by this chapter for the\n                  taxable year an amount equal to the sum of\u2014I.R.C. \u00a7 38(a)(1)\u2014the business credit carryforwards carried to such taxable year,I.R.C. \u00a7 38(a)(2)\u2014the amount of the current year business credit, plusI.R.C. \u00a7 38(a)(3)\u2014the business credit carrybacks carried to such taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "38",
+    "subsection": "(b)",
+    "source_subsections": [
+      "(b)",
+      "(b)(1)",
+      "(b)(10)",
+      "(b)(11)",
+      "(b)(12)",
+      "(b)(13)",
+      "(b)(14)",
+      "(b)(15)",
+      "(b)(16)",
+      "(b)(17)",
+      "(b)(18)",
+      "(b)(19)",
+      "(b)(2)",
+      "(b)(20)",
+      "(b)(21)",
+      "(b)(22)",
+      "(b)(23)",
+      "(b)(24)",
+      "(b)(25)",
+      "(b)(26)",
+      "(b)(27)",
+      "(b)(28)",
+      "(b)(29)",
+      "(b)(3)",
+      "(b)(30)",
+      "(b)(31)",
+      "(b)(32)",
+      "(b)(33)",
+      "(b)(34)",
+      "(b)(35)",
+      "(b)(36)",
+      "(b)(37)",
+      "(b)(38)",
+      "(b)(39)",
+      "(b)(4)",
+      "(b)(40)",
+      "(b)(41)",
+      "(b)(5)",
+      "(b)(6)",
+      "(b)(7)",
+      "(b)(8)",
+      "(b)(9)"
+    ],
+    "rule_type": "definition",
+    "title": "Year Business Credit",
+    "text": "For purposes of this subpart, the amount of the current year business credit is the sum of the following credits determined for the taxable year:\u2014the investment credit determined under section46,\u2014the work opportunity credit determined under section51(a),\u2014the alcohol fuels credit determined under section40(a),\u2014the research credit determined under section41(a),\u2014the low-income housing credit determined under section42(a),\u2014the enhanced oil recovery credit under section43(a),\u2014in the case of an eligible small business (as defined in section44(b)), the disabled access credit determined under section44(a),\u2014the renewable electricity production credit under section45(a),\u2014the empowerment zone employment credit determined under section1396(a),\u2014the Indian employment credit as determined under section45A(a),\u2014the employer social security credit determined under section45B(a),\u2014the orphan drug credit determined under section45C(a),\u2014the new markets tax credit determined under section45D(a),\u2014in the case of an eligible employer (as defined in section45E(c)), the small employer pension plan startup cost credit determined under section45E(a),\u2014the employer-provided child care credit determined under section45F(a),\u2014the railroad track maintenance credit determined under section45G(a),\u2014the biodiesel fuels credit determined under section40A(a),\u2014the low sulfur diesel fuel production credit determined under section45H(a),\u2014the marginal oil and gas well production credit determined under section45I(a),\u2014the distilled spirits credit determined under section5011(a),\u2014the advanced nuclear power facility production credit determined under section45J(a),\u2014the nonconventional source production credit determined under section45K(a),\u2014the new energy efficient home credit determined under section45L(a),\u2014the portion of the alternative motor vehicle credit to which section30B(g)(1)applies,\u2014the portion of the alternative fuel vehicle refueling property credit to which section30C(d)(1)applies,\u2014the mine rescue team training credit determined under section45N(a),\u2014in the case of an eligible agricultural business (as defined in section45O(e)), the agricultural chemicals security credit determined under section45O(a),\u2014the differential wage payment credit determined under section45P(a),\u2014the carbon dioxide sequestration credit determined under section45Q(a),\u2014the portion of the new clean vehicle credit to which section30D(c)(1)applies,\u2014the small employer health insurance credit determined under section45R,\u2014in the case of an eligible employer (as defined in section45S(c)), the paid family and medical leave credit determined under section45S(a),\u2014in the case of an eligible employer (as defined in section45T(c)), the retirement auto-enrollment credit determined under section45T(a)\u2014the zero-emission nuclear power production credit determined under section 45U(a),\u2014the sustainable aviation fuel credit determined under section40B,\u2014the clean hydrogen production credit determined under section45V(a),\u2014the qualified commercial clean vehicle credit determined under section45W,\u2014the advanced manufacturing production credit determined under section45X(a),\u2014the clean electricity production credit determined under section45Y(a),\u2014the clean fuel production credit determined under section45Z(a), plus\u2014in the case of an eligible small employer (as defined in section45AA(c)), the military spouse retirement plan eligibility credit determined under section45AA(a).",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subpart, the amount of the current year business credit is the sum of the following credits determined for the taxable year:\u2014the investment credit determined under section46,\u2014the work opportunity credit determined under section51(a),\u2014the alcohol fuels credit determined under section40(a),\u2014the research credit determined under section41(a),\u2014the low-income housing credit determined under section42(a),\u2014the enhanced oil recovery credit under section43(a),\u2014in the case of an eligible small business (as defined in section44(b)), the disabled access credit determined under section44(a),\u2014the renewable electricity production credit under section45(a),\u2014the empowerment zone employment credit determined under section1396(a),\u2014the Indian employment credit as determined under section45A(a),\u2014the employer social security credit determined under section45B(a),\u2014the orphan drug credit determined under section45C(a),\u2014the new markets tax credit determined under section45D(a),\u2014in the case of an eligible employer (as defined in section45E(c)), the small employer pension plan startup cost credit determined under section45E(a),\u2014the employer-provided child care credit determined under section45F(a),\u2014the railroad track maintenance credit determined under section45G(a),\u2014the biodiesel fuels credit determined under section40A(a),\u2014the low sulfur diesel fuel production credit determined under section45H(a),\u2014the marginal oil and gas well production credit determined under section45I(a),\u2014the distilled spirits credit determined under section5011(a),\u2014the advanced nuclear power facility production credit determined under section45J(a),\u2014the nonconventional source production credit determined under section45K(a),\u2014the new energy efficient home credit determined under section45L(a),\u2014the portion of the alternative motor vehicle credit to which section30B(g)(1)applies,\u2014the portion of the alternative fuel vehicle refueling property credit to which section30C(d)(1)applies,\u2014the mine rescue team training credit determined under section45N(a),\u2014in the case of an eligible agricultural business (as defined in section45O(e)), the agricultural chemicals security credit determined under section45O(a),\u2014the differential wage payment credit determined under section45P(a),\u2014the carbon dioxide sequestration credit determined under section45Q(a),\u2014the portion of the new clean vehicle credit to which section30D(c)(1)applies,\u2014the small employer health insurance credit determined under section45R,\u2014in the case of an eligible employer (as defined in section45S(c)), the paid family and medical leave credit determined under section45S(a),\u2014in the case of an eligible employer (as defined in section45T(c)), the retirement auto-enrollment credit determined under section45T(a)\u2014the zero-emission nuclear power production credit determined under section 45U(a),\u2014the sustainable aviation fuel credit determined under section40B,\u2014the clean hydrogen production credit determined under section45V(a),\u2014the qualified commercial clean vehicle credit determined under section45W,\u2014the advanced manufacturing production credit determined under section45X(a),\u2014the clean electricity production credit determined under section45Y(a),\u2014the clean fuel production credit determined under section45Z(a), plus\u2014in the case of an eligible small employer (as defined in section45AA(c)), the military spouse retirement plan eligibility credit determined under section45AA(a)."
+    },
+    "cross_references": [
+      {
+        "section": "46",
+        "reason": "tment credit determined under..."
+      },
+      {
+        "section": "51(a)",
+        "reason": "unity credit determined under..."
+      },
+      {
+        "section": "40(a)",
+        "reason": "fuels credit determined under..."
+      },
+      {
+        "section": "41(a)",
+        "reason": "earch credit determined under..."
+      },
+      {
+        "section": "42(a)",
+        "reason": "using credit determined under..."
+      },
+      {
+        "section": "43(a)",
+        "reason": "ced oil recovery credit under..."
+      },
+      {
+        "section": "44(b)",
+        "reason": "small business (as defined in..."
+      },
+      {
+        "section": "44(a)",
+        "reason": "ccess credit determined under..."
+      },
+      {
+        "section": "45(a)",
+        "reason": "icity production credit under..."
+      },
+      {
+        "section": "1396(a)",
+        "reason": "yment credit determined under..."
+      },
+      {
+        "section": "45A(a)",
+        "reason": "nt credit as determined under..."
+      },
+      {
+        "section": "45B(a)",
+        "reason": "urity credit determined under..."
+      },
+      {
+        "section": "45C(a)",
+        "reason": "drug credit determined under..."
+      },
+      {
+        "section": "45D(a)",
+        "reason": "s tax credit determined under..."
+      },
+      {
+        "section": "45E(c)",
+        "reason": "gible employer (as defined in..."
+      },
+      {
+        "section": "45E(a)",
+        "reason": "cost credit determined under..."
+      },
+      {
+        "section": "45F(a)",
+        "reason": "care credit determined under..."
+      },
+      {
+        "section": "45G(a)",
+        "reason": "nance credit determined under..."
+      },
+      {
+        "section": "40A(a)",
+        "reason": "fuels credit determined under..."
+      },
+      {
+        "section": "45H(a)",
+        "reason": "ction credit determined under..."
+      },
+      {
+        "section": "45I(a)",
+        "reason": "ction credit determined under..."
+      },
+      {
+        "section": "5011(a)",
+        "reason": "irits credit determined under..."
+      },
+      {
+        "section": "45J(a)",
+        "reason": "ction credit determined under..."
+      },
+      {
+        "section": "45K(a)",
+        "reason": "ction credit determined under..."
+      },
+      {
+        "section": "45L(a)",
+        "reason": "home credit determined under..."
+      },
+      {
+        "section": "30B(g)(1)",
+        "reason": "motor vehicle credit to which..."
+      },
+      {
+        "section": "30C(d)(1)",
+        "reason": "ling property credit to which..."
+      },
+      {
+        "section": "45N(a)",
+        "reason": "ining credit determined under..."
+      },
+      {
+        "section": "45O(e)",
+        "reason": "tural business (as defined in..."
+      },
+      {
+        "section": "45O(a)",
+        "reason": "urity credit determined under..."
+      },
+      {
+        "section": "45P(a)",
+        "reason": "yment credit determined under..."
+      },
+      {
+        "section": "45Q(a)",
+        "reason": "ation credit determined under..."
+      },
+      {
+        "section": "30D(c)(1)",
+        "reason": "clean vehicle credit to which..."
+      },
+      {
+        "section": "45R",
+        "reason": "rance credit determined under..."
+      },
+      {
+        "section": "45S(c)",
+        "reason": "gible employer (as defined in..."
+      },
+      {
+        "section": "45S(a)",
+        "reason": "leave credit determined under..."
+      },
+      {
+        "section": "45T(c)",
+        "reason": "gible employer (as defined in..."
+      },
+      {
+        "section": "45T(a)",
+        "reason": "lment credit determined under..."
+      },
+      {
+        "section": "45U(a)",
+        "reason": "ction credit determined under..."
+      },
+      {
+        "section": "40B",
+        "reason": "fuel credit determined under..."
+      },
+      {
+        "section": "45V(a)",
+        "reason": "ction credit determined under..."
+      },
+      {
+        "section": "45W",
+        "reason": "hicle credit determined under..."
+      },
+      {
+        "section": "45X(a)",
+        "reason": "ction credit determined under..."
+      },
+      {
+        "section": "45Y(a)",
+        "reason": "ction credit determined under..."
+      },
+      {
+        "section": "45Z(a)",
+        "reason": "ction credit determined under..."
+      },
+      {
+        "section": "45A",
+        "reason": "small employer (as defined in..."
+      },
+      {
+        "section": "45A",
+        "reason": "ility credit determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 38(b)Current Year Business Credit\u2014For purposes of this subpart, the amount of the current year business credit is the\n                  sum of the following credits determined for the taxable year:I.R.C. \u00a7 38(b)(1)\u2014the investment credit determined under section46,I.R.C. \u00a7 38(b)(2)\u2014the work opportunity credit determined under section51(a),I.R.C. \u00a7 38(b)(3)\u2014the alcohol fuels credit determined under section40(a),I.R.C. \u00a7 38(b)(4)\u2014the research credit determined under section41(a),I.R.C. \u00a7 38(b)(5)\u2014the low-income housing credit determined under section42(a),I.R.C. \u00a7 38(b)(6)\u2014the enhanced oil recovery credit under section43(a),I.R.C. \u00a7 38(b)(7)\u2014in the case of an eligible small business (as defined in section44(b)), the disabled access credit determined under section44(a),I.R.C. \u00a7 38(b)(8)\u2014the renewable electricity production credit under section45(a),I.R.C. \u00a7 38(b)(9)\u2014the empowerment zone employment credit determined under section1396(a),I.R.C. \u00a7 38(b)(10)\u2014the Indian employment credit as determined under section45A(a),I.R.C. \u00a7 38(b)(11)\u2014the employer social security credit determined under section45B(a),I.R.C. \u00a7 38(b)(12)\u2014the orphan drug credit determined under section45C(a),I.R.C. \u00a7 38(b)(13)\u2014the new markets tax credit determined under section45D(a),I.R.C. \u00a7 38(b)(14)\u2014in the case of an eligible employer (as defined in section45E(c)), the small employer pension plan startup cost credit determined under section45E(a),I.R.C. \u00a7 38(b)(15)\u2014the employer-provided child care credit determined under section45F(a),I.R.C. \u00a7 38(b)(16)\u2014the railroad track maintenance credit determined under section45G(a),I.R.C. \u00a7 38(b)(17)\u2014the biodiesel fuels credit determined under section40A(a),I.R.C. \u00a7 38(b)(18)\u2014the low sulfur diesel fuel production credit determined under section45H(a),I.R.C. \u00a7 38(b)(19)\u2014the marginal oil and gas well production credit determined under section45I(a),I.R.C. \u00a7 38(b)(20)\u2014the distilled spirits credit determined under section5011(a),I.R.C. \u00a7 38(b)(21)\u2014the advanced nuclear power facility production credit determined under section45J(a),I.R.C. \u00a7 38(b)(22)\u2014the nonconventional source production credit determined under section45K(a),I.R.C. \u00a7 38(b)(23)\u2014the new energy efficient home credit determined under section45L(a),I.R.C. \u00a7 38(b)(24)\u2014the portion of the alternative motor vehicle credit to which section30B(g)(1)applies,I.R.C. \u00a7 38(b)(25)\u2014the portion of the alternative fuel vehicle refueling property credit to which section30C(d)(1)applies,I.R.C. \u00a7 38(b)(26)\u2014the mine rescue team training credit determined under section45N(a),I.R.C. \u00a7 38(b)(27)\u2014in the case of an eligible agricultural business (as defined in section45O(e)), the agricultural chemicals security credit determined under section45O(a),I.R.C. \u00a7 38(b)(28)\u2014the differential wage payment credit determined under section45P(a),I.R.C. \u00a7 38(b)(29)\u2014the carbon dioxide sequestration credit determined under section45Q(a),I.R.C. \u00a7 38(b)(30)\u2014the portion of the new clean vehicle credit to which section30D(c)(1)applies,I.R.C. \u00a7 38(b)(31)\u2014the small employer health insurance credit determined under section45R,I.R.C. \u00a7 38(b)(32)\u2014in the case of an eligible employer (as defined in section45S(c)), the paid family and medical leave credit determined under section45S(a),I.R.C. \u00a7 38(b)(33)\u2014in the case of an eligible employer (as defined in section45T(c)), the retirement auto-enrollment credit determined under section45T(a)I.R.C. \u00a7 38(b)(34)\u2014the zero-emission nuclear power production credit determined under section 45U(a),I.R.C. \u00a7 38(b)(35)\u2014the sustainable aviation fuel credit determined under section40B,I.R.C. \u00a7 38(b)(36)\u2014the clean hydrogen production credit determined under section45V(a),I.R.C. \u00a7 38(b)(37)\u2014the qualified commercial clean vehicle credit determined under section45W,I.R.C. \u00a7 38(b)(38)\u2014the advanced manufacturing production credit determined under section45X(a),I.R.C. \u00a7 38(b)(39)\u2014the clean electricity production credit determined under section45Y(a),I.R.C. \u00a7 38(b)(40)\u2014the clean fuel production credit determined under section45Z(a), plusI.R.C. \u00a7 38(b)(41)\u2014in the case of an eligible small employer (as defined in section45AA(c)), the military spouse retirement plan eligibility credit determined under section45AA(a).",
+    "definitions": null
+  },
+  {
+    "section": "38",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)",
+      "(c)(1)(A)",
+      "(c)(1)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The credit allowed under subsection (a) for any taxable year shall not exceed the excess (if any) of the taxpayer's net income tax over the greater of\u2014\u2014the tentative minimum tax for the taxable year, or\u201425 percent of so much of the taxpayer's net regular tax liability as exceeds $25,000.For purposes of the preceding sentence, the term \u201cnet income tax\u201d means the sum of the regular tax liability and the tax imposed by section55, reduced by the credits allowable under subparts A and B of this part, and the term \u201cnet regular tax liability\u201d means the regular tax liability reduced by the sum of the credits allowable under subparts A and B of this part.",
+    "conditions": [
+      "any) of the taxpayer's net income tax over the greater of\u2014\u2014the tentative minimum tax for the taxable year, or\u201425 percent of so much of the taxpayer's net regular tax liability as exceeds $25,000.For purposes of the preceding sentence, the term \u201cnet income tax\u201d means the sum of the regular tax liability and the tax imposed by section55, reduced by the credits allowable under subparts A and B of this part, and the term \u201cnet regular tax liability\u201d means the regular tax liability reduced by the sum of the credits allowable under subparts A and B of this part."
+    ],
+    "computations": [
+      {
+        "operation": "max",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      },
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 25000,
+        "text": "$25,000"
+      }
+    ],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.25,
+        "text": "25 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any) of the taxpayer's net income tax over the greater of\u2014\u2014the tentative minimum tax for the taxable year, or\u201425 percent of so much of the taxpayer's net regular tax liability as exceeds $25,000.For purposes of the preceding sentence, the term \u201cnet income tax\u201d means the sum of the regular tax liability and the tax imposed by section55, reduced by the credits allowable under subparts A and B of this part, and the term \u201cnet regular tax liability\u201d means the regular tax liability reduced by the sum of the credits allowable under subparts A and B of this part."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The credit allowed under subsection (a) for any taxable year shall not exceed the excess ("
+    },
+    "cross_references": [
+      {
+        "section": "55",
+        "reason": "bility and the tax imposed by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 38(c)(1)In General\u2014The credit allowed under subsection (a) for any taxable year shall not exceed the\n                     excess (if any) of the taxpayer's net income tax over the greater of\u2014I.R.C. \u00a7 38(c)(1)(A)\u2014the tentative minimum tax for the taxable year, orI.R.C. \u00a7 38(c)(1)(B)\u201425 percent of so much of the taxpayer's net regular tax liability as exceeds $25,000.For purposes of the preceding sentence, the term \u201cnet income tax\u201d means the sum of\n                        the regular tax liability and the tax imposed by section55, reduced by the credits allowable under subparts A and B of this part, and the term\n                        \u201cnet regular tax liability\u201d means the regular tax liability reduced by the sum of\n                        the credits allowable under subparts A and B of this part.",
+    "definitions": {
+      "term": "net income tax",
+      "requirements": [
+        "the sum of the regular tax liability and the tax imposed by section55, reduced by the credits allowable under subparts A and B of this part, and the term \u201cnet regular tax liability\u201d means the regular tax liability reduced by the sum of the credits allowable under subparts A and B of this part."
+      ]
+    }
+  },
+  {
+    "section": "38",
+    "subsection": "(c)(2)(A)",
+    "source_subsections": [
+      "(c)(2)(A)",
+      "(c)(2)(A)(i)",
+      "(c)(2)(A)(ii)",
+      "(c)(2)(A)(ii)(I)",
+      "(c)(2)(A)(ii)(II)"
+    ],
+    "rule_type": "limitation",
+    "title": "General",
+    "text": "In the case of the empowerment zone employment credit\u2014\u2014this section and section39shall be applied separately with respect to such credit, and\u2014for purposes of applying paragraph (1) to such credit\u201475 percent of the tentative minimum tax shall be substituted for the tentative minimum tax under subparagraph (A) thereof, and\u2014the limitation under paragraph (1) (as modified by subclause (I)) shall be reduced by the credit allowed under subsection (a) for the taxable year (other than the empowerment zone employment credit and the specified credits).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.75,
+        "text": "75 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of the empowerment zone employment credit\u2014\u2014this section and section39shall be applied separately with respect to such credit, and\u2014for purposes of applying paragraph (1) to such credit\u201475 percent of the tentative minimum tax shall be substituted for the tentative minimum tax under subparagraph (A) thereof, and\u2014the limitation under paragraph (1) (as modified by subclause (I)) shall be reduced by the credit allowed under subsection (a) for the taxable year (other than the empowerment zone employment credit and the specified credits)."
+    },
+    "cross_references": [
+      {
+        "section": "39s",
+        "reason": "ment credit\u2014\u2014this section and..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 38(c)(2)(A)In General\u2014In the case of the empowerment zone employment credit\u2014I.R.C. \u00a7 38(c)(2)(A)(i)\u2014this section and section39shall be applied separately with respect to such credit, andI.R.C. \u00a7 38(c)(2)(A)(ii)\u2014for purposes of applying paragraph (1) to such creditI.R.C. \u00a7 38(c)(2)(A)(ii)(I)\u201475 percent of the tentative minimum tax shall be substituted for the tentative minimum\n                              tax under subparagraph (A) thereof, andI.R.C. \u00a7 38(c)(2)(A)(ii)(II)\u2014the limitation under paragraph (1) (as modified by subclause (I)) shall be reduced\n                              by the credit allowed under subsection (a) for the taxable year (other than the empowerment\n                              zone employment credit and the specified credits).",
+    "definitions": null
+  },
+  {
+    "section": "38",
+    "subsection": "(c)(2)(B)",
+    "source_subsections": [
+      "(c)(2)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Zone Employment Credit",
+    "text": "For purposes of this paragraph, the term \u201cempowerment zone employment credit\u201d means the portion of the credit under subsection (a) which is attributable to the credit determined under section1396(relating to empowerment zone employment credit).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the term \u201cempowerment zone employment credit\u201d means the portion of the credit under subsection (a) which is attributable to the credit determined under section1396(relating to empowerment zone employment credit)."
+    },
+    "cross_references": [
+      {
+        "section": "1396",
+        "reason": "o the credit determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 38(c)(2)(B)Empowerment Zone Employment Credit\u2014For purposes of this paragraph, the term \u201cempowerment zone employment credit\u201d means\n                        the portion of the credit under subsection (a) which is attributable to the credit\n                        determined under section1396(relating to empowerment zone employment credit).",
+    "definitions": {
+      "term": "empowerment zone employment credit",
+      "requirements": [
+        "the portion of the credit under subsection (a) which is attributable to the credit determined under section1396(relating to empowerment zone employment credit)."
+      ]
+    }
+  },
+  {
+    "section": "38",
+    "subsection": "(c)(3)",
+    "source_subsections": [
+      "(c)(3)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "[Repealed.Pub. L. 115-141, div. U, Section 401(d)(6)(B)(iii).]",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "[Repealed.Pub. L. 115-141, div. U, Section 401(d)(6)(B)(iii).]"
+    },
+    "cross_references": [
+      {
+        "section": "401(d)(6)(B)(iii)",
+        "reason": "aled.Pub. L. 115-141, div. U,..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 38(c)(3)Repealed\u2014[Repealed.Pub. L. 115-141, div. U, Section 401(d)(6)(B)(iii).]",
+    "definitions": null
+  },
+  {
+    "section": "38",
+    "subsection": "(c)(4)(A)",
+    "source_subsections": [
+      "(c)(4)(A)",
+      "(c)(4)(A)(i)",
+      "(c)(4)(A)(ii)",
+      "(c)(4)(A)(ii)(I)",
+      "(c)(4)(A)(ii)(II)"
+    ],
+    "rule_type": "limitation",
+    "title": "General",
+    "text": "In the case of specified credits\u2014\u2014this section and section39shall be applied separately with respect to such credits, and\u2014in applying paragraph (1) to such credits\u2014\u2014the tentative minimum tax shall be treated as being zero, and\u2014the limitation under paragraph (1) (as modified by subclause (I)) shall be reduced by the credit allowed under subsection (a) for the taxable year (other than the specified credits).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of specified credits\u2014\u2014this section and section39shall be applied separately with respect to such credits, and\u2014in applying paragraph (1) to such credits\u2014\u2014the tentative minimum tax shall be treated as being zero, and\u2014the limitation under paragraph (1) (as modified by subclause (I)) shall be reduced by the credit allowed under subsection (a) for the taxable year (other than the specified credits)."
+    },
+    "cross_references": [
+      {
+        "section": "39s",
+        "reason": "ied credits\u2014\u2014this section and..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 38(c)(4)(A)In General\u2014In the case of specified credits\u2014I.R.C. \u00a7 38(c)(4)(A)(i)\u2014this section and section39shall be applied separately with respect to such credits, andI.R.C. \u00a7 38(c)(4)(A)(ii)\u2014in applying paragraph (1) to such credits\u2014I.R.C. \u00a7 38(c)(4)(A)(ii)(I)\u2014the tentative minimum tax shall be treated as being zero, andI.R.C. \u00a7 38(c)(4)(A)(ii)(II)\u2014the limitation under paragraph (1) (as modified by subclause (I)) shall be reduced\n                              by the credit allowed under subsection (a) for the taxable year (other than the specified\n                              credits).",
+    "definitions": null
+  },
+  {
+    "section": "38",
+    "subsection": "(c)(4)(B)",
+    "source_subsections": [
+      "(c)(4)(B)",
+      "(c)(4)(B)(i)",
+      "(c)(4)(B)(ii)",
+      "(c)(4)(B)(iii)",
+      "(c)(4)(B)(iv)",
+      "(c)(4)(B)(iv)(I)",
+      "(c)(4)(B)(iv)(II)",
+      "(c)(4)(B)(ix)",
+      "(c)(4)(B)(v)",
+      "(c)(4)(B)(vi)",
+      "(c)(4)(B)(vii)",
+      "(c)(4)(B)(viii)",
+      "(c)(4)(B)(x)",
+      "(c)(4)(B)(xi)",
+      "(c)(4)(B)(xii)"
+    ],
+    "rule_type": "definition",
+    "title": "Credits",
+    "text": "For purposes of this subsection, the term \u201cspecified credits\u201d means\u2014\u2014for taxable years beginning after December 31, 2004, the credit determined under section40,\u2014the credit determined under section41for the taxable year with respect to an eligible small business (as defined in paragraph (5)(A) after application of the rules of paragraph (5)(B)),\u2014the credit determined under section42to the extent attributable to buildings placed in service after December 31, 2007,\u2014the credit determined under section45to the extent that such credit is attributable to electricity or refined coal produced\u2014\u2014at a facility which is originally placed in service after the date of the enactment of this paragraph, and\u2014during the 4-year period beginning on the date that such facility was originally placed in service,\u2014the credit determined under section45to the extent that such credit is attributable to section45(e)(10)(relating to Indian coal production facilities),\u2014the credit determined under section45B,\u2014the credit determined under section45G,\u2014the credit determined under section45R,\u2014the credit determined under section45S,\u2014the credit determined under section46to the extent that such credit is attributable to the energy credit determined under section48,\u2014the credit determined under section46to the extent that such credit is attributable to the rehabilitation credit under section47, but only with respect to qualified rehabilitation expenditures properly taken into account for periods after December 31, 2007, and\u2014the credit determined under section51.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection, the term \u201cspecified credits\u201d means\u2014\u2014for taxable years beginning after December 31, 2004, the credit determined under section40,\u2014the credit determined under section41for the taxable year with respect to an eligible small business (as defined in paragraph (5)(A) after application of the rules of paragraph (5)(B)),\u2014the credit determined under section42to the extent attributable to buildings placed in service after December 31, 2007,\u2014the credit determined under section45to the extent that such credit is attributable to electricity or refined coal produced\u2014\u2014at a facility which is originally placed in service after the date of the enactment of this paragraph, and\u2014during the 4-year period beginning on the date that such facility was originally placed in service,\u2014the credit determined under section45to the extent that such credit is attributable to section45(e)(10)(relating to Indian coal production facilities),\u2014the credit determined under section45B,\u2014the credit determined under section45G,\u2014the credit determined under section45R,\u2014the credit determined under section45S,\u2014the credit determined under section46to the extent that such credit is attributable to the energy credit determined under section48,\u2014the credit determined under section46to the extent that such credit is attributable to the rehabilitation credit under section47, but only with respect to qualified rehabilitation expenditures properly taken into account for periods after December 31, 2007, and\u2014the credit determined under section51."
+    },
+    "cross_references": [
+      {
+        "section": "40",
+        "reason": ", the credit determined under..."
+      },
+      {
+        "section": "41f",
+        "reason": ",\u2014the credit determined under..."
+      },
+      {
+        "section": "42t",
+        "reason": ",\u2014the credit determined under..."
+      },
+      {
+        "section": "45t",
+        "reason": ",\u2014the credit determined under..."
+      },
+      {
+        "section": "45t",
+        "reason": ",\u2014the credit determined under..."
+      },
+      {
+        "section": "45(e)(10)",
+        "reason": "uch credit is attributable to..."
+      },
+      {
+        "section": "45B",
+        "reason": ",\u2014the credit determined under..."
+      },
+      {
+        "section": "45G",
+        "reason": ",\u2014the credit determined under..."
+      },
+      {
+        "section": "45R",
+        "reason": ",\u2014the credit determined under..."
+      },
+      {
+        "section": "45S",
+        "reason": ",\u2014the credit determined under..."
+      },
+      {
+        "section": "46t",
+        "reason": ",\u2014the credit determined under..."
+      },
+      {
+        "section": "48",
+        "reason": "nergy credit determined under..."
+      },
+      {
+        "section": "46t",
+        "reason": ",\u2014the credit determined under..."
+      },
+      {
+        "section": "47",
+        "reason": "e rehabilitation credit under..."
+      },
+      {
+        "section": "51",
+        "reason": "d\u2014the credit determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 38(c)(4)(B)Specified Credits\u2014For purposes of this subsection, the term \u201cspecified credits\u201d means\u2014I.R.C. \u00a7 38(c)(4)(B)(i)\u2014for taxable years beginning after December 31, 2004, the credit determined under section40,I.R.C. \u00a7 38(c)(4)(B)(ii)\u2014the credit determined under section41for the taxable year with respect to an eligible small business (as defined in paragraph\n                           (5)(A) after application of the rules of paragraph (5)(B)),I.R.C. \u00a7 38(c)(4)(B)(iii)\u2014the credit determined under section42to the extent attributable to buildings placed in service after December 31, 2007,I.R.C. \u00a7 38(c)(4)(B)(iv)\u2014the credit determined under section45to the extent that such credit is attributable to electricity or refined coal produced\u2014I.R.C. \u00a7 38(c)(4)(B)(iv)(I)\u2014at a facility which is originally placed in service after the date of the enactment\n                              of this paragraph, andI.R.C. \u00a7 38(c)(4)(B)(iv)(II)\u2014during the 4-year period beginning on the date that such facility was originally placed\n                              in service,I.R.C. \u00a7 38(c)(4)(B)(v)\u2014the credit determined under section45to the extent that such credit is attributable to section45(e)(10)(relating to Indian coal production facilities),I.R.C. \u00a7 38(c)(4)(B)(vi)\u2014the credit determined under section45B,I.R.C. \u00a7 38(c)(4)(B)(vii)\u2014the credit determined under section45G,I.R.C. \u00a7 38(c)(4)(B)(viii)\u2014the credit determined under section45R,I.R.C. \u00a7 38(c)(4)(B)(ix)\u2014the credit determined under section45S,I.R.C. \u00a7 38(c)(4)(B)(x)\u2014the credit determined under section46to the extent that such credit is attributable to the energy credit determined under\n                           section48,I.R.C. \u00a7 38(c)(4)(B)(xi)\u2014the credit determined under section46to the extent that such credit is attributable to the rehabilitation credit under\n                           section47, but only with respect to qualified rehabilitation expenditures properly taken into\n                           account for periods after December 31, 2007, andI.R.C. \u00a7 38(c)(4)(B)(xii)\u2014the credit determined under section51.",
+    "definitions": null
+  },
+  {
+    "section": "38",
+    "subsection": "(c)(5)(A)",
+    "source_subsections": [
+      "(c)(5)(A)",
+      "(c)(5)(A)(i)",
+      "(c)(5)(A)(ii)",
+      "(c)(5)(A)(iii)"
+    ],
+    "rule_type": "definition",
+    "title": "Small Business",
+    "text": "For purposes of this subsection, the term \u201celigible small business\u201d means, with respect to any taxable year\u2014\u2014a corporation the stock of which is not publicly traded,\u2014a partnership, or\u2014a sole proprietorship,if the average annual gross receipts of such corporation, partnership, or sole proprietorship for the 3-taxable-year period preceding such taxable year does not exceed $50,000,000. For purposes of applying the test under the preceding sentence, rules similar to the rules of paragraphs(2)and(3)of section448(c)shall apply.",
+    "conditions": [
+      "the average annual gross receipts of such corporation, partnership, or sole proprietorship for the 3-taxable-year period preceding such taxable year does not exceed $50,000,000. For purposes of applying the test under the preceding sentence, rules similar to the rules of paragraphs(2)and(3)of section448(c)shall apply."
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 50000000,
+        "text": "$50,000,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the average annual gross receipts of such corporation, partnership, or sole proprietorship for the 3-taxable-year period preceding such taxable year does not exceed $50,000,000. For purposes of applying the test under the preceding sentence, rules similar to the rules of paragraphs(2)and(3)of section448(c)shall apply."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection, the term \u201celigible small business\u201d means, with respect to any taxable year\u2014\u2014a corporation the stock of which is not publicly traded,\u2014a partnership, or\u2014a sole proprietorship,"
+    },
+    "cross_references": [
+      {
+        "section": "448(c)",
+        "reason": "ules of paragraphs(2)and(3)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 38(c)(5)(A)Eligible Small Business\u2014For purposes of this subsection, the term \u201celigible small business\u201d means, with respect\n                        to any taxable year\u2014I.R.C. \u00a7 38(c)(5)(A)(i)\u2014a corporation the stock of which is not publicly traded,I.R.C. \u00a7 38(c)(5)(A)(ii)\u2014a partnership, orI.R.C. \u00a7 38(c)(5)(A)(iii)\u2014a sole proprietorship,if the average annual gross receipts of such corporation, partnership, or sole proprietorship\n                           for the 3-taxable-year period preceding such taxable year does not exceed $50,000,000.\n                           For purposes of applying the test under the preceding sentence, rules similar to the\n                           rules of paragraphs(2)and(3)of section448(c)shall apply.",
+    "definitions": null
+  },
+  {
+    "section": "38",
+    "subsection": "(c)(5)(B)",
+    "source_subsections": [
+      "(c)(5)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Partners And S Corporation Shareholders",
+    "text": "For purposes of paragraph (4)(B)(ii), any credit determined under section41with respect to a partnership or S corporation shall not be treated as a specified credit by any partner or shareholder unless such partner or shareholder meets the gross receipts test under subparagraph (A) for the taxable year in which such credit is treated as a current year business credit.",
+    "conditions": [
+      "such partner or shareholder meets the gross receipts test under subparagraph (A) for the taxable year in which such credit is treated as a current year business credit."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "such partner or shareholder meets the gross receipts test under subparagraph (A) for the taxable year in which such credit is treated as a current year business credit."
+      ],
+      "except": [],
+      "result": "For purposes of paragraph (4)(B)(ii), any credit determined under section41with respect to a partnership or S corporation shall not be treated as a specified credit by any partner or shareholder"
+    },
+    "cross_references": [
+      {
+        "section": "41w",
+        "reason": ", any credit determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 38(c)(5)(B)Treatment Of Partners And S Corporation Shareholders\u2014For purposes of paragraph (4)(B)(ii), any credit determined under section41with respect to a partnership or S corporation shall not be treated as a specified\n                        credit by any partner or shareholder unless such partner or shareholder meets the\n                        gross receipts test under subparagraph (A) for the taxable year in which such credit\n                        is treated as a current year business credit.",
+    "definitions": null
+  },
+  {
+    "section": "38",
+    "subsection": "(c)(6)(A)",
+    "source_subsections": [
+      "(c)(6)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "Individuals",
+    "text": "In the case of a husband or wife who files a separate return, the amount specified under subparagraph (B) of paragraph (1) shall be $12,500 in lieu of $25,000. This subparagraph shall not apply if the spouse of the taxpayer has no business credit carryforward or carryback to, and has no current year business credit for, the taxable year of such spouse which ends within or with the taxpayer's taxable year.",
+    "conditions": [
+      "the spouse of the taxpayer has no business credit carryforward or carryback to, and has no current year business credit for, the taxable year of such spouse which ends within or with the taxpayer's taxable year."
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 12500,
+        "text": "$12,500"
+      },
+      {
+        "label": "amount",
+        "value": 25000,
+        "text": "$25,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the spouse of the taxpayer has no business credit carryforward or carryback to, and has no current year business credit for, the taxable year of such spouse which ends within or with the taxpayer's taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a husband or wife who files a separate return, the amount specified under subparagraph (B) of paragraph (1) shall be $12,500 in lieu of $25,000. This subparagraph shall not apply"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 38(c)(6)(A)Married Individuals\u2014In the case of a husband or wife who files a separate return, the amount specified\n                        under subparagraph (B) of paragraph (1) shall be $12,500 in lieu of $25,000. This\n                        subparagraph shall not apply if the spouse of the taxpayer has no business credit\n                        carryforward or carryback to, and has no current year business credit for, the taxable\n                        year of such spouse which ends within or with the taxpayer's taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "38",
+    "subsection": "(c)(6)(B)",
+    "source_subsections": [
+      "(c)(6)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Groups",
+    "text": "In the case of a controlled group, the $25,000 amount specified under subparagraph (B) of paragraph (1) shall be reduced for each component member of such group by apportioning $25,000 among the component members of such group in such manner as the Secretary shall by regulations prescribe. For purposes of the preceding sentence, the term \u201ccontrolled group\u201d has the meaning given to such term by section1563(a).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 25000,
+        "text": "$25,000"
+      },
+      {
+        "label": "amount",
+        "value": 25000,
+        "text": "$25,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a controlled group, the $25,000 amount specified under subparagraph (B) of paragraph (1) shall be reduced for each component member of such group by apportioning $25,000 among the component members of such group in such manner as the Secretary shall by regulations prescribe. For purposes of the preceding sentence, the term \u201ccontrolled group\u201d has the meaning given to such term by section1563(a)."
+    },
+    "cross_references": [
+      {
+        "section": "1563(a)",
+        "reason": "meaning given to such term by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 38(c)(6)(B)Controlled Groups\u2014In the case of a controlled group, the $25,000 amount specified under subparagraph\n                        (B) of paragraph (1) shall be reduced for each component member of such group by apportioning\n                        $25,000 among the component members of such group in such manner as the Secretary\n                        shall by regulations prescribe. For purposes of the preceding sentence, the term \u201ccontrolled\n                        group\u201d has the meaning given to such term by section1563(a).",
+    "definitions": null
+  },
+  {
+    "section": "38",
+    "subsection": "(c)(6)(C)",
+    "source_subsections": [
+      "(c)(6)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "With Respect To Certain Persons",
+    "text": "In the case of a person described in subparagraph (A) or (B) of section46(e)(1)(as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990), the $25,000 amount specified under subparagraph (B) of paragraph (1) shall equal such person's ratable share (as determined under section46(e)(2)(as so in effect) of such amount.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 25000,
+        "text": "$25,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a person described in subparagraph (A) or (B) of section46(e)(1)(as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990), the $25,000 amount specified under subparagraph (B) of paragraph (1) shall equal such person's ratable share (as determined under section46(e)(2)(as so in effect) of such amount."
+    },
+    "cross_references": [
+      {
+        "section": "46(e)(1)",
+        "reason": "in subparagraph (A) or (B) of..."
+      },
+      {
+        "section": "46(e)(2)",
+        "reason": "le share (as determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 38(c)(6)(C)Limitations With Respect To Certain Persons\u2014In the case of a person described in subparagraph (A) or (B) of section46(e)(1)(as in effect on the day before the date of the enactment of the Revenue Reconciliation\n                        Act of 1990), the $25,000 amount specified under subparagraph (B) of paragraph (1)\n                        shall equal such person's ratable share (as determined under section46(e)(2)(as so in effect) of such amount.",
+    "definitions": null
+  },
+  {
+    "section": "38",
+    "subsection": "(c)(6)(D)",
+    "source_subsections": [
+      "(c)(6)(D)"
+    ],
+    "rule_type": "condition",
+    "title": "And Trusts",
+    "text": "In the case of an estate or trust, the $25,000 amount specified under subparagraph (B) of paragraph (1) shall be reduced to an amount which bears the same ratio to $25,000 as the portion of the income of the estate or trust which is not allocated to beneficiaries bears to the total income of the estate or trust.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 25000,
+        "text": "$25,000"
+      },
+      {
+        "label": "amount",
+        "value": 25000,
+        "text": "$25,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of an estate or trust, the $25,000 amount specified under subparagraph (B) of paragraph (1) shall be reduced to an amount which bears the same ratio to $25,000 as the portion of the income of the estate or trust which is not allocated to beneficiaries bears to the total income of the estate or trust."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 38(c)(6)(D)Estates And Trusts\u2014In the case of an estate or trust, the $25,000 amount specified under subparagraph\n                        (B) of paragraph (1) shall be reduced to an amount which bears the same ratio to $25,000\n                        as the portion of the income of the estate or trust which is not allocated to beneficiaries\n                        bears to the total income of the estate or trust.",
+    "definitions": null
+  },
+  {
+    "section": "38",
+    "subsection": "(c)(6)(E)",
+    "source_subsections": [
+      "(c)(6)(E)",
+      "(c)(6)(E)(i)",
+      "(c)(6)(E)(ii)",
+      "(c)(6)(E)(iii)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "In the case of a corporation\u2014\u2014the first sentence of paragraph (1) shall be applied by substituting \u201c25 percent of the taxpayer's net income tax as exceeds $25,000\u201d for \u201cthe greater of\u201d and all that follows,\u2014paragraph (2)(A) shall be applied without regard to clause (ii)(I) thereof, and\u2014paragraph (4)(A) shall be applied without regard to clause (ii)(I) thereof.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "max",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 25000,
+        "text": "$25,000"
+      }
+    ],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.25,
+        "text": "25 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a corporation\u2014\u2014the first sentence of paragraph (1) shall be applied by substituting \u201c25 percent of the taxpayer's net income tax as exceeds $25,000\u201d for \u201cthe greater of\u201d and all that follows,\u2014paragraph (2)(A) shall be applied without regard to clause (ii)(I) thereof, and\u2014paragraph (4)(A) shall be applied without regard to clause (ii)(I) thereof."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 38(c)(6)(E)Corporations\u2014In the case of a corporation\u2014I.R.C. \u00a7 38(c)(6)(E)(i)\u2014the first sentence of paragraph (1) shall be applied by substituting \u201c25 percent of\n                           the taxpayer's net income tax as exceeds $25,000\u201d for \u201cthe greater of\u201d and all that\n                           follows,I.R.C. \u00a7 38(c)(6)(E)(ii)\u2014paragraph (2)(A) shall be applied without regard to clause (ii)(I) thereof, andI.R.C. \u00a7 38(c)(6)(E)(iii)\u2014paragraph (4)(A) shall be applied without regard to clause (ii)(I) thereof.",
+    "definitions": null
+  },
+  {
+    "section": "38",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The order in which such credits are used shall be determined on the basis of the order in which they are listed in subsection (b) as of the close of the taxable year in which the credit is used.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The order in which such credits are used shall be determined on the basis of the order in which they are listed in subsection (b) as of the close of the taxable year in which the credit is used."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 38(d)(1)In General\u2014The order in which such credits are used shall be determined on the basis of the order\n                     in which they are listed in subsection (b) as of the close of the taxable year in\n                     which the credit is used.",
+    "definitions": null
+  },
+  {
+    "section": "38",
+    "subsection": "(d)(2)",
+    "source_subsections": [
+      "(d)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Investment Credit",
+    "text": "The order in which the credits listed in section46are used shall be determined on the basis of the order in which such credits are listed in section46as of the close of the taxable year in which the credit is used.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The order in which the credits listed in section46are used shall be determined on the basis of the order in which such credits are listed in section46as of the close of the taxable year in which the credit is used."
+    },
+    "cross_references": [
+      {
+        "section": "46a",
+        "reason": "n which the credits listed in..."
+      },
+      {
+        "section": "46a",
+        "reason": "ch such credits are listed in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 38(d)(2)Components Of Investment Credit\u2014The order in which the credits listed in section46are used shall be determined on the basis of the order in which such credits are\n                     listed in section46as of the close of the taxable year in which the credit is used.",
+    "definitions": null
+  }
+]

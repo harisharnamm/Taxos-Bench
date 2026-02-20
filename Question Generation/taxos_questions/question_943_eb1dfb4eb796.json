@@ -1,0 +1,22 @@
+{
+  "id": "eb1dfb4eb796",
+  "section": "943",
+  "citation": "I.R.C. \u00a7 943(c)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 943(c) is discussed as follows: 'I.R.C. \u00a7 943(c)Source Rule\u2014Editor's Note:Pub. L. 108-357, Sec. 101(b)(1), repealed Sec. 943, general...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 943(c)?",
+  "difficulty": 1,
+  "choices": [
+    "4.0%",
+    "6.0%",
+    "0.0%",
+    "96.0%",
+    "14.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 4.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 943(c)"
+  ]
+}

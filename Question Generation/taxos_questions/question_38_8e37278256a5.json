@@ -1,0 +1,22 @@
+{
+  "id": "8e37278256a5",
+  "section": "38",
+  "citation": "I.R.C. \u00a7 38(c)(6)(D)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 38(c)(6)(D) is discussed as follows: 'I.R.C. \u00a7 38(c)(6)(D)Estates And Trusts\u2014In the case of an estate or trust, the $25,000 amount specifi...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 38(c)(6)(D)?",
+  "difficulty": 1,
+  "choices": [
+    "$27,500.00",
+    "$25,000.00",
+    "$22,500.00",
+    "$50,000.00",
+    "$12,500.00"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $25,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 38(c)(6)(D)"
+  ]
+}

@@ -1,0 +1,288 @@
+[
+  {
+    "section": "45AA",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "$200 with respect to each military spouse who is an employee of such employer and who participates in an eligible defined contribution plan of such employer at any time during such taxable year, plus",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 200,
+        "text": "$200"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$200 with respect to each military spouse who is an employee of such employer and who participates in an eligible defined contribution plan of such employer at any time during such taxable year, plus"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45AA(a)(1)\u2014$200 with respect to each military spouse who is an employee of such employer and\n                     who participates in an eligible defined contribution plan of such employer at any\n                     time during such taxable year, plus",
+    "definitions": null
+  },
+  {
+    "section": "45AA",
+    "subsection": "(a)(2)",
+    "source_subsections": [
+      "(a)(2)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "so much of the contributions made by such employer (other than an elective deferral (as defined in section402(g)(3)) to all such plans with respect to such employee during such taxable year as do not exceed $300.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 300,
+        "text": "$300"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "so much of the contributions made by such employer (other than an elective deferral (as defined in section402(g)(3)) to all such plans with respect to such employee during such taxable year as do not exceed $300."
+    },
+    "cross_references": [
+      {
+        "section": "402(g)(3)",
+        "reason": "ctive deferral (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45AA(a)(2)\u2014so much of the contributions made by such employer (other than an elective deferral\n                     (as defined in section402(g)(3)) to all such plans with respect to such employee during such taxable year as do not\n                     exceed $300.",
+    "definitions": null
+  },
+  {
+    "section": "45AA",
+    "subsection": "(b)",
+    "source_subsections": [
+      "(b)"
+    ],
+    "rule_type": "definition",
+    "title": ".",
+    "text": "An individual shall only be taken into account as a military spouse under subsection(a)for the taxable year which includes the date on which such individual began participating in the eligible defined contribution plan of the employer and the 2 succeeding taxable years.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "An individual shall only be taken into account as a military spouse under subsection(a)for the taxable year which includes the date on which such individual began participating in the eligible defined contribution plan of the employer and the 2 succeeding taxable years."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45AA(b)Limitation.\u2014\u2014An individual shall only be taken into account as a military spouse under subsection(a)for the taxable year which includes the date on which such individual began participating\n                  in the eligible defined contribution plan of the employer and the 2 succeeding taxable\n                  years.",
+    "definitions": null
+  },
+  {
+    "section": "45AA",
+    "subsection": "(c)",
+    "source_subsections": [
+      "(c)"
+    ],
+    "rule_type": "definition",
+    "title": "Small Employer.",
+    "text": "For purposes of this section, the term \u2018eligible small employer\u2019 means an eligible employer (as defined in section408(p)(2)(C)(i)(I).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u2018eligible small employer\u2019 means an eligible employer (as defined in section408(p)(2)(C)(i)(I)."
+    },
+    "cross_references": [
+      {
+        "section": "408(p)(2)(C)(i)(I)",
+        "reason": "gible employer (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45AA(c)Eligible Small Employer.\u2014\u2014For purposes of this section, the term \u2018eligible small employer\u2019 means an eligible\n                  employer (as defined in section408(p)(2)(C)(i)(I).",
+    "definitions": null
+  },
+  {
+    "section": "45AA",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)"
+    ],
+    "rule_type": "definition",
+    "title": "General.",
+    "text": "The term \u2018military spouse\u2019 means, with respect to any employer, any individual who is married (within the meaning of section7703as of the first date that the employee is employed by the employer) to an individual who is a member of the uniformed services (as defined section101(a)(5)of title 10, United States Code) serving on active duty. For purposes of this section, an employer may rely on an employee's certification that such employee's spouse is a member of the uniformed services if such certification provides the name, rank, and service branch of such spouse.",
+    "conditions": [
+      "such certification provides the name, rank, and service branch of such spouse."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such certification provides the name, rank, and service branch of such spouse."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u2018military spouse\u2019 means, with respect to any employer, any individual who is married (within the meaning of section7703as of the first date that the employee is employed by the employer) to an individual who is a member of the uniformed services (as defined section101(a)(5)of title 10, United States Code) serving on active duty. For purposes of this section, an employer may rely on an employee's certification that such employee's spouse is a member of the uniformed services"
+    },
+    "cross_references": [
+      {
+        "section": "7703a",
+        "reason": "arried (within the meaning of..."
+      },
+      {
+        "section": "101(a)(5)",
+        "reason": "niformed services (as defined..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45AA(d)(1)In General.\u2014\u2014The term \u2018military spouse\u2019 means, with respect to any employer, any individual who\n                     is married (within the meaning of section7703as of the first date that the employee is employed by the employer) to an individual\n                     who is a member of the uniformed services (as defined section101(a)(5)of title 10, United States Code) serving on active duty. For purposes of this section,\n                     an employer may rely on an employee's certification that such employee's spouse is\n                     a member of the uniformed services if such certification provides the name, rank,\n                     and service branch of such spouse.",
+    "definitions": null
+  },
+  {
+    "section": "45AA",
+    "subsection": "(d)(2)",
+    "source_subsections": [
+      "(d)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "of Highly Compensated Employees.",
+    "text": "With respect to any employer, the term \u201cmilitary spouse\u201d shall not include any individual if such individual is a highly compensated employee of such employer (within the meaning of section414(q)).",
+    "conditions": [
+      "such individual is a highly compensated employee of such employer (within the meaning of section414(q))."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such individual is a highly compensated employee of such employer (within the meaning of section414(q))."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "With respect to any employer, the term \u201cmilitary spouse\u201d shall not include any individual"
+    },
+    "cross_references": [
+      {
+        "section": "414(q)",
+        "reason": "ployer (within the meaning of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45AA(d)(2)Exclusion of Highly Compensated Employees. \u2014\u2014With respect to any employer, the term \u201cmilitary spouse\u201d shall not include any individual\n                     if such individual is a highly compensated employee of such employer (within the meaning\n                     of section414(q)).",
+    "definitions": null
+  },
+  {
+    "section": "45AA",
+    "subsection": "(e)",
+    "source_subsections": [
+      "(e)",
+      "(e)(1)",
+      "(e)(2)",
+      "(e)(2)(A)",
+      "(e)(2)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Defined Contribution Plan.",
+    "text": "Defined Contribution Plan.\u2014\u2014For purposes of this section, the term \u201celigible defined contribution plan\u201d means, with respect to any eligible small employer, any defined contribution plan (as defined in section414(i)) of such employer if, under the terms of such plan\u2014\u2014military spouses employed by such employer are eligible to participate in such plan not later than the date which is 2 months after the date on which such individual begins employment with such employer, and\u2014military spouses who are eligible to participate in such plan\u2014\u2014are immediately eligible to receive an amount of employer contributions under such plan which is not less the amount of such contributions that a similarly situated participant who is not a military spouse would be eligible to receive under such plan after 2 years of service, and\u2014immediately have a nonforfeitable right to the employee's accrued benefit derived from employer contributions under such plan.",
+    "conditions": [
+      ", under the terms of such plan\u2014\u2014military spouses employed by such employer are eligible to participate in such plan not later than the date which is 2 months after the date on which such individual begins employment with such employer, and\u2014military spouses who are eligible to participate in such plan\u2014\u2014are immediately eligible to receive an amount of employer contributions under such plan which is not less the amount of such contributions that a similarly situated participant who is not a military spouse would be eligible to receive under such plan after 2 years of service, and\u2014immediately have a nonforfeitable right to the employee's accrued benefit derived from employer contributions under such plan."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        ", under the terms of such plan\u2014\u2014military spouses employed by such employer are eligible to participate in such plan not later than the date which is 2 months after the date on which such individual begins employment with such employer, and\u2014military spouses who are eligible to participate in such plan\u2014\u2014are immediately eligible to receive an amount of employer contributions under such plan which is not less the amount of such contributions that a similarly situated participant who is not a military spouse would be eligible to receive under such plan after 2 years of service, and\u2014immediately have a nonforfeitable right to the employee's accrued benefit derived from employer contributions under such plan."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Defined Contribution Plan.\u2014\u2014For purposes of this section, the term \u201celigible defined contribution plan\u201d means, with respect to any eligible small employer, any defined contribution plan (as defined in section414(i)) of such employer"
+    },
+    "cross_references": [
+      {
+        "section": "414(i)",
+        "reason": "tribution plan (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45AA(e)Eligible Defined Contribution Plan.\u2014\u2014For purposes of this section, the term \u201celigible defined contribution plan\u201d means,\n                  with respect to any eligible small employer, any defined contribution plan (as defined\n                  in section414(i)) of such employer if, under the terms of such plan\u2014I.R.C. \u00a7 45AA(e)(1)\u2014military spouses employed by such employer are eligible to participate in such plan\n                     not later than the date which is 2 months after the date on which such individual\n                     begins employment with such employer, andI.R.C. \u00a7 45AA(e)(2)\u2014military spouses who are eligible to participate in such plan\u2014I.R.C. \u00a7 45AA(e)(2)(A)\u2014are immediately eligible to receive an amount of employer contributions under such\n                        plan which is not less the amount of such contributions that a similarly situated\n                        participant who is not a military spouse would be eligible to receive under such plan\n                        after 2 years of service, andI.R.C. \u00a7 45AA(e)(2)(B)\u2014immediately have a nonforfeitable right to the employee's accrued benefit derived\n                        from employer contributions under such plan.",
+    "definitions": null
+  },
+  {
+    "section": "45AA",
+    "subsection": "(f)",
+    "source_subsections": [
+      "(f)"
+    ],
+    "rule_type": "condition",
+    "title": "Rule.",
+    "text": "All persons treated as a single employer under subsection(b),(c),(m), or414(o)of section414shall be treated as one employer for purposes of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "All persons treated as a single employer under subsection(b),(c),(m), or414(o)of section414shall be treated as one employer for purposes of this section."
+    },
+    "cross_references": [
+      {
+        "section": "414s",
+        "reason": "ection(b),(c),(m), or414(o)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45AA(f)Aggregation Rule.\u2014\u2014All persons treated as a single employer under subsection(b),(c),(m), or414(o)of section414shall be treated as one employer for purposes of this section.",
+    "definitions": null
+  }
+]

@@ -1,0 +1,1355 @@
+[
+  {
+    "section": "45M",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "For purposes of section38, the energy efficient appliance credit determined under this section for any taxable year is an amount equal to the sum of the credit amounts determined under paragraph (2) for each type of qualified energy efficient appliance produced by the taxpayer during the calendar year ending with or within the taxable year.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of section38, the energy efficient appliance credit determined under this section for any taxable year is an amount equal to the sum of the credit amounts determined under paragraph (2) for each type of qualified energy efficient appliance produced by the taxpayer during the calendar year ending with or within the taxable year."
+    },
+    "cross_references": [
+      {
+        "section": "38",
+        "reason": "For purposes of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(a)(1)In General\u2014For  purposes of section38, the energy efficient appliance  credit determined  under this section for any taxable\n                     year is an amount equal to  the sum of  the credit amounts determined under paragraph\n                     (2) for each type of  qualified energy efficient appliance produced by the taxpayer\n                     during the   calendar year ending with or within the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "45M",
+    "subsection": "(a)(2)",
+    "source_subsections": [
+      "(a)(2)",
+      "(a)(2)(A)",
+      "(a)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Amounts",
+    "text": "The credit amount determined for any type of qualified energy efficient appliance is\u2014the applicable amount determined under subsection(b)with respect to such type, multiplied by\u2014the eligible production for such type.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The credit amount determined for any type of qualified energy efficient appliance is\u2014the applicable amount determined under subsection(b)with respect to such type, multiplied by\u2014the eligible production for such type."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(a)(2)Credit Amounts\u2014The  credit amount determined for any type of qualified\n                     energy efficient  appliance isI.R.C. \u00a7 45M(a)(2)(A)\u2014the  applicable amount determined under subsection(b)with respect to such   type, multiplied byI.R.C. \u00a7 45M(a)(2)(B)\u2014the  eligible production for such type.",
+    "definitions": null
+  },
+  {
+    "section": "45M",
+    "subsection": "(b)(1)(A)",
+    "source_subsections": [
+      "(b)(1)(A)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$45 in the case of a dishwasher which is manufactured in calendar year 2008 or 2009 and which uses no more than 324 kilowatt hours per year and 5.8 gallons per cycle,",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 45,
+        "text": "$45"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$45 in the case of a dishwasher which is manufactured in calendar year 2008 or 2009 and which uses no more than 324 kilowatt hours per year and 5.8 gallons per cycle,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(b)(1)(A)\u2014$45 in the case of a dishwasher which is manufactured in calendar year 2008 or 2009\n                        and which uses no more than 324 kilowatt hours per year and 5.8 gallons per cycle,",
+    "definitions": null
+  },
+  {
+    "section": "45M",
+    "subsection": "(b)(1)(B)",
+    "source_subsections": [
+      "(b)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$75 in the case of a dishwasher which is manufactured in calendar year 2008, 2009, or 2010 and which uses no more than 307 kilowatt hours per year and 5.0 gallons per cycle (5.5 gallons per cycle for dishwashers designed for greater than 12 place settings),",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 75,
+        "text": "$75"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$75 in the case of a dishwasher which is manufactured in calendar year 2008, 2009, or 2010 and which uses no more than 307 kilowatt hours per year and 5.0 gallons per cycle (5.5 gallons per cycle for dishwashers designed for greater than 12 place settings),"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(b)(1)(B)\u2014$75 in the case of a dishwasher which is manufactured in calendar year 2008, 2009,\n                        or 2010 and which uses no more than 307 kilowatt hours per year and 5.0 gallons per\n                        cycle\n                        (5.5 gallons per cycle for dishwashers designed for greater than 12 place settings),",
+    "definitions": null
+  },
+  {
+    "section": "45M",
+    "subsection": "(b)(1)(C)",
+    "source_subsections": [
+      "(b)(1)(C)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$25 in the case of a dishwasher which is manufactured in calendar year 2011 and which uses no more than 307 kilowatt hours per year and 5.0 gallons per cycle (5.5 gallons per cycle for dishwashers designed for greater than 12 place settings),",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 25,
+        "text": "$25"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$25 in the case of a dishwasher which is manufactured in calendar year 2011 and which uses no more than 307 kilowatt hours per year and 5.0 gallons per cycle (5.5 gallons per cycle for dishwashers designed for greater than 12 place settings),"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(b)(1)(C)\u2014$25 in the case of a dishwasher which is manufactured in calendar year 2011 and which\n                        uses no more than 307 kilowatt hours per year and 5.0 gallons per cycle (5.5 gallons\n                        per cycle for dishwashers designed for greater than 12 place settings),",
+    "definitions": null
+  },
+  {
+    "section": "45M",
+    "subsection": "(b)(1)(D)",
+    "source_subsections": [
+      "(b)(1)(D)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$50 in the case of a dishwasher which is manufactured in calendar year 2011, 2012, or 2013 and which uses no more than 295 kilowatt hours per year and 4.25 gallons per cycle (4.75 gallons per cycle for dishwashers designed for greater than 12 place settings), and",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 50,
+        "text": "$50"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$50 in the case of a dishwasher which is manufactured in calendar year 2011, 2012, or 2013 and which uses no more than 295 kilowatt hours per year and 4.25 gallons per cycle (4.75 gallons per cycle for dishwashers designed for greater than 12 place settings), and"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(b)(1)(D)\u2014$50 in the case of a dishwasher which is manufactured in calendar year 2011, 2012,\n                        or 2013 and which uses no more than 295 kilowatt hours per year and 4.25 gallons per\n                        cycle\n                        (4.75 gallons per cycle for dishwashers designed for greater than 12 place settings),\n                        and",
+    "definitions": null
+  },
+  {
+    "section": "45M",
+    "subsection": "(b)(1)(E)",
+    "source_subsections": [
+      "(b)(1)(E)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$75 in the case of a dishwasher which is manufactured in calendar year 2011, 2012, or 2013 and which uses no more than 280 kilowatt hours per year and 4 gallons per cycle (4.5 gallons per cycle for dishwashers designed for greater than 12 place settings).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 75,
+        "text": "$75"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$75 in the case of a dishwasher which is manufactured in calendar year 2011, 2012, or 2013 and which uses no more than 280 kilowatt hours per year and 4 gallons per cycle (4.5 gallons per cycle for dishwashers designed for greater than 12 place settings)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(b)(1)(E)\u2014$75 in the case of a dishwasher which is manufactured in calendar year 2011, 2012,\n                        or 2013 and which uses no more than 280 kilowatt hours per year and 4 gallons per\n                        cycle (4.5 gallons per cycle for dishwashers designed for greater than 12 place settings).",
+    "definitions": null
+  },
+  {
+    "section": "45M",
+    "subsection": "(b)(2)(A)",
+    "source_subsections": [
+      "(b)(2)(A)"
+    ],
+    "rule_type": "limitation",
+    "title": null,
+    "text": "$75 in the case of a residential top-loading clothes washer manufactured in calendar year 2008 which meets or exceeds a 1.72 modified energy factor and does not exceed a 8.0 water consumption factor,",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 75,
+        "text": "$75"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$75 in the case of a residential top-loading clothes washer manufactured in calendar year 2008 which meets or exceeds a 1.72 modified energy factor and does not exceed a 8.0 water consumption factor,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(b)(2)(A)\u2014$75 in the case of a residential top-loading clothes washer manufactured in calendar\n                        year 2008 which meets or exceeds a 1.72 modified energy factor and does not exceed\n                        a 8.0 water consumption factor,",
+    "definitions": null
+  },
+  {
+    "section": "45M",
+    "subsection": "(b)(2)(B)",
+    "source_subsections": [
+      "(b)(2)(B)"
+    ],
+    "rule_type": "limitation",
+    "title": null,
+    "text": "$125 in the case of a residential top-loading clothes washer manufactured in calendar year 2008 or 2009 which meets or exceeds a 1.8 modified energy factor and does not exceed a 7.5 water consumption factor,",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 125,
+        "text": "$125"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$125 in the case of a residential top-loading clothes washer manufactured in calendar year 2008 or 2009 which meets or exceeds a 1.8 modified energy factor and does not exceed a 7.5 water consumption factor,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(b)(2)(B)\u2014$125 in the case of a residential top-loading clothes washer manufactured in calendar\n                        year 2008 or 2009 which meets or exceeds a 1.8 modified energy factor and does not\n                        exceed a 7.5 water consumption factor,",
+    "definitions": null
+  },
+  {
+    "section": "45M",
+    "subsection": "(b)(2)(C)",
+    "source_subsections": [
+      "(b)(2)(C)"
+    ],
+    "rule_type": "limitation",
+    "title": null,
+    "text": "$150 in the case of a residential or commercial clothes washer manufactured in calendar year 2008, 2009, or 2010 which meets or exceeds 2.0 modified energy factor and does not exceed a 6.0 water consumption factor,",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 150,
+        "text": "$150"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$150 in the case of a residential or commercial clothes washer manufactured in calendar year 2008, 2009, or 2010 which meets or exceeds 2.0 modified energy factor and does not exceed a 6.0 water consumption factor,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(b)(2)(C)\u2014$150 in the case of a residential or commercial clothes washer manufactured in calendar\n                        year 2008, 2009, or 2010 which meets or exceeds 2.0 modified energy factor and does\n                        not exceed a 6.0 water consumption factor,",
+    "definitions": null
+  },
+  {
+    "section": "45M",
+    "subsection": "(b)(2)(D)",
+    "source_subsections": [
+      "(b)(2)(D)"
+    ],
+    "rule_type": "limitation",
+    "title": null,
+    "text": "$250 in the case of a residential or commercial clothes washer manufactured in calendar year 2008, 2009, or 2010 which meets or exceeds 2.2 modified energy factor and does not exceed a 4.5 water consumption factor,",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 250,
+        "text": "$250"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$250 in the case of a residential or commercial clothes washer manufactured in calendar year 2008, 2009, or 2010 which meets or exceeds 2.2 modified energy factor and does not exceed a 4.5 water consumption factor,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(b)(2)(D)\u2014$250 in the case of a residential or commercial clothes washer manufactured in calendar\n                        year 2008, 2009, or 2010 which meets or exceeds 2.2 modified energy factor and does\n                        not exceed a 4.5 water consumption factor,",
+    "definitions": null
+  },
+  {
+    "section": "45M",
+    "subsection": "(b)(2)(E)",
+    "source_subsections": [
+      "(b)(2)(E)"
+    ],
+    "rule_type": "limitation",
+    "title": null,
+    "text": "$175 in the case of a top-loading clothes washer manufactured in calendar year 2011 which meets or exceeds a 2.2 modified energy factor and does not exceed a 4.5 water consumption factor, and",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 175,
+        "text": "$175"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$175 in the case of a top-loading clothes washer manufactured in calendar year 2011 which meets or exceeds a 2.2 modified energy factor and does not exceed a 4.5 water consumption factor, and"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(b)(2)(E)\u2014$175 in the case of a top-loading clothes washer manufactured in calendar year 2011\n                        which meets or exceeds a 2.2 modified energy factor and does not exceed a 4.5 water\n                        consumption factor, and",
+    "definitions": null
+  },
+  {
+    "section": "45M",
+    "subsection": "(b)(2)(F)",
+    "source_subsections": [
+      "(b)(2)(F)",
+      "(b)(2)(F)(i)",
+      "(b)(2)(F)(ii)"
+    ],
+    "rule_type": "limitation",
+    "title": null,
+    "text": "$225 in the case of a clothes washer manufactured in calendar year 2011, 2012, or 2013\u2014\u2014which is a top-loading clothes washer and which meets or exceeds a 2.4 modified energy factor and does not exceed a 4.2 water consumption factor, or\u2014which is a front-loading clothes washer and which meets or exceeds a 2.8 modified energy factor and does not exceed a 3.5 water consumption factor.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 225,
+        "text": "$225"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$225 in the case of a clothes washer manufactured in calendar year 2011, 2012, or 2013\u2014\u2014which is a top-loading clothes washer and which meets or exceeds a 2.4 modified energy factor and does not exceed a 4.2 water consumption factor, or\u2014which is a front-loading clothes washer and which meets or exceeds a 2.8 modified energy factor and does not exceed a 3.5 water consumption factor."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(b)(2)(F)\u2014$225 in the case of a clothes washer manufactured in calendar year 2011, 2012, or\n                        2013\u2014I.R.C. \u00a7 45M(b)(2)(F)(i)\u2014which is a top-loading clothes washer and which meets or exceeds a 2.4 modified energy\n                           factor and does not exceed a 4.2 water consumption factor, orI.R.C. \u00a7 45M(b)(2)(F)(ii)\u2014which is a front-loading clothes washer and which meets or exceeds a 2.8 modified\n                           energy factor and does not exceed a 3.5 water consumption factor.",
+    "definitions": null
+  },
+  {
+    "section": "45M",
+    "subsection": "(b)(3)(A)",
+    "source_subsections": [
+      "(b)(3)(A)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "$50 in the case of a refrigerator which is manufactured in calendar year 2008, and consumes at least 20 percent but not more than 22.9 percent less kilowatt hours per year than the 2001 energy conservation standards,",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 50,
+        "text": "$50"
+      }
+    ],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.2,
+        "text": "20 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.22899999999999998,
+        "text": "22.9 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$50 in the case of a refrigerator which is manufactured in calendar year 2008, and consumes at least 20 percent but not more than 22.9 percent less kilowatt hours per year than the 2001 energy conservation standards,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(b)(3)(A)\u2014$50 in the case of a refrigerator which is manufactured in calendar year 2008, and\n                        consumes at least 20 percent but not more than 22.9 percent less kilowatt hours per\n                        year than the 2001 energy conservation standards,",
+    "definitions": null
+  },
+  {
+    "section": "45M",
+    "subsection": "(b)(3)(B)",
+    "source_subsections": [
+      "(b)(3)(B)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "$75 in the case of a refrigerator which is manufactured in calendar year 2008 or 2009, and consumes at least 23 percent but no more than 24.9 percent less kilowatt hours per year than the 2001 energy conservation standards,",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 75,
+        "text": "$75"
+      }
+    ],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.23,
+        "text": "23 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.249,
+        "text": "24.9 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$75 in the case of a refrigerator which is manufactured in calendar year 2008 or 2009, and consumes at least 23 percent but no more than 24.9 percent less kilowatt hours per year than the 2001 energy conservation standards,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(b)(3)(B)\u2014$75 in the case of a refrigerator which is manufactured in calendar year 2008 or 2009,\n                        and consumes at least 23 percent but no more than 24.9 percent less kilowatt hours\n                        per year than the 2001 energy conservation standards,",
+    "definitions": null
+  },
+  {
+    "section": "45M",
+    "subsection": "(b)(3)(C)",
+    "source_subsections": [
+      "(b)(3)(C)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "$100 in the case of a refrigerator which is manufactured in calendar year 2008, 2009, or 2010, and consumes at least 25 percent but not more than 29.9 percent less kilowatt hours per year than the 2001 energy conservation standards,",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 100,
+        "text": "$100"
+      }
+    ],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.25,
+        "text": "25 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.299,
+        "text": "29.9 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$100 in the case of a refrigerator which is manufactured in calendar year 2008, 2009, or 2010, and consumes at least 25 percent but not more than 29.9 percent less kilowatt hours per year than the 2001 energy conservation standards,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(b)(3)(C)\u2014$100 in the case of a refrigerator which is manufactured in calendar year 2008, 2009,\n                        or 2010, and consumes at least 25 percent but not more than 29.9 percent less kilowatt\n                        hours per year than the 2001 energy conservation standards,",
+    "definitions": null
+  },
+  {
+    "section": "45M",
+    "subsection": "(b)(3)(D)",
+    "source_subsections": [
+      "(b)(3)(D)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "$200 in the case of a refrigerator manufactured in calendar year 2008, 2009, or 2010 and which consumes at least 30 percent less energy than the 2001 energy conservation standards,",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 200,
+        "text": "$200"
+      }
+    ],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.3,
+        "text": "30 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$200 in the case of a refrigerator manufactured in calendar year 2008, 2009, or 2010 and which consumes at least 30 percent less energy than the 2001 energy conservation standards,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(b)(3)(D)\u2014$200 in the case of a refrigerator manufactured in calendar year 2008, 2009, or 2010\n                        and which consumes at least 30 percent less energy than the 2001 energy conservation\n                        standards,",
+    "definitions": null
+  },
+  {
+    "section": "45M",
+    "subsection": "(b)(3)(E)",
+    "source_subsections": [
+      "(b)(3)(E)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "$150 in the case of a refrigerator manufactured in calendar year 2011, 2012, or 2013 which consumes at least 30 percent less energy than the 2001 energy conservation standards, and",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 150,
+        "text": "$150"
+      }
+    ],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.3,
+        "text": "30 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$150 in the case of a refrigerator manufactured in calendar year 2011, 2012, or 2013 which consumes at least 30 percent less energy than the 2001 energy conservation standards, and"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(b)(3)(E)\u2014$150 in the case of a refrigerator manufactured in calendar year 2011, 2012, or 2013\n                        which consumes at least 30 percent less energy than the 2001 energy conservation standards,\n                        and",
+    "definitions": null
+  },
+  {
+    "section": "45M",
+    "subsection": "(b)(3)(F)",
+    "source_subsections": [
+      "(b)(3)(F)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "$200 in the case of a refrigerator manufactured in calendar year 2011, 2012, or 2013 which consumes at least 35 percent less energy than the 2001 energy conservation standards.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 200,
+        "text": "$200"
+      }
+    ],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.35,
+        "text": "35 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$200 in the case of a refrigerator manufactured in calendar year 2011, 2012, or 2013 which consumes at least 35 percent less energy than the 2001 energy conservation standards."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(b)(3)(F)\u2014$200 in the case of a refrigerator manufactured in calendar year 2011, 2012, or 2013\n                        which consumes at least 35 percent less energy than the 2001 energy conservation standards.",
+    "definitions": null
+  },
+  {
+    "section": "45M",
+    "subsection": "(c)",
+    "source_subsections": [
+      "(c)",
+      "(c)(1)",
+      "(c)(2)"
+    ],
+    "rule_type": "computation",
+    "title": "Production",
+    "text": "The eligible production in a calendar year with respect to each type of energy efficient appliance is the excess of\u2014\u2014the number of appliances of such type which are produced by the taxpayer in the United States during such calendar year, over\u2014the average number of appliances of such type which were produced by the taxpayer (or any predecessor) in the United States during the preceding 2-calendar year period.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "subtraction",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The eligible production in a calendar year with respect to each type of energy efficient appliance is the excess of\u2014\u2014the number of appliances of such type which are produced by the taxpayer in the United States during such calendar year, over\u2014the average number of appliances of such type which were produced by the taxpayer (or any predecessor) in the United States during the preceding 2-calendar year period."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(c)Eligible Production\u2014The eligible  production in a calendar year  with respect to each type of energy efficient\n                  appliance is the excess  of\u2014I.R.C. \u00a7 45M(c)(1)\u2014the  number of appliances of such type which are produced by the taxpayer in   the\n                     United States during such calendar year, overI.R.C. \u00a7 45M(c)(2)\u2014the  average number of  appliances of such type which were produced by the  taxpayer\n                     (or any predecessor)\n                     in the United States during the preceding 2-calendar year period.",
+    "definitions": null
+  },
+  {
+    "section": "45M",
+    "subsection": "(d)",
+    "source_subsections": [
+      "(d)",
+      "(d)(1)",
+      "(d)(2)",
+      "(d)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Energy Efficient Appliance",
+    "text": "For purposes of this section, the types of energy efficient appliances are\u2014\u2014dishwashers described in subsection(b)(1),\u2014clothes washers described in subsection(b)(2)\u2014refrigerators described in subsection(b)(3).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the types of energy efficient appliances are\u2014\u2014dishwashers described in subsection(b)(1),\u2014clothes washers described in subsection(b)(2)\u2014refrigerators described in subsection(b)(3)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(d)Types Of Energy Efficient Appliance\u2014For purposes of this section, the types of energy efficient appliances are\u2014I.R.C. \u00a7 45M(d)(1)\u2014dishwashers described in subsection(b)(1),I.R.C. \u00a7 45M(d)(2)\u2014clothes washers described in subsection(b)(2)I.R.C. \u00a7 45M(d)(3)\u2014refrigerators described in subsection(b)(3).",
+    "definitions": null
+  },
+  {
+    "section": "45M",
+    "subsection": "(e)(1)",
+    "source_subsections": [
+      "(e)(1)"
+    ],
+    "rule_type": "limitation",
+    "title": "Credit Amount Allowed",
+    "text": "The aggregate amount of credit allowed under subsection(a)with respect to a taxpayer for any taxable year shall not exceed $25,000,000 reduced by the amount of the credit allowed under subsection(a)to the taxpayer (or any predecessor) for all prior taxable years beginning after December 31, 2010.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 25000000,
+        "text": "$25,000,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The aggregate amount of credit allowed under subsection(a)with respect to a taxpayer for any taxable year shall not exceed $25,000,000 reduced by the amount of the credit allowed under subsection(a)to the taxpayer (or any predecessor) for all prior taxable years beginning after December 31, 2010."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(e)(1)Aggregate Credit Amount Allowed\u2014The  aggregate amount of credit allowed  under subsection(a)with respect to a  taxpayer for any taxable year shall not  exceed $25,000,000 reduced\n                     by the\n                     amount of the credit allowed under subsection(a)to the taxpayer (or any\n                     predecessor) for all prior taxable years beginning after December 31, 2010.",
+    "definitions": null
+  },
+  {
+    "section": "45M",
+    "subsection": "(e)(2)",
+    "source_subsections": [
+      "(e)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Allowed For Certain Refrigerators And Clothes Washers",
+    "text": "Refrigerators described in subsection(b)(3)(F)and clothes washers described in subsection(b)(2)(F)shall not be taken into account under paragraph(1).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Refrigerators described in subsection(b)(3)(F)and clothes washers described in subsection(b)(2)(F)shall not be taken into account under paragraph(1)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(e)(2)Amount Allowed For Certain Refrigerators And Clothes Washers\u2014Refrigerators described in subsection(b)(3)(F)and clothes washers described in subsection(b)(2)(F)shall not be taken into account under paragraph(1).",
+    "definitions": null
+  },
+  {
+    "section": "45M",
+    "subsection": "(e)(3)",
+    "source_subsections": [
+      "(e)(3)"
+    ],
+    "rule_type": "limitation",
+    "title": "Based On Gross Receipts",
+    "text": "The credit allowed under subsection(a)with respect to a taxpayer for the taxable year shall not exceed an amount equal to 4 percent of the average annual gross receipts of the taxpayer for the 3 taxable years preceding the taxable year in which the credit is determined.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.04,
+        "text": "4 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The credit allowed under subsection(a)with respect to a taxpayer for the taxable year shall not exceed an amount equal to 4 percent of the average annual gross receipts of the taxpayer for the 3 taxable years preceding the taxable year in which the credit is determined."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(e)(3)Limitation Based On Gross Receipts\u2014The  credit allowed under subsection(a)with respect to a taxpayer for the  taxable year shall not exceed an amount  equal\n                     to 4 percent of the average  annual gross receipts of the taxpayer for the  3 taxable\n                     years preceding  the taxable year in which the credit is determined.",
+    "definitions": null
+  },
+  {
+    "section": "45M",
+    "subsection": "(e)(4)",
+    "source_subsections": [
+      "(e)(4)"
+    ],
+    "rule_type": "condition",
+    "title": "Receipts",
+    "text": "For purposes of this subsection, the rules of paragraphs(2)and(3)of section448(c)shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection, the rules of paragraphs(2)and(3)of section448(c)shall apply."
+    },
+    "cross_references": [
+      {
+        "section": "448(c)",
+        "reason": "ules of paragraphs(2)and(3)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(e)(4)Gross Receipts\u2014For  purposes of this subsection, the rules of paragraphs(2)and(3)of  section448(c)shall apply.",
+    "definitions": null
+  },
+  {
+    "section": "45M",
+    "subsection": "(f)(1)",
+    "source_subsections": [
+      "(f)(1)",
+      "(f)(1)(A)",
+      "(f)(1)(B)",
+      "(f)(1)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "Energy Efficient Appliance",
+    "text": "The term \u201cqualified energy efficient appliance\u201d means\u2014\u2014any dishwasher described in subsection(b)(1)(A),\u2014any clothes washer described in subsection(b)(1)(B), and\u2014any refrigerator described in subsection(b)(1)(C).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified energy efficient appliance\u201d means\u2014\u2014any dishwasher described in subsection(b)(1)(A),\u2014any clothes washer described in subsection(b)(1)(B), and\u2014any refrigerator described in subsection(b)(1)(C)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(f)(1)Qualified Energy Efficient Appliance\u2014The  term \u201cqualified energy  efficient appliance\u201d\n                     means\u2014I.R.C. \u00a7 45M(f)(1)(A)\u2014any  dishwasher described in subsection(b)(1)(A),I.R.C. \u00a7 45M(f)(1)(B)\u2014any  clothes washer described in subsection(b)(1)(B), andI.R.C. \u00a7 45M(f)(1)(C)\u2014any   refrigerator described in subsection(b)(1)(C).",
+    "definitions": null
+  },
+  {
+    "section": "45M",
+    "subsection": "(f)(10)",
+    "source_subsections": [
+      "(f)(10)"
+    ],
+    "rule_type": "definition",
+    "title": "Consumption Factor",
+    "text": "The term \u201cwater consumption factor\u201d means, with respect to a clothes washer, the quotient of the total weighted per-cycle water consumption divided by the cubic foot (or liter) capacity of the clothes washer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cwater consumption factor\u201d means, with respect to a clothes washer, the quotient of the total weighted per-cycle water consumption divided by the cubic foot (or liter) capacity of the clothes washer."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(f)(10)Water Consumption Factor\u2014The term \u201cwater consumption factor\u201d means, with respect to a clothes washer, the quotient\n                     of the total weighted per-cycle water consumption divided by the cubic foot (or liter)\n                     capacity of the clothes washer.",
+    "definitions": null
+  },
+  {
+    "section": "45M",
+    "subsection": "(f)(2)",
+    "source_subsections": [
+      "(f)(2)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "The term \u201cdishwasher\u201d means a residential dishwasher subject to the energy conservation standards established by the Department of Energy.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cdishwasher\u201d means a residential dishwasher subject to the energy conservation standards established by the Department of Energy."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(f)(2)Dishwasher\u2014The  term \u201cdishwasher\u201d means a residential dishwasher subject  to the energy  conservation\n                     standards established by the Department of Energy.",
+    "definitions": {
+      "term": "dishwasher",
+      "requirements": [
+        "a residential dishwasher subject to the energy conservation standards established by the Department of Energy."
+      ]
+    }
+  },
+  {
+    "section": "45M",
+    "subsection": "(f)(3)",
+    "source_subsections": [
+      "(f)(3)"
+    ],
+    "rule_type": "definition",
+    "title": "Washer",
+    "text": "The term \u201cclothes washer\u201d means a residential model clothes washer, including a commercial residential style coin operated washer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cclothes washer\u201d means a residential model clothes washer, including a commercial residential style coin operated washer."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(f)(3)Clothes Washer\u2014The  term \u201cclothes washer\u201d means a residential model  clothes washer, including  a\n                     commercial residential style coin operated washer.",
+    "definitions": {
+      "term": "clothes washer",
+      "requirements": [
+        "a residential model clothes washer, including a commercial residential style coin operated washer."
+      ]
+    }
+  },
+  {
+    "section": "45M",
+    "subsection": "(f)(4)",
+    "source_subsections": [
+      "(f)(4)"
+    ],
+    "rule_type": "definition",
+    "title": "Clothes Washer",
+    "text": "The term \u201ctop-loading clothes washer\u201d means a clothes washer which has the clothes container compartment access located on the top of the machine and which operates on a vertical axis.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201ctop-loading clothes washer\u201d means a clothes washer which has the clothes container compartment access located on the top of the machine and which operates on a vertical axis."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(f)(4)Top-Loading Clothes Washer\u2014The  term \u201ctop-loading clothes washer\u201d means a clothes washer which has the clothes\n                     container compartment access located on the top of the machine and which operates\n                     on a vertical axis.",
+    "definitions": {
+      "term": "top-loading clothes washer",
+      "requirements": [
+        "a clothes washer which has the clothes container compartment access located on the top of the machine and which operates on a vertical axis."
+      ]
+    }
+  },
+  {
+    "section": "45M",
+    "subsection": "(f)(5)",
+    "source_subsections": [
+      "(f)(5)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "The term \u201crefrigerator\u201d means a residential model automatic defrost refrigerator-freezer which has an internal volume of at least 16.5 cubic feet.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201crefrigerator\u201d means a residential model automatic defrost refrigerator-freezer which has an internal volume of at least 16.5 cubic feet."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(f)(5)Refrigerator\u2014The  term \u201crefrigerator\u201d means a residential model  automatic defrost  refrigerator-freezer\n                     which has an internal volume of at least  16.5 cubic  feet.",
+    "definitions": {
+      "term": "refrigerator",
+      "requirements": [
+        "a residential model automatic defrost refrigerator-freezer which has an internal volume of at least 16.5 cubic feet."
+      ]
+    }
+  },
+  {
+    "section": "45M",
+    "subsection": "(f)(6)",
+    "source_subsections": [
+      "(f)(6)"
+    ],
+    "rule_type": "definition",
+    "title": "Energy Factor",
+    "text": "The term \u201cmodified energy factor\u201d means the modified energy factor established by the Department of Energy for compliance with the Federal energy conservation standard.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cmodified energy factor\u201d means the modified energy factor established by the Department of Energy for compliance with the Federal energy conservation standard."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(f)(6)Modified Energy Factor\u2014The term \u201cmodified energy factor\u201d means the modified energy factor established by\n                     the Department of Energy for compliance with the Federal energy conservation standard.",
+    "definitions": {
+      "term": "modified energy factor",
+      "requirements": [
+        "the modified energy factor established by the Department of Energy for compliance with the Federal energy conservation standard."
+      ]
+    }
+  },
+  {
+    "section": "45M",
+    "subsection": "(f)(7)",
+    "source_subsections": [
+      "(f)(7)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "The term \u201cproduced\u201d includes manufactured.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cproduced\u201d includes manufactured."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(f)(7)Produced\u2014The  term \u201cproduced\u201d includes manufactured.",
+    "definitions": null
+  },
+  {
+    "section": "45M",
+    "subsection": "(f)(8)",
+    "source_subsections": [
+      "(f)(8)"
+    ],
+    "rule_type": "definition",
+    "title": "Energy Conservation Standard",
+    "text": "The term \u201c2001 energy conservation standard\u201d means the energy conservation standards promulgated by the Department of Energy and effective July 1, 2001.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201c2001 energy conservation standard\u201d means the energy conservation standards promulgated by the Department of Energy and effective July 1, 2001."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(f)(8)2001 Energy Conservation Standard\u2014The  term \u201c2001 energy conservation  standard\u201d\n                     means the energy conservation  standards promulgated by the Department\n                     of Energy and effective July 1,  2001.",
+    "definitions": {
+      "term": "2001 energy conservation standard",
+      "requirements": [
+        "the energy conservation standards promulgated by the Department of Energy and effective July 1, 2001."
+      ]
+    }
+  },
+  {
+    "section": "45M",
+    "subsection": "(f)(9)",
+    "source_subsections": [
+      "(f)(9)"
+    ],
+    "rule_type": "definition",
+    "title": "Per Cycle",
+    "text": "The term \u201cgallons per cycle\u201d means, with respect to a dishwasher, the amount of water, expressed in gallons, required to complete a normal cycle of a dishwasher.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cgallons per cycle\u201d means, with respect to a dishwasher, the amount of water, expressed in gallons, required to complete a normal cycle of a dishwasher."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(f)(9)Gallons Per Cycle\u2014The term \u201cgallons per cycle\u201d means, with respect to a dishwasher, the amount of water,\n                     expressed in gallons, required to complete a normal cycle of a dishwasher.",
+    "definitions": null
+  },
+  {
+    "section": "45M",
+    "subsection": "(g)(1)",
+    "source_subsections": [
+      "(g)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Rules similar to the rules of subsections(c),(d), and(e)of section52shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules of subsections(c),(d), and(e)of section52shall apply."
+    },
+    "cross_references": [
+      {
+        "section": "52s",
+        "reason": "subsections(c),(d), and(e)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(g)(1)In General\u2014Rules  similar to the rules of subsections(c),(d), and(e)of section52shall  apply.",
+    "definitions": null
+  },
+  {
+    "section": "45M",
+    "subsection": "(g)(2)(A)",
+    "source_subsections": [
+      "(g)(2)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "All persons treated as a single employer under subsection(a)or(b)of section52or subsection(m)or(o)of section414shall be treated as a single producer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "All persons treated as a single employer under subsection(a)or(b)of section52or subsection(m)or(o)of section414shall be treated as a single producer."
+    },
+    "cross_references": [
+      {
+        "section": "52o",
+        "reason": "er under subsection(a)or(b)of..."
+      },
+      {
+        "section": "414s",
+        "reason": "r subsection(m)or(o)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(g)(2)(A)In General\u2014All  persons treated as a single employer under subsection(a)or(b)of  section52or subsection(m)or(o)of section414shall be  treated as a  single producer.",
+    "definitions": null
+  },
+  {
+    "section": "45M",
+    "subsection": "(g)(2)(B)",
+    "source_subsections": [
+      "(g)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Foreign Corporations",
+    "text": "For purposes of subparagraph(A), in applying subsections(a)and(b)of section52to this section, section1563shall be applied without regard to subsection(b)(2)(C)thereof.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph(A), in applying subsections(a)and(b)of section52to this section, section1563shall be applied without regard to subsection(b)(2)(C)thereof."
+    },
+    "cross_references": [
+      {
+        "section": "52t",
+        "reason": "plying subsections(a)and(b)of..."
+      },
+      {
+        "section": "1563s",
+        "reason": "o this section,..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(g)(2)(B)Inclusion Of Foreign Corporations\u2014For   purposes of subparagraph(A), in applying subsections(a)and(b)of  section52to this section, section1563shall be applied without regard  to subsection(b)(2)(C)thereof.",
+    "definitions": null
+  },
+  {
+    "section": "45M",
+    "subsection": "(g)(3)",
+    "source_subsections": [
+      "(g)(3)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "No amount shall be allowed as a credit under subsection(a)with respect to which the taxpayer has not submitted such information or certification as the Secretary, in consultation with the Secretary of Energy, determines necessary.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No amount shall be allowed as a credit under subsection(a)with respect to which the taxpayer has not submitted such information or certification as the Secretary, in consultation with the Secretary of Energy, determines necessary."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45M(g)(3)Verification\u2014No  amount shall be allowed as a credit  under subsection(a)with respect to  which the taxpayer has not submitted such  information or certification\n                     as \n                     the Secretary, in consultation with the  Secretary of Energy, determines\n                     necessary.",
+    "definitions": null
+  }
+]

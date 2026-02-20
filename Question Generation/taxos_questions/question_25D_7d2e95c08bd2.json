@@ -1,0 +1,22 @@
+{
+  "id": "7d2e95c08bd2",
+  "section": "25D",
+  "citation": "I.R.C. \u00a7 25D(e)(4)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 25D(e)(4) is discussed as follows: 'I.R.C. \u00a7 25D(e)(4)Fuel Cell Expenditure Limitations In Case Of Joint Occupancy\u2014In the case of any dw...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 25D(e)(4)?",
+  "difficulty": 1,
+  "choices": [
+    "$1,500.30",
+    "$3,334.00",
+    "$833.50",
+    "$1,833.70",
+    "$1,667.00"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies $1,667.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 25D(e)(4)"
+  ]
+}

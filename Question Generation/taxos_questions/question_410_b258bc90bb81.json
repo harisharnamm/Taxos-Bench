@@ -1,0 +1,22 @@
+{
+  "id": "b258bc90bb81",
+  "section": "410",
+  "citation": "I.R.C. \u00a7 410(b)(1)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 410(b)(1) is discussed as follows: 'I.R.C. \u00a7 410(b)(1)In General\u2014A  trust shall not constitute a qualified trust under section401(a)unle...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 410(b)(1)?",
+  "difficulty": 1,
+  "choices": [
+    "70.0%",
+    "60.0%",
+    "80.0%",
+    "30.0%",
+    "105.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 70.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 410(b)(1)"
+  ]
+}

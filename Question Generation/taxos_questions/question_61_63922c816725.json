@@ -1,0 +1,22 @@
+{
+  "id": "63922c816725",
+  "section": "61",
+  "citation": "I.R.C. \u00a7 61(a)",
+  "type": "Calculation - Gross Income",
+  "scenario": "Alice received the following amounts during the year: Interest on Bank Account: $3,459.47, Life Insurance Proceeds (Death): $5,197.14, Gift from Parents: $16,466.35, Wages: $33,552.53.",
+  "question": "Calculate Alice's gross income under I.R.C. \u00a7 61.",
+  "difficulty": 2,
+  "choices": [
+    "$37,012.00",
+    "$18,506.00",
+    "$0.00",
+    "$58,675.49",
+    "$21,663.49"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "Gross income includes all income from whatever source derived, unless excluded. Total: $37,012.00.",
+  "reasoning": "Summed included items, ignored excluded items.",
+  "source_rules": [
+    "I.R.C. \u00a7 61(a)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "c5a94c854e34",
+  "section": "279",
+  "citation": "I.R.C. \u00a7 279(d)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 279(d) is discussed as follows: 'I.R.C. \u00a7 279(d)Taxable Years To Which Applicable\u2014In  applying this section\u2014I.R.C. \u00a7 279(d)(1)First Y...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 279(d)?",
+  "difficulty": 1,
+  "choices": [
+    "95.0%",
+    "15.0%",
+    "7.5%",
+    "0.0%",
+    "5.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 5.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 279(d)"
+  ]
+}

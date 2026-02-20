@@ -1,0 +1,22 @@
+{
+  "id": "40fb8fc50aac",
+  "section": "36B",
+  "citation": "I.R.C. \u00a7 36B(c)(2)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 36B(c)(2) is discussed as follows: 'I.R.C. \u00a7 36B(c)(2)Coverage Month\u2014For purposes of this subsection\u2014I.R.C. \u00a7 36B(c)(2)(A)In General\u2014The...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 36B(c)(2)?",
+  "difficulty": 1,
+  "choices": [
+    "9.5%",
+    "90.5%",
+    "0.0%",
+    "14.2%",
+    "19.5%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 9.5%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 36B(c)(2)"
+  ]
+}

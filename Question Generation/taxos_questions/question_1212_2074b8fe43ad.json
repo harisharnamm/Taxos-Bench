@@ -1,0 +1,22 @@
+{
+  "id": "2074b8fe43ad",
+  "section": "1212",
+  "citation": "I.R.C. \u00a7 1212(c)(1)(B)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1212(c)(1)(B) is discussed as follows: 'I.R.C. \u00a7 1212(c)(1)(B)\u2014to  the extent that, after the application of paragraphs (2) and (3), such  l...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1212(c)(1)(B)?",
+  "difficulty": 1,
+  "choices": [
+    "50.0%",
+    "70.0%",
+    "60.0%",
+    "90.0%",
+    "40.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 60.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1212(c)(1)(B)"
+  ]
+}

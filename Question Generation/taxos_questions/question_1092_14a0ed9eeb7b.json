@@ -1,0 +1,22 @@
+{
+  "id": "14a0ed9eeb7b",
+  "section": "1092",
+  "citation": "I.R.C. \u00a7 1092(c)(4)(D)(ii)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 1092(c)(4)(D)(ii) is discussed as follows: 'I.R.C. \u00a7 1092(c)(4)(D)(ii)Special Rule Where Option Is For Period More Than 90 Days And Strike Price...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 1092(c)(4)(D)(ii)?",
+  "difficulty": 1,
+  "choices": [
+    "$45.00",
+    "$50.00",
+    "$25.00",
+    "$100.00",
+    "$55.00"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $50.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1092(c)(4)(D)(ii)"
+  ]
+}

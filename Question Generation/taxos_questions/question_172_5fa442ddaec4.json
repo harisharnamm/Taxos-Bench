@@ -1,0 +1,22 @@
+{
+  "id": "5fa442ddaec4",
+  "section": "172",
+  "citation": "I.R.C. \u00a7 172(a)(2)(B)(ii)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 172(a)(2)(B)(ii) is discussed as follows: 'I.R.C. \u00a7 172(a)(2)(B)(ii)\u201480 percent of the excess (if any) of\u2014I.R.C. \u00a7 172(a)(2)(B)(ii)(I)\u2014taxable ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 172(a)(2)(B)(ii)?",
+  "difficulty": 1,
+  "choices": [
+    "120.0%",
+    "80.0%",
+    "20.0%",
+    "90.0%",
+    "70.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 80.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 172(a)(2)(B)(ii)"
+  ]
+}

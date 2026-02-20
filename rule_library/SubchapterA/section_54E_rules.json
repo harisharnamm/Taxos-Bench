@@ -1,0 +1,487 @@
+[
+  {
+    "section": "54E",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "100 percent of the available project proceeds of such issue are to be used for a qualified purpose with respect to a qualified zone academy established by an eligible local education agency,",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 1.0,
+        "text": "100 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "100 percent of the available project proceeds of such issue are to be used for a qualified purpose with respect to a qualified zone academy established by an eligible local education agency,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54E(a)(1)\u2014100 percent of the available project proceeds of such issue are to be used for a qualified\n                     purpose with respect to a qualified zone academy established by an eligible local\n                     education agency,",
+    "definitions": null
+  },
+  {
+    "section": "54E",
+    "subsection": "(a)(2)",
+    "source_subsections": [
+      "(a)(2)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "the bond is issued by a State or local government within the jurisdiction of which such academy is located, and",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "the bond is issued by a State or local government within the jurisdiction of which such academy is located, and"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54E(a)(2)\u2014the bond is issued by a State or local government within the jurisdiction of which\n                     such academy is located, and",
+    "definitions": null
+  },
+  {
+    "section": "54E",
+    "subsection": "(a)(3)",
+    "source_subsections": [
+      "(a)(3)",
+      "(a)(3)(A)",
+      "(a)(3)(B)",
+      "(a)(3)(C)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "the issuer\u2014\u2014designates such bond for purposes of this section,\u2014certifies that it has written assurances that the private business contribution requirement of subsection(b)will be met with respect to such academy, and\u2014certifies that it has the written approval of the eligible local education agency for such bond issuance.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "the issuer\u2014\u2014designates such bond for purposes of this section,\u2014certifies that it has written assurances that the private business contribution requirement of subsection(b)will be met with respect to such academy, and\u2014certifies that it has the written approval of the eligible local education agency for such bond issuance."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54E(a)(3)\u2014the issuer\u2014I.R.C. \u00a7 54E(a)(3)(A)\u2014designates such bond for purposes of this section,I.R.C. \u00a7 54E(a)(3)(B)\u2014certifies that it has written assurances that the private business contribution requirement\n                        of subsection(b)will be met with respect to such academy, andI.R.C. \u00a7 54E(a)(3)(C)\u2014certifies that it has the written approval of the eligible local education agency\n                        for such bond issuance.",
+    "definitions": null
+  },
+  {
+    "section": "54E",
+    "subsection": "(b)",
+    "source_subsections": [
+      "(b)"
+    ],
+    "rule_type": "condition",
+    "title": "Business Contribution Requirement",
+    "text": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54E, effective for bonds issued after December 31, 2017.For purposes of subsection(a), the private business contribution requirement of this subsection is met with respect to any issue if the eligible local education agency that established the qualified zone academy has written commitments from private entities to make qualified contributions having a present value (as of the date of issuance of the issue) of not less than 10 percent of the proceeds of the issue.",
+    "conditions": [
+      "the eligible local education agency that established the qualified zone academy has written commitments from private entities to make qualified contributions having a present value (as of the date of issuance of the issue) of not less than 10 percent of the proceeds of the issue."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.1,
+        "text": "10 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the eligible local education agency that established the qualified zone academy has written commitments from private entities to make qualified contributions having a present value (as of the date of issuance of the issue) of not less than 10 percent of the proceeds of the issue."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54E, effective for bonds issued after December 31, 2017.For purposes of subsection(a), the private business contribution requirement of this subsection is met with respect to any issue"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54E(b)Private Business Contribution Requirement\u2014Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54E, effective for bonds issued after December 31, 2017.For purposes of subsection(a), the private business contribution requirement of this subsection is met with respect\n                  to any issue if the eligible local education agency that established the qualified\n                  zone academy has written commitments from private entities to make qualified contributions\n                  having a present value (as of the date of issuance of the issue) of not less than\n                  10 percent of the proceeds of the issue.",
+    "definitions": null
+  },
+  {
+    "section": "54E",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "Limitation",
+    "text": "There is a national zone academy bond limitation for each calendar year. Such limitation is $400,000,000 for 2008, $1,400,000,000 for 2009 and 2010, and $400,000,000 for 2011, 2012, 2013, 2014, 2015, and 2016 and, except as provided in paragraph(4), zero thereafter.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 400000000,
+        "text": "$400,000,000"
+      },
+      {
+        "label": "amount",
+        "value": 1400000000,
+        "text": "$1,400,000,000"
+      },
+      {
+        "label": "amount",
+        "value": 400000000,
+        "text": "$400,000,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [
+      {
+        "applies_when": "paragraph(4)",
+        "effect": "See referenced section"
+      }
+    ],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as provided in paragraph(4), zero thereafter."
+      ],
+      "result": "There is a national zone academy bond limitation for each calendar year. Such limitation is $400,000,000 for 2008, $1,400,000,000 for 2009 and 2010, and $400,000,000 for 2011, 2012, 2013, 2014, 2015, and 2016 and,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54E(c)(1)National Limitation\u2014There is a national zone academy bond limitation for each calendar year. Such limitation\n                     is $400,000,000 for 2008, $1,400,000,000 for 2009 and 2010, and $400,000,000 for 2011,\n                     2012, 2013, 2014, 2015, and 2016 and, except as provided in paragraph(4), zero thereafter.",
+    "definitions": null
+  },
+  {
+    "section": "54E",
+    "subsection": "(c)(2)",
+    "source_subsections": [
+      "(c)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "of Limitation",
+    "text": "The national zone academy bond limitation for a calendar year shall be allocated by the Secretary among the States on the basis of their respective populations of individuals below the poverty line (as defined by the Office of Management and Budget). The limitation amount allocated to a State under the preceding sentence shall be allocated by the State education agency to qualified zone academies within such State.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The national zone academy bond limitation for a calendar year shall be allocated by the Secretary among the States on the basis of their respective populations of individuals below the poverty line (as defined by the Office of Management and Budget). The limitation amount allocated to a State under the preceding sentence shall be allocated by the State education agency to qualified zone academies within such State."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54E(c)(2)Allocation of Limitation\u2014The national zone academy bond limitation for a calendar year shall be allocated by\n                     the Secretary among the States on the basis of their respective populations of individuals\n                     below the poverty line\n                     (as defined by the Office of Management and Budget). The limitation amount allocated\n                     to a State under the preceding sentence shall be allocated by the State education\n                     agency to qualified zone academies within such State.",
+    "definitions": null
+  },
+  {
+    "section": "54E",
+    "subsection": "(c)(3)",
+    "source_subsections": [
+      "(c)(3)"
+    ],
+    "rule_type": "limitation",
+    "title": "Subject to Limitation Amount",
+    "text": "The maximum aggregate face amount of bonds issued during any calendar year which may be designated under subsection(a)with respect to any qualified zone academy shall not exceed the limitation amount allocated to such academy under paragraph(2)for such calendar year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The maximum aggregate face amount of bonds issued during any calendar year which may be designated under subsection(a)with respect to any qualified zone academy shall not exceed the limitation amount allocated to such academy under paragraph(2)for such calendar year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54E(c)(3)Designation Subject to Limitation Amount\u2014The maximum aggregate face amount of bonds issued during any calendar year which may\n                     be designated under subsection(a)with respect to any qualified zone academy shall not exceed the limitation amount\n                     allocated to such academy under paragraph(2)for such calendar year.",
+    "definitions": null
+  },
+  {
+    "section": "54E",
+    "subsection": "(c)(4)(A)",
+    "source_subsections": [
+      "(c)(4)(A)",
+      "(c)(4)(A)(i)",
+      "(c)(4)(A)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "If for any calendar year\u2014\u2014the limitation amount for any State, exceeds\u2014the amount of bonds issued during such year which are designated under subsection(a)with respect to qualified zone academies within such State,the limitation amount for such State for the following calendar year shall be increased by the amount of such excess.",
+    "conditions": [
+      "for any calendar year\u2014\u2014the limitation amount for any State, exceeds\u2014the amount of bonds issued during such year which are designated under subsection(a)with respect to qualified zone academies within such State,the limitation amount for such State for the following calendar year shall be increased by the amount of such excess."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "for any calendar year\u2014\u2014the limitation amount for any State, exceeds\u2014the amount of bonds issued during such year which are designated under subsection(a)with respect to qualified zone academies within such State,the limitation amount for such State for the following calendar year shall be increased by the amount of such excess."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54E(c)(4)(A)In General\u2014If for any calendar year\u2014I.R.C. \u00a7 54E(c)(4)(A)(i)\u2014the limitation amount for any State, exceedsI.R.C. \u00a7 54E(c)(4)(A)(ii)\u2014the amount of bonds issued during such year which are designated under subsection(a)with respect to qualified zone academies within such State,the limitation amount for such State for the following calendar year shall be increased\n                           by the amount of such excess.",
+    "definitions": null
+  },
+  {
+    "section": "54E",
+    "subsection": "(c)(4)(B)",
+    "source_subsections": [
+      "(c)(4)(B)"
+    ],
+    "rule_type": "limitation",
+    "title": "on Carryover",
+    "text": "Any carryforward of a limitation amount may be carried only to the first 2 years following the unused limitation year. For purposes of the preceding sentence, a limitation amount shall be treated as used on a first-in first-out basis.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Any carryforward of a limitation amount may be carried only to the first 2 years following the unused limitation year. For purposes of the preceding sentence, a limitation amount shall be treated as used on a first-in first-out basis."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54E(c)(4)(B)Limitation on Carryover\u2014Any carryforward of a limitation amount may be carried only to the first 2 years following\n                        the unused limitation year. For purposes of the preceding sentence, a limitation amount\n                        shall be treated as used on a first-in first-out basis.",
+    "definitions": null
+  },
+  {
+    "section": "54E",
+    "subsection": "(c)(4)(C)",
+    "source_subsections": [
+      "(c)(4)(C)"
+    ],
+    "rule_type": "limitation",
+    "title": "with Section 1397E",
+    "text": "Any carryover determined undersection 1397E(e)(4)(relating to carryover of unused limitation) with respect to any State to calendar year 2008 or 2009 shall be treated for purposes of this section as a carryover with respect to such State for such calendar year under subparagraph(A), and the limitation of subparagraph(B)shall apply to such carryover taking into account the calendar years to which such carryover relates.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Any carryover determined undersection 1397E(e)(4)(relating to carryover of unused limitation) with respect to any State to calendar year 2008 or 2009 shall be treated for purposes of this section as a carryover with respect to such State for such calendar year under subparagraph(A), and the limitation of subparagraph(B)shall apply to such carryover taking into account the calendar years to which such carryover relates."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54E(c)(4)(C)Coordination with Section 1397E\u2014Any carryover determined undersection 1397E(e)(4)(relating to carryover of unused limitation) with respect to any State to calendar\n                        year 2008 or 2009 shall be treated for purposes of this section as a carryover with\n                        respect to such State for such calendar year under subparagraph(A), and the limitation of subparagraph(B)shall apply to such carryover taking into account the calendar years to which such\n                        carryover relates.",
+    "definitions": null
+  },
+  {
+    "section": "54E",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)",
+      "(d)(1)(A)",
+      "(d)(1)(B)",
+      "(d)(1)(C)",
+      "(d)(1)(D)",
+      "(d)(1)(D)(i)",
+      "(d)(1)(D)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Zone Academy",
+    "text": "The term \u201cqualified zone academy\u201d means any public school (or academic program within a public school) which is established by and operated under the supervision of an eligible local education agency to provide education or training below the postsecondary level if\u2014\u2014such public school or program (as the case may be) is designed in cooperation with business to enhance the academic curriculum, increase graduation and employment rates, and better prepare students for the rigors of college and the increasingly complex workforce,\u2014students in such public school or program (as the case may be) will be subject to the same academic standards and assessments as other students educated by the eligible local education agency,\u2014the comprehensive education plan of such public school or program is approved by the eligible local education agency, and.R.C. \u00a7 54E(d)(1)(D)(i)\u2014such public school is located in an empowerment zone or enterprise community (including any such zone or community designated after the date of the enactment of this section), or\u2014there is a reasonable expectation (as of the date of issuance of the bonds) that at least 35 percent of the students attending such school or participating in such program (as the case may be) will be eligible for free or reduced-cost lunches under the school lunch program established under the National School Lunch Act.",
+    "conditions": [
+      "\u2014\u2014such public school or program (as the case may be) is designed in cooperation with business to enhance the academic curriculum, increase graduation and employment rates, and better prepare students for the rigors of college and the increasingly complex workforce,\u2014students in such public school or program (as the case may be) will be subject to the same academic standards and assessments as other students educated by the eligible local education agency,\u2014the comprehensive education plan of such public school or program is approved by the eligible local education agency, and.R.C. \u00a7 54E(d)(1)(D)(i)\u2014such public school is located in an empowerment zone or enterprise community (including any such zone or community designated after the date of the enactment of this section), or\u2014there is a reasonable expectation (as of the date of issuance of the bonds) that at least 35 percent of the students attending such school or participating in such program (as the case may be) will be eligible for free or reduced-cost lunches under the school lunch program established under the National School Lunch Act."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.35,
+        "text": "35 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014such public school or program (as the case may be) is designed in cooperation with business to enhance the academic curriculum, increase graduation and employment rates, and better prepare students for the rigors of college and the increasingly complex workforce,\u2014students in such public school or program (as the case may be) will be subject to the same academic standards and assessments as other students educated by the eligible local education agency,\u2014the comprehensive education plan of such public school or program is approved by the eligible local education agency, and.R.C. \u00a7 54E(d)(1)(D)(i)\u2014such public school is located in an empowerment zone or enterprise community (including any such zone or community designated after the date of the enactment of this section), or\u2014there is a reasonable expectation (as of the date of issuance of the bonds) that at least 35 percent of the students attending such school or participating in such program (as the case may be) will be eligible for free or reduced-cost lunches under the school lunch program established under the National School Lunch Act."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified zone academy\u201d means any public school (or academic program within a public school) which is established by and operated under the supervision of an eligible local education agency to provide education or training below the postsecondary level"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54E(d)(1)Qualified Zone Academy\u2014The term \u201cqualified zone academy\u201d means any public school (or academic program within\n                     a public school) which is established by and operated under the supervision of an\n                     eligible local education agency to provide education or training below the postsecondary\n                     level if\u2014I.R.C. \u00a7 54E(d)(1)(A)\u2014such public school or program (as the case may be) is designed in cooperation with\n                        business to enhance the academic curriculum, increase graduation and employment rates,\n                        and better prepare students for the rigors of college and the increasingly complex\n                        workforce,I.R.C. \u00a7 54E(d)(1)(B)\u2014students in such public school or program\n                        (as the case may be) will be subject to the same academic standards and assessments\n                        as other students educated by the eligible local education agency,I.R.C. \u00a7 54E(d)(1)(C)\u2014the comprehensive education plan of such public school or program is approved by the\n                        eligible local education agency, andI.R.C. \u00a7 54E(d)(1)(D)I.R.C. \u00a7 54E(d)(1)(D)(i)\u2014such public school is located in an empowerment zone or enterprise community (including\n                           any such zone or community designated after the date of the enactment of this section),\n                           orI.R.C. \u00a7 54E(d)(1)(D)(ii)\u2014there is a reasonable expectation (as of the date of issuance of the bonds) that at\n                           least 35 percent of the students attending such school or participating in such program\n                           (as the case may be) will be eligible for free or reduced-cost lunches under the school\n                           lunch program established under the National School Lunch Act.",
+    "definitions": {
+      "term": "qualified zone academy",
+      "requirements": [
+        "any public school (or academic program within a public school) which is established by and operated under the supervision of an eligible local education agency to provide education or training below the postsecondary level if\u2014\u2014such public school or program (as the case may be) is designed in cooperation with business to enhance the academic curriculum, increase graduation and employment rates, and better prepare students for the rigors of college and the increasingly complex workforce,\u2014students in such public school or program (as the case may be) will be subject to the same academic standards and assessments as other students educated by the eligible local education agency,\u2014the comprehensive education plan of such public school or program is approved by the eligible local education agency, and.R.C. \u00a7 54E(d)(1)(D)(i)\u2014such public school is located in an empowerment zone or enterprise community (including any such zone or community designated after the date of the enactment of this section), or\u2014there is a reasonable expectation (as of the date of issuance of the bonds) that at least 35 percent of the students attending such school or participating in such program (as the case may be) will be eligible for free or reduced-cost lunches under the school lunch program established under the National School Lunch Act."
+      ]
+    }
+  },
+  {
+    "section": "54E",
+    "subsection": "(d)(2)",
+    "source_subsections": [
+      "(d)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Local Education Agency",
+    "text": "For purposes of this section, the term \u201celigible local education agency\u201d means any local educational agency as defined in section 8101 of the Elementary and Secondary Education Act of 1965.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u201celigible local education agency\u201d means any local educational agency as defined in section 8101 of the Elementary and Secondary Education Act of 1965."
+    },
+    "cross_references": [
+      {
+        "section": "8101",
+        "reason": "cational agency as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54E(d)(2)Eligible Local Education Agency\u2014For purposes of this section, the term \u201celigible local education agency\u201d means any\n                     local educational agency as defined in  section 8101 of the Elementary and Secondary\n                     Education Act of 1965.",
+    "definitions": {
+      "term": "eligible local education agency",
+      "requirements": [
+        "any local educational agency as defined in section 8101 of the Elementary and Secondary Education Act of 1965."
+      ]
+    }
+  },
+  {
+    "section": "54E",
+    "subsection": "(d)(3)",
+    "source_subsections": [
+      "(d)(3)",
+      "(d)(3)(A)",
+      "(d)(3)(B)",
+      "(d)(3)(C)",
+      "(d)(3)(D)"
+    ],
+    "rule_type": "definition",
+    "title": "Purpose",
+    "text": "The term \u201cqualified purpose\u201d means, with respect to any qualified zone academy\u2014\u2014rehabilitating or repairing the public school facility in which the academy is established,\u2014providing equipment for use at such academy,\u2014developing course materials for education to be provided at such academy, and\u2014training teachers and other school personnel in such academy.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified purpose\u201d means, with respect to any qualified zone academy\u2014\u2014rehabilitating or repairing the public school facility in which the academy is established,\u2014providing equipment for use at such academy,\u2014developing course materials for education to be provided at such academy, and\u2014training teachers and other school personnel in such academy."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54E(d)(3)Qualified Purpose\u2014The term \u201cqualified purpose\u201d means, with respect to any qualified zone academy\u2014I.R.C. \u00a7 54E(d)(3)(A)\u2014rehabilitating or repairing the public school facility in which the academy is established,I.R.C. \u00a7 54E(d)(3)(B)\u2014providing equipment for use at such academy,I.R.C. \u00a7 54E(d)(3)(C)\u2014developing course materials for education to be provided at such academy, andI.R.C. \u00a7 54E(d)(3)(D)\u2014training teachers and other school personnel in such academy.",
+    "definitions": null
+  },
+  {
+    "section": "54E",
+    "subsection": "(d)(4)",
+    "source_subsections": [
+      "(d)(4)",
+      "(d)(4)(A)",
+      "(d)(4)(B)",
+      "(d)(4)(C)",
+      "(d)(4)(D)",
+      "(d)(4)(E)"
+    ],
+    "rule_type": "definition",
+    "title": "Contributions",
+    "text": "The term \u201cqualified contribution\u201d means any contribution (of a type and quality acceptable to the eligible local education agency) of\u2014\u2014equipment for use in the qualified zone academy (including state-of-the-art technology and vocational equipment),\u2014technical assistance in developing curriculum or in training teachers in order to promote appropriate market driven technology in the classroom,\u2014services of employees as volunteer mentors,\u2014internships, field trips, or other educational opportunities outside the academy for students, or\u2014any other property or service specified by the eligible local education agency.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified contribution\u201d means any contribution (of a type and quality acceptable to the eligible local education agency) of\u2014\u2014equipment for use in the qualified zone academy (including state-of-the-art technology and vocational equipment),\u2014technical assistance in developing curriculum or in training teachers in order to promote appropriate market driven technology in the classroom,\u2014services of employees as volunteer mentors,\u2014internships, field trips, or other educational opportunities outside the academy for students, or\u2014any other property or service specified by the eligible local education agency."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54E(d)(4)Qualified Contributions\u2014The term \u201cqualified contribution\u201d means any contribution (of a type and quality acceptable\n                     to the eligible local education agency) of\u2014I.R.C. \u00a7 54E(d)(4)(A)\u2014equipment for use in the qualified zone academy (including state-of-the-art technology\n                        and vocational equipment),I.R.C. \u00a7 54E(d)(4)(B)\u2014technical assistance in developing curriculum or in training teachers in order to\n                        promote appropriate market driven technology in the classroom,I.R.C. \u00a7 54E(d)(4)(C)\u2014services of employees as volunteer mentors,I.R.C. \u00a7 54E(d)(4)(D)\u2014internships, field trips, or other educational opportunities outside the academy for\n                        students, orI.R.C. \u00a7 54E(d)(4)(E)\u2014any other property or service specified by the eligible local education agency.",
+    "definitions": {
+      "term": "qualified contribution",
+      "requirements": [
+        "any contribution (of a type and quality acceptable to the eligible local education agency) of\u2014\u2014equipment for use in the qualified zone academy (including state-of-the-art technology and vocational equipment),\u2014technical assistance in developing curriculum or in training teachers in order to promote appropriate market driven technology in the classroom,\u2014services of employees as volunteer mentors,\u2014internships, field trips, or other educational opportunities outside the academy for students, or\u2014any other property or service specified by the eligible local education agency."
+      ]
+    }
+  }
+]

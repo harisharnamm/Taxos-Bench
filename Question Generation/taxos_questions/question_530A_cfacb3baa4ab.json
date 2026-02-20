@@ -1,0 +1,22 @@
+{
+  "id": "cfacb3baa4ab",
+  "section": "530A",
+  "citation": "I.R.C. \u00a7 530A(b)(3)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 530A(b)(3) is discussed as follows: 'I.R.C. \u00a7 530A(b)(3)Eligible InvestmentI.R.C. \u00a7 530A(b)(3)(A)In General\u2014The term \u201celigible investment...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 530A(b)(3)?",
+  "difficulty": 1,
+  "choices": [
+    "0.2%",
+    "0.0%",
+    "0.1%",
+    "99.9%",
+    "10.1%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 0.1%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 530A(b)(3)"
+  ]
+}

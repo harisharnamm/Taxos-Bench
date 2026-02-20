@@ -1,0 +1,21 @@
+{
+  "id": "977fc7f85c94",
+  "section": "817",
+  "citation": "I.R.C. \u00a7 817(h)(2)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 817(h)(2) is discussed as follows: 'I.R.C. \u00a7 817(h)(2)Safe Harbor For Diversification\u2014A  segregated asset account shall be treated as me...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 817(h)(2)?",
+  "difficulty": 1,
+  "choices": [
+    "45.0%",
+    "65.0%",
+    "55.0%",
+    "82.5%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 55.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 817(h)(2)"
+  ]
+}

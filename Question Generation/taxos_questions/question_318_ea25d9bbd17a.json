@@ -1,0 +1,22 @@
+{
+  "id": "ea25d9bbd17a",
+  "section": "318",
+  "citation": "I.R.C. \u00a7 318(a)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 318(a) is discussed as follows: 'I.R.C. \u00a7 318(a)General Rule\u2014For  purposes of those provisions of this subchapter to which the rules ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 318(a)?",
+  "difficulty": 1,
+  "choices": [
+    "7.5%",
+    "0.0%",
+    "15.0%",
+    "95.0%",
+    "5.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 5.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 318(a)"
+  ]
+}

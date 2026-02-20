@@ -1,0 +1,794 @@
+[
+  {
+    "section": "48D",
+    "subsection": "(E)",
+    "source_subsections": [
+      "(E)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Credit",
+    "text": "The credit allowed under this section shall not apply to property the construction of which begins after December 31, 2026.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The credit allowed under this section shall not apply to property the construction of which begins after December 31, 2026."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48D(E)Termination Of Credit\u2014The credit allowed under this section shall not apply to property the construction\n                  of which begins after December 31, 2026.",
+    "definitions": null
+  },
+  {
+    "section": "48D",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)"
+    ],
+    "rule_type": "computation",
+    "title": "of credit",
+    "text": "For purposes of section 46, the advanced manufacturing investment credit for any taxable year is an amount equal to 35 percent of the qualified investment for such taxable year with respect to any advanced manufacturing facility of an eligible taxpayer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.35,
+        "text": "35 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of section 46, the advanced manufacturing investment credit for any taxable year is an amount equal to 35 percent of the qualified investment for such taxable year with respect to any advanced manufacturing facility of an eligible taxpayer."
+    },
+    "cross_references": [
+      {
+        "section": "46",
+        "reason": "For purposes of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48D(a)Establishment of credit\u2014For purposes of section 46, the advanced manufacturing investment credit for any taxable\n                  year is an amount equal to 35 percent of the qualified investment for such taxable\n                  year with respect to any advanced manufacturing facility of an eligible taxpayer.",
+    "definitions": null
+  },
+  {
+    "section": "48D",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "For purposes of subsection (a), the qualified investment with respect to any advanced manufacturing facility for any taxable year is the basis of any qualified property placed in service by the taxpayer during such taxable year which is part of an advanced manufacturing facility.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subsection (a), the qualified investment with respect to any advanced manufacturing facility for any taxable year is the basis of any qualified property placed in service by the taxpayer during such taxable year which is part of an advanced manufacturing facility."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48D(b)(1)In General\u2014For purposes of subsection (a), the qualified investment with respect to any advanced\n                     manufacturing facility for any taxable year is the basis of any qualified property\n                     placed in service by the taxpayer during such taxable year which is part of an advanced\n                     manufacturing facility.",
+    "definitions": null
+  },
+  {
+    "section": "48D",
+    "subsection": "(b)(2)(A)",
+    "source_subsections": [
+      "(b)(2)(A)",
+      "(b)(2)(A)(i)",
+      "(b)(2)(A)(ii)",
+      "(b)(2)(A)(iii)",
+      "(b)(2)(A)(iii)(I)",
+      "(b)(2)(A)(iii)(II)",
+      "(b)(2)(A)(iv)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "For purposes of this subsection, the term \u201cqualified property\u201d means property\u2014\u2014which is tangible property,\u2014with respect to which depreciation (or amortization in lieu of depreciation) is allowable,\u2014which is\u2014\u2014constructed, reconstructed, or erected by the taxpayer, or\u2014acquired by the taxpayer if the original use of such property commences with the taxpayer, and\u2014which is integral to the operation of the advanced manufacturing facility.",
+    "conditions": [
+      "the original use of such property commences with the taxpayer, and\u2014which is integral to the operation of the advanced manufacturing facility."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the original use of such property commences with the taxpayer, and\u2014which is integral to the operation of the advanced manufacturing facility."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection, the term \u201cqualified property\u201d means property\u2014\u2014which is tangible property,\u2014with respect to which depreciation (or amortization in lieu of depreciation) is allowable,\u2014which is\u2014\u2014constructed, reconstructed, or erected by the taxpayer, or\u2014acquired by the taxpayer"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48D(b)(2)(A)In General\u2014For purposes of this subsection, the term \u201cqualified property\u201d means property\u2014I.R.C. \u00a7 48D(b)(2)(A)(i)\u2014which is tangible property,I.R.C. \u00a7 48D(b)(2)(A)(ii)\u2014with respect to which depreciation (or amortization in lieu of depreciation) is allowable,I.R.C. \u00a7 48D(b)(2)(A)(iii)\u2014which is\u2014I.R.C. \u00a7 48D(b)(2)(A)(iii)(I)\u2014constructed, reconstructed, or erected by the taxpayer, orI.R.C. \u00a7 48D(b)(2)(A)(iii)(II)\u2014acquired by the taxpayer if the original use of such property commences with the taxpayer,\n                              andI.R.C. \u00a7 48D(b)(2)(A)(iv)\u2014which is integral to the operation of the advanced manufacturing facility.",
+    "definitions": {
+      "term": "qualified property",
+      "requirements": [
+        "property\u2014\u2014which is tangible property,\u2014with respect to which depreciation (or amortization in lieu of depreciation) is allowable,\u2014which is\u2014\u2014constructed, reconstructed, or erected by the taxpayer, or\u2014acquired by the taxpayer if the original use of such property commences with the taxpayer, and\u2014which is integral to the operation of the advanced manufacturing facility."
+      ]
+    }
+  },
+  {
+    "section": "48D",
+    "subsection": "(b)(2)(B)(i)",
+    "source_subsections": [
+      "(b)(2)(B)(i)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cqualified property\u201d includes any building or its structural components which otherwise satisfy the requirements under subparagraph (A).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified property\u201d includes any building or its structural components which otherwise satisfy the requirements under subparagraph (A)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48D(b)(2)(B)(i)In General\u2014The term \u201cqualified property\u201d includes any building or its structural components which\n                           otherwise satisfy the requirements under subparagraph (A).",
+    "definitions": null
+  },
+  {
+    "section": "48D",
+    "subsection": "(b)(2)(B)(ii)",
+    "source_subsections": [
+      "(b)(2)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Clause (i) shall not apply with respect to a building or portion of a building used for offices, administrative services, or other functions unrelated to manufacturing.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Clause (i) shall not apply with respect to a building or portion of a building used for offices, administrative services, or other functions unrelated to manufacturing."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48D(b)(2)(B)(ii)Exception\u2014Clause (i) shall not apply with respect to a building or portion of a building used\n                           for offices, administrative services, or other functions unrelated to manufacturing.",
+    "definitions": null
+  },
+  {
+    "section": "48D",
+    "subsection": "(b)(3)",
+    "source_subsections": [
+      "(b)(3)"
+    ],
+    "rule_type": "definition",
+    "title": "Manufacturing Facility",
+    "text": "For purposes of this section, the term \u2018advanced manufacturing facility\u2019 means a facility for which the primary purpose is the manufacturing of semiconductors or semiconductor manufacturing equipment.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u2018advanced manufacturing facility\u2019 means a facility for which the primary purpose is the manufacturing of semiconductors or semiconductor manufacturing equipment."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48D(b)(3)Advanced Manufacturing Facility\u2014For purposes of this section, the term \u2018advanced manufacturing facility\u2019 means a facility\n                     for which the primary purpose is the manufacturing of semiconductors or semiconductor\n                     manufacturing equipment.",
+    "definitions": null
+  },
+  {
+    "section": "48D",
+    "subsection": "(b)(4)",
+    "source_subsections": [
+      "(b)(4)"
+    ],
+    "rule_type": "definition",
+    "title": "With Rehabilitation Credit",
+    "text": "The qualified investment with respect to any advanced manufacturing facility for any taxable year shall not include that portion of the basis of any property which is attributable to qualified rehabilitation expenditures (as defined in section 47(c)(2)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The qualified investment with respect to any advanced manufacturing facility for any taxable year shall not include that portion of the basis of any property which is attributable to qualified rehabilitation expenditures (as defined in section 47(c)(2))."
+    },
+    "cross_references": [
+      {
+        "section": "47(c)(2)",
+        "reason": "n expenditures (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48D(b)(4)Coordination With Rehabilitation Credit\u2014The qualified investment with respect to any advanced manufacturing facility for any\n                     taxable year shall not include that portion of the basis of any property which is\n                     attributable to qualified rehabilitation expenditures (as defined in section 47(c)(2)).",
+    "definitions": null
+  },
+  {
+    "section": "48D",
+    "subsection": "(b)(5)",
+    "source_subsections": [
+      "(b)(5)"
+    ],
+    "rule_type": "condition",
+    "title": "Progress Expenditure Rules Made Applicable",
+    "text": "Rules similar to the rules of subsections (c)(4) and (d) of section 46 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply for purposes of subsection (a).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules of subsections (c)(4) and (d) of section 46 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply for purposes of subsection (a)."
+    },
+    "cross_references": [
+      {
+        "section": "46",
+        "reason": "subsections (c)(4) and (d) of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48D(b)(5)Certain Progress Expenditure Rules Made Applicable\u2014Rules similar to the rules of subsections (c)(4) and (d) of section 46 (as in effect\n                     on the day before the date of the enactment of the Revenue Reconciliation Act of 1990)\n                     shall apply for purposes of subsection (a).",
+    "definitions": null
+  },
+  {
+    "section": "48D",
+    "subsection": "(c)",
+    "source_subsections": [
+      "(c)",
+      "(c)(1)",
+      "(c)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Taxpayer",
+    "text": "For purposes of this section, the term \u2018eligible taxpayer\u2019 means any taxpayer which\u2014\u2014is not a foreign entity of concern (as defined in section 9901(6) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021), and\u2014has not made an applicable transaction (as defined in section 50(a)) during the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u2018eligible taxpayer\u2019 means any taxpayer which\u2014\u2014is not a foreign entity of concern (as defined in section 9901(6) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021), and\u2014has not made an applicable transaction (as defined in section 50(a)) during the taxable year."
+    },
+    "cross_references": [
+      {
+        "section": "9901(6)",
+        "reason": "ity of concern (as defined in..."
+      },
+      {
+        "section": "50(a)",
+        "reason": "le transaction (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48D(c)Eligible Taxpayer\u2014For purposes of this section, the term \u2018eligible taxpayer\u2019 means any taxpayer which\u2014I.R.C. \u00a7 48D(c)(1)\u2014is not a foreign entity of concern (as defined in section 9901(6) of the William M.\n                     (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021), andI.R.C. \u00a7 48D(c)(2)\u2014has not made an applicable transaction (as defined in section 50(a)) during the taxable\n                     year.",
+    "definitions": null
+  },
+  {
+    "section": "48D",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Except as otherwise provided in paragraph (2)(A), in the case of a taxpayer making an election (at such time and in such manner as the Secretary may provide) under this subsection with respect to the credit determined under subsection (a) with respect to such taxpayer, such taxpayer shall be treated as making a payment against the tax imposed by subtitle A (for the taxable year with respect to which such credit was determined) equal to the amount of such credit.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as otherwise provided in paragraph (2)(A), in the case of a taxpayer making an election (at such time and in such manner as the Secretary may provide) under this subsection with respect to the credit determined under subsection (a) with respect to such taxpayer, such taxpayer shall be treated as making a payment against the tax imposed by subtitle A (for the taxable year with respect to which such credit was determined) equal to the amount of such credit."
+      ],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48D(d)(1)In General\u2014Except as otherwise provided in paragraph (2)(A), in the case of a taxpayer making\n                     an election (at such time and in such manner as the Secretary may provide) under this\n                     subsection with respect to the credit determined under subsection (a) with respect\n                     to such taxpayer, such taxpayer shall be treated as making a payment against the tax\n                     imposed by subtitle A (for the taxable year with respect to which such credit was\n                     determined) equal to the amount of such credit.",
+    "definitions": null
+  },
+  {
+    "section": "48D",
+    "subsection": "(d)(2)(A)(i)",
+    "source_subsections": [
+      "(d)(2)(A)(i)",
+      "(d)(2)(A)(i)(I)",
+      "(d)(2)(A)(i)(II)",
+      "(d)(2)(A)(i)(III)",
+      "(d)(2)(A)(i)(IV)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "In the case of the credit determined under subsection (a) with respect to any property held directly by a partnership or S corporation, any election under paragraph (1) shall be made by such partnership or S corporation. If such partnership or S corporation makes an election under such paragraph (in such manner as the Secretary may provide) with respect to such credit\u2014\u2014the Secretary shall make a payment to such partnership or S corporation equal to the amount of such credit,\u2014paragraph (3) shall be applied with respect to such credit before determining any partner's distributive share, or shareholder's pro rata share, of such credit,\u2014any amount with respect to which the election in paragraph (1) is made shall be treated as tax exempt income for purposes of sections 705 and 1366, and\u2014a partner's distributive share of such tax exempt income shall be based on such partner's distributive share of the otherwise applicable credit for each taxable year.",
+    "conditions": [
+      "such partnership or S corporation makes an election under such paragraph (in such manner as the Secretary may provide) with respect to such credit\u2014\u2014the Secretary shall make a payment to such partnership or S corporation equal to the amount of such credit,\u2014paragraph (3) shall be applied with respect to such credit before determining any partner's distributive share, or shareholder's pro rata share, of such credit,\u2014any amount with respect to which the election in paragraph (1) is made shall be treated as tax exempt income for purposes of sections 705 and 1366, and\u2014a partner's distributive share of such tax exempt income shall be based on such partner's distributive share of the otherwise applicable credit for each taxable year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such partnership or S corporation makes an election under such paragraph (in such manner as the Secretary may provide) with respect to such credit\u2014\u2014the Secretary shall make a payment to such partnership or S corporation equal to the amount of such credit,\u2014paragraph (3) shall be applied with respect to such credit before determining any partner's distributive share, or shareholder's pro rata share, of such credit,\u2014any amount with respect to which the election in paragraph (1) is made shall be treated as tax exempt income for purposes of sections 705 and 1366, and\u2014a partner's distributive share of such tax exempt income shall be based on such partner's distributive share of the otherwise applicable credit for each taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of the credit determined under subsection (a) with respect to any property held directly by a partnership or S corporation, any election under paragraph (1) shall be made by such partnership or S corporation."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48D(d)(2)(A)(i)In General\u2014In the case of the credit determined under subsection (a) with respect to any property\n                           held directly by a partnership or S corporation, any election under paragraph (1)\n                           shall be made by such partnership or S corporation. If such partnership or S corporation\n                           makes an election under such paragraph (in such manner as the Secretary may provide)\n                           with respect to such credit\u2014I.R.C. \u00a7 48D(d)(2)(A)(i)(I)\u2014the Secretary shall make a payment to such partnership or S corporation equal to the\n                              amount of such credit,I.R.C. \u00a7 48D(d)(2)(A)(i)(II)\u2014paragraph (3) shall be applied with respect to such credit before determining any\n                              partner's distributive share, or shareholder's pro rata share, of such credit,I.R.C. \u00a7 48D(d)(2)(A)(i)(III)\u2014any amount with respect to which the election in paragraph (1) is made shall be treated\n                              as tax exempt income for purposes of sections 705 and 1366, andI.R.C. \u00a7 48D(d)(2)(A)(i)(IV)\u2014a partner's distributive share of such tax exempt income shall be based on such partner's\n                              distributive share of the otherwise applicable credit for each taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "48D",
+    "subsection": "(d)(2)(A)(ii)",
+    "source_subsections": [
+      "(d)(2)(A)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "With Application At Partner Or Shareholder Level",
+    "text": "In the case of any property held directly by a partnership or S corporation, no election by any partner or shareholder shall be allowed under paragraph (1) with respect to any credit determined under subsection (a) with respect to such property.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any property held directly by a partnership or S corporation, no election by any partner or shareholder shall be allowed under paragraph (1) with respect to any credit determined under subsection (a) with respect to such property."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48D(d)(2)(A)(ii)Coordination With Application At Partner Or Shareholder Level\u2014In the case of any property held directly by a partnership or S corporation, no election\n                           by any partner or shareholder shall be allowed under paragraph (1) with respect to\n                           any credit determined under subsection (a) with respect to such property.",
+    "definitions": null
+  },
+  {
+    "section": "48D",
+    "subsection": "(d)(2)(B)",
+    "source_subsections": [
+      "(d)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Any election under paragraph (1) shall be made not later than the due date (including extensions of time) for the return of tax for the taxable year for which the election is made, but in no event earlier than 270 days after the date of the enactment of this section. Any such election, once made, shall be irrevocable. Except as otherwise provided in this subparagraph, any election under paragraph (1) shall apply with respect to any credit for the taxable year for which the election is made.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as otherwise provided in this subparagraph, any election under paragraph (1) shall apply with respect to any credit for the taxable year for which the election is made."
+      ],
+      "result": "Any election under paragraph (1) shall be made not later than the due date (including extensions of time) for the return of tax for the taxable year for which the election is made, but in no event earlier than 270 days after the date of the enactment of this section. Any such election, once made, shall be irrevocable."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48D(d)(2)(B)Elections\u2014Any election under paragraph (1) shall be made not later than the due date (including\n                        extensions of time) for the return of tax for the taxable year for which the election\n                        is made, but in no event earlier than 270 days after the date of the enactment of\n                        this section. Any such election, once made, shall be irrevocable. Except as otherwise\n                        provided in this subparagraph, any election under paragraph (1) shall apply with respect\n                        to any credit for the taxable year for which the election is made.",
+    "definitions": null
+  },
+  {
+    "section": "48D",
+    "subsection": "(d)(2)(C)",
+    "source_subsections": [
+      "(d)(2)(C)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The payment described in paragraph (1) shall be treated as made on the later of the due date (determined without regard to extensions) of the return of tax for the taxable year or the date on which such return is filed.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The payment described in paragraph (1) shall be treated as made on the later of the due date (determined without regard to extensions) of the return of tax for the taxable year or the date on which such return is filed."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48D(d)(2)(C)Timing\u2014The payment described in paragraph (1) shall be treated as made on the later of the\n                        due date (determined without regard to extensions) of the return of tax for the taxable\n                        year or the date on which such return is filed.",
+    "definitions": null
+  },
+  {
+    "section": "48D",
+    "subsection": "(d)(2)(D)",
+    "source_subsections": [
+      "(d)(2)(D)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Payments To Partnerships And S Corporations",
+    "text": "For purposes of section 1324 of title 31, United States Code, the payments under subparagraph (A)(i)(I) shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of section 1324 of title 31, United States Code, the payments under subparagraph (A)(i)(I) shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section."
+    },
+    "cross_references": [
+      {
+        "section": "1324",
+        "reason": "For purposes of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48D(d)(2)(D)Treatment Of Payments To Partnerships And S Corporations\u2014For purposes of section 1324 of title 31, United States Code, the payments under subparagraph\n                        (A)(i)(I) shall be treated in the same manner as a refund due from a credit provision\n                        referred to in subsection (b)(2) of such section.",
+    "definitions": null
+  },
+  {
+    "section": "48D",
+    "subsection": "(d)(2)(E)",
+    "source_subsections": [
+      "(d)(2)(E)"
+    ],
+    "rule_type": "condition",
+    "title": "Information",
+    "text": "As a condition of, and prior to, any amount being treated as a payment which is made by the taxpayer under paragraph (1) or any payment being made pursuant to subparagraph (A), the Secretary may require such information or registration as the Secretary deems necessary or appropriate for purposes of preventing duplication, fraud, improper payments, or excessive payments under this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "As a condition of, and prior to, any amount being treated as a payment which is made by the taxpayer under paragraph (1) or any payment being made pursuant to subparagraph (A), the Secretary may require such information or registration as the Secretary deems necessary or appropriate for purposes of preventing duplication, fraud, improper payments, or excessive payments under this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48D(d)(2)(E)Additional Information\u2014As a condition of, and prior to, any amount being treated as a payment which is made\n                        by the taxpayer under paragraph (1) or any payment being made pursuant to subparagraph\n                        (A), the Secretary may require such information or registration as the Secretary deems\n                        necessary or appropriate for purposes of preventing duplication, fraud, improper payments,\n                        or excessive payments under this section.",
+    "definitions": null
+  },
+  {
+    "section": "48D",
+    "subsection": "(d)(2)(F)(i)",
+    "source_subsections": [
+      "(d)(2)(F)(i)",
+      "(d)(2)(F)(i)(I)",
+      "(d)(2)(F)(i)(II)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "In the case of any amount treated as a payment which is made by the taxpayer under paragraph (1), or any payment made pursuant to subparagraph (A), which the Secretary determines constitutes an excessive payment, the tax imposed on such taxpayer by chapter 1 for the taxable year in which such determination is made shall be increased by an amount equal to the sum of\u2014\u2014the amount of such excessive payment, plus\u2014an amount equal to 20 percent of such excessive payment.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.2,
+        "text": "20 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any amount treated as a payment which is made by the taxpayer under paragraph (1), or any payment made pursuant to subparagraph (A), which the Secretary determines constitutes an excessive payment, the tax imposed on such taxpayer by chapter 1 for the taxable year in which such determination is made shall be increased by an amount equal to the sum of\u2014\u2014the amount of such excessive payment, plus\u2014an amount equal to 20 percent of such excessive payment."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48D(d)(2)(F)(i)In General\u2014In the case of any amount treated as a payment which is made by the taxpayer under\n                           paragraph (1), or any payment made pursuant to subparagraph (A), which the Secretary\n                           determines constitutes an excessive payment, the tax imposed on such taxpayer by chapter\n                           1 for the taxable year in which such determination is made shall be increased by an\n                           amount equal to the sum of\u2014I.R.C. \u00a7 48D(d)(2)(F)(i)(I)\u2014the amount of such excessive payment, plusI.R.C. \u00a7 48D(d)(2)(F)(i)(II)\u2014an amount equal to 20 percent of such excessive payment.",
+    "definitions": null
+  },
+  {
+    "section": "48D",
+    "subsection": "(d)(2)(F)(ii)",
+    "source_subsections": [
+      "(d)(2)(F)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Cause",
+    "text": "Clause (i)(II) shall not apply if the taxpayer demonstrates to the satisfaction of the Secretary that the excessive payment resulted from reasonable cause.",
+    "conditions": [
+      "the taxpayer demonstrates to the satisfaction of the Secretary that the excessive payment resulted from reasonable cause."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the taxpayer demonstrates to the satisfaction of the Secretary that the excessive payment resulted from reasonable cause."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Clause (i)(II) shall not apply"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48D(d)(2)(F)(ii)Reasonable Cause\u2014Clause (i)(II) shall not apply if the taxpayer demonstrates to the satisfaction of\n                           the Secretary that the excessive payment resulted from reasonable cause.",
+    "definitions": null
+  },
+  {
+    "section": "48D",
+    "subsection": "(d)(2)(F)(iii)",
+    "source_subsections": [
+      "(d)(2)(F)(iii)",
+      "(d)(2)(F)(iii)(I)",
+      "(d)(2)(F)(iii)(II)"
+    ],
+    "rule_type": "definition",
+    "title": "Payment Defined",
+    "text": "Payment Defined\u2014For purposes of this subparagraph, the term \u2018excessive payment\u2019 means, with respect to property for which an election is made under this subsection for any taxable year, an amount equal to the excess of\u2014\u2014the amount treated as a payment which is made by the taxpayer under paragraph (1), or the amount of the payment made pursuant to subparagraph (A), with respect to such property for such taxable year, over\u2014the amount of the credit which, without application of this subsection, would be otherwise allowable (determined without regard to section 38(c)) under subsection (a) with respect to such property for such taxable year.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "subtraction",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Payment Defined\u2014For purposes of this subparagraph, the term \u2018excessive payment\u2019 means, with respect to property for which an election is made under this subsection for any taxable year, an amount equal to the excess of\u2014\u2014the amount treated as a payment which is made by the taxpayer under paragraph (1), or the amount of the payment made pursuant to subparagraph (A), with respect to such property for such taxable year, over\u2014the amount of the credit which, without application of this subsection, would be otherwise allowable (determined without regard to section 38(c)) under subsection (a) with respect to such property for such taxable year."
+    },
+    "cross_references": [
+      {
+        "section": "38(c)",
+        "reason": "(determined without regard to..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48D(d)(2)(F)(iii)Excessive Payment Defined\u2014For purposes of this subparagraph, the term \u2018excessive payment\u2019 means, with respect\n                           to property for which an election is made under this subsection for any taxable year,\n                           an amount equal to the excess of\u2014I.R.C. \u00a7 48D(d)(2)(F)(iii)(I)\u2014the amount treated as a payment which is made by the taxpayer under paragraph (1),\n                              or the amount of the payment made pursuant to subparagraph (A), with respect to such\n                              property for such taxable year, overI.R.C. \u00a7 48D(d)(2)(F)(iii)(II)\u2014the amount of the credit which, without application of this subsection, would be otherwise\n                              allowable (determined without regard to section 38(c)) under subsection (a) with respect\n                              to such property for such taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "48D",
+    "subsection": "(d)(3)",
+    "source_subsections": [
+      "(d)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Double Benefit",
+    "text": "In the case of a taxpayer making an election under this subsection with respect to the credit determined under subsection (a), such credit shall be reduced to zero and shall, for any other purposes under this title, be deemed to have been allowed to the taxpayer for such taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a taxpayer making an election under this subsection with respect to the credit determined under subsection (a), such credit shall be reduced to zero and shall, for any other purposes under this title, be deemed to have been allowed to the taxpayer for such taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48D(d)(3)Denial Of Double Benefit\u2014In the case of a taxpayer making an election under this subsection with respect to\n                     the credit determined under subsection (a), such credit shall be reduced to zero and\n                     shall, for any other purposes under this title, be deemed to have been allowed to\n                     the taxpayer for such taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "48D",
+    "subsection": "(d)(4)",
+    "source_subsections": [
+      "(d)(4)"
+    ],
+    "rule_type": "definition",
+    "title": "Code Possessions",
+    "text": "In the case of any possession of the United States with a mirror code tax system (as defined in section 24(k)), this subsection shall not be treated as part of the income tax laws of the United States for purposes of determining the income tax law of such possession unless such possession elects to have this subsection be so treated.",
+    "conditions": [
+      "such possession elects to have this subsection be so treated."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "such possession elects to have this subsection be so treated."
+      ],
+      "except": [],
+      "result": "In the case of any possession of the United States with a mirror code tax system (as defined in section 24(k)), this subsection shall not be treated as part of the income tax laws of the United States for purposes of determining the income tax law of such possession"
+    },
+    "cross_references": [
+      {
+        "section": "24(k)",
+        "reason": "ode tax system (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48D(d)(4)Mirror Code Possessions\u2014In the case of any possession of the United States with a mirror code tax system (as\n                     defined in section 24(k)), this subsection shall not be treated as part of the income\n                     tax laws of the United States for purposes of determining the income tax law of such\n                     possession unless such possession elects to have this subsection be so treated.",
+    "definitions": null
+  },
+  {
+    "section": "48D",
+    "subsection": "(d)(5)",
+    "source_subsections": [
+      "(d)(5)",
+      "(d)(5)(A)",
+      "(d)(5)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Reduction And Recapture",
+    "text": "Rules similar to the rules of subsections (a) and (c) of section 50 shall apply with respect to\u2014\u2014any amount treated as a payment which is made by the taxpayer under paragraph (1), and\u2014any payment made pursuant to paragraph (2)(A).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules of subsections (a) and (c) of section 50 shall apply with respect to\u2014\u2014any amount treated as a payment which is made by the taxpayer under paragraph (1), and\u2014any payment made pursuant to paragraph (2)(A)."
+    },
+    "cross_references": [
+      {
+        "section": "50",
+        "reason": "of subsections (a) and (c) of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48D(d)(5)Basis Reduction And Recapture\u2014Rules similar to the rules of subsections (a) and (c) of section 50 shall apply with\n                     respect to\u2014I.R.C. \u00a7 48D(d)(5)(A)\u2014any amount treated as a payment which is made by the taxpayer under paragraph (1),\n                        andI.R.C. \u00a7 48D(d)(5)(B)\u2014any payment made pursuant to paragraph (2)(A).",
+    "definitions": null
+  },
+  {
+    "section": "48D",
+    "subsection": "(d)(6)",
+    "source_subsections": [
+      "(d)(6)",
+      "(d)(6)(A)",
+      "(d)(6)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The Secretary shall issue such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this subsection, including\u2014\u2014regulations or other guidance providing rules for determining a partner's distributive share of the tax exempt income described in paragraph (2)(A)(i)(III), and\u2014guidance to ensure that the amount of the payment or deemed payment made under this subsection is commensurate with the amount of the credit that would be otherwise allowable (determined without regard to section 38(c)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall issue such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this subsection, including\u2014\u2014regulations or other guidance providing rules for determining a partner's distributive share of the tax exempt income described in paragraph (2)(A)(i)(III), and\u2014guidance to ensure that the amount of the payment or deemed payment made under this subsection is commensurate with the amount of the credit that would be otherwise allowable (determined without regard to section 38(c))."
+    },
+    "cross_references": [
+      {
+        "section": "38(c)",
+        "reason": "(determined without regard to..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48D(d)(6)Regulations\u2014The Secretary shall issue such regulations or other guidance as may be necessary or\n                     appropriate to carry out the purposes of this subsection, including\u2014I.R.C. \u00a7 48D(d)(6)(A)\u2014regulations or other guidance providing rules for determining a partner's distributive\n                        share of the tax exempt income described in paragraph (2)(A)(i)(III), andI.R.C. \u00a7 48D(d)(6)(B)\u2014guidance to ensure that the amount of the payment or deemed payment made under this\n                        subsection is commensurate with the amount of the credit that would be otherwise allowable\n                        (determined without regard to section 38(c)).",
+    "definitions": null
+  }
+]

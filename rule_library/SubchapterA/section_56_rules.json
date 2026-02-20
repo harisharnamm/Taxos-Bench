@@ -1,0 +1,1296 @@
+[
+  {
+    "section": "56",
+    "subsection": "(a)(1)(A)(i)",
+    "source_subsections": [
+      "(a)(1)(A)(i)"
+    ],
+    "rule_type": "condition",
+    "title": "Other Than Certain Personal Property",
+    "text": "Except as provided in clause(ii), the depreciation deduction allowable under section167with respect to any tangible property placed in service after December 31, 1986, shall be determined under the alternative system of section168(g). In the case of property placed in service after December 31, 1998, the preceding sentence shall not apply but clause(ii)shall continue to apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [
+      {
+        "applies_when": "clause(ii)",
+        "effect": "See referenced section"
+      }
+    ],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as provided in clause(ii), the depreciation deduction allowable under section167with respect to any tangible property placed in service after December 31, 1986, shall be determined under the alternative system of section168(g). In the case of property placed in service after December 31, 1998, the preceding sentence shall not apply but clause(ii)shall continue to apply."
+      ],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "167w",
+        "reason": "ion deduction allowable under..."
+      },
+      {
+        "section": "168(g)",
+        "reason": "der the alternative system of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56(a)(1)(A)(i)Property Other Than Certain Personal Property\u2014Except as provided in clause(ii), the depreciation deduction allowable under section167with respect to any tangible property placed in service after December 31, 1986,\n                           shall be determined under the alternative system of section168(g). In the case of property placed in service after December 31, 1998, the preceding\n                           sentence shall not apply but clause(ii)shall continue to apply.",
+    "definitions": null
+  },
+  {
+    "section": "56",
+    "subsection": "(a)(1)(A)(ii)",
+    "source_subsections": [
+      "(a)(1)(A)(ii)",
+      "(a)(1)(A)(ii)(I)",
+      "(a)(1)(A)(ii)(II)"
+    ],
+    "rule_type": "definition",
+    "title": "Declining Balance Method For Certain Property",
+    "text": "The method of depreciation used shall be\u2014\u2014the 150 percent declining balance method,\u2014switching to the straight line method for the 1st taxable year for which using the straight line method with respect to the adjusted basis as of the beginning of the year will yield a higher allowance.The preceding sentence shall not apply to any section 1250 property (as defined in section1250(c)) (and the straight line method shall be used for such section1250property) or to any other property if the depreciation deduction determined under section168with respect to such other property for purposes of the regular tax is determined by using the straight line method.",
+    "conditions": [
+      "the depreciation deduction determined under section168with respect to such other property for purposes of the regular tax is determined by using the straight line method."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 1.5,
+        "text": "150 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the depreciation deduction determined under section168with respect to such other property for purposes of the regular tax is determined by using the straight line method."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The method of depreciation used shall be\u2014\u2014the 150 percent declining balance method,\u2014switching to the straight line method for the 1st taxable year for which using the straight line method with respect to the adjusted basis as of the beginning of the year will yield a higher allowance.The preceding sentence shall not apply to any section 1250 property (as defined in section1250(c)) (and the straight line method shall be used for such section1250property) or to any other property"
+    },
+    "cross_references": [
+      {
+        "section": "1250",
+        "reason": "ntence shall not apply to any..."
+      },
+      {
+        "section": "1250(c)",
+        "reason": "property (as defined in..."
+      },
+      {
+        "section": "1250p",
+        "reason": "method shall be used for such..."
+      },
+      {
+        "section": "168w",
+        "reason": "on deduction determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56(a)(1)(A)(ii)150-Percent Declining Balance Method For Certain Property\u2014The method of depreciation used shall be\u2014I.R.C. \u00a7 56(a)(1)(A)(ii)(I)\u2014the 150 percent declining balance method,I.R.C. \u00a7 56(a)(1)(A)(ii)(II)\u2014switching to the straight line method for the 1st taxable year for which using the\n                              straight line method with respect to the adjusted basis as of the beginning of the\n                              year will yield a higher allowance.The preceding sentence shall not apply to any section 1250 property (as defined in\n                              section1250(c)) (and the straight line method shall be used for such section1250property) or to any other property if the depreciation deduction determined under\n                              section168with respect to such other property for purposes of the regular tax is determined\n                              by using the straight line method.",
+    "definitions": null
+  },
+  {
+    "section": "56",
+    "subsection": "(a)(1)(B)",
+    "source_subsections": [
+      "(a)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "For Certain Property",
+    "text": "This paragraph shall not apply to property described in paragraph(1),(2),(3), or(4)of section168(f), or in section168(e)(3)(C)(iv).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "This paragraph shall not apply to property described in paragraph(1),(2),(3), or(4)of section168(f), or in section168(e)(3)(C)(iv)."
+    },
+    "cross_references": [
+      {
+        "section": "168(f)",
+        "reason": "paragraph(1),(2),(3), or(4)of..."
+      },
+      {
+        "section": "168(e)(3)(C)(iv)",
+        "reason": ", or in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56(a)(1)(B)Exception For Certain Property\u2014This paragraph shall not apply to property described in paragraph(1),(2),(3), or(4)of section168(f), or in section168(e)(3)(C)(iv).",
+    "definitions": null
+  },
+  {
+    "section": "56",
+    "subsection": "(a)(1)(C)(i)",
+    "source_subsections": [
+      "(a)(1)(C)(i)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "This paragraph shall not apply to property placed in service after December 31, 1986, to which the amendments made by section201of the Tax Reform Act of 1986 do not apply by reason of section 203, 204, or 251(d) of such Act.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "This paragraph shall not apply to property placed in service after December 31, 1986, to which the amendments made by section201of the Tax Reform Act of 1986 do not apply by reason of section 203, 204, or 251(d) of such Act."
+    },
+    "cross_references": [
+      {
+        "section": "201o",
+        "reason": "which the amendments made by..."
+      },
+      {
+        "section": "203",
+        "reason": "986 do not apply by reason of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56(a)(1)(C)(i)In General\u2014This paragraph shall not apply to property placed in service after December 31, 1986,\n                           to which the amendments made by section201of the Tax Reform Act of 1986 do not apply by reason of section 203, 204, or 251(d)\n                           of such Act.",
+    "definitions": null
+  },
+  {
+    "section": "56",
+    "subsection": "(a)(1)(C)(ii)",
+    "source_subsections": [
+      "(a)(1)(C)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Certain Property Placed In Service Before 1987",
+    "text": "This paragraph shall apply to any property to which the amendments made by section201of the Tax Reform Act of 1986 apply by reason of an election under section 203(a)(1)(B) of such Act without regard to the requirement of subparagraph (A) that the property be placed in service after December 31, 1986.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "This paragraph shall apply to any property to which the amendments made by section201of the Tax Reform Act of 1986 apply by reason of an election under section 203(a)(1)(B) of such Act without regard to the requirement of subparagraph (A) that the property be placed in service after December 31, 1986."
+    },
+    "cross_references": [
+      {
+        "section": "201o",
+        "reason": "which the amendments made by..."
+      },
+      {
+        "section": "203(a)(1)(B)",
+        "reason": "y reason of an election under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56(a)(1)(C)(ii)Treatment Of Certain Property Placed In Service Before 1987\u2014This paragraph shall apply to any property to which the amendments made by section201of the Tax Reform Act of 1986 apply by reason of an election under section 203(a)(1)(B)\n                           of such Act without regard to the requirement of subparagraph (A) that the property\n                           be placed in service after December 31, 1986.",
+    "definitions": null
+  },
+  {
+    "section": "56",
+    "subsection": "(a)(1)(D)",
+    "source_subsections": [
+      "(a)(1)(D)"
+    ],
+    "rule_type": "condition",
+    "title": "Rules",
+    "text": "With respect to public utility property described in section168(i)(10), the Secretary shall prescribe the requirements of a normalization method of accounting for this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "With respect to public utility property described in section168(i)(10), the Secretary shall prescribe the requirements of a normalization method of accounting for this section."
+    },
+    "cross_references": [
+      {
+        "section": "168(i)(10)",
+        "reason": "utility property described in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56(a)(1)(D)Normalization Rules\u2014With respect to public utility property described in section168(i)(10), the Secretary shall prescribe the requirements of a normalization method of accounting\n                        for this section.",
+    "definitions": null
+  },
+  {
+    "section": "56",
+    "subsection": "(a)(2)(A)",
+    "source_subsections": [
+      "(a)(2)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "With respect to each mine or other natural deposit (other than an oil, gas, or geothermal well) of the taxpayer, the amount allowable as a deduction under section616(a)or617(a)(determined without regard to section291(b)) in computing the regular tax for costs paid or incurred after December 31, 1986, shall be capitalized and amortized ratably over the 10-year period beginning with the taxable year in which the expenditures were made.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "With respect to each mine or other natural deposit (other than an oil, gas, or geothermal well) of the taxpayer, the amount allowable as a deduction under section616(a)or617(a)(determined without regard to section291(b)) in computing the regular tax for costs paid or incurred after December 31, 1986, shall be capitalized and amortized ratably over the 10-year period beginning with the taxable year in which the expenditures were made."
+    },
+    "cross_references": [
+      {
+        "section": "616(a)",
+        "reason": "llowable as a deduction under..."
+      },
+      {
+        "section": "291(b)",
+        "reason": "(determined without regard to..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56(a)(2)(A)In General\u2014With respect to each mine or other natural deposit (other than an oil, gas, or geothermal\n                        well) of the taxpayer, the amount allowable as a deduction under section616(a)or617(a)(determined without regard to section291(b)) in computing the regular tax for costs paid or incurred after December 31, 1986,\n                        shall be capitalized and amortized ratably over the 10-year period beginning with\n                        the taxable year in which the expenditures were made.",
+    "definitions": null
+  },
+  {
+    "section": "56",
+    "subsection": "(a)(2)(B)",
+    "source_subsections": [
+      "(a)(2)(B)",
+      "(a)(2)(B)(i)",
+      "(a)(2)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Allowed",
+    "text": "If a loss is sustained with respect to any property described in subparagraph(A), a deduction shall be allowed for the expenditures described in subparagraph(A)for the taxable year in which such loss is sustained in an amount equal to the lesser of\u2014\u2014the amount allowable under section165(a)for the expenditures if they had remained capitalized, or\u2014the amount of such expenditures which have not previously been amortized under subparagraph(A).",
+    "conditions": [
+      "a loss is sustained with respect to any property described in subparagraph(A), a deduction shall be allowed for the expenditures described in subparagraph(A)for the taxable year in which such loss is sustained in an amount equal to the lesser of\u2014\u2014the amount allowable under section165(a)for the expenditures",
+      "they had remained capitalized, or\u2014the amount of such expenditures which have not previously been amortized under subparagraph(A)."
+    ],
+    "computations": [
+      {
+        "operation": "min",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "a loss is sustained with respect to any property described in subparagraph(A), a deduction shall be allowed for the expenditures described in subparagraph(A)for the taxable year in which such loss is sustained in an amount equal to the lesser of\u2014\u2014the amount allowable under section165(a)for the expenditures",
+        "they had remained capitalized, or\u2014the amount of such expenditures which have not previously been amortized under subparagraph(A)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "165(a)",
+        "reason": "f\u2014\u2014the amount allowable under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56(a)(2)(B)Loss Allowed\u2014If a loss is sustained with respect to any property described in subparagraph(A), a deduction shall be allowed for the expenditures described in subparagraph(A)for the taxable year in which such loss is sustained in an amount equal to the lesser\n                        of\u2014I.R.C. \u00a7 56(a)(2)(B)(i)\u2014the amount allowable under section165(a)for the expenditures if they had remained capitalized, orI.R.C. \u00a7 56(a)(2)(B)(ii)\u2014the amount of such expenditures which have not previously been amortized under subparagraph(A).",
+    "definitions": null
+  },
+  {
+    "section": "56",
+    "subsection": "(a)(3)",
+    "source_subsections": [
+      "(a)(3)"
+    ],
+    "rule_type": "definition",
+    "title": "Of Certain Long",
+    "text": "Term Contracts\u2014In the case of any long-term contract entered into by the taxpayer on or after March 1, 1986, the taxable income from such contract shall be determined under the percentage of completion method of accounting (as modified by section460(b)). For purposes of the preceding sentence, in the case of a contract described in section460(e)(1), the percentage of the contract completed shall be determined under section460(b)(1)by using the simplified procedures for allocation of costs prescribed under section460(b)(3). The first sentence of this paragraph shall not apply to any residential construction contract (as defined in section460(e)(4)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Term Contracts\u2014In the case of any long-term contract entered into by the taxpayer on or after March 1, 1986, the taxable income from such contract shall be determined under the percentage of completion method of accounting (as modified by section460(b)). For purposes of the preceding sentence, in the case of a contract described in section460(e)(1), the percentage of the contract completed shall be determined under section460(b)(1)by using the simplified procedures for allocation of costs prescribed under section460(b)(3). The first sentence of this paragraph shall not apply to any residential construction contract (as defined in section460(e)(4))."
+    },
+    "cross_references": [
+      {
+        "section": "460(b)",
+        "reason": "of accounting (as modified by..."
+      },
+      {
+        "section": "460(e)(1)",
+        "reason": "se of a contract described in..."
+      },
+      {
+        "section": "460(b)(1)",
+        "reason": "ted shall be determined under..."
+      },
+      {
+        "section": "460(b)(3)",
+        "reason": "ion of costs prescribed under..."
+      },
+      {
+        "section": "460(e)(4)",
+        "reason": "ction contract (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56(a)(3)Treatment Of Certain Long-Term Contracts\u2014In the case of any long-term contract entered into by the taxpayer on or after March\n                     1, 1986, the taxable income from such contract shall be determined under the percentage\n                     of completion method of accounting (as modified by section460(b)). For purposes of the preceding sentence, in the case of a contract described in\n                     section460(e)(1), the percentage of the contract completed shall be determined under section460(b)(1)by using the simplified procedures for allocation of costs prescribed under section460(b)(3). The first sentence of this paragraph shall not apply to any residential construction\n                     contract (as defined in section460(e)(4)).",
+    "definitions": null
+  },
+  {
+    "section": "56",
+    "subsection": "(a)(4)",
+    "source_subsections": [
+      "(a)(4)"
+    ],
+    "rule_type": "condition",
+    "title": "Tax Net Operating Loss Deduction",
+    "text": "The alternative tax net operating loss deduction shall be allowed in lieu of the net operating loss deduction allowed under section172.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The alternative tax net operating loss deduction shall be allowed in lieu of the net operating loss deduction allowed under section172."
+    },
+    "cross_references": [
+      {
+        "section": "172",
+        "reason": "loss deduction allowed under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56(a)(4)Alternative Tax Net Operating Loss Deduction\u2014The alternative tax net operating loss deduction shall be allowed in lieu of the net\n                     operating loss deduction allowed under section172.",
+    "definitions": null
+  },
+  {
+    "section": "56",
+    "subsection": "(a)(5)",
+    "source_subsections": [
+      "(a)(5)"
+    ],
+    "rule_type": "condition",
+    "title": "Control Facilities",
+    "text": "In the case of any certified pollution control facility placed in service after December 31, 1986, the deduction allowable under section169(without regard to section291) shall be determined under the alternative system of section168(g). In the case of such a facility placed in service after December 31, 1998, such deduction shall be determined under section168using the straight line method.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any certified pollution control facility placed in service after December 31, 1986, the deduction allowable under section169(without regard to section291) shall be determined under the alternative system of section168(g). In the case of such a facility placed in service after December 31, 1998, such deduction shall be determined under section168using the straight line method."
+    },
+    "cross_references": [
+      {
+        "section": "169",
+        "reason": "the deduction allowable under..."
+      },
+      {
+        "section": "291",
+        "reason": "(without regard to..."
+      },
+      {
+        "section": "168(g)",
+        "reason": "der the alternative system of..."
+      },
+      {
+        "section": "168u",
+        "reason": "ion shall be determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56(a)(5)Pollution Control Facilities\u2014In the case of any certified pollution control facility placed in service after December\n                     31, 1986, the deduction allowable under section169(without regard to section291) shall be determined under the alternative system of section168(g). In the case of such a facility placed in service after December 31, 1998, such deduction\n                     shall be determined under section168using the straight line method.",
+    "definitions": null
+  },
+  {
+    "section": "56",
+    "subsection": "(a)(6)",
+    "source_subsections": [
+      "(a)(6)"
+    ],
+    "rule_type": "condition",
+    "title": "Basis",
+    "text": "The adjusted basis of any property to which paragraph(1)or(5)applies (or with respect to which there are any expenditures to which paragraph(2)or subsection(b)(2)applies) shall be determined on the basis of the treatment prescribed in paragraph(1),(2), or(5), or subsection(b)(2), whichever applies.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The adjusted basis of any property to which paragraph(1)or(5)applies (or with respect to which there are any expenditures to which paragraph(2)or subsection(b)(2)applies) shall be determined on the basis of the treatment prescribed in paragraph(1),(2), or(5), or subsection(b)(2), whichever applies."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56(a)(6)Adjusted Basis\u2014The adjusted basis of any property to which paragraph(1)or(5)applies (or with respect to which there are any expenditures to which paragraph(2)or subsection(b)(2)applies) shall be determined on the basis of the treatment prescribed in paragraph(1),(2), or(5), or subsection(b)(2), whichever applies.",
+    "definitions": null
+  },
+  {
+    "section": "56",
+    "subsection": "(a)(7)",
+    "source_subsections": [
+      "(a)(7)"
+    ],
+    "rule_type": "condition",
+    "title": "87 Not Applicable",
+    "text": "Section87(relating to alcohol fuel credit) shall not apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Section87(relating to alcohol fuel credit) shall not apply."
+    },
+    "cross_references": [
+      {
+        "section": "87",
+        "reason": "..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56(a)(7)Section 87 Not Applicable\u2014Section87(relating to alcohol fuel credit) shall not apply.",
+    "definitions": null
+  },
+  {
+    "section": "56",
+    "subsection": "(b)(1)(A)",
+    "source_subsections": [
+      "(b)(1)(A)",
+      "(b)(1)(A)(i)",
+      "(b)(1)(A)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "No deduction shall be allowed\u2014\u2014for any miscellaneous itemized deduction (as defined in section67(b)), or\u2014for any taxes described in paragraph(1),(2), or(3)of section164(a)or clause(ii)of section164(b)(5)(A).Clause(ii)shall not apply to any amount allowable in computing adjusted gross income.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No deduction shall be allowed\u2014\u2014for any miscellaneous itemized deduction (as defined in section67(b)), or\u2014for any taxes described in paragraph(1),(2), or(3)of section164(a)or clause(ii)of section164(b)(5)(A).Clause(ii)shall not apply to any amount allowable in computing adjusted gross income."
+    },
+    "cross_references": [
+      {
+        "section": "67(b)",
+        "reason": "ized deduction (as defined in..."
+      },
+      {
+        "section": "164(a)",
+        "reason": "in paragraph(1),(2), or(3)of..."
+      },
+      {
+        "section": "164(b)(5)(A)",
+        "reason": "or clause(ii)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56(b)(1)(A)In General\u2014No deduction shall be allowed\u2014I.R.C. \u00a7 56(b)(1)(A)(i)\u2014for any miscellaneous itemized deduction (as defined in section67(b)), orI.R.C. \u00a7 56(b)(1)(A)(ii)\u2014for any taxes described in paragraph(1),(2), or(3)of section164(a)or clause(ii)of section164(b)(5)(A).Clause(ii)shall not apply to any amount allowable in computing adjusted gross income.",
+    "definitions": null
+  },
+  {
+    "section": "56",
+    "subsection": "(b)(1)(B)",
+    "source_subsections": [
+      "(b)(1)(B)",
+      "(b)(1)(B)(i)",
+      "(b)(1)(B)(ii)",
+      "(b)(1)(B)(iii)",
+      "(b)(1)(B)(iv)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "In determining the amount allowable as a deduction for interest, subsections(d)and(h)of section163shall apply, except that\u2014\u2014in lieu of the exception under section163(h)(2)(D), the term \u201cpersonal interest\u201d shall not include any qualified housing interest (as defined in subsection(e)),\u2014interest on any specified private activity bond (and any amount treated as interest on a specified private activity bond under section57(a)(5)(B)), and any deduction referred to in section57(a)(5)(A), shall be treated as includible in gross income (or as deductible) for purposes of applying section163(d),\u2014in lieu of the exception under section163(d)(3)(B)(i), the term \u201cinvestment interest\u201d shall not include any qualified housing interest (as defined in subsection(e)), and\u2014the adjustments of this section and sections57and58shall apply in determining net investment income under section163(d).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "that\u2014\u2014in lieu of the exception under section163(h)(2)(D), the term \u201cpersonal interest\u201d shall not include any qualified housing interest (as defined in subsection(e)),\u2014interest on any specified private activity bond (and any amount treated as interest on a specified private activity bond under section57(a)(5)(B)), and any deduction referred to in section57(a)(5)(A), shall be treated as includible in gross income (or as deductible) for purposes of applying section163(d),\u2014in lieu of the exception under section163(d)(3)(B)(i), the term \u201cinvestment interest\u201d shall not include any qualified housing interest (as defined in subsection(e)), and\u2014the adjustments of this section and sections57and58shall apply in determining net investment income under section163(d)."
+      ],
+      "result": "In determining the amount allowable as a deduction for interest, subsections(d)and(h)of section163shall apply,"
+    },
+    "cross_references": [
+      {
+        "section": "163s",
+        "reason": "erest, subsections(d)and(h)of..."
+      },
+      {
+        "section": "163(h)(2)(D)",
+        "reason": "n lieu of the exception under..."
+      },
+      {
+        "section": "57(a)(5)(B)",
+        "reason": "d private activity bond under..."
+      },
+      {
+        "section": "57(a)(5)(A)",
+        "reason": "any deduction referred to in..."
+      },
+      {
+        "section": "163(d)",
+        "reason": "ble) for purposes of applying..."
+      },
+      {
+        "section": "163(d)(3)(B)(i)",
+        "reason": "n lieu of the exception under..."
+      },
+      {
+        "section": "163(d)",
+        "reason": "g net investment income under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56(b)(1)(B)Interest\u2014In determining the amount allowable as a deduction for interest, subsections(d)and(h)of section163shall apply, except that\u2014I.R.C. \u00a7 56(b)(1)(B)(i)\u2014in lieu of the exception under section163(h)(2)(D), the term \u201cpersonal interest\u201d shall not include any qualified housing interest (as\n                           defined in subsection(e)),I.R.C. \u00a7 56(b)(1)(B)(ii)\u2014interest on any specified private activity bond (and any amount treated as interest\n                           on a specified private activity bond under section57(a)(5)(B)), and any deduction referred to in section57(a)(5)(A), shall be treated as includible in gross income (or as deductible) for purposes of\n                           applying section163(d),I.R.C. \u00a7 56(b)(1)(B)(iii)\u2014in lieu of the exception under section163(d)(3)(B)(i), the term \u201cinvestment interest\u201d shall not include any qualified housing interest\n                           (as defined in subsection(e)), andI.R.C. \u00a7 56(b)(1)(B)(iv)\u2014the adjustments of this section and sections57and58shall apply in determining net investment income under section163(d).",
+    "definitions": null
+  },
+  {
+    "section": "56",
+    "subsection": "(b)(1)(C)",
+    "source_subsections": [
+      "(b)(1)(C)"
+    ],
+    "rule_type": "limitation",
+    "title": "Of Certain Recoveries",
+    "text": "No recovery of any tax to which subparagraph(A)(ii)applied shall be included in gross income for purposes of determining alternative minimum taxable income.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No recovery of any tax to which subparagraph(A)(ii)applied shall be included in gross income for purposes of determining alternative minimum taxable income."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56(b)(1)(C)Treatment Of Certain Recoveries\u2014No recovery of any tax to which subparagraph(A)(ii)applied shall be included in gross income for purposes of determining alternative\n                        minimum taxable income.",
+    "definitions": null
+  },
+  {
+    "section": "56",
+    "subsection": "(b)(1)(D)",
+    "source_subsections": [
+      "(b)(1)(D)"
+    ],
+    "rule_type": "condition",
+    "title": "Deduction And Deduction For Personal Exemptions Not Allowed",
+    "text": "The standard deduction under section63(c), the deduction for personal exemptions under section151, and the deduction under section642(b)shall not be allowed.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The standard deduction under section63(c), the deduction for personal exemptions under section151, and the deduction under section642(b)shall not be allowed."
+    },
+    "cross_references": [
+      {
+        "section": "63(c)",
+        "reason": "The standard deduction under..."
+      },
+      {
+        "section": "151",
+        "reason": "for personal exemptions under..."
+      },
+      {
+        "section": "642(b)",
+        "reason": ", and the deduction under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56(b)(1)(D)Standard Deduction And Deduction For Personal Exemptions Not Allowed\u2014The standard deduction under section63(c), the deduction for personal exemptions under section151, and the deduction under section642(b)shall not be allowed.",
+    "definitions": null
+  },
+  {
+    "section": "56",
+    "subsection": "(b)(1)(E)",
+    "source_subsections": [
+      "(b)(1)(E)"
+    ],
+    "rule_type": "condition",
+    "title": "68 Not Applicable",
+    "text": "Section68shall not apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Section68shall not apply."
+    },
+    "cross_references": [
+      {
+        "section": "68s",
+        "reason": "..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56(b)(1)(E)Section 68 Not Applicable\u2014Section68shall not apply.",
+    "definitions": null
+  },
+  {
+    "section": "56",
+    "subsection": "(b)(2)(A)",
+    "source_subsections": [
+      "(b)(2)(A)",
+      "(b)(2)(A)(i)",
+      "(b)(2)(A)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The amount allowable as a deduction under section173,174(a), or174A(a)in computing the regular tax for amounts paid or incurred after December 31, 1986, shall be capitalized and\u2014\u2014in the case of circulation expenditures described in section173, shall be amortized ratably over the 3-year period beginning with the taxable year in which the expenditures were made, or\u2014in the case of foreign research or experimental expenditures described in section174(a)and domestic research or experimental expenditures in section174A(a), shall be amortized ratably over the 10-year period beginning with the taxable year in which the expenditures were made.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount allowable as a deduction under section173,174(a), or174A(a)in computing the regular tax for amounts paid or incurred after December 31, 1986, shall be capitalized and\u2014\u2014in the case of circulation expenditures described in section173, shall be amortized ratably over the 3-year period beginning with the taxable year in which the expenditures were made, or\u2014in the case of foreign research or experimental expenditures described in section174(a)and domestic research or experimental expenditures in section174A(a), shall be amortized ratably over the 10-year period beginning with the taxable year in which the expenditures were made."
+    },
+    "cross_references": [
+      {
+        "section": "173",
+        "reason": "llowable as a deduction under..."
+      },
+      {
+        "section": "173",
+        "reason": "ion expenditures described in..."
+      },
+      {
+        "section": "174(a)",
+        "reason": "tal expenditures described in..."
+      },
+      {
+        "section": "174A(a)",
+        "reason": "experimental expenditures in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56(b)(2)(A)In General\u2014The amount allowable as a deduction under section173,174(a), or174A(a)in computing the regular tax for amounts paid or incurred after December 31, 1986,\n                        shall be capitalized and\u2014I.R.C. \u00a7 56(b)(2)(A)(i)\u2014in the case of circulation expenditures described in section173, shall be amortized ratably over the 3-year period beginning with the taxable year\n                           in which the expenditures were made, orI.R.C. \u00a7 56(b)(2)(A)(ii)\u2014in the case of foreign research or experimental expenditures described in section174(a)and domestic research or experimental expenditures in section174A(a), shall be amortized ratably over the 10-year period beginning with the taxable year\n                           in which the expenditures were made.",
+    "definitions": null
+  },
+  {
+    "section": "56",
+    "subsection": "(b)(2)(B)",
+    "source_subsections": [
+      "(b)(2)(B)",
+      "(b)(2)(B)(i)",
+      "(b)(2)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Allowed",
+    "text": "If a loss is sustained with respect to any property described in subparagraph(A), a deduction shall be allowed for the expenditures described in subparagraph(A)for the taxable year in which such loss is sustained in an amount equal to the lesser of\u2014\u2014the amount allowable under section165(a)for the expenditures if they had remained capitalized, or\u2014the amount of such expenditures which have not previously been amortized under subparagraph(A).",
+    "conditions": [
+      "a loss is sustained with respect to any property described in subparagraph(A), a deduction shall be allowed for the expenditures described in subparagraph(A)for the taxable year in which such loss is sustained in an amount equal to the lesser of\u2014\u2014the amount allowable under section165(a)for the expenditures",
+      "they had remained capitalized, or\u2014the amount of such expenditures which have not previously been amortized under subparagraph(A)."
+    ],
+    "computations": [
+      {
+        "operation": "min",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "a loss is sustained with respect to any property described in subparagraph(A), a deduction shall be allowed for the expenditures described in subparagraph(A)for the taxable year in which such loss is sustained in an amount equal to the lesser of\u2014\u2014the amount allowable under section165(a)for the expenditures",
+        "they had remained capitalized, or\u2014the amount of such expenditures which have not previously been amortized under subparagraph(A)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "165(a)",
+        "reason": "f\u2014\u2014the amount allowable under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56(b)(2)(B)Loss Allowed\u2014If a loss is sustained with respect to any property described in subparagraph(A), a deduction shall be allowed for the expenditures described in subparagraph(A)for the taxable year in which such loss is sustained in an amount equal to the lesser\n                        of\u2014I.R.C. \u00a7 56(b)(2)(B)(i)\u2014the amount allowable under section165(a)for the expenditures if they had remained capitalized, orI.R.C. \u00a7 56(b)(2)(B)(ii)\u2014the amount of such expenditures which have not previously been amortized under subparagraph(A).",
+    "definitions": null
+  },
+  {
+    "section": "56",
+    "subsection": "(b)(2)(C)",
+    "source_subsections": [
+      "(b)(2)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "for Certain Research and Experimental Expenditures.",
+    "text": "If the taxpayer materially participates (within the meaning of section469(h)) in an activity, this paragraph shall not apply to any amount allowable as a deduction under section174(a)or174A(a)for expenditures paid or incurred in connection with such activity.",
+    "conditions": [
+      "the taxpayer materially participates (within the meaning of section469(h)) in an activity, this paragraph shall not apply to any amount allowable as a deduction under section174(a)or174A(a)for expenditures paid or incurred in connection with such activity."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the taxpayer materially participates (within the meaning of section469(h)) in an activity, this paragraph shall not apply to any amount allowable as a deduction under section174(a)or174A(a)for expenditures paid or incurred in connection with such activity."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "469(h)",
+        "reason": "ipates (within the meaning of..."
+      },
+      {
+        "section": "174(a)",
+        "reason": "llowable as a deduction under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56(b)(2)(C)Exception for Certain Research and Experimental Expenditures.\u2014If the taxpayer materially participates (within the meaning of section469(h)) in an activity, this paragraph shall not apply to any amount allowable as a deduction\n                        under section174(a)or174A(a)for expenditures paid or incurred in connection with such activity.",
+    "definitions": null
+  },
+  {
+    "section": "56",
+    "subsection": "(b)(3)",
+    "source_subsections": [
+      "(b)(3)"
+    ],
+    "rule_type": "definition",
+    "title": "Of Incentive Stock Options",
+    "text": "Section421shall not apply to the transfer of stock acquired pursuant to the exercise of an incentive stock option (as defined in section422). Section422(c)(2)shall apply in any case where the disposition and the inclusion for purposes of this part are within the same taxable year and such section shall not apply in any other case. The adjusted basis of any stock so acquired shall be determined on the basis of the treatment prescribed by this paragraph.",
+    "conditions": [
+      "the disposition and the inclusion for purposes of this part are within the same taxable year and such section shall not apply in any other case. The adjusted basis of any stock so acquired shall be determined on the basis of the treatment prescribed by this paragraph."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the disposition and the inclusion for purposes of this part are within the same taxable year and such section shall not apply in any other case. The adjusted basis of any stock so acquired shall be determined on the basis of the treatment prescribed by this paragraph."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Section421shall not apply to the transfer of stock acquired pursuant to the exercise of an incentive stock option (as defined in section422). Section422(c)(2)shall apply in any case"
+    },
+    "cross_references": [
+      {
+        "section": "421s",
+        "reason": "..."
+      },
+      {
+        "section": "422",
+        "reason": "e stock option (as defined in..."
+      },
+      {
+        "section": "422(c)(2)",
+        "reason": ")...."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56(b)(3)Treatment Of Incentive Stock Options\u2014Section421shall not apply to the transfer of stock acquired pursuant to the exercise of an\n                     incentive stock option (as defined in section422). Section422(c)(2)shall apply in any case where the disposition and the inclusion for purposes of this\n                     part are within the same taxable year and such section shall not apply in any other\n                     case. The adjusted basis of any stock so acquired shall be determined on the basis\n                     of the treatment prescribed by this paragraph.",
+    "definitions": null
+  },
+  {
+    "section": "56",
+    "subsection": "(c)",
+    "source_subsections": [
+      "(c)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "[Repealed.Pub. L. 115-97, Sec. 12001(b)(8)(A), Dec. 22, 2017.]",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "[Repealed.Pub. L. 115-97, Sec. 12001(b)(8)(A), Dec. 22, 2017.]"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56(c)Repealed\u2014[Repealed.Pub. L. 115-97, Sec. 12001(b)(8)(A), Dec. 22, 2017.]",
+    "definitions": null
+  },
+  {
+    "section": "56",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)",
+      "(d)(1)(A)",
+      "(d)(1)(A)(i)",
+      "(d)(1)(A)(i)(I)",
+      "(d)(1)(A)(i)(II)",
+      "(d)(1)(A)(ii)",
+      "(d)(1)(A)(ii)(I)",
+      "(d)(1)(A)(ii)(II)",
+      "(d)(1)(B)",
+      "(d)(1)(B)(i)",
+      "(d)(1)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "For purposes of subsection(a)(4), the term \u201calternative tax net operating loss deduction\u201d means the net operating loss deduction allowable for the taxable year under section172, except that\u2014\u2014the amount of such deduction shall not exceed the sum of\u2014\u2014the lesser of\u2014\u2014the amount of such deduction attributable to net operating losses (other than the deduction described in clause(ii)(I), or\u201490 percent of alternative minimum taxable income determined without regard to such deduction and the deduction under section199, plus\u2014the lesser of\u2014\u2014the amount of such deduction attributable to an applicable net operating loss with respect to which an election is made under section172(b)(1)(H)(as in effect before its repeal by the Tax Increase Prevention Act of 2014), or\u2014alternative minimum taxable income determined without regard to such deduction and the deduction under section199reduced by the amount determined under clause(i), and\u2014in determining the amount of such deduction\u2014\u2014the net operating loss (within the meaning of section172(c)) for any loss year shall be adjusted as provided in paragraph(2), and\u2014appropriate adjustments in the application of section172(b)(2)shall be made to take into account the limitation of subparagraph(A).",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "min",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      },
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.9,
+        "text": "90 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "that\u2014\u2014the amount of such deduction shall not exceed the sum of\u2014\u2014the lesser of\u2014\u2014the amount of such deduction attributable to net operating losses (other than the deduction described in clause(ii)(I), or\u201490 percent of alternative minimum taxable income determined without regard to such deduction and the deduction under section199, plus\u2014the lesser of\u2014\u2014the amount of such deduction attributable to an applicable net operating loss with respect to which an election is made under section172(b)(1)(H)(as in effect before its repeal by the Tax Increase Prevention Act of 2014), or\u2014alternative minimum taxable income determined without regard to such deduction and the deduction under section199reduced by the amount determined under clause(i), and\u2014in determining the amount of such deduction\u2014\u2014the net operating loss (within the meaning of section172(c)) for any loss year shall be adjusted as provided in paragraph(2), and\u2014appropriate adjustments in the application of section172(b)(2)shall be made to take into account the limitation of subparagraph(A)."
+      ],
+      "result": "For purposes of subsection(a)(4), the term \u201calternative tax net operating loss deduction\u201d means the net operating loss deduction allowable for the taxable year under section172,"
+    },
+    "cross_references": [
+      {
+        "section": "172",
+        "reason": "le for the taxable year under..."
+      },
+      {
+        "section": "199",
+        "reason": "ction and the deduction under..."
+      },
+      {
+        "section": "172(b)(1)(H)",
+        "reason": "ich an election is made under..."
+      },
+      {
+        "section": "199r",
+        "reason": "ction and the deduction under..."
+      },
+      {
+        "section": "172(c)",
+        "reason": "g loss (within the meaning of..."
+      },
+      {
+        "section": "172(b)(2)",
+        "reason": "stments in the application of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56(d)(1)In General\u2014For purposes of subsection(a)(4), the term \u201calternative tax net operating loss deduction\u201d means the net operating\n                     loss deduction allowable for the taxable year under section172, except that\u2014I.R.C. \u00a7 56(d)(1)(A)\u2014the amount of such deduction shall not exceed the sum of\u2014I.R.C. \u00a7 56(d)(1)(A)(i)\u2014the lesser of\u2014I.R.C. \u00a7 56(d)(1)(A)(i)(I)\u2014the amount of such deduction attributable to net operating losses (other than the\n                              deduction described in clause(ii)(I), orI.R.C. \u00a7 56(d)(1)(A)(i)(II)\u201490 percent of alternative minimum taxable income determined without regard to such\n                              deduction and the deduction under section199, plusI.R.C. \u00a7 56(d)(1)(A)(ii)\u2014the lesser of\u2014I.R.C. \u00a7 56(d)(1)(A)(ii)(I)\u2014the amount of such deduction attributable to an applicable net operating loss with\n                              respect to which an election is made under section172(b)(1)(H)(as in effect before its repeal by the Tax Increase Prevention Act of 2014), orI.R.C. \u00a7 56(d)(1)(A)(ii)(II)\u2014alternative minimum taxable income determined without regard to such deduction and\n                              the deduction under section199reduced by the amount determined under clause(i), andI.R.C. \u00a7 56(d)(1)(B)\u2014in determining the amount of such deduction\u2014I.R.C. \u00a7 56(d)(1)(B)(i)\u2014the net operating loss (within the meaning of section172(c)) for any loss year shall be adjusted as provided in paragraph(2), andI.R.C. \u00a7 56(d)(1)(B)(ii)\u2014appropriate adjustments in the application of section172(b)(2)shall be made to take into account the limitation of subparagraph(A).",
+    "definitions": {
+      "term": "alternative tax net operating loss deduction",
+      "requirements": [
+        "the net operating loss deduction allowable for the taxable year under section172, except that\u2014\u2014the amount of such deduction shall not exceed the sum of\u2014\u2014the lesser of\u2014\u2014the amount of such deduction attributable to net operating losses (other than the deduction described in clause(ii)(I), or\u201490 percent of alternative minimum taxable income determined without regard to such deduction and the deduction under section199, plus\u2014the lesser of\u2014\u2014the amount of such deduction attributable to an applicable net operating loss with respect to which an election is made under section172(b)(1)(H)(as in effect before its repeal by the Tax Increase Prevention Act of 2014), or\u2014alternative minimum taxable income determined without regard to such deduction and the deduction under section199reduced by the amount determined under clause(i), and\u2014in determining the amount of such deduction\u2014\u2014the net operating loss (within the meaning of section172(c)) for any loss year shall be adjusted as provided in paragraph(2), and\u2014appropriate adjustments in the application of section172(b)(2)shall be made to take into account the limitation of subparagraph(A)."
+      ]
+    }
+  },
+  {
+    "section": "56",
+    "subsection": "(d)(2)(A)",
+    "source_subsections": [
+      "(d)(2)(A)",
+      "(d)(2)(A)(i)",
+      "(d)(2)(A)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Loss Years",
+    "text": "In the case of a loss year beginning after December 31, 1986, the net operating loss for such year under section172(c)shall\u2014\u2014be determined with the adjustments provided in this section and section58, and\u2014be reduced by the items of tax preference determined under section57for such year.An item of tax preference shall be taken into account under clause(ii)only to the extent such item increased the amount of the net operating loss for the taxable year under section172(c).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a loss year beginning after December 31, 1986, the net operating loss for such year under section172(c)shall\u2014\u2014be determined with the adjustments provided in this section and section58, and\u2014be reduced by the items of tax preference determined under section57for such year.An item of tax preference shall be taken into account under clause(ii)only to the extent such item increased the amount of the net operating loss for the taxable year under section172(c)."
+    },
+    "cross_references": [
+      {
+        "section": "172(c)",
+        "reason": "ting loss for such year under..."
+      },
+      {
+        "section": "58",
+        "reason": "provided in this section and..."
+      },
+      {
+        "section": "57f",
+        "reason": "x preference determined under..."
+      },
+      {
+        "section": "172(c)",
+        "reason": "ss for the taxable year under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56(d)(2)(A)Post-1986 Loss Years\u2014In the case of a loss year beginning after December 31, 1986, the net operating loss\n                        for such year under section172(c)shall\u2014I.R.C. \u00a7 56(d)(2)(A)(i)\u2014be determined with the adjustments provided in this section and section58, andI.R.C. \u00a7 56(d)(2)(A)(ii)\u2014be reduced by the items of tax preference determined under section57for such year.An item of tax preference shall be taken into account under clause(ii)only to the extent such item increased the amount of the net operating loss for the\n                           taxable year under section172(c).",
+    "definitions": null
+  },
+  {
+    "section": "56",
+    "subsection": "(d)(2)(B)",
+    "source_subsections": [
+      "(d)(2)(B)"
+    ],
+    "rule_type": "computation",
+    "title": "Years",
+    "text": "In the case of loss years beginning before January 1, 1987, the amount of the net operating loss which may be carried over to taxable years beginning after December 31, 1986, for purposes of paragraph (2), shall be equal to the amount which may be carried from the loss year to the first taxable year of the taxpayer beginning after December 31, 1986.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of loss years beginning before January 1, 1987, the amount of the net operating loss which may be carried over to taxable years beginning after December 31, 1986, for purposes of paragraph (2), shall be equal to the amount which may be carried from the loss year to the first taxable year of the taxpayer beginning after December 31, 1986."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56(d)(2)(B)Pre-1987 Years\u2014In the case of loss years beginning before January 1, 1987, the amount of the net\n                        operating loss which may be carried over to taxable years beginning after December\n                        31, 1986, for purposes of paragraph (2), shall be equal to the amount which may be\n                        carried from the loss year to the first taxable year of the taxpayer beginning after\n                        December 31, 1986.",
+    "definitions": null
+  },
+  {
+    "section": "56",
+    "subsection": "(e)(1)",
+    "source_subsections": [
+      "(e)(1)",
+      "(e)(1)(A)",
+      "(e)(1)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cqualified housing interest\u201d means interest which is qualified residence interest (as defined in section163(h)(3)) and is paid or accrued during the taxable year on indebtedness which is incurred in acquiring, constructing, or substantially improving any property which\u2014\u2014is the principal residence (within the meaning of section121) of the taxpayer at the time such interest accrues, orEditor's Note:Subpar. B, below, before amendment byPub. L. 119-21, Sec. 70203(d)(1), is applicable to indebtedness incurred on or before Dec. 31, 2024.\u2014is a qualified dwelling which is a qualified residence (within the meaning of section163(h)(4)).Editor's Note:Subpar. B, below, after amendment byPub. L. 119-21, Sec. 70203(d)(1), is applicable to indebtedness incurred after Dec. 31, 2024.\u2014is a qualified dwelling which is a qualified residence (within the meaning of section163(h)(5)).Such term also includes interest on any indebtedness resulting from the refinancing of indebtedness meeting the requirements of the preceding sentence; but only to the extent that the amount of the indebtedness resulting from such refinancing does not exceed the amount of the refinanced indebtedness immediately before the refinancing.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified housing interest\u201d means interest which is qualified residence interest (as defined in section163(h)(3)) and is paid or accrued during the taxable year on indebtedness which is incurred in acquiring, constructing, or substantially improving any property which\u2014\u2014is the principal residence (within the meaning of section121) of the taxpayer at the time such interest accrues, orEditor's Note:Subpar. B, below, before amendment byPub. L. 119-21, Sec. 70203(d)(1), is applicable to indebtedness incurred on or before Dec. 31, 2024.\u2014is a qualified dwelling which is a qualified residence (within the meaning of section163(h)(4)).Editor's Note:Subpar. B, below, after amendment byPub. L. 119-21, Sec. 70203(d)(1), is applicable to indebtedness incurred after Dec. 31, 2024.\u2014is a qualified dwelling which is a qualified residence (within the meaning of section163(h)(5)).Such term also includes interest on any indebtedness resulting from the refinancing of indebtedness meeting the requirements of the preceding sentence; but only to the extent that the amount of the indebtedness resulting from such refinancing does not exceed the amount of the refinanced indebtedness immediately before the refinancing."
+    },
+    "cross_references": [
+      {
+        "section": "163(h)(3)",
+        "reason": "dence interest (as defined in..."
+      },
+      {
+        "section": "121",
+        "reason": "idence (within the meaning of..."
+      },
+      {
+        "section": "163(h)(4)",
+        "reason": "idence (within the meaning of..."
+      },
+      {
+        "section": "163(h)(5)",
+        "reason": "idence (within the meaning of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56(e)(1)In General\u2014The term \u201cqualified housing interest\u201d means interest which is qualified residence\n                     interest (as defined in section163(h)(3)) and is paid or accrued during the taxable year on indebtedness which is incurred\n                     in acquiring, constructing, or substantially improving any property which\u2014I.R.C. \u00a7 56(e)(1)(A)\u2014is the principal residence (within the meaning of section121) of the taxpayer at the time such interest accrues, orEditor's Note:Subpar. B, below, before amendment byPub. L. 119-21, Sec. 70203(d)(1), is applicable to indebtedness incurred  on or before Dec. 31,\n                              2024.I.R.C. \u00a7 56(e)(1)(B)\u2014is a qualified dwelling which is a qualified residence (within the meaning of section163(h)(4)).Editor's Note:Subpar. B, below, after amendment byPub. L. 119-21, Sec. 70203(d)(1), is applicable to indebtedness incurred  after Dec. 31, 2024.I.R.C. \u00a7 56(e)(1)(B)\u2014is a qualified dwelling which is a qualified residence (within the meaning of section163(h)(5)).Such term also includes interest on any indebtedness resulting from the refinancing\n                        of indebtedness meeting the requirements of the preceding sentence; but only to the\n                        extent that the amount of the indebtedness resulting from such refinancing does not\n                        exceed the amount of the refinanced indebtedness immediately before the refinancing.",
+    "definitions": {
+      "term": "qualified housing interest",
+      "requirements": [
+        "interest which is qualified residence interest (as defined in section163(h)(3)) and is paid or accrued during the taxable year on indebtedness which is incurred in acquiring, constructing, or substantially improving any property which\u2014\u2014is the principal residence (within the meaning of section121) of the taxpayer at the time such interest accrues, orEditor's Note:Subpar. B, below, before amendment byPub. L. 119-21, Sec. 70203(d)(1), is applicable to indebtedness incurred on or before Dec. 31, 2024.\u2014is a qualified dwelling which is a qualified residence (within the meaning of section163(h)(4)).Editor's Note:Subpar. B, below, after amendment byPub. L. 119-21, Sec. 70203(d)(1), is applicable to indebtedness incurred after Dec. 31, 2024.\u2014is a qualified dwelling which is a qualified residence (within the meaning of section163(h)(5)).Such term also includes interest on any indebtedness resulting from the refinancing of indebtedness meeting the requirements of the preceding sentence; but only to the extent that the amount of the indebtedness resulting from such refinancing does not exceed the amount of the refinanced indebtedness immediately before the refinancing."
+      ]
+    }
+  },
+  {
+    "section": "56",
+    "subsection": "(e)(2)",
+    "source_subsections": [
+      "(e)(2)",
+      "(e)(2)(A)",
+      "(e)(2)(B)",
+      "(e)(2)(C)",
+      "(e)(2)(D)"
+    ],
+    "rule_type": "definition",
+    "title": "Dwelling",
+    "text": "The term \u201cqualified dwelling\u201d means any\u2014\u2014house,\u2014apartment,\u2014condominium, or\u2014mobile home not used on a transient basis (within the meaning of section7701(a)(19)(C)(v)), including all structures or other property appurtenant thereto.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified dwelling\u201d means any\u2014\u2014house,\u2014apartment,\u2014condominium, or\u2014mobile home not used on a transient basis (within the meaning of section7701(a)(19)(C)(v)), including all structures or other property appurtenant thereto."
+    },
+    "cross_references": [
+      {
+        "section": "7701(a)(19)(C)(v)",
+        "reason": "basis (within the meaning of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56(e)(2)Qualified Dwelling\u2014The term \u201cqualified dwelling\u201d means any\u2014I.R.C. \u00a7 56(e)(2)(A)\u2014house,I.R.C. \u00a7 56(e)(2)(B)\u2014apartment,I.R.C. \u00a7 56(e)(2)(C)\u2014condominium, orI.R.C. \u00a7 56(e)(2)(D)\u2014mobile home not used on a transient basis (within the meaning of section7701(a)(19)(C)(v)), including all structures or other property appurtenant thereto.",
+    "definitions": {
+      "term": "qualified dwelling",
+      "requirements": [
+        "any\u2014\u2014house,\u2014apartment,\u2014condominium, or\u2014mobile home not used on a transient basis (within the meaning of section7701(a)(19)(C)(v)), including all structures or other property appurtenant thereto."
+      ]
+    }
+  },
+  {
+    "section": "56",
+    "subsection": "(e)(3)",
+    "source_subsections": [
+      "(e)(3)",
+      "(e)(3)(A)",
+      "(e)(3)(B)",
+      "(e)(3)(B)(i)",
+      "(e)(3)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Rule For Indebtedness Incurred Before July 1, 1982",
+    "text": "The term \u201cqualified housing interest\u201d includes interest which is qualified residence interest (as defined in section163(h)(3)) and is paid or accrued on indebtedness which\u2014\u2014was incurred by the taxpayer before July 1, 1982, and\u2014is secured by property which, at the time such indebtedness was incurred, was\u2014\u2014the principal residence (within the meaning of section121) of the taxpayer, or\u2014a qualified dwelling used by the taxpayer (or any member of his family (within the meaning of section267(c)(4))).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified housing interest\u201d includes interest which is qualified residence interest (as defined in section163(h)(3)) and is paid or accrued on indebtedness which\u2014\u2014was incurred by the taxpayer before July 1, 1982, and\u2014is secured by property which, at the time such indebtedness was incurred, was\u2014\u2014the principal residence (within the meaning of section121) of the taxpayer, or\u2014a qualified dwelling used by the taxpayer (or any member of his family (within the meaning of section267(c)(4)))."
+    },
+    "cross_references": [
+      {
+        "section": "163(h)(3)",
+        "reason": "dence interest (as defined in..."
+      },
+      {
+        "section": "121",
+        "reason": "idence (within the meaning of..."
+      },
+      {
+        "section": "267(c)(4)",
+        "reason": "family (within the meaning of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56(e)(3)Special Rule For Indebtedness Incurred Before July 1, 1982\u2014The term \u201cqualified housing interest\u201d includes interest which is qualified residence\n                     interest (as defined in section163(h)(3)) and is paid or accrued on indebtedness which\u2014I.R.C. \u00a7 56(e)(3)(A)\u2014was incurred by the taxpayer before July 1, 1982, andI.R.C. \u00a7 56(e)(3)(B)\u2014is secured by property which, at the time such indebtedness was incurred, was\u2014I.R.C. \u00a7 56(e)(3)(B)(i)\u2014the principal residence (within the meaning of section121) of the taxpayer, orI.R.C. \u00a7 56(e)(3)(B)(ii)\u2014a qualified dwelling used by the taxpayer (or any member of his family (within the\n                           meaning of section267(c)(4))).",
+    "definitions": null
+  },
+  {
+    "section": "56",
+    "subsection": "(f)",
+    "source_subsections": [
+      "(f)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "[RepealedPub. L. 101-508, Sec. 11801(a)(3), Nov. 5, 1990, 104 Stat. 1388.]",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "[RepealedPub. L. 101-508, Sec. 11801(a)(3), Nov. 5, 1990, 104 Stat. 1388.]"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56(f)Repealed\u2014[RepealedPub. L. 101-508, Sec. 11801(a)(3), Nov. 5, 1990, 104 Stat. 1388.]",
+    "definitions": null
+  },
+  {
+    "section": "56",
+    "subsection": "(g)",
+    "source_subsections": [
+      "(g)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "[Repealed.Pub. L. 115-97, Sec. 12001(b)(8)(A), Dec. 22, 2017, 131 Stat. 2054.]",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "[Repealed.Pub. L. 115-97, Sec. 12001(b)(8)(A), Dec. 22, 2017, 131 Stat. 2054.]"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 56(g)Repealed\u2014[Repealed.Pub. L. 115-97, Sec. 12001(b)(8)(A), Dec. 22, 2017, 131 Stat. 2054.]",
+    "definitions": null
+  }
+]

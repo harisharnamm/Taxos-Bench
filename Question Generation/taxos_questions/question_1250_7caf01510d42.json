@@ -1,0 +1,22 @@
+{
+  "id": "7caf01510d42",
+  "section": "1250",
+  "citation": "I.R.C. \u00a7 1250(a)(2)(B)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1250(a)(2)(B) is discussed as follows: 'I.R.C. \u00a7 1250(a)(2)(B)Applicable Percentage\u2014For  purposes of subparagraph (A), the term \u201capplicable ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1250(a)(2)(B)?",
+  "difficulty": 1,
+  "choices": [
+    "1.5%",
+    "99.0%",
+    "1.0%",
+    "11.0%",
+    "0.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 1.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1250(a)(2)(B)"
+  ]
+}

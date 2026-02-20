@@ -1,0 +1,346 @@
+[
+  {
+    "section": "45O",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "For purposes of section38, in the case of an eligible agricultural business, the agricultural chemicals security credit determined under this section for the taxable year is 30 percent of the qualified security expenditures for the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.3,
+        "text": "30 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of section38, in the case of an eligible agricultural business, the agricultural chemicals security credit determined under this section for the taxable year is 30 percent of the qualified security expenditures for the taxable year."
+    },
+    "cross_references": [
+      {
+        "section": "38",
+        "reason": "For purposes of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45O(a)In General\u2014For purposes of section38, in the case of an eligible agricultural business, the agricultural chemicals security\n                  credit determined under this section for the taxable year is 30 percent of the qualified\n                  security expenditures for the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "45O",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$100,000, reduced by",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 100000,
+        "text": "$100,000,"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$100,000, reduced by"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45O(b)(1)\u2014$100,000, reduced by",
+    "definitions": null
+  },
+  {
+    "section": "45O",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "the aggregate amount of credits determined under subsection(a)with respect to such facility for the 5 prior taxable years.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "the aggregate amount of credits determined under subsection(a)with respect to such facility for the 5 prior taxable years."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45O(b)(2)\u2014the aggregate amount of credits determined under subsection(a)with respect to such facility for the 5 prior taxable years.",
+    "definitions": null
+  },
+  {
+    "section": "45O",
+    "subsection": "(c)",
+    "source_subsections": [
+      "(c)"
+    ],
+    "rule_type": "limitation",
+    "title": "Limitation",
+    "text": "The amount of the credit determined under subsection(a)with respect to any taxpayer for any taxable year shall not exceed $2,000,000.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 2000000,
+        "text": "$2,000,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of the credit determined under subsection(a)with respect to any taxpayer for any taxable year shall not exceed $2,000,000."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45O(c)Annual Limitation\u2014The amount of the credit determined under subsection(a)with respect to any taxpayer for any taxable year shall not exceed $2,000,000.",
+    "definitions": null
+  },
+  {
+    "section": "45O",
+    "subsection": "(d)",
+    "source_subsections": [
+      "(d)",
+      "(d)(1)",
+      "(d)(2)",
+      "(d)(3)",
+      "(d)(4)",
+      "(d)(5)",
+      "(d)(6)",
+      "(d)(7)",
+      "(d)(8)",
+      "(d)(9)"
+    ],
+    "rule_type": "definition",
+    "title": "Chemical Security Expenditure",
+    "text": "For purposes of this section, the term \u201dqualified chemical security expenditure\u201d means, with respect to any eligible agricultural business for any taxable year, any amount paid or incurred by such business during such taxable year for\u2014\u2014employee security training and background checks,\u2014limitation and prevention of access to controls of specified agricultural chemicals stored at the facility,\u2014tagging, locking tank valves, and chemical additives to prevent the theft of specified agricultural chemicals or to render such chemicals unfit for illegal use,\u2014protection of the perimeter of specified agricultural chemicals,\u2014installation of security lighting, cameras, recording equipment, and intrusion detection sensors,\u2014implementation of measures to increase computer or computer network security,\u2014conducting a security vulnerability assessment,\u2014implementing a site security plan, and\u2014such other measures for the protection of specified agricultural chemicals as the Secretary may identify in regulation.Amounts described in the preceding sentence shall be taken into account only to the extent that such amounts are paid or incurred for the purpose of protecting specified agricultural chemicals.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u201dqualified chemical security expenditure\u201d means, with respect to any eligible agricultural business for any taxable year, any amount paid or incurred by such business during such taxable year for\u2014\u2014employee security training and background checks,\u2014limitation and prevention of access to controls of specified agricultural chemicals stored at the facility,\u2014tagging, locking tank valves, and chemical additives to prevent the theft of specified agricultural chemicals or to render such chemicals unfit for illegal use,\u2014protection of the perimeter of specified agricultural chemicals,\u2014installation of security lighting, cameras, recording equipment, and intrusion detection sensors,\u2014implementation of measures to increase computer or computer network security,\u2014conducting a security vulnerability assessment,\u2014implementing a site security plan, and\u2014such other measures for the protection of specified agricultural chemicals as the Secretary may identify in regulation.Amounts described in the preceding sentence shall be taken into account only to the extent that such amounts are paid or incurred for the purpose of protecting specified agricultural chemicals."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45O(d)Qualified Chemical Security Expenditure\u2014For purposes of this section, the term \u201dqualified chemical security expenditure\u201d means,\n                  with respect to any eligible agricultural business for any taxable year, any amount\n                  paid or incurred by such business during such taxable year for\u2014I.R.C. \u00a7 45O(d)(1)\u2014employee security training and background checks,I.R.C. \u00a7 45O(d)(2)\u2014limitation and prevention of access to controls of specified agricultural chemicals\n                     stored at the facility,I.R.C. \u00a7 45O(d)(3)\u2014tagging, locking tank valves, and chemical additives to prevent the theft of specified\n                     agricultural chemicals or to render such chemicals unfit for illegal use,I.R.C. \u00a7 45O(d)(4)\u2014protection of the perimeter of specified agricultural chemicals,I.R.C. \u00a7 45O(d)(5)\u2014installation of security lighting, cameras, recording equipment, and intrusion detection\n                     sensors,I.R.C. \u00a7 45O(d)(6)\u2014implementation of measures to increase computer or computer network security,I.R.C. \u00a7 45O(d)(7)\u2014conducting a security vulnerability assessment,I.R.C. \u00a7 45O(d)(8)\u2014implementing a site security plan, andI.R.C. \u00a7 45O(d)(9)\u2014such other measures for the protection of specified agricultural chemicals as the\n                     Secretary may identify in regulation.Amounts described in the preceding sentence shall be taken into account only to the\n                     extent that such amounts are paid or incurred for the purpose of protecting specified\n                     agricultural chemicals.",
+    "definitions": null
+  },
+  {
+    "section": "45O",
+    "subsection": "(e)",
+    "source_subsections": [
+      "(e)",
+      "(e)(1)",
+      "(e)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Agricultural Business",
+    "text": "For purposes of this section, the term \u201celigible agricultural business\u201d means any person in the trade or business of\u2014\u2014selling agricultural products, including specified agricultural chemicals, at retail predominantly to farmers and ranchers, or\u2014manufacturing, formulating, distributing, or aerially applying specified agricultural chemicals.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u201celigible agricultural business\u201d means any person in the trade or business of\u2014\u2014selling agricultural products, including specified agricultural chemicals, at retail predominantly to farmers and ranchers, or\u2014manufacturing, formulating, distributing, or aerially applying specified agricultural chemicals."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45O(e)Eligible Agricultural Business\u2014For purposes of this section, the term \u201celigible agricultural business\u201d means any\n                  person in the trade or business of\u2014I.R.C. \u00a7 45O(e)(1)\u2014selling agricultural products, including specified agricultural chemicals, at retail\n                     predominantly to farmers and ranchers, orI.R.C. \u00a7 45O(e)(2)\u2014manufacturing, formulating, distributing, or aerially applying specified agricultural\n                     chemicals.",
+    "definitions": {
+      "term": "eligible agricultural business",
+      "requirements": [
+        "any person in the trade or business of\u2014\u2014selling agricultural products, including specified agricultural chemicals, at retail predominantly to farmers and ranchers, or\u2014manufacturing, formulating, distributing, or aerially applying specified agricultural chemicals."
+      ]
+    }
+  },
+  {
+    "section": "45O",
+    "subsection": "(f)",
+    "source_subsections": [
+      "(f)",
+      "(f)(1)",
+      "(f)(1)(A)",
+      "(f)(1)(B)",
+      "(f)(1)(C)",
+      "(f)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Agricultural Chemical",
+    "text": "For purposes of this section, the term \u201cspecified agricultural chemical\u201d means\u2014\u2014any fertilizer commonly used in agricultural operations which is listed under\u2014\u2014section 302(a)(2) of the Emergency Planning and Community Right-to-Know Act of 1986,\u2014section 101 of part 172 of title 49, Code of Federal Regulations, or\u2014part 126, 127, or 154 of title 33, Code of Federal Regulations, and\u2014any pesticide (as defined in section 2(u) of the Federal Insecticide, Fungicide, and Rodenticide Act), including all active and inert ingredients thereof, which is customarily used on crops grown for food, feed, or fiber.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u201cspecified agricultural chemical\u201d means\u2014\u2014any fertilizer commonly used in agricultural operations which is listed under\u2014\u2014section 302(a)(2) of the Emergency Planning and Community Right-to-Know Act of 1986,\u2014section 101 of part 172 of title 49, Code of Federal Regulations, or\u2014part 126, 127, or 154 of title 33, Code of Federal Regulations, and\u2014any pesticide (as defined in section 2(u) of the Federal Insecticide, Fungicide, and Rodenticide Act), including all active and inert ingredients thereof, which is customarily used on crops grown for food, feed, or fiber."
+    },
+    "cross_references": [
+      {
+        "section": "302(a)(2)",
+        "reason": "ations which is listed under\u2014\u2014..."
+      },
+      {
+        "section": "101",
+        "reason": "ty Right-to-Know Act of 1986,\u2014..."
+      },
+      {
+        "section": "2(u)",
+        "reason": "\u2014any pesticide (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45O(f)Specified Agricultural Chemical\u2014For purposes of this section, the term \u201cspecified agricultural chemical\u201d means\u2014I.R.C. \u00a7 45O(f)(1)\u2014any fertilizer commonly used in agricultural operations which is listed under\u2014I.R.C. \u00a7 45O(f)(1)(A)\u2014section 302(a)(2) of the Emergency Planning and Community Right-to-Know Act of 1986,I.R.C. \u00a7 45O(f)(1)(B)\u2014section 101 of part 172 of title 49, Code of Federal Regulations, orI.R.C. \u00a7 45O(f)(1)(C)\u2014part 126, 127, or 154 of title 33, Code of Federal Regulations, andI.R.C. \u00a7 45O(f)(2)\u2014any pesticide (as defined in section 2(u) of the Federal Insecticide, Fungicide, and\n                     Rodenticide Act), including all active and inert ingredients thereof, which is customarily\n                     used on crops grown for food, feed, or fiber.",
+    "definitions": null
+  },
+  {
+    "section": "45O",
+    "subsection": "(g)",
+    "source_subsections": [
+      "(g)"
+    ],
+    "rule_type": "condition",
+    "title": "Groups",
+    "text": "Rules similar to the rules of paragraphs(1)and(2)of section41(f)shall apply for purposes of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules of paragraphs(1)and(2)of section41(f)shall apply for purposes of this section."
+    },
+    "cross_references": [
+      {
+        "section": "41(f)",
+        "reason": "ules of paragraphs(1)and(2)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45O(g)Controlled Groups\u2014Rules similar to the rules of paragraphs(1)and(2)of section41(f)shall apply for purposes of this section.",
+    "definitions": null
+  },
+  {
+    "section": "45O",
+    "subsection": "(h)",
+    "source_subsections": [
+      "(h)",
+      "(h)(1)",
+      "(h)(2)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The Secretary may prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations which\u2014\u2014provide for the proper treatment of amounts which are paid or incurred for purpose of protecting any specified agricultural chemical and for other purposes, and\u2014provide for the treatment of related properties as one facility for purposes of subsection(b).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary may prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations which\u2014\u2014provide for the proper treatment of amounts which are paid or incurred for purpose of protecting any specified agricultural chemical and for other purposes, and\u2014provide for the treatment of related properties as one facility for purposes of subsection(b)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45O(h)Regulations\u2014The Secretary may prescribe such regulations as may be necessary or appropriate to\n                  carry out the purposes of this section, including regulations which\u2014I.R.C. \u00a7 45O(h)(1)\u2014provide for the proper treatment of amounts which are paid or incurred for purpose\n                     of protecting any specified agricultural chemical and for other purposes, andI.R.C. \u00a7 45O(h)(2)\u2014provide for the treatment of related properties as one facility for purposes of subsection(b).",
+    "definitions": null
+  },
+  {
+    "section": "45O",
+    "subsection": "(i)",
+    "source_subsections": [
+      "(i)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "This section shall not apply to any amount paid or incurred after December 31, 2012.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "This section shall not apply to any amount paid or incurred after December 31, 2012."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45O(i)Termination\u2014This section shall not apply to any amount paid or incurred after December 31, 2012.",
+    "definitions": null
+  }
+]

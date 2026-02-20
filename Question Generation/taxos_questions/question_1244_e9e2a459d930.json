@@ -1,0 +1,22 @@
+{
+  "id": "e9e2a459d930",
+  "section": "1244",
+  "citation": "I.R.C. \u00a7 1244(b)(2)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 1244(b)(2) is discussed as follows: 'I.R.C. \u00a7 1244(b)(2)\u2014$100,000,  in the case of a husband and wife filing a joint return for such year...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 1244(b)(2)?",
+  "difficulty": 1,
+  "choices": [
+    "$90,000.00",
+    "$110,000.00",
+    "$200,000.00",
+    "$50,000.00",
+    "$100,000.00"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies $100,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1244(b)(2)"
+  ]
+}

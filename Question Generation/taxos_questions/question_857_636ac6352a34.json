@@ -1,0 +1,22 @@
+{
+  "id": "636ac6352a34",
+  "section": "857",
+  "citation": "I.R.C. \u00a7 857(b)(5)(B)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 857(b)(5)(B) is discussed as follows: 'I.R.C. \u00a7 857(b)(5)(B)\u2014the excess of\u2014I.R.C. \u00a7 857(b)(5)(B)(i)\u201475 percent of the gross income (excludi...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 857(b)(5)(B)?",
+  "difficulty": 1,
+  "choices": [
+    "112.5%",
+    "75.0%",
+    "85.0%",
+    "25.0%",
+    "65.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 75.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 857(b)(5)(B)"
+  ]
+}

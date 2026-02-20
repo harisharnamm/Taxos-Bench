@@ -1,0 +1,22 @@
+{
+  "id": "da3fdc34d8e4",
+  "section": "403",
+  "citation": "I.R.C. \u00a7 403(b)(12)(A)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 403(b)(12)(A) is discussed as follows: 'I.R.C. \u00a7 403(b)(12)(A)In General\u2014For purposes of paragraph (1)(D), a plan meets the nondiscriminatio...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 403(b)(12)(A)?",
+  "difficulty": 1,
+  "choices": [
+    "$400.00",
+    "$100.00",
+    "$200.00",
+    "$220.00",
+    "$180.00"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies $200.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 403(b)(12)(A)"
+  ]
+}

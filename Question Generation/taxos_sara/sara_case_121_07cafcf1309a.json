@@ -1,0 +1,12 @@
+{
+  "id": "07cafcf1309a",
+  "text": "Alice sold her home. She owned it for 4 years and lived in it for 3 years out of the last 5 years.",
+  "question": "Does Alice qualify for the Section 121 exclusion?",
+  "facts": "owned(alice, 4, 5).\nlived_in(alice, 3, 5).",
+  "query": "exclude_gain_121(alice)",
+  "answer": "Entailment",
+  "gold_truth_subsection": "I.R.C. \u00a7 121(a)",
+  "source_rules": [
+    "I.R.C. \u00a7 121(a)"
+  ]
+}

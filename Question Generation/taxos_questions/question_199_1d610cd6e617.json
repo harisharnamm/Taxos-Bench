@@ -1,0 +1,21 @@
+{
+  "id": "1d610cd6e617",
+  "section": "199",
+  "citation": "I.R.C. \u00a7 199(d)(1)(A)(iv)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 199(d)(1)(A)(iv) is discussed as follows: 'I.R.C. \u00a7 199(d)(1)(A)(iv)\u2014in the case of each partner of a partnership, or shareholder of an S corpo...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 199(d)(1)(A)(iv)?",
+  "difficulty": 1,
+  "choices": [
+    "20.0%",
+    "30.0%",
+    "80.0%",
+    "10.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 20.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 199(d)(1)(A)(iv)"
+  ]
+}

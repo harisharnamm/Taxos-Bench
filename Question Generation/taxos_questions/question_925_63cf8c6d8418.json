@@ -1,0 +1,22 @@
+{
+  "id": "63cf8c6d8418",
+  "section": "925",
+  "citation": "I.R.C. \u00a7 925(a)(2)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 925(a)(2) is discussed as follows: 'I.R.C. \u00a7 925(a)(2)\u201423 percent of the combined taxable income of such FSC  and such person which is a...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 925(a)(2)?",
+  "difficulty": 1,
+  "choices": [
+    "13.0%",
+    "23.0%",
+    "33.0%",
+    "34.5%",
+    "77.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 23.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 925(a)(2)"
+  ]
+}

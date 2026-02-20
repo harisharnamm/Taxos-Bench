@@ -1,0 +1,21 @@
+{
+  "id": "a27a9d7480e7",
+  "section": "1563",
+  "citation": "I.R.C. \u00a7 1563(f)(5)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1563(f)(5) is discussed as follows: 'I.R.C. \u00a7 1563(f)(5)Brother-Sister Controlled Group Definition For Provisions Other Than This PartI.R...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1563(f)(5)?",
+  "difficulty": 1,
+  "choices": [
+    "50.0%",
+    "75.0%",
+    "40.0%",
+    "60.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1563(f)(5)"
+  ]
+}

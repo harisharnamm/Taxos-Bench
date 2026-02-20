@@ -1,0 +1,22 @@
+{
+  "id": "af44492d1386",
+  "section": "860G",
+  "citation": "I.R.C. \u00a7 860G(a)(7)(C)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 860G(a)(7)(C) is discussed as follows: 'I.R.C. \u00a7 860G(a)(7)(C)Special Rule\u2014A  reserve shall not be treated as a qualified reserve for any ta...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 860G(a)(7)(C)?",
+  "difficulty": 1,
+  "choices": [
+    "20.0%",
+    "70.0%",
+    "45.0%",
+    "40.0%",
+    "30.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 30.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 860G(a)(7)(C)"
+  ]
+}

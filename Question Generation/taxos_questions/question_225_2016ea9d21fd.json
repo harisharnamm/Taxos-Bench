@@ -1,0 +1,22 @@
+{
+  "id": "2016ea9d21fd",
+  "section": "225",
+  "citation": "I.R.C. \u00a7 225(b)(2)(A)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 225(b)(2)(A) is discussed as follows: 'I.R.C. \u00a7 225(b)(2)(A)In General\u2014The amount allowable as a deduction under subsection(a)(after applic...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 225(b)(2)(A)?",
+  "difficulty": 1,
+  "choices": [
+    "$270,000.00",
+    "$600,000.00",
+    "$330,000.00",
+    "$300,000.00",
+    "$150,000.00"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies $300,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 225(b)(2)(A)"
+  ]
+}

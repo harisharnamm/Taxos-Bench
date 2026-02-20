@@ -1,0 +1,2099 @@
+[
+  {
+    "section": "24",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)"
+    ],
+    "rule_type": "computation",
+    "title": "Of Credit",
+    "text": "There shall be allowed as a credit against the tax imposed by this chapter for the taxable year with respect to each qualifying child of the taxpayer for which the taxpayer is allowed a deduction under section151an amount equal to $1,000.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 1000,
+        "text": "$1,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "There shall be allowed as a credit against the tax imposed by this chapter for the taxable year with respect to each qualifying child of the taxpayer for which the taxpayer is allowed a deduction under section151an amount equal to $1,000."
+    },
+    "cross_references": [
+      {
+        "section": "151a",
+        "reason": "is allowed a deduction under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(a)Allowance Of Credit\u2014There shall be allowed as a credit against the tax imposed by this chapter for the\n                  taxable year with respect to each qualifying child of the taxpayer for which the taxpayer\n                  is allowed a deduction under section151an amount equal to $1,000.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)"
+    ],
+    "rule_type": "definition",
+    "title": "Based On Adjusted Gross Income",
+    "text": "The amount of the credit allowable under subsection(a)shall be reduced (but not below zero) by $50 for each $1,000 (or fraction thereof) by which the taxpayer's modified adjusted gross income exceeds the threshold amount. For purposes of the preceding sentence, the term \u201cmodified adjusted gross income\u201d means adjusted gross income increased by any amount excluded from gross income under section911,931, or933.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 50,
+        "text": "$50"
+      },
+      {
+        "label": "amount",
+        "value": 1000,
+        "text": "$1,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of the credit allowable under subsection(a)shall be reduced (but not below zero) by $50 for each $1,000 (or fraction thereof) by which the taxpayer's modified adjusted gross income exceeds the threshold amount. For purposes of the preceding sentence, the term \u201cmodified adjusted gross income\u201d means adjusted gross income increased by any amount excluded from gross income under section911,931, or933."
+    },
+    "cross_references": [
+      {
+        "section": "911",
+        "reason": "luded from gross income under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(b)(1)Limitation Based On Adjusted Gross Income\u2014The amount of the credit allowable under subsection(a)shall be reduced (but not below zero) by $50 for each $1,000 (or fraction thereof)\n                     by which the taxpayer's modified adjusted gross income exceeds the threshold amount.\n                     For purposes of the preceding sentence, the term \u201cmodified adjusted gross income\u201d\n                     means adjusted gross income increased by any amount excluded from gross income under\n                     section911,931, or933.",
+    "definitions": {
+      "term": "modified adjusted gross income",
+      "requirements": [
+        "adjusted gross income increased by any amount excluded from gross income under section911,931, or933."
+      ]
+    }
+  },
+  {
+    "section": "24",
+    "subsection": "(b)(2)(A)",
+    "source_subsections": [
+      "(b)(2)(A)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$110,000 in the case of a joint return,",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 110000,
+        "text": "$110,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$110,000 in the case of a joint return,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(b)(2)(A)\u2014$110,000 in the case of a joint return,",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(b)(2)(B)",
+    "source_subsections": [
+      "(b)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$75,000 in the case of an individual who is not married, and",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 75000,
+        "text": "$75,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$75,000 in the case of an individual who is not married, and"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(b)(2)(B)\u2014$75,000 in the case of an individual who is not married, and",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(b)(2)(C)",
+    "source_subsections": [
+      "(b)(2)(C)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$55,000 in the case of a married individual filing a separate return.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 55000,
+        "text": "$55,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$55,000 in the case of a married individual filing a separate return."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(b)(2)(C)\u2014$55,000 in the case of a married individual filing a separate return.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cqualifying child\u201d means a qualifying child of the taxpayer (as defined in section152(c)) who has not attained age 17.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualifying child\u201d means a qualifying child of the taxpayer (as defined in section152(c)) who has not attained age 17."
+    },
+    "cross_references": [
+      {
+        "section": "152(c)",
+        "reason": "f the taxpayer (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(c)(1)In General\u2014The term \u201cqualifying child\u201d means a qualifying child of the taxpayer (as defined in\n                     section152(c)) who has not attained age 17.",
+    "definitions": {
+      "term": "qualifying child",
+      "requirements": [
+        "a qualifying child of the taxpayer (as defined in section152(c)) who has not attained age 17."
+      ]
+    }
+  },
+  {
+    "section": "24",
+    "subsection": "(c)(2)",
+    "source_subsections": [
+      "(c)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "For Certain Noncitizens",
+    "text": "The term \u201cqualifying child\u201d shall not include any individual who would not be a dependent if subparagraph(A)of section152(b)(3)were applied without regard to all that follows \u201cresident of the United States\u201d.",
+    "conditions": [
+      "subparagraph(A)of section152(b)(3)were applied without regard to all that follows \u201cresident of the United States\u201d."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "subparagraph(A)of section152(b)(3)were applied without regard to all that follows \u201cresident of the United States\u201d."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualifying child\u201d shall not include any individual who would not be a dependent"
+    },
+    "cross_references": [
+      {
+        "section": "152(b)(3)",
+        "reason": "ependent if subparagraph(A)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(c)(2)Exception For Certain Noncitizens\u2014The term \u201cqualifying child\u201d shall not include any individual who would not be a dependent\n                     if subparagraph(A)of section152(b)(3)were applied without regard to all that follows \u201cresident of the United States\u201d.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)",
+      "(d)(1)(A)",
+      "(d)(1)(B)",
+      "(d)(1)(B)(i)",
+      "(d)(1)(B)(ii)",
+      "(d)(1)(B)(ii)(I)",
+      "(d)(1)(B)(ii)(II)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The aggregate credits allowed to a taxpayer under subpart C shall be increased by the lesser of\u2014\u2014the credit which would be allowed under this section without regard to this subsection and the limitation under section26(a)or\u2014the amount by which the aggregate amount of credits allowed by this subpart (determined without regard to this subsection) would increase if the limitation imposed by section26(a)were increased by the greater of\u2014\u201415 percent of so much of the taxpayer's earned income (within the meaning of section32) which is taken into account in computing taxable income for the taxable year as exceeds $3,000, or\u2014in the case of a taxpayer with 3 or more qualifying children, the excess (if any) of\u2014\u2014the taxpayer's social security taxes for the taxable year, over\u2014the credit allowed under section32for the taxable year.The amount of the credit allowed under this subsection shall not be treated as a credit allowed under this subpart and shall reduce the amount of credit otherwise allowable under subsection (a) without regard to section26(a). For purposes of subparagraph (B), any amount excluded from gross income by reason of section112shall be treated as earned income which is taken into account in computing taxable income for the taxable year.",
+    "conditions": [
+      "the limitation imposed by section26(a)were increased by the greater of\u2014\u201415 percent of so much of the taxpayer's earned income (within the meaning of section32) which is taken into account in computing taxable income for the taxable year as exceeds $3,000, or\u2014in the case of a taxpayer with 3 or more qualifying children, the excess (",
+      "any) of\u2014\u2014the taxpayer's social security taxes for the taxable year, over\u2014the credit allowed under section32for the taxable year.The amount of the credit allowed under this subsection shall not be treated as a credit allowed under this subpart and shall reduce the amount of credit otherwise allowable under subsection (a) without regard to section26(a). For purposes of subparagraph (B), any amount excluded from gross income by reason of section112shall be treated as earned income which is taken into account in computing taxable income for the taxable year."
+    ],
+    "computations": [
+      {
+        "operation": "min",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      },
+      {
+        "operation": "max",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 3000,
+        "text": "$3,000,"
+      }
+    ],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.15,
+        "text": "15 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the limitation imposed by section26(a)were increased by the greater of\u2014\u201415 percent of so much of the taxpayer's earned income (within the meaning of section32) which is taken into account in computing taxable income for the taxable year as exceeds $3,000, or\u2014in the case of a taxpayer with 3 or more qualifying children, the excess (",
+        "any) of\u2014\u2014the taxpayer's social security taxes for the taxable year, over\u2014the credit allowed under section32for the taxable year.The amount of the credit allowed under this subsection shall not be treated as a credit allowed under this subpart and shall reduce the amount of credit otherwise allowable under subsection (a) without regard to section26(a). For purposes of subparagraph (B), any amount excluded from gross income by reason of section112shall be treated as earned income which is taken into account in computing taxable income for the taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The aggregate credits allowed to a taxpayer under subpart C shall be increased by the lesser of\u2014\u2014the credit which would be allowed under this section without regard to this subsection and the limitation under section26(a)or\u2014the amount by which the aggregate amount of credits allowed by this subpart (determined without regard to this subsection) would increase"
+    },
+    "cross_references": [
+      {
+        "section": "26(a)",
+        "reason": "tion and the limitation under..."
+      },
+      {
+        "section": "26(a)",
+        "reason": "if the limitation imposed by..."
+      },
+      {
+        "section": "32",
+        "reason": "income (within the meaning of..."
+      },
+      {
+        "section": "32f",
+        "reason": "over\u2014the credit allowed under..."
+      },
+      {
+        "section": "26(a)",
+        "reason": "section (a) without regard to..."
+      },
+      {
+        "section": "112s",
+        "reason": "rom gross income by reason of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(d)(1)In General\u2014The aggregate credits allowed to a taxpayer under subpart C shall be increased by\n                     the lesser of\u2014I.R.C. \u00a7 24(d)(1)(A)\u2014the credit which would be allowed under this section without regard to this subsection\n                        and the limitation under section26(a)orI.R.C. \u00a7 24(d)(1)(B)\u2014the amount by which the aggregate amount of credits allowed by this subpart (determined\n                        without regard to this subsection) would increase if the limitation imposed by section26(a)were increased by the greater of\u2014I.R.C. \u00a7 24(d)(1)(B)(i)\u201415 percent of so much of the taxpayer's earned income (within the meaning of section32) which is taken into account in computing taxable income for the taxable year as\n                           exceeds $3,000, orI.R.C. \u00a7 24(d)(1)(B)(ii)\u2014in the case of a taxpayer with 3 or more qualifying children, the excess (if any)\n                           of\u2014I.R.C. \u00a7 24(d)(1)(B)(ii)(I)\u2014the taxpayer's social security taxes for the taxable year, overI.R.C. \u00a7 24(d)(1)(B)(ii)(II)\u2014the credit allowed under section32for the taxable year.The amount of the credit allowed under this subsection shall not be treated as a credit\n                                 allowed under this subpart and shall reduce the amount of credit otherwise allowable\n                                 under subsection (a) without regard to section26(a). For purposes of subparagraph (B), any amount excluded from gross income by reason\n                                 of section112shall be treated as earned income which is taken into account in computing taxable\n                                 income for the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(d)(2)(A)",
+    "source_subsections": [
+      "(d)(2)(A)",
+      "(d)(2)(A)(i)",
+      "(d)(2)(A)(ii)",
+      "(d)(2)(A)(iii)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201csocial security taxes\u201d means, with respect to any taxpayer for any taxable year\u2014\u2014the amount of the taxes imposed by sections3101and3201(a)on amounts received by the taxpayer during the calendar year in which the taxable year begins,\u201450 percent of the taxes imposed by section1401on the self-employment income of the taxpayer for the taxable year, and\u201450 percent of the taxes imposed by section3211(a)on amounts received by the taxpayer during the calendar year in which the taxable year begins.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201csocial security taxes\u201d means, with respect to any taxpayer for any taxable year\u2014\u2014the amount of the taxes imposed by sections3101and3201(a)on amounts received by the taxpayer during the calendar year in which the taxable year begins,\u201450 percent of the taxes imposed by section1401on the self-employment income of the taxpayer for the taxable year, and\u201450 percent of the taxes imposed by section3211(a)on amounts received by the taxpayer during the calendar year in which the taxable year begins."
+    },
+    "cross_references": [
+      {
+        "section": "1401o",
+        "reason": "rcent of the taxes imposed by..."
+      },
+      {
+        "section": "3211(a)",
+        "reason": "rcent of the taxes imposed by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(d)(2)(A)In General\u2014The term \u201csocial security taxes\u201d means, with respect to any taxpayer for any taxable\n                        year\u2014I.R.C. \u00a7 24(d)(2)(A)(i)\u2014the amount of the taxes imposed by sections3101and3201(a)on amounts received by the taxpayer during the calendar year in which the taxable\n                           year begins,I.R.C. \u00a7 24(d)(2)(A)(ii)\u201450 percent of the taxes imposed by section1401on the self-employment income of the taxpayer for the taxable year, andI.R.C. \u00a7 24(d)(2)(A)(iii)\u201450 percent of the taxes imposed by section3211(a)on amounts received by the taxpayer during the calendar year in which the taxable\n                           year begins.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(d)(2)(B)",
+    "source_subsections": [
+      "(d)(2)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "With Special Refund Of Social Security Taxes",
+    "text": "The term \u201csocial security taxes\u201d shall not include any taxes to the extent the taxpayer is entitled to a special refund of such taxes under section6413(c).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201csocial security taxes\u201d shall not include any taxes to the extent the taxpayer is entitled to a special refund of such taxes under section6413(c)."
+    },
+    "cross_references": [
+      {
+        "section": "6413(c)",
+        "reason": "al refund of such taxes under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(d)(2)(B)Coordination With Special Refund Of Social Security Taxes\u2014The term \u201csocial security taxes\u201d shall not include any taxes to the extent the taxpayer\n                        is entitled to a special refund of such taxes under section6413(c).",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(d)(2)(C)",
+    "source_subsections": [
+      "(d)(2)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "Rule",
+    "text": "Any amounts paid pursuant to an agreement under section3121(l)(relating to agreements entered into by American employers with respect to foreign affiliates) which are equivalent to the taxes referred to in subparagraph(A)(i)shall be treated as taxes referred to in such subparagraph.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Any amounts paid pursuant to an agreement under section3121(l)(relating to agreements entered into by American employers with respect to foreign affiliates) which are equivalent to the taxes referred to in subparagraph(A)(i)shall be treated as taxes referred to in such subparagraph."
+    },
+    "cross_references": [
+      {
+        "section": "3121(l)",
+        "reason": "ursuant to an agreement under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(d)(2)(C)Special Rule\u2014Any amounts paid pursuant to an agreement under section3121(l)(relating to agreements entered into by American employers with respect to foreign\n                        affiliates) which are equivalent to the taxes referred to in subparagraph(A)(i)shall be treated as taxes referred to in such subparagraph.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(d)(3)",
+    "source_subsections": [
+      "(d)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "For Taxpayers Excluding Foreign Earned Income",
+    "text": "Paragraph(1)shall not apply to any taxpayer for any taxable year if such taxpayer elects to exclude any amount from gross income under section911for such taxable year.",
+    "conditions": [
+      "such taxpayer elects to exclude any amount from gross income under section911for such taxable year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such taxpayer elects to exclude any amount from gross income under section911for such taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Paragraph(1)shall not apply to any taxpayer for any taxable year"
+    },
+    "cross_references": [
+      {
+        "section": "911f",
+        "reason": "mount from gross income under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(d)(3)Exception For Taxpayers Excluding Foreign Earned Income\u2014Paragraph(1)shall not apply to any taxpayer for any taxable year if such taxpayer elects to exclude\n                     any amount from gross income under section911for such taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(e)(1)",
+    "source_subsections": [
+      "(e)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "Child Identification Requirement",
+    "text": "No credit shall be allowed under this section to a taxpayer with respect to any qualifying child unless the taxpayer includes the name and taxpayer identification number of such qualifying child on the return of tax for the taxable year and such taxpayer identification number was issued on or before the due date for filing such return.",
+    "conditions": [
+      "the taxpayer includes the name and taxpayer identification number of such qualifying child on the return of tax for the taxable year and such taxpayer identification number was issued on or before the due date for filing such return."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "the taxpayer includes the name and taxpayer identification number of such qualifying child on the return of tax for the taxable year and such taxpayer identification number was issued on or before the due date for filing such return."
+      ],
+      "except": [],
+      "result": "No credit shall be allowed under this section to a taxpayer with respect to any qualifying child"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(e)(1)Qualifying Child Identification Requirement\u2014No credit shall be allowed under this section to a taxpayer with respect to any qualifying\n                     child unless the taxpayer includes the name and taxpayer identification number of\n                     such qualifying child on the return of tax for the taxable year and such taxpayer\n                     identification number was issued on or before the due date for filing such return.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(e)(2)",
+    "source_subsections": [
+      "(e)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Identification Requirement",
+    "text": "No credit shall be allowed under this section if the taxpayer identification number of the taxpayer was issued after the due date for filing the return for the taxable year.",
+    "conditions": [
+      "the taxpayer identification number of the taxpayer was issued after the due date for filing the return for the taxable year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the taxpayer identification number of the taxpayer was issued after the due date for filing the return for the taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be allowed under this section"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(e)(2)Taxpayer Identification Requirement\u2014No credit shall be allowed under this section if the taxpayer identification number\n                     of the taxpayer was issued after the due date for filing the return for the taxable\n                     year.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(f)",
+    "source_subsections": [
+      "(f)"
+    ],
+    "rule_type": "exception",
+    "title": "Year Must Be Full Taxable Year",
+    "text": "Except in the case of a taxable year closed by reason of the death of the taxpayer, no credit shall be allowable under this section in the case of a taxable year covering a period of less than 12 months.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "in the case of a taxable year closed by reason of the death of the taxpayer, no credit shall be allowable under this section in the case of a taxable year covering a period of less than 12 months."
+      ],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(f)Taxable Year Must Be Full Taxable Year\u2014Except in the case of a taxable year closed by reason of the death of the taxpayer,\n                  no credit shall be allowable under this section in the case of a taxable year covering\n                  a period of less than 12 months.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(g)(1)(A)",
+    "source_subsections": [
+      "(g)(1)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "No credit shall be allowed under this section for any taxable year in the disallowance period.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be allowed under this section for any taxable year in the disallowance period."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(g)(1)(A)In General\u2014No credit shall be allowed under this section for any taxable year in the disallowance\n                        period.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(g)(1)(B)",
+    "source_subsections": [
+      "(g)(1)(B)",
+      "(g)(1)(B)(i)",
+      "(g)(1)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Period",
+    "text": "For purposes of subparagraph(A), the disallowance period is\u2014\u2014the period of 10 taxable years after the most recent taxable year for which there was a final determination that the taxpayer's claim of credit under this section was due to fraud, and\u2014the period of 2 taxable years after the most recent taxable year for which there was a final determination that the taxpayer's claim of credit under this section was due to reckless or intentional disregard of rules and regulations (but not due to fraud).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph(A), the disallowance period is\u2014\u2014the period of 10 taxable years after the most recent taxable year for which there was a final determination that the taxpayer's claim of credit under this section was due to fraud, and\u2014the period of 2 taxable years after the most recent taxable year for which there was a final determination that the taxpayer's claim of credit under this section was due to reckless or intentional disregard of rules and regulations (but not due to fraud)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(g)(1)(B)Disallowance Period\u2014For purposes of subparagraph(A), the disallowance period is\u2014I.R.C. \u00a7 24(g)(1)(B)(i)\u2014the period of 10 taxable years after the most recent taxable year for which there\n                           was a final determination that the taxpayer's claim of credit under this section was\n                           due to fraud, andI.R.C. \u00a7 24(g)(1)(B)(ii)\u2014the period of 2 taxable years after the most recent taxable year for which there was\n                           a final determination that the taxpayer's claim of credit under this section was due\n                           to reckless or intentional disregard of rules and regulations (but not due to fraud).",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(g)(2)",
+    "source_subsections": [
+      "(g)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Making Improper Prior Claims",
+    "text": "In the case of a taxpayer who is denied credit under this section for any taxable year as a result of the deficiency procedures under subchapter B of chapter 63, no credit shall be allowed under this section for any subsequent taxable year unless the taxpayer provides such information as the Secretary may require to demonstrate eligibility for such credit.",
+    "conditions": [
+      "the taxpayer provides such information as the Secretary may require to demonstrate eligibility for such credit."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "the taxpayer provides such information as the Secretary may require to demonstrate eligibility for such credit."
+      ],
+      "except": [],
+      "result": "In the case of a taxpayer who is denied credit under this section for any taxable year as a result of the deficiency procedures under subchapter B of chapter 63, no credit shall be allowed under this section for any subsequent taxable year"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(g)(2)Taxpayers Making Improper Prior Claims\u2014In the case of a taxpayer who is denied credit under this section for any taxable\n                     year as a result of the deficiency procedures under subchapter B of chapter 63, no\n                     credit shall be allowed under this section for any subsequent taxable year unless\n                     the taxpayer provides such information as the Secretary may require to demonstrate\n                     eligibility for such credit.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(h)(1)",
+    "source_subsections": [
+      "(h)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "In the case of a taxable year beginning after December 31, 2017, this section shall be applied as provided in paragraphs (2) through (7).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a taxable year beginning after December 31, 2017, this section shall be applied as provided in paragraphs (2) through (7)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(h)(1)In General\u2014In the case of a taxable year beginning after December 31, 2017, this section shall\n                     be applied as provided in paragraphs (2) through (7).",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(h)(2)",
+    "source_subsections": [
+      "(h)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Amount",
+    "text": "Subsection (a) shall be applied by substituting \u201c$2,200\u201d for \u201c$1,000\u201d.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 2200,
+        "text": "$2,200"
+      },
+      {
+        "label": "amount",
+        "value": 1000,
+        "text": "$1,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Subsection (a) shall be applied by substituting \u201c$2,200\u201d for \u201c$1,000\u201d."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(h)(2)Credit Amount\u2014Subsection (a) shall be applied by substituting \u201c$2,200\u201d for \u201c$1,000\u201d.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(h)(3)",
+    "source_subsections": [
+      "(h)(3)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "In lieu of the amount determined under subsection (b)(2), the threshold amount shall be $400,000 in the case of a joint return ($200,000 in any other case).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 400000,
+        "text": "$400,000"
+      },
+      {
+        "label": "amount",
+        "value": 200000,
+        "text": "$200,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In lieu of the amount determined under subsection (b)(2), the threshold amount shall be $400,000 in the case of a joint return ($200,000 in any other case)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(h)(3)Limitation\u2014In lieu of the amount determined under subsection (b)(2), the threshold amount shall\n                     be $400,000 in the case of a joint return ($200,000 in any other case).",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(h)(4)(A)",
+    "source_subsections": [
+      "(h)(4)(A)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The credit determined under subsection (a) (after the application of paragraph (2)) shall be increased by $500 for each dependent of the taxpayer (as defined in section152) other than a qualifying child described in subsection (c).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 500,
+        "text": "$500"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The credit determined under subsection (a) (after the application of paragraph (2)) shall be increased by $500 for each dependent of the taxpayer (as defined in section152) other than a qualifying child described in subsection (c)."
+    },
+    "cross_references": [
+      {
+        "section": "152",
+        "reason": "f the taxpayer (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(h)(4)(A)In General\u2014The credit determined under subsection (a) (after the application of paragraph (2))\n                        shall be increased by $500 for each dependent of the taxpayer (as defined in section152) other than a qualifying child described in subsection (c).",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(h)(4)(B)",
+    "source_subsections": [
+      "(h)(4)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "For Certain Noncitizens",
+    "text": "Subparagraph (A) shall not apply with respect to any individual who would not be a dependent if subparagraph (A) of section 152(b)(3) were applied without regard to all that follows \u201cresident of the United States\u201d.",
+    "conditions": [
+      "subparagraph (A) of section 152(b)(3) were applied without regard to all that follows \u201cresident of the United States\u201d."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "subparagraph (A) of section 152(b)(3) were applied without regard to all that follows \u201cresident of the United States\u201d."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Subparagraph (A) shall not apply with respect to any individual who would not be a dependent"
+    },
+    "cross_references": [
+      {
+        "section": "152(b)(3)",
+        "reason": "endent if subparagraph (A) of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(h)(4)(B)Exception For Certain Noncitizens\u2014Subparagraph (A) shall not apply with respect to any individual who would not be a\n                        dependent if subparagraph (A) of section 152(b)(3) were applied without regard to\n                        all that follows \u201cresident of the United States\u201d.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(h)(4)(C)",
+    "source_subsections": [
+      "(h)(4)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "Qualifying Children",
+    "text": "In the case of any qualifying child with respect to whom a credit is not allowed under this section by reason of paragraph (7), such child shall be treated as a dependent to whom subparagraph (A) applies.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any qualifying child with respect to whom a credit is not allowed under this section by reason of paragraph (7), such child shall be treated as a dependent to whom subparagraph (A) applies."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(h)(4)(C)Certain Qualifying Children\u2014In the case of any qualifying child with respect to whom a credit is not allowed under\n                        this section by reason of paragraph (7), such child shall be treated as a dependent\n                        to whom subparagraph (A) applies.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(h)(5)(A)",
+    "source_subsections": [
+      "(h)(5)(A)"
+    ],
+    "rule_type": "limitation",
+    "title": "General",
+    "text": "The amount determined under subsection (d)(1)(A) with respect to any qualifying child shall not exceed $1,400, and such subsection shall be applied without regard to paragraph (4) of this subsection.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 1400,
+        "text": "$1,400,"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount determined under subsection (d)(1)(A) with respect to any qualifying child shall not exceed $1,400, and such subsection shall be applied without regard to paragraph (4) of this subsection."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(h)(5)(A)In General\u2014The amount determined under subsection (d)(1)(A) with respect to any qualifying child\n                        shall not exceed $1,400, and such subsection shall be applied without regard to paragraph\n                        (4) of this subsection.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(h)(5)(B)",
+    "source_subsections": [
+      "(h)(5)(B)",
+      "(h)(5)(B)(i)",
+      "(h)(5)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "For Inflation",
+    "text": "In the case of a taxable year beginning after 2018, the $1,400 amount in subparagraph (A) shall be increased by an amount equal to\u2014\u2014such dollar amount, multiplied by\u2014the cost-of-living adjustment determined under section1(f)(3)for the calendar year in which the taxable year begins, determined by substituting \u201c2017\u201d for \u201c2016\u201d in subparagraph (A)(ii) thereof.If any increase under this clause is not a multiple of $100, such increase shall be rounded to the next lowest multiple of $100.",
+    "conditions": [
+      "any increase under this clause is not a multiple of $100, such increase shall be rounded to the next lowest multiple of $100."
+    ],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 1400,
+        "text": "$1,400"
+      },
+      {
+        "label": "amount",
+        "value": 100,
+        "text": "$100,"
+      },
+      {
+        "label": "amount",
+        "value": 100,
+        "text": "$100"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any increase under this clause is not a multiple of $100, such increase shall be rounded to the next lowest multiple of $100."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a taxable year beginning after 2018, the $1,400 amount in subparagraph (A) shall be increased by an amount equal to\u2014\u2014such dollar amount, multiplied by\u2014the cost-of-living adjustment determined under section1(f)(3)for the calendar year in which the taxable year begins, determined by substituting \u201c2017\u201d for \u201c2016\u201d in subparagraph (A)(ii) thereof."
+    },
+    "cross_references": [
+      {
+        "section": "1(f)(3)",
+        "reason": "g adjustment determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(h)(5)(B)Adjustment For Inflation\u2014In the case of a taxable year beginning after 2018, the $1,400 amount in subparagraph\n                        (A) shall be increased by an amount equal to\u2014I.R.C. \u00a7 24(h)(5)(B)(i)\u2014such dollar amount, multiplied byI.R.C. \u00a7 24(h)(5)(B)(ii)\u2014the cost-of-living adjustment determined under section1(f)(3)for the calendar year in which the taxable year begins, determined by substituting\n                           \u201c2017\u201d for \u201c2016\u201d in subparagraph (A)(ii) thereof.If any increase under this clause is not a multiple of $100, such increase shall be\n                           rounded to the next lowest multiple of $100.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(h)(6)",
+    "source_subsections": [
+      "(h)(6)"
+    ],
+    "rule_type": "condition",
+    "title": "Income Threshold For Refundable Credit",
+    "text": "Subsection (d)(1)(B)(i) shall be applied by substituting \u201c$2,500\u201d for \u201c$3,000\u201d.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 2500,
+        "text": "$2,500"
+      },
+      {
+        "label": "amount",
+        "value": 3000,
+        "text": "$3,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Subsection (d)(1)(B)(i) shall be applied by substituting \u201c$2,500\u201d for \u201c$3,000\u201d."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(h)(6)Earned Income Threshold For Refundable Credit\u2014Subsection (d)(1)(B)(i) shall be applied by substituting \u201c$2,500\u201d for \u201c$3,000\u201d.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(h)(7)(A)",
+    "source_subsections": [
+      "(h)(7)(A)",
+      "(h)(7)(A)(i)",
+      "(h)(7)(A)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "No credit shall be allowed under this section to a taxpayer with respect to any qualifying child unless the taxpayer includes on the return of tax for the taxable year\u2014\u2014the taxpayer's social security number (or, in the case of a joint return, the social security number of at least 1 spouse), and\u2014the social security number of such qualifying child.",
+    "conditions": [
+      "the taxpayer includes on the return of tax for the taxable year\u2014\u2014the taxpayer's social security number (or, in the case of a joint return, the social security number of at least 1 spouse), and\u2014the social security number of such qualifying child."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "the taxpayer includes on the return of tax for the taxable year\u2014\u2014the taxpayer's social security number (or, in the case of a joint return, the social security number of at least 1 spouse), and\u2014the social security number of such qualifying child."
+      ],
+      "except": [],
+      "result": "No credit shall be allowed under this section to a taxpayer with respect to any qualifying child"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(h)(7)(A)In General\u2014No credit shall be allowed under this section to a taxpayer with respect to any qualifying\n                        child unless the taxpayer includes on the return of tax for the taxable year\u2014I.R.C. \u00a7 24(h)(7)(A)(i)\u2014the taxpayer's social security number (or, in the case of a joint return, the social\n                           security number of at least 1 spouse), andI.R.C. \u00a7 24(h)(7)(A)(ii)\u2014the social security number of such qualifying child.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(h)(7)(B)",
+    "source_subsections": [
+      "(h)(7)(B)",
+      "(h)(7)(B)(i)",
+      "(h)(7)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Security Number",
+    "text": "For purposes of this paragraph, the term \u2018social security number\u2019 means a social security number issued to an individual by the Social Security Administration, but only if the social security number is issued\u2014\u2014to a citizen of the United States or pursuant to subclause (I) (or that portion of subclause (III) that relates to subclause (I)) of section 205(c)(2)(B)(i) of the Social Security Act, and\u2014before the due date for such return.",
+    "conditions": [
+      "the social security number is issued\u2014\u2014to a citizen of the United States or pursuant to subclause (I) (or that portion of subclause (III) that relates to subclause (I)) of section 205(c)(2)(B)(i) of the Social Security Act, and\u2014before the due date for such return."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the social security number is issued\u2014\u2014to a citizen of the United States or pursuant to subclause (I) (or that portion of subclause (III) that relates to subclause (I)) of section 205(c)(2)(B)(i) of the Social Security Act, and\u2014before the due date for such return."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the term \u2018social security number\u2019 means a social security number issued to an individual by the Social Security Administration, but only"
+    },
+    "cross_references": [
+      {
+        "section": "205(c)(2)(B)(i)",
+        "reason": "relates to subclause (I)) of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(h)(7)(B)Social Security Number\u2014For purposes of this paragraph, the term \u2018social security number\u2019 means a social security\n                        number issued to an individual by the Social Security Administration, but only if\n                        the social security number is issued\u2014I.R.C. \u00a7 24(h)(7)(B)(i)\u2014to a citizen of the United States or pursuant to subclause (I) (or that portion of\n                           subclause (III) that relates to subclause (I)) of section 205(c)(2)(B)(i) of the Social\n                           Security Act, andI.R.C. \u00a7 24(h)(7)(B)(ii)\u2014before the due date for such return.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(i)(1)",
+    "source_subsections": [
+      "(i)(1)",
+      "(i)(1)(A)",
+      "(i)(1)(B)"
+    ],
+    "rule_type": "computation",
+    "title": "Amount Of Refundable Credit",
+    "text": "In the case of a taxable year beginning after 2024, the $1,400 amount insubsection (h)(5)shall be increased by an amount equal to\u2014\u2014such dollar amount, multiplied by\u2014the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting \u20182017\u2019 for \u20182016\u2019 in subparagraph (A)(ii) thereof.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 1400,
+        "text": "$1,400"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a taxable year beginning after 2024, the $1,400 amount insubsection (h)(5)shall be increased by an amount equal to\u2014\u2014such dollar amount, multiplied by\u2014the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting \u20182017\u2019 for \u20182016\u2019 in subparagraph (A)(ii) thereof."
+    },
+    "cross_references": [
+      {
+        "section": "1(f)(3)",
+        "reason": "g adjustment determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(i)(1)Maximum Amount Of Refundable Credit\u2014In the case of a taxable year beginning after 2024, the $1,400 amount insubsection (h)(5)shall be increased by an amount equal to\u2014I.R.C. \u00a7 24(i)(1)(A)\u2014such dollar amount, multiplied byI.R.C. \u00a7 24(i)(1)(B)\u2014the cost-of-living adjustment determined under section 1(f)(3) for the calendar year\n                        in which the taxable year begins, determined by substituting \u20182017\u2019 for \u20182016\u2019 in\n                        subparagraph (A)(ii) thereof.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(i)(2)",
+    "source_subsections": [
+      "(i)(2)",
+      "(i)(2)(A)",
+      "(i)(2)(B)"
+    ],
+    "rule_type": "computation",
+    "title": "Rule For Adjustment Of Credit amount",
+    "text": "In the case of a taxable year beginning after 2025, the $2,200 amount in subsection (h)(2) shall be increased by an amount equal to\u2014\u2014such dollar amount, multiplied by\u2014the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting \u20182024\u2019 for \u20182016\u2019 in subparagraph (A)(ii) thereof.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 2200,
+        "text": "$2,200"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a taxable year beginning after 2025, the $2,200 amount in subsection (h)(2) shall be increased by an amount equal to\u2014\u2014such dollar amount, multiplied by\u2014the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting \u20182024\u2019 for \u20182016\u2019 in subparagraph (A)(ii) thereof."
+    },
+    "cross_references": [
+      {
+        "section": "1(f)(3)",
+        "reason": "g adjustment determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(i)(2)Special Rule For Adjustment Of Credit amount\u2014In the case of a taxable year beginning after 2025, the $2,200 amount in subsection\n                     (h)(2) shall be increased by an amount equal to\u2014I.R.C. \u00a7 24(i)(2)(A)\u2014such dollar amount, multiplied byI.R.C. \u00a7 24(i)(2)(B)\u2014the cost-of-living adjustment determined under section 1(f)(3) for the calendar year\n                        in which the taxable year begins, determined by substituting \u20182024\u2019 for \u20182016\u2019 in\n                        subparagraph (A)(ii) thereof.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(i)(3)",
+    "source_subsections": [
+      "(i)(3)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "If any increase under this subsection is not a multiple of $100, such increase shall be rounded to the next lowest multiple of $100.",
+    "conditions": [
+      "any increase under this subsection is not a multiple of $100, such increase shall be rounded to the next lowest multiple of $100."
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 100,
+        "text": "$100,"
+      },
+      {
+        "label": "amount",
+        "value": 100,
+        "text": "$100"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any increase under this subsection is not a multiple of $100, such increase shall be rounded to the next lowest multiple of $100."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(i)(3)Rounding\u2014If any increase under this subsection is not a multiple of $100, such increase shall\n                     be rounded to the next lowest multiple of $100.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(i)(4)(A)",
+    "source_subsections": [
+      "(i)(4)(A)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The amount of the credit allowable undersubsection (a)(determined without regard tosubsection (b)) shall be reduced by $50 for each $1,000 (or fraction thereof) by which the taxpayer's modified adjusted gross income (as defined insubsection (b)) exceeds the applicable threshold amount.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 50,
+        "text": "$50"
+      },
+      {
+        "label": "amount",
+        "value": 1000,
+        "text": "$1,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of the credit allowable undersubsection (a)(determined without regard tosubsection (b)) shall be reduced by $50 for each $1,000 (or fraction thereof) by which the taxpayer's modified adjusted gross income (as defined insubsection (b)) exceeds the applicable threshold amount."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(i)(4)(A)In General\u2014The amount of the credit allowable undersubsection (a)(determined without regard tosubsection (b)) shall be reduced by $50 for each $1,000 (or fraction thereof) by which the taxpayer's\n                        modified adjusted gross income (as defined insubsection (b)) exceeds the applicable threshold amount.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(i)(4)(B)(i)",
+    "source_subsections": [
+      "(i)(4)(B)(i)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "$150,000, in the case of a joint return or surviving spouse (as defined insection 2(a)),",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 150000,
+        "text": "$150,000,"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$150,000, in the case of a joint return or surviving spouse (as defined insection 2(a)),"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(i)(4)(B)(i)\u2014$150,000, in the case of a joint return or surviving spouse (as defined insection 2(a)),",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(i)(4)(B)(ii)",
+    "source_subsections": [
+      "(i)(4)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "$112,500, in the case of a head of household (as defined insection 2(b)), and",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 112500,
+        "text": "$112,500,"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$112,500, in the case of a head of household (as defined insection 2(b)), and"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(i)(4)(B)(ii)\u2014$112,500, in the case of a head of household (as defined insection 2(b)), and",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(i)(4)(B)(iii)",
+    "source_subsections": [
+      "(i)(4)(B)(iii)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$75,000, in any other case.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 75000,
+        "text": "$75,000,"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$75,000, in any other case."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(i)(4)(B)(iii)\u2014$75,000, in any other case.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(i)(4)(C)(i)",
+    "source_subsections": [
+      "(i)(4)(C)(i)",
+      "(i)(4)(C)(i)(I)",
+      "(i)(4)(C)(i)(II)"
+    ],
+    "rule_type": "limitation",
+    "title": "General",
+    "text": "The amount of the reduction undersubparagraph (A)shall not exceed the lesser of\u2014\u2014the applicable credit increase amount, or\u20145 percent of the applicable phaseout threshold range.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "min",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.05,
+        "text": "5 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of the reduction undersubparagraph (A)shall not exceed the lesser of\u2014\u2014the applicable credit increase amount, or\u20145 percent of the applicable phaseout threshold range."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(i)(4)(C)(i)In General\u2014The amount of the reduction undersubparagraph (A)shall not exceed the lesser of\u2014I.R.C. \u00a7 24(i)(4)(C)(i)(I)\u2014the applicable credit increase amount, orI.R.C. \u00a7 24(i)(4)(C)(i)(II)\u20145 percent of the applicable phaseout threshold range.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(i)(4)(C)(ii)",
+    "source_subsections": [
+      "(i)(4)(C)(ii)",
+      "(i)(4)(C)(ii)(I)",
+      "(i)(4)(C)(ii)(II)"
+    ],
+    "rule_type": "definition",
+    "title": "Credit Increase Amount",
+    "text": "For purposes of this subparagraph, the term \u201capplicable credit increase amount\u201d means the excess (if any) of\u2014\u2014the amount of the credit allowable under this section for the taxable year determined without regard to this paragraph andsubsection (b), over\u2014the amount of such credit as so determined and without regard toparagraph (3).",
+    "conditions": [
+      "any) of\u2014\u2014the amount of the credit allowable under this section for the taxable year determined without regard to this paragraph andsubsection (b), over\u2014the amount of such credit as so determined and without regard toparagraph (3)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any) of\u2014\u2014the amount of the credit allowable under this section for the taxable year determined without regard to this paragraph andsubsection (b), over\u2014the amount of such credit as so determined and without regard toparagraph (3)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subparagraph, the term \u201capplicable credit increase amount\u201d means the excess ("
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(i)(4)(C)(ii)Applicable Credit Increase Amount\u2014For purposes of this subparagraph, the term \u201capplicable credit increase amount\u201d means\n                           the excess (if any) of\u2014I.R.C. \u00a7 24(i)(4)(C)(ii)(I)\u2014the amount of the credit allowable under this section for the taxable year determined\n                              without regard to this paragraph andsubsection (b), overI.R.C. \u00a7 24(i)(4)(C)(ii)(II)\u2014the amount of such credit as so determined and without regard toparagraph (3).",
+    "definitions": {
+      "term": "applicable credit increase amount",
+      "requirements": [
+        "the excess (if any) of\u2014\u2014the amount of the credit allowable under this section for the taxable year determined without regard to this paragraph andsubsection (b), over\u2014the amount of such credit as so determined and without regard toparagraph (3)."
+      ]
+    }
+  },
+  {
+    "section": "24",
+    "subsection": "(i)(4)(C)(iii)",
+    "source_subsections": [
+      "(i)(4)(C)(iii)",
+      "(i)(4)(C)(iii)(I)",
+      "(i)(4)(C)(iii)(II)"
+    ],
+    "rule_type": "definition",
+    "title": "Phaseout Threshold Range",
+    "text": "For purposes of this subparagraph, the term \u201capplicable phaseout threshold range\u201d means the excess of\u2014\u2014the threshold amount applicable to the taxpayer undersubsection (b)(determined after the application ofsubsection (h)(3)), over\u2014the applicable threshold amount applicable to the taxpayer under this paragraph.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "subtraction",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subparagraph, the term \u201capplicable phaseout threshold range\u201d means the excess of\u2014\u2014the threshold amount applicable to the taxpayer undersubsection (b)(determined after the application ofsubsection (h)(3)), over\u2014the applicable threshold amount applicable to the taxpayer under this paragraph."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(i)(4)(C)(iii)Applicable Phaseout Threshold Range\u2014For purposes of this subparagraph, the term \u201capplicable phaseout threshold range\u201d\n                           means the excess of\u2014I.R.C. \u00a7 24(i)(4)(C)(iii)(I)\u2014the threshold amount applicable to the taxpayer undersubsection (b)(determined after the application ofsubsection (h)(3)), overI.R.C. \u00a7 24(i)(4)(C)(iii)(II)\u2014the applicable threshold amount applicable to the taxpayer under this paragraph.",
+    "definitions": {
+      "term": "applicable phaseout threshold range",
+      "requirements": [
+        "the excess of\u2014\u2014the threshold amount applicable to the taxpayer undersubsection (b)(determined after the application ofsubsection (h)(3)), over\u2014the applicable threshold amount applicable to the taxpayer under this paragraph."
+      ]
+    }
+  },
+  {
+    "section": "24",
+    "subsection": "(i)(4)(D)",
+    "source_subsections": [
+      "(i)(4)(D)"
+    ],
+    "rule_type": "condition",
+    "title": "With Limitation On Overall Credit",
+    "text": "Subsection (b)shall be applied by substituting \u201cthe credit allowable undersubsection (a)(determined after the application ofsubsection (i)(4)(A)\u201d for \u201cthe credit allowable undersubsection (a)\u201d.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Subsection (b)shall be applied by substituting \u201cthe credit allowable undersubsection (a)(determined after the application ofsubsection (i)(4)(A)\u201d for \u201cthe credit allowable undersubsection (a)\u201d."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(i)(4)(D)Coordination With Limitation On Overall Credit\u2014Subsection (b)shall be applied by substituting \u201cthe credit allowable undersubsection (a)(determined after the application ofsubsection (i)(4)(A)\u201d for \u201cthe credit allowable undersubsection (a)\u201d.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(j)(1)",
+    "source_subsections": [
+      "(j)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The amount of the credit allowed under this section to any taxpayer for any taxable year shall be reduced (but not below zero) by the aggregate amount of payments made undersection 7527Ato such taxpayer during such taxable year. Any failure to so reduce the credit shall be treated as arising out of a mathematical or clerical error and assessed according tosection 6213(b)(1).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of the credit allowed under this section to any taxpayer for any taxable year shall be reduced (but not below zero) by the aggregate amount of payments made undersection 7527Ato such taxpayer during such taxable year. Any failure to so reduce the credit shall be treated as arising out of a mathematical or clerical error and assessed according tosection 6213(b)(1)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(j)(1)In General\u2014The amount of the credit allowed under this section to any taxpayer for any taxable\n                     year shall be reduced (but not below zero) by the aggregate amount of payments made\n                     undersection 7527Ato such taxpayer during such taxable year. Any failure to so reduce the credit shall\n                     be treated as arising out of a mathematical or clerical error and assessed according\n                     tosection 6213(b)(1).",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(j)(2)(A)",
+    "source_subsections": [
+      "(j)(2)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "If the aggregate amount of payments undersection 7527Ato the taxpayer during the taxable year exceeds the amount of the credit allowed under this section to such taxpayer for such taxable year (determined without regard toparagraph (1)), the tax imposed by this chapter for such taxable year shall be increased by the amount of such excess. Any failure to so increase the tax shall be treated as arising out of a mathematical or clerical error and assessed according tosection 6213(b)(1).",
+    "conditions": [
+      "the aggregate amount of payments undersection 7527Ato the taxpayer during the taxable year exceeds the amount of the credit allowed under this section to such taxpayer for such taxable year (determined without regard toparagraph (1)), the tax imposed by this chapter for such taxable year shall be increased by the amount of such excess. Any failure to so increase the tax shall be treated as arising out of a mathematical or clerical error and assessed according tosection 6213(b)(1)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the aggregate amount of payments undersection 7527Ato the taxpayer during the taxable year exceeds the amount of the credit allowed under this section to such taxpayer for such taxable year (determined without regard toparagraph (1)), the tax imposed by this chapter for such taxable year shall be increased by the amount of such excess. Any failure to so increase the tax shall be treated as arising out of a mathematical or clerical error and assessed according tosection 6213(b)(1)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(j)(2)(A)In General\u2014If the aggregate amount of payments undersection 7527Ato the taxpayer during the taxable year exceeds the amount of the credit allowed\n                        under this section to such taxpayer for such taxable year (determined without regard\n                        toparagraph (1)), the tax imposed by this chapter for such taxable year shall be increased by the\n                        amount of such excess. Any failure to so increase the tax shall be treated as arising\n                        out of a mathematical or clerical error and assessed according tosection 6213(b)(1).",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(j)(2)(B)(i)",
+    "source_subsections": [
+      "(j)(2)(B)(i)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "In the case of a taxpayer whose modified adjusted gross income (as defined insubsection (b)) for the taxable year does not exceed 200 percent of the applicable income threshold, the amount of the increase determined undersubparagraph (A)with respect to such taxpayer for such taxable year shall be reduced (but not below zero) by the safe harbor amount.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 2.0,
+        "text": "200 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a taxpayer whose modified adjusted gross income (as defined insubsection (b)) for the taxable year does not exceed 200 percent of the applicable income threshold, the amount of the increase determined undersubparagraph (A)with respect to such taxpayer for such taxable year shall be reduced (but not below zero) by the safe harbor amount."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(j)(2)(B)(i)In General\u2014In the case of a taxpayer whose modified adjusted gross income (as defined insubsection (b)) for the taxable year does not exceed 200 percent of the applicable income threshold,\n                           the amount of the increase determined undersubparagraph (A)with respect to such taxpayer for such taxable year shall be reduced (but not below\n                           zero) by the safe harbor amount.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(j)(2)(B)(ii)",
+    "source_subsections": [
+      "(j)(2)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Out Of Safe Harbor Amount",
+    "text": "In the case of a taxpayer whose modified adjusted gross income (as defined insubsection (b)) for the taxable year exceeds the applicable income threshold, the safe harbor amount otherwise in effect underclause (i)shall be reduced by the amount which bears the same ratio to such amount as such excess bears to the applicable income threshold.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a taxpayer whose modified adjusted gross income (as defined insubsection (b)) for the taxable year exceeds the applicable income threshold, the safe harbor amount otherwise in effect underclause (i)shall be reduced by the amount which bears the same ratio to such amount as such excess bears to the applicable income threshold."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(j)(2)(B)(ii)Phase Out Of Safe Harbor Amount\u2014In the case of a taxpayer whose modified adjusted gross income (as defined insubsection (b)) for the taxable year exceeds the applicable income threshold, the safe harbor amount\n                           otherwise in effect underclause (i)shall be reduced by the amount which bears the same ratio to such amount as such\n                           excess bears to the applicable income threshold.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(j)(2)(B)(iii)",
+    "source_subsections": [
+      "(j)(2)(B)(iii)",
+      "(j)(2)(B)(iii)(I)",
+      "(j)(2)(B)(iii)(II)",
+      "(j)(2)(B)(iii)(III)"
+    ],
+    "rule_type": "definition",
+    "title": "Income Threshold",
+    "text": "For purposes of this subparagraph, the term \u201capplicable income threshold\u201d means\u2014\u2014$60,000 in the case of a joint return or surviving spouse (as defined insection 2(a)),\u2014$50,000 in the case of a head of household, and\u2014$40,000 in any other case.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 60000,
+        "text": "$60,000"
+      },
+      {
+        "label": "amount",
+        "value": 50000,
+        "text": "$50,000"
+      },
+      {
+        "label": "amount",
+        "value": 40000,
+        "text": "$40,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subparagraph, the term \u201capplicable income threshold\u201d means\u2014\u2014$60,000 in the case of a joint return or surviving spouse (as defined insection 2(a)),\u2014$50,000 in the case of a head of household, and\u2014$40,000 in any other case."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(j)(2)(B)(iii)Applicable Income Threshold\u2014For purposes of this subparagraph, the term \u201capplicable income threshold\u201d means\u2014I.R.C. \u00a7 24(j)(2)(B)(iii)(I)\u2014$60,000 in the case of a joint return or surviving spouse (as defined insection 2(a)),I.R.C. \u00a7 24(j)(2)(B)(iii)(II)\u2014$50,000 in the case of a head of household, andI.R.C. \u00a7 24(j)(2)(B)(iii)(III)\u2014$40,000 in any other case.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(j)(2)(B)(iv)",
+    "source_subsections": [
+      "(j)(2)(B)(iv)",
+      "(j)(2)(B)(iv)(I)",
+      "(j)(2)(B)(iv)(II)"
+    ],
+    "rule_type": "definition",
+    "title": "Harbor Amount",
+    "text": "For purposes of this subparagraph, the term \u201csafe harbor amount\u201d means, with respect to any taxable year, the product of\u2014\u2014$2,000, multiplied by\u2014the excess (if any) of the number of qualified children taken into account in determining the annual advance amount with respect to the taxpayer undersection 7527Awith respect to months beginning in such taxable year, over the number of qualified children taken into account in determining the credit allowed under this section for such taxable year.",
+    "conditions": [
+      "any) of the number of qualified children taken into account in determining the annual advance amount with respect to the taxpayer undersection 7527Awith respect to months beginning in such taxable year, over the number of qualified children taken into account in determining the credit allowed under this section for such taxable year."
+    ],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 2000,
+        "text": "$2,000,"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any) of the number of qualified children taken into account in determining the annual advance amount with respect to the taxpayer undersection 7527Awith respect to months beginning in such taxable year, over the number of qualified children taken into account in determining the credit allowed under this section for such taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subparagraph, the term \u201csafe harbor amount\u201d means, with respect to any taxable year, the product of\u2014\u2014$2,000, multiplied by\u2014the excess ("
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(j)(2)(B)(iv)Safe Harbor Amount\u2014For purposes of this subparagraph, the term \u201csafe harbor amount\u201d means, with respect\n                           to any taxable year, the product of\u2014I.R.C. \u00a7 24(j)(2)(B)(iv)(I)\u2014$2,000, multiplied byI.R.C. \u00a7 24(j)(2)(B)(iv)(II)\u2014the excess (if any) of the number of qualified children taken into account in determining\n                              the annual advance amount with respect to the taxpayer undersection 7527Awith respect to months beginning in such taxable year, over the number of qualified\n                              children taken into account in determining the credit allowed under this section for\n                              such taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(k)(1)(A)",
+    "source_subsections": [
+      "(k)(1)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The Secretary shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss (if any) to that possession by reason of the application of this section (determined without regard to this subsection) with respect to taxable years beginning after 2020. Such amounts shall be determined by the Secretary based on information provided by the government of the respective possession.",
+    "conditions": [
+      "any) to that possession by reason of the application of this section (determined without regard to this subsection) with respect to taxable years beginning after 2020. Such amounts shall be determined by the Secretary based on information provided by the government of the respective possession."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any) to that possession by reason of the application of this section (determined without regard to this subsection) with respect to taxable years beginning after 2020. Such amounts shall be determined by the Secretary based on information provided by the government of the respective possession."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss ("
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(k)(1)(A)In General\u2014The Secretary shall pay to each possession of the United States with a mirror code\n                        tax system amounts equal to the loss (if any) to that possession by reason of the\n                        application of this section (determined without regard to this subsection) with respect\n                        to taxable years beginning after 2020. Such amounts shall be determined by the Secretary\n                        based on information provided by the government of the respective possession.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(k)(1)(B)",
+    "source_subsections": [
+      "(k)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "With Credit Allowed Against United States Income Taxes",
+    "text": "No credit shall be allowed under this section for any taxable year to any individual to whom a credit is allowable against taxes imposed by a possession of the United States with a mirror code tax system by reason of the application of this section in such possession for such taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be allowed under this section for any taxable year to any individual to whom a credit is allowable against taxes imposed by a possession of the United States with a mirror code tax system by reason of the application of this section in such possession for such taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(k)(1)(B)Coordination With Credit Allowed Against United States Income Taxes\u2014No credit shall be allowed under this section for any taxable year to any individual\n                        to whom a credit is allowable against taxes imposed by a possession of the United\n                        States with a mirror code tax system by reason of the application of this section\n                        in such possession for such taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(k)(1)(C)",
+    "source_subsections": [
+      "(k)(1)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "Code Tax System",
+    "text": "For purposes of this paragraph, the term \u201cmirror code tax system\u201d means, with respect to any possession of the United States, the income tax system of such possession if the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States.",
+    "conditions": [
+      "the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as",
+      "such possession were the United States."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as",
+        "such possession were the United States."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the term \u201cmirror code tax system\u201d means, with respect to any possession of the United States, the income tax system of such possession"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(k)(1)(C)Mirror Code Tax System\u2014For purposes of this paragraph, the term \u201cmirror code tax system\u201d means, with respect\n                        to any possession of the United States, the income tax system of such possession if\n                        the income tax liability of the residents of such possession under such system is\n                        determined by reference to the income tax laws of the United States as if such possession\n                        were the United States.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(k)(2)(A)(i)",
+    "source_subsections": [
+      "(k)(2)(A)(i)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "For application of refundable credit to residents of Puerto Rico, seesubsection (i)(1).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For application of refundable credit to residents of Puerto Rico, seesubsection (i)(1)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(k)(2)(A)(i)\u2014For application of refundable credit to residents of Puerto Rico, seesubsection (i)(1).",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(k)(2)(A)(ii)",
+    "source_subsections": [
+      "(k)(2)(A)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "For nonapplication of advance payment to residents of Puerto Rico, seesection 7527A(e)(5)(A).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For nonapplication of advance payment to residents of Puerto Rico, seesection 7527A(e)(5)(A)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(k)(2)(A)(ii)\u2014For nonapplication of advance payment to residents of Puerto Rico, seesection 7527A(e)(5)(A).",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(k)(2)(B)",
+    "source_subsections": [
+      "(k)(2)(B)",
+      "(k)(2)(B)(i)",
+      "(k)(2)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "To Taxable Years After 2021",
+    "text": "In the case of any bona fide resident of Puerto Rico (within the meaning ofsection 937(a)) for any taxable year beginning after December 31, 2021\u2014\u2014the credit determined under this section shall be allowable to such resident, and\u2014subsection (d)(1)(B)(ii)shall be applied without regard to the phrase \u201cin the case of a taxpayer with 3 or more qualifying children\u201d.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any bona fide resident of Puerto Rico (within the meaning ofsection 937(a)) for any taxable year beginning after December 31, 2021\u2014\u2014the credit determined under this section shall be allowable to such resident, and\u2014subsection (d)(1)(B)(ii)shall be applied without regard to the phrase \u201cin the case of a taxpayer with 3 or more qualifying children\u201d."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(k)(2)(B)Application To Taxable Years After 2021\u2014In the case of any bona fide resident of Puerto Rico (within the meaning ofsection 937(a)) for any taxable year beginning after December 31, 2021\u2014I.R.C. \u00a7 24(k)(2)(B)(i)\u2014the credit determined under this section shall be allowable to such resident, andI.R.C. \u00a7 24(k)(2)(B)(ii)\u2014subsection (d)(1)(B)(ii)shall be applied without regard to the phrase \u201cin the case of a taxpayer with 3 or\n                           more qualifying children\u201d.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(k)(3)(A)",
+    "source_subsections": [
+      "(k)(3)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The Secretary shall pay to American Samoa amounts estimated by the Secretary as being equal to the aggregate benefits that would have been provided to residents of American Samoa by reason of the application of this section for taxable years beginning after 2020 if the provisions of this section had been in effect in American Samoa (applied as if American Samoa were the United States and without regard to the application of this section to bona fide residents of Puerto Rico undersubsection (i)(1)).",
+    "conditions": [
+      "the provisions of this section had been in effect in American Samoa (applied as",
+      "American Samoa were the United States and without regard to the application of this section to bona fide residents of Puerto Rico undersubsection (i)(1))."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the provisions of this section had been in effect in American Samoa (applied as",
+        "American Samoa were the United States and without regard to the application of this section to bona fide residents of Puerto Rico undersubsection (i)(1))."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall pay to American Samoa amounts estimated by the Secretary as being equal to the aggregate benefits that would have been provided to residents of American Samoa by reason of the application of this section for taxable years beginning after 2020"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(k)(3)(A)In General\u2014The Secretary shall pay to American Samoa amounts estimated by the Secretary as being\n                        equal to the aggregate benefits that would have been provided to residents of American\n                        Samoa by reason of the application of this section for taxable years beginning after\n                        2020 if the provisions of this section had been in effect in American Samoa (applied\n                        as if American Samoa were the United States and without regard to the application\n                        of this section to bona fide residents of Puerto Rico undersubsection (i)(1)).",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(k)(3)(B)",
+    "source_subsections": [
+      "(k)(3)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Requirement",
+    "text": "Subparagraph (A) shall not apply unless American Samoa has a plan, which has been approved by the Secretary, under which American Samoa will promptly distribute such payments to its residents.",
+    "conditions": [
+      "American Samoa has a plan, which has been approved by the Secretary, under which American Samoa will promptly distribute such payments to its residents."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "American Samoa has a plan, which has been approved by the Secretary, under which American Samoa will promptly distribute such payments to its residents."
+      ],
+      "except": [],
+      "result": "Subparagraph (A) shall not apply"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(k)(3)(B)Distribution Requirement\u2014Subparagraph (A) shall not apply unless American Samoa has a plan, which has been\n                        approved by the Secretary, under which American Samoa will promptly distribute such\n                        payments to its residents.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(k)(3)(C)(i)",
+    "source_subsections": [
+      "(k)(3)(C)(i)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "In the case of a taxable year with respect to which a plan is approved under subparagraph (B), this section (other than this subsection) shall not apply to any individual eligible for a distribution under such plan.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a taxable year with respect to which a plan is approved under subparagraph (B), this section (other than this subsection) shall not apply to any individual eligible for a distribution under such plan."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(k)(3)(C)(i)In General\u2014In the case of a taxable year with respect to which a plan is approved under subparagraph\n                           (B), this section (other than this subsection) shall not apply to any individual eligible\n                           for a distribution under such plan.",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(k)(3)(C)(ii)",
+    "source_subsections": [
+      "(k)(3)(C)(ii)",
+      "(k)(3)(C)(ii)(I)",
+      "(k)(3)(C)(ii)(II)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Section In Event Of Absence Of Approved Plan",
+    "text": "In the case of a taxable year with respect to which a plan is not approved under subparagraph (B)\u2014\u2014if such taxable year begins in 2021,subsection (i)(1)shall be applied by substituting \u201cbona fide resident of Puerto Rico or American Samoa\u201d for \u201cbona fide resident of Puerto Rico\u201d, and\u2014if such taxable year begins after December 31, 2021, rules similar to the rules ofparagraph (2)(B)shall apply with respect to bona fide residents of American Samoa (within the meaning ofsection 937(a)).",
+    "conditions": [
+      "such taxable year begins in 2021,subsection (i)(1)shall be applied by substituting \u201cbona fide resident of Puerto Rico or American Samoa\u201d for \u201cbona fide resident of Puerto Rico\u201d, and\u2014",
+      "such taxable year begins after December 31, 2021, rules similar to the rules ofparagraph (2)(B)shall apply with respect to bona fide residents of American Samoa (within the meaning ofsection 937(a))."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such taxable year begins in 2021,subsection (i)(1)shall be applied by substituting \u201cbona fide resident of Puerto Rico or American Samoa\u201d for \u201cbona fide resident of Puerto Rico\u201d, and\u2014",
+        "such taxable year begins after December 31, 2021, rules similar to the rules ofparagraph (2)(B)shall apply with respect to bona fide residents of American Samoa (within the meaning ofsection 937(a))."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a taxable year with respect to which a plan is not approved under subparagraph (B)\u2014\u2014"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(k)(3)(C)(ii)Application Of Section In Event Of Absence Of Approved Plan\u2014In the case of a taxable year with respect to which a plan is not approved under subparagraph\n                           (B)\u2014I.R.C. \u00a7 24(k)(3)(C)(ii)(I)\u2014if such taxable year begins in 2021,subsection (i)(1)shall be applied by substituting \u201cbona fide resident of Puerto Rico or American Samoa\u201d\n                              for \u201cbona fide resident of Puerto Rico\u201d, andI.R.C. \u00a7 24(k)(3)(C)(ii)(II)\u2014if such taxable year begins after December 31, 2021, rules similar to the rules ofparagraph (2)(B)shall apply with respect to bona fide residents of American Samoa (within the meaning\n                              ofsection 937(a)).",
+    "definitions": null
+  },
+  {
+    "section": "24",
+    "subsection": "(k)(4)",
+    "source_subsections": [
+      "(k)(4)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Payments",
+    "text": "For purposes ofsection 1324 of title 31, United States Code, the payments under this subsection shall be treated in the same manner as a refund due from a credit provision referred to insubsection (b)(2)of such section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes ofsection 1324 of title 31, United States Code, the payments under this subsection shall be treated in the same manner as a refund due from a credit provision referred to insubsection (b)(2)of such section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 24(k)(4)Treatment Of Payments\u2014For purposes ofsection 1324 of title 31, United States Code, the payments under this subsection shall be treated in the same\n                     manner as a refund due from a credit provision referred to insubsection (b)(2)of such section.",
+    "definitions": null
+  }
+]

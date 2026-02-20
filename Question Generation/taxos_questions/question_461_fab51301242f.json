@@ -1,0 +1,22 @@
+{
+  "id": "fab51301242f",
+  "section": "461",
+  "citation": "I.R.C. \u00a7 461(k)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 461(k) is discussed as follows: 'I.R.C. \u00a7 461(k)Farming Syndicate DefinedI.R.C. \u00a7 461(k)(1)In General\u2014For purposes of subsection (i)(...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 461(k)?",
+  "difficulty": 1,
+  "choices": [
+    "52.5%",
+    "25.0%",
+    "35.0%",
+    "65.0%",
+    "45.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 35.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 461(k)"
+  ]
+}

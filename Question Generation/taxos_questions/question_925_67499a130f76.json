@@ -1,0 +1,22 @@
+{
+  "id": "67499a130f76",
+  "section": "925",
+  "citation": "I.R.C. \u00a7 925(a)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 925(a) is discussed as follows: 'I.R.C. \u00a7 925(a)In General [Repealed]\u2014In  the case of a sale of export property to a FSC by a person ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 925(a)?",
+  "difficulty": 1,
+  "choices": [
+    "98.2%",
+    "1.8%",
+    "11.8%",
+    "2.7%",
+    "0.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 1.83%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 925(a)"
+  ]
+}

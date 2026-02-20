@@ -1,0 +1,22 @@
+{
+  "id": "74eacdb14f46",
+  "section": "1397A",
+  "citation": "I.R.C. \u00a7 1397A(a)(1)(A)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 1397A(a)(1)(A) is discussed as follows: 'I.R.C. \u00a7 1397A(a)(1)(A)\u2014$35,000  , or...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 1397A(a)(1)(A)?",
+  "difficulty": 1,
+  "choices": [
+    "$35,000.00",
+    "$31,500.00",
+    "$38,500.00",
+    "$70,000.00",
+    "$17,500.00"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies $35,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1397A(a)(1)(A)"
+  ]
+}

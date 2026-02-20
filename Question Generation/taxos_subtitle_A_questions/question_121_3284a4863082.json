@@ -1,0 +1,20 @@
+{
+  "id": "3284a4863082",
+  "section": "121",
+  "citation": "I.R.C. \u00a7 121(a)/(b)",
+  "type": "Calculation - Residence Exclusion",
+  "scenario": "Bob sold their principal residence for $266,817.56. They purchased it for $179,630.96 and lived in it for 3 years out of the last 5 years.",
+  "question": "Calculate the taxable gain recognized on the sale under I.R.C. \u00a7 121.",
+  "difficulty": 3,
+  "choices": [
+    "$87,186.60",
+    "$0.00",
+    "$-37,813.40"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "Gain is $87,186.60. Exclusion is $250,000.00. Taxable: $0.00.",
+  "reasoning": "Applied Section 121 exclusion.",
+  "source_rules": [
+    "I.R.C. \u00a7 121(a)/(b)"
+  ]
+}

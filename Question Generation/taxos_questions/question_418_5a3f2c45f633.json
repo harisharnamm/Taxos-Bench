@@ -1,0 +1,22 @@
+{
+  "id": "5a3f2c45f633",
+  "section": "418",
+  "citation": "I.R.C. \u00a7 418(b)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 418(b) is discussed as follows: 'I.R.C. \u00a7 418(b)Reorganization Index\u2014For  purposes of this subpart\u2014I.R.C. \u00a7 418(b)(1)In General\u2014A  pl...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 418(b)?",
+  "difficulty": 1,
+  "choices": [
+    "7.5%",
+    "95.0%",
+    "5.0%",
+    "15.0%",
+    "0.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 5.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 418(b)"
+  ]
+}

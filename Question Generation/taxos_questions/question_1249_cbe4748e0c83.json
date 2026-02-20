@@ -1,0 +1,21 @@
+{
+  "id": "cbe4748e0c83",
+  "section": "1249",
+  "citation": "I.R.C. \u00a7 1249(b)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1249(b) is discussed as follows: 'I.R.C. \u00a7 1249(b)Control\u2014For  purposes of subsection (a), control means, with respect to any foreign ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1249(b)?",
+  "difficulty": 1,
+  "choices": [
+    "40.0%",
+    "60.0%",
+    "75.0%",
+    "50.0%"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1249(b)"
+  ]
+}

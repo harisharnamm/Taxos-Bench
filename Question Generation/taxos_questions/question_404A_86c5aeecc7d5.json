@@ -1,0 +1,21 @@
+{
+  "id": "86c5aeecc7d5",
+  "section": "404A",
+  "citation": "I.R.C. \u00a7 404A(g)(3)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 404A(g)(3) is discussed as follows: 'I.R.C. \u00a7 404A(g)(3)Actuarial Assumptions Must Be Reasonable; Full FundingI.R.C. \u00a7 404A(g)(3)(A)In Ge...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 404A(g)(3)?",
+  "difficulty": 1,
+  "choices": [
+    "80.0%",
+    "10.0%",
+    "20.0%",
+    "30.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 20.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 404A(g)(3)"
+  ]
+}

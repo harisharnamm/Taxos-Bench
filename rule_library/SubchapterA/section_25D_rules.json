@@ -1,0 +1,893 @@
+[
+  {
+    "section": "25D",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)",
+      "(a)(1)",
+      "(a)(2)",
+      "(a)(3)",
+      "(a)(4)",
+      "(a)(5)",
+      "(a)(6)"
+    ],
+    "rule_type": "computation",
+    "title": "Of Credit",
+    "text": "In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the applicable percentages of\u2014\u2014the qualified solar electric property expenditures,\u2014the qualified solar water heating property expenditures,\u2014the qualified fuel cell property expenditures,\u2014the qualified small wind energy property expenditures,\u2014the qualified geothermal heat pump property expenditures, and\u2014the qualified battery storage technology expenditures,made by the taxpayer during such year.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the applicable percentages of\u2014\u2014the qualified solar electric property expenditures,\u2014the qualified solar water heating property expenditures,\u2014the qualified fuel cell property expenditures,\u2014the qualified small wind energy property expenditures,\u2014the qualified geothermal heat pump property expenditures, and\u2014the qualified battery storage technology expenditures,made by the taxpayer during such year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25D(a)Allowance Of Credit\u2014In the case of an individual, there\n                  shall be allowed as a credit against the tax imposed by this chapter\n                  for the taxable year an amount equal to the sum of the applicable\n                  percentages of\u2014I.R.C. \u00a7 25D(a)(1)\u2014the qualified solar electric property\n                     expenditures,I.R.C. \u00a7 25D(a)(2)\u2014the qualified solar water heating property\n                     expenditures,I.R.C. \u00a7 25D(a)(3)\u2014the qualified fuel cell property expenditures,I.R.C. \u00a7 25D(a)(4)\u2014the qualified small wind energy property\n                     expenditures,I.R.C. \u00a7 25D(a)(5)\u2014the qualified geothermal heat pump property expenditures, andI.R.C. \u00a7 25D(a)(6)\u2014the qualified battery storage technology\n                     expenditures,made by the taxpayer during such year.",
+    "definitions": null
+  },
+  {
+    "section": "25D",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)"
+    ],
+    "rule_type": "definition",
+    "title": "Credit For Fuel Cells",
+    "text": "In the case of any qualified fuel cell property expenditure, the credit allowed under subsection (a) (determined without regard to subsection (c)) for any taxable year shall not exceed $500 with respect to each half kilowatt of capacity of the qualified fuel cell property (as defined in section48(c)(1)) to which such expenditure relates.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 500,
+        "text": "$500"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any qualified fuel cell property expenditure, the credit allowed under subsection (a) (determined without regard to subsection (c)) for any taxable year shall not exceed $500 with respect to each half kilowatt of capacity of the qualified fuel cell property (as defined in section48(c)(1)) to which such expenditure relates."
+    },
+    "cross_references": [
+      {
+        "section": "48(c)(1)",
+        "reason": "cell property (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25D(b)(1)Maximum Credit For Fuel Cells\u2014In the case of any qualified fuel\n                     cell property expenditure, the credit allowed under subsection (a)\n                     (determined without regard to subsection (c)) for any taxable year\n                     shall not exceed $500 with respect to each half kilowatt of capacity\n                     of the qualified fuel cell property (as defined in section48(c)(1)) to which such expenditure\n                     relates.",
+    "definitions": null
+  },
+  {
+    "section": "25D",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Solar Water Heating Property",
+    "text": "No credit shall be allowed under this section for an item of property described in subsection (d)(1) unless such property is certified for performance by the non-profit Solar Rating Certification Corporation or a comparable entity endorsed by the government of the State in which such property is installed.",
+    "conditions": [
+      "such property is certified for performance by the non-profit Solar Rating Certification Corporation or a comparable entity endorsed by the government of the State in which such property is installed."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "such property is certified for performance by the non-profit Solar Rating Certification Corporation or a comparable entity endorsed by the government of the State in which such property is installed."
+      ],
+      "except": [],
+      "result": "No credit shall be allowed under this section for an item of property described in subsection (d)(1)"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25D(b)(2)Certification Of Solar Water Heating Property\u2014No credit shall be allowed under this section for an\n                     item of property described in subsection (d)(1) unless such property\n                     is certified for performance by the non-profit Solar Rating Certification\n                     Corporation or a comparable entity endorsed by the government of the\n                     State in which such property is installed.",
+    "definitions": null
+  },
+  {
+    "section": "25D",
+    "subsection": "(c)",
+    "source_subsections": [
+      "(c)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Unused Credit",
+    "text": "If the credit allowable under subsection (a) exceeds the limitation imposed by section26(a)for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such succeeding taxable year.",
+    "conditions": [
+      "the credit allowable under subsection (a) exceeds the limitation imposed by section26(a)for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such succeeding taxable year."
+    ],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the credit allowable under subsection (a) exceeds the limitation imposed by section26(a)for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such succeeding taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "26(a)",
+        "reason": "eds the limitation imposed by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25D(c)Carryforward Of Unused Credit\u2014If the credit allowable under subsection (a) exceeds\n                  the limitation imposed by section26(a)for\n                  such taxable year reduced by the sum of the credits allowable under\n                  this subpart (other than this section), such excess shall be carried\n                  to the succeeding taxable year and added to the credit allowable under\n                  subsection (a) for such succeeding taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "25D",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)"
+    ],
+    "rule_type": "definition",
+    "title": "Solar Water Heating Property Expenditure",
+    "text": "The term \u201cqualified solar water heating property expenditure\u201d means an expenditure for property to heat water for use in a dwelling unit located in the United States and used as a residence by the taxpayer if at least half of the energy used by such property for such purpose is derived from the sun.",
+    "conditions": [
+      "at least half of the energy used by such property for such purpose is derived from the sun."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "at least half of the energy used by such property for such purpose is derived from the sun."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified solar water heating property expenditure\u201d means an expenditure for property to heat water for use in a dwelling unit located in the United States and used as a residence by the taxpayer"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25D(d)(1)Qualified Solar Water Heating Property Expenditure\u2014The term \u201cqualified solar water heating property\n                     expenditure\u201d means an expenditure for property to heat water\n                     for use in a dwelling unit located in the United States and used as\n                     a residence by the taxpayer if at least half of the energy used by\n                     such property for such purpose is derived from the sun.",
+    "definitions": {
+      "term": "qualified solar water heating property expenditure",
+      "requirements": [
+        "an expenditure for property to heat water for use in a dwelling unit located in the United States and used as a residence by the taxpayer if at least half of the energy used by such property for such purpose is derived from the sun."
+      ]
+    }
+  },
+  {
+    "section": "25D",
+    "subsection": "(d)(2)",
+    "source_subsections": [
+      "(d)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Solar Electric Property Expenditure",
+    "text": "The term \u201cqualified solar electric property expenditure\u201d means an expenditure for property which uses solar energy to generate electricity for use in a dwelling unit located in the United States and used as a residence by the taxpayer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified solar electric property expenditure\u201d means an expenditure for property which uses solar energy to generate electricity for use in a dwelling unit located in the United States and used as a residence by the taxpayer."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25D(d)(2)Qualified Solar Electric Property Expenditure\u2014The term \u201cqualified solar electric property expenditure\u201d\n                     means an expenditure for property which uses solar energy to generate\n                     electricity for use in a dwelling unit located in the United States\n                     and used as a residence by the taxpayer.",
+    "definitions": {
+      "term": "qualified solar electric property expenditure",
+      "requirements": [
+        "an expenditure for property which uses solar energy to generate electricity for use in a dwelling unit located in the United States and used as a residence by the taxpayer."
+      ]
+    }
+  },
+  {
+    "section": "25D",
+    "subsection": "(d)(3)",
+    "source_subsections": [
+      "(d)(3)"
+    ],
+    "rule_type": "definition",
+    "title": "Fuel Cell Property Expenditure",
+    "text": "The term \u201cqualified fuel cell property expenditure\u201d means an expenditure for qualified fuel cell property (as defined in section48(c)(1), without regard to subparagraph (D) thereof) installed on or in connection with a dwelling unit located in the United States and used as a principal residence (within the meaning of section121) by the taxpayer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified fuel cell property expenditure\u201d means an expenditure for qualified fuel cell property (as defined in section48(c)(1), without regard to subparagraph (D) thereof) installed on or in connection with a dwelling unit located in the United States and used as a principal residence (within the meaning of section121) by the taxpayer."
+    },
+    "cross_references": [
+      {
+        "section": "48(c)(1)",
+        "reason": "cell property (as defined in..."
+      },
+      {
+        "section": "121",
+        "reason": "idence (within the meaning of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25D(d)(3)Qualified Fuel Cell Property Expenditure\u2014The term \u201cqualified fuel cell property expenditure\u201d\n                     means an expenditure for qualified fuel cell property (as defined\n                     in section48(c)(1),\n                     without regard to subparagraph (D) thereof) installed on or in connection\n                     with a dwelling unit located in the United States and used as a principal\n                     residence (within the meaning of section121) by the taxpayer.",
+    "definitions": {
+      "term": "qualified fuel cell property expenditure",
+      "requirements": [
+        "an expenditure for qualified fuel cell property (as defined in section48(c)(1), without regard to subparagraph (D) thereof) installed on or in connection with a dwelling unit located in the United States and used as a principal residence (within the meaning of section121) by the taxpayer."
+      ]
+    }
+  },
+  {
+    "section": "25D",
+    "subsection": "(d)(4)",
+    "source_subsections": [
+      "(d)(4)"
+    ],
+    "rule_type": "definition",
+    "title": "Small Wind Energy Property Expenditure",
+    "text": "The term \u201cqualified small wind energy property expenditure\u201d means an expenditure for property which uses a wind turbine to generate electricity for use in connection with a dwelling unit located in the United States and used as a residence by the taxpayer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified small wind energy property expenditure\u201d means an expenditure for property which uses a wind turbine to generate electricity for use in connection with a dwelling unit located in the United States and used as a residence by the taxpayer."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25D(d)(4)Qualified Small Wind Energy Property Expenditure\u2014The term \u201cqualified small wind energy property\n                     expenditure\u201d means an expenditure for property which uses a\n                     wind turbine to generate electricity for use in connection with a\n                     dwelling unit located in the United States and used as a residence\n                     by the taxpayer.",
+    "definitions": {
+      "term": "qualified small wind energy property expenditure",
+      "requirements": [
+        "an expenditure for property which uses a wind turbine to generate electricity for use in connection with a dwelling unit located in the United States and used as a residence by the taxpayer."
+      ]
+    }
+  },
+  {
+    "section": "25D",
+    "subsection": "(d)(5)(A)",
+    "source_subsections": [
+      "(d)(5)(A)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cqualified geothermal heat pump property expenditure\u201d means an expenditure for qualified geothermal heat pump property installed on or in connection with a dwelling unit located in the United States and used as a residence by the taxpayer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified geothermal heat pump property expenditure\u201d means an expenditure for qualified geothermal heat pump property installed on or in connection with a dwelling unit located in the United States and used as a residence by the taxpayer."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25D(d)(5)(A)In General\u2014The term \u201cqualified geothermal heat pump property\n                        expenditure\u201d means an expenditure for qualified geothermal heat\n                        pump property installed on or in connection with a dwelling unit located\n                        in the United States and used as a residence by the taxpayer.",
+    "definitions": {
+      "term": "qualified geothermal heat pump property expenditure",
+      "requirements": [
+        "an expenditure for qualified geothermal heat pump property installed on or in connection with a dwelling unit located in the United States and used as a residence by the taxpayer."
+      ]
+    }
+  },
+  {
+    "section": "25D",
+    "subsection": "(d)(5)(B)",
+    "source_subsections": [
+      "(d)(5)(B)",
+      "(d)(5)(B)(i)",
+      "(d)(5)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Geothermal Heat Pump Property",
+    "text": "The term \u201cqualified geothermal heat pump property\u201d means any equipment which\u2014\u2014uses the ground or ground water as a thermal energy source to heat the dwelling unit referred to in subparagraph (A) or as a thermal energy sink to cool such dwelling unit, and\u2014meets the requirements of the Energy Star program which are in effect at the time that the expenditure for such equipment is made.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified geothermal heat pump property\u201d means any equipment which\u2014\u2014uses the ground or ground water as a thermal energy source to heat the dwelling unit referred to in subparagraph (A) or as a thermal energy sink to cool such dwelling unit, and\u2014meets the requirements of the Energy Star program which are in effect at the time that the expenditure for such equipment is made."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25D(d)(5)(B)Qualified Geothermal Heat Pump Property\u2014The term \u201cqualified geothermal heat pump property\u201d\n                        means any equipment which\u2014I.R.C. \u00a7 25D(d)(5)(B)(i)\u2014uses the ground or ground water as a\n                           thermal energy source to heat the dwelling unit referred to in subparagraph\n                           (A) or as a thermal energy sink to cool such dwelling unit, andI.R.C. \u00a7 25D(d)(5)(B)(ii)\u2014meets the requirements of the Energy\n                           Star program which are in effect at the time that the expenditure\n                           for such equipment is made.",
+    "definitions": {
+      "term": "qualified geothermal heat pump property",
+      "requirements": [
+        "any equipment which\u2014\u2014uses the ground or ground water as a thermal energy source to heat the dwelling unit referred to in subparagraph (A) or as a thermal energy sink to cool such dwelling unit, and\u2014meets the requirements of the Energy Star program which are in effect at the time that the expenditure for such equipment is made."
+      ]
+    }
+  },
+  {
+    "section": "25D",
+    "subsection": "(d)(6)",
+    "source_subsections": [
+      "(d)(6)",
+      "(d)(6)(A)",
+      "(d)(6)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Battery Storage Technology Expenditure.",
+    "text": "The term \u201cqualified battery storage technology expenditure\u201d means an expenditure for battery storage technology which\u2014\u2014is installed in connection with a dwelling unit located in the United States and used as a residence by the taxpayer, and\u2014has a capacity of not less than 3 kilowatt hours.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified battery storage technology expenditure\u201d means an expenditure for battery storage technology which\u2014\u2014is installed in connection with a dwelling unit located in the United States and used as a residence by the taxpayer, and\u2014has a capacity of not less than 3 kilowatt hours."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25D(d)(6)Qualified Battery Storage Technology Expenditure.\u2014The term \u201cqualified battery storage technology\n                     expenditure\u201d means an expenditure for battery storage technology\n                     which\u2014I.R.C. \u00a7 25D(d)(6)(A)\u2014is installed in connection with a dwelling\n                        unit located in the United States and used as a residence by the taxpayer,\n                        andI.R.C. \u00a7 25D(d)(6)(B)\u2014has a capacity of not less than 3 kilowatt\n                        hours.",
+    "definitions": {
+      "term": "qualified battery storage technology expenditure",
+      "requirements": [
+        "an expenditure for battery storage technology which\u2014\u2014is installed in connection with a dwelling unit located in the United States and used as a residence by the taxpayer, and\u2014has a capacity of not less than 3 kilowatt hours."
+      ]
+    }
+  },
+  {
+    "section": "25D",
+    "subsection": "(e)(1)",
+    "source_subsections": [
+      "(e)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "Costs",
+    "text": "Expenditures for labor costs properly allocable to the onsite preparation, assembly, or original installation of the property described in subsection (d) and for piping or wiring to interconnect such property to the dwelling unit shall be taken into account for purposes of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Expenditures for labor costs properly allocable to the onsite preparation, assembly, or original installation of the property described in subsection (d) and for piping or wiring to interconnect such property to the dwelling unit shall be taken into account for purposes of this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25D(e)(1)Labor Costs\u2014Expenditures for labor costs properly allocable to the\n                     onsite preparation, assembly, or original installation of the property\n                     described in subsection (d) and for piping or wiring to interconnect\n                     such property to the dwelling unit shall be taken into account for\n                     purposes of this section.",
+    "definitions": null
+  },
+  {
+    "section": "25D",
+    "subsection": "(e)(2)",
+    "source_subsections": [
+      "(e)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Panels",
+    "text": "No expenditure relating to a solar panel or other property installed as a roof (or portion thereof) shall fail to be treated as property described in paragraph (1) or (2) of subsection (d) solely because it constitutes a structural component of the structure on which it is installed.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No expenditure relating to a solar panel or other property installed as a roof (or portion thereof) shall fail to be treated as property described in paragraph (1) or (2) of subsection (d) solely because it constitutes a structural component of the structure on which it is installed."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25D(e)(2)Solar Panels\u2014No expenditure relating to a solar panel or other property\n                     installed as a roof (or portion thereof) shall fail to be treated\n                     as property described in paragraph (1) or (2) of subsection (d) solely\n                     because it constitutes a structural component of the structure on\n                     which it is installed.",
+    "definitions": null
+  },
+  {
+    "section": "25D",
+    "subsection": "(e)(3)",
+    "source_subsections": [
+      "(e)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Pools, Etc., Used As Storage Medium",
+    "text": "Expenditures which are properly allocable to a swimming pool, hot tub, or any other energy storage medium which has a function other than the function of such storage shall not be taken into account for purposes of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Expenditures which are properly allocable to a swimming pool, hot tub, or any other energy storage medium which has a function other than the function of such storage shall not be taken into account for purposes of this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25D(e)(3)Swimming Pools, Etc., Used As Storage Medium\u2014Expenditures which are properly allocable to a swimming\n                     pool, hot tub, or any other energy storage medium which has a function\n                     other than the function of such storage shall not be taken into account\n                     for purposes of this section.",
+    "definitions": null
+  },
+  {
+    "section": "25D",
+    "subsection": "(e)(4)(A)",
+    "source_subsections": [
+      "(e)(4)(A)"
+    ],
+    "rule_type": "definition",
+    "title": "Expenditures For Fuel Cells",
+    "text": "The maximum amount of such expenditures which may be taken into account under subsection (a) by all such individuals with respect to such dwelling unit during such calendar year shall be $1,667 in the case of each half kilowatt of capacity of qualified fuel cell property (as defined in section48(c)(1)) with respect to which such expenditures relate.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 1667,
+        "text": "$1,667"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The maximum amount of such expenditures which may be taken into account under subsection (a) by all such individuals with respect to such dwelling unit during such calendar year shall be $1,667 in the case of each half kilowatt of capacity of qualified fuel cell property (as defined in section48(c)(1)) with respect to which such expenditures relate."
+    },
+    "cross_references": [
+      {
+        "section": "48(c)(1)",
+        "reason": "cell property (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25D(e)(4)(A)Maximum Expenditures For Fuel Cells\u2014The maximum amount of such expenditures\n                        which may be taken into account under subsection (a) by all such individuals\n                        with respect to such dwelling unit during such calendar year shall\n                        be $1,667 in the case of each half kilowatt of capacity of qualified\n                        fuel cell property (as defined in section48(c)(1)) with respect to\n                        which such expenditures relate.",
+    "definitions": null
+  },
+  {
+    "section": "25D",
+    "subsection": "(e)(4)(B)",
+    "source_subsections": [
+      "(e)(4)(B)",
+      "(e)(4)(B)(i)",
+      "(e)(4)(B)(ii)",
+      "(e)(4)(B)(ii)(I)",
+      "(e)(4)(B)(ii)(II)"
+    ],
+    "rule_type": "limitation",
+    "title": "Of Expenditures",
+    "text": "The expenditures allocated to any individual for the taxable year in which such calendar year ends shall be an amount equal to the lesser of\u2014\u2014the amount of expenditures made by such individual with respect to such dwelling during such calendar year, or\u2014the maximum amount of such expenditures set forth in subparagraph (A) multiplied by a fraction\u2014\u2014the numerator of which is the amount of such expenditures with respect to such dwelling made by such individual during such calendar year, and\u2014the denominator of which is the total expenditures made by all such individuals with respect to such dwelling during such calendar year.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "min",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      },
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The expenditures allocated to any individual for the taxable year in which such calendar year ends shall be an amount equal to the lesser of\u2014\u2014the amount of expenditures made by such individual with respect to such dwelling during such calendar year, or\u2014the maximum amount of such expenditures set forth in subparagraph (A) multiplied by a fraction\u2014\u2014the numerator of which is the amount of such expenditures with respect to such dwelling made by such individual during such calendar year, and\u2014the denominator of which is the total expenditures made by all such individuals with respect to such dwelling during such calendar year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25D(e)(4)(B)Allocation Of Expenditures\u2014The expenditures allocated to any individual for the\n                        taxable year in which such calendar year ends shall be an amount equal\n                        to the lesser of\u2014I.R.C. \u00a7 25D(e)(4)(B)(i)\u2014the amount of expenditures made by such\n                           individual with respect to such dwelling during such calendar year,\n                           orI.R.C. \u00a7 25D(e)(4)(B)(ii)\u2014the maximum amount of such expenditures\n                           set forth in subparagraph (A) multiplied by a fraction\u2014I.R.C. \u00a7 25D(e)(4)(B)(ii)(I)\u2014the numerator of which is the amount\n                              of such expenditures with respect to such dwelling made by such individual\n                              during such calendar year, andI.R.C. \u00a7 25D(e)(4)(B)(ii)(II)\u2014the denominator of which is the total\n                              expenditures made by all such individuals with respect to such dwelling\n                              during such calendar year.",
+    "definitions": null
+  },
+  {
+    "section": "25D",
+    "subsection": "(e)(5)",
+    "source_subsections": [
+      "(e)(5)"
+    ],
+    "rule_type": "definition",
+    "title": "In Cooperative Housing Corporation",
+    "text": "In the case of an individual who is a tenant-stockholder (as defined in section216) in a cooperative housing corporation (as defined in such section), such individual shall be treated as having made his tenant-stockholder's proportionate share (as defined in section216(b)(3)) of any expenditures of such corporation.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of an individual who is a tenant-stockholder (as defined in section216) in a cooperative housing corporation (as defined in such section), such individual shall be treated as having made his tenant-stockholder's proportionate share (as defined in section216(b)(3)) of any expenditures of such corporation."
+    },
+    "cross_references": [
+      {
+        "section": "216",
+        "reason": "nt-stockholder (as defined in..."
+      },
+      {
+        "section": "216(b)(3)",
+        "reason": "rtionate share (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25D(e)(5)Tenant-Stockholder In Cooperative Housing Corporation\u2014In the case of an individual who is a tenant-stockholder\n                     (as defined in section216)\n                     in a cooperative housing corporation (as defined in such section),\n                     such individual shall be treated as having made his tenant-stockholder's\n                     proportionate share (as defined in section216(b)(3)) of any expenditures\n                     of such corporation.",
+    "definitions": null
+  },
+  {
+    "section": "25D",
+    "subsection": "(e)(6)(A)",
+    "source_subsections": [
+      "(e)(6)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "In the case of an individual who is a member of a condominium management association with respect to a condominium which the individual owns, such individual shall be treated as having made the individual's proportionate share of any expenditures of such association.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of an individual who is a member of a condominium management association with respect to a condominium which the individual owns, such individual shall be treated as having made the individual's proportionate share of any expenditures of such association."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25D(e)(6)(A)In General\u2014In the case of an individual who is a member of a condominium\n                        management association with respect to a condominium which the individual\n                        owns, such individual shall be treated as having made the individual's\n                        proportionate share of any expenditures of such association.",
+    "definitions": null
+  },
+  {
+    "section": "25D",
+    "subsection": "(e)(6)(B)",
+    "source_subsections": [
+      "(e)(6)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Management Association",
+    "text": "For purposes of this paragraph, the term \u201ccondominium management association\u201d means an organization which meets the requirements of paragraph(1)of section528(c)(other than subparagraph(E)thereof) with respect to a condominium project substantially all of the units of which are used as residences.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the term \u201ccondominium management association\u201d means an organization which meets the requirements of paragraph(1)of section528(c)(other than subparagraph(E)thereof) with respect to a condominium project substantially all of the units of which are used as residences."
+    },
+    "cross_references": [
+      {
+        "section": "528(c)",
+        "reason": "equirements of paragraph(1)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25D(e)(6)(B)Condominium Management Association\u2014For purposes of this paragraph, the term \u201ccondominium\n                        management association\u201d means an organization which meets the\n                        requirements of paragraph(1)of\n                        section528(c)(other\n                        than subparagraph(E)thereof)\n                        with respect to a condominium project substantially all of the units\n                        of which are used as residences.",
+    "definitions": {
+      "term": "condominium management association",
+      "requirements": [
+        "an organization which meets the requirements of paragraph(1)of section528(c)(other than subparagraph(E)thereof) with respect to a condominium project substantially all of the units of which are used as residences."
+      ]
+    }
+  },
+  {
+    "section": "25D",
+    "subsection": "(e)(7)",
+    "source_subsections": [
+      "(e)(7)"
+    ],
+    "rule_type": "condition",
+    "title": "In Certain Cases",
+    "text": "If less than 80 percent of the use of an item is for nonbusiness purposes, only that portion of the expenditures for such item which is properly allocable to use for nonbusiness purposes shall be taken into account.",
+    "conditions": [
+      "less than 80 percent of the use of an item is for nonbusiness purposes, only that portion of the expenditures for such item which is properly allocable to use for nonbusiness purposes shall be taken into account."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.8,
+        "text": "80 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "less than 80 percent of the use of an item is for nonbusiness purposes, only that portion of the expenditures for such item which is properly allocable to use for nonbusiness purposes shall be taken into account."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25D(e)(7)Allocation In Certain Cases\u2014If less than 80 percent of the use of an item is for\n                     nonbusiness purposes, only that portion of the expenditures for such\n                     item which is properly allocable to use for nonbusiness purposes shall\n                     be taken into account.",
+    "definitions": null
+  },
+  {
+    "section": "25D",
+    "subsection": "(e)(8)(A)",
+    "source_subsections": [
+      "(e)(8)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Except as provided in subparagraph (B), an expenditure with respect to an item shall be treated as made when the original installation of the item is completed.",
+    "conditions": [
+      "the original installation of the item is completed."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [
+      {
+        "applies_when": "subparagraph (B)",
+        "effect": "See referenced section"
+      }
+    ],
+    "logical_structure": {
+      "if": [
+        "the original installation of the item is completed."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as provided in subparagraph (B), an expenditure with respect to an item shall be treated as made"
+      ],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25D(e)(8)(A)In General\u2014Except as provided in subparagraph (B), an expenditure\n                        with respect to an item shall be treated as made when the original\n                        installation of the item is completed.",
+    "definitions": null
+  },
+  {
+    "section": "25D",
+    "subsection": "(e)(8)(B)",
+    "source_subsections": [
+      "(e)(8)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Part Of Building Construction",
+    "text": "In the case of an expenditure in connection with the construction or reconstruction of a structure, such expenditure shall be treated as made when the original use of the constructed or reconstructed structure by the taxpayer begins.",
+    "conditions": [
+      "the original use of the constructed or reconstructed structure by the taxpayer begins."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the original use of the constructed or reconstructed structure by the taxpayer begins."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of an expenditure in connection with the construction or reconstruction of a structure, such expenditure shall be treated as made"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25D(e)(8)(B)Expenditures Part Of Building Construction\u2014In the case of an expenditure in connection with the\n                        construction or reconstruction of a structure, such expenditure shall\n                        be treated as made when the original use of the constructed or reconstructed\n                        structure by the taxpayer begins.",
+    "definitions": null
+  },
+  {
+    "section": "25D",
+    "subsection": "(f)",
+    "source_subsections": [
+      "(f)"
+    ],
+    "rule_type": "condition",
+    "title": "Adjustments",
+    "text": "For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.",
+    "conditions": [
+      "a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subtitle,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25D(f)Basis Adjustments\u2014For purposes of this subtitle, if a credit is allowed\n                  under this section for any expenditure with respect to any property,\n                  the increase in the basis of such property which would (but for this\n                  subsection) result from such expenditure shall be reduced by the amount\n                  of the credit so allowed.",
+    "definitions": null
+  },
+  {
+    "section": "25D",
+    "subsection": "(g)",
+    "source_subsections": [
+      "(g)",
+      "(g)(1)",
+      "(g)(2)",
+      "(g)(3)"
+    ],
+    "rule_type": "computation",
+    "title": "Percentage",
+    "text": "For purposes of subsection (a), the applicable percentage shall be\u2014\u2014in the case of property placed in service after December 31, 2016, and before January 1, 2020, 30 percent,\u2014in the case of property placed in service after December 31, 2019, and before January 1, 2022, 26 percent, and\u2014in the case of property placed in service after December 31, 2021, 30 percent.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.3,
+        "text": "30 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.26,
+        "text": "26 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.3,
+        "text": "30 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subsection (a), the applicable percentage shall be\u2014\u2014in the case of property placed in service after December 31, 2016, and before January 1, 2020, 30 percent,\u2014in the case of property placed in service after December 31, 2019, and before January 1, 2022, 26 percent, and\u2014in the case of property placed in service after December 31, 2021, 30 percent."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25D(g)Applicable Percentage\u2014For purposes of subsection (a), the\n                  applicable percentage shall be\u2014I.R.C. \u00a7 25D(g)(1)\u2014in the case of property placed in service\n                     after December 31, 2016, and before January 1, 2020, 30 percent,I.R.C. \u00a7 25D(g)(2)\u2014in the case of property placed in service after December 31, 2019, and before January\n                     1, 2022, 26 percent, andI.R.C. \u00a7 25D(g)(3)\u2014in the case of property placed in service after December 31, 2021,  30 percent.",
+    "definitions": null
+  },
+  {
+    "section": "25D",
+    "subsection": "(h)",
+    "source_subsections": [
+      "(h)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The credit allowed under this section shall not apply with respect to any expenditures made after December 31, 2025.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The credit allowed under this section shall not apply with respect to any expenditures made after December 31, 2025."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25D(h)Termination\u2014The credit allowed under this section shall not apply with respect to any expenditures\n                  made after December 31, 2025.",
+    "definitions": null
+  }
+]

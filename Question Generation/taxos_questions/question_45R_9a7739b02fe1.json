@@ -1,0 +1,22 @@
+{
+  "id": "9a7739b02fe1",
+  "section": "45R",
+  "citation": "I.R.C. \u00a7 45R(d)(3)(B)(i)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 45R(d)(3)(B)(i) is discussed as follows: 'I.R.C. \u00a7 45R(d)(3)(B)(i)2010, 2011, 2012, And 2013\u2014The dollar amount in effect under this paragraph ...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 45R(d)(3)(B)(i)?",
+  "difficulty": 1,
+  "choices": [
+    "$50,000.00",
+    "$12,500.00",
+    "$25,000.00",
+    "$27,500.00",
+    "$22,500.00"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies $25,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 45R(d)(3)(B)(i)"
+  ]
+}

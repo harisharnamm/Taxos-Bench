@@ -1,0 +1,1762 @@
+[
+  {
+    "section": "35",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "In the case of an individual, there shall be allowed as a credit against the tax imposed by subtitle A an amount equal to 72.5 percent of the amount paid by the taxpayer for coverage of the taxpayer and qualifying family members under qualified health insurance for eligible coverage months beginning in the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.725,
+        "text": "72.5 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of an individual, there shall be allowed as a credit against the tax imposed by subtitle A an amount equal to 72.5 percent of the amount paid by the taxpayer for coverage of the taxpayer and qualifying family members under qualified health insurance for eligible coverage months beginning in the taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(a)In General\u2014In the case of an individual, there shall be allowed as a credit against the tax imposed\n                  by subtitle A an amount equal to 72.5 percent of the amount paid by the taxpayer for\n                  coverage of the taxpayer and qualifying family members under qualified health insurance\n                  for eligible coverage months beginning in the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)",
+      "(b)(1)(A)",
+      "(b)(1)(A)(i)",
+      "(b)(1)(A)(ii)",
+      "(b)(1)(A)(iii)",
+      "(b)(1)(A)(iv)",
+      "(b)(1)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201celigible coverage month\u201d means any month if\u2014\u2014as of the first day of such month, the taxpayer\u2014\u2014is an eligible individual,\u2014is covered by qualified health insurance, the premium for which is paid by the taxpayer,\u2014does not have other specified coverage, and\u2014is not imprisoned under Federal, State, or local authority, and\u2014such month begins more than 90 days after the date of the enactment of the Trade Act of 2002, and before January 1, 2022.",
+    "conditions": [
+      "\u2014\u2014as of the first day of such month, the taxpayer\u2014\u2014is an eligible individual,\u2014is covered by qualified health insurance, the premium for which is paid by the taxpayer,\u2014does not have other specified coverage, and\u2014is not imprisoned under Federal, State, or local authority, and\u2014such month begins more than 90 days after the date of the enactment of the Trade Act of 2002, and before January 1, 2022."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014as of the first day of such month, the taxpayer\u2014\u2014is an eligible individual,\u2014is covered by qualified health insurance, the premium for which is paid by the taxpayer,\u2014does not have other specified coverage, and\u2014is not imprisoned under Federal, State, or local authority, and\u2014such month begins more than 90 days after the date of the enactment of the Trade Act of 2002, and before January 1, 2022."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201celigible coverage month\u201d means any month"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(b)(1)In General\u2014The term \u201celigible coverage month\u201d means any month if\u2014I.R.C. \u00a7 35(b)(1)(A)\u2014as of the first day of such month, the taxpayer\u2014I.R.C. \u00a7 35(b)(1)(A)(i)\u2014is an eligible individual,I.R.C. \u00a7 35(b)(1)(A)(ii)\u2014is covered by qualified health insurance, the premium for which is paid by the taxpayer,I.R.C. \u00a7 35(b)(1)(A)(iii)\u2014does not have other specified coverage, andI.R.C. \u00a7 35(b)(1)(A)(iv)\u2014is not imprisoned under Federal, State, or local authority, andI.R.C. \u00a7 35(b)(1)(B)\u2014such month begins more than 90 days after the date of the enactment of the Trade Act\n                        of 2002, and before January 1, 2022.",
+    "definitions": {
+      "term": "eligible coverage month",
+      "requirements": [
+        "any month if\u2014\u2014as of the first day of such month, the taxpayer\u2014\u2014is an eligible individual,\u2014is covered by qualified health insurance, the premium for which is paid by the taxpayer,\u2014does not have other specified coverage, and\u2014is not imprisoned under Federal, State, or local authority, and\u2014such month begins more than 90 days after the date of the enactment of the Trade Act of 2002, and before January 1, 2022."
+      ]
+    }
+  },
+  {
+    "section": "35",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Returns",
+    "text": "In the case of a joint return, the requirements of paragraph(1)(A)shall be treated as met with respect to any month if at least 1 spouse satisfies such requirements.",
+    "conditions": [
+      "at least 1 spouse satisfies such requirements."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "at least 1 spouse satisfies such requirements."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a joint return, the requirements of paragraph(1)(A)shall be treated as met with respect to any month"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(b)(2)Joint Returns\u2014In the case of a joint return, the requirements of paragraph(1)(A)shall be treated as met with respect to any month if at least 1 spouse satisfies\n                     such requirements.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)",
+      "(c)(1)(A)",
+      "(c)(1)(B)",
+      "(c)(1)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201celigible individual\u201d means\u2014\u2014an eligible TAA recipient,\u2014an eligible alternative TAA recipient, and\u2014an eligible PBGC pension recipient.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201celigible individual\u201d means\u2014\u2014an eligible TAA recipient,\u2014an eligible alternative TAA recipient, and\u2014an eligible PBGC pension recipient."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(c)(1)In General\u2014The term \u201celigible individual\u201d means\u2014I.R.C. \u00a7 35(c)(1)(A)\u2014an eligible TAA recipient,I.R.C. \u00a7 35(c)(1)(B)\u2014an eligible alternative TAA recipient, andI.R.C. \u00a7 35(c)(1)(C)\u2014an eligible PBGC pension recipient.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(c)(2)(A)",
+    "source_subsections": [
+      "(c)(2)(A)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "Except as provided in subparagraph(B), the term \u201celigible TAA recipient\u201d means, with respect to any month, any individual who is receiving for any day of such month a trade readjustment allowance under chapter 2 of title II of the Trade Act of 1974 or who would be eligible to receive such allowance if section 231 of such Act were applied without regard to subsection (a)(3)(B) of such section. An individual shall continue to be treated as an eligible TAA recipient during the first month that such individual would otherwise cease to be an eligible TAA recipient by reason of the preceding sentence.",
+    "conditions": [
+      "section 231 of such Act were applied without regard to subsection (a)(3)(B) of such section. An individual shall continue to be treated as an eligible TAA recipient during the first month that such individual would otherwise cease to be an eligible TAA recipient by reason of the preceding sentence."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [
+      {
+        "applies_when": "subparagraph(B)",
+        "effect": "See referenced section"
+      }
+    ],
+    "logical_structure": {
+      "if": [
+        "section 231 of such Act were applied without regard to subsection (a)(3)(B) of such section. An individual shall continue to be treated as an eligible TAA recipient during the first month that such individual would otherwise cease to be an eligible TAA recipient by reason of the preceding sentence."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as provided in subparagraph(B), the term \u201celigible TAA recipient\u201d means, with respect to any month, any individual who is receiving for any day of such month a trade readjustment allowance under chapter 2 of title II of the Trade Act of 1974 or who would be eligible to receive such allowance"
+      ],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "231",
+        "reason": "to receive such allowance if..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(c)(2)(A)In General\u2014Except as provided in subparagraph(B), the term \u201celigible TAA recipient\u201d means, with respect to any month, any individual\n                        who is receiving for any day of such month a trade readjustment allowance under chapter\n                        2 of title II of the Trade Act of 1974 or who would be eligible to receive such allowance\n                        if section 231 of such Act were applied without regard to subsection (a)(3)(B) of\n                        such section. An individual shall continue to be treated as an eligible TAA recipient\n                        during the first month that such individual would otherwise cease to be an eligible\n                        TAA recipient by reason of the preceding sentence.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(c)(2)(B)",
+    "source_subsections": [
+      "(c)(2)(B)",
+      "(c)(2)(B)(i)",
+      "(c)(2)(B)(ii)",
+      "(c)(2)(B)(iii)"
+    ],
+    "rule_type": "definition",
+    "title": "Rule",
+    "text": "In the case of any eligible coverage month beginning after the date of the enactment of this paragraph, the term \u201celigible TAA recipient\u201d means, with respect to any month, any individual who\u2014\u2014is receiving for any day of such month a trade readjustment allowance under chapter 2 of title II of the Trade Act of 1974,\u2014would be eligible to receive such allowance except that such individual is in a break in training provided under a training program approved under section 236 of such Act that exceeds the period specified in section 233(e) of such Act, but is within the period for receiving such allowances provided under section 233(a) of such Act, or\u2014is receiving unemployment compensation (as defined in section85(b)) for any day of such month and who would be eligible to receive such allowance for such month if section 231 of such Act were applied without regard to subsections (a)(3)(B) and (a)(5) thereof.An individual shall continue to be treated as an eligible TAA recipient during the first month that such individual would otherwise cease to be an eligible TAA recipient by reason of the preceding sentence.",
+    "conditions": [
+      "section 231 of such Act were applied without regard to subsections (a)(3)(B) and (a)(5) thereof.An individual shall continue to be treated as an eligible TAA recipient during the first month that such individual would otherwise cease to be an eligible TAA recipient by reason of the preceding sentence."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "section 231 of such Act were applied without regard to subsections (a)(3)(B) and (a)(5) thereof.An individual shall continue to be treated as an eligible TAA recipient during the first month that such individual would otherwise cease to be an eligible TAA recipient by reason of the preceding sentence."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "that such individual is in a break in training provided under a training program approved under section 236 of such Act that exceeds the period specified in section 233(e) of such Act, but is within the period for receiving such allowances provided under section 233(a) of such Act, or\u2014is receiving unemployment compensation (as defined in section85(b)) for any day of such month and who would be eligible to receive such allowance for such month"
+      ],
+      "result": "In the case of any eligible coverage month beginning after the date of the enactment of this paragraph, the term \u201celigible TAA recipient\u201d means, with respect to any month, any individual who\u2014\u2014is receiving for any day of such month a trade readjustment allowance under chapter 2 of title II of the Trade Act of 1974,\u2014would be eligible to receive such allowance"
+    },
+    "cross_references": [
+      {
+        "section": "236",
+        "reason": "aining program approved under..."
+      },
+      {
+        "section": "233(e)",
+        "reason": "ceeds the period specified in..."
+      },
+      {
+        "section": "233(a)",
+        "reason": "uch allowances provided under..."
+      },
+      {
+        "section": "85(b)",
+        "reason": "t compensation (as defined in..."
+      },
+      {
+        "section": "231",
+        "reason": "h allowance for such month if..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(c)(2)(B)Special Rule\u2014In the case of any eligible coverage month beginning after the date of the enactment\n                        of this paragraph, the term \u201celigible TAA recipient\u201d means, with respect to any month,\n                        any individual who\u2014I.R.C. \u00a7 35(c)(2)(B)(i)\u2014is receiving for any day of such month a trade readjustment allowance under chapter\n                           2 of title II of the Trade Act of 1974,I.R.C. \u00a7 35(c)(2)(B)(ii)\u2014would be eligible to receive such allowance except that such individual is in a break\n                           in training provided under a training program approved under section 236 of such Act\n                           that exceeds the period specified in section 233(e) of such Act, but is within the\n                           period for receiving such allowances provided under section 233(a) of such Act, orI.R.C. \u00a7 35(c)(2)(B)(iii)\u2014is receiving unemployment compensation (as defined in section85(b)) for any day of such month and who would be eligible to receive such allowance for\n                           such month if section 231 of such Act were applied without regard to subsections (a)(3)(B)\n                           and (a)(5) thereof.An individual shall continue to be treated as an eligible TAA recipient during the\n                           first month that such individual would otherwise cease to be an eligible TAA recipient\n                           by reason of the preceding sentence.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(c)(3)",
+    "source_subsections": [
+      "(c)(3)",
+      "(c)(3)(A)",
+      "(c)(3)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Alternative TAA Recipient",
+    "text": "The term \u201celigible alternative TAA recipient\u201d means, with respect to any month, any individual who\u2014\u2014is a worker described in section 246(a)(3)(B) of the Trade Act of 1974 who is participating in the program established under section 246(a)(1) of such Act, and\u2014is receiving a benefit for such month under section 246(a)(2) of such Act.An individual shall continue to be treated as an eligible alternative TAA recipient during the first month that such individual would otherwise cease to be an eligible alternative TAA recipient by reason of the preceding sentence.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201celigible alternative TAA recipient\u201d means, with respect to any month, any individual who\u2014\u2014is a worker described in section 246(a)(3)(B) of the Trade Act of 1974 who is participating in the program established under section 246(a)(1) of such Act, and\u2014is receiving a benefit for such month under section 246(a)(2) of such Act.An individual shall continue to be treated as an eligible alternative TAA recipient during the first month that such individual would otherwise cease to be an eligible alternative TAA recipient by reason of the preceding sentence."
+    },
+    "cross_references": [
+      {
+        "section": "246(a)(3)(B)",
+        "reason": "who\u2014\u2014is a worker described in..."
+      },
+      {
+        "section": "246(a)(1)",
+        "reason": "the program established under..."
+      },
+      {
+        "section": "246(a)(2)",
+        "reason": "benefit for such month under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(c)(3)Eligible Alternative TAA Recipient\u2014The term \u201celigible alternative TAA recipient\u201d means, with respect to any month, any\n                     individual who\u2014I.R.C. \u00a7 35(c)(3)(A)\u2014is a worker described in section 246(a)(3)(B) of the Trade Act of 1974 who is participating\n                        in the program established under section 246(a)(1) of such Act, andI.R.C. \u00a7 35(c)(3)(B)\u2014is receiving a benefit for such month under section 246(a)(2) of such Act.An individual shall continue to be treated as an eligible alternative TAA recipient\n                           during the first month that such individual would otherwise cease to be an eligible\n                           alternative TAA recipient by reason of the preceding sentence.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(c)(4)",
+    "source_subsections": [
+      "(c)(4)",
+      "(c)(4)(A)",
+      "(c)(4)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "PBGC Pension Recipient",
+    "text": "The term \u201celigible PBGC pension recipient\u201d means, with respect to any month, any individual who\u2014\u2014has attained age 55 as of the first day of such month, and\u2014is receiving a benefit for such month any portion of which is paid by the Pension Benefit Guaranty Corporation under title IV of the Employee Retirement Income Security Act of 1974.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201celigible PBGC pension recipient\u201d means, with respect to any month, any individual who\u2014\u2014has attained age 55 as of the first day of such month, and\u2014is receiving a benefit for such month any portion of which is paid by the Pension Benefit Guaranty Corporation under title IV of the Employee Retirement Income Security Act of 1974."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(c)(4)Eligible PBGC Pension Recipient\u2014The term \u201celigible PBGC pension recipient\u201d means, with respect to any month, any individual\n                     who\u2014I.R.C. \u00a7 35(c)(4)(A)\u2014has attained age 55 as of the first day of such month, andI.R.C. \u00a7 35(c)(4)(B)\u2014is receiving a benefit for such month any portion of which is paid by the Pension\n                        Benefit Guaranty Corporation under title IV of the Employee Retirement Income Security\n                        Act of 1974.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)",
+      "(d)(1)(A)",
+      "(d)(1)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cqualifying family member\u201d means\u2014\u2014the taxpayer's spouse, and\u2014any dependent of the taxpayer with respect to whom the taxpayer is entitled to a deduction under section151(c).Such term does not include any individual who has other specified coverage.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualifying family member\u201d means\u2014\u2014the taxpayer's spouse, and\u2014any dependent of the taxpayer with respect to whom the taxpayer is entitled to a deduction under section151(c).Such term does not include any individual who has other specified coverage."
+    },
+    "cross_references": [
+      {
+        "section": "151(c)",
+        "reason": "entitled to a deduction under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(d)(1)In General\u2014The term \u201cqualifying family member\u201d means\u2014I.R.C. \u00a7 35(d)(1)(A)\u2014the taxpayer's spouse, andI.R.C. \u00a7 35(d)(1)(B)\u2014any dependent of the taxpayer with respect to whom the taxpayer is entitled to a deduction\n                        under section151(c).Such term does not include any individual who has other specified coverage.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(d)(2)",
+    "source_subsections": [
+      "(d)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Dependency Test In Case Of Divorced Parents, Etc.",
+    "text": "If section152(e)applies to any child with respect to any calendar year, in the case of any taxable year beginning in such calendar year, such child shall be treated as described in paragraph(1)(B)with respect to the custodial parent (as defined in section152(e)(4)(A)) and not with respect to the noncustodial parent.",
+    "conditions": [
+      "section152(e)applies to any child with respect to any calendar year, in the case of any taxable year beginning in such calendar year, such child shall be treated as described in paragraph(1)(B)with respect to the custodial parent (as defined in section152(e)(4)(A)) and not with respect to the noncustodial parent."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "section152(e)applies to any child with respect to any calendar year, in the case of any taxable year beginning in such calendar year, such child shall be treated as described in paragraph(1)(B)with respect to the custodial parent (as defined in section152(e)(4)(A)) and not with respect to the noncustodial parent."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "152(e)",
+        "reason": "If..."
+      },
+      {
+        "section": "152(e)(4)(A)",
+        "reason": "stodial parent (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(d)(2)Special Dependency Test In Case Of Divorced Parents, Etc.\u2014If section152(e)applies to any child with respect to any calendar year, in the case of any taxable\n                     year beginning in such calendar year, such child shall be treated as described in\n                     paragraph(1)(B)with respect to the custodial parent (as defined in section152(e)(4)(A)) and not with respect to the noncustodial parent.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(e)(1)(A)",
+    "source_subsections": [
+      "(e)(1)(A)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "Coverage under a COBRA continuation provision (as defined in section9832(d)(1)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Coverage under a COBRA continuation provision (as defined in section9832(d)(1))."
+    },
+    "cross_references": [
+      {
+        "section": "9832(d)(1)",
+        "reason": "tion provision (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(e)(1)(A)\u2014Coverage under a COBRA continuation provision (as defined in section9832(d)(1)).",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(e)(1)(B)",
+    "source_subsections": [
+      "(e)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "State-based continuation coverage provided by the State under a State law that requires such coverage.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "State-based continuation coverage provided by the State under a State law that requires such coverage."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(e)(1)(B)\u2014State-based continuation coverage provided by the State under a State law that requires\n                        such coverage.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(e)(1)(C)",
+    "source_subsections": [
+      "(e)(1)(C)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "Coverage offered through a qualified State high risk pool (as defined in section 2744(c)(2) of the Public Health Service Act).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Coverage offered through a qualified State high risk pool (as defined in section 2744(c)(2) of the Public Health Service Act)."
+    },
+    "cross_references": [
+      {
+        "section": "2744(c)(2)",
+        "reason": "high risk pool (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(e)(1)(C)\u2014Coverage offered through a qualified State high risk pool (as defined in section 2744(c)(2)\n                        of the Public Health Service Act).",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(e)(1)(D)",
+    "source_subsections": [
+      "(e)(1)(D)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Coverage under a health insurance program offered for State employees.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Coverage under a health insurance program offered for State employees."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(e)(1)(D)\u2014Coverage under a health insurance program offered for State employees.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(e)(1)(E)",
+    "source_subsections": [
+      "(e)(1)(E)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Coverage under a State-based health insurance program that is comparable to the health insurance program offered for State employees.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Coverage under a State-based health insurance program that is comparable to the health insurance program offered for State employees."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(e)(1)(E)\u2014Coverage under a State-based health insurance program that is comparable to the health\n                        insurance program offered for State employees.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(e)(1)(F)",
+    "source_subsections": [
+      "(e)(1)(F)",
+      "(e)(1)(F)(i)",
+      "(e)(1)(F)(ii)",
+      "(e)(1)(F)(iii)",
+      "(e)(1)(F)(iv)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "Coverage through an arrangement entered into by a State and\u2014\u2014a group health plan (including such a plan which is a multiemployer plan as defined in section 3(37) of the Employee Retirement Income Security Act of 1974),\u2014an issuer of health insurance coverage,\u2014an administrator, or\u2014an employer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Coverage through an arrangement entered into by a State and\u2014\u2014a group health plan (including such a plan which is a multiemployer plan as defined in section 3(37) of the Employee Retirement Income Security Act of 1974),\u2014an issuer of health insurance coverage,\u2014an administrator, or\u2014an employer."
+    },
+    "cross_references": [
+      {
+        "section": "3(37)",
+        "reason": "tiemployer plan as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(e)(1)(F)\u2014Coverage through an arrangement entered into by a State and\u2014I.R.C. \u00a7 35(e)(1)(F)(i)\u2014a group health plan (including such a plan which is a multiemployer plan as defined\n                           in section 3(37) of the Employee Retirement Income Security Act of 1974),I.R.C. \u00a7 35(e)(1)(F)(ii)\u2014an issuer of health insurance coverage,I.R.C. \u00a7 35(e)(1)(F)(iii)\u2014an administrator, orI.R.C. \u00a7 35(e)(1)(F)(iv)\u2014an employer.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(e)(1)(G)",
+    "source_subsections": [
+      "(e)(1)(G)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Coverage offered through a State arrangement with a private sector health care coverage purchasing pool.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Coverage offered through a State arrangement with a private sector health care coverage purchasing pool."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(e)(1)(G)\u2014Coverage offered through a State arrangement with a private sector health care coverage\n                        purchasing pool.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(e)(1)(H)",
+    "source_subsections": [
+      "(e)(1)(H)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Coverage under a State-operated health plan that does not receive any Federal financial participation.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Coverage under a State-operated health plan that does not receive any Federal financial participation."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(e)(1)(H)\u2014Coverage under a State-operated health plan that does not receive any Federal financial\n                        participation.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(e)(1)(I)",
+    "source_subsections": [
+      "(e)(1)(I)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Coverage under a group health plan that is available through the employment of the eligible individual's spouse.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Coverage under a group health plan that is available through the employment of the eligible individual's spouse."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(e)(1)(I)\u2014Coverage under a group health plan that is available through the employment of the\n                        eligible individual's spouse.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(e)(1)(J)",
+    "source_subsections": [
+      "(e)(1)(J)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "In the case of any eligible individual and such individual's qualifying family members, coverage under individual health insurance (other than coverage enrolled in through an Exchange established under the Patient Protection and Affordable Care Act). For purposes of this subparagraph, the term \u201cindividual health insurance\u201d means any insurance which constitutes medical care offered to individuals other than in connection with a group health plan and does not include Federal- or State-based health insurance coverage.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any eligible individual and such individual's qualifying family members, coverage under individual health insurance (other than coverage enrolled in through an Exchange established under the Patient Protection and Affordable Care Act). For purposes of this subparagraph, the term \u201cindividual health insurance\u201d means any insurance which constitutes medical care offered to individuals other than in connection with a group health plan and does not include Federal- or State-based health insurance coverage."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(e)(1)(J)\u2014In the case of any eligible individual and such individual's qualifying family members,\n                        coverage under individual health insurance (other than coverage enrolled in through\n                        an Exchange established under the Patient Protection and Affordable Care Act). For\n                        purposes of this subparagraph, the term \u201cindividual health insurance\u201d means any insurance\n                        which constitutes medical care offered to individuals other than in connection with\n                        a group health plan and does not include Federal- or State-based health insurance\n                        coverage.",
+    "definitions": {
+      "term": "individual health insurance",
+      "requirements": [
+        "any insurance which constitutes medical care offered to individuals other than in connection with a group health plan and does not include Federal- or State-based health insurance coverage."
+      ]
+    }
+  },
+  {
+    "section": "35",
+    "subsection": "(e)(1)(K)",
+    "source_subsections": [
+      "(e)(1)(K)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "Coverage under an employee benefit plan funded by a voluntary employees' beneficiary association (as defined in section501(c)(9)) established pursuant to an order of a bankruptcy court, or by agreement with an authorized representative, as provided in section 1114 of title 11, United States Code.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Coverage under an employee benefit plan funded by a voluntary employees' beneficiary association (as defined in section501(c)(9)) established pursuant to an order of a bankruptcy court, or by agreement with an authorized representative, as provided in section 1114 of title 11, United States Code."
+    },
+    "cross_references": [
+      {
+        "section": "501(c)(9)",
+        "reason": "ry association (as defined in..."
+      },
+      {
+        "section": "1114",
+        "reason": "epresentative, as provided in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(e)(1)(K)\u2014Coverage under an employee benefit plan funded by a voluntary employees' beneficiary\n                        association (as defined in section501(c)(9)) established pursuant to an order of a bankruptcy court, or by agreement with an\n                        authorized representative, as provided in section 1114 of title 11, United States\n                        Code.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(e)(2)(A)(i)",
+    "source_subsections": [
+      "(e)(2)(A)(i)"
+    ],
+    "rule_type": "condition",
+    "title": "Issue",
+    "text": "Each qualifying individual is guaranteed enrollment if the individual pays the premium for enrollment or provides a qualified health insurance costs credit eligibility certificate described in section7527and pays the remainder of such premium.",
+    "conditions": [
+      "the individual pays the premium for enrollment or provides a qualified health insurance costs credit eligibility certificate described in section7527and pays the remainder of such premium."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the individual pays the premium for enrollment or provides a qualified health insurance costs credit eligibility certificate described in section7527and pays the remainder of such premium."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Each qualifying individual is guaranteed enrollment"
+    },
+    "cross_references": [
+      {
+        "section": "7527a",
+        "reason": "lity certificate described in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(e)(2)(A)(i)Guaranteed Issue\u2014Each qualifying individual is guaranteed enrollment if the individual pays the premium\n                           for enrollment or provides a qualified health insurance costs credit eligibility certificate\n                           described in section7527and pays the remainder of such premium.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(e)(2)(A)(ii)",
+    "source_subsections": [
+      "(e)(2)(A)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Imposition Of Preexisting Condition Exclusion",
+    "text": "No pre-existing condition limitations are imposed with respect to any qualifying individual.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No pre-existing condition limitations are imposed with respect to any qualifying individual."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(e)(2)(A)(ii)No Imposition Of Preexisting Condition Exclusion\u2014No pre-existing condition limitations are imposed with respect to any qualifying individual.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(e)(2)(A)(iii)",
+    "source_subsections": [
+      "(e)(2)(A)(iii)"
+    ],
+    "rule_type": "condition",
+    "title": "Premium",
+    "text": "The total premium (as determined without regard to any subsidies) with respect to a qualifying individual may not be greater than the total premium (as so determined) for a similarly situated individual who is not a qualifying individual.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The total premium (as determined without regard to any subsidies) with respect to a qualifying individual may not be greater than the total premium (as so determined) for a similarly situated individual who is not a qualifying individual."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(e)(2)(A)(iii)Nondiscriminatory Premium\u2014The total premium (as determined without regard to any subsidies) with respect to\n                           a qualifying individual may not be greater than the total premium (as so determined)\n                           for a similarly situated individual who is not a qualifying individual.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(e)(2)(A)(iv)",
+    "source_subsections": [
+      "(e)(2)(A)(iv)"
+    ],
+    "rule_type": "condition",
+    "title": "Benefits",
+    "text": "Benefits under the coverage are the same as (or substantially similar to) the benefits provided to similarly situated individuals who are not qualifying individuals.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Benefits under the coverage are the same as (or substantially similar to) the benefits provided to similarly situated individuals who are not qualifying individuals."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(e)(2)(A)(iv)Same Benefits\u2014Benefits under the coverage are the same as (or substantially similar to) the benefits\n                           provided to similarly situated individuals who are not qualifying individuals.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(e)(2)(B)",
+    "source_subsections": [
+      "(e)(2)(B)",
+      "(e)(2)(B)(i)",
+      "(e)(2)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Individual",
+    "text": "For purposes of this paragraph, the term \u201cqualifying individual\u201d means\u2014\u2014an eligible individual for whom, as of the date on which the individual seeks to enroll in the coverage described in subparagraphs(B)through(H)of paragraph(1), the aggregate of the periods of creditable coverage (as defined in section9801(c)) is 3 months or longer and who, with respect to any month, meets the requirements of clauses(iii)and(iv)of subsection(b)(1)(A); and\u2014the qualifying family members of such eligible individual.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the term \u201cqualifying individual\u201d means\u2014\u2014an eligible individual for whom, as of the date on which the individual seeks to enroll in the coverage described in subparagraphs(B)through(H)of paragraph(1), the aggregate of the periods of creditable coverage (as defined in section9801(c)) is 3 months or longer and who, with respect to any month, meets the requirements of clauses(iii)and(iv)of subsection(b)(1)(A); and\u2014the qualifying family members of such eligible individual."
+    },
+    "cross_references": [
+      {
+        "section": "9801(c)",
+        "reason": "table coverage (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(e)(2)(B)Qualifying Individual\u2014For purposes of this paragraph, the term \u201cqualifying individual\u201d means\u2014I.R.C. \u00a7 35(e)(2)(B)(i)\u2014an eligible individual for whom, as of the date on which the individual seeks to enroll\n                           in the coverage described in subparagraphs(B)through(H)of paragraph(1), the aggregate of the periods of creditable coverage (as defined in section9801(c)) is 3 months or longer and who, with respect to any month, meets the requirements\n                           of clauses(iii)and(iv)of subsection(b)(1)(A); andI.R.C. \u00a7 35(e)(2)(B)(ii)\u2014the qualifying family members of such eligible individual.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(e)(3)",
+    "source_subsections": [
+      "(e)(3)",
+      "(e)(3)(A)",
+      "(e)(3)(B)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "The term \u201cqualified health insurance\u201d shall not include\u2014\u2014a flexible spending or similar arrangement, and\u2014any insurance if substantially all of its coverage is of excepted benefits described in section9832(c).",
+    "conditions": [
+      "substantially all of its coverage is of excepted benefits described in section9832(c)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "substantially all of its coverage is of excepted benefits described in section9832(c)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified health insurance\u201d shall not include\u2014\u2014a flexible spending or similar arrangement, and\u2014any insurance"
+    },
+    "cross_references": [
+      {
+        "section": "9832(c)",
+        "reason": "xcepted benefits described in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(e)(3)Exception\u2014The term \u201cqualified health insurance\u201d shall not include\u2014I.R.C. \u00a7 35(e)(3)(A)\u2014a flexible spending or similar arrangement, andI.R.C. \u00a7 35(e)(3)(B)\u2014any insurance if substantially all of its coverage is of excepted benefits described\n                        in section9832(c).",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(f)(1)(A)",
+    "source_subsections": [
+      "(f)(1)(A)"
+    ],
+    "rule_type": "exception",
+    "title": "General",
+    "text": "Such individual is covered under any insurance which constitutes medical care (except insurance substantially all of the coverage of which is of excepted benefits described in section9832(c)) under any health plan maintained by any employer (or former employer) of the taxpayer or the taxpayer's spouse and at least 50 percent of the cost of such coverage (determined under section4980B) is paid or incurred by the employer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "insurance substantially all of the coverage of which is of excepted benefits described in section9832(c)) under any health plan maintained by any employer (or former employer) of the taxpayer or the taxpayer's spouse and at least 50 percent of the cost of such coverage (determined under section4980B) is paid or incurred by the employer."
+      ],
+      "result": "Such individual is covered under any insurance which constitutes medical care ("
+    },
+    "cross_references": [
+      {
+        "section": "9832(c)",
+        "reason": "xcepted benefits described in..."
+      },
+      {
+        "section": "4980B",
+        "reason": "ch coverage (determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(f)(1)(A)In General\u2014Such individual is covered under any insurance which constitutes medical care (except\n                        insurance substantially all of the coverage of which is of excepted benefits described\n                        in section9832(c)) under any health plan maintained by any employer (or former employer) of the taxpayer\n                        or the taxpayer's spouse and at least 50 percent of the cost of such coverage (determined\n                        under section4980B) is paid or incurred by the employer.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(f)(1)(B)",
+    "source_subsections": [
+      "(f)(1)(B)",
+      "(f)(1)(B)(i)",
+      "(f)(1)(B)(ii)"
+    ],
+    "rule_type": "computation",
+    "title": "Alternative TAA Recipients",
+    "text": "In the case of an eligible alternative TAA recipient, such individual is either\u2014\u2014eligible for coverage under any qualified health insurance (other than insurance described in subparagraph(A),(B), or(F)of subsection(e)(1)) under which at least 50 percent of the cost of coverage (determined under section4980B(f)(4)) is paid or incurred by an employer (or former employer) of the taxpayer or the taxpayer's spouse, or\u2014covered under any such qualified health insurance under which any portion of the cost of coverage (as so determined) is paid or incurred by an employer (or former employer) of the taxpayer or the taxpayer's spouse.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of an eligible alternative TAA recipient, such individual is either\u2014\u2014eligible for coverage under any qualified health insurance (other than insurance described in subparagraph(A),(B), or(F)of subsection(e)(1)) under which at least 50 percent of the cost of coverage (determined under section4980B(f)(4)) is paid or incurred by an employer (or former employer) of the taxpayer or the taxpayer's spouse, or\u2014covered under any such qualified health insurance under which any portion of the cost of coverage (as so determined) is paid or incurred by an employer (or former employer) of the taxpayer or the taxpayer's spouse."
+    },
+    "cross_references": [
+      {
+        "section": "4980B(f)(4)",
+        "reason": "of coverage (determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(f)(1)(B)Eligible Alternative TAA Recipients\u2014In the case of an eligible alternative TAA recipient, such individual is either\u2014I.R.C. \u00a7 35(f)(1)(B)(i)\u2014eligible for coverage under any qualified health insurance (other than insurance described\n                           in subparagraph(A),(B), or(F)of subsection(e)(1)) under which at least 50 percent of the cost of coverage (determined under section4980B(f)(4)) is paid or incurred by an employer (or former employer) of the taxpayer or the taxpayer's\n                           spouse, orI.R.C. \u00a7 35(f)(1)(B)(ii)\u2014covered under any such qualified health insurance under which any portion of the cost\n                           of coverage (as so determined) is paid or incurred by an employer (or former employer)\n                           of the taxpayer or the taxpayer's spouse.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(f)(1)(C)",
+    "source_subsections": [
+      "(f)(1)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "Of Cafeteria Plans",
+    "text": "For purposes of subparagraphs(A)and(B), the cost of coverage shall be treated as paid or incurred by an employer to the extent the coverage is in lieu of a right to receive cash or other qualified benefits under a cafeteria plan (as defined in section125(d)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraphs(A)and(B), the cost of coverage shall be treated as paid or incurred by an employer to the extent the coverage is in lieu of a right to receive cash or other qualified benefits under a cafeteria plan (as defined in section125(d))."
+    },
+    "cross_references": [
+      {
+        "section": "125(d)",
+        "reason": "cafeteria plan (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(f)(1)(C)Treatment Of Cafeteria Plans\u2014For purposes of subparagraphs(A)and(B), the cost of coverage shall be treated as paid or incurred by an employer to the\n                        extent the coverage is in lieu of a right to receive cash or other qualified benefits\n                        under a cafeteria plan (as defined in section125(d)).",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(f)(2)",
+    "source_subsections": [
+      "(f)(2)",
+      "(f)(2)(A)",
+      "(f)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Under Medicare, Medicaid, Or SCHIP",
+    "text": "Such individual\u2014\u2014is entitled to benefits under part A of title XVIII of the Social Security Act or is enrolled under part B of such title, or\u2014is enrolled in the program under title XIX or XXI of such Act (other than under section 1928 of such Act).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Such individual\u2014\u2014is entitled to benefits under part A of title XVIII of the Social Security Act or is enrolled under part B of such title, or\u2014is enrolled in the program under title XIX or XXI of such Act (other than under section 1928 of such Act)."
+    },
+    "cross_references": [
+      {
+        "section": "1928",
+        "reason": "of such Act (other than under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(f)(2)Coverage Under Medicare, Medicaid, Or SCHIP\u2014Such individual\u2014I.R.C. \u00a7 35(f)(2)(A)\u2014is entitled to benefits under part A of title XVIII of the Social Security Act or\n                        is enrolled under part B of such title, orI.R.C. \u00a7 35(f)(2)(B)\u2014is enrolled in the program under title XIX or XXI of such Act (other than under section\n                        1928 of such Act).",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(f)(3)",
+    "source_subsections": [
+      "(f)(3)",
+      "(f)(3)(A)",
+      "(f)(3)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Other Coverage",
+    "text": "Such individual\u2014\u2014is enrolled in a health benefits plan under chapter 89 of title 5, United States Code, or\u2014is entitled to receive benefits under chapter 55 of title 10, United States Code.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Such individual\u2014\u2014is enrolled in a health benefits plan under chapter 89 of title 5, United States Code, or\u2014is entitled to receive benefits under chapter 55 of title 10, United States Code."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(f)(3)Certain Other Coverage\u2014Such individual\u2014I.R.C. \u00a7 35(f)(3)(A)\u2014is enrolled in a health benefits plan under chapter 89 of title 5, United States Code,\n                        orI.R.C. \u00a7 35(f)(3)(B)\u2014is entitled to receive benefits under chapter 55 of title 10, United States Code.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(g)(1)",
+    "source_subsections": [
+      "(g)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "With Advance Payments Of Credit",
+    "text": "With respect to any taxable year, the amount which would (but for this subsection) be allowed as a credit to the taxpayer under subsection(a)shall be reduced (but not below zero) by the aggregate amount paid on behalf of such taxpayer under section7527for months beginning in such taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "With respect to any taxable year, the amount which would (but for this subsection) be allowed as a credit to the taxpayer under subsection(a)shall be reduced (but not below zero) by the aggregate amount paid on behalf of such taxpayer under section7527for months beginning in such taxable year."
+    },
+    "cross_references": [
+      {
+        "section": "7527f",
+        "reason": "behalf of such taxpayer under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(g)(1)Coordination With Advance Payments Of Credit\u2014With respect to any taxable year, the amount which would (but for this subsection)\n                     be allowed as a credit to the taxpayer under subsection(a)shall be reduced (but not below zero) by the aggregate amount paid on behalf of such\n                     taxpayer under section7527for months beginning in such taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(g)(10)(A)",
+    "source_subsections": [
+      "(g)(10)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "Eligibility",
+    "text": "In the case of any month which would be an eligible coverage month with respect to an eligible individual but for subsection(f)(2)(A), such month shall be treated as an eligible coverage month with respect to such eligible individual solely for purposes of determining the amount of the credit under this section with respect to any qualifying family members of such individual (and any advance payment of such credit under section7527). This subparagraph shall only apply with respect to the first 24 months after such eligible individual is first entitled to the benefits described in subsection(f)(2)(A).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any month which would be an eligible coverage month with respect to an eligible individual but for subsection(f)(2)(A), such month shall be treated as an eligible coverage month with respect to such eligible individual solely for purposes of determining the amount of the credit under this section with respect to any qualifying family members of such individual (and any advance payment of such credit under section7527). This subparagraph shall only apply with respect to the first 24 months after such eligible individual is first entitled to the benefits described in subsection(f)(2)(A)."
+    },
+    "cross_references": [
+      {
+        "section": "7527",
+        "reason": "payment of such credit under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(g)(10)(A)Medicare Eligibility\u2014In the case of any month which would be an eligible coverage month with respect to\n                        an eligible individual but for subsection(f)(2)(A), such month shall be treated as an eligible coverage month with respect to such eligible\n                        individual solely for purposes of determining the amount of the credit under this\n                        section with respect to any qualifying family members of such individual (and any\n                        advance payment of such credit under section7527). This subparagraph shall only apply with respect to the first 24 months after such\n                        eligible individual is first entitled to the benefits described in subsection(f)(2)(A).",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(g)(10)(B)",
+    "source_subsections": [
+      "(g)(10)(B)"
+    ],
+    "rule_type": "exception",
+    "title": null,
+    "text": "In the case of the finalization of a divorce between an eligible individual and such individual's spouse, such spouse shall be treated as an eligible individual for purposes of this section and section7527for a period of 24 months beginning with the date of such finalization, except that the only qualifying family members who may be taken into account with respect to such spouse are those individuals who were qualifying family members immediately before such finalization.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "that the only qualifying family members who may be taken into account with respect to such spouse are those individuals who were qualifying family members immediately before such finalization."
+      ],
+      "result": "In the case of the finalization of a divorce between an eligible individual and such individual's spouse, such spouse shall be treated as an eligible individual for purposes of this section and section7527for a period of 24 months beginning with the date of such finalization,"
+    },
+    "cross_references": [
+      {
+        "section": "7527f",
+        "reason": "purposes of this section and..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(g)(10)(B)Divorce\u2014In the case of the finalization of a divorce between an eligible individual and such\n                        individual's spouse, such spouse shall be treated as an eligible individual for purposes\n                        of this section and section7527for a period of 24 months beginning with the date of such finalization, except that\n                        the only qualifying family members who may be taken into account with respect to such\n                        spouse are those individuals who were qualifying family members immediately before\n                        such finalization.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(g)(10)(C)",
+    "source_subsections": [
+      "(g)(10)(C)",
+      "(g)(10)(C)(i)",
+      "(g)(10)(C)(ii)"
+    ],
+    "rule_type": "exception",
+    "title": null,
+    "text": "In the case of the death of an eligible individual\u2014\u2014any spouse of such individual (determined at the time of such death) shall be treated as an eligible individual for purposes of this section and section7527for a period of 24 months beginning with the date of such death, except that the only qualifying family members who may be taken into account with respect to such spouse are those individuals who were qualifying family members immediately before such death, and\u2014any individual who was a qualifying family member of the decedent immediately before such death (or, in the case of an individual to whom paragraph(4)applies, the taxpayer to whom the deduction under section151is allowable) shall be treated as an eligible individual for purposes of this section and section7527for a period of 24 months beginning with the date of such death, except that in determining the amount of such credit only such qualifying family member may be taken into account.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "that the only qualifying family members who may be taken into account with respect to such spouse are those individuals who were qualifying family members immediately before such death, and\u2014any individual who was a qualifying family member of the decedent immediately before such death (or, in the case of an individual to whom paragraph(4)applies, the taxpayer to whom the deduction under section151is allowable) shall be treated as an eligible individual for purposes of this section and section7527for a period of 24 months beginning with the date of such death,",
+        "that in determining the amount of such credit only such qualifying family member may be taken into account."
+      ],
+      "result": "In the case of the death of an eligible individual\u2014\u2014any spouse of such individual (determined at the time of such death) shall be treated as an eligible individual for purposes of this section and section7527for a period of 24 months beginning with the date of such death,"
+    },
+    "cross_references": [
+      {
+        "section": "7527f",
+        "reason": "purposes of this section and..."
+      },
+      {
+        "section": "151i",
+        "reason": "r to whom the deduction under..."
+      },
+      {
+        "section": "7527f",
+        "reason": "purposes of this section and..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(g)(10)(C)Death\u2014In the case of the death of an eligible individual\u2014I.R.C. \u00a7 35(g)(10)(C)(i)\u2014any spouse of such individual (determined at the time of such death) shall be treated\n                           as an eligible individual for purposes of this section and section7527for a period of 24 months beginning with the date of such death, except that the\n                           only qualifying family members who may be taken into account with respect to such\n                           spouse are those individuals who were qualifying family members immediately before\n                           such death, andI.R.C. \u00a7 35(g)(10)(C)(ii)\u2014any individual who was a qualifying family member of the decedent immediately before\n                           such death (or, in the case of an individual to whom paragraph(4)applies, the taxpayer to whom the deduction under section151is allowable) shall be treated as an eligible individual for purposes of this section\n                           and section7527for a period of 24 months beginning with the date of such death, except that in determining\n                           the amount of such credit only such qualifying family member may be taken into account.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(g)(11)(A)",
+    "source_subsections": [
+      "(g)(11)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "This section shall not apply to any taxpayer for any eligible coverage month unless such taxpayer elects the application of this section for such month.",
+    "conditions": [
+      "such taxpayer elects the application of this section for such month."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "such taxpayer elects the application of this section for such month."
+      ],
+      "except": [],
+      "result": "This section shall not apply to any taxpayer for any eligible coverage month"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(g)(11)(A)In General\u2014This section shall not apply to any taxpayer for any eligible coverage month unless\n                        such taxpayer elects the application of this section for such month.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(g)(11)(B)",
+    "source_subsections": [
+      "(g)(11)(B)",
+      "(g)(11)(B)(i)",
+      "(g)(11)(B)(ii)"
+    ],
+    "rule_type": "exception",
+    "title": "And Applicability Of Election",
+    "text": "Except as the Secretary may provide\u2014\u2014an election to have this section apply for any eligible coverage month in a taxable year shall be made not later than the due date (including extensions) for the return of tax for the taxable year; and\u2014any election for this section to apply for an eligible coverage month shall apply for all subsequent eligible coverage months in the taxable year and, once made, shall be irrevocable with respect to such months.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as the Secretary may provide\u2014\u2014an election to have this section apply for any eligible coverage month in a taxable year shall be made not later than the due date (including extensions) for the return of tax for the taxable year; and\u2014any election for this section to apply for an eligible coverage month shall apply for all subsequent eligible coverage months in the taxable year and, once made, shall be irrevocable with respect to such months."
+      ],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(g)(11)(B)Timing And Applicability Of Election\u2014Except as the Secretary may provide\u2014I.R.C. \u00a7 35(g)(11)(B)(i)\u2014an election to have this section apply for any eligible coverage month in a taxable\n                           year shall be made not later than the due date (including extensions) for the return\n                           of tax for the taxable year; andI.R.C. \u00a7 35(g)(11)(B)(ii)\u2014any election for this section to apply for an eligible coverage month shall apply\n                           for all subsequent eligible coverage months in the taxable year and, once made, shall\n                           be irrevocable with respect to such months.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(g)(12)(A)",
+    "source_subsections": [
+      "(g)(12)(A)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "An eligible coverage month to which the election under paragraph(11)applies shall not be treated as a coverage month (as defined insection 36B(c)(2)) for purposes ofsection 36Bwith respect to the taxpayer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "An eligible coverage month to which the election under paragraph(11)applies shall not be treated as a coverage month (as defined insection 36B(c)(2)) for purposes ofsection 36Bwith respect to the taxpayer."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(g)(12)(A)In General\u2014An eligible coverage month to which the election under paragraph(11)applies shall not be treated as a coverage month (as defined insection 36B(c)(2)) for purposes ofsection 36Bwith respect to the taxpayer.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(g)(12)(B)",
+    "source_subsections": [
+      "(g)(12)(B)",
+      "(g)(12)(B)(i)",
+      "(g)(12)(B)(i)(I)",
+      "(g)(12)(B)(i)(II)",
+      "(g)(12)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "With Advance Payments Of Premium Tax Credit",
+    "text": "In the case of a taxpayer who makes the election under paragraph(11)with respect to any eligible coverage month in a taxable year or on behalf of whom any advance payment is made undersection 7527with respect to any month in such taxable year\u2014\u2014the tax imposed by this chapter for the taxable year shall be increased by the excess, if any, of\u2014\u2014the sum of any advance payments made on behalf of the taxpayer undersection 1412 of the Patient Protection and Affordable Care Actandsection 7527for months during such taxable year, over\u2014the sum of the credits allowed under this section (determined without regard to paragraph(1)) andsection 36B(determined without regard to subsection(f)(1)thereof) for such taxable year; andEditor's Note:Sec. 35(g)(12)(B)(ii), below, before amendment byPub. L. 119-21, Sec. 71305(b)(2), is applicable to taxable years beginning on or before Dec. 31, 2025.\u2014section 36B(f)(2)shall not apply with respect to such taxpayer for such taxable year, except that if such taxpayer received any advance payments undersection 7527for any month in such taxable year and is later allowed a credit undersection 36Bfor such taxable year, then section36B(f)(2)(B)shall be applied by substituting the amount determined under clause (i) for the amount determined under section36B(f)(2)(A).Editor's Note:Sec. 35(g)(12)(B)(ii), below, after amendment byPub. L. 119-21, Sec. 71305(b)(2), is applicable to taxable years beginning after Dec. 31, 2025.\u2014section 36B(f)(2)shall not apply with respect to such taxpayer for such taxable year, except that if such taxpayer received any advance payments undersection 7527for any month in such taxable year and is later allowed a credit undersection 36Bfor such taxable year, then the amount determined under clause (i) shall be substituted for the amount determined under section36B(f)(2).",
+    "conditions": [
+      "any, of\u2014\u2014the sum of any advance payments made on behalf of the taxpayer undersection 1412 of the Patient Protection and Affordable Care Actandsection 7527for months during such taxable year, over\u2014the sum of the credits allowed under this section (determined without regard to paragraph(1)) andsection 36B(determined without regard to subsection(f)(1)thereof) for such taxable year; andEditor's Note:Sec. 35(g)(12)(B)(ii), below, before amendment byPub. L. 119-21, Sec. 71305(b)(2), is applicable to taxable years beginning on or before Dec. 31, 2025.\u2014section 36B(f)(2)shall not apply with respect to such taxpayer for such taxable year,",
+      "such taxpayer received any advance payments undersection 7527for any month in such taxable year and is later allowed a credit undersection 36Bfor such taxable year, then section36B(f)(2)(B)shall be applied by substituting the amount determined under clause (i) for the amount determined under section36B(f)(2)(A).Editor's Note:Sec. 35(g)(12)(B)(ii), below, after amendment byPub. L. 119-21, Sec. 71305(b)(2), is applicable to taxable years beginning after Dec. 31, 2025.\u2014section 36B(f)(2)shall not apply with respect to such taxpayer for such taxable year,",
+      "such taxpayer received any advance payments undersection 7527for any month in such taxable year and is later allowed a credit undersection 36Bfor such taxable year, then the amount determined under clause (i) shall be substituted for the amount determined under section36B(f)(2)."
+    ],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any, of\u2014\u2014the sum of any advance payments made on behalf of the taxpayer undersection 1412 of the Patient Protection and Affordable Care Actandsection 7527for months during such taxable year, over\u2014the sum of the credits allowed under this section (determined without regard to paragraph(1)) andsection 36B(determined without regard to subsection(f)(1)thereof) for such taxable year; andEditor's Note:Sec. 35(g)(12)(B)(ii), below, before amendment byPub. L. 119-21, Sec. 71305(b)(2), is applicable to taxable years beginning on or before Dec. 31, 2025.\u2014section 36B(f)(2)shall not apply with respect to such taxpayer for such taxable year,",
+        "such taxpayer received any advance payments undersection 7527for any month in such taxable year and is later allowed a credit undersection 36Bfor such taxable year, then section36B(f)(2)(B)shall be applied by substituting the amount determined under clause (i) for the amount determined under section36B(f)(2)(A).Editor's Note:Sec. 35(g)(12)(B)(ii), below, after amendment byPub. L. 119-21, Sec. 71305(b)(2), is applicable to taxable years beginning after Dec. 31, 2025.\u2014section 36B(f)(2)shall not apply with respect to such taxpayer for such taxable year,",
+        "such taxpayer received any advance payments undersection 7527for any month in such taxable year and is later allowed a credit undersection 36Bfor such taxable year, then the amount determined under clause (i) shall be substituted for the amount determined under section36B(f)(2)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "that",
+        "that"
+      ],
+      "result": "In the case of a taxpayer who makes the election under paragraph(11)with respect to any eligible coverage month in a taxable year or on behalf of whom any advance payment is made undersection 7527with respect to any month in such taxable year\u2014\u2014the tax imposed by this chapter for the taxable year shall be increased by the excess,"
+    },
+    "cross_references": [
+      {
+        "section": "36B(f)(2)",
+        "reason": "g on or before Dec. 31, 2025.\u2014..."
+      },
+      {
+        "section": "36B(f)(2)(B)",
+        "reason": "6Bfor such taxable year, then..."
+      },
+      {
+        "section": "36B(f)(2)(A)",
+        "reason": "r the amount determined under..."
+      },
+      {
+        "section": "36B(f)(2)",
+        "reason": "eginning after Dec. 31, 2025.\u2014..."
+      },
+      {
+        "section": "36B(f)(2)",
+        "reason": "r the amount determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(g)(12)(B)Coordination With Advance Payments Of Premium Tax Credit\u2014In the case of a taxpayer who makes the election under paragraph(11)with respect to any eligible coverage month in a taxable year or on behalf of whom\n                        any advance payment is made undersection 7527with respect to any month in such taxable year\u2014I.R.C. \u00a7 35(g)(12)(B)(i)\u2014the tax imposed by this chapter for the taxable year shall be increased by the excess,\n                           if any, of\u2014I.R.C. \u00a7 35(g)(12)(B)(i)(I)\u2014the sum of any advance payments made on behalf of the taxpayer undersection 1412 of the Patient Protection and Affordable Care Actandsection 7527for months during such taxable year, overI.R.C. \u00a7 35(g)(12)(B)(i)(II)\u2014the sum of the credits allowed under this section (determined without regard to paragraph(1)) andsection 36B(determined without regard to subsection(f)(1)thereof) for such taxable year; andEditor's Note:Sec. 35(g)(12)(B)(ii), below, before amendment byPub. L. 119-21, Sec. 71305(b)(2), is applicable to taxable years beginning on or before Dec. 31,\n                                 2025.I.R.C. \u00a7 35(g)(12)(B)(ii)\u2014section 36B(f)(2)shall not apply with respect to such taxpayer for such taxable year, except that\n                           if such taxpayer received any advance payments undersection 7527for any month in such taxable year and is later allowed a credit undersection 36Bfor such taxable year, then section36B(f)(2)(B)shall be applied by substituting the amount determined under clause (i) for the amount\n                           determined under section36B(f)(2)(A).Editor's Note:Sec. 35(g)(12)(B)(ii), below, after amendment byPub. L. 119-21, Sec. 71305(b)(2), is applicable to taxable years beginning after Dec. 31, 2025.I.R.C. \u00a7 35(g)(12)(B)(ii)\u2014section 36B(f)(2)shall not apply with respect to such taxpayer for such taxable year, except that\n                           if such taxpayer received any advance payments undersection 7527for any month in such taxable year and is later allowed a credit undersection 36Bfor such taxable year, then the amount determined under clause (i) shall be substituted\n                           for the amount determined under section36B(f)(2).",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(g)(13)",
+    "source_subsections": [
+      "(g)(13)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section, section6050T, and section7527.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section, section6050T, and section7527."
+    },
+    "cross_references": [
+      {
+        "section": "6050T",
+        "reason": "te to carry out this section,..."
+      },
+      {
+        "section": "7527",
+        "reason": ", and..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(g)(13)Regulations\u2014The Secretary may prescribe such regulations and other guidance as may be necessary\n                     or appropriate to carry out this section, section6050T, and section7527.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(g)(2)",
+    "source_subsections": [
+      "(g)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "With Other Deductions",
+    "text": "Amounts taken into account under subsection(a)shall not be taken into account in determining any deduction allowed under section162(l)or213.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Amounts taken into account under subsection(a)shall not be taken into account in determining any deduction allowed under section162(l)or213."
+    },
+    "cross_references": [
+      {
+        "section": "162(l)",
+        "reason": "g any deduction allowed under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(g)(2)Coordination With Other Deductions\u2014Amounts taken into account under subsection(a)shall not be taken into account in determining any deduction allowed under section162(l)or213.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(g)(3)",
+    "source_subsections": [
+      "(g)(3)"
+    ],
+    "rule_type": "definition",
+    "title": "And Health Savings Accounts",
+    "text": "Amounts distributed from an Archer MSA (as defined in section220(d)) or from a health savings account (as defined in section223(d)) shall not be taken into account under subsection(a).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Amounts distributed from an Archer MSA (as defined in section220(d)) or from a health savings account (as defined in section223(d)) shall not be taken into account under subsection(a)."
+    },
+    "cross_references": [
+      {
+        "section": "220(d)",
+        "reason": "an Archer MSA (as defined in..."
+      },
+      {
+        "section": "223(d)",
+        "reason": "avings account (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(g)(3)Medical And Health Savings Accounts\u2014Amounts distributed from an Archer MSA (as defined in section220(d)) or from a health savings account (as defined in section223(d)) shall not be taken into account under subsection(a).",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(g)(4)",
+    "source_subsections": [
+      "(g)(4)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Credit To Dependents",
+    "text": "No credit shall be allowed under this section to any individual with respect to whom a deduction under section151is allowable to another taxpayer for a taxable year beginning in the calendar year in which such individual's taxable year begins.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be allowed under this section to any individual with respect to whom a deduction under section151is allowable to another taxpayer for a taxable year beginning in the calendar year in which such individual's taxable year begins."
+    },
+    "cross_references": [
+      {
+        "section": "151i",
+        "reason": "ect to whom a deduction under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(g)(4)Denial Of Credit To Dependents\u2014No credit shall be allowed under this section to any individual with respect to whom\n                     a deduction under section151is allowable to another taxpayer for a taxable year beginning in the calendar year\n                     in which such individual's taxable year begins.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(g)(5)",
+    "source_subsections": [
+      "(g)(5)",
+      "(g)(5)(A)",
+      "(g)(5)(B)",
+      "(g)(5)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "Spouses Eligible Individuals",
+    "text": "The spouse of the taxpayer shall not be treated as a qualifying family member for purposes of subsection(a), if\u2014\u2014the taxpayer is married at the close of the taxable year,\u2014the taxpayer and the taxpayer's spouse are both eligible individuals during the taxable year, and\u2014the taxpayer files a separate return for the taxable year.",
+    "conditions": [
+      "\u2014\u2014the taxpayer is married at the close of the taxable year,\u2014the taxpayer and the taxpayer's spouse are both eligible individuals during the taxable year, and\u2014the taxpayer files a separate return for the taxable year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014the taxpayer is married at the close of the taxable year,\u2014the taxpayer and the taxpayer's spouse are both eligible individuals during the taxable year, and\u2014the taxpayer files a separate return for the taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The spouse of the taxpayer shall not be treated as a qualifying family member for purposes of subsection(a),"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(g)(5)Both Spouses Eligible Individuals\u2014The spouse of the taxpayer shall not be treated as a qualifying family member for\n                     purposes of subsection(a), if\u2014I.R.C. \u00a7 35(g)(5)(A)\u2014the taxpayer is married at the close of the taxable year,I.R.C. \u00a7 35(g)(5)(B)\u2014the taxpayer and the taxpayer's spouse are both eligible individuals during the taxable\n                        year, andI.R.C. \u00a7 35(g)(5)(C)\u2014the taxpayer files a separate return for the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(g)(6)",
+    "source_subsections": [
+      "(g)(6)"
+    ],
+    "rule_type": "condition",
+    "title": "Status; Certain Married Individuals Living Apart",
+    "text": "Rules similar to the rules of paragraphs(3)and(4)of section21(e)shall apply for purposes of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules of paragraphs(3)and(4)of section21(e)shall apply for purposes of this section."
+    },
+    "cross_references": [
+      {
+        "section": "21(e)",
+        "reason": "ules of paragraphs(3)and(4)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(g)(6)Marital Status; Certain Married Individuals Living Apart\u2014Rules similar to the rules of paragraphs(3)and(4)of section21(e)shall apply for purposes of this section.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(g)(7)",
+    "source_subsections": [
+      "(g)(7)"
+    ],
+    "rule_type": "condition",
+    "title": "Which Covers Other Individuals",
+    "text": "For purposes of this section, rules similar to the rules of section213(d)(6)shall apply with respect to any contract for qualified health insurance under which amounts are payable for coverage of an individual other than the taxpayer and qualifying family members.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, rules similar to the rules of section213(d)(6)shall apply with respect to any contract for qualified health insurance under which amounts are payable for coverage of an individual other than the taxpayer and qualifying family members."
+    },
+    "cross_references": [
+      {
+        "section": "213(d)(6)",
+        "reason": "rules similar to the rules of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(g)(7)Insurance Which Covers Other Individuals\u2014For purposes of this section, rules similar to the rules of section213(d)(6)shall apply with respect to any contract for qualified health insurance under which\n                     amounts are payable for coverage of an individual other than the taxpayer and qualifying\n                     family members.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(g)(8)(A)",
+    "source_subsections": [
+      "(g)(8)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "By Secretary",
+    "text": "Payments made by the Secretary on behalf of any individual under section7527(relating to advance payment of credit for health insurance costs of eligible individuals) shall be treated as having been made by the taxpayer on the first day of the month for which such payment was made.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Payments made by the Secretary on behalf of any individual under section7527(relating to advance payment of credit for health insurance costs of eligible individuals) shall be treated as having been made by the taxpayer on the first day of the month for which such payment was made."
+    },
+    "cross_references": [
+      {
+        "section": "7527",
+        "reason": "ehalf of any individual under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(g)(8)(A)Payments By Secretary\u2014Payments made by the Secretary on behalf of any individual under section7527(relating to advance payment of credit for health insurance costs of eligible individuals)\n                        shall be treated as having been made by the taxpayer on the first day of the month\n                        for which such payment was made.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(g)(8)(B)",
+    "source_subsections": [
+      "(g)(8)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "By Taxpayer",
+    "text": "Payments made by the taxpayer for eligible coverage months shall be treated as having been made by the taxpayer on the first day of the month for which such payment was made.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Payments made by the taxpayer for eligible coverage months shall be treated as having been made by the taxpayer on the first day of the month for which such payment was made."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(g)(8)(B)Payments By Taxpayer\u2014Payments made by the taxpayer for eligible coverage months shall be treated as having\n                        been made by the taxpayer on the first day of the month for which such payment was\n                        made.",
+    "definitions": null
+  },
+  {
+    "section": "35",
+    "subsection": "(g)(9)",
+    "source_subsections": [
+      "(g)(9)"
+    ],
+    "rule_type": "condition",
+    "title": "Coverage Premium Assistance",
+    "text": "In the case of an assistance eligible individual who receives premium assistance for continuation coverage under section 9501(a)(1) of the American Rescue Plan Act of 2021 for any month during the taxable year, such individual shall not be treated as an eligible individual, a certified individual, or a qualifying family member for purposes of this section or section7527with respect to such month.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of an assistance eligible individual who receives premium assistance for continuation coverage under section 9501(a)(1) of the American Rescue Plan Act of 2021 for any month during the taxable year, such individual shall not be treated as an eligible individual, a certified individual, or a qualifying family member for purposes of this section or section7527with respect to such month."
+    },
+    "cross_references": [
+      {
+        "section": "9501(a)(1)",
+        "reason": "r continuation coverage under..."
+      },
+      {
+        "section": "7527w",
+        "reason": "r purposes of this section or..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 35(g)(9)Continuation Coverage Premium Assistance\u2014In the case of an assistance eligible individual who receives premium assistance for\n                     continuation coverage under section 9501(a)(1) of the American Rescue Plan Act of\n                     2021 for any month during the taxable year, such individual shall not be treated as\n                     an eligible individual, a certified individual, or a qualifying family member for\n                     purposes of this section or section7527with respect to such month.",
+    "definitions": null
+  }
+]

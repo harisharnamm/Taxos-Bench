@@ -1,0 +1,22 @@
+{
+  "id": "98edd04c205e",
+  "section": "585",
+  "citation": "I.R.C. \u00a7 585(c)(3)(B)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 585(c)(3)(B) is discussed as follows: 'I.R.C. \u00a7 585(c)(3)(B)Suspension Of Recapture For Taxable Year For Which Bank Is Financially Troubled...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 585(c)(3)(B)?",
+  "difficulty": 1,
+  "choices": [
+    "85.0%",
+    "25.0%",
+    "65.0%",
+    "75.0%",
+    "112.5%"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies 75.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 585(c)(3)(B)"
+  ]
+}

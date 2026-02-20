@@ -1,0 +1,22 @@
+{
+  "id": "795d480eb6d4",
+  "section": "877A",
+  "citation": "I.R.C. \u00a7 877A(a)(3)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 877A(a)(3) is discussed as follows: 'I.R.C. \u00a7 877A(a)(3)Exclusion For Certain GainI.R.C. \u00a7 877A(a)(3)(A)In General\u2014The amount which would...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 877A(a)(3)?",
+  "difficulty": 1,
+  "choices": [
+    "$2,000.00",
+    "$1,100.00",
+    "$500.00",
+    "$900.00",
+    "$1,000.00"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies $1,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 877A(a)(3)"
+  ]
+}

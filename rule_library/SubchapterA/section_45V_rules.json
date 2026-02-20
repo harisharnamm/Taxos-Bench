@@ -1,0 +1,803 @@
+[
+  {
+    "section": "45V",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)",
+      "(a)(1)",
+      "(a)(2)"
+    ],
+    "rule_type": "computation",
+    "title": "Of Credit",
+    "text": "For purposes ofsection 38, the clean hydrogen production credit for any taxable year is an amount equal to the product of\u2014\u2014the kilograms of qualified clean hydrogen produced by the taxpayer during such taxable year at a qualified clean hydrogen production facility during the 10-year period beginning on the date such facility was originally placed in service, multiplied by\u2014the applicable amount (as determined under subsection (b)) with respect to such hydrogen.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes ofsection 38, the clean hydrogen production credit for any taxable year is an amount equal to the product of\u2014\u2014the kilograms of qualified clean hydrogen produced by the taxpayer during such taxable year at a qualified clean hydrogen production facility during the 10-year period beginning on the date such facility was originally placed in service, multiplied by\u2014the applicable amount (as determined under subsection (b)) with respect to such hydrogen."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45V(a)Amount Of Credit\u2014For purposes ofsection\n                     38, the clean hydrogen production credit for any\n                  taxable year is an amount equal to the product of\u2014I.R.C. \u00a7 45V(a)(1)\u2014the kilograms of qualified clean hydrogen\n                     produced by the taxpayer during such taxable year at a qualified clean\n                     hydrogen production facility during the 10-year period beginning on\n                     the date such facility was originally placed in service, multiplied\n                     byI.R.C. \u00a7 45V(a)(2)\u2014the applicable amount (as determined\n                     under subsection (b)) with respect to such hydrogen.",
+    "definitions": null
+  },
+  {
+    "section": "45V",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "For purposes of subsection (a)(2), the applicable amount shall be an amount equal to the applicable percentage of $0.60. If any amount as determined under the preceding sentence is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.",
+    "conditions": [
+      "any amount as determined under the preceding sentence is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent."
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 0,
+        "text": "$0"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any amount as determined under the preceding sentence is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subsection (a)(2), the applicable amount shall be an amount equal to the applicable percentage of $0.60."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45V(b)(1)In General\u2014For purposes of subsection (a)(2), the applicable amount\n                     shall be an amount equal to the applicable percentage of $0.60. If\n                     any amount as determined under the preceding sentence is not a multiple\n                     of 0.1 cent, such amount shall be rounded to the nearest multiple\n                     of 0.1 cent.",
+    "definitions": null
+  },
+  {
+    "section": "45V",
+    "subsection": "(b)(2)(A)",
+    "source_subsections": [
+      "(b)(2)(A)",
+      "(b)(2)(A)(i)",
+      "(b)(2)(A)(ii)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "In the case of any qualified clean hydrogen which is produced through a process that results in a lifecycle greenhouse gas emissions rate of\u2014\u2014not greater than 4 kilograms of CO2e per kilogram of hydrogen, and\u2014not less than 2.5 kilograms of CO2e per kilogram of hydrogen, the applicable percentage shall be 20 percent.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.2,
+        "text": "20 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any qualified clean hydrogen which is produced through a process that results in a lifecycle greenhouse gas emissions rate of\u2014\u2014not greater than 4 kilograms of CO2e per kilogram of hydrogen, and\u2014not less than 2.5 kilograms of CO2e per kilogram of hydrogen, the applicable percentage shall be 20 percent."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45V(b)(2)(A)\u2014In the case of any qualified clean hydrogen\n                        which is produced through a process that results in a lifecycle greenhouse\n                        gas emissions rate of\u2014I.R.C. \u00a7 45V(b)(2)(A)(i)\u2014not greater than 4 kilograms of CO2e\n                           per kilogram of hydrogen, andI.R.C. \u00a7 45V(b)(2)(A)(ii)\u2014not less than 2.5 kilograms of CO2e\n                           per kilogram of hydrogen, the applicable percentage shall be 20 percent.",
+    "definitions": null
+  },
+  {
+    "section": "45V",
+    "subsection": "(b)(2)(B)",
+    "source_subsections": [
+      "(b)(2)(B)",
+      "(b)(2)(B)(i)",
+      "(b)(2)(B)(ii)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "In the case of any qualified clean hydrogen which is produced through a process that results in a lifecycle greenhouse gas emissions rate of\u2014\u2014less than 2.5 kilograms of CO2e per kilogram of hydrogen, and\u2014not less than 1.5 kilograms of CO2e per kilogram of hydrogen, the applicable percentage shall be 25 percent.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.25,
+        "text": "25 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any qualified clean hydrogen which is produced through a process that results in a lifecycle greenhouse gas emissions rate of\u2014\u2014less than 2.5 kilograms of CO2e per kilogram of hydrogen, and\u2014not less than 1.5 kilograms of CO2e per kilogram of hydrogen, the applicable percentage shall be 25 percent."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45V(b)(2)(B)\u2014In the case of any qualified clean hydrogen\n                        which is produced through a process that results in a lifecycle greenhouse\n                        gas emissions rate of\u2014I.R.C. \u00a7 45V(b)(2)(B)(i)\u2014less than 2.5 kilograms of CO2e per kilogram\n                           of hydrogen, andI.R.C. \u00a7 45V(b)(2)(B)(ii)\u2014not less than 1.5 kilograms of CO2e\n                           per kilogram of hydrogen, the applicable percentage shall be 25 percent.",
+    "definitions": null
+  },
+  {
+    "section": "45V",
+    "subsection": "(b)(2)(C)",
+    "source_subsections": [
+      "(b)(2)(C)",
+      "(b)(2)(C)(i)",
+      "(b)(2)(C)(ii)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "In the case of any qualified clean hydrogen which is produced through a process that results in a lifecycle greenhouse gas emissions rate of\u2014\u2014less than 1.5 kilograms of CO2e per kilogram of hydrogen, and\u2014not less than 0.45 kilograms of CO2e per kilogram of hydrogen, the applicable percentage shall be 33.4 percent.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.33399999999999996,
+        "text": "33.4 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any qualified clean hydrogen which is produced through a process that results in a lifecycle greenhouse gas emissions rate of\u2014\u2014less than 1.5 kilograms of CO2e per kilogram of hydrogen, and\u2014not less than 0.45 kilograms of CO2e per kilogram of hydrogen, the applicable percentage shall be 33.4 percent."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45V(b)(2)(C)\u2014In the case of any qualified clean hydrogen\n                        which is produced through a process that results in a lifecycle greenhouse\n                        gas emissions rate of\u2014I.R.C. \u00a7 45V(b)(2)(C)(i)\u2014less than 1.5 kilograms of CO2e per kilogram\n                           of hydrogen, andI.R.C. \u00a7 45V(b)(2)(C)(ii)\u2014not less than 0.45 kilograms of CO2e\n                           per kilogram of hydrogen, the applicable percentage shall be 33.4\n                           percent.",
+    "definitions": null
+  },
+  {
+    "section": "45V",
+    "subsection": "(b)(2)(D)",
+    "source_subsections": [
+      "(b)(2)(D)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "In the case of any qualified clean hydrogen which is produced through a process that results in a lifecycle greenhouse gas emissions rate of less than 0.45 kilograms of CO2e per kilogram of hydrogen, the applicable percentage shall be 100 percent.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 1.0,
+        "text": "100 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any qualified clean hydrogen which is produced through a process that results in a lifecycle greenhouse gas emissions rate of less than 0.45 kilograms of CO2e per kilogram of hydrogen, the applicable percentage shall be 100 percent."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45V(b)(2)(D)\u2014In the case of any qualified clean hydrogen\n                        which is produced through a process that results in a lifecycle greenhouse\n                        gas emissions rate of less than 0.45 kilograms of CO2e per kilogram\n                        of hydrogen, the applicable percentage shall be 100 percent.",
+    "definitions": null
+  },
+  {
+    "section": "45V",
+    "subsection": "(b)(3)",
+    "source_subsections": [
+      "(b)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Adjustment",
+    "text": "The $0.60 amount in paragraph (1) shall be adjusted by multiplying such amount by the inflation adjustment factor (as determined undersection 45(e)(2), determined by substituting \u201c2022\u201d for \u201c1992\u201d in subparagraph (B) thereof) for the calendar year in which the qualified clean hydrogen is produced. If any amount as increased under the preceding sentence is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.",
+    "conditions": [
+      "any amount as increased under the preceding sentence is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent."
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 0,
+        "text": "$0"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any amount as increased under the preceding sentence is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The $0.60 amount in paragraph (1) shall be adjusted by multiplying such amount by the inflation adjustment factor (as determined undersection 45(e)(2), determined by substituting \u201c2022\u201d for \u201c1992\u201d in subparagraph (B) thereof) for the calendar year in which the qualified clean hydrogen is produced."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45V(b)(3)Inflation Adjustment\u2014The $0.60 amount in paragraph (1) shall be adjusted by\n                     multiplying such amount by the inflation adjustment factor (as determined\n                     undersection 45(e)(2),\n                     determined by substituting \u201c2022\u201d for \u201c1992\u201d\n                     in subparagraph (B) thereof) for the calendar year in which the qualified\n                     clean hydrogen is produced. If any amount as increased under the preceding\n                     sentence is not a multiple of 0.1 cent, such amount shall be rounded\n                     to the nearest multiple of 0.1 cent.",
+    "definitions": null
+  },
+  {
+    "section": "45V",
+    "subsection": "(c)(1)(A)",
+    "source_subsections": [
+      "(c)(1)(A)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "Subject to subparagraph (B), the term \u201clifecycle greenhouse gas emissions\u201d has the same meaning given such term under subparagraph (H) of section 211(o)(1) of the Clean Air Act (42 U.S.C. 7545(o)(1)), as in effect on the date of enactment of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Subject to subparagraph (B), the term \u201clifecycle greenhouse gas emissions\u201d has the same meaning given such term under subparagraph (H) of section 211(o)(1) of the Clean Air Act (42 U.S.C. 7545(o)(1)), as in effect on the date of enactment of this section."
+    },
+    "cross_references": [
+      {
+        "section": "211(o)(1)",
+        "reason": "erm under subparagraph (H) of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45V(c)(1)(A)In General\u2014Subject to subparagraph (B), the term \u201clifecycle\n                        greenhouse gas emissions\u201d has the same meaning given such term\n                        under subparagraph (H) of section 211(o)(1) of the Clean Air Act (42 U.S.C. 7545(o)(1)),\n                        as in effect on the date of enactment of this section.",
+    "definitions": null
+  },
+  {
+    "section": "45V",
+    "subsection": "(c)(1)(B)",
+    "source_subsections": [
+      "(c)(1)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Model",
+    "text": "The term \u201clifecycle greenhouse gas emissions\u201d shall only include emissions through the point of production (well-to-gate), as determined under the most recent Greenhouse gases, Regulated Emissions, and Energy use in Transportation model (commonly referred to as the \u201cGREET model\u201d) developed by Argonne National Laboratory, or a successor model (as determined by the Secretary).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201clifecycle greenhouse gas emissions\u201d shall only include emissions through the point of production (well-to-gate), as determined under the most recent Greenhouse gases, Regulated Emissions, and Energy use in Transportation model (commonly referred to as the \u201cGREET model\u201d) developed by Argonne National Laboratory, or a successor model (as determined by the Secretary)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45V(c)(1)(B)GREET Model\u2014The term \u201clifecycle greenhouse gas emissions\u201d\n                        shall only include emissions through the point of production (well-to-gate),\n                        as determined under the most recent Greenhouse gases, Regulated Emissions,\n                        and Energy use in Transportation model (commonly referred to as the \u201cGREET\n                        model\u201d) developed by Argonne National Laboratory, or a successor\n                        model (as determined by the Secretary).",
+    "definitions": null
+  },
+  {
+    "section": "45V",
+    "subsection": "(c)(2)(A)",
+    "source_subsections": [
+      "(c)(2)(A)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cqualified clean hydrogen\u201d means hydrogen which is produced through a process that results in a lifecycle greenhouse gas emissions rate of not greater than 4 kilograms of CO2e per kilogram of hydrogen.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified clean hydrogen\u201d means hydrogen which is produced through a process that results in a lifecycle greenhouse gas emissions rate of not greater than 4 kilograms of CO2e per kilogram of hydrogen."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45V(c)(2)(A)In General\u2014The term \u201cqualified clean hydrogen\u201d means\n                        hydrogen which is produced through a process that results in a lifecycle\n                        greenhouse gas emissions rate of not greater than 4 kilograms of CO2e\n                        per kilogram of hydrogen.",
+    "definitions": {
+      "term": "qualified clean hydrogen",
+      "requirements": [
+        "hydrogen which is produced through a process that results in a lifecycle greenhouse gas emissions rate of not greater than 4 kilograms of CO2e per kilogram of hydrogen."
+      ]
+    }
+  },
+  {
+    "section": "45V",
+    "subsection": "(c)(2)(B)",
+    "source_subsections": [
+      "(c)(2)(B)",
+      "(c)(2)(B)(i)",
+      "(c)(2)(B)(i)(I)",
+      "(c)(2)(B)(i)(II)",
+      "(c)(2)(B)(i)(III)",
+      "(c)(2)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Requirements",
+    "text": "Such term shall not include any hydrogen unless\u2014\u2014such hydrogen is produced\u2014\u2014in the United States (as defined insection 638(1)) or a possession of the United States (as defined insection 638(2)),\u2014in the ordinary course of a trade or business of the taxpayer, and\u2014for sale or use, and\u2014the production and sale or use of such hydrogen is verified by an unrelated party.",
+    "conditions": [
+      "\u2014\u2014such hydrogen is produced\u2014\u2014in the United States (as defined insection 638(1)) or a possession of the United States (as defined insection 638(2)),\u2014in the ordinary course of a trade or business of the taxpayer, and\u2014for sale or use, and\u2014the production and sale or use of such hydrogen is verified by an unrelated party."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "\u2014\u2014such hydrogen is produced\u2014\u2014in the United States (as defined insection 638(1)) or a possession of the United States (as defined insection 638(2)),\u2014in the ordinary course of a trade or business of the taxpayer, and\u2014for sale or use, and\u2014the production and sale or use of such hydrogen is verified by an unrelated party."
+      ],
+      "except": [],
+      "result": "Such term shall not include any hydrogen"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45V(c)(2)(B)Additional Requirements\u2014Such term shall not include any hydrogen unless\u2014I.R.C. \u00a7 45V(c)(2)(B)(i)\u2014such hydrogen is produced\u2014I.R.C. \u00a7 45V(c)(2)(B)(i)(I)\u2014in the United States (as defined insection 638(1)) or a\n                              possession of the United States (as defined insection 638(2)),I.R.C. \u00a7 45V(c)(2)(B)(i)(II)\u2014in the ordinary course of a trade or\n                              business of the taxpayer, andI.R.C. \u00a7 45V(c)(2)(B)(i)(III)\u2014for sale or use, andI.R.C. \u00a7 45V(c)(2)(B)(ii)\u2014the production and sale or use of such\n                           hydrogen is verified by an unrelated party.",
+    "definitions": null
+  },
+  {
+    "section": "45V",
+    "subsection": "(c)(2)(C)",
+    "source_subsections": [
+      "(c)(2)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "Emissions Rate",
+    "text": "In the case of any hydrogen for which a lifecycle greenhouse gas emissions rate has not been determined for purposes of this section, a taxpayer producing such hydrogen may file a petition with the Secretary for determination of the lifecycle greenhouse gas emissions rate with respect to such hydrogen.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any hydrogen for which a lifecycle greenhouse gas emissions rate has not been determined for purposes of this section, a taxpayer producing such hydrogen may file a petition with the Secretary for determination of the lifecycle greenhouse gas emissions rate with respect to such hydrogen."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45V(c)(2)(C)Provisional Emissions Rate\u2014In the case of any hydrogen for which a lifecycle greenhouse\n                        gas emissions rate has not been determined for purposes of this section,\n                        a taxpayer producing such hydrogen may file a petition with the Secretary\n                        for determination of the lifecycle greenhouse gas emissions rate with\n                        respect to such hydrogen.",
+    "definitions": null
+  },
+  {
+    "section": "45V",
+    "subsection": "(c)(3)",
+    "source_subsections": [
+      "(c)(3)",
+      "(c)(3)(A)",
+      "(c)(3)(B)",
+      "(c)(3)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "Clean Hydrogen Production Facility",
+    "text": "The term \u201cqualified clean hydrogen production facility\u201d means a facility\u2014\u2014owned by the taxpayer,\u2014which produces qualified clean hydrogen, and\u2014the construction of which begins before January 1, 2028.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified clean hydrogen production facility\u201d means a facility\u2014\u2014owned by the taxpayer,\u2014which produces qualified clean hydrogen, and\u2014the construction of which begins before January 1, 2028."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45V(c)(3)Qualified Clean Hydrogen Production Facility\u2014The term \u201cqualified clean hydrogen production facility\u201d\n                     means a facility\u2014I.R.C. \u00a7 45V(c)(3)(A)\u2014owned by the taxpayer,I.R.C. \u00a7 45V(c)(3)(B)\u2014which produces qualified clean hydrogen,\n                        andI.R.C. \u00a7 45V(c)(3)(C)\u2014the construction of which begins before January 1, 2028.",
+    "definitions": {
+      "term": "qualified clean hydrogen production facility",
+      "requirements": [
+        "a facility\u2014\u2014owned by the taxpayer,\u2014which produces qualified clean hydrogen, and\u2014the construction of which begins before January 1, 2028."
+      ]
+    }
+  },
+  {
+    "section": "45V",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Facilities Owned By More Than 1 Taxpayer",
+    "text": "Rules similar to the rulessection 45(e)(3)shall apply for purposes of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rulessection 45(e)(3)shall apply for purposes of this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45V(d)(1)Treatment Of Facilities Owned By More Than 1 Taxpayer\u2014Rules similar to the rulessection 45(e)(3)shall\n                     apply for purposes of this section.",
+    "definitions": null
+  },
+  {
+    "section": "45V",
+    "subsection": "(d)(2)",
+    "source_subsections": [
+      "(d)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "With Credit For Carbon Oxide Sequestration",
+    "text": "No credit shall be allowed under this section with respect to any qualified clean hydrogen produced at a facility which includes carbon capture equipment for which a credit is allowed to any taxpayer undersection 45Qfor the taxable year or any prior taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be allowed under this section with respect to any qualified clean hydrogen produced at a facility which includes carbon capture equipment for which a credit is allowed to any taxpayer undersection 45Qfor the taxable year or any prior taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45V(d)(2)Coordination With Credit For Carbon Oxide Sequestration\u2014No credit shall be allowed under this section with respect\n                     to any qualified clean hydrogen produced at a facility which includes\n                     carbon capture equipment for which a credit is allowed to any taxpayer\n                     undersection 45Qfor\n                     the taxable year or any prior taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "45V",
+    "subsection": "(d)(3)",
+    "source_subsections": [
+      "(d)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Reduced For Tax",
+    "text": "Exempt Bonds\u2014Rules similar to the rule undersection 45(b)(3)shall apply for purposes of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Exempt Bonds\u2014Rules similar to the rule undersection 45(b)(3)shall apply for purposes of this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45V(d)(3)Credit Reduced For Tax-Exempt Bonds\u2014Rules similar to the rule undersection 45(b)(3)shall apply\n                     for purposes of this section.",
+    "definitions": null
+  },
+  {
+    "section": "45V",
+    "subsection": "(d)(4)",
+    "source_subsections": [
+      "(d)(4)",
+      "(d)(4)(A)",
+      "(d)(4)(B)",
+      "(d)(4)(B)(i)",
+      "(d)(4)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Existing Facilities",
+    "text": "For purposes of subsection (a)(1), in the case of any facility which\u2014\u2014was originally placed in service before January 1, 2023, and, prior to the modification described in subparagraph (B), did not produce qualified clean hydrogen, and\u2014after the date such facility was originally placed in service\u2014\u2014(i) is modified to produce qualified clean hydrogen, and\u2014amounts paid or incurred with respect to such modification are properly chargeable to capital account of the taxpayer,such facility shall be deemed to have been originally placed in service as of the date that the property required to complete the modification described in subparagraph (B) is placed in service.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subsection (a)(1), in the case of any facility which\u2014\u2014was originally placed in service before January 1, 2023, and, prior to the modification described in subparagraph (B), did not produce qualified clean hydrogen, and\u2014after the date such facility was originally placed in service\u2014\u2014(i) is modified to produce qualified clean hydrogen, and\u2014amounts paid or incurred with respect to such modification are properly chargeable to capital account of the taxpayer,such facility shall be deemed to have been originally placed in service as of the date that the property required to complete the modification described in subparagraph (B) is placed in service."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45V(d)(4)Modification Of Existing Facilities\u2014For purposes of subsection (a)(1), in the case of any\n                     facility which\u2014I.R.C. \u00a7 45V(d)(4)(A)\u2014was originally placed in service before\n                        January 1, 2023, and, prior to the modification described in subparagraph\n                        (B), did not produce qualified clean hydrogen, andI.R.C. \u00a7 45V(d)(4)(B)\u2014after the date such facility was originally\n                        placed in service\u2014I.R.C. \u00a7 45V(d)(4)(B)(i)\u2014(i) is modified to produce qualified\n                           clean hydrogen, andI.R.C. \u00a7 45V(d)(4)(B)(ii)\u2014amounts paid or incurred with respect\n                           to such modification are properly chargeable to capital account of\n                           the taxpayer,such facility shall be deemed to\n                              have been originally placed in service as of the date that the property\n                              required to complete the modification described in subparagraph (B)\n                              is placed in service.",
+    "definitions": null
+  },
+  {
+    "section": "45V",
+    "subsection": "(e)(1)",
+    "source_subsections": [
+      "(e)(1)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "In the case of any qualified clean hydrogen production facility which satisfies the requirements of paragraph (2), the amount of the credit determined under subsection (a) with respect to qualified clean hydrogen described in subsection (b)(2) shall be equal to such amount (determined without regard to this sentence) multiplied by 5.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any qualified clean hydrogen production facility which satisfies the requirements of paragraph (2), the amount of the credit determined under subsection (a) with respect to qualified clean hydrogen described in subsection (b)(2) shall be equal to such amount (determined without regard to this sentence) multiplied by 5."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45V(e)(1)In General\u2014In the case of any qualified clean hydrogen production\n                     facility which satisfies the requirements of paragraph (2), the amount\n                     of the credit determined under subsection (a) with respect to qualified\n                     clean hydrogen described in subsection (b)(2) shall be equal to such\n                     amount (determined without regard to this sentence) multiplied by\n                     5.",
+    "definitions": null
+  },
+  {
+    "section": "45V",
+    "subsection": "(e)(2)(A)",
+    "source_subsections": [
+      "(e)(2)(A)",
+      "(e)(2)(A)(i)",
+      "(e)(2)(A)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "A facility\u2014\u2014the construction of which begins prior to the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (3)(A) and (4), and\u2014which meets the requirements of paragraph (3)(A) with respect to alteration or repair of such facility which occurs after such date.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "A facility\u2014\u2014the construction of which begins prior to the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (3)(A) and (4), and\u2014which meets the requirements of paragraph (3)(A) with respect to alteration or repair of such facility which occurs after such date."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45V(e)(2)(A)\u2014A facility\u2014I.R.C. \u00a7 45V(e)(2)(A)(i)\u2014the construction of which begins prior\n                           to the date that is 60 days after the Secretary publishes guidance\n                           with respect to the requirements of paragraphs (3)(A) and (4), andI.R.C. \u00a7 45V(e)(2)(A)(ii)\u2014which meets the requirements of paragraph\n                           (3)(A) with respect to alteration or repair of such facility which\n                           occurs after such date.",
+    "definitions": null
+  },
+  {
+    "section": "45V",
+    "subsection": "(e)(2)(B)",
+    "source_subsections": [
+      "(e)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "A facility which satisfies the requirements of paragraphs (3)(A) and (4).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "A facility which satisfies the requirements of paragraphs (3)(A) and (4)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45V(e)(2)(B)\u2014A facility which satisfies the requirements\n                        of paragraphs (3)(A) and (4).",
+    "definitions": null
+  },
+  {
+    "section": "45V",
+    "subsection": "(e)(3)(A)",
+    "source_subsections": [
+      "(e)(3)(A)",
+      "(e)(3)(A)(i)",
+      "(e)(3)(A)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The requirements described in this subparagraph with respect to any qualified clean hydrogen production facility are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in\u2014\u2014the construction of such facility, and\u2014with respect to any taxable year, for any portion of such taxable year which is within the period described in subsection (a)(2), the alteration or repair of such facility, shall be paid wages at rates not less than the prevailing rates for construction, alteration, or repair of a similar character in the locality in which such facility is located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code. For purposes of determining an increased credit amount under paragraph (1) for a taxable year, the requirement under clause (ii) of this subparagraph is applied to such taxable year in which the alteration or repair of qualified facility occurs.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The requirements described in this subparagraph with respect to any qualified clean hydrogen production facility are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in\u2014\u2014the construction of such facility, and\u2014with respect to any taxable year, for any portion of such taxable year which is within the period described in subsection (a)(2), the alteration or repair of such facility, shall be paid wages at rates not less than the prevailing rates for construction, alteration, or repair of a similar character in the locality in which such facility is located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code. For purposes of determining an increased credit amount under paragraph (1) for a taxable year, the requirement under clause (ii) of this subparagraph is applied to such taxable year in which the alteration or repair of qualified facility occurs."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45V(e)(3)(A)In General\u2014The requirements described in this subparagraph with\n                        respect to any qualified clean hydrogen production facility are that\n                        the taxpayer shall ensure that any laborers and mechanics employed\n                        by the taxpayer or any contractor or subcontractor in\u2014I.R.C. \u00a7 45V(e)(3)(A)(i)\u2014the construction of such facility, andI.R.C. \u00a7 45V(e)(3)(A)(ii)\u2014with respect to any taxable year, for\n                           any portion of such taxable year which is within the period described\n                           in subsection (a)(2), the alteration or repair of such facility, shall\n                           be paid wages at rates not less than the prevailing rates for construction,\n                           alteration, or repair of a similar character in the locality in which\n                           such facility is located as most recently determined by the Secretary\n                           of Labor, in accordance with subchapter IV of chapter 31 of title\n                           40, United States Code. For purposes of determining an increased credit\n                           amount under paragraph (1) for a taxable year, the requirement under\n                           clause (ii) of this subparagraph is applied to such taxable year in\n                           which the alteration or repair of qualified facility occurs.",
+    "definitions": null
+  },
+  {
+    "section": "45V",
+    "subsection": "(e)(3)(B)",
+    "source_subsections": [
+      "(e)(3)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "And Penalty Related To Failure To Satisfy Wage Requirements",
+    "text": "Rules similar to the rules ofsection 45(b)(7)(B)shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules ofsection 45(b)(7)(B)shall apply."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45V(e)(3)(B)Correction And Penalty Related To Failure To Satisfy Wage Requirements\u2014Rules similar to the rules ofsection 45(b)(7)(B)shall\n                        apply.",
+    "definitions": null
+  },
+  {
+    "section": "45V",
+    "subsection": "(e)(4)",
+    "source_subsections": [
+      "(e)(4)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Rules similar to the rules ofsection 45(b)(8)shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules ofsection 45(b)(8)shall apply."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45V(e)(4)\u2014Rules similar to the rules ofsection 45(b)(8)shall\n                     apply.",
+    "definitions": null
+  },
+  {
+    "section": "45V",
+    "subsection": "(e)(5)",
+    "source_subsections": [
+      "(e)(5)"
+    ],
+    "rule_type": "condition",
+    "title": "And Guidance",
+    "text": "The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45V(e)(5)Regulations And Guidance\u2014The Secretary shall issue such regulations or other guidance\n                     as the Secretary determines necessary to carry out the purposes of\n                     this subsection, including regulations or other guidance which provides\n                     for requirements for recordkeeping or information reporting for purposes\n                     of administering the requirements of this subsection.",
+    "definitions": null
+  },
+  {
+    "section": "45V",
+    "subsection": "(f)",
+    "source_subsections": [
+      "(f)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Not later than 1 year after the date of enactment of this section, the Secretary shall issue regulations or other guidance to carry out the purposes of this section, including regulations or other guidance for determining lifecycle greenhouse gas emissions.(Added and amended byPub. L. 117-169, title I, Sec. 13204(a)(1)\u2013(3), Aug. 16, 2022, 136 Stat. 1818;Pub. L. 119-21, title VII, Sec. 70511, July 4, 2025,139 Stat. 72.)",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Not later than 1 year after the date of enactment of this section, the Secretary shall issue regulations or other guidance to carry out the purposes of this section, including regulations or other guidance for determining lifecycle greenhouse gas emissions.(Added and amended byPub. L. 117-169, title I, Sec. 13204(a)(1)\u2013(3), Aug. 16, 2022, 136 Stat. 1818;Pub. L. 119-21, title VII, Sec. 70511, July 4, 2025,139 Stat. 72.)"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45V(f)Regulations\u2014Not later than 1 year after the date of enactment of\n                  this section, the Secretary shall issue regulations or other guidance\n                  to carry out the purposes of this section, including regulations or\n                  other guidance for determining lifecycle greenhouse gas emissions.(Added and amended byPub. L. 117-169, title I, Sec. 13204(a)(1)\u2013(3), Aug. 16, 2022, 136 Stat. 1818;Pub. L. 119-21, title VII, Sec. 70511, July 4, 2025,139 Stat. 72.)",
+    "definitions": null
+  }
+]

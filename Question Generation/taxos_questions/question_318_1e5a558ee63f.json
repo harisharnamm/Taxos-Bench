@@ -1,0 +1,22 @@
+{
+  "id": "1e5a558ee63f",
+  "section": "318",
+  "citation": "I.R.C. \u00a7 318(a)(3)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 318(a)(3) is discussed as follows: 'I.R.C. \u00a7 318(a)(3)Attribution To Partnerships, Estates, Trusts, And CorporationsI.R.C. \u00a7 318(a)(3)(A...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 318(a)(3)?",
+  "difficulty": 1,
+  "choices": [
+    "95.0%",
+    "5.0%",
+    "15.0%",
+    "7.5%",
+    "0.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 5.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 318(a)(3)"
+  ]
+}

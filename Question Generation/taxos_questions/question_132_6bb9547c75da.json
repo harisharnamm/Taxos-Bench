@@ -1,0 +1,22 @@
+{
+  "id": "6bb9547c75da",
+  "section": "132",
+  "citation": "I.R.C. \u00a7 132(f)(6)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 132(f)(6) is discussed as follows: 'I.R.C. \u00a7 132(f)(6)Inflation AdjustmentI.R.C. \u00a7 132(f)(6)(A)In General\u2014In  the case of any taxable ye...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 132(f)(6)?",
+  "difficulty": 1,
+  "choices": [
+    "$10.00",
+    "$4.50",
+    "$5.00",
+    "$2.50",
+    "$5.50"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies $5.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 132(f)(6)"
+  ]
+}

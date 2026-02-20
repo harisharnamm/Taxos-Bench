@@ -1,0 +1,22 @@
+{
+  "id": "821c2616feba",
+  "section": "999",
+  "citation": "I.R.C. \u00a7 999(f)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 999(f) is discussed as follows: 'I.R.C. \u00a7 999(f)Willful Failure To Report\u2014Any  person (within the meaning of section6671(b)) required...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 999(f)?",
+  "difficulty": 1,
+  "choices": [
+    "$27,500.00",
+    "$22,500.00",
+    "$50,000.00",
+    "$25,000.00",
+    "$12,500.00"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies $25,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 999(f)"
+  ]
+}

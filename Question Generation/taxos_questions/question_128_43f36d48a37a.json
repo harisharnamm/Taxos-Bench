@@ -1,0 +1,22 @@
+{
+  "id": "43f36d48a37a",
+  "section": "128",
+  "citation": "I.R.C. \u00a7 128(b)(2)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 128(b)(2) is discussed as follows: 'I.R.C. \u00a7 128(b)(2)Inflation AdjustmentI.R.C. \u00a7 128(b)(2)(A)In General\u2014In the case of any taxable yea...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 128(b)(2)?",
+  "difficulty": 1,
+  "choices": [
+    "$2,250.00",
+    "$2,750.00",
+    "$2,500.00",
+    "$5,000.00",
+    "$1,250.00"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies $2,500.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 128(b)(2)"
+  ]
+}

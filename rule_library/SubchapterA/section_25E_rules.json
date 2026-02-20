@@ -1,0 +1,449 @@
+[
+  {
+    "section": "25E",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$4,000, or",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 4000,
+        "text": "$4,000,"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$4,000, or"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25E(a)(1)\u2014$4,000, or",
+    "definitions": null
+  },
+  {
+    "section": "25E",
+    "subsection": "(a)(2)",
+    "source_subsections": [
+      "(a)(2)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "the amount equal to 30 percent of the sale price with respect to such vehicle.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.3,
+        "text": "30 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "the amount equal to 30 percent of the sale price with respect to such vehicle."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25E(a)(2)\u2014the amount equal to 30 percent of\n                     the sale price with respect to such vehicle.",
+    "definitions": null
+  },
+  {
+    "section": "25E",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)",
+      "(b)(1)(A)",
+      "(b)(1)(A)(i)",
+      "(b)(1)(A)(ii)",
+      "(b)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "No credit shall be allowed under subsection (a) for any taxable year if\u2014\u2014the lesser of\u2014\u2014the modified adjusted gross income of the taxpayer for such taxable year, or\u2014the modified adjusted gross income of the taxpayer for the preceding taxable year, exceeds\u2014the threshold amount.",
+    "conditions": [
+      "\u2014\u2014the lesser of\u2014\u2014the modified adjusted gross income of the taxpayer for such taxable year, or\u2014the modified adjusted gross income of the taxpayer for the preceding taxable year, exceeds\u2014the threshold amount."
+    ],
+    "computations": [
+      {
+        "operation": "min",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014the lesser of\u2014\u2014the modified adjusted gross income of the taxpayer for such taxable year, or\u2014the modified adjusted gross income of the taxpayer for the preceding taxable year, exceeds\u2014the threshold amount."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be allowed under subsection (a) for any taxable year"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25E(b)(1)In General\u2014No credit shall be allowed under subsection (a) for any\n                     taxable year if\u2014I.R.C. \u00a7 25E(b)(1)(A)\u2014the lesser of\u2014I.R.C. \u00a7 25E(b)(1)(A)(i)\u2014the modified adjusted gross income of\n                           the taxpayer for such taxable year, orI.R.C. \u00a7 25E(b)(1)(A)(ii)\u2014the modified adjusted gross income of\n                           the taxpayer for the preceding taxable year, exceedsI.R.C. \u00a7 25E(b)(1)(B)\u2014the threshold amount.",
+    "definitions": null
+  },
+  {
+    "section": "25E",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)",
+      "(b)(2)(A)",
+      "(b)(2)(B)",
+      "(b)(2)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "Amount",
+    "text": "For purposes of paragraph (1)(B), the threshold amount shall be\u2014\u2014in the case of a joint return or a surviving spouse (as defined insection 2(a)), $150,000,\u2014in the case of a head of household (as defined insection 2(b)), $112,500, and\u2014in the case of a taxpayer not described in subparagraph (A) or (B), $75,000.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 150000,
+        "text": "$150,000,"
+      },
+      {
+        "label": "amount",
+        "value": 112500,
+        "text": "$112,500,"
+      },
+      {
+        "label": "amount",
+        "value": 75000,
+        "text": "$75,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of paragraph (1)(B), the threshold amount shall be\u2014\u2014in the case of a joint return or a surviving spouse (as defined insection 2(a)), $150,000,\u2014in the case of a head of household (as defined insection 2(b)), $112,500, and\u2014in the case of a taxpayer not described in subparagraph (A) or (B), $75,000."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25E(b)(2)Threshold Amount\u2014For purposes of paragraph (1)(B), the threshold amount\n                     shall be\u2014I.R.C. \u00a7 25E(b)(2)(A)\u2014in the case of a joint return or\n                        a surviving spouse (as defined insection\n                           2(a)), $150,000,I.R.C. \u00a7 25E(b)(2)(B)\u2014in the case of a head of household\n                        (as defined insection 2(b)),\n                        $112,500, andI.R.C. \u00a7 25E(b)(2)(C)\u2014in the case of a taxpayer not described\n                        in subparagraph (A) or (B), $75,000.",
+    "definitions": null
+  },
+  {
+    "section": "25E",
+    "subsection": "(b)(3)",
+    "source_subsections": [
+      "(b)(3)"
+    ],
+    "rule_type": "definition",
+    "title": "Adjusted Gross Income",
+    "text": "For purposes of this subsection, the term \u201cmodified adjusted gross income\u201d means adjusted gross income increased by any amount excluded from gross income undersection 911,931, or933.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection, the term \u201cmodified adjusted gross income\u201d means adjusted gross income increased by any amount excluded from gross income undersection 911,931, or933."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25E(b)(3)Modified Adjusted Gross Income\u2014For purposes of this subsection, the term \u201cmodified\n                     adjusted gross income\u201d means adjusted gross income increased\n                     by any amount excluded from gross income undersection 911,931,\n                     or933.",
+    "definitions": {
+      "term": "modified adjusted gross income",
+      "requirements": [
+        "adjusted gross income increased by any amount excluded from gross income undersection 911,931, or933."
+      ]
+    }
+  },
+  {
+    "section": "25E",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)",
+      "(c)(1)(A)",
+      "(c)(1)(B)",
+      "(c)(1)(C)",
+      "(c)(1)(D)",
+      "(c)(1)(D)(i)",
+      "(c)(1)(D)(ii)",
+      "(c)(1)(D)(ii)(I)",
+      "(c)(1)(D)(ii)(II)"
+    ],
+    "rule_type": "definition",
+    "title": "Clean Vehicle",
+    "text": "The term \u201cpreviously-owned clean vehicle\u201d means, with respect to a taxpayer, a motor vehicle\u2014\u2014the model year of which is at least 2 years earlier than the calendar year in which the taxpayer acquires such vehicle,\u2014the original use of which commences with a person other than the taxpayer,\u2014which is acquired by the taxpayer in a qualified sale, and\u2014which\u2014\u2014meets the requirements of subparagraphs (C), (D), (E), (F), and (H) (except for clause (iv) thereof) ofsection 30D(d)(1), or\u2014is a motor vehicle which\u2014\u2014satisfies the requirements under subparagraphs (A) and (B) ofsection 30B(b)(3), and\u2014has a gross vehicle weight rating of less than 14,000 pounds.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "for clause (iv) thereof) ofsection 30D(d)(1), or\u2014is a motor vehicle which\u2014\u2014satisfies the requirements under subparagraphs (A) and (B) ofsection 30B(b)(3), and\u2014has a gross vehicle weight rating of less than 14,000 pounds."
+      ],
+      "result": "The term \u201cpreviously-owned clean vehicle\u201d means, with respect to a taxpayer, a motor vehicle\u2014\u2014the model year of which is at least 2 years earlier than the calendar year in which the taxpayer acquires such vehicle,\u2014the original use of which commences with a person other than the taxpayer,\u2014which is acquired by the taxpayer in a qualified sale, and\u2014which\u2014\u2014meets the requirements of subparagraphs (C), (D), (E), (F), and (H) ("
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25E(c)(1)Previously-Owned Clean Vehicle\u2014The term \u201cpreviously-owned clean vehicle\u201d\n                     means, with respect to a taxpayer, a motor vehicle\u2014I.R.C. \u00a7 25E(c)(1)(A)\u2014the model year of which is at least\n                        2 years earlier than the calendar year in which the taxpayer acquires\n                        such vehicle,I.R.C. \u00a7 25E(c)(1)(B)\u2014the original use of which commences\n                        with a person other than the taxpayer,I.R.C. \u00a7 25E(c)(1)(C)\u2014which is acquired by the taxpayer\n                        in a qualified sale, andI.R.C. \u00a7 25E(c)(1)(D)\u2014which\u2014I.R.C. \u00a7 25E(c)(1)(D)(i)\u2014meets the requirements of subparagraphs\n                           (C), (D), (E), (F), and (H) (except for clause (iv) thereof) ofsection 30D(d)(1), orI.R.C. \u00a7 25E(c)(1)(D)(ii)\u2014is a motor vehicle which\u2014I.R.C. \u00a7 25E(c)(1)(D)(ii)(I)\u2014satisfies the requirements under\n                              subparagraphs (A) and (B) ofsection\n                                 30B(b)(3), andI.R.C. \u00a7 25E(c)(1)(D)(ii)(II)\u2014has a gross vehicle weight rating\n                              of less than 14,000 pounds.",
+    "definitions": null
+  },
+  {
+    "section": "25E",
+    "subsection": "(c)(2)",
+    "source_subsections": [
+      "(c)(2)",
+      "(c)(2)(A)",
+      "(c)(2)(B)",
+      "(c)(2)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "Sale",
+    "text": "The term \u201cqualified sale\u201d means a sale of a motor vehicle\u2014\u2014by a dealer (as defined insection 30D(g)(8)),\u2014for a sale price which does not exceed $25,000, and\u2014which is the first transfer since the date of the enactment of this section to a qualified buyer other than the person with whom the original use of such vehicle commenced.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 25000,
+        "text": "$25,000,"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified sale\u201d means a sale of a motor vehicle\u2014\u2014by a dealer (as defined insection 30D(g)(8)),\u2014for a sale price which does not exceed $25,000, and\u2014which is the first transfer since the date of the enactment of this section to a qualified buyer other than the person with whom the original use of such vehicle commenced."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25E(c)(2)Qualified Sale\u2014The term \u201cqualified sale\u201d means a sale of\n                     a motor vehicle\u2014I.R.C. \u00a7 25E(c)(2)(A)\u2014by a dealer (as defined insection 30D(g)(8)),I.R.C. \u00a7 25E(c)(2)(B)\u2014for a sale price which does not exceed\n                        $25,000, andI.R.C. \u00a7 25E(c)(2)(C)\u2014which is the first transfer since\n                        the date of the enactment of this section to a qualified buyer other\n                        than the person with whom the original use of such vehicle commenced.",
+    "definitions": {
+      "term": "qualified sale",
+      "requirements": [
+        "a sale of a motor vehicle\u2014\u2014by a dealer (as defined insection 30D(g)(8)),\u2014for a sale price which does not exceed $25,000, and\u2014which is the first transfer since the date of the enactment of this section to a qualified buyer other than the person with whom the original use of such vehicle commenced."
+      ]
+    }
+  },
+  {
+    "section": "25E",
+    "subsection": "(c)(3)",
+    "source_subsections": [
+      "(c)(3)",
+      "(c)(3)(A)",
+      "(c)(3)(B)",
+      "(c)(3)(C)",
+      "(c)(3)(D)"
+    ],
+    "rule_type": "definition",
+    "title": "Buyer",
+    "text": "The term \u201cqualified buyer\u201d means, with respect to a sale of a motor vehicle, a taxpayer\u2014\u2014who is an individual,\u2014who purchases such vehicle for use and not for resale,\u2014with respect to whom no deduction is allowable with respect to another taxpayer undersection 151, and\u2014who has not been allowed a credit under this section for any sale during the 3-year period ending on the date of the sale of such vehicle.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified buyer\u201d means, with respect to a sale of a motor vehicle, a taxpayer\u2014\u2014who is an individual,\u2014who purchases such vehicle for use and not for resale,\u2014with respect to whom no deduction is allowable with respect to another taxpayer undersection 151, and\u2014who has not been allowed a credit under this section for any sale during the 3-year period ending on the date of the sale of such vehicle."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25E(c)(3)Qualified Buyer\u2014The term \u201cqualified buyer\u201d means, with respect\n                     to a sale of a motor vehicle, a taxpayer\u2014I.R.C. \u00a7 25E(c)(3)(A)\u2014who is an individual,I.R.C. \u00a7 25E(c)(3)(B)\u2014who purchases such vehicle for use\n                        and not for resale,I.R.C. \u00a7 25E(c)(3)(C)\u2014with respect to whom no deduction\n                        is allowable with respect to another taxpayer undersection 151, andI.R.C. \u00a7 25E(c)(3)(D)\u2014who has not been allowed a credit\n                        under this section for any sale during the 3-year period ending on\n                        the date of the sale of such vehicle.",
+    "definitions": null
+  },
+  {
+    "section": "25E",
+    "subsection": "(c)(4)",
+    "source_subsections": [
+      "(c)(4)"
+    ],
+    "rule_type": "condition",
+    "title": "Vehicle; Capacity",
+    "text": "The terms \u201cmotor vehicle\u201d and \u201ccapacity\u201d have the meaning given such terms in paragraphs (2) and (4) ofsection 30D(d), respectively.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The terms \u201cmotor vehicle\u201d and \u201ccapacity\u201d have the meaning given such terms in paragraphs (2) and (4) ofsection 30D(d), respectively."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25E(c)(4)Motor Vehicle; Capacity\u2014The terms \u201cmotor vehicle\u201d and \u201ccapacity\u201d\n                     have the meaning given such terms in paragraphs (2) and (4) ofsection 30D(d), respectively.",
+    "definitions": null
+  },
+  {
+    "section": "25E",
+    "subsection": "(d)",
+    "source_subsections": [
+      "(d)"
+    ],
+    "rule_type": "condition",
+    "title": "Number Requirement",
+    "text": "No credit shall be allowed under subsection (a) with respect to any vehicle unless the taxpayer includes the vehicle identification number of such vehicle on the return of tax for the taxable year.",
+    "conditions": [
+      "the taxpayer includes the vehicle identification number of such vehicle on the return of tax for the taxable year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "the taxpayer includes the vehicle identification number of such vehicle on the return of tax for the taxable year."
+      ],
+      "except": [],
+      "result": "No credit shall be allowed under subsection (a) with respect to any vehicle"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25E(d)VIN Number Requirement\u2014No credit shall be allowed under subsection (a) with\n                  respect to any vehicle unless the taxpayer includes the vehicle identification\n                  number of such vehicle on the return of tax for the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "25E",
+    "subsection": "(e)",
+    "source_subsections": [
+      "(e)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Certain Rules",
+    "text": "For purposes of this section, rules similar to the rules ofsection 30D(f)(without regard to paragraph (10) or (11) thereof) shall apply for purposes of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, rules similar to the rules ofsection 30D(f)(without regard to paragraph (10) or (11) thereof) shall apply for purposes of this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25E(e)Application Of Certain Rules\u2014For purposes of this section, rules\n                  similar to the rules ofsection 30D(f)(without\n                  regard to paragraph (10) or (11) thereof) shall apply for purposes\n                  of this section.",
+    "definitions": null
+  },
+  {
+    "section": "25E",
+    "subsection": "(f)",
+    "source_subsections": [
+      "(f)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Credit",
+    "text": "Rules similar to the rules ofsection 30D(g)shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules ofsection 30D(g)shall apply."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25E(f)Transfer Of Credit\u2014Rules similar to the rules ofsection 30D(g)shall apply.",
+    "definitions": null
+  },
+  {
+    "section": "25E",
+    "subsection": "(g)",
+    "source_subsections": [
+      "(g)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "No credit shall be allowed under this section with respect to any vehicle acquired after September 30, 2025.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be allowed under this section with respect to any vehicle acquired after September 30, 2025."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25E(g)Termination\u2014No credit shall be allowed under this section with respect to any vehicle acquired\n                  after September 30, 2025.",
+    "definitions": null
+  }
+]

@@ -1,0 +1,421 @@
+[
+  {
+    "section": "45W",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "For purposes ofsection 38, the qualified commercial clean vehicle credit for any taxable year is an amount equal to the sum of the credit amounts determined under subsection (b) with respect to each qualified commercial clean vehicle placed in service by the taxpayer during the taxable year.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes ofsection 38, the qualified commercial clean vehicle credit for any taxable year is an amount equal to the sum of the credit amounts determined under subsection (b) with respect to each qualified commercial clean vehicle placed in service by the taxpayer during the taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45W(a)In General\u2014For purposes ofsection 38,\n                  the qualified commercial clean vehicle credit for any taxable year\n                  is an amount equal to the sum of the credit amounts determined under\n                  subsection (b) with respect to each qualified commercial clean vehicle\n                  placed in service by the taxpayer during the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "45W",
+    "subsection": "(b)(1)(A)",
+    "source_subsections": [
+      "(b)(1)(A)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "15 percent of the basis of such vehicle (30 percent in the case of a vehicle not powered by a gasoline or diesel internal combustion engine), or",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.15,
+        "text": "15 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.3,
+        "text": "30 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "15 percent of the basis of such vehicle (30 percent in the case of a vehicle not powered by a gasoline or diesel internal combustion engine), or"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45W(b)(1)(A)\u201415 percent of the basis of such vehicle\n                        (30 percent in the case of a vehicle not powered by a gasoline or\n                        diesel internal combustion engine), or",
+    "definitions": null
+  },
+  {
+    "section": "45W",
+    "subsection": "(b)(1)(B)",
+    "source_subsections": [
+      "(b)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "the incremental cost of such vehicle.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "the incremental cost of such vehicle."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45W(b)(1)(B)\u2014the incremental cost of such vehicle.",
+    "definitions": null
+  },
+  {
+    "section": "45W",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)"
+    ],
+    "rule_type": "computation",
+    "title": "Cost",
+    "text": "For purposes of paragraph (1)(B), the incremental cost of any qualified commercial clean vehicle is an amount equal to the excess of the purchase price for such vehicle over such price of a comparable vehicle.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "subtraction",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of paragraph (1)(B), the incremental cost of any qualified commercial clean vehicle is an amount equal to the excess of the purchase price for such vehicle over such price of a comparable vehicle."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45W(b)(2)Incremental Cost\u2014For purposes of paragraph (1)(B),\n                     the incremental cost of any qualified commercial clean vehicle is\n                     an amount equal to the excess of the purchase price for such vehicle\n                     over such price of a comparable vehicle.",
+    "definitions": null
+  },
+  {
+    "section": "45W",
+    "subsection": "(b)(3)",
+    "source_subsections": [
+      "(b)(3)"
+    ],
+    "rule_type": "definition",
+    "title": "Vehicle",
+    "text": "For purposes of this subsection, the term \u201ccomparable vehicle\u201d means, with respect to any qualified commercial clean vehicle, any vehicle which is powered solely by a gasoline or diesel internal combustion engine and which is comparable in size and use to such vehicle.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection, the term \u201ccomparable vehicle\u201d means, with respect to any qualified commercial clean vehicle, any vehicle which is powered solely by a gasoline or diesel internal combustion engine and which is comparable in size and use to such vehicle."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45W(b)(3)Comparable Vehicle\u2014For purposes of this subsection,\n                     the term \u201ccomparable vehicle\u201d means, with respect to any\n                     qualified commercial clean vehicle, any vehicle which is powered solely\n                     by a gasoline or diesel internal combustion engine and which is comparable\n                     in size and use to such vehicle.",
+    "definitions": null
+  },
+  {
+    "section": "45W",
+    "subsection": "(b)(4)",
+    "source_subsections": [
+      "(b)(4)",
+      "(b)(4)(A)",
+      "(b)(4)(B)"
+    ],
+    "rule_type": "limitation",
+    "title": null,
+    "text": "The amount determined under this subsection with respect to any qualified commercial clean vehicle shall not exceed\u2014\u2014in the case of a vehicle which has a gross vehicle weight rating of less than 14,000 pounds, $7,500, and\u2014in the case of a vehicle not described in subparagraph (A), $40,000.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 7500,
+        "text": "$7,500,"
+      },
+      {
+        "label": "amount",
+        "value": 40000,
+        "text": "$40,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount determined under this subsection with respect to any qualified commercial clean vehicle shall not exceed\u2014\u2014in the case of a vehicle which has a gross vehicle weight rating of less than 14,000 pounds, $7,500, and\u2014in the case of a vehicle not described in subparagraph (A), $40,000."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45W(b)(4)Limitation\u2014The amount determined under this\n                     subsection with respect to any qualified commercial clean vehicle\n                     shall not exceed\u2014I.R.C. \u00a7 45W(b)(4)(A)\u2014in the case of a vehicle which has\n                        a gross vehicle weight rating of less than 14,000 pounds, $7,500,\n                        andI.R.C. \u00a7 45W(b)(4)(B)\u2014in the case of a vehicle not described\n                        in subparagraph (A), $40,000.",
+    "definitions": null
+  },
+  {
+    "section": "45W",
+    "subsection": "(c)",
+    "source_subsections": [
+      "(c)",
+      "(c)(1)",
+      "(c)(2)",
+      "(c)(2)(A)",
+      "(c)(2)(B)",
+      "(c)(3)",
+      "(c)(3)(A)",
+      "(c)(3)(B)",
+      "(c)(4)"
+    ],
+    "rule_type": "definition",
+    "title": "Commercial Clean Vehicle",
+    "text": "For purposes of this section, the term \u201cqualified commercial clean vehicle\u201d means any vehicle which\u2014\u2014meets the requirements ofsection 30D(d)(1)(C)and is acquired for use or lease by the taxpayer and not for resale,\u2014either\u2014\u2014meets the requirements of subparagraph (D) ofsection 30D(d)(1)and is manufactured primarily for use on public streets, roads, and highways (not including a vehicle operated exclusively on a rail or rails), or\u2014is mobile machinery, as defined insection 4053(8)(including vehicles that are not designed to perform a function of transporting a load over the public highways),\u2014either\u2014\u2014is propelled to a significant extent by an electric motor which draws electricity from a battery which has a capacity of not less than 15 kilowatt hours (or, in the case of a vehicle which has a gross vehicle weight rating of less than 14,000 pounds, 7 kilowatt hours) and is capable of being recharged from an external source of electricity, or\u2014is a motor vehicle which satisfies the requirements under subparagraphs (A) and (B) ofsection 30B(b)(3), and\u2014is of a character subject to the allowance for depreciation.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u201cqualified commercial clean vehicle\u201d means any vehicle which\u2014\u2014meets the requirements ofsection 30D(d)(1)(C)and is acquired for use or lease by the taxpayer and not for resale,\u2014either\u2014\u2014meets the requirements of subparagraph (D) ofsection 30D(d)(1)and is manufactured primarily for use on public streets, roads, and highways (not including a vehicle operated exclusively on a rail or rails), or\u2014is mobile machinery, as defined insection 4053(8)(including vehicles that are not designed to perform a function of transporting a load over the public highways),\u2014either\u2014\u2014is propelled to a significant extent by an electric motor which draws electricity from a battery which has a capacity of not less than 15 kilowatt hours (or, in the case of a vehicle which has a gross vehicle weight rating of less than 14,000 pounds, 7 kilowatt hours) and is capable of being recharged from an external source of electricity, or\u2014is a motor vehicle which satisfies the requirements under subparagraphs (A) and (B) ofsection 30B(b)(3), and\u2014is of a character subject to the allowance for depreciation."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45W(c)Qualified Commercial Clean Vehicle\u2014For purposes of this section, the term \u201cqualified\n                  commercial clean vehicle\u201d means any vehicle which\u2014I.R.C. \u00a7 45W(c)(1)\u2014meets the requirements ofsection 30D(d)(1)(C)and is acquired\n                     for use or lease by the taxpayer and not for resale,I.R.C. \u00a7 45W(c)(2)\u2014either\u2014I.R.C. \u00a7 45W(c)(2)(A)\u2014meets the requirements of subparagraph\n                        (D) ofsection 30D(d)(1)and\n                        is manufactured primarily for use on public streets, roads, and highways\n                        (not including a vehicle operated exclusively on a rail or rails),\n                        orI.R.C. \u00a7 45W(c)(2)(B)\u2014is mobile machinery, as defined insection 4053(8)(including\n                        vehicles that are not designed to perform a function of transporting\n                        a load over the public highways),I.R.C. \u00a7 45W(c)(3)\u2014either\u2014I.R.C. \u00a7 45W(c)(3)(A)\u2014is propelled to a significant extent\n                        by an electric motor which draws electricity from a battery which\n                        has a capacity of not less than 15 kilowatt hours (or, in the case\n                        of a vehicle which has a gross vehicle weight rating of less than\n                        14,000 pounds, 7 kilowatt hours) and is capable of being recharged\n                        from an external source of electricity, orI.R.C. \u00a7 45W(c)(3)(B)\u2014is a motor vehicle which satisfies\n                        the requirements under subparagraphs (A) and (B) ofsection 30B(b)(3), andI.R.C. \u00a7 45W(c)(4)\u2014is of a character subject to the allowance for depreciation.",
+    "definitions": {
+      "term": "qualified commercial clean vehicle",
+      "requirements": [
+        "any vehicle which\u2014\u2014meets the requirements ofsection 30D(d)(1)(C)and is acquired for use or lease by the taxpayer and not for resale,\u2014either\u2014\u2014meets the requirements of subparagraph (D) ofsection 30D(d)(1)and is manufactured primarily for use on public streets, roads, and highways (not including a vehicle operated exclusively on a rail or rails), or\u2014is mobile machinery, as defined insection 4053(8)(including vehicles that are not designed to perform a function of transporting a load over the public highways),\u2014either\u2014\u2014is propelled to a significant extent by an electric motor which draws electricity from a battery which has a capacity of not less than 15 kilowatt hours (or, in the case of a vehicle which has a gross vehicle weight rating of less than 14,000 pounds, 7 kilowatt hours) and is capable of being recharged from an external source of electricity, or\u2014is a motor vehicle which satisfies the requirements under subparagraphs (A) and (B) ofsection 30B(b)(3), and\u2014is of a character subject to the allowance for depreciation."
+      ]
+    }
+  },
+  {
+    "section": "45W",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Rules similar to the rules under subsection (f) ofsection 30D(without regard to paragraph (10) or (11) thereof) shall apply for purposes of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules under subsection (f) ofsection 30D(without regard to paragraph (10) or (11) thereof) shall apply for purposes of this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45W(d)(1)In General\u2014Rules similar to the rules under subsection (f) ofsection 30D(without regard to paragraph\n                     (10) or (11) thereof) shall apply for purposes of this section.",
+    "definitions": null
+  },
+  {
+    "section": "45W",
+    "subsection": "(d)(2)",
+    "source_subsections": [
+      "(d)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Placed In Service By Tax",
+    "text": "Exempt Entities\u2014Subsection (c)(4) shall not apply to any vehicle which is not subject to a lease and which is placed in service by a tax-exempt entity described in clause (i), (ii), or (iv) ofsection 168(h)(2)(A).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Exempt Entities\u2014Subsection (c)(4) shall not apply to any vehicle which is not subject to a lease and which is placed in service by a tax-exempt entity described in clause (i), (ii), or (iv) ofsection 168(h)(2)(A)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45W(d)(2)Vehicles Placed In Service By Tax-Exempt Entities\u2014Subsection (c)(4) shall not apply to any vehicle which\n                     is not subject to a lease and which is placed in service by a tax-exempt\n                     entity described in clause (i), (ii), or (iv) ofsection 168(h)(2)(A).",
+    "definitions": null
+  },
+  {
+    "section": "45W",
+    "subsection": "(d)(3)",
+    "source_subsections": [
+      "(d)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Double Benefit",
+    "text": "No credit shall be allowed under this section with respect to any vehicle for which a credit was allowed undersection 30D.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be allowed under this section with respect to any vehicle for which a credit was allowed undersection 30D."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45W(d)(3)No Double Benefit\u2014No credit shall be allowed under this section with respect\n                     to any vehicle for which a credit was allowed undersection 30D.",
+    "definitions": null
+  },
+  {
+    "section": "45W",
+    "subsection": "(e)",
+    "source_subsections": [
+      "(e)"
+    ],
+    "rule_type": "condition",
+    "title": "Number Requirement",
+    "text": "No credit shall be determined under subsection (a) with respect to any vehicle unless the taxpayer includes the vehicle identification number of such vehicle on the return of tax for the taxable year.",
+    "conditions": [
+      "the taxpayer includes the vehicle identification number of such vehicle on the return of tax for the taxable year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "the taxpayer includes the vehicle identification number of such vehicle on the return of tax for the taxable year."
+      ],
+      "except": [],
+      "result": "No credit shall be determined under subsection (a) with respect to any vehicle"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45W(e)VIN Number Requirement\u2014No credit shall be determined under\n                  subsection (a) with respect to any vehicle unless the taxpayer includes\n                  the vehicle identification number of such vehicle on the return of\n                  tax for the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "45W",
+    "subsection": "(f)",
+    "source_subsections": [
+      "(f)"
+    ],
+    "rule_type": "condition",
+    "title": "And Guidance",
+    "text": "The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this section, including regulations or other guidance relating to determination of the incremental cost of any qualified commercial clean vehicle.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this section, including regulations or other guidance relating to determination of the incremental cost of any qualified commercial clean vehicle."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45W(f)Regulations And Guidance\u2014The Secretary shall issue such regulations\n                  or other guidance as the Secretary determines necessary to carry out\n                  the purposes of this section, including regulations or other guidance\n                  relating to determination of the incremental cost of any qualified\n                  commercial clean vehicle.",
+    "definitions": null
+  },
+  {
+    "section": "45W",
+    "subsection": "(g)",
+    "source_subsections": [
+      "(g)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "No credit shall be determined under this section with respect to any vehicle acquired after September 30, 2025.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be determined under this section with respect to any vehicle acquired after September 30, 2025."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45W(g)Termination\u2014No credit shall be determined under this section with respect to any vehicle acquired\n                  after September 30, 2025.",
+    "definitions": null
+  }
+]

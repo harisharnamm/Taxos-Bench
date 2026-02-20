@@ -1,0 +1,311 @@
+[
+  {
+    "section": "45G",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)"
+    ],
+    "rule_type": "computation",
+    "title": "Rule",
+    "text": "For purposes of section38, the railroad track maintenance credit determined under this section for the taxable year is an amount equal to 40 percent (50 percent in the case of any taxable year beginning before January 1, 2023) of the qualified railroad track maintenance expenditures paid or incurred by an eligible taxpayer during the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.4,
+        "text": "40 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of section38, the railroad track maintenance credit determined under this section for the taxable year is an amount equal to 40 percent (50 percent in the case of any taxable year beginning before January 1, 2023) of the qualified railroad track maintenance expenditures paid or incurred by an eligible taxpayer during the taxable year."
+    },
+    "cross_references": [
+      {
+        "section": "38",
+        "reason": "For purposes of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45G(a)General Rule\u2014For purposes of section38, the railroad track maintenance credit determined under this section for the taxable\n                  year is an amount equal to 40 percent (50 percent in the case of any taxable year\n                  beginning before January 1, 2023) of the qualified railroad track maintenance expenditures\n                  paid or incurred by an eligible taxpayer during the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "45G",
+    "subsection": "(b)(1)(A)",
+    "source_subsections": [
+      "(b)(1)(A)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$3,500, multiplied by",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 3500,
+        "text": "$3,500,"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$3,500, multiplied by"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45G(b)(1)(A)\u2014$3,500, multiplied by",
+    "definitions": null
+  },
+  {
+    "section": "45G",
+    "subsection": "(b)(1)(B)",
+    "source_subsections": [
+      "(b)(1)(B)",
+      "(b)(1)(B)(i)",
+      "(b)(1)(B)(ii)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "the sum of\u2014\u2014the number of miles of railroad track owned or leased by the eligible taxpayer as of the close of the taxable year, and\u2014the number of miles of railroad track assigned for purposes of this subsection to the eligible taxpayer by a Class II or Class III railroad which owns or leases such railroad track as of the close of the taxable year.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "the sum of\u2014\u2014the number of miles of railroad track owned or leased by the eligible taxpayer as of the close of the taxable year, and\u2014the number of miles of railroad track assigned for purposes of this subsection to the eligible taxpayer by a Class II or Class III railroad which owns or leases such railroad track as of the close of the taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45G(b)(1)(B)\u2014the sum of\u2014I.R.C. \u00a7 45G(b)(1)(B)(i)\u2014the number of miles of railroad track owned or leased by the eligible taxpayer as\n                           of the close of the taxable year, andI.R.C. \u00a7 45G(b)(1)(B)(ii)\u2014the number of miles of railroad track assigned for purposes of this subsection to\n                           the eligible taxpayer by a Class II or Class III railroad which owns or leases such\n                           railroad track as of the close of the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "45G",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)",
+      "(b)(2)(A)",
+      "(b)(2)(B)",
+      "(b)(2)(C)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "With respect to any assignment of a mile of railroad track under paragraph(1)(B)(ii)\u2014\u2014such assignment may be made only once per taxable year of the Class II or Class III railroad and shall be treated as made as of the close of such taxable year,\u2014such mile may not be taken into account under this section by such railroad for such taxable year, and\u2014such assignment shall be taken into account for the taxable year of the assignee which includes the date that such assignment is treated as effective.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "With respect to any assignment of a mile of railroad track under paragraph(1)(B)(ii)\u2014\u2014such assignment may be made only once per taxable year of the Class II or Class III railroad and shall be treated as made as of the close of such taxable year,\u2014such mile may not be taken into account under this section by such railroad for such taxable year, and\u2014such assignment shall be taken into account for the taxable year of the assignee which includes the date that such assignment is treated as effective."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45G(b)(2)Assignments\u2014With respect to any assignment of a mile of railroad track under paragraph(1)(B)(ii)\u2014I.R.C. \u00a7 45G(b)(2)(A)\u2014such assignment may be made only once per taxable year of the Class II or Class III\n                        railroad and shall be treated as made as of the close of such taxable year,I.R.C. \u00a7 45G(b)(2)(B)\u2014such mile may not be taken into account under this section by such railroad for such\n                        taxable year, andI.R.C. \u00a7 45G(b)(2)(C)\u2014such assignment shall be taken into account for the taxable year of the assignee which\n                        includes the date that such assignment is treated as effective.",
+    "definitions": null
+  },
+  {
+    "section": "45G",
+    "subsection": "(c)",
+    "source_subsections": [
+      "(c)",
+      "(c)(1)",
+      "(c)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Taxpayer",
+    "text": "For purposes of this section, the term \u201celigible taxpayer\u201d means\u2014\u2014any Class II or Class III railroad, and\u2014any person who transports property using the rail facilities of a Class II or Class III railroad or who furnishes railroad-related property or services to a Class II or Class III railroad, but only with respect to miles of railroad track assigned to such person by such Class II or Class III railroad for purposes of subsection(b).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u201celigible taxpayer\u201d means\u2014\u2014any Class II or Class III railroad, and\u2014any person who transports property using the rail facilities of a Class II or Class III railroad or who furnishes railroad-related property or services to a Class II or Class III railroad, but only with respect to miles of railroad track assigned to such person by such Class II or Class III railroad for purposes of subsection(b)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45G(c)Eligible Taxpayer\u2014For purposes of this section, the term \u201celigible taxpayer\u201d means\u2014I.R.C. \u00a7 45G(c)(1)\u2014any Class II or Class III railroad, andI.R.C. \u00a7 45G(c)(2)\u2014any person who transports property using the rail facilities of a Class II or Class\n                     III railroad or who furnishes railroad-related property or services to a Class II\n                     or Class III railroad, but only with respect to miles of railroad track assigned to\n                     such person by such Class II or Class III railroad for purposes of subsection(b).",
+    "definitions": null
+  },
+  {
+    "section": "45G",
+    "subsection": "(d)",
+    "source_subsections": [
+      "(d)"
+    ],
+    "rule_type": "definition",
+    "title": "Railroad Track Maintenance Expenditures",
+    "text": "For purposes of this section, the term \u201cqualified railroad track maintenance expenditures\u201d means gross expenditures (whether or not otherwise chargeable to capital account) for maintaining railroad track (including roadbed, bridges, and related track structures) owned or leased as of January 1, 2015, by a Class II or Class III railroad (determined without regard to any consideration for such expenditures given by the Class II or Class III railroad which made the assignment of such track).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u201cqualified railroad track maintenance expenditures\u201d means gross expenditures (whether or not otherwise chargeable to capital account) for maintaining railroad track (including roadbed, bridges, and related track structures) owned or leased as of January 1, 2015, by a Class II or Class III railroad (determined without regard to any consideration for such expenditures given by the Class II or Class III railroad which made the assignment of such track)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45G(d)Qualified Railroad Track Maintenance Expenditures\u2014For purposes of this section, the term \u201cqualified railroad track maintenance expenditures\u201d\n                  means gross expenditures (whether or not otherwise chargeable to capital account)\n                  for maintaining railroad track (including roadbed, bridges, and related track structures)\n                  owned or leased as of January 1, 2015, by a Class II or Class III railroad (determined\n                  without regard to any consideration for such expenditures given by the Class II or\n                  Class III railroad which made the assignment of such track).",
+    "definitions": {
+      "term": "qualified railroad track maintenance expenditures",
+      "requirements": [
+        "gross expenditures (whether or not otherwise chargeable to capital account) for maintaining railroad track (including roadbed, bridges, and related track structures) owned or leased as of January 1, 2015, by a Class II or Class III railroad (determined without regard to any consideration for such expenditures given by the Class II or Class III railroad which made the assignment of such track)."
+      ]
+    }
+  },
+  {
+    "section": "45G",
+    "subsection": "(e)(1)",
+    "source_subsections": [
+      "(e)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "II Or Class III Railroad",
+    "text": "For purposes of this section, the terms \u201cClass II railroad\u201d and \u201cClass III railroad\u201d have the respective meanings given such terms by the Surface Transportation Board.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the terms \u201cClass II railroad\u201d and \u201cClass III railroad\u201d have the respective meanings given such terms by the Surface Transportation Board."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45G(e)(1)Class II Or Class III Railroad\u2014For purposes of this section, the terms \u201cClass II railroad\u201d and \u201cClass III railroad\u201d\n                     have the respective meanings given such terms by the Surface Transportation Board.",
+    "definitions": null
+  },
+  {
+    "section": "45G",
+    "subsection": "(e)(2)",
+    "source_subsections": [
+      "(e)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Groups",
+    "text": "Rules similar to the rules of paragraph(1)of section41(f)shall apply for purposes of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules of paragraph(1)of section41(f)shall apply for purposes of this section."
+    },
+    "cross_references": [
+      {
+        "section": "41(f)",
+        "reason": "o the rules of paragraph(1)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45G(e)(2)Controlled Groups\u2014Rules similar to the rules of paragraph(1)of section41(f)shall apply for purposes of this section.",
+    "definitions": null
+  },
+  {
+    "section": "45G",
+    "subsection": "(e)(3)",
+    "source_subsections": [
+      "(e)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Adjustment",
+    "text": "For purposes of this subtitle, if a credit is allowed under this section with respect to any railroad track, the basis of such track shall be reduced by the amount of the credit so allowed.",
+    "conditions": [
+      "a credit is allowed under this section with respect to any railroad track, the basis of such track shall be reduced by the amount of the credit so allowed."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "a credit is allowed under this section with respect to any railroad track, the basis of such track shall be reduced by the amount of the credit so allowed."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subtitle,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45G(e)(3)Basis Adjustment\u2014For purposes of this subtitle, if a credit is allowed under this section with respect\n                     to any railroad track, the basis of such track shall be reduced by the amount of the\n                     credit so allowed.",
+    "definitions": null
+  }
+]

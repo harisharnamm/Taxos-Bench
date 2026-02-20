@@ -1,0 +1,22 @@
+{
+  "id": "c4720058d24d",
+  "section": "36A",
+  "citation": "I.R.C. \u00a7 36A(b)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 36A(b) is discussed as follows: 'I.R.C. \u00a7 36A(b)Limitation Based On Modified Adjusted Gross IncomeI.R.C. \u00a7 36A(b)(1)In General\u2014The am...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 36A(b)?",
+  "difficulty": 1,
+  "choices": [
+    "98.0%",
+    "0.0%",
+    "12.0%",
+    "3.0%",
+    "2.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 2.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 36A(b)"
+  ]
+}

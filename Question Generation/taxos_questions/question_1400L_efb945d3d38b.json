@@ -1,0 +1,22 @@
+{
+  "id": "efb945d3d38b",
+  "section": "1400L",
+  "citation": "I.R.C. \u00a7 1400L(d)(3)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 1400L(d)(3) is discussed as follows: 'I.R.C. \u00a7 1400L(d)(3)Limitations On Amount Of BondsI.R.C. \u00a7 1400L(d)(3)(A)Aggregate Amount Designated...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 1400L(d)(3)?",
+  "difficulty": 1,
+  "choices": [
+    "$16,000,000,000.00",
+    "$8,000,000,000.00",
+    "$7,200,000,000.00",
+    "$8,800,000,000.00",
+    "$4,000,000,000.00"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $8,000,000,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1400L(d)(3)"
+  ]
+}

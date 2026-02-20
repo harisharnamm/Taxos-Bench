@@ -1,0 +1,810 @@
+[
+  {
+    "section": "23",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter the amount of the qualified adoption expenses paid or incurred by the taxpayer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter the amount of the qualified adoption expenses paid or incurred by the taxpayer."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 23(a)(1)In General\u2014In the case of an individual, there shall be allowed as a credit against the tax imposed\n                     by this chapter the amount of the qualified adoption expenses paid or incurred by\n                     the taxpayer.",
+    "definitions": null
+  },
+  {
+    "section": "23",
+    "subsection": "(a)(2)",
+    "source_subsections": [
+      "(a)(2)",
+      "(a)(2)(A)",
+      "(a)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Credit Allowed",
+    "text": "The credit under paragraph(1)with respect to any expense shall be allowed\u2014\u2014in the case of any expense paid or incurred before the taxable year in which such adoption becomes final, for the taxable year following the taxable year during which such expense is paid or incurred, and\u2014in the case of an expense paid or incurred during or after the taxable year in which such adoption becomes final, for the taxable year in which such expense is paid or incurred.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The credit under paragraph(1)with respect to any expense shall be allowed\u2014\u2014in the case of any expense paid or incurred before the taxable year in which such adoption becomes final, for the taxable year following the taxable year during which such expense is paid or incurred, and\u2014in the case of an expense paid or incurred during or after the taxable year in which such adoption becomes final, for the taxable year in which such expense is paid or incurred."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 23(a)(2)Year Credit Allowed\u2014The credit under paragraph(1)with respect to any expense shall be allowed\u2014I.R.C. \u00a7 23(a)(2)(A)\u2014in the case of any expense paid or incurred before the taxable year in which such\n                        adoption becomes final, for the taxable year following the taxable year during which\n                        such expense is paid or incurred, andI.R.C. \u00a7 23(a)(2)(B)\u2014in the case of an expense paid or incurred during or after the taxable year in which\n                        such adoption becomes final, for the taxable year in which such expense is paid or\n                        incurred.",
+    "definitions": null
+  },
+  {
+    "section": "23",
+    "subsection": "(a)(3)",
+    "source_subsections": [
+      "(a)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "$10,000 Credit For Adoption Of Child With Special Needs Regardless Of Expenses",
+    "text": "In the case of an adoption of a child with special needs which becomes final during a taxable year, the taxpayer shall be treated as having paid during such year qualified adoption expenses with respect to such adoption in an amount equal to the excess (if any) of $10,000 over the aggregate qualified adoption expenses actually paid or incurred by the taxpayer with respect to such adoption during such taxable year and all prior taxable years.",
+    "conditions": [
+      "any) of $10,000 over the aggregate qualified adoption expenses actually paid or incurred by the taxpayer with respect to such adoption during such taxable year and all prior taxable years."
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 10000,
+        "text": "$10,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any) of $10,000 over the aggregate qualified adoption expenses actually paid or incurred by the taxpayer with respect to such adoption during such taxable year and all prior taxable years."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of an adoption of a child with special needs which becomes final during a taxable year, the taxpayer shall be treated as having paid during such year qualified adoption expenses with respect to such adoption in an amount equal to the excess ("
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 23(a)(3)$10,000 Credit For Adoption Of Child With Special Needs Regardless Of Expenses\u2014In the case of an adoption of a child with special needs which becomes final during\n                     a taxable year, the taxpayer shall be treated as having paid during such year qualified\n                     adoption expenses with respect to such adoption in an amount equal to the excess (if\n                     any) of $10,000 over the aggregate qualified adoption expenses actually paid or incurred\n                     by the taxpayer with respect to such adoption during such taxable year and all prior\n                     taxable years.",
+    "definitions": null
+  },
+  {
+    "section": "23",
+    "subsection": "(a)(4)",
+    "source_subsections": [
+      "(a)(4)"
+    ],
+    "rule_type": "limitation",
+    "title": "Of Credit Refundable",
+    "text": "So much of the credit allowed under paragraph (1) as does not exceed $5,000 shall be treated as a credit allowed under subpart C and not as a credit allowed under this subpart.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 5000,
+        "text": "$5,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "So much of the credit allowed under paragraph (1) as does not exceed $5,000 shall be treated as a credit allowed under subpart C and not as a credit allowed under this subpart."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 23(a)(4)Portion Of Credit Refundable\u2014So much of the credit allowed under paragraph (1) as does not exceed $5,000 shall\n                     be treated as a credit allowed under subpart C and not as a credit allowed under this\n                     subpart.",
+    "definitions": null
+  },
+  {
+    "section": "23",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)"
+    ],
+    "rule_type": "limitation",
+    "title": "Limitation",
+    "text": "The aggregate amount of qualified adoption expenses which may be taken into account under subsection(a)for all taxable years with respect to the adoption of a child by the taxpayer shall not exceed $10,000.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 10000,
+        "text": "$10,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The aggregate amount of qualified adoption expenses which may be taken into account under subsection(a)for all taxable years with respect to the adoption of a child by the taxpayer shall not exceed $10,000."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 23(b)(1)Dollar Limitation\u2014The aggregate amount of qualified adoption expenses which may be taken into account\n                     under subsection(a)for all taxable years with respect to the adoption of a child by the taxpayer shall\n                     not exceed $10,000.",
+    "definitions": null
+  },
+  {
+    "section": "23",
+    "subsection": "(b)(2)(A)",
+    "source_subsections": [
+      "(b)(2)(A)",
+      "(b)(2)(A)(i)",
+      "(b)(2)(A)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The amount allowable as a credit under subsection(a)for any taxable year (determined without regard to subsection(c)) shall be reduced (but not below zero) by an amount which bears the same ratio to the amount so allowable (determined without regard to this paragraph but with regard to paragraph(1)) as\u2014\u2014the amount (if any) by which the taxpayer's adjusted gross income exceeds $150,000, bears to\u2014$40,000.",
+    "conditions": [
+      "any) by which the taxpayer's adjusted gross income exceeds $150,000, bears to\u2014$40,000."
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 150000,
+        "text": "$150,000,"
+      },
+      {
+        "label": "amount",
+        "value": 40000,
+        "text": "$40,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any) by which the taxpayer's adjusted gross income exceeds $150,000, bears to\u2014$40,000."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount allowable as a credit under subsection(a)for any taxable year (determined without regard to subsection(c)) shall be reduced (but not below zero) by an amount which bears the same ratio to the amount so allowable (determined without regard to this paragraph but with regard to paragraph(1)) as\u2014\u2014the amount ("
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 23(b)(2)(A)In General\u2014The amount allowable as a credit under subsection(a)for any taxable year (determined without regard to subsection(c)) shall be reduced (but not below zero) by an amount which bears the same ratio to\n                        the amount so allowable (determined without regard to this paragraph but with regard\n                        to paragraph(1)) as\u2014I.R.C. \u00a7 23(b)(2)(A)(i)\u2014the amount (if any) by which the taxpayer's adjusted gross income exceeds $150,000,\n                           bears toI.R.C. \u00a7 23(b)(2)(A)(ii)\u2014$40,000.",
+    "definitions": null
+  },
+  {
+    "section": "23",
+    "subsection": "(b)(2)(B)",
+    "source_subsections": [
+      "(b)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Adjusted Gross Income",
+    "text": "For purposes of subparagraph(A), adjusted gross income shall be determined without regard to sections911,931, and933.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph(A), adjusted gross income shall be determined without regard to sections911,931, and933."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 23(b)(2)(B)Determination Of Adjusted Gross Income\u2014For purposes of subparagraph(A), adjusted gross income shall be determined without regard to sections911,931, and933.",
+    "definitions": null
+  },
+  {
+    "section": "23",
+    "subsection": "(b)(3)(A)",
+    "source_subsections": [
+      "(b)(3)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "No credit shall be allowed under subsection(a)for any expense for which a deduction or credit is allowed under any other provision of this chapter.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be allowed under subsection(a)for any expense for which a deduction or credit is allowed under any other provision of this chapter."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 23(b)(3)(A)In General\u2014No credit shall be allowed under subsection(a)for any expense for which a deduction or credit is allowed under any other provision\n                        of this chapter.",
+    "definitions": null
+  },
+  {
+    "section": "23",
+    "subsection": "(b)(3)(B)",
+    "source_subsections": [
+      "(b)(3)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "No credit shall be allowed under subsection(a)for any expense to the extent that funds for such expense are received under any Federal, State, or local program.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be allowed under subsection(a)for any expense to the extent that funds for such expense are received under any Federal, State, or local program."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 23(b)(3)(B)Grants\u2014No credit shall be allowed under subsection(a)for any expense to the extent that funds for such expense are received under any\n                        Federal, State, or local program.",
+    "definitions": null
+  },
+  {
+    "section": "23",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "If the portion of the credit allowable under subsection(a)which is allowed under this subpart for any taxable year exceeds the limitation imposed by section26(a)for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section and section25D), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection for such taxable year.",
+    "conditions": [
+      "the portion of the credit allowable under subsection(a)which is allowed under this subpart for any taxable year exceeds the limitation imposed by section26(a)for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section and section25D), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection for such taxable year."
+    ],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the portion of the credit allowable under subsection(a)which is allowed under this subpart for any taxable year exceeds the limitation imposed by section26(a)for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section and section25D), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection for such taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "26(a)",
+        "reason": "eds the limitation imposed by..."
+      },
+      {
+        "section": "25D",
+        "reason": "(other than this section and..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 23(c)(1)In General\u2014If the portion of the credit allowable under subsection(a)which is allowed under this subpart for any taxable year exceeds the limitation imposed\n                     by section26(a)for such taxable year reduced by the sum of the credits allowable under this subpart\n                     (other than this section and section25D), such excess shall be carried to the succeeding taxable year and added to the credit\n                     allowable under subsection for such taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "23",
+    "subsection": "(c)(2)",
+    "source_subsections": [
+      "(c)(2)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "No credit may be carried forward under this subsection to any taxable year following the fifth taxable year after the taxable year in which the credit arose. For purposes of the preceding sentence, credits shall be treated as used on a first-in first-out basis.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit may be carried forward under this subsection to any taxable year following the fifth taxable year after the taxable year in which the credit arose. For purposes of the preceding sentence, credits shall be treated as used on a first-in first-out basis."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 23(c)(2)Limitation\u2014No credit may be carried forward under this subsection to any taxable year following\n                     the fifth taxable year after the taxable year in which the credit arose. For purposes\n                     of the preceding sentence, credits shall be treated as used on a first-in first-out\n                     basis.",
+    "definitions": null
+  },
+  {
+    "section": "23",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)",
+      "(d)(1)(A)",
+      "(d)(1)(B)",
+      "(d)(1)(C)",
+      "(d)(1)(D)"
+    ],
+    "rule_type": "definition",
+    "title": "Adoption Expenses",
+    "text": "The term \u201cqualified adoption expenses\u201d means reasonable and necessary adoption fees, court costs, attorney fees, and other expenses\u2014\u2014which are directly related to, and the principal purpose of which is for, the legal adoption of an eligible child by the taxpayer,\u2014which are not incurred in violation of State or Federal law or in carrying out any surrogate parenting arrangement,\u2014which are not expenses in connection with the adoption by an individual of a child who is the child of such individual's spouse, and\u2014which are not reimbursed under an employer program or otherwise.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified adoption expenses\u201d means reasonable and necessary adoption fees, court costs, attorney fees, and other expenses\u2014\u2014which are directly related to, and the principal purpose of which is for, the legal adoption of an eligible child by the taxpayer,\u2014which are not incurred in violation of State or Federal law or in carrying out any surrogate parenting arrangement,\u2014which are not expenses in connection with the adoption by an individual of a child who is the child of such individual's spouse, and\u2014which are not reimbursed under an employer program or otherwise."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 23(d)(1)Qualified Adoption Expenses\u2014The term \u201cqualified adoption expenses\u201d means reasonable and necessary adoption fees,\n                     court costs, attorney fees, and other expenses\u2014I.R.C. \u00a7 23(d)(1)(A)\u2014which are directly related to, and the principal purpose of which is for, the legal\n                        adoption of an eligible child by the taxpayer,I.R.C. \u00a7 23(d)(1)(B)\u2014which are not incurred in violation of State or Federal law or in carrying out any\n                        surrogate parenting arrangement,I.R.C. \u00a7 23(d)(1)(C)\u2014which are not expenses in connection with the adoption by an individual of a child\n                        who is the child of such individual's spouse, andI.R.C. \u00a7 23(d)(1)(D)\u2014which are not reimbursed under an employer program or otherwise.",
+    "definitions": {
+      "term": "qualified adoption expenses",
+      "requirements": [
+        "reasonable and necessary adoption fees, court costs, attorney fees, and other expenses\u2014\u2014which are directly related to, and the principal purpose of which is for, the legal adoption of an eligible child by the taxpayer,\u2014which are not incurred in violation of State or Federal law or in carrying out any surrogate parenting arrangement,\u2014which are not expenses in connection with the adoption by an individual of a child who is the child of such individual's spouse, and\u2014which are not reimbursed under an employer program or otherwise."
+      ]
+    }
+  },
+  {
+    "section": "23",
+    "subsection": "(d)(2)",
+    "source_subsections": [
+      "(d)(2)",
+      "(d)(2)(A)",
+      "(d)(2)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Child",
+    "text": "The term \u201celigible child\u201d means any individual who\u2014\u2014has not attained age 18, or\u2014is physically or mentally incapable of caring for himself.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201celigible child\u201d means any individual who\u2014\u2014has not attained age 18, or\u2014is physically or mentally incapable of caring for himself."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 23(d)(2)Eligible Child\u2014The term \u201celigible child\u201d means any individual who\u2014I.R.C. \u00a7 23(d)(2)(A)\u2014has not attained age 18, orI.R.C. \u00a7 23(d)(2)(B)\u2014is physically or mentally incapable of caring for himself.",
+    "definitions": {
+      "term": "eligible child",
+      "requirements": [
+        "any individual who\u2014\u2014has not attained age 18, or\u2014is physically or mentally incapable of caring for himself."
+      ]
+    }
+  },
+  {
+    "section": "23",
+    "subsection": "(d)(3)",
+    "source_subsections": [
+      "(d)(3)",
+      "(d)(3)(A)",
+      "(d)(3)(B)",
+      "(d)(3)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "With Special Needs",
+    "text": "The term \u201cchild with special needs\u201d means any child if\u2014Editor's Note:Sec. 23(d)(3)(A)-(B), below, before amendment byPub. L. 119-21, Sec. 70403(a)(1)-(2), effective for taxable years beginning on or before Dec. 31, 2024.\u2014a State government has determined that the child cannot or should not be returned to the home of his parents,\u2014such State government has determined that there exists with respect to the child a specific factor or condition (such as his ethnic background, age, or membership in a minority or sibling group, or the presence of factors such as medical conditions or physical, mental, or emotional handicaps) because of which it is reasonable to conclude that such child cannot be placed with adoptive parents without providing adoption assistance, andEditor's Note:Sec. 23(d)(3)(A)-(B), below, after amendment byPub. L. 119-21, Sec. 70403(a)(1)-(2), effective for taxable years beginning after Dec. 31, 2024.\u2014a State or Indian tribal government has determined that the child cannot or should not be returned to the home of his parents,\u2014such State or Indian tribal government has determined that there exists with respect to the child a specific factor or condition (such as his ethnic background, age, or membership in a minority or sibling group, or the presence of factors such as medical conditions or physical, mental, or emotional handicaps) because of which it is reasonable to conclude that such child cannot be placed with adoptive parents without providing adoption assistance, and\u2014such child is a citizen or resident of the United States (as defined in section217(h)(3)).",
+    "conditions": [
+      "\u2014Editor's Note:Sec. 23(d)(3)(A)-(B), below, before amendment byPub. L. 119-21, Sec. 70403(a)(1)-(2), effective for taxable years beginning on or before Dec. 31, 2024.\u2014a State government has determined that the child cannot or should not be returned to the home of his parents,\u2014such State government has determined that there exists with respect to the child a specific factor or condition (such as his ethnic background, age, or membership in a minority or sibling group, or the presence of factors such as medical conditions or physical, mental, or emotional handicaps) because of which it is reasonable to conclude that such child cannot be placed with adoptive parents without providing adoption assistance, andEditor's Note:Sec. 23(d)(3)(A)-(B), below, after amendment byPub. L. 119-21, Sec. 70403(a)(1)-(2), effective for taxable years beginning after Dec. 31, 2024.\u2014a State or Indian tribal government has determined that the child cannot or should not be returned to the home of his parents,\u2014such State or Indian tribal government has determined that there exists with respect to the child a specific factor or condition (such as his ethnic background, age, or membership in a minority or sibling group, or the presence of factors such as medical conditions or physical, mental, or emotional handicaps) because of which it is reasonable to conclude that such child cannot be placed with adoptive parents without providing adoption assistance, and\u2014such child is a citizen or resident of the United States (as defined in section217(h)(3))."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014Editor's Note:Sec. 23(d)(3)(A)-(B), below, before amendment byPub. L. 119-21, Sec. 70403(a)(1)-(2), effective for taxable years beginning on or before Dec. 31, 2024.\u2014a State government has determined that the child cannot or should not be returned to the home of his parents,\u2014such State government has determined that there exists with respect to the child a specific factor or condition (such as his ethnic background, age, or membership in a minority or sibling group, or the presence of factors such as medical conditions or physical, mental, or emotional handicaps) because of which it is reasonable to conclude that such child cannot be placed with adoptive parents without providing adoption assistance, andEditor's Note:Sec. 23(d)(3)(A)-(B), below, after amendment byPub. L. 119-21, Sec. 70403(a)(1)-(2), effective for taxable years beginning after Dec. 31, 2024.\u2014a State or Indian tribal government has determined that the child cannot or should not be returned to the home of his parents,\u2014such State or Indian tribal government has determined that there exists with respect to the child a specific factor or condition (such as his ethnic background, age, or membership in a minority or sibling group, or the presence of factors such as medical conditions or physical, mental, or emotional handicaps) because of which it is reasonable to conclude that such child cannot be placed with adoptive parents without providing adoption assistance, and\u2014such child is a citizen or resident of the United States (as defined in section217(h)(3))."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cchild with special needs\u201d means any child"
+    },
+    "cross_references": [
+      {
+        "section": "217(h)(3)",
+        "reason": "United States (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 23(d)(3)Child With Special Needs\u2014The term \u201cchild with special needs\u201d means any child if\u2014Editor's Note:Sec. 23(d)(3)(A)-(B), below, before amendment byPub. L. 119-21, Sec. 70403(a)(1)-(2), effective for taxable years beginning on or before Dec. 31,\n                              2024.I.R.C. \u00a7 23(d)(3)(A)\u2014a State government has determined that the child cannot or should not be returned\n                        to the home of his parents,I.R.C. \u00a7 23(d)(3)(B)\u2014such State government has determined that there exists with respect to the child a\n                        specific factor or condition (such as his ethnic background, age, or membership in\n                        a minority or sibling group, or the presence of factors such as medical conditions\n                        or physical, mental, or emotional handicaps) because of which it is reasonable to\n                        conclude that such child cannot be placed with adoptive parents without providing\n                        adoption assistance, andEditor's Note:Sec. 23(d)(3)(A)-(B), below, after amendment byPub. L. 119-21, Sec. 70403(a)(1)-(2), effective for taxable years beginning after Dec. 31, 2024.I.R.C. \u00a7 23(d)(3)(A)\u2014a State or Indian tribal government has determined that the child cannot or should\n                        not be returned to the home of his parents,I.R.C. \u00a7 23(d)(3)(B)\u2014such State or Indian tribal government has determined that there exists with respect\n                        to the child a specific factor or condition (such as his ethnic background, age, or\n                        membership in a minority or sibling group, or the presence of factors such as medical\n                        conditions or physical, mental, or emotional handicaps) because of which it is reasonable\n                        to conclude that such child cannot be placed with adoptive parents without providing\n                        adoption assistance, andI.R.C. \u00a7 23(d)(3)(C)\u2014such child is a citizen or resident of the United States (as defined in section217(h)(3)).",
+    "definitions": {
+      "term": "child with special needs",
+      "requirements": [
+        "any child if\u2014Editor's Note:Sec. 23(d)(3)(A)-(B), below, before amendment byPub. L. 119-21, Sec. 70403(a)(1)-(2), effective for taxable years beginning on or before Dec. 31, 2024.\u2014a State government has determined that the child cannot or should not be returned to the home of his parents,\u2014such State government has determined that there exists with respect to the child a specific factor or condition (such as his ethnic background, age, or membership in a minority or sibling group, or the presence of factors such as medical conditions or physical, mental, or emotional handicaps) because of which it is reasonable to conclude that such child cannot be placed with adoptive parents without providing adoption assistance, andEditor's Note:Sec. 23(d)(3)(A)-(B), below, after amendment byPub. L. 119-21, Sec. 70403(a)(1)-(2), effective for taxable years beginning after Dec. 31, 2024.\u2014a State or Indian tribal government has determined that the child cannot or should not be returned to the home of his parents,\u2014such State or Indian tribal government has determined that there exists with respect to the child a specific factor or condition (such as his ethnic background, age, or membership in a minority or sibling group, or the presence of factors such as medical conditions or physical, mental, or emotional handicaps) because of which it is reasonable to conclude that such child cannot be placed with adoptive parents without providing adoption assistance, and\u2014such child is a citizen or resident of the United States (as defined in section217(h)(3))."
+      ]
+    }
+  },
+  {
+    "section": "23",
+    "subsection": "(e)",
+    "source_subsections": [
+      "(e)",
+      "(e)(1)",
+      "(e)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Rules For Foreign Adoptions",
+    "text": "In the case of an adoption of a child who is not a citizen or resident of the United States (as defined in section217(h)(3))\u2014\u2014subsection(a)shall not apply to any qualified adoption expense with respect to such adoption unless such adoption becomes final, and\u2014any such expense which is paid or incurred before the taxable year in which such adoption becomes final shall be taken into account under this section as if such expense were paid or incurred during such year.",
+    "conditions": [
+      "such expense were paid or incurred during such year.",
+      "such adoption becomes final, and\u2014any such expense which is paid or incurred before the taxable year in which such adoption becomes final shall be taken into account under this section as"
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such expense were paid or incurred during such year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [
+        "such adoption becomes final, and\u2014any such expense which is paid or incurred before the taxable year in which such adoption becomes final shall be taken into account under this section as"
+      ],
+      "except": [],
+      "result": "In the case of an adoption of a child who is not a citizen or resident of the United States (as defined in section217(h)(3))\u2014\u2014subsection(a)shall not apply to any qualified adoption expense with respect to such adoption"
+    },
+    "cross_references": [
+      {
+        "section": "217(h)(3)",
+        "reason": "United States (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 23(e)Special Rules For Foreign Adoptions\u2014In the case of an adoption of a child who is not a citizen or resident of the United\n                  States (as defined in section217(h)(3))\u2014I.R.C. \u00a7 23(e)(1)\u2014subsection(a)shall not apply to any qualified adoption expense with respect to such adoption unless\n                     such adoption becomes final, andI.R.C. \u00a7 23(e)(2)\u2014any such expense which is paid or incurred before the taxable year in which such adoption\n                     becomes final shall be taken into account under this section as if such expense were\n                     paid or incurred during such year.",
+    "definitions": null
+  },
+  {
+    "section": "23",
+    "subsection": "(f)(1)",
+    "source_subsections": [
+      "(f)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "Couples Must File Joint Returns",
+    "text": "Rules similar to the rules of paragraphs(2),(3), and(4)of section21(e)shall apply for purposes of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules of paragraphs(2),(3), and(4)of section21(e)shall apply for purposes of this section."
+    },
+    "cross_references": [
+      {
+        "section": "21(e)",
+        "reason": "f paragraphs(2),(3), and(4)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 23(f)(1)Married Couples Must File Joint Returns\u2014Rules similar to the rules of paragraphs(2),(3), and(4)of section21(e)shall apply for purposes of this section.",
+    "definitions": null
+  },
+  {
+    "section": "23",
+    "subsection": "(f)(2)(A)",
+    "source_subsections": [
+      "(f)(2)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "No credit shall be allowed under this section with respect to any eligible child unless the taxpayer includes (if known) the name, age, and TIN of such child on the return of tax for the taxable year.",
+    "conditions": [
+      "known) the name, age, and TIN of such child on the return of tax for the taxable year.",
+      "the taxpayer includes ("
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "known) the name, age, and TIN of such child on the return of tax for the taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [
+        "the taxpayer includes ("
+      ],
+      "except": [],
+      "result": "No credit shall be allowed under this section with respect to any eligible child"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 23(f)(2)(A)In General\u2014No credit shall be allowed under this section with respect to any eligible child unless\n                        the taxpayer includes (if known) the name, age, and TIN of such child on the return\n                        of tax for the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "23",
+    "subsection": "(f)(2)(B)",
+    "source_subsections": [
+      "(f)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Methods",
+    "text": "The Secretary may, in lieu of the information referred to in subparagraph(A), require other information meeting the purposes of subparagraph(A), including identification of an agent assisting with the adoption.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary may, in lieu of the information referred to in subparagraph(A), require other information meeting the purposes of subparagraph(A), including identification of an agent assisting with the adoption."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 23(f)(2)(B)Other Methods\u2014The Secretary may, in lieu of the information referred to in subparagraph(A), require other information meeting the purposes of subparagraph(A), including identification of an agent assisting with the adoption.",
+    "definitions": null
+  },
+  {
+    "section": "23",
+    "subsection": "(g)",
+    "source_subsections": [
+      "(g)"
+    ],
+    "rule_type": "condition",
+    "title": "Adjustments",
+    "text": "For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.",
+    "conditions": [
+      "a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subtitle,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 23(g)Basis Adjustments\u2014For purposes of this subtitle, if a credit is allowed under this section for any expenditure\n                  with respect to any property, the increase in the basis of such property which would\n                  (but for this subsection) result from such expenditure shall be reduced by the amount\n                  of the credit so allowed.",
+    "definitions": null
+  },
+  {
+    "section": "23",
+    "subsection": "(h)(1)",
+    "source_subsections": [
+      "(h)(1)",
+      "(h)(1)(A)",
+      "(h)(1)(B)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "In the case of a taxable year beginning after December 31, 2002, each of the dollar amounts in paragraphs (3) and (4) of subsection (a) and paragraphs (1) and (2)(A)(i) of subsection (b) shall be increased by an amount equal to\u2014\u2014such dollar amount, multiplied by\u2014the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting \u201ccalendar year 2001\u201d for \u201ccalendar year 2016\u201d in subparagraph (A)(ii) thereof.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a taxable year beginning after December 31, 2002, each of the dollar amounts in paragraphs (3) and (4) of subsection (a) and paragraphs (1) and (2)(A)(i) of subsection (b) shall be increased by an amount equal to\u2014\u2014such dollar amount, multiplied by\u2014the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting \u201ccalendar year 2001\u201d for \u201ccalendar year 2016\u201d in subparagraph (A)(ii) thereof."
+    },
+    "cross_references": [
+      {
+        "section": "1(f)(3)",
+        "reason": "g adjustment determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 23(h)(1)In General\u2014In the case of a taxable year beginning after December 31, 2002, each of the dollar\n                     amounts in paragraphs (3) and (4) of subsection (a) and paragraphs (1) and (2)(A)(i)\n                     of subsection (b) shall be increased by an amount equal to\u2014I.R.C. \u00a7 23(h)(1)(A)\u2014such dollar amount, multiplied byI.R.C. \u00a7 23(h)(1)(B)\u2014the cost-of-living adjustment determined under section 1(f)(3) for the calendar year\n                        in which the taxable year begins, determined by substituting \u201ccalendar year 2001\u201d\n                        for \u201ccalendar year 2016\u201d in subparagraph (A)(ii) thereof.",
+    "definitions": null
+  },
+  {
+    "section": "23",
+    "subsection": "(h)(2)",
+    "source_subsections": [
+      "(h)(2)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "If any amount as increased under paragraph (1) is not a multiple of $10, such amount shall be rounded to the nearest multiple of $10.",
+    "conditions": [
+      "any amount as increased under paragraph (1) is not a multiple of $10, such amount shall be rounded to the nearest multiple of $10."
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 10,
+        "text": "$10,"
+      },
+      {
+        "label": "amount",
+        "value": 10,
+        "text": "$10"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any amount as increased under paragraph (1) is not a multiple of $10, such amount shall be rounded to the nearest multiple of $10."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 23(h)(2)Rounding\u2014If any amount as increased under paragraph (1) is not a multiple of $10, such amount\n                     shall be rounded to the nearest multiple of $10.",
+    "definitions": null
+  },
+  {
+    "section": "23",
+    "subsection": "(h)(3)",
+    "source_subsections": [
+      "(h)(3)",
+      "(h)(3)(A)",
+      "(h)(3)(A)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Rule For Refundable Portion",
+    "text": "In the case of the dollar amount in subsection (a)(4), paragraph (1) shall be applied\u2014by substituting \u20182025\u2019 for \u20182002\u2019 in the matter preceding subparagraph (A), and\u2014by substituting \u2018calendar year 2024\u2019 for \u2018calendar year 2001\u2019 in subparagraph (B) thereof.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of the dollar amount in subsection (a)(4), paragraph (1) shall be applied\u2014by substituting \u20182025\u2019 for \u20182002\u2019 in the matter preceding subparagraph (A), and\u2014by substituting \u2018calendar year 2024\u2019 for \u2018calendar year 2001\u2019 in subparagraph (B) thereof."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 23(h)(3)Special Rule For Refundable Portion\u2014In the case of the dollar amount in subsection (a)(4), paragraph (1) shall be appliedI.R.C. \u00a7 23(h)(3)(A)\u2014by substituting \u20182025\u2019 for \u20182002\u2019 in the matter preceding subparagraph (A), andI.R.C. \u00a7 23(h)(3)(A)(B)\u2014by substituting \u2018calendar year 2024\u2019 for \u2018calendar year 2001\u2019 in subparagraph (B)\n                           thereof.",
+    "definitions": null
+  },
+  {
+    "section": "23",
+    "subsection": "(i)",
+    "source_subsections": [
+      "(i)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The Secretary shall prescribe such regulations as may be appropriate to carry out this section and section137, including regulations which treat unmarried individuals who pay or incur qualified adoption expenses with respect to the same child as 1 taxpayer for purposes of applying the dollar amounts in subsections(a)(3)and(b)(1)of this section and in section137(b)(1).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall prescribe such regulations as may be appropriate to carry out this section and section137, including regulations which treat unmarried individuals who pay or incur qualified adoption expenses with respect to the same child as 1 taxpayer for purposes of applying the dollar amounts in subsections(a)(3)and(b)(1)of this section and in section137(b)(1)."
+    },
+    "cross_references": [
+      {
+        "section": "137",
+        "reason": "to carry out this section and..."
+      },
+      {
+        "section": "137(b)(1)",
+        "reason": "d(b)(1)of this section and in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 23(i)Regulations\u2014The Secretary shall prescribe such regulations as may be appropriate to carry out\n                  this section and section137, including regulations which treat unmarried individuals who pay or incur qualified\n                  adoption expenses with respect to the same child as 1 taxpayer for purposes of applying\n                  the dollar amounts in subsections(a)(3)and(b)(1)of this section and in section137(b)(1).",
+    "definitions": null
+  }
+]

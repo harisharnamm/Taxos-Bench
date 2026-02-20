@@ -1,0 +1,22 @@
+{
+  "id": "45cd88c92273",
+  "section": "74",
+  "citation": "I.R.C. \u00a7 74(d)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 74(d) is discussed as follows: 'I.R.C. \u00a7 74(d)Exception For Olympic And Paralympic Medals And PrizesI.R.C. \u00a7 74(d)(1)In General\u2014Gros...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 74(d)?",
+  "difficulty": 1,
+  "choices": [
+    "$2,000,000.00",
+    "$900,000.00",
+    "$1,000,000.00",
+    "$500,000.00",
+    "$1,100,000.00"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies $1,000,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 74(d)"
+  ]
+}

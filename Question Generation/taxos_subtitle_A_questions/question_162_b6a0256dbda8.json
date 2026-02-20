@@ -1,0 +1,23 @@
+{
+  "id": "b6a0256dbda8",
+  "section": "162",
+  "citation": "I.R.C. \u00a7 162(a)",
+  "type": "Calculation - Business Expenses",
+  "scenario": "ABC LLC incurred the following expenses: Political Contributions: $4,936.38, Traffic Fines: $2,128.87, Bribes: $1,340.68, Office Supplies: $4,017.19, Employee Salaries: $5,342.08.",
+  "question": "Calculate the total deductible trade or business expenses under I.R.C. \u00a7 162.",
+  "difficulty": 2,
+  "choices": [
+    "$9,359.27",
+    "$17,765.20",
+    "$4,679.64",
+    "$8,405.93"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "Only ordinary and necessary business expenses are deductible. Fines, bribes, and personal expenses are not. Total: $9,359.27.",
+  "reasoning": "Summed deductible items.",
+  "source_rules": [
+    "I.R.C. \u00a7 162(a)",
+    "I.R.C. \u00a7 162(c)",
+    "I.R.C. \u00a7 162(f)"
+  ]
+}

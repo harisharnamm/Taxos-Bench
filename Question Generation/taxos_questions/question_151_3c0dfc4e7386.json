@@ -1,0 +1,22 @@
+{
+  "id": "3c0dfc4e7386",
+  "section": "151",
+  "citation": "I.R.C. \u00a7 151(d)(5)(C)(iii)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 151(d)(5)(C)(iii) is discussed as follows: 'I.R.C. \u00a7 151(d)(5)(C)(iii)Limitation Based on Modified Adjusted Gross IncomeI.R.C. \u00a7 151(d)(5)(C)(ii...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 151(d)(5)(C)(iii)?",
+  "difficulty": 1,
+  "choices": [
+    "94.0%",
+    "6.0%",
+    "9.0%",
+    "0.0%",
+    "16.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 6.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 151(d)(5)(C)(iii)"
+  ]
+}

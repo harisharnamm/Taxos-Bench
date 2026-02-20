@@ -1,0 +1,22 @@
+{
+  "id": "f36053e5fe50",
+  "section": "965",
+  "citation": "I.R.C. \u00a7 965(c)(1)(B)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 965(c)(1)(B) is discussed as follows: 'I.R.C. \u00a7 965(c)(1)(B)\u2014the United States shareholder's 15.5 percent rate equivalent percentage of so ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 965(c)(1)(B)?",
+  "difficulty": 1,
+  "choices": [
+    "5.5%",
+    "25.5%",
+    "15.5%",
+    "84.5%",
+    "23.2%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 15.5%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 965(c)(1)(B)"
+  ]
+}

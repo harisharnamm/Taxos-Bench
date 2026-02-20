@@ -1,0 +1,22 @@
+{
+  "id": "390cd97bf0a0",
+  "section": "274",
+  "citation": "I.R.C. \u00a7 274(j)(3)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 274(j)(3) is discussed as follows: 'I.R.C. \u00a7 274(j)(3)Definitions\u2014For  purposes of this subsection\u2014I.R.C. \u00a7 274(j)(3)(A)Employee Achieve...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 274(j)(3)?",
+  "difficulty": 1,
+  "choices": [
+    "$200.00",
+    "$440.00",
+    "$360.00",
+    "$400.00",
+    "$800.00"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies $400.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 274(j)(3)"
+  ]
+}

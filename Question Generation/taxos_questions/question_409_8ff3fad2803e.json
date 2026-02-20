@@ -1,0 +1,21 @@
+{
+  "id": "8ff3fad2803e",
+  "section": "409",
+  "citation": "I.R.C. \u00a7 409(l)(4)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 409(l)(4) is discussed as follows: 'I.R.C. \u00a7 409(l)(4)Application To Controlled Group Of CorporationsI.R.C. \u00a7 409(l)(4)(A)In General\u2014For...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 409(l)(4)?",
+  "difficulty": 1,
+  "choices": [
+    "60.0%",
+    "40.0%",
+    "50.0%",
+    "75.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 409(l)(4)"
+  ]
+}

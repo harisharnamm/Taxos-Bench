@@ -1,0 +1,22 @@
+{
+  "id": "f5fa7e10b06d",
+  "section": "527",
+  "citation": "I.R.C. \u00a7 527(i)(5)(B)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 527(i)(5)(B) is discussed as follows: 'I.R.C. \u00a7 527(i)(5)(B)\u2014which reasonably anticipates that it will not have   gross receipts of $25,000...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 527(i)(5)(B)?",
+  "difficulty": 1,
+  "choices": [
+    "$22,500.00",
+    "$50,000.00",
+    "$25,000.00",
+    "$12,500.00",
+    "$27,500.00"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies $25,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 527(i)(5)(B)"
+  ]
+}

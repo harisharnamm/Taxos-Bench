@@ -1,0 +1,22 @@
+{
+  "id": "225aacaa6371",
+  "section": "164",
+  "citation": "I.R.C. \u00a7 164(b)(7)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 164(b)(7) is discussed as follows: 'I.R.C. \u00a7 164(b)(7)Applicable Limitation Amount\u2014Editor's Note:Pub. L. 119-21, Sec. 70120(b), added pa...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 164(b)(7)?",
+  "difficulty": 1,
+  "choices": [
+    "$550,000.00",
+    "$1,000,000.00",
+    "$450,000.00",
+    "$500,000.00",
+    "$250,000.00"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies $500,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 164(b)(7)"
+  ]
+}

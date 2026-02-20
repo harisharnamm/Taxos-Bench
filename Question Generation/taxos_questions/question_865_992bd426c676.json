@@ -1,0 +1,21 @@
+{
+  "id": "992bd426c676",
+  "section": "865",
+  "citation": "I.R.C. \u00a7 865(g)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 865(g) is discussed as follows: 'I.R.C. \u00a7 865(g)United States Resident; Nonresident\u2014For  purposes of this section\u2014I.R.C. \u00a7 865(g)(1)I...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 865(g)?",
+  "difficulty": 1,
+  "choices": [
+    "60.0%",
+    "40.0%",
+    "50.0%",
+    "75.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 865(g)"
+  ]
+}

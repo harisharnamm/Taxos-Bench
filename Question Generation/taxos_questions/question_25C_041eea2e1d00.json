@@ -1,0 +1,22 @@
+{
+  "id": "041eea2e1d00",
+  "section": "25C",
+  "citation": "I.R.C. \u00a7 25C(b)(6)(A)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 25C(b)(6)(A) is discussed as follows: 'I.R.C. \u00a7 25C(b)(6)(A)Dollar Limitation\u2014The amount of the credit allowed under this section by reason...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 25C(b)(6)(A)?",
+  "difficulty": 1,
+  "choices": [
+    "$150.00",
+    "$300.00",
+    "$165.00",
+    "$135.00",
+    "$75.00"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies $150.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 25C(b)(6)(A)"
+  ]
+}

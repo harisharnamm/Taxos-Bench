@@ -1,0 +1,22 @@
+{
+  "id": "ca642d4b1120",
+  "section": "481",
+  "citation": "I.R.C. \u00a7 481(b)(2)(A)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 481(b)(2)(A) is discussed as follows: 'I.R.C. \u00a7 481(b)(2)(A)\u2014the  increase in taxable income for the year of the change which results solel...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 481(b)(2)(A)?",
+  "difficulty": 1,
+  "choices": [
+    "$3,300.00",
+    "$2,700.00",
+    "$6,000.00",
+    "$1,500.00",
+    "$3,000.00"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies $3,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 481(b)(2)(A)"
+  ]
+}

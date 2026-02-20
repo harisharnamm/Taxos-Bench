@@ -1,0 +1,22 @@
+{
+  "id": "128f4c0ea034",
+  "section": "63",
+  "citation": "I.R.C. \u00a7 63(f)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 63(f) is discussed as follows: 'I.R.C. \u00a7 63(f)Aged Or Blind Additional AmountsI.R.C. \u00a7 63(f)(1)Additional Amounts For The Aged\u2014The t...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 63(f)?",
+  "difficulty": 1,
+  "choices": [
+    "$540.00",
+    "$660.00",
+    "$1,200.00",
+    "$300.00",
+    "$600.00"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies $600.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 63(f)"
+  ]
+}

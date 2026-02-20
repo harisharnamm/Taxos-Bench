@@ -1,0 +1,1086 @@
+[
+  {
+    "section": "45R",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)"
+    ],
+    "rule_type": "condition",
+    "title": "Rule",
+    "text": "For purposes of section38, in the case of an eligible small employer, the small employer health insurance credit determined under this section for any taxable year in the credit period is the amount determined under subsection(b).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of section38, in the case of an eligible small employer, the small employer health insurance credit determined under this section for any taxable year in the credit period is the amount determined under subsection(b)."
+    },
+    "cross_references": [
+      {
+        "section": "38",
+        "reason": "For purposes of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45R(a)General Rule\u2014For purposes of section38, in the case of an eligible small employer, the small employer health insurance credit\n                  determined under this section for any taxable year in the credit period is the amount\n                  determined under subsection(b).",
+    "definitions": null
+  },
+  {
+    "section": "45R",
+    "subsection": "(b)",
+    "source_subsections": [
+      "(b)",
+      "(b)(1)",
+      "(b)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Insurance Credit Amount",
+    "text": "Subject to subsection(c), the amount determined under this subsection with respect to any eligible small employer is equal to 50 percent (35 percent in the case of a tax-exempt eligible small employer) of the lesser of\u2014\u2014the aggregate amount of nonelective contributions the employer made on behalf of its employees during the taxable year under the arrangement described in subsection(d)(4)for premiums for qualified health plans offered by the employer to its employees through an Exchange, or\u2014the aggregate amount of nonelective contributions which the employer would have made during the taxable year under the arrangement if each employee taken into account under paragraph(1)had enrolled in a qualified health plan which had a premium equal to the average premium (as determined by the Secretary of Health and Human Services) for the small group market in the rating area in which the employee enrolls for coverage.",
+    "conditions": [
+      "each employee taken into account under paragraph(1)had enrolled in a qualified health plan which had a premium equal to the average premium (as determined by the Secretary of Health and Human Services) for the small group market in the rating area in which the employee enrolls for coverage."
+    ],
+    "computations": [
+      {
+        "operation": "min",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.35,
+        "text": "35 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "each employee taken into account under paragraph(1)had enrolled in a qualified health plan which had a premium equal to the average premium (as determined by the Secretary of Health and Human Services) for the small group market in the rating area in which the employee enrolls for coverage."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Subject to subsection(c), the amount determined under this subsection with respect to any eligible small employer is equal to 50 percent (35 percent in the case of a tax-exempt eligible small employer) of the lesser of\u2014\u2014the aggregate amount of nonelective contributions the employer made on behalf of its employees during the taxable year under the arrangement described in subsection(d)(4)for premiums for qualified health plans offered by the employer to its employees through an Exchange, or\u2014the aggregate amount of nonelective contributions which the employer would have made during the taxable year under the arrangement"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45R(b)Health Insurance Credit Amount\u2014Subject to subsection(c), the amount determined under this subsection with respect to any eligible small employer\n                  is equal to 50 percent (35 percent in the case of a tax-exempt eligible small employer)\n                  of the lesser of\u2014I.R.C. \u00a7 45R(b)(1)\u2014the aggregate amount of nonelective contributions the employer made on behalf of its\n                     employees during the taxable year under the arrangement described in subsection(d)(4)for premiums for qualified health plans offered by the employer to its employees\n                     through an Exchange, orI.R.C. \u00a7 45R(b)(2)\u2014the aggregate amount of nonelective contributions which the employer would have made\n                     during the taxable year under the arrangement if each employee taken into account\n                     under paragraph(1)had enrolled in a qualified health plan which had a premium equal to the average\n                     premium (as determined by the Secretary of Health and Human Services) for the small\n                     group market in the rating area in which the employee enrolls for coverage.",
+    "definitions": null
+  },
+  {
+    "section": "45R",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "Such amount multiplied by a fraction the numerator of which is the total number of full-time equivalent employees of the employer in excess of 10 and the denominator of which is 15.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Such amount multiplied by a fraction the numerator of which is the total number of full-time equivalent employees of the employer in excess of 10 and the denominator of which is 15."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45R(c)(1)\u2014Such amount multiplied by a fraction the numerator of which is the total number of\n                     full-time equivalent employees of the employer in excess of 10 and the denominator\n                     of which is 15.",
+    "definitions": null
+  },
+  {
+    "section": "45R",
+    "subsection": "(c)(2)",
+    "source_subsections": [
+      "(c)(2)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "Such amount multiplied by a fraction the numerator of which is the average annual wages of the employer in excess of the dollar amount in effect under subsection(d)(3)(B)and the denominator of which is such dollar amount.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Such amount multiplied by a fraction the numerator of which is the average annual wages of the employer in excess of the dollar amount in effect under subsection(d)(3)(B)and the denominator of which is such dollar amount."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45R(c)(2)\u2014Such amount multiplied by a fraction the numerator of which is the average annual\n                     wages of the employer in excess of the dollar amount in effect under subsection(d)(3)(B)and the denominator of which is such dollar amount.",
+    "definitions": null
+  },
+  {
+    "section": "45R",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)",
+      "(d)(1)(A)",
+      "(d)(1)(B)",
+      "(d)(1)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201celigible small employer\u201d means, with respect to any taxable year, an employer\u2014\u2014which has no more than 25 full-time equivalent employees for the taxable year,\u2014the average annual wages of which do not exceed an amount equal to twice the dollar amount in effect under paragraph(3)(B)for the taxable year, and\u2014which has in effect an arrangement described in paragraph(4).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201celigible small employer\u201d means, with respect to any taxable year, an employer\u2014\u2014which has no more than 25 full-time equivalent employees for the taxable year,\u2014the average annual wages of which do not exceed an amount equal to twice the dollar amount in effect under paragraph(3)(B)for the taxable year, and\u2014which has in effect an arrangement described in paragraph(4)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45R(d)(1)In General\u2014The term \u201celigible small employer\u201d means, with respect to any taxable year, an employer\u2014I.R.C. \u00a7 45R(d)(1)(A)\u2014which has no more than 25 full-time equivalent employees for the taxable year,I.R.C. \u00a7 45R(d)(1)(B)\u2014the average annual wages of which do not exceed an amount equal to twice the dollar\n                        amount in effect under paragraph(3)(B)for the taxable year, andI.R.C. \u00a7 45R(d)(1)(C)\u2014which has in effect an arrangement described in paragraph(4).",
+    "definitions": null
+  },
+  {
+    "section": "45R",
+    "subsection": "(d)(2)(A)",
+    "source_subsections": [
+      "(d)(2)(A)",
+      "(d)(2)(A)(i)",
+      "(d)(2)(A)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cfull-time equivalent employees\u201d means a number of employees equal to the number determined by dividing\u2014\u2014the total number of hours of service for which wages were paid by the employer to employees during the taxable year, by\u20142,080.Such number shall be rounded to the next lowest whole number if not otherwise a whole number.",
+    "conditions": [
+      "not otherwise a whole number."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "not otherwise a whole number."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cfull-time equivalent employees\u201d means a number of employees equal to the number determined by dividing\u2014\u2014the total number of hours of service for which wages were paid by the employer to employees during the taxable year, by\u20142,080.Such number shall be rounded to the next lowest whole number"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45R(d)(2)(A)In General\u2014The term \u201cfull-time equivalent employees\u201d\n                        means a number of employees equal to the number determined by dividing\u2014I.R.C. \u00a7 45R(d)(2)(A)(i)\u2014the total number of hours of service for which wages were paid by the employer to\n                           employees during the taxable year, byI.R.C. \u00a7 45R(d)(2)(A)(ii)\u20142,080.Such number shall be rounded to the next lowest whole number if not otherwise a whole\n                           number.",
+    "definitions": {
+      "term": "full-time equivalent employees",
+      "requirements": [
+        "a number of employees equal to the number determined by dividing\u2014\u2014the total number of hours of service for which wages were paid by the employer to employees during the taxable year, by\u20142,080.Such number shall be rounded to the next lowest whole number if not otherwise a whole number."
+      ]
+    }
+  },
+  {
+    "section": "45R",
+    "subsection": "(d)(2)(B)",
+    "source_subsections": [
+      "(d)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Hours Not Counted",
+    "text": "If an employee works in excess of 2,080 hours of service during any taxable year, such excess shall not be taken into account under subparagraph(A).",
+    "conditions": [
+      "an employee works in excess of 2,080 hours of service during any taxable year, such excess shall not be taken into account under subparagraph(A)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "an employee works in excess of 2,080 hours of service during any taxable year, such excess shall not be taken into account under subparagraph(A)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45R(d)(2)(B)Excess Hours Not Counted\u2014If an employee works in excess of 2,080 hours of service during any taxable year,\n                        such excess shall not be taken into account under subparagraph(A).",
+    "definitions": null
+  },
+  {
+    "section": "45R",
+    "subsection": "(d)(2)(C)",
+    "source_subsections": [
+      "(d)(2)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Service",
+    "text": "The Secretary, in consultation with the Secretary of Labor, shall prescribe such regulations, rules, and guidance as may be necessary to determine the hours of service of an employee, including rules for the application of this paragraph to employees who are not compensated on an hourly basis.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary, in consultation with the Secretary of Labor, shall prescribe such regulations, rules, and guidance as may be necessary to determine the hours of service of an employee, including rules for the application of this paragraph to employees who are not compensated on an hourly basis."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45R(d)(2)(C)Hours Of Service\u2014The Secretary, in consultation with the Secretary of Labor, shall prescribe such regulations,\n                        rules, and guidance as may be necessary to determine the hours of service of an employee,\n                        including rules for the application of this paragraph to employees who are not compensated\n                        on an hourly basis.",
+    "definitions": null
+  },
+  {
+    "section": "45R",
+    "subsection": "(d)(3)(A)",
+    "source_subsections": [
+      "(d)(3)(A)",
+      "(d)(3)(A)(i)",
+      "(d)(3)(A)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The average annual wages of an eligible small employer for any taxable year is the amount determined by dividing\u2014\u2014the aggregate amount of wages which were paid by the employer to employees during the taxable year, by\u2014the number of full-time equivalent employees of the employee determined under paragraph(2)for the taxable year.Such amount shall be rounded to the next lowest multiple of $1,000 if not otherwise such a multiple.",
+    "conditions": [
+      "not otherwise such a multiple."
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 1000,
+        "text": "$1,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "not otherwise such a multiple."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The average annual wages of an eligible small employer for any taxable year is the amount determined by dividing\u2014\u2014the aggregate amount of wages which were paid by the employer to employees during the taxable year, by\u2014the number of full-time equivalent employees of the employee determined under paragraph(2)for the taxable year.Such amount shall be rounded to the next lowest multiple of $1,000"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45R(d)(3)(A)In General\u2014The average annual wages of an eligible small employer for any taxable year is the\n                        amount determined by dividing\u2014I.R.C. \u00a7 45R(d)(3)(A)(i)\u2014the aggregate amount of wages which were paid by the employer to employees during\n                           the taxable year, byI.R.C. \u00a7 45R(d)(3)(A)(ii)\u2014the number of full-time equivalent employees of the employee determined under paragraph(2)for the taxable year.Such amount shall be rounded to the next lowest multiple of $1,000 if not otherwise\n                           such a multiple.",
+    "definitions": null
+  },
+  {
+    "section": "45R",
+    "subsection": "(d)(3)(B)(i)",
+    "source_subsections": [
+      "(d)(3)(B)(i)"
+    ],
+    "rule_type": "condition",
+    "title": ", 2011, 2012, And 2013",
+    "text": "The dollar amount in effect under this paragraph for taxable years beginning in 2010, 2011, 2012, or 2013 is $25,000.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 25000,
+        "text": "$25,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The dollar amount in effect under this paragraph for taxable years beginning in 2010, 2011, 2012, or 2013 is $25,000."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45R(d)(3)(B)(i)2010, 2011, 2012, And 2013\u2014The dollar amount in effect under this paragraph for taxable years beginning in 2010,\n                           2011, 2012, or 2013 is $25,000.",
+    "definitions": null
+  },
+  {
+    "section": "45R",
+    "subsection": "(d)(3)(B)(ii)",
+    "source_subsections": [
+      "(d)(3)(B)(ii)"
+    ],
+    "rule_type": "computation",
+    "title": "Years",
+    "text": "In the case of a taxable year beginning in a calendar year after 2013, the dollar amount in effect under this paragraph shall be equal to $25,000, multiplied by the cost-of-living adjustment under section1(f)(3)for the calendar year, determined by substituting \u201ccalendar year 2012\u201d for \u201ccalendar year 2016\u201d in subparagraph(A)(ii)thereof.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 25000,
+        "text": "$25,000,"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a taxable year beginning in a calendar year after 2013, the dollar amount in effect under this paragraph shall be equal to $25,000, multiplied by the cost-of-living adjustment under section1(f)(3)for the calendar year, determined by substituting \u201ccalendar year 2012\u201d for \u201ccalendar year 2016\u201d in subparagraph(A)(ii)thereof."
+    },
+    "cross_references": [
+      {
+        "section": "1(f)(3)",
+        "reason": "st-of-living adjustment under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45R(d)(3)(B)(ii)Subsequent Years\u2014In the case of a taxable year beginning in a calendar year after 2013, the dollar\n                           amount in effect under this paragraph shall be equal to $25,000, multiplied by the\n                           cost-of-living adjustment under section1(f)(3)for the calendar year, determined by substituting \u201ccalendar year 2012\u201d for \u201ccalendar\n                           year 2016\u201d in subparagraph(A)(ii)thereof.",
+    "definitions": null
+  },
+  {
+    "section": "45R",
+    "subsection": "(d)(4)",
+    "source_subsections": [
+      "(d)(4)"
+    ],
+    "rule_type": "condition",
+    "title": "Arrangement",
+    "text": "An arrangement is described in this paragraph if it requires an eligible small employer to make a nonelective contribution on behalf of each employee who enrolls in a qualified health plan offered to employees by the employer through an exchange in an amount equal to a uniform percentage (not less than 50 percent) of the premium cost of the qualified health plan.",
+    "conditions": [
+      "it requires an eligible small employer to make a nonelective contribution on behalf of each employee who enrolls in a qualified health plan offered to employees by the employer through an exchange in an amount equal to a uniform percentage (not less than 50 percent) of the premium cost of the qualified health plan."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "it requires an eligible small employer to make a nonelective contribution on behalf of each employee who enrolls in a qualified health plan offered to employees by the employer through an exchange in an amount equal to a uniform percentage (not less than 50 percent) of the premium cost of the qualified health plan."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "An arrangement is described in this paragraph"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45R(d)(4)Contribution Arrangement\u2014An arrangement is described in this paragraph if it requires an eligible small employer\n                     to make a nonelective contribution on behalf of each employee who enrolls in a qualified\n                     health plan offered to employees by the employer through an exchange in an amount\n                     equal to a uniform percentage (not less than 50 percent) of the premium cost of the\n                     qualified health plan.",
+    "definitions": null
+  },
+  {
+    "section": "45R",
+    "subsection": "(d)(5)(A)",
+    "source_subsections": [
+      "(d)(5)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The number of hours of service worked by, and wages paid to, a seasonal worker of an employer shall not be taken into account in determining the full-time equivalent employees and average annual wages of the employer unless the worker works for the employer on more than 120 days during the taxable year.",
+    "conditions": [
+      "the worker works for the employer on more than 120 days during the taxable year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "the worker works for the employer on more than 120 days during the taxable year."
+      ],
+      "except": [],
+      "result": "The number of hours of service worked by, and wages paid to, a seasonal worker of an employer shall not be taken into account in determining the full-time equivalent employees and average annual wages of the employer"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45R(d)(5)(A)In General\u2014The number of hours of service worked by, and wages paid to, a seasonal worker of\n                        an employer shall not be taken into account in determining the full-time equivalent\n                        employees and average annual wages of the employer unless the worker works for the\n                        employer on more than 120 days during the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "45R",
+    "subsection": "(d)(5)(B)",
+    "source_subsections": [
+      "(d)(5)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Of Seasonal Worker",
+    "text": "The term \u201cseasonal worker\u201d means a worker who performs labor or services on a seasonal basis as defined by the Secretary of Labor, including workers covered by section500.20(s)(1) of title 29, Code of Federal Regulations and retail workers employed exclusively during holiday seasons.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cseasonal worker\u201d means a worker who performs labor or services on a seasonal basis as defined by the Secretary of Labor, including workers covered by section500.20(s)(1) of title 29, Code of Federal Regulations and retail workers employed exclusively during holiday seasons."
+    },
+    "cross_references": [
+      {
+        "section": "500",
+        "reason": "including workers covered by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45R(d)(5)(B)Definition Of Seasonal Worker\u2014The term \u201cseasonal worker\u201d means a worker who performs labor or services on a seasonal\n                        basis as defined by the Secretary of Labor, including workers covered by section500.20(s)(1) of title 29, Code of Federal Regulations and retail workers employed exclusively\n                        during holiday seasons.",
+    "definitions": {
+      "term": "seasonal worker",
+      "requirements": [
+        "a worker who performs labor or services on a seasonal basis as defined by the Secretary of Labor, including workers covered by section500.20(s)(1) of title 29, Code of Federal Regulations and retail workers employed exclusively during holiday seasons."
+      ]
+    }
+  },
+  {
+    "section": "45R",
+    "subsection": "(e)(1)(A)",
+    "source_subsections": [
+      "(e)(1)(A)",
+      "(e)(1)(A)(i)",
+      "(e)(1)(A)(ii)",
+      "(e)(1)(A)(iii)",
+      "(e)(1)(A)(iv)"
+    ],
+    "rule_type": "definition",
+    "title": "Employees Excluded",
+    "text": "The term \u201demployee\u201d shall not include\u2014\u2014an employee within the meaning of section401(c)(1),\u2014any 2-percent shareholder (as defined in section1372(b)) of an eligible small business which is an S corporation,\u2014any 5-percent owner (as defined in section416(i)(1)(B)(i)) of an eligible small business, or\u2014any individual who bears any of the relationships described in subparagraphs(A)through(G)of section152(d)(2)to, or is a dependent described in section152(d)(2)(H)of, an individual described in clause(i),(ii), or(iii).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201demployee\u201d shall not include\u2014\u2014an employee within the meaning of section401(c)(1),\u2014any 2-percent shareholder (as defined in section1372(b)) of an eligible small business which is an S corporation,\u2014any 5-percent owner (as defined in section416(i)(1)(B)(i)) of an eligible small business, or\u2014any individual who bears any of the relationships described in subparagraphs(A)through(G)of section152(d)(2)to, or is a dependent described in section152(d)(2)(H)of, an individual described in clause(i),(ii), or(iii)."
+    },
+    "cross_references": [
+      {
+        "section": "401(c)(1)",
+        "reason": "mployee within the meaning of..."
+      },
+      {
+        "section": "1372(b)",
+        "reason": "nt shareholder (as defined in..."
+      },
+      {
+        "section": "416(i)(1)(B)(i)",
+        "reason": "-percent owner (as defined in..."
+      },
+      {
+        "section": "152(d)(2)",
+        "reason": "subparagraphs(A)through(G)of..."
+      },
+      {
+        "section": "152(d)(2)(H)",
+        "reason": "r is a dependent described in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45R(e)(1)(A)Certain Employees Excluded\u2014The term \u201demployee\u201d shall not include\u2014I.R.C. \u00a7 45R(e)(1)(A)(i)\u2014an employee within the meaning of section401(c)(1),I.R.C. \u00a7 45R(e)(1)(A)(ii)\u2014any 2-percent shareholder (as defined in section1372(b))\n                           of an eligible small business which is an S corporation,I.R.C. \u00a7 45R(e)(1)(A)(iii)\u2014any 5-percent owner (as defined in section416(i)(1)(B)(i))\n                           of an eligible small business, orI.R.C. \u00a7 45R(e)(1)(A)(iv)\u2014any individual who bears any of the relationships described in subparagraphs(A)through(G)of section152(d)(2)to, or is a dependent described in section152(d)(2)(H)of, an individual described in clause(i),(ii), or(iii).",
+    "definitions": null
+  },
+  {
+    "section": "45R",
+    "subsection": "(e)(1)(B)",
+    "source_subsections": [
+      "(e)(1)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Employees",
+    "text": "The term \u201cemployee\u201d shall include a leased employee within the meaning of section414(n).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cemployee\u201d shall include a leased employee within the meaning of section414(n)."
+    },
+    "cross_references": [
+      {
+        "section": "414(n)",
+        "reason": "mployee within the meaning of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45R(e)(1)(B)Leased Employees\u2014The term \u201cemployee\u201d shall include a leased employee within the meaning of section414(n).",
+    "definitions": null
+  },
+  {
+    "section": "45R",
+    "subsection": "(e)(2)",
+    "source_subsections": [
+      "(e)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Period",
+    "text": "The term \u201ccredit period\u201d means, with respect to any eligible small employer, the 2-consecutive-taxable year period beginning with the 1st taxable year in which the employer (or any predecessor) offers 1 or more qualified health plans to its employees through an Exchange.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201ccredit period\u201d means, with respect to any eligible small employer, the 2-consecutive-taxable year period beginning with the 1st taxable year in which the employer (or any predecessor) offers 1 or more qualified health plans to its employees through an Exchange."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45R(e)(2)Credit Period\u2014The term \u201ccredit period\u201d means, with respect to any eligible small employer, the 2-consecutive-taxable\n                     year period beginning with the 1st taxable year in which the employer (or any predecessor)\n                     offers 1 or more qualified health plans to its employees through an Exchange.",
+    "definitions": null
+  },
+  {
+    "section": "45R",
+    "subsection": "(e)(3)",
+    "source_subsections": [
+      "(e)(3)"
+    ],
+    "rule_type": "definition",
+    "title": "Contribution",
+    "text": "The term \u201cnonelective contribution\u201d means an employer contribution other than an employer contribution pursuant to a salary reduction arrangement.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cnonelective contribution\u201d means an employer contribution other than an employer contribution pursuant to a salary reduction arrangement."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45R(e)(3)Nonelective Contribution\u2014The term \u201cnonelective contribution\u201d means an employer contribution other than an employer\n                     contribution pursuant to a salary reduction arrangement.",
+    "definitions": {
+      "term": "nonelective contribution",
+      "requirements": [
+        "an employer contribution other than an employer contribution pursuant to a salary reduction arrangement."
+      ]
+    }
+  },
+  {
+    "section": "45R",
+    "subsection": "(e)(4)",
+    "source_subsections": [
+      "(e)(4)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "The term \u201cwages\u201d has the meaning given such term by section3121(a)(determined without regard to any dollar limitation contained in such section).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cwages\u201d has the meaning given such term by section3121(a)(determined without regard to any dollar limitation contained in such section)."
+    },
+    "cross_references": [
+      {
+        "section": "3121(a)",
+        "reason": "he meaning given such term by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45R(e)(4)Wages\u2014The term \u201cwages\u201d has the meaning given such term by section3121(a)(determined without regard to any dollar limitation contained in such section).",
+    "definitions": null
+  },
+  {
+    "section": "45R",
+    "subsection": "(e)(5)(A)",
+    "source_subsections": [
+      "(e)(5)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "Rules",
+    "text": "All employers treated as a single employer under subsection(b),(c),(m), or(o)of section414shall be treated as a single employer for purposes of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "All employers treated as a single employer under subsection(b),(c),(m), or(o)of section414shall be treated as a single employer for purposes of this section."
+    },
+    "cross_references": [
+      {
+        "section": "414s",
+        "reason": "ubsection(b),(c),(m), or(o)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45R(e)(5)(A)Aggregation Rules\u2014All employers treated as a single employer under subsection(b),(c),(m), or(o)of section414shall be treated as a single employer for purposes of this section.",
+    "definitions": null
+  },
+  {
+    "section": "45R",
+    "subsection": "(e)(5)(B)",
+    "source_subsections": [
+      "(e)(5)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Rules",
+    "text": "Rules similar to the rules of subsections(c),(d), and(e)of section52shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules of subsections(c),(d), and(e)of section52shall apply."
+    },
+    "cross_references": [
+      {
+        "section": "52s",
+        "reason": "subsections(c),(d), and(e)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45R(e)(5)(B)Other Rules\u2014Rules similar to the rules of subsections(c),(d), and(e)of section52shall apply.",
+    "definitions": null
+  },
+  {
+    "section": "45R",
+    "subsection": "(f)(1)",
+    "source_subsections": [
+      "(f)(1)",
+      "(f)(1)(A)",
+      "(f)(1)(B)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "In the case of a tax-exempt eligible small employer, there shall be treated as a credit allowable under subpart C (and not allowable under this subpart) the lesser of\u2014\u2014the amount of the credit determined under this section with respect to such employer, or\u2014the amount of the payroll taxes of the employer during the calendar year in which the taxable year begins.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "min",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a tax-exempt eligible small employer, there shall be treated as a credit allowable under subpart C (and not allowable under this subpart) the lesser of\u2014\u2014the amount of the credit determined under this section with respect to such employer, or\u2014the amount of the payroll taxes of the employer during the calendar year in which the taxable year begins."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45R(f)(1)In General\u2014In the case of a tax-exempt eligible small employer, there shall be treated as a credit\n                     allowable under subpart C (and not allowable under this subpart) the lesser of\u2014I.R.C. \u00a7 45R(f)(1)(A)\u2014the amount of the credit determined under this section with respect to such employer,\n                        orI.R.C. \u00a7 45R(f)(1)(B)\u2014the amount of the payroll taxes of the employer during the calendar year in which\n                        the taxable year begins.",
+    "definitions": null
+  },
+  {
+    "section": "45R",
+    "subsection": "(f)(2)",
+    "source_subsections": [
+      "(f)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Eligible Small Employer",
+    "text": "For purposes of this section, the term \u201ctax-exempt eligible small employer\u201d means an eligible small employer which is any organization described in section501(c)which is exempt from taxation under section501(a).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u201ctax-exempt eligible small employer\u201d means an eligible small employer which is any organization described in section501(c)which is exempt from taxation under section501(a)."
+    },
+    "cross_references": [
+      {
+        "section": "501(c)",
+        "reason": "any organization described in..."
+      },
+      {
+        "section": "501(a)",
+        "reason": "is exempt from taxation under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45R(f)(2)Tax-Exempt Eligible Small Employer\u2014For purposes of this section, the term \u201ctax-exempt eligible small employer\u201d means\n                     an eligible small employer which is any organization described in section501(c)which is exempt from taxation under section501(a).",
+    "definitions": {
+      "term": "tax-exempt eligible small employer",
+      "requirements": [
+        "an eligible small employer which is any organization described in section501(c)which is exempt from taxation under section501(a)."
+      ]
+    }
+  },
+  {
+    "section": "45R",
+    "subsection": "(f)(3)(A)",
+    "source_subsections": [
+      "(f)(3)(A)",
+      "(f)(3)(A)(i)",
+      "(f)(3)(A)(ii)",
+      "(f)(3)(A)(iii)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cpayroll taxes\u201d means\u2014\u2014amounts required to be withheld from the employees of the tax-exempt eligible small employer under section3401(a),\u2014amounts required to be withheld from such employees under section3101(b), and\u2014amounts of the taxes imposed on the tax-exempt eligible small employer under section3111(b).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cpayroll taxes\u201d means\u2014\u2014amounts required to be withheld from the employees of the tax-exempt eligible small employer under section3401(a),\u2014amounts required to be withheld from such employees under section3101(b), and\u2014amounts of the taxes imposed on the tax-exempt eligible small employer under section3111(b)."
+    },
+    "cross_references": [
+      {
+        "section": "3401(a)",
+        "reason": "eligible small employer under..."
+      },
+      {
+        "section": "3101(b)",
+        "reason": "eld from such employees under..."
+      },
+      {
+        "section": "3111(b)",
+        "reason": "eligible small employer under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45R(f)(3)(A)In General\u2014The term \u201cpayroll taxes\u201d means\u2014I.R.C. \u00a7 45R(f)(3)(A)(i)\u2014amounts required to be withheld from the employees of the tax-exempt eligible small\n                           employer under section3401(a),I.R.C. \u00a7 45R(f)(3)(A)(ii)\u2014amounts required to be withheld from such employees under section3101(b), andI.R.C. \u00a7 45R(f)(3)(A)(iii)\u2014amounts of the taxes imposed on the tax-exempt eligible small employer under section3111(b).",
+    "definitions": null
+  },
+  {
+    "section": "45R",
+    "subsection": "(f)(3)(B)",
+    "source_subsections": [
+      "(f)(3)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Rule",
+    "text": "A rule similar to the rule of section24(d)(2)(C)shall apply for purposes of subparagraph(A).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "A rule similar to the rule of section24(d)(2)(C)shall apply for purposes of subparagraph(A)."
+    },
+    "cross_references": [
+      {
+        "section": "24(d)(2)(C)",
+        "reason": "A rule similar to the rule of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45R(f)(3)(B)Special Rule\u2014A rule similar to the rule of section24(d)(2)(C)shall apply for purposes of subparagraph(A).",
+    "definitions": null
+  },
+  {
+    "section": "45R",
+    "subsection": "(g)(1)",
+    "source_subsections": [
+      "(g)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "Credit Period Required",
+    "text": "The credit shall be determined without regard to whether the taxable year is in a credit period and for purposes of applying this section to taxable years beginning after 2013, no credit period shall be treated as beginning with a taxable year beginning before 2014.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The credit shall be determined without regard to whether the taxable year is in a credit period and for purposes of applying this section to taxable years beginning after 2013, no credit period shall be treated as beginning with a taxable year beginning before 2014."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45R(g)(1)No Credit Period Required\u2014The credit shall be determined without regard to whether the taxable year is in a\n                     credit period and for purposes of applying this section to taxable years beginning\n                     after 2013, no credit period shall be treated as beginning with a taxable year beginning\n                     before 2014.",
+    "definitions": null
+  },
+  {
+    "section": "45R",
+    "subsection": "(g)(2)",
+    "source_subsections": [
+      "(g)(2)",
+      "(g)(2)(A)",
+      "(g)(2)(B)",
+      "(g)(2)(C)"
+    ],
+    "rule_type": "computation",
+    "title": "Of Credit",
+    "text": "The amount of the credit determined under subsection(b)shall be determined\u2014\u2014by substituting \u201c35 percent (25 percent in the case of a tax-exempt eligible small employer)\u201d for \u201c50 percent (35 percent in the case of a tax-exempt eligible small employer)\u201d,\u2014by reference to an eligible small employer's nonelective contributions for premiums paid for health insurance coverage (within the meaning of section9832(b)(1)) of an employee, and\u2014by substituting for the average premium determined under subsection(b)(2)the amount the Secretary of Health and Human Services determines is the average premium for the small group market in the State in which the employer is offering health insurance coverage (or for such area within the State as is specified by the Secretary).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.35,
+        "text": "35 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.25,
+        "text": "25 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.35,
+        "text": "35 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of the credit determined under subsection(b)shall be determined\u2014\u2014by substituting \u201c35 percent (25 percent in the case of a tax-exempt eligible small employer)\u201d for \u201c50 percent (35 percent in the case of a tax-exempt eligible small employer)\u201d,\u2014by reference to an eligible small employer's nonelective contributions for premiums paid for health insurance coverage (within the meaning of section9832(b)(1)) of an employee, and\u2014by substituting for the average premium determined under subsection(b)(2)the amount the Secretary of Health and Human Services determines is the average premium for the small group market in the State in which the employer is offering health insurance coverage (or for such area within the State as is specified by the Secretary)."
+    },
+    "cross_references": [
+      {
+        "section": "9832(b)(1)",
+        "reason": "verage (within the meaning of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45R(g)(2)Amount Of Credit\u2014The amount of the credit determined under subsection(b)shall be determined\u2014I.R.C. \u00a7 45R(g)(2)(A)\u2014by substituting \u201c35 percent (25 percent in the case of a tax-exempt eligible small\n                        employer)\u201d\n                        for \u201c50 percent (35 percent in the case of a tax-exempt eligible small employer)\u201d,I.R.C. \u00a7 45R(g)(2)(B)\u2014by reference to an eligible small employer's nonelective contributions for premiums\n                        paid for health insurance coverage\n                        (within the meaning of section9832(b)(1))\n                        of an employee, andI.R.C. \u00a7 45R(g)(2)(C)\u2014by substituting for the average premium determined under subsection(b)(2)the amount the Secretary of Health and Human Services determines is the average premium\n                        for the small group market in the State in which the employer is offering health insurance\n                        coverage (or for such area within the State as is specified by the Secretary).",
+    "definitions": null
+  },
+  {
+    "section": "45R",
+    "subsection": "(g)(3)",
+    "source_subsections": [
+      "(g)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Arrangement",
+    "text": "An arrangement shall not fail to meet the requirements of subsection(d)(4)solely because it provides for the offering of insurance outside of an Exchange.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "An arrangement shall not fail to meet the requirements of subsection(d)(4)solely because it provides for the offering of insurance outside of an Exchange."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45R(g)(3)Contribution Arrangement\u2014An arrangement shall not fail to meet the requirements of subsection(d)(4)solely because it provides for the offering of insurance outside of an Exchange.",
+    "definitions": null
+  },
+  {
+    "section": "45R",
+    "subsection": "(h)",
+    "source_subsections": [
+      "(h)"
+    ],
+    "rule_type": "definition",
+    "title": "Definitions",
+    "text": "Any term used in this section which is also used in the Public Health Service Act or subtitle A of title I of the Patient Protection and Affordable Care Act shall have the meaning given such term by such Act or subtitle.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Any term used in this section which is also used in the Public Health Service Act or subtitle A of title I of the Patient Protection and Affordable Care Act shall have the meaning given such term by such Act or subtitle."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45R(h)Insurance Definitions\u2014Any term used in this section which is also used in the Public Health Service Act\n                  or subtitle A of title I of the Patient Protection and Affordable Care Act shall have\n                  the meaning given such term by such Act or subtitle.",
+    "definitions": null
+  },
+  {
+    "section": "45R",
+    "subsection": "(i)",
+    "source_subsections": [
+      "(i)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section, including regulations to prevent the avoidance of the 2-year limit on the credit period through the use of successor entities and the avoidance of the limitations under subsection(c)through the use of multiple entities.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section, including regulations to prevent the avoidance of the 2-year limit on the credit period through the use of successor entities and the avoidance of the limitations under subsection(c)through the use of multiple entities."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45R(i)Regulations\u2014The Secretary shall prescribe such regulations as may be necessary to carry out the\n                  provisions of this section, including regulations to prevent the avoidance of the\n                  2-year limit on the credit period through the use of successor entities and the avoidance\n                  of the limitations under subsection(c)through the use of multiple entities.",
+    "definitions": null
+  }
+]

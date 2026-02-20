@@ -1,0 +1,1980 @@
+[
+  {
+    "section": "45Y",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)",
+      "(a)(1)(A)",
+      "(a)(1)(A)(i)",
+      "(a)(1)(A)(ii)",
+      "(a)(1)(A)(ii)(I)",
+      "(a)(1)(A)(ii)(II)",
+      "(a)(1)(B)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "For purposes ofsection 38, the clean electricity production credit for any taxable year is an amount equal to the product of\u2014\u2014the kilowatt hours of electricity\u2014\u2014produced by the taxpayer at a qualified facility, and.R.C. \u00a7 45Y(a)(1)(A)(ii)(I)\u2014sold by the taxpayer to an unrelated person during the taxable year, or\u2014in the case of a qualified facility which is equipped with a metering device which is owned and operated by an unrelated person, sold, consumed, or stored by the taxpayer during the taxable year, multiplied by\u2014the applicable amount with respect to such qualified facility.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes ofsection 38, the clean electricity production credit for any taxable year is an amount equal to the product of\u2014\u2014the kilowatt hours of electricity\u2014\u2014produced by the taxpayer at a qualified facility, and.R.C. \u00a7 45Y(a)(1)(A)(ii)(I)\u2014sold by the taxpayer to an unrelated person during the taxable year, or\u2014in the case of a qualified facility which is equipped with a metering device which is owned and operated by an unrelated person, sold, consumed, or stored by the taxpayer during the taxable year, multiplied by\u2014the applicable amount with respect to such qualified facility."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(a)(1)In General\u2014For purposes ofsection 38, the clean electricity production credit for any taxable year is an amount equal\n                     to the product of\u2014I.R.C. \u00a7 45Y(a)(1)(A)\u2014the kilowatt hours of electricity\u2014I.R.C. \u00a7 45Y(a)(1)(A)(i)\u2014produced by the taxpayer at a qualified facility, andI.R.C. \u00a7 45Y(a)(1)(A)(ii)I.R.C. \u00a7 45Y(a)(1)(A)(ii)(I)\u2014sold by the taxpayer to an unrelated person during the taxable year, orI.R.C. \u00a7 45Y(a)(1)(A)(ii)(II)\u2014in the case of a qualified facility which is equipped with a metering device which\n                              is owned and operated by an unrelated person, sold, consumed, or stored by the taxpayer\n                              during the taxable year, multiplied byI.R.C. \u00a7 45Y(a)(1)(B)\u2014the applicable amount with respect to such qualified facility.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(a)(2)(A)",
+    "source_subsections": [
+      "(a)(2)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "Amount",
+    "text": "Subject to subsection (g)(7), in the case of any qualified facility which is not described in clause (i) or (ii) of subparagraph (B) and does not satisfy the requirements described in clause (iii) of such subparagraph, the applicable amount shall be 0.3 cents.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Subject to subsection (g)(7), in the case of any qualified facility which is not described in clause (i) or (ii) of subparagraph (B) and does not satisfy the requirements described in clause (iii) of such subparagraph, the applicable amount shall be 0.3 cents."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(a)(2)(A)Base Amount\u2014Subject to subsection (g)(7), in the case of any qualified facility which is not described\n                        in clause (i) or (ii) of subparagraph (B) and does not satisfy the requirements described\n                        in clause (iii) of such subparagraph, the applicable amount shall be 0.3 cents.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(a)(2)(B)",
+    "source_subsections": [
+      "(a)(2)(B)",
+      "(a)(2)(B)(i)",
+      "(a)(2)(B)(ii)",
+      "(a)(2)(B)(iii)",
+      "(a)(2)(B)(iii)(I)",
+      "(a)(2)(B)(iii)(II)"
+    ],
+    "rule_type": "limitation",
+    "title": "Amount",
+    "text": "Subject to subsection (g)(7), in the case of any qualified facility\u2014\u2014with a maximum net output of less than 1 megawatt (as measured in alternating current),\u2014the construction of which begins prior to the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (9) and (10) of subsection (g), or\u2014which\u2014\u2014satisfies the requirements under paragraph (9) of subsection (g), and\u2014with respect to the construction of such facility, satisfies the requirements under paragraph (10) of subsection (g),the applicable amount shall be 1.5 cents.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Subject to subsection (g)(7), in the case of any qualified facility\u2014\u2014with a maximum net output of less than 1 megawatt (as measured in alternating current),\u2014the construction of which begins prior to the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (9) and (10) of subsection (g), or\u2014which\u2014\u2014satisfies the requirements under paragraph (9) of subsection (g), and\u2014with respect to the construction of such facility, satisfies the requirements under paragraph (10) of subsection (g),the applicable amount shall be 1.5 cents."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(a)(2)(B)Alternative Amount\u2014Subject to subsection (g)(7), in the case of any qualified facility\u2014I.R.C. \u00a7 45Y(a)(2)(B)(i)\u2014with a maximum net output of less than 1 megawatt (as measured in alternating current),I.R.C. \u00a7 45Y(a)(2)(B)(ii)\u2014the construction of which begins prior to the date that is 60 days after the Secretary\n                           publishes guidance with respect to the requirements of paragraphs (9) and (10) of\n                           subsection (g), orI.R.C. \u00a7 45Y(a)(2)(B)(iii)\u2014which\u2014I.R.C. \u00a7 45Y(a)(2)(B)(iii)(I)\u2014satisfies the requirements under paragraph (9) of subsection (g), andI.R.C. \u00a7 45Y(a)(2)(B)(iii)(II)\u2014with respect to the construction of such facility, satisfies the requirements under\n                              paragraph (10) of subsection (g),the applicable amount shall be 1.5 cents.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(b)(1)(A)",
+    "source_subsections": [
+      "(b)(1)(A)",
+      "(b)(1)(A)(i)",
+      "(b)(1)(A)(ii)",
+      "(b)(1)(A)(iii)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "Subject to subparagraphs (B), (C), and (D), the term \u201cqualified facility\u201d means a facility owned by the taxpayer\u2014\u2014which is used for the generation of electricity,\u2014which is placed in service after December 31, 2024, and\u2014for which the greenhouse gas emissions rate (as determined under paragraph (2)) is not greater than zero.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Subject to subparagraphs (B), (C), and (D), the term \u201cqualified facility\u201d means a facility owned by the taxpayer\u2014\u2014which is used for the generation of electricity,\u2014which is placed in service after December 31, 2024, and\u2014for which the greenhouse gas emissions rate (as determined under paragraph (2)) is not greater than zero."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(b)(1)(A)Definition\u2014Subject to subparagraphs (B), (C), and (D), the term \u201cqualified facility\u201d means a\n                        facility owned by the taxpayer\u2014I.R.C. \u00a7 45Y(b)(1)(A)(i)\u2014which is used for the generation of electricity,I.R.C. \u00a7 45Y(b)(1)(A)(ii)\u2014which is placed in service after December 31, 2024, andI.R.C. \u00a7 45Y(b)(1)(A)(iii)\u2014for which the greenhouse gas emissions rate (as determined under paragraph (2)) is\n                           not greater than zero.",
+    "definitions": {
+      "term": "qualified facility",
+      "requirements": [
+        "a facility owned by the taxpayer\u2014\u2014which is used for the generation of electricity,\u2014which is placed in service after December 31, 2024, and\u2014for which the greenhouse gas emissions rate (as determined under paragraph (2)) is not greater than zero."
+      ]
+    }
+  },
+  {
+    "section": "45Y",
+    "subsection": "(b)(1)(B)",
+    "source_subsections": [
+      "(b)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Production Credit",
+    "text": "For purposes of this section, a facility shall only be treated as a qualified facility during the 10-year period beginning on the date the facility was originally placed in service.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, a facility shall only be treated as a qualified facility during the 10-year period beginning on the date the facility was originally placed in service."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(b)(1)(B)10-Year Production Credit\u2014For purposes of this section, a facility shall only be treated as a qualified facility\n                        during the 10-year period beginning on the date the facility was originally placed\n                        in service.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(b)(1)(C)(i)",
+    "source_subsections": [
+      "(b)(1)(C)(i)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "A new unit which is placed in service after December 31, 2024.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "A new unit which is placed in service after December 31, 2024."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(b)(1)(C)(i)\u2014A new unit which is placed in service after December 31, 2024.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(b)(1)(C)(ii)",
+    "source_subsections": [
+      "(b)(1)(C)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Any additions of capacity which are placed in service after December 31, 2024.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Any additions of capacity which are placed in service after December 31, 2024."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(b)(1)(C)(ii)\u2014Any additions of capacity which are placed in service after December 31, 2024.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(b)(1)(D)",
+    "source_subsections": [
+      "(b)(1)(D)",
+      "(b)(1)(D)(i)",
+      "(b)(1)(D)(ii)",
+      "(b)(1)(D)(iii)",
+      "(b)(1)(D)(iv)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Capacity",
+    "text": "For purposes of subparagraph (C), additions of capacity of a facility shall be determined in any reasonable manner, including based on\u2014\u2014determinations by, or reports to, the Federal Energy Regulatory Commission (including interconnection agreements), the Nuclear Regulatory Commission, or any similar entity, reflecting additions of capacity,\u2014determinations or reports reflecting additions of capacity made by an independent professional engineer,\u2014reports to, or issued by, regional transmission organizations or independent system operators reflecting additions of capacity, or\u2014any other method or manner provided by the Secretary.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph (C), additions of capacity of a facility shall be determined in any reasonable manner, including based on\u2014\u2014determinations by, or reports to, the Federal Energy Regulatory Commission (including interconnection agreements), the Nuclear Regulatory Commission, or any similar entity, reflecting additions of capacity,\u2014determinations or reports reflecting additions of capacity made by an independent professional engineer,\u2014reports to, or issued by, regional transmission organizations or independent system operators reflecting additions of capacity, or\u2014any other method or manner provided by the Secretary."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(b)(1)(D)Determination Of Capacity\u2014For purposes of subparagraph (C), additions of capacity of a facility shall be determined\n                        in any reasonable manner, including based on\u2014I.R.C. \u00a7 45Y(b)(1)(D)(i)\u2014determinations by, or reports to, the Federal Energy Regulatory Commission (including\n                           interconnection agreements), the Nuclear Regulatory Commission, or any similar entity,\n                           reflecting additions of capacity,I.R.C. \u00a7 45Y(b)(1)(D)(ii)\u2014determinations or reports reflecting additions of capacity made by an independent\n                           professional engineer,I.R.C. \u00a7 45Y(b)(1)(D)(iii)\u2014reports to, or issued by, regional transmission organizations or independent system\n                           operators reflecting additions of capacity, orI.R.C. \u00a7 45Y(b)(1)(D)(iv)\u2014any other method or manner provided by the Secretary.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(b)(1)(E)",
+    "source_subsections": [
+      "(b)(1)(E)"
+    ],
+    "rule_type": "definition",
+    "title": "Assistance From Prohibited Foreign Entities",
+    "text": "The term \u201cqualified facility\u201d shall not include any facility for which construction begins after December 31, 2025, if the construction of such facility includes any material assistance from a prohibited foreign entity (as defined insection 7701(a)(52)).",
+    "conditions": [
+      "the construction of such facility includes any material assistance from a prohibited foreign entity (as defined insection 7701(a)(52))."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the construction of such facility includes any material assistance from a prohibited foreign entity (as defined insection 7701(a)(52))."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified facility\u201d shall not include any facility for which construction begins after December 31, 2025,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(b)(1)(E)Material Assistance From Prohibited Foreign Entities\u2014The term \u201cqualified facility\u201d shall not include any facility for which construction\n                        begins after December 31, 2025, if the construction of such facility includes any\n                        material assistance from a prohibited foreign entity (as defined insection 7701(a)(52)).",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(b)(2)(A)",
+    "source_subsections": [
+      "(b)(2)(A)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "For purposes of this section, the term \u201cgreenhouse gas emissions rate\u201d means the amount of greenhouse gases emitted into the atmosphere by a facility in the production of electricity, expressed as grams of CO2e per KWh.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u201cgreenhouse gas emissions rate\u201d means the amount of greenhouse gases emitted into the atmosphere by a facility in the production of electricity, expressed as grams of CO2e per KWh."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(b)(2)(A)In General\u2014For purposes of this section, the term \u201cgreenhouse gas emissions rate\u201d means the amount\n                        of greenhouse gases emitted into the atmosphere by a facility in the production of\n                        electricity, expressed as grams of CO2e per KWh.",
+    "definitions": {
+      "term": "greenhouse gas emissions rate",
+      "requirements": [
+        "the amount of greenhouse gases emitted into the atmosphere by a facility in the production of electricity, expressed as grams of CO2e per KWh."
+      ]
+    }
+  },
+  {
+    "section": "45Y",
+    "subsection": "(b)(2)(B)",
+    "source_subsections": [
+      "(b)(2)(B)"
+    ],
+    "rule_type": "computation",
+    "title": "Combustion And Gasification",
+    "text": "In the case of a facility which produces electricity through combustion or gasification, the greenhouse gas emissions rate for such facility shall be equal to the net rate of greenhouse gases emitted into the atmosphere by such facility (taking into account lifecycle greenhouse gas emissions, as described in section 211(o)(1)(H) of the Clean Air Act (42 U.S.C. 7545(o)(1)(H))) in the production of electricity, expressed as grams of CO2e per KWh.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a facility which produces electricity through combustion or gasification, the greenhouse gas emissions rate for such facility shall be equal to the net rate of greenhouse gases emitted into the atmosphere by such facility (taking into account lifecycle greenhouse gas emissions, as described in section 211(o)(1)(H) of the Clean Air Act (42 U.S.C. 7545(o)(1)(H))) in the production of electricity, expressed as grams of CO2e per KWh."
+    },
+    "cross_references": [
+      {
+        "section": "211(o)(1)(H)",
+        "reason": "as emissions, as described in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(b)(2)(B)Fuel Combustion And Gasification\u2014In the case of a facility which produces electricity through combustion or gasification,\n                        the greenhouse gas emissions rate for such facility shall be equal to the net rate\n                        of greenhouse gases emitted into the atmosphere by such facility (taking into account\n                        lifecycle greenhouse gas emissions, as described in section 211(o)(1)(H) of the Clean\n                        Air Act (42 U.S.C. 7545(o)(1)(H))) in the production of electricity, expressed as grams of CO2e per KWh.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(b)(2)(C)(i)",
+    "source_subsections": [
+      "(b)(2)(C)(i)"
+    ],
+    "rule_type": "condition",
+    "title": "Emissions Rates",
+    "text": "The Secretary shall annually publish a table that sets forth the greenhouse gas emissions rates for types or categories of facilities, which a taxpayer shall use for purposes of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall annually publish a table that sets forth the greenhouse gas emissions rates for types or categories of facilities, which a taxpayer shall use for purposes of this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(b)(2)(C)(i)Publishing Emissions Rates\u2014The Secretary shall annually publish a table that sets forth the greenhouse gas emissions\n                           rates for types or categories of facilities, which a taxpayer shall use for purposes\n                           of this section.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(b)(2)(C)(ii)",
+    "source_subsections": [
+      "(b)(2)(C)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Emissions Rate",
+    "text": "In the case of any facility for which an emissions rate has not been established by the Secretary, a taxpayer which owns such facility may file a petition with the Secretary for determination of the emissions rate with respect to such facility.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any facility for which an emissions rate has not been established by the Secretary, a taxpayer which owns such facility may file a petition with the Secretary for determination of the emissions rate with respect to such facility."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(b)(2)(C)(ii)Provisional Emissions Rate\u2014In the case of any facility for which an emissions rate has not been established by\n                           the Secretary, a taxpayer which owns such facility may file a petition with the Secretary\n                           for determination of the emissions rate with respect to such facility.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(b)(2)(C)(iii)",
+    "source_subsections": [
+      "(b)(2)(C)(iii)"
+    ],
+    "rule_type": "condition",
+    "title": "Studies",
+    "text": "For purposes of clause (i), in determining greenhouse gas emissions rates for types or categories of facilities for the purpose of determining whether a facility satisfies the requirements under paragraph (1), the Secretary shall consider studies published on or before the date of enactment of this clause which demonstrate a net lifecycle greenhouse gas emissions rate which is not greater than zero using widely accepted lifecycle assessment concepts, such as concepts described in standards developed by the International Organization for Standardization.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of clause (i), in determining greenhouse gas emissions rates for types or categories of facilities for the purpose of determining whether a facility satisfies the requirements under paragraph (1), the Secretary shall consider studies published on or before the date of enactment of this clause which demonstrate a net lifecycle greenhouse gas emissions rate which is not greater than zero using widely accepted lifecycle assessment concepts, such as concepts described in standards developed by the International Organization for Standardization."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(b)(2)(C)(iii)Existing Studies\u2014For purposes of clause (i), in determining greenhouse gas emissions rates for types\n                           or categories of facilities for the purpose of determining whether a facility satisfies\n                           the requirements under paragraph (1), the Secretary shall consider studies published\n                           on or before the date of enactment of this clause which demonstrate a net lifecycle\n                           greenhouse gas emissions rate which is not greater than zero using widely accepted\n                           lifecycle assessment concepts, such as concepts described in standards developed by\n                           the International Organization for Standardization.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(b)(2)(D)",
+    "source_subsections": [
+      "(b)(2)(D)",
+      "(b)(2)(D)(i)",
+      "(b)(2)(D)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Capture And Sequestration Equipment",
+    "text": "For purposes of this subsection, the amount of greenhouse gases emitted into the atmosphere by a facility in the production of electricity shall not include any qualified carbon dioxide that is captured by the taxpayer and\u2014\u2014pursuant to any regulations established under paragraph (2) ofsection 45Q(f), disposed of by the taxpayer in secure geological storage, or\u2014utilized by the taxpayer in a manner described in paragraph (5) of such section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection, the amount of greenhouse gases emitted into the atmosphere by a facility in the production of electricity shall not include any qualified carbon dioxide that is captured by the taxpayer and\u2014\u2014pursuant to any regulations established under paragraph (2) ofsection 45Q(f), disposed of by the taxpayer in secure geological storage, or\u2014utilized by the taxpayer in a manner described in paragraph (5) of such section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(b)(2)(D)Carbon Capture And Sequestration Equipment\u2014For purposes of this subsection, the amount of greenhouse gases emitted into the atmosphere\n                        by a facility in the production of electricity shall not include any qualified carbon\n                        dioxide that is captured by the taxpayer and\u2014I.R.C. \u00a7 45Y(b)(2)(D)(i)\u2014pursuant to any regulations established under paragraph (2) ofsection 45Q(f), disposed of by the taxpayer in secure geological storage, orI.R.C. \u00a7 45Y(b)(2)(D)(ii)\u2014utilized by the taxpayer in a manner described in paragraph (5) of such section.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "In the case of a calendar year beginning after 2024, the 0.3 cent amount in paragraph (2)(A) of subsection (a) and the 1.5 cent amount in paragraph (2)(B) of such subsection shall each be adjusted by multiplying such amount by the inflation adjustment factor for the calendar year in which the sale, consumption, or storage of the electricity occurs. If the 0.3 cent amount as increased under this paragraph is not a multiple of 0.05 cent, such amount shall be rounded to the nearest multiple of 0.05 cent. If the 1.5 cent amount as increased under this paragraph is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.",
+    "conditions": [
+      "the 0.3 cent amount as increased under this paragraph is not a multiple of 0.05 cent, such amount shall be rounded to the nearest multiple of 0.05 cent.",
+      "the 1.5 cent amount as increased under this paragraph is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the 0.3 cent amount as increased under this paragraph is not a multiple of 0.05 cent, such amount shall be rounded to the nearest multiple of 0.05 cent.",
+        "the 1.5 cent amount as increased under this paragraph is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a calendar year beginning after 2024, the 0.3 cent amount in paragraph (2)(A) of subsection (a) and the 1.5 cent amount in paragraph (2)(B) of such subsection shall each be adjusted by multiplying such amount by the inflation adjustment factor for the calendar year in which the sale, consumption, or storage of the electricity occurs."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(c)(1)In General\u2014In the case of a calendar year beginning after 2024, the 0.3 cent amount in paragraph\n                     (2)(A) of subsection (a) and the 1.5 cent amount in paragraph (2)(B) of such subsection\n                     shall each be adjusted by multiplying such amount by the inflation adjustment factor\n                     for the calendar year in which the sale, consumption, or storage of the electricity\n                     occurs. If the 0.3 cent amount as increased under this paragraph is not a multiple\n                     of 0.05 cent, such amount shall be rounded to the nearest multiple of 0.05 cent. If\n                     the 1.5 cent amount as increased under this paragraph is not a multiple of 0.1 cent,\n                     such amount shall be rounded to the nearest multiple of 0.1 cent.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(c)(2)",
+    "source_subsections": [
+      "(c)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Computation",
+    "text": "The Secretary shall, not later than April 1 of each calendar year, determine and publish in the Federal Register the inflation adjustment factor for such calendar year in accordance with this subsection.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall, not later than April 1 of each calendar year, determine and publish in the Federal Register the inflation adjustment factor for such calendar year in accordance with this subsection."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(c)(2)Annual Computation\u2014The Secretary shall, not later than April 1 of each calendar year, determine and publish\n                     in the Federal Register the inflation adjustment factor for such calendar year in\n                     accordance with this subsection.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(c)(3)",
+    "source_subsections": [
+      "(c)(3)"
+    ],
+    "rule_type": "definition",
+    "title": "Adjustment Factor",
+    "text": "The term \u201cinflation adjustment factor\u201d means, with respect to a calendar year, a fraction the numerator of which is the GDP implicit price deflator for the preceding calendar year and the denominator of which is the GDP implicit price deflator for the calendar year 1992. The term \u201cGDP implicit price deflator\u201d means the most recent revision of the implicit price deflator for the gross domestic product as computed and published by the Department of Commerce before March 15 of the calendar year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cinflation adjustment factor\u201d means, with respect to a calendar year, a fraction the numerator of which is the GDP implicit price deflator for the preceding calendar year and the denominator of which is the GDP implicit price deflator for the calendar year 1992. The term \u201cGDP implicit price deflator\u201d means the most recent revision of the implicit price deflator for the gross domestic product as computed and published by the Department of Commerce before March 15 of the calendar year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(c)(3)Inflation Adjustment Factor\u2014The term \u201cinflation adjustment factor\u201d means, with respect to a calendar year, a fraction\n                     the numerator of which is the GDP implicit price deflator for the preceding calendar\n                     year and the denominator of which is the GDP implicit price deflator for the calendar\n                     year 1992. The term \u201cGDP implicit price deflator\u201d means the most recent revision of\n                     the implicit price deflator for the gross domestic product as computed and published\n                     by the Department of Commerce before March 15 of the calendar year.",
+    "definitions": {
+      "term": "inflation adjustment factor\u201d means, with respect to a calendar year, a fraction the numerator of which is the GDP implicit price deflator for the preceding calendar year and the denominator of which is the GDP implicit price deflator for the calendar year 1992. The term \u201cGDP implicit price deflator",
+      "requirements": [
+        "the most recent revision of the implicit price deflator for the gross domestic product as computed and published by the Department of Commerce before March 15 of the calendar year."
+      ]
+    }
+  },
+  {
+    "section": "45Y",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)",
+      "(d)(1)(A)",
+      "(d)(1)(B)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "Subject to paragraph (4), the amount of the clean electricity production credit under subsection (a) for any qualified facility the construction of which begins during a calendar year described in paragraph (2) shall be equal to the product of\u2014\u2014the amount of the credit determined under subsection (a) without regard to this subsection, multiplied by\u2014the phase-out percentage under paragraph (2).",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Subject to paragraph (4), the amount of the clean electricity production credit under subsection (a) for any qualified facility the construction of which begins during a calendar year described in paragraph (2) shall be equal to the product of\u2014\u2014the amount of the credit determined under subsection (a) without regard to this subsection, multiplied by\u2014the phase-out percentage under paragraph (2)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(d)(1)In General\u2014Subject to paragraph (4), the amount of the clean electricity production credit under\n                     subsection (a) for any qualified facility the construction of which begins during\n                     a calendar year described in paragraph (2) shall be equal to the product of\u2014I.R.C. \u00a7 45Y(d)(1)(A)\u2014the amount of the credit determined under subsection (a) without regard to this subsection,\n                        multiplied byI.R.C. \u00a7 45Y(d)(1)(B)\u2014the phase-out percentage under paragraph (2).",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(d)(2)",
+    "source_subsections": [
+      "(d)(2)",
+      "(d)(2)(A)",
+      "(d)(2)(B)",
+      "(d)(2)(C)",
+      "(d)(2)(D)"
+    ],
+    "rule_type": "computation",
+    "title": "Percentage",
+    "text": "The phase-out percentage under this paragraph is equal to\u2014\u2014for a facility the construction of which begins during the first calendar year following the applicable year, 100 percent,\u2014for a facility the construction of which begins during the second calendar year following the applicable year, 75 percent,\u2014for a facility the construction of which begins during the third calendar year following the applicable year, 50 percent, and\u2014for a facility the construction of which begins during any calendar year subsequent to the calendar year described in subparagraph (C), 0 percent.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 1.0,
+        "text": "100 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.75,
+        "text": "75 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.0,
+        "text": "0 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The phase-out percentage under this paragraph is equal to\u2014\u2014for a facility the construction of which begins during the first calendar year following the applicable year, 100 percent,\u2014for a facility the construction of which begins during the second calendar year following the applicable year, 75 percent,\u2014for a facility the construction of which begins during the third calendar year following the applicable year, 50 percent, and\u2014for a facility the construction of which begins during any calendar year subsequent to the calendar year described in subparagraph (C), 0 percent."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(d)(2)Phase-Out Percentage\u2014The phase-out percentage under this paragraph is equal to\u2014I.R.C. \u00a7 45Y(d)(2)(A)\u2014for a facility the construction of which begins during the first calendar year following\n                        the applicable year, 100 percent,I.R.C. \u00a7 45Y(d)(2)(B)\u2014for a facility the construction of which begins during the second calendar year following\n                        the applicable year, 75 percent,I.R.C. \u00a7 45Y(d)(2)(C)\u2014for a facility the construction of which begins during the third calendar year following\n                        the applicable year, 50 percent, andI.R.C. \u00a7 45Y(d)(2)(D)\u2014for a facility the construction of which begins during any calendar year subsequent\n                        to the calendar year described in subparagraph (C), 0 percent.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(d)(3)",
+    "source_subsections": [
+      "(d)(3)",
+      "(d)(3)(A)",
+      "(d)(3)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Year",
+    "text": "For purposes of this subsection, the term \u201capplicable year\u201d means calendar year 2032.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection, the term \u201capplicable year\u201d means calendar year 2032."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(d)(3)Applicable Year\u2014For purposes of this subsection, the term \u201capplicable year\u201d means calendar year 2032.",
+    "definitions": {
+      "term": "applicable year",
+      "requirements": [
+        "calendar year 2032."
+      ]
+    }
+  },
+  {
+    "section": "45Y",
+    "subsection": "(d)(4)(A)",
+    "source_subsections": [
+      "(d)(4)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "This section shall not apply with respect to any applicable facility placed in service after December 31, 2027.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "This section shall not apply with respect to any applicable facility placed in service after December 31, 2027."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(d)(4)(A)In General\u2014This section shall not apply with respect to any applicable facility placed in service\n                        after December 31, 2027.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(d)(4)(B)",
+    "source_subsections": [
+      "(d)(4)(B)",
+      "(d)(4)(B)(i)",
+      "(d)(4)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Facility",
+    "text": "For purposes of this paragraph, the term \u201capplicable facility\u201d means a qualified facility which\u2014\u2014uses wind to produce electricity (within the meaning of such term as used in section 45(d)(1), as determined without regard to any requirement under such section with respect to the date on which construction of property begins), or\u2014uses solar energy to produce electricity (within the meaning of such term as used in section 45(d)(4), as determined without regard to any requirement under such section with respect to the date on which construction of property begins).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the term \u201capplicable facility\u201d means a qualified facility which\u2014\u2014uses wind to produce electricity (within the meaning of such term as used in section 45(d)(1), as determined without regard to any requirement under such section with respect to the date on which construction of property begins), or\u2014uses solar energy to produce electricity (within the meaning of such term as used in section 45(d)(4), as determined without regard to any requirement under such section with respect to the date on which construction of property begins)."
+    },
+    "cross_references": [
+      {
+        "section": "45(d)(1)",
+        "reason": "aning of such term as used in..."
+      },
+      {
+        "section": "45(d)(4)",
+        "reason": "aning of such term as used in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(d)(4)(B)Applicable Facility\u2014For purposes of this paragraph, the term \u201capplicable facility\u201d means a qualified facility\n                        which\u2014I.R.C. \u00a7 45Y(d)(4)(B)(i)\u2014uses wind to produce electricity (within the meaning of such term as used in section\n                           45(d)(1), as determined without regard to any requirement under such section with\n                           respect to the date on which construction of property begins), orI.R.C. \u00a7 45Y(d)(4)(B)(ii)\u2014uses solar energy to produce electricity (within the meaning of such term as used\n                           in section 45(d)(4), as determined without regard to any requirement under such section\n                           with respect to the date on which construction of property begins).",
+    "definitions": {
+      "term": "applicable facility",
+      "requirements": [
+        "a qualified facility which\u2014\u2014uses wind to produce electricity (within the meaning of such term as used in section 45(d)(1), as determined without regard to any requirement under such section with respect to the date on which construction of property begins), or\u2014uses solar energy to produce electricity (within the meaning of such term as used in section 45(d)(4), as determined without regard to any requirement under such section with respect to the date on which construction of property begins)."
+      ]
+    }
+  },
+  {
+    "section": "45Y",
+    "subsection": "(e)(1)",
+    "source_subsections": [
+      "(e)(1)"
+    ],
+    "rule_type": "definition",
+    "title": "PER KWh",
+    "text": "The term \u201cCO2e per KWh\u201d means, with respect to any greenhouse gas, the equivalent carbon dioxide (as determined based on global warming potential) per kilowatt hour of electricity produced.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cCO2e per KWh\u201d means, with respect to any greenhouse gas, the equivalent carbon dioxide (as determined based on global warming potential) per kilowatt hour of electricity produced."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(e)(1)CO2e PER KWh\u2014The term \u201cCO2e per KWh\u201d means, with respect to any greenhouse gas, the equivalent carbon dioxide\n                     (as determined based on global warming potential) per kilowatt hour of electricity\n                     produced.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(e)(2)",
+    "source_subsections": [
+      "(e)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Gas",
+    "text": "The term \u201cgreenhouse gas\u201d has the same meaning given such term under section 211(o)(1)(G) of the Clean Air Act (42 U.S.C. 7545(o)(1)(G)), as in effect on the date of the enactment of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cgreenhouse gas\u201d has the same meaning given such term under section 211(o)(1)(G) of the Clean Air Act (42 U.S.C. 7545(o)(1)(G)), as in effect on the date of the enactment of this section."
+    },
+    "cross_references": [
+      {
+        "section": "211(o)(1)(G)",
+        "reason": "meaning given such term under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(e)(2)Greenhouse Gas\u2014The term \u201cgreenhouse gas\u201d has the same meaning given such term under section 211(o)(1)(G)\n                     of the Clean Air Act (42 U.S.C. 7545(o)(1)(G)), as in effect on the date of the enactment of this section.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(e)(3)",
+    "source_subsections": [
+      "(e)(3)",
+      "(e)(3)(A)",
+      "(e)(3)(B)",
+      "(e)(3)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "Carbon Dioxide",
+    "text": "The term \u201cqualified carbon dioxide\u201d means carbon dioxide captured from an industrial source which\u2014\u2014would otherwise be released into the atmosphere as industrial emission of greenhouse gas,\u2014is measured at the source of capture and verified at the point of disposal or utilization, and\u2014is captured and disposed or utilized within the United States (within the meaning ofsection 638(1)) or a possession of the United States (within the meaning ofsection 638(2)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified carbon dioxide\u201d means carbon dioxide captured from an industrial source which\u2014\u2014would otherwise be released into the atmosphere as industrial emission of greenhouse gas,\u2014is measured at the source of capture and verified at the point of disposal or utilization, and\u2014is captured and disposed or utilized within the United States (within the meaning ofsection 638(1)) or a possession of the United States (within the meaning ofsection 638(2))."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(e)(3)Qualified Carbon Dioxide\u2014The term \u201cqualified carbon dioxide\u201d means carbon dioxide captured from an industrial\n                     source which\u2014I.R.C. \u00a7 45Y(e)(3)(A)\u2014would otherwise be released into the atmosphere as industrial emission of greenhouse\n                        gas,I.R.C. \u00a7 45Y(e)(3)(B)\u2014is measured at the source of capture and verified at the point of disposal or utilization,\n                        andI.R.C. \u00a7 45Y(e)(3)(C)\u2014is captured and disposed or utilized within the United States (within the meaning\n                        ofsection 638(1)) or a possession of the United States (within the meaning ofsection 638(2)).",
+    "definitions": {
+      "term": "qualified carbon dioxide",
+      "requirements": [
+        "carbon dioxide captured from an industrial source which\u2014\u2014would otherwise be released into the atmosphere as industrial emission of greenhouse gas,\u2014is measured at the source of capture and verified at the point of disposal or utilization, and\u2014is captured and disposed or utilized within the United States (within the meaning ofsection 638(1)) or a possession of the United States (within the meaning ofsection 638(2))."
+      ]
+    }
+  },
+  {
+    "section": "45Y",
+    "subsection": "(f)",
+    "source_subsections": [
+      "(f)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Not later than January 1, 2025, the Secretary shall issue guidance regarding implementation of this section, including calculation of greenhouse gas emission rates for qualified facilities and determination of clean electricity production credits under this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Not later than January 1, 2025, the Secretary shall issue guidance regarding implementation of this section, including calculation of greenhouse gas emission rates for qualified facilities and determination of clean electricity production credits under this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(f)Guidance\u2014Not later than January 1, 2025, the Secretary shall issue guidance regarding implementation\n                  of this section, including calculation of greenhouse gas emission rates for qualified\n                  facilities and determination of clean electricity production credits under this section.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(g)(1)",
+    "source_subsections": [
+      "(g)(1)",
+      "(g)(1)(A)",
+      "(g)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Production In The United States Taken Into Account",
+    "text": "Consumption, sales, or storage shall be taken into account under this section only with respect to electricity the production of which is within\u2014\u2014the United States (within the meaning ofsection 638(1)), or\u2014a possession of the United States (within the meaning ofsection 638(2)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Consumption, sales, or storage shall be taken into account under this section only with respect to electricity the production of which is within\u2014\u2014the United States (within the meaning ofsection 638(1)), or\u2014a possession of the United States (within the meaning ofsection 638(2))."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(g)(1)Only Production In The United States Taken Into Account\u2014Consumption, sales, or storage shall be taken into account under this section only\n                     with respect to electricity the production of which is within\u2014I.R.C. \u00a7 45Y(g)(1)(A)\u2014the United States (within the meaning ofsection 638(1)), orI.R.C. \u00a7 45Y(g)(1)(B)\u2014a possession of the United States (within the meaning ofsection 638(2)).",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(g)(10)",
+    "source_subsections": [
+      "(g)(10)"
+    ],
+    "rule_type": "condition",
+    "title": "Requirements",
+    "text": "Rules similar to the rules ofsection 45(b)(8)shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules ofsection 45(b)(8)shall apply."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(g)(10)Apprenticeship Requirements\u2014Rules similar to the rules ofsection 45(b)(8)shall apply.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(g)(11)(A)",
+    "source_subsections": [
+      "(g)(11)(A)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "In the case of any qualified facility which satisfies the requirement under subparagraph (B)(i), the amount of the credit determined under subsection (a) shall be increased by an amount equal to 10 percent of the amount so determined (as determined without application of paragraph (7)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.1,
+        "text": "10 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any qualified facility which satisfies the requirement under subparagraph (B)(i), the amount of the credit determined under subsection (a) shall be increased by an amount equal to 10 percent of the amount so determined (as determined without application of paragraph (7))."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(g)(11)(A)In General\u2014In the case of any qualified facility which satisfies the requirement under subparagraph\n                        (B)(i), the amount of the credit determined under subsection (a) shall be increased\n                        by an amount equal to 10 percent of the amount so determined (as determined without\n                        application of paragraph (7)).",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(g)(11)(B)(i)",
+    "source_subsections": [
+      "(g)(11)(B)(i)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The requirement described in this subclause is satisfied with respect to any qualified facility if the taxpayer certifies to the Secretary (at such time, and in such form and manner, as the Secretary may prescribe) that any steel, iron, or manufactured product which is a component of such facility (upon completion of construction) was produced in the United States (as determined under section 661 of title 49, Code of Federal Regulations).",
+    "conditions": [
+      "the taxpayer certifies to the Secretary (at such time, and in such form and manner, as the Secretary may prescribe) that any steel, iron, or manufactured product which is a component of such facility (upon completion of construction) was produced in the United States (as determined under section 661 of title 49, Code of Federal Regulations)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the taxpayer certifies to the Secretary (at such time, and in such form and manner, as the Secretary may prescribe) that any steel, iron, or manufactured product which is a component of such facility (upon completion of construction) was produced in the United States (as determined under section 661 of title 49, Code of Federal Regulations)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The requirement described in this subclause is satisfied with respect to any qualified facility"
+    },
+    "cross_references": [
+      {
+        "section": "661",
+        "reason": "d States (as determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(g)(11)(B)(i)In General\u2014The requirement described in this subclause is satisfied with respect to any qualified\n                           facility if the taxpayer certifies to the Secretary (at such time, and in such form\n                           and manner, as the Secretary may prescribe) that any steel, iron, or manufactured\n                           product which is a component of such facility (upon completion of construction) was\n                           produced in the United States (as determined under section 661 of title 49, Code of\n                           Federal Regulations).",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(g)(11)(B)(ii)",
+    "source_subsections": [
+      "(g)(11)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "And Iron",
+    "text": "In the case of steel or iron, clause (i) shall be applied in a manner consistent with section 661.5 of title 49, Code of Federal Regulations.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of steel or iron, clause (i) shall be applied in a manner consistent with section 661.5 of title 49, Code of Federal Regulations."
+    },
+    "cross_references": [
+      {
+        "section": "661",
+        "reason": "d in a manner consistent with..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(g)(11)(B)(ii)Steel And Iron\u2014In the case of steel or iron, clause (i) shall be applied in a manner consistent with\n                           section 661.5 of title 49, Code of Federal Regulations.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(g)(11)(B)(iii)",
+    "source_subsections": [
+      "(g)(11)(B)(iii)"
+    ],
+    "rule_type": "condition",
+    "title": "Product",
+    "text": "For purposes of clause (i), the manufactured products which are components of a qualified facility upon completion of construction shall be deemed to have been produced in the United States if not less than the adjusted percentage (as determined under subparagraph (C)) of the total costs of all such manufactured products of such facility are attributable to manufactured products (including components) which are mined, produced, or manufactured in the United States.",
+    "conditions": [
+      "not less than the adjusted percentage (as determined under subparagraph (C)) of the total costs of all such manufactured products of such facility are attributable to manufactured products (including components) which are mined, produced, or manufactured in the United States."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "not less than the adjusted percentage (as determined under subparagraph (C)) of the total costs of all such manufactured products of such facility are attributable to manufactured products (including components) which are mined, produced, or manufactured in the United States."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of clause (i), the manufactured products which are components of a qualified facility upon completion of construction shall be deemed to have been produced in the United States"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(g)(11)(B)(iii)Manufactured Product\u2014For purposes of clause (i), the manufactured products which are components of a qualified\n                           facility upon completion of construction shall be deemed to have been produced in\n                           the United States if not less than the adjusted percentage (as determined under subparagraph\n                           (C)) of the total costs of all such manufactured products of such facility are attributable\n                           to manufactured products (including components) which are mined, produced, or manufactured\n                           in the United States.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(g)(11)(C)(i)",
+    "source_subsections": [
+      "(g)(11)(C)(i)",
+      "(g)(11)(C)(i)(I)",
+      "(g)(11)(C)(i)(II)",
+      "(g)(11)(C)(i)(III)",
+      "(g)(11)(C)(i)(IV)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "Subject to subclause (ii), for purposes of subparagraph (B)(iii), the adjusted percentage shall be\u2014\u2014in the case of a facility the construction of which begins before January 1, 2025, 40 percent,\u2014in the case of a facility the construction of which begins after December 31, 2024, and before January 1, 2026, 45 percent,\u2014in the case of a facility the construction of which begins after December 31, 2025, and before January 1, 2027, 50 percent, and\u2014in the case of a facility the construction of which begins after December 31, 2026, 55 percent.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.4,
+        "text": "40 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.45,
+        "text": "45 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.55,
+        "text": "55 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Subject to subclause (ii), for purposes of subparagraph (B)(iii), the adjusted percentage shall be\u2014\u2014in the case of a facility the construction of which begins before January 1, 2025, 40 percent,\u2014in the case of a facility the construction of which begins after December 31, 2024, and before January 1, 2026, 45 percent,\u2014in the case of a facility the construction of which begins after December 31, 2025, and before January 1, 2027, 50 percent, and\u2014in the case of a facility the construction of which begins after December 31, 2026, 55 percent."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(g)(11)(C)(i)In General\u2014Subject to subclause (ii), for purposes of subparagraph (B)(iii), the adjusted percentage\n                           shall be\u2014I.R.C. \u00a7 45Y(g)(11)(C)(i)(I)\u2014in the case of a facility the construction of which begins before January 1, 2025,\n                              40 percent,I.R.C. \u00a7 45Y(g)(11)(C)(i)(II)\u2014in the case of a facility the construction of which begins after December 31, 2024,\n                              and before January 1, 2026, 45 percent,I.R.C. \u00a7 45Y(g)(11)(C)(i)(III)\u2014in the case of a facility the construction of which begins after December 31, 2025,\n                              and before January 1, 2027, 50 percent, andI.R.C. \u00a7 45Y(g)(11)(C)(i)(IV)\u2014in the case of a facility the construction of which begins after December 31, 2026,\n                              55 percent.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(g)(11)(C)(ii)",
+    "source_subsections": [
+      "(g)(11)(C)(ii)",
+      "(g)(11)(C)(ii)(I)",
+      "(g)(11)(C)(ii)(II)",
+      "(g)(11)(C)(ii)(III)",
+      "(g)(11)(C)(ii)(IV)",
+      "(g)(11)(C)(ii)(V)"
+    ],
+    "rule_type": "computation",
+    "title": "Wind Facility",
+    "text": "For purposes of subparagraph (B)(iii), in the case of a qualified facility which is an offshore wind facility, the adjusted percentage shall be\u2014\u2014in the case of a facility the construction of which begins before January 1, 2025, 20 percent,\u2014in the case of a facility the construction of which begins after December 31, 2024, and before January 1, 2026, 27.5 percent,\u2014in the case of a facility the construction of which begins after December 31, 2025, and before January 1, 2027, 35 percent,\u2014in the case of a facility the construction of which begins after December 31, 2026, and before January 1, 2028, 45 percent, and\u2014in the case of a facility the construction of which begins after December 31, 2027, 55 percent.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.2,
+        "text": "20 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.275,
+        "text": "27.5 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.35,
+        "text": "35 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.45,
+        "text": "45 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.55,
+        "text": "55 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph (B)(iii), in the case of a qualified facility which is an offshore wind facility, the adjusted percentage shall be\u2014\u2014in the case of a facility the construction of which begins before January 1, 2025, 20 percent,\u2014in the case of a facility the construction of which begins after December 31, 2024, and before January 1, 2026, 27.5 percent,\u2014in the case of a facility the construction of which begins after December 31, 2025, and before January 1, 2027, 35 percent,\u2014in the case of a facility the construction of which begins after December 31, 2026, and before January 1, 2028, 45 percent, and\u2014in the case of a facility the construction of which begins after December 31, 2027, 55 percent."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(g)(11)(C)(ii)Offshore Wind Facility\u2014For purposes of subparagraph (B)(iii), in the case of a qualified facility which is\n                           an offshore wind facility, the adjusted percentage shall be\u2014I.R.C. \u00a7 45Y(g)(11)(C)(ii)(I)\u2014in the case of a facility the construction of which begins before January 1, 2025,\n                              20 percent,I.R.C. \u00a7 45Y(g)(11)(C)(ii)(II)\u2014in the case of a facility the construction of which begins after December 31, 2024,\n                              and before January 1, 2026, 27.5 percent,I.R.C. \u00a7 45Y(g)(11)(C)(ii)(III)\u2014in the case of a facility the construction of which begins after December 31, 2025,\n                              and before January 1, 2027, 35 percent,I.R.C. \u00a7 45Y(g)(11)(C)(ii)(IV)\u2014in the case of a facility the construction of which begins after December 31, 2026,\n                              and before January 1, 2028, 45 percent, andI.R.C. \u00a7 45Y(g)(11)(C)(ii)(V)\u2014in the case of a facility the construction of which begins after December 31, 2027,\n                              55 percent.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(g)(12)(A)",
+    "source_subsections": [
+      "(g)(12)(A)",
+      "(g)(12)(A)(i)",
+      "(g)(12)(A)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "In the case of a taxpayer making an election undersection 6417with respect to a credit under this section, the amount of such credit shall be replaced with\u2014\u2014the value of such credit (determined without regard to this paragraph), multiplied by\u2014the applicable percentage.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a taxpayer making an election undersection 6417with respect to a credit under this section, the amount of such credit shall be replaced with\u2014\u2014the value of such credit (determined without regard to this paragraph), multiplied by\u2014the applicable percentage."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(g)(12)(A)In General\u2014In the case of a taxpayer making an election undersection 6417with respect to a credit under this section, the amount of such credit shall be replaced\n                        with\u2014I.R.C. \u00a7 45Y(g)(12)(A)(i)\u2014the value of such credit (determined without regard to this paragraph), multiplied\n                           byI.R.C. \u00a7 45Y(g)(12)(A)(ii)\u2014the applicable percentage.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(g)(12)(B)",
+    "source_subsections": [
+      "(g)(12)(B)",
+      "(g)(12)(B)(i)",
+      "(g)(12)(B)(ii)"
+    ],
+    "rule_type": "limitation",
+    "title": "Percent Applicable Percentage For Certain Qualified FacilitiesI.R.C. \u00a7 45Y(g)(12)(B)(i)",
+    "text": "which satisfies the requirements under paragraph (11)(B), or\u2014with a maximum net output of less than 1 megawatt (as measured in alternating current),",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "which satisfies the requirements under paragraph (11)(B), or\u2014with a maximum net output of less than 1 megawatt (as measured in alternating current),"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(g)(12)(B)100 Percent Applicable Percentage For Certain Qualified FacilitiesI.R.C. \u00a7 45Y(g)(12)(B)(i)\u2014which satisfies the requirements under paragraph (11)(B), orI.R.C. \u00a7 45Y(g)(12)(B)(ii)\u2014with a maximum net output of less than 1 megawatt (as measured in alternating current),",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(g)(12)(C)",
+    "source_subsections": [
+      "(g)(12)(C)",
+      "(g)(12)(C)(i)",
+      "(g)(12)(C)(ii)",
+      "(g)(12)(C)(iii)",
+      "(g)(12)(C)(iv)"
+    ],
+    "rule_type": "condition",
+    "title": "Domestic Content Requirement",
+    "text": "Subject to subparagraph (D), in the case of any qualified facility which is not described in subparagraph (B), the applicable percentage shall be\u2014\u2014if construction of such facility began before January 1, 2024, 100 percent,\u2014if construction of such facility began in calendar year 2024, 90 percent,\u2014if construction of such facility began in calendar year 2025, 85 percent, and\u2014if construction of such facility began after December 31, 2025, 0 percent.",
+    "conditions": [
+      "construction of such facility began before January 1, 2024, 100 percent,\u2014",
+      "construction of such facility began in calendar year 2024, 90 percent,\u2014",
+      "construction of such facility began in calendar year 2025, 85 percent, and\u2014",
+      "construction of such facility began after December 31, 2025, 0 percent."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 1.0,
+        "text": "100 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.9,
+        "text": "90 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.85,
+        "text": "85 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.0,
+        "text": "0 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "construction of such facility began before January 1, 2024, 100 percent,\u2014",
+        "construction of such facility began in calendar year 2024, 90 percent,\u2014",
+        "construction of such facility began in calendar year 2025, 85 percent, and\u2014",
+        "construction of such facility began after December 31, 2025, 0 percent."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Subject to subparagraph (D), in the case of any qualified facility which is not described in subparagraph (B), the applicable percentage shall be\u2014\u2014"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(g)(12)(C)Phased Domestic Content Requirement\u2014Subject to subparagraph (D), in the case of any qualified facility which is not described\n                        in subparagraph (B), the applicable percentage shall be\u2014I.R.C. \u00a7 45Y(g)(12)(C)(i)\u2014if construction of such facility began before January 1, 2024, 100 percent,I.R.C. \u00a7 45Y(g)(12)(C)(ii)\u2014if construction of such facility began in calendar year 2024, 90 percent,I.R.C. \u00a7 45Y(g)(12)(C)(iii)\u2014if construction of such facility began in calendar year 2025, 85 percent, andI.R.C. \u00a7 45Y(g)(12)(C)(iv)\u2014if construction of such facility began after December 31, 2025, 0 percent.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(g)(12)(D)(i)",
+    "source_subsections": [
+      "(g)(12)(D)(i)",
+      "(g)(12)(D)(i)(I)",
+      "(g)(12)(D)(i)(II)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "For purposes of this paragraph, the Secretary shall provide exceptions to the requirements under this paragraph if\u2014\u2014the inclusion of steel, iron, or manufactured products which are produced in the United States increases the overall costs of construction of qualified facilities by more than 25 percent, or\u2014relevant steel, iron, or manufactured products are not produced in the United States in sufficient and reasonably available quantities or of a satisfactory quality.",
+    "conditions": [
+      "\u2014\u2014the inclusion of steel, iron, or manufactured products which are produced in the United States increases the overall costs of construction of qualified facilities by more than 25 percent, or\u2014relevant steel, iron, or manufactured products are not produced in the United States in sufficient and reasonably available quantities or of a satisfactory quality."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.25,
+        "text": "25 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014the inclusion of steel, iron, or manufactured products which are produced in the United States increases the overall costs of construction of qualified facilities by more than 25 percent, or\u2014relevant steel, iron, or manufactured products are not produced in the United States in sufficient and reasonably available quantities or of a satisfactory quality."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the Secretary shall provide exceptions to the requirements under this paragraph"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(g)(12)(D)(i)In General\u2014For purposes of this paragraph, the Secretary shall provide exceptions to the requirements\n                           under this paragraph if\u2014I.R.C. \u00a7 45Y(g)(12)(D)(i)(I)\u2014the inclusion of steel, iron, or manufactured products which are produced in the United\n                              States increases the overall costs of construction of qualified facilities by more\n                              than 25 percent, orI.R.C. \u00a7 45Y(g)(12)(D)(i)(II)\u2014relevant steel, iron, or manufactured products are not produced in the United States\n                              in sufficient and reasonably available quantities or of a satisfactory quality.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(g)(12)(D)(ii)",
+    "source_subsections": [
+      "(g)(12)(D)(ii)"
+    ],
+    "rule_type": "exception",
+    "title": "Percentage",
+    "text": "In any case in which the Secretary provides an exception pursuant to clause (i), the applicable percentage shall be 100 percent.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 1.0,
+        "text": "100 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In any case in which the Secretary provides an exception pursuant to clause (i), the applicable percentage shall be 100 percent."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(g)(12)(D)(ii)Applicable Percentage\u2014In any case in which the Secretary provides an exception pursuant to clause (i), the\n                           applicable percentage shall be 100 percent.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(g)(13)(A)",
+    "source_subsections": [
+      "(g)(13)(A)",
+      "(g)(13)(A)(i)",
+      "(g)(13)(A)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "No credit shall be determined under subsection (a) for any taxable year if the taxpayer is\u2014\u2014a specified foreign entity (as defined insection 7701(a)(51)(B)), or\u2014a foreign-influenced entity (as defined insection 7701(a)(51)(D), without regard to clause (i)(II) thereof).",
+    "conditions": [
+      "the taxpayer is\u2014\u2014a specified foreign entity (as defined insection 7701(a)(51)(B)), or\u2014a foreign-influenced entity (as defined insection 7701(a)(51)(D), without regard to clause (i)(II) thereof)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the taxpayer is\u2014\u2014a specified foreign entity (as defined insection 7701(a)(51)(B)), or\u2014a foreign-influenced entity (as defined insection 7701(a)(51)(D), without regard to clause (i)(II) thereof)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be determined under subsection (a) for any taxable year"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(g)(13)(A)In General\u2014No credit shall be determined under subsection (a) for any taxable year if the taxpayer\n                        is\u2014I.R.C. \u00a7 45Y(g)(13)(A)(i)\u2014a specified foreign entity (as defined insection 7701(a)(51)(B)), orI.R.C. \u00a7 45Y(g)(13)(A)(ii)\u2014a foreign-influenced entity (as defined insection 7701(a)(51)(D), without regard to clause (i)(II) thereof).",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(g)(13)(B)",
+    "source_subsections": [
+      "(g)(13)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Control",
+    "text": "In the case of a taxpayer for whichsection 7701(a)(51)(D)(i)(II)is determined to apply for any taxable year, no credit shall be determined under subsection (a) for such taxable year if such determination relates to a qualified facility described in subsection (b)(1).",
+    "conditions": [
+      "such determination relates to a qualified facility described in subsection (b)(1)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such determination relates to a qualified facility described in subsection (b)(1)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a taxpayer for whichsection 7701(a)(51)(D)(i)(II)is determined to apply for any taxable year, no credit shall be determined under subsection (a) for such taxable year"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(g)(13)(B)Effective Control\u2014In the case of a taxpayer for whichsection 7701(a)(51)(D)(i)(II)is determined to apply for any taxable year, no credit shall be determined under\n                        subsection (a) for such taxable year if such determination relates to a qualified\n                        facility described in subsection (b)(1).",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(g)(2)(A)",
+    "source_subsections": [
+      "(g)(2)(A)",
+      "(g)(2)(A)(i)",
+      "(g)(2)(A)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "For purposes of subsection (a)\u2014\u2014the kilowatt hours of electricity produced by a taxpayer at a qualified facility shall include any production in the form of useful thermal energy by any combined heat and power system property within such facility, and\u2014the amount of greenhouse gases emitted into the atmosphere by such facility in the production of such useful thermal energy shall be included for purposes of determining the greenhouse gas emissions rate for such facility.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subsection (a)\u2014\u2014the kilowatt hours of electricity produced by a taxpayer at a qualified facility shall include any production in the form of useful thermal energy by any combined heat and power system property within such facility, and\u2014the amount of greenhouse gases emitted into the atmosphere by such facility in the production of such useful thermal energy shall be included for purposes of determining the greenhouse gas emissions rate for such facility."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(g)(2)(A)In General\u2014For purposes of subsection (a)\u2014I.R.C. \u00a7 45Y(g)(2)(A)(i)\u2014the kilowatt hours of electricity produced by a taxpayer at a qualified facility shall\n                           include any production in the form of useful thermal energy by any combined heat and\n                           power system property within such facility, andI.R.C. \u00a7 45Y(g)(2)(A)(ii)\u2014the amount of greenhouse gases emitted into the atmosphere by such facility in the\n                           production of such useful thermal energy shall be included for purposes of determining\n                           the greenhouse gas emissions rate for such facility.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(g)(2)(B)",
+    "source_subsections": [
+      "(g)(2)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Heat And Power System Property",
+    "text": "For purposes of this paragraph, the term \u201ccombined heat and power system property\u201d has the same meaning given such term bysection 48(c)(3)(without regard to subparagraphs (A)(iv), (B), and (D) thereof).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the term \u201ccombined heat and power system property\u201d has the same meaning given such term bysection 48(c)(3)(without regard to subparagraphs (A)(iv), (B), and (D) thereof)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(g)(2)(B)Combined Heat And Power System Property\u2014For purposes of this paragraph, the term \u201ccombined heat and power system property\u201d\n                        has the same meaning given such term bysection 48(c)(3)(without regard to subparagraphs (A)(iv), (B), and (D) thereof).",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(g)(2)(C)(i)",
+    "source_subsections": [
+      "(g)(2)(C)(i)",
+      "(g)(2)(C)(i)(I)",
+      "(g)(2)(C)(i)(II)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "For purposes of subparagraph (A)(i), the amount of kilowatt hours of electricity produced in the form of useful thermal energy shall be equal to the quotient of\u2014\u2014the total useful thermal energy produced by the combined heat and power system property within the qualified facility, divided by\u2014the heat rate for such facility.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph (A)(i), the amount of kilowatt hours of electricity produced in the form of useful thermal energy shall be equal to the quotient of\u2014\u2014the total useful thermal energy produced by the combined heat and power system property within the qualified facility, divided by\u2014the heat rate for such facility."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(g)(2)(C)(i)In General\u2014For purposes of subparagraph (A)(i), the amount of kilowatt hours of electricity produced\n                           in the form of useful thermal energy shall be equal to the quotient of\u2014I.R.C. \u00a7 45Y(g)(2)(C)(i)(I)\u2014the total useful thermal energy produced by the combined heat and power system property\n                              within the qualified facility, divided byI.R.C. \u00a7 45Y(g)(2)(C)(i)(II)\u2014the heat rate for such facility.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(g)(2)(C)(ii)",
+    "source_subsections": [
+      "(g)(2)(C)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Rate",
+    "text": "For purposes of this subparagraph, the term \u201cheat rate\u201d means the amount of energy used by the qualified facility to generate 1 kilowatt hour of electricity, expressed as British thermal units per net kilowatt hour generated.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subparagraph, the term \u201cheat rate\u201d means the amount of energy used by the qualified facility to generate 1 kilowatt hour of electricity, expressed as British thermal units per net kilowatt hour generated."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(g)(2)(C)(ii)Heat Rate\u2014For purposes of this subparagraph, the term \u201cheat rate\u201d means the amount of energy\n                           used by the qualified facility to generate 1 kilowatt hour of electricity, expressed\n                           as British thermal units per net kilowatt hour generated.",
+    "definitions": {
+      "term": "heat rate",
+      "requirements": [
+        "the amount of energy used by the qualified facility to generate 1 kilowatt hour of electricity, expressed as British thermal units per net kilowatt hour generated."
+      ]
+    }
+  },
+  {
+    "section": "45Y",
+    "subsection": "(g)(3)",
+    "source_subsections": [
+      "(g)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Attributable To The Taxpayer",
+    "text": "In the case of a qualified facility in which more than 1 person has an ownership interest, except to the extent provided in regulations prescribed by the Secretary, production from the facility shall be allocated among such persons in proportion to their respective ownership interests in the gross sales from such facility.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "to the extent provided in regulations prescribed by the Secretary, production from the facility shall be allocated among such persons in proportion to their respective ownership interests in the gross sales from such facility."
+      ],
+      "result": "In the case of a qualified facility in which more than 1 person has an ownership interest,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(g)(3)Production Attributable To The Taxpayer\u2014In the case of a qualified facility in which more than 1 person has an ownership interest,\n                     except to the extent provided in regulations prescribed by the Secretary, production\n                     from the facility shall be allocated among such persons in proportion to their respective\n                     ownership interests in the gross sales from such facility.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(g)(4)",
+    "source_subsections": [
+      "(g)(4)"
+    ],
+    "rule_type": "condition",
+    "title": "Persons",
+    "text": "Persons shall be treated as related to each other if such persons would be treated as a single employer under the regulations prescribed undersection 52(b). In the case of a corporation which is a member of an affiliated group of corporations filing a consolidated return, such corporation shall be treated as selling electricity to an unrelated person if such electricity is sold to such a person by another member of such group.",
+    "conditions": [
+      "such persons would be treated as a single employer under the regulations prescribed undersection 52(b). In the case of a corporation which is a member of an affiliated group of corporations filing a consolidated return, such corporation shall be treated as selling electricity to an unrelated person",
+      "such electricity is sold to such a person by another member of such group."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such persons would be treated as a single employer under the regulations prescribed undersection 52(b). In the case of a corporation which is a member of an affiliated group of corporations filing a consolidated return, such corporation shall be treated as selling electricity to an unrelated person",
+        "such electricity is sold to such a person by another member of such group."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Persons shall be treated as related to each other"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(g)(4)Related Persons\u2014Persons shall be treated as related to each other if such persons would be treated\n                     as a single employer under the regulations prescribed undersection 52(b). In the case of a corporation which is a member of an affiliated group of corporations\n                     filing a consolidated return, such corporation shall be treated as selling electricity\n                     to an unrelated person if such electricity is sold to such a person by another member\n                     of such group.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(g)(5)",
+    "source_subsections": [
+      "(g)(5)"
+    ],
+    "rule_type": "condition",
+    "title": "In The Case Of Estates And Trusts",
+    "text": "Under regulations prescribed by the Secretary, rules similar to the rules of subsection (d) ofsection 52shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Under regulations prescribed by the Secretary, rules similar to the rules of subsection (d) ofsection 52shall apply."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(g)(5)Pass-Thru In The Case Of Estates And Trusts\u2014Under regulations prescribed by the Secretary, rules similar to the rules of subsection\n                     (d) ofsection 52shall apply.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(g)(6)(A)(i)",
+    "source_subsections": [
+      "(g)(6)(A)(i)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "In the case of an eligible cooperative organization, any portion of the credit determined under subsection (a) for the taxable year may, at the election of the organization, be apportioned among patrons of the organization on the basis of the amount of business done by the patrons during the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of an eligible cooperative organization, any portion of the credit determined under subsection (a) for the taxable year may, at the election of the organization, be apportioned among patrons of the organization on the basis of the amount of business done by the patrons during the taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(g)(6)(A)(i)In General\u2014In the case of an eligible cooperative organization, any portion of the credit determined\n                           under subsection (a) for the taxable year may, at the election of the organization,\n                           be apportioned among patrons of the organization on the basis of the amount of business\n                           done by the patrons during the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(g)(6)(A)(ii)",
+    "source_subsections": [
+      "(g)(6)(A)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "And Effect Of Election",
+    "text": "An election under clause (i) for any taxable year shall be made on a timely filed return for such year. Such election, once made, shall be irrevocable for such taxable year. Such election shall not take effect unless the organization designates the apportionment as such in a written notice mailed to its patrons during the payment period described in section 1382(d).",
+    "conditions": [
+      "the organization designates the apportionment as such in a written notice mailed to its patrons during the payment period described in section 1382(d)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "the organization designates the apportionment as such in a written notice mailed to its patrons during the payment period described in section 1382(d)."
+      ],
+      "except": [],
+      "result": "An election under clause (i) for any taxable year shall be made on a timely filed return for such year. Such election, once made, shall be irrevocable for such taxable year. Such election shall not take effect"
+    },
+    "cross_references": [
+      {
+        "section": "1382(d)",
+        "reason": "e payment period described in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(g)(6)(A)(ii)Form And Effect Of Election\u2014An election under clause (i) for any taxable year shall be made on a timely filed\n                           return for such year. Such election, once made, shall be irrevocable for such taxable\n                           year. Such election shall not take effect unless the organization designates the apportionment\n                           as such in a written notice mailed to its patrons during the payment period described\n                           in section 1382(d).",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(g)(6)(B)",
+    "source_subsections": [
+      "(g)(6)(B)",
+      "(g)(6)(B)(i)",
+      "(g)(6)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Of Organizations And Patrons",
+    "text": "The amount of the credit apportioned to any patrons under subparagraph (A)\u2014\u2014shall not be included in the amount determined under subsection (a) with respect to the organization for the taxable year, and\u2014shall be included in the amount determined under subsection (a) for the first taxable year of each patron ending on or after the last day of the payment period (as defined insection 1382(d)) for the taxable year of the organization or, if earlier, for the taxable year of each patron ending on or after the date on which the patron receives notice from the cooperative of the apportionment.",
+    "conditions": [
+      "earlier, for the taxable year of each patron ending on or after the date on which the patron receives notice from the cooperative of the apportionment."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "earlier, for the taxable year of each patron ending on or after the date on which the patron receives notice from the cooperative of the apportionment."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of the credit apportioned to any patrons under subparagraph (A)\u2014\u2014shall not be included in the amount determined under subsection (a) with respect to the organization for the taxable year, and\u2014shall be included in the amount determined under subsection (a) for the first taxable year of each patron ending on or after the last day of the payment period (as defined insection 1382(d)) for the taxable year of the organization or,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(g)(6)(B)Treatment Of Organizations And Patrons\u2014The amount of the credit apportioned to any patrons under subparagraph (A)\u2014I.R.C. \u00a7 45Y(g)(6)(B)(i)\u2014shall not be included in the amount determined under subsection (a) with respect to\n                           the organization for the taxable year, andI.R.C. \u00a7 45Y(g)(6)(B)(ii)\u2014shall be included in the amount determined under subsection (a) for the first taxable\n                           year of each patron ending on or after the last day of the payment period (as defined\n                           insection 1382(d)) for the taxable year of the organization or, if earlier, for the taxable year of\n                           each patron ending on or after the date on which the patron receives notice from the\n                           cooperative of the apportionment.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(g)(6)(C)",
+    "source_subsections": [
+      "(g)(6)(C)",
+      "(g)(6)(C)(i)",
+      "(g)(6)(C)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Rules For Decrease In Credits For Taxable Year",
+    "text": "If the amount of the credit of a cooperative organization determined under subsection (a) for a taxable year is less than the amount of such credit shown on the return of the cooperative organization for such year, an amount equal to the excess of\u2014\u2014such reduction, over\u2014the amount not apportioned to such patrons under subparagraph (A) for the taxable year,shall be treated as an increase in tax imposed by this chapter on the organization. Such increase shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit under this chapter.",
+    "conditions": [
+      "the amount of the credit of a cooperative organization determined under subsection (a) for a taxable year is less than the amount of such credit shown on the return of the cooperative organization for such year, an amount equal to the excess of\u2014\u2014such reduction, over\u2014the amount not apportioned to such patrons under subparagraph (A) for the taxable year,shall be treated as an increase in tax imposed by this chapter on the organization. Such increase shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit under this chapter."
+    ],
+    "computations": [
+      {
+        "operation": "subtraction",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the amount of the credit of a cooperative organization determined under subsection (a) for a taxable year is less than the amount of such credit shown on the return of the cooperative organization for such year, an amount equal to the excess of\u2014\u2014such reduction, over\u2014the amount not apportioned to such patrons under subparagraph (A) for the taxable year,shall be treated as an increase in tax imposed by this chapter on the organization. Such increase shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit under this chapter."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(g)(6)(C)Special Rules For Decrease In Credits For Taxable Year\u2014If the amount of the credit of a cooperative organization determined under subsection\n                        (a) for a taxable year is less than the amount of such credit shown on the return\n                        of the cooperative organization for such year, an amount equal to the excess of\u2014I.R.C. \u00a7 45Y(g)(6)(C)(i)\u2014such reduction, overI.R.C. \u00a7 45Y(g)(6)(C)(ii)\u2014the amount not apportioned to such patrons under subparagraph (A) for the taxable\n                           year,shall be treated as an increase in tax imposed by this chapter on the organization.\n                           Such increase shall not be treated as tax imposed by this chapter for purposes of\n                           determining the amount of any credit under this chapter.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(g)(6)(D)",
+    "source_subsections": [
+      "(g)(6)(D)"
+    ],
+    "rule_type": "definition",
+    "title": "Cooperative Defined",
+    "text": "Cooperative Defined\u2014For purposes of this section, the term \u201celigible cooperative\u201d means a cooperative organization described insection 1381(a)which is owned more than 50 percent by agricultural producers or by entities owned by agricultural producers. For this purpose an entity owned by an agricultural producer is one that is more than 50 percent owned by agricultural producers.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Cooperative Defined\u2014For purposes of this section, the term \u201celigible cooperative\u201d means a cooperative organization described insection 1381(a)which is owned more than 50 percent by agricultural producers or by entities owned by agricultural producers. For this purpose an entity owned by an agricultural producer is one that is more than 50 percent owned by agricultural producers."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(g)(6)(D)Eligible Cooperative Defined\u2014For purposes of this section, the term \u201celigible cooperative\u201d means a cooperative\n                        organization described insection 1381(a)which is owned more than 50 percent by agricultural producers or by entities owned\n                        by agricultural producers. For this purpose an entity owned by an agricultural producer\n                        is one that is more than 50 percent owned by agricultural producers.",
+    "definitions": {
+      "term": "eligible cooperative",
+      "requirements": [
+        "a cooperative organization described insection 1381(a)which is owned more than 50 percent by agricultural producers or by entities owned by agricultural producers. For this purpose an entity owned by an agricultural producer is one that is more than 50 percent owned by agricultural producers."
+      ]
+    }
+  },
+  {
+    "section": "45Y",
+    "subsection": "(g)(7)",
+    "source_subsections": [
+      "(g)(7)"
+    ],
+    "rule_type": "definition",
+    "title": "In Credit In Energy Communities",
+    "text": "In the case of any qualified facility which is located in an energy community (as defined insection 45(b)(11)(B)), for purposes of determining the amount of the credit under subsection (a) with respect to any electricity produced by the taxpayer at such facility during the taxable year, the applicable amount under paragraph (2) of such subsection shall be increased by an amount equal to 10 percent of the amount otherwise in effect under such paragraph.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.1,
+        "text": "10 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any qualified facility which is located in an energy community (as defined insection 45(b)(11)(B)), for purposes of determining the amount of the credit under subsection (a) with respect to any electricity produced by the taxpayer at such facility during the taxable year, the applicable amount under paragraph (2) of such subsection shall be increased by an amount equal to 10 percent of the amount otherwise in effect under such paragraph."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(g)(7)Increase In Credit In Energy Communities\u2014In the case of any qualified facility which is located in an energy community (as\n                     defined insection 45(b)(11)(B)), for purposes of determining the amount of the credit under subsection (a) with\n                     respect to any electricity produced by the taxpayer at such facility during the taxable\n                     year, the applicable amount under paragraph (2) of such subsection shall be increased\n                     by an amount equal to 10 percent of the amount otherwise in effect under such paragraph.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(g)(8)",
+    "source_subsections": [
+      "(g)(8)"
+    ],
+    "rule_type": "condition",
+    "title": "Reduced For Tax",
+    "text": "Exempt Bonds\u2014Rules similar to the rules ofsection 45(b)(3)shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Exempt Bonds\u2014Rules similar to the rules ofsection 45(b)(3)shall apply."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(g)(8)Credit Reduced For Tax-Exempt Bonds\u2014Rules similar to the rules ofsection 45(b)(3)shall apply.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(g)(9)",
+    "source_subsections": [
+      "(g)(9)"
+    ],
+    "rule_type": "condition",
+    "title": "Requirements",
+    "text": "Rules similar to the rules ofsection 45(b)(7)shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules ofsection 45(b)(7)shall apply."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(g)(9)Wage Requirements\u2014Rules similar to the rules ofsection 45(b)(7)shall apply.",
+    "definitions": null
+  },
+  {
+    "section": "45Y",
+    "subsection": "(h)",
+    "source_subsections": [
+      "(h)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Credit For Wind And Solar Leasing Arrangements",
+    "text": "No credit shall be determined under this section with respect to any production of electricity during the taxable year with respect to property described in paragraph (1) or (4) ofsection 25D(d)(as applied by substituting \u2018lessee\u2019 for \u2018taxpayer\u2019) if the taxpayer rents or leases such property to a third party during such taxable year.",
+    "conditions": [
+      "the taxpayer rents or leases such property to a third party during such taxable year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the taxpayer rents or leases such property to a third party during such taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be determined under this section with respect to any production of electricity during the taxable year with respect to property described in paragraph (1) or (4) ofsection 25D(d)(as applied by substituting \u2018lessee\u2019 for \u2018taxpayer\u2019)"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45Y(h)Denial Of Credit For Wind And Solar Leasing Arrangements\u2014No credit shall be determined under this section with respect to any production of\n                  electricity during the taxable year with respect to property described in paragraph\n                  (1) or (4) ofsection 25D(d)(as applied by substituting \u2018lessee\u2019 for \u2018taxpayer\u2019) if the taxpayer rents or leases\n                  such property to a third party during such taxable year.",
+    "definitions": null
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "id": "8cf3fc40c5c0",
+  "section": "45S",
+  "citation": "I.R.C. \u00a7 45S(a)(2)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 45S(a)(2) is discussed as follows: 'I.R.C. \u00a7 45S(a)(2)Applicable Percentage\u2014For purposes of paragraph (1), the term \u201capplicable percenta...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 45S(a)(2)?",
+  "difficulty": 1,
+  "choices": [
+    "0.2%",
+    "10.2%",
+    "0.0%",
+    "0.4%",
+    "99.8%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 0.25%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 45S(a)(2)"
+  ]
+}

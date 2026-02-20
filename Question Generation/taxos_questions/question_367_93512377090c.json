@@ -1,0 +1,22 @@
+{
+  "id": "93512377090c",
+  "section": "367",
+  "citation": "I.R.C. \u00a7 367(c)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 367(c) is discussed as follows: 'I.R.C. \u00a7 367(c)Transactions To Be Treated As ExchangesI.R.C. \u00a7 367(c)(1)Section 355 Distribution\u2014For...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 367(c)?",
+  "difficulty": 1,
+  "choices": [
+    "80.0%",
+    "20.0%",
+    "70.0%",
+    "120.0%",
+    "90.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 80.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 367(c)"
+  ]
+}

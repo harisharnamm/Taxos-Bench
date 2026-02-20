@@ -1,0 +1,22 @@
+{
+  "id": "c112f8a78289",
+  "section": "178",
+  "citation": "I.R.C. \u00a7 178(a)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 178(a) is discussed as follows: 'I.R.C. \u00a7 178(a)General Rule\u2014In  determining the amount of the deduction allowable to a lessee for  e...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 178(a)?",
+  "difficulty": 1,
+  "choices": [
+    "65.0%",
+    "85.0%",
+    "112.5%",
+    "25.0%",
+    "75.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 75.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 178(a)"
+  ]
+}

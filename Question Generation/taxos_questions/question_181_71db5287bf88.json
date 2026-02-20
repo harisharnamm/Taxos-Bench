@@ -1,0 +1,22 @@
+{
+  "id": "71db5287bf88",
+  "section": "181",
+  "citation": "I.R.C. \u00a7 181(e)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 181(e) is discussed as follows: 'I.R.C. \u00a7 181(e)Qualified Live Theatrical Production\u2014For purposes of this section\u2014I.R.C. \u00a7 181(e)(1)I...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 181(e)?",
+  "difficulty": 1,
+  "choices": [
+    "75.0%",
+    "65.0%",
+    "25.0%",
+    "85.0%",
+    "112.5%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 75.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 181(e)"
+  ]
+}

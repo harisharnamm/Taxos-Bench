@@ -1,0 +1,22 @@
+{
+  "id": "1f04b38c964e",
+  "section": "407",
+  "citation": "I.R.C. \u00a7 407(a)(2)(A)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 407(a)(2)(A) is discussed as follows: 'I.R.C. \u00a7 407(a)(2)(A)Domestic Subsidiary\u2014A  corporation shall be treated as a domestic subsidiary fo...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 407(a)(2)(A)?",
+  "difficulty": 1,
+  "choices": [
+    "120.0%",
+    "80.0%",
+    "20.0%",
+    "70.0%",
+    "90.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 80.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 407(a)(2)(A)"
+  ]
+}

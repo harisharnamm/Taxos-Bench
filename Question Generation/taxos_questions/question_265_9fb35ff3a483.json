@@ -1,0 +1,22 @@
+{
+  "id": "9fb35ff3a483",
+  "section": "265",
+  "citation": "I.R.C. \u00a7 265(b)(3)(G)(i)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 265(b)(3)(G)(i) is discussed as follows: 'I.R.C. \u00a7 265(b)(3)(G)(i)Increase In Limitation\u2014In the case of obligations issued during 2009 or 2010...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 265(b)(3)(G)(i)?",
+  "difficulty": 1,
+  "choices": [
+    "$20,000,000.00",
+    "$5,000,000.00",
+    "$11,000,000.00",
+    "$9,000,000.00",
+    "$10,000,000.00"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies $10,000,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 265(b)(3)(G)(i)"
+  ]
+}

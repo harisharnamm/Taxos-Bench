@@ -1,0 +1,22 @@
+{
+  "id": "c4ac3ee57ada",
+  "section": "137",
+  "citation": "I.R.C. \u00a7 137(b)(1)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 137(b)(1) is discussed as follows: 'I.R.C. \u00a7 137(b)(1)Dollar Limitation\u2014The  aggregate  of the amounts paid or expenses incurred which m...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 137(b)(1)?",
+  "difficulty": 1,
+  "choices": [
+    "$10,000.00",
+    "$11,000.00",
+    "$9,000.00",
+    "$5,000.00",
+    "$20,000.00"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies $10,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 137(b)(1)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "1b95e4559b33",
+  "section": "809",
+  "citation": "I.R.C. \u00a7 809(d)(1)(A)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 809(d)(1)(A) is discussed as follows: 'I.R.C. \u00a7 809(d)(1)(A)\u201416.5 percent in the case of taxable years beginning in  1984, and...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 809(d)(1)(A)?",
+  "difficulty": 1,
+  "choices": [
+    "24.8%",
+    "26.5%",
+    "83.5%",
+    "16.5%",
+    "6.5%"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies 16.5%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 809(d)(1)(A)"
+  ]
+}

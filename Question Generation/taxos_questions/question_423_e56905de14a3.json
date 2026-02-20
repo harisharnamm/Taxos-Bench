@@ -1,0 +1,22 @@
+{
+  "id": "e56905de14a3",
+  "section": "423",
+  "citation": "I.R.C. \u00a7 423(b)(6)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 423(b)(6) is discussed as follows: 'I.R.C. \u00a7 423(b)(6)\u2014under  the terms of the plan, the option price is not less than the lesser of\u2014I.R...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 423(b)(6)?",
+  "difficulty": 1,
+  "choices": [
+    "15.0%",
+    "95.0%",
+    "127.5%",
+    "75.0%",
+    "85.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 85.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 423(b)(6)"
+  ]
+}

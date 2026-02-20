@@ -1,0 +1,162 @@
+[
+  {
+    "section": "12",
+    "subsection": "(1)",
+    "source_subsections": [
+      "(1)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "For tax on the unrelated business income of certain charitable and other corporations exempt from tax under this chapter, see section511.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For tax on the unrelated business income of certain charitable and other corporations exempt from tax under this chapter, see section511."
+    },
+    "cross_references": [
+      {
+        "section": "511",
+        "reason": "m tax under this chapter, see..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 12(1)\u2014For tax on the unrelated business\n                  income of certain charitable and other corporations exempt from tax\n                  under this chapter, see section511.",
+    "definitions": null
+  },
+  {
+    "section": "12",
+    "subsection": "(2)",
+    "source_subsections": [
+      "(2)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "For accumulated earnings tax and personal holding company tax, see parts I and II of subchapter G (sec.531and following).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For accumulated earnings tax and personal holding company tax, see parts I and II of subchapter G (sec.531and following)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 12(2)\u2014For accumulated earnings tax and\n                  personal holding company tax, see parts I and II of subchapter G (sec.531and following).",
+    "definitions": null
+  },
+  {
+    "section": "12",
+    "subsection": "(3)",
+    "source_subsections": [
+      "(3)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "For doubling of tax on corporations of certain foreign countries, see section891.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For doubling of tax on corporations of certain foreign countries, see section891."
+    },
+    "cross_references": [
+      {
+        "section": "891",
+        "reason": "ertain foreign countries, see..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 12(3)\u2014For doubling of tax on corporations\n                  of certain foreign countries, see section891.",
+    "definitions": null
+  },
+  {
+    "section": "12",
+    "subsection": "(4)",
+    "source_subsections": [
+      "(4)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "For alternative tax in case of capital gains, see section1201(a).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For alternative tax in case of capital gains, see section1201(a)."
+    },
+    "cross_references": [
+      {
+        "section": "1201(a)",
+        "reason": "in case of capital gains, see..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 12(4)\u2014For alternative tax in case of capital\n                  gains, see section1201(a).",
+    "definitions": null
+  },
+  {
+    "section": "12",
+    "subsection": "(5)",
+    "source_subsections": [
+      "(5)"
+    ],
+    "rule_type": "limitation",
+    "title": null,
+    "text": "For alternative minimum tax, see section55.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For alternative minimum tax, see section55."
+    },
+    "cross_references": [
+      {
+        "section": "55",
+        "reason": "alternative minimum tax, see..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 12(5)\u2014For alternative minimum tax, see\n                  section55.",
+    "definitions": null
+  }
+]

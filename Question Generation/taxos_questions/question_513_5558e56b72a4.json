@@ -1,0 +1,22 @@
+{
+  "id": "5558e56b72a4",
+  "section": "513",
+  "citation": "I.R.C. \u00a7 513(h)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 513(h) is discussed as follows: 'I.R.C. \u00a7 513(h)Certain Distributions Of Low Cost Articles Without Obligation To Purchase And Exchang...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 513(h)?",
+  "difficulty": 1,
+  "choices": [
+    "$5.00",
+    "$2.50",
+    "$5.50",
+    "$4.50",
+    "$10.00"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies $5.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 513(h)"
+  ]
+}

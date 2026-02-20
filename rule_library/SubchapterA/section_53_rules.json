@@ -1,0 +1,309 @@
+[
+  {
+    "section": "53",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)"
+    ],
+    "rule_type": "limitation",
+    "title": "Of Credit",
+    "text": "There shall be allowed as a credit against the tax imposed by this chapter for any taxable year an amount equal to the minimum tax credit for such taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "There shall be allowed as a credit against the tax imposed by this chapter for any taxable year an amount equal to the minimum tax credit for such taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 53(a)Allowance Of Credit\u2014There shall be allowed as a credit against the tax imposed\n                  by this chapter for any taxable year an amount equal to the minimum\n                  tax credit for such taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "53",
+    "subsection": "(b)",
+    "source_subsections": [
+      "(b)",
+      "(b)(1)",
+      "(b)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Tax Credit",
+    "text": "For purposes of subsection(a), the minimum tax credit for any taxable year is the excess (if any) of\u2014\u2014the adjusted net minimum tax imposed for all prior taxable years beginning after 1986, over\u2014the amount allowable as a credit under subsection(a)for such prior taxable years.",
+    "conditions": [
+      "any) of\u2014\u2014the adjusted net minimum tax imposed for all prior taxable years beginning after 1986, over\u2014the amount allowable as a credit under subsection(a)for such prior taxable years."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any) of\u2014\u2014the adjusted net minimum tax imposed for all prior taxable years beginning after 1986, over\u2014the amount allowable as a credit under subsection(a)for such prior taxable years."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subsection(a), the minimum tax credit for any taxable year is the excess ("
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 53(b)Minimum Tax Credit\u2014For purposes of subsection(a), the minimum tax credit for\n                  any taxable year is the excess (if any) of\u2014I.R.C. \u00a7 53(b)(1)\u2014the adjusted net minimum tax imposed\n                     for all prior taxable years beginning after 1986, overI.R.C. \u00a7 53(b)(2)\u2014the amount allowable as a credit under\n                     subsection(a)for\n                     such prior taxable years.",
+    "definitions": null
+  },
+  {
+    "section": "53",
+    "subsection": "(c)",
+    "source_subsections": [
+      "(c)",
+      "(c)(1)",
+      "(c)(2)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The credit allowable under subsection(a)for any taxable year shall not exceed the excess (if any) of\u2014\u2014the regular tax liability of the taxpayer for such taxable year reduced by the sum of the credits allowable under subparts A, B, D, E, and F of this part, over\u2014the tentative minimum tax for the taxable year.",
+    "conditions": [
+      "any) of\u2014\u2014the regular tax liability of the taxpayer for such taxable year reduced by the sum of the credits allowable under subparts A, B, D, E, and F of this part, over\u2014the tentative minimum tax for the taxable year."
+    ],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any) of\u2014\u2014the regular tax liability of the taxpayer for such taxable year reduced by the sum of the credits allowable under subparts A, B, D, E, and F of this part, over\u2014the tentative minimum tax for the taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The credit allowable under subsection(a)for any taxable year shall not exceed the excess ("
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 53(c)Limitation\u2014The credit allowable under subsection(a)for any taxable year shall\n                  not exceed the excess (if any) of\u2014I.R.C. \u00a7 53(c)(1)\u2014the regular tax liability of the taxpayer\n                     for such taxable year reduced by the sum of the credits allowable\n                     under subparts A, B, D, E, and F of this part, overI.R.C. \u00a7 53(c)(2)\u2014the tentative minimum tax for the taxable\n                     year.",
+    "definitions": null
+  },
+  {
+    "section": "53",
+    "subsection": "(d)(1)(A)",
+    "source_subsections": [
+      "(d)(1)(A)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cnet minimum tax\u201d means the tax imposed by section55.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cnet minimum tax\u201d means the tax imposed by section55."
+    },
+    "cross_references": [
+      {
+        "section": "55",
+        "reason": "tax\u201d means the tax imposed by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 53(d)(1)(A)In General\u2014The term \u201cnet minimum tax\u201d means the tax\n                        imposed by section55.",
+    "definitions": {
+      "term": "net minimum tax",
+      "requirements": [
+        "the tax imposed by section55."
+      ]
+    }
+  },
+  {
+    "section": "53",
+    "subsection": "(d)(1)(B)(i)",
+    "source_subsections": [
+      "(d)(1)(B)(i)",
+      "(d)(1)(B)(i)(I)",
+      "(d)(1)(B)(i)(II)"
+    ],
+    "rule_type": "condition",
+    "title": "Net Minimum Tax",
+    "text": "The adjusted net minimum tax for any taxable year is\u2014\u2014the amount of the net minimum tax for such taxable year, reduced by\u2014the amount which would be the net minimum tax for such taxable year if the only adjustments and items of tax preference taken into account were those specified in clause(ii).",
+    "conditions": [
+      "the only adjustments and items of tax preference taken into account were those specified in clause(ii)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the only adjustments and items of tax preference taken into account were those specified in clause(ii)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The adjusted net minimum tax for any taxable year is\u2014\u2014the amount of the net minimum tax for such taxable year, reduced by\u2014the amount which would be the net minimum tax for such taxable year"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 53(d)(1)(B)(i)Adjusted Net Minimum Tax\u2014The adjusted net minimum tax for any taxable year is\u2014I.R.C. \u00a7 53(d)(1)(B)(i)(I)\u2014the amount of the net minimum tax for\n                              such taxable year, reduced byI.R.C. \u00a7 53(d)(1)(B)(i)(II)\u2014the amount which would be the net minimum\n                              tax for such taxable year if the only adjustments and items of tax\n                              preference taken into account were those specified in clause(ii).",
+    "definitions": null
+  },
+  {
+    "section": "53",
+    "subsection": "(d)(1)(B)(ii)",
+    "source_subsections": [
+      "(d)(1)(B)(ii)",
+      "(d)(1)(B)(ii)(I)",
+      "(d)(1)(B)(ii)(II)"
+    ],
+    "rule_type": "condition",
+    "title": "Items",
+    "text": "The following are specified in this clause\u2014\u2014the adjustments provided for in subsection(b)(1)of section56, and\u2014the items of tax preference described in paragraphs(1),(5), and(7)of section57(a).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The following are specified in this clause\u2014\u2014the adjustments provided for in subsection(b)(1)of section56, and\u2014the items of tax preference described in paragraphs(1),(5), and(7)of section57(a)."
+    },
+    "cross_references": [
+      {
+        "section": "56",
+        "reason": "ded for in subsection(b)(1)of..."
+      },
+      {
+        "section": "57(a)",
+        "reason": "n paragraphs(1),(5), and(7)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 53(d)(1)(B)(ii)Specified Items\u2014The following are specified in this clause\u2014I.R.C. \u00a7 53(d)(1)(B)(ii)(I)\u2014the adjustments provided for in subsection(b)(1)of section56, andI.R.C. \u00a7 53(d)(1)(B)(ii)(II)\u2014the items of tax preference described\n                              in paragraphs(1),(5), and(7)of section57(a).",
+    "definitions": null
+  },
+  {
+    "section": "53",
+    "subsection": "(d)(1)(B)(iii)",
+    "source_subsections": [
+      "(d)(1)(B)(iii)",
+      "(d)(1)(B)(iii)(I)",
+      "(d)(1)(B)(iii)(II)"
+    ],
+    "rule_type": "limitation",
+    "title": "Allowable For Exclusion Preferences Of Corporations",
+    "text": "In the case of a corporation \u2014\u2014the preceding provisions of this subparagraph shall not apply, and\u2014the adjusted net minimum tax for any taxable year is the amount of the net minimum tax for such year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a corporation \u2014\u2014the preceding provisions of this subparagraph shall not apply, and\u2014the adjusted net minimum tax for any taxable year is the amount of the net minimum tax for such year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 53(d)(1)(B)(iii)Credit Allowable For Exclusion Preferences Of Corporations\u2014In the case of a corporation \u2014I.R.C. \u00a7 53(d)(1)(B)(iii)(I)\u2014the preceding provisions of this subparagraph shall not apply, andI.R.C. \u00a7 53(d)(1)(B)(iii)(II)\u2014the adjusted net minimum tax for any taxable year is the amount of the net minimum\n                              tax for such year.",
+    "definitions": null
+  },
+  {
+    "section": "53",
+    "subsection": "(d)(2)",
+    "source_subsections": [
+      "(d)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Minimum Tax",
+    "text": "The term \u201ctentative minimum tax\u201d has the meaning given to such term by section55(b).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201ctentative minimum tax\u201d has the meaning given to such term by section55(b)."
+    },
+    "cross_references": [
+      {
+        "section": "55(b)",
+        "reason": "meaning given to such term by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 53(d)(2)Tentative Minimum Tax\u2014The term \u201ctentative minimum tax\u201d has the\n                     meaning given to such term by section55(b).",
+    "definitions": null
+  },
+  {
+    "section": "53",
+    "subsection": "(e)",
+    "source_subsections": [
+      "(e)",
+      "(e)(1)",
+      "(e)(2)"
+    ],
+    "rule_type": "limitation",
+    "title": "To Applicable Corporations",
+    "text": "In the case of a corporation\u2014\u2014subsection (b)(1) shall be applied by substituting \u201cthe net minimum tax for all prior taxable years beginning after 2022\u201d for \u201cthe adjusted net minimum tax imposed for all prior taxable years beginning after 1986\u201d, and\u2014the amount determined under subsection (c)(1) shall be increased by the amount of tax imposed undersection 59Afor the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a corporation\u2014\u2014subsection (b)(1) shall be applied by substituting \u201cthe net minimum tax for all prior taxable years beginning after 2022\u201d for \u201cthe adjusted net minimum tax imposed for all prior taxable years beginning after 1986\u201d, and\u2014the amount determined under subsection (c)(1) shall be increased by the amount of tax imposed undersection 59Afor the taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 53(e)Application To Applicable Corporations\u2014In the case of a corporation\u2014I.R.C. \u00a7 53(e)(1)\u2014subsection (b)(1) shall be applied by\n                     substituting \u201cthe net minimum tax for all prior taxable years\n                     beginning after 2022\u201d for \u201cthe adjusted net minimum tax\n                     imposed for all prior taxable years beginning after 1986\u201d, andI.R.C. \u00a7 53(e)(2)\u2014the amount determined under subsection\n                     (c)(1) shall be increased by the amount of tax imposed undersection 59Afor the taxable year.",
+    "definitions": null
+  }
+]

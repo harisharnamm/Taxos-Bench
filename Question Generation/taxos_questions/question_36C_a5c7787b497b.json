@@ -1,0 +1,22 @@
+{
+  "id": "a5c7787b497b",
+  "section": "36C",
+  "citation": "I.R.C. \u00a7 36C(a)(3)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 36C(a)(3) is discussed as follows: 'I.R.C. \u00a7 36C(a)(3)$13,170 Credit For Adoption Of Child With Special Needs Regardless Of Expenses\u2014In ...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 36C(a)(3)?",
+  "difficulty": 1,
+  "choices": [
+    "$6,585.00",
+    "$14,487.00",
+    "$13,170.00",
+    "$11,853.00",
+    "$26,340.00"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies $13,170.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 36C(a)(3)"
+  ]
+}

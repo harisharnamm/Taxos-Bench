@@ -1,0 +1,22 @@
+{
+  "id": "206c513d86f5",
+  "section": "1443",
+  "citation": "I.R.C. \u00a7 1443(b)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1443(b) is discussed as follows: 'I.R.C. \u00a7 1443(b)Income Subject To Section 4948\u2014In  the case of income of a foreign organization subj...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1443(b)?",
+  "difficulty": 1,
+  "choices": [
+    "0.0%",
+    "6.0%",
+    "96.0%",
+    "14.0%",
+    "4.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 4.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1443(b)"
+  ]
+}

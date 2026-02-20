@@ -1,0 +1,22 @@
+{
+  "id": "d2ba16b18b60",
+  "section": "165",
+  "citation": "I.R.C. \u00a7 165(h)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 165(h) is discussed as follows: 'I.R.C. \u00a7 165(h)Treatment Of Casualty Gains And Losses\u2014I.R.C. \u00a7 165(h)(1)Dollar Limitation Per Casual...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 165(h)?",
+  "difficulty": 1,
+  "choices": [
+    "20.0%",
+    "90.0%",
+    "10.0%",
+    "0.0%",
+    "15.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 10.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 165(h)"
+  ]
+}

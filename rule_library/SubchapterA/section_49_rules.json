@@ -1,0 +1,750 @@
+[
+  {
+    "section": "49",
+    "subsection": "(a)(1)(A)",
+    "source_subsections": [
+      "(a)(1)(A)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The credit base of any property to which this paragraph applies shall be reduced by the nonqualified nonrecourse financing with respect to such credit base (as of the close of the taxable year in which placed in service).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The credit base of any property to which this paragraph applies shall be reduced by the nonqualified nonrecourse financing with respect to such credit base (as of the close of the taxable year in which placed in service)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 49(a)(1)(A)Limitation\u2014The credit base of any property to which this paragraph applies shall be reduced by\n                        the nonqualified nonrecourse financing with respect to such credit base (as of the\n                        close of the taxable year in which placed in service).",
+    "definitions": null
+  },
+  {
+    "section": "49",
+    "subsection": "(a)(1)(B)",
+    "source_subsections": [
+      "(a)(1)(B)",
+      "(a)(1)(B)(i)",
+      "(a)(1)(B)(ii)"
+    ],
+    "rule_type": "limitation",
+    "title": "To Which Paragraph Applies",
+    "text": "This paragraph applies to any property which\u2014\u2014is placed in service during the taxable year by a taxpayer described in section465(a)(1), and\u2014is used in connection with an activity with respect to which any loss is subject to limitation under section465.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "This paragraph applies to any property which\u2014\u2014is placed in service during the taxable year by a taxpayer described in section465(a)(1), and\u2014is used in connection with an activity with respect to which any loss is subject to limitation under section465."
+    },
+    "cross_references": [
+      {
+        "section": "465(a)(1)",
+        "reason": "ar by a taxpayer described in..."
+      },
+      {
+        "section": "465",
+        "reason": "s subject to limitation under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 49(a)(1)(B)Property To Which Paragraph Applies\u2014This paragraph applies to any property which\u2014I.R.C. \u00a7 49(a)(1)(B)(i)\u2014is placed in service during the taxable year by a taxpayer described in section465(a)(1), andI.R.C. \u00a7 49(a)(1)(B)(ii)\u2014is used in connection with an activity with respect to which any loss is subject to\n                           limitation under section465.",
+    "definitions": null
+  },
+  {
+    "section": "49",
+    "subsection": "(a)(1)(C)",
+    "source_subsections": [
+      "(a)(1)(C)",
+      "(a)(1)(C)(i)",
+      "(a)(1)(C)(ii)",
+      "(a)(1)(C)(iii)",
+      "(a)(1)(C)(iv)",
+      "(a)(1)(C)(v)",
+      "(a)(1)(C)(vi)",
+      "(a)(1)(C)(vii)",
+      "(a)(1)(C)(viii)"
+    ],
+    "rule_type": "definition",
+    "title": "Base Defined",
+    "text": "Base Defined\u2014For purposes of this paragraph, the term \u201ccredit base\u201d means\u2014\u2014the portion of the basis of any qualified rehabilitated building attributable to qualified rehabilitation expenditures,\u2014the basis of any energy property,\u2014the basis of any property which is part of a qualifying advanced coal project under section48A,\u2014the basis of any property which is part of a qualifying gasification project under section48B, and\u2014the basis of any property which is part of a qualifying advanced energy project under section48C.\u2014the basis of any qualified property (as defined in subsection (b)(2) of section48D) which is part of an advanced manufacturing facility (as defined in subsection (b)(3) of such section),\u2014the basis of any qualified property which is part of a qualified facility under section48E, and\u2014the basis of any energy storage technology under section48E.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Base Defined\u2014For purposes of this paragraph, the term \u201ccredit base\u201d means\u2014\u2014the portion of the basis of any qualified rehabilitated building attributable to qualified rehabilitation expenditures,\u2014the basis of any energy property,\u2014the basis of any property which is part of a qualifying advanced coal project under section48A,\u2014the basis of any property which is part of a qualifying gasification project under section48B, and\u2014the basis of any property which is part of a qualifying advanced energy project under section48C.\u2014the basis of any qualified property (as defined in subsection (b)(2) of section48D) which is part of an advanced manufacturing facility (as defined in subsection (b)(3) of such section),\u2014the basis of any qualified property which is part of a qualified facility under section48E, and\u2014the basis of any energy storage technology under section48E."
+    },
+    "cross_references": [
+      {
+        "section": "48A",
+        "reason": "g advanced coal project under..."
+      },
+      {
+        "section": "48B",
+        "reason": "ng gasification project under..."
+      },
+      {
+        "section": "48C",
+        "reason": "advanced energy project under..."
+      },
+      {
+        "section": "48D",
+        "reason": "fined in subsection (b)(2) of..."
+      },
+      {
+        "section": "48E",
+        "reason": "of a qualified facility under..."
+      },
+      {
+        "section": "48E",
+        "reason": "ergy storage technology under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 49(a)(1)(C)Credit Base Defined\u2014For purposes of this paragraph, the term \u201ccredit base\u201d means\u2014I.R.C. \u00a7 49(a)(1)(C)(i)\u2014the portion of the basis of any qualified rehabilitated building attributable to qualified\n                           rehabilitation expenditures,I.R.C. \u00a7 49(a)(1)(C)(ii)\u2014the basis of any energy property,I.R.C. \u00a7 49(a)(1)(C)(iii)\u2014the basis of any property which is part of a qualifying advanced coal project under\n                           section48A,I.R.C. \u00a7 49(a)(1)(C)(iv)\u2014the basis of any property which is part of a qualifying gasification project under\n                           section48B, andI.R.C. \u00a7 49(a)(1)(C)(v)\u2014the basis of any property which is part of a qualifying advanced energy project under\n                           section48C.I.R.C. \u00a7 49(a)(1)(C)(vi)\u2014the basis of any qualified property (as defined in subsection (b)(2) of section48D) which is part of an advanced manufacturing facility (as defined in subsection (b)(3)\n                           of such section),I.R.C. \u00a7 49(a)(1)(C)(vii)\u2014the basis of any qualified property which is part of a qualified facility under section48E, andI.R.C. \u00a7 49(a)(1)(C)(viii)\u2014the basis of any energy storage technology under section48E.",
+    "definitions": null
+  },
+  {
+    "section": "49",
+    "subsection": "(a)(1)(D)(i)",
+    "source_subsections": [
+      "(a)(1)(D)(i)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "For purposes of this paragraph and paragraph(2), the term \u201cnonqualified nonrecourse financing\u201d means any nonrecourse financing which is not qualified commercial financing.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph and paragraph(2), the term \u201cnonqualified nonrecourse financing\u201d means any nonrecourse financing which is not qualified commercial financing."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 49(a)(1)(D)(i)In General\u2014For purposes of this paragraph and paragraph(2), the term \u201cnonqualified nonrecourse financing\u201d means any nonrecourse financing which\n                           is not qualified commercial financing.",
+    "definitions": {
+      "term": "nonqualified nonrecourse financing",
+      "requirements": [
+        "any nonrecourse financing which is not qualified commercial financing."
+      ]
+    }
+  },
+  {
+    "section": "49",
+    "subsection": "(a)(1)(D)(ii)",
+    "source_subsections": [
+      "(a)(1)(D)(ii)",
+      "(a)(1)(D)(ii)(I)",
+      "(a)(1)(D)(ii)(II)",
+      "(a)(1)(D)(ii)(III)"
+    ],
+    "rule_type": "definition",
+    "title": "Commercial Financing",
+    "text": "For purposes of this paragraph, the term \u201cqualified commercial financing\u201d means any financing with respect to any property if\u2014\u2014such property is acquired by the taxpayer from a person who is not a related person,\u2014the amount of the nonrecourse financing with respect to such property does not exceed 80 percent of the credit base of such property, and\u2014such financing is borrowed from a qualified person or represents a loan from any Federal, State, or local government or instrumentality thereof, or is guaranteed by any Federal, State, or local government.Such term shall not include any convertible debt.",
+    "conditions": [
+      "\u2014\u2014such property is acquired by the taxpayer from a person who is not a related person,\u2014the amount of the nonrecourse financing with respect to such property does not exceed 80 percent of the credit base of such property, and\u2014such financing is borrowed from a qualified person or represents a loan from any Federal, State, or local government or instrumentality thereof, or is guaranteed by any Federal, State, or local government.Such term shall not include any convertible debt."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.8,
+        "text": "80 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014such property is acquired by the taxpayer from a person who is not a related person,\u2014the amount of the nonrecourse financing with respect to such property does not exceed 80 percent of the credit base of such property, and\u2014such financing is borrowed from a qualified person or represents a loan from any Federal, State, or local government or instrumentality thereof, or is guaranteed by any Federal, State, or local government.Such term shall not include any convertible debt."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the term \u201cqualified commercial financing\u201d means any financing with respect to any property"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 49(a)(1)(D)(ii)Qualified Commercial Financing\u2014For purposes of this paragraph, the term \u201cqualified commercial financing\u201d means any\n                           financing with respect to any property if\u2014I.R.C. \u00a7 49(a)(1)(D)(ii)(I)\u2014such property is acquired by the taxpayer from a person who is not a related person,I.R.C. \u00a7 49(a)(1)(D)(ii)(II)\u2014the amount of the nonrecourse financing with respect to such property does not exceed\n                              80 percent of the credit base of such property, andI.R.C. \u00a7 49(a)(1)(D)(ii)(III)\u2014such financing is borrowed from a qualified person or represents a loan from any Federal,\n                              State, or local government or instrumentality thereof, or is guaranteed by any Federal,\n                              State, or local government.Such term shall not include any convertible debt.",
+    "definitions": {
+      "term": "qualified commercial financing",
+      "requirements": [
+        "any financing with respect to any property if\u2014\u2014such property is acquired by the taxpayer from a person who is not a related person,\u2014the amount of the nonrecourse financing with respect to such property does not exceed 80 percent of the credit base of such property, and\u2014such financing is borrowed from a qualified person or represents a loan from any Federal, State, or local government or instrumentality thereof, or is guaranteed by any Federal, State, or local government.Such term shall not include any convertible debt."
+      ]
+    }
+  },
+  {
+    "section": "49",
+    "subsection": "(a)(1)(D)(iii)",
+    "source_subsections": [
+      "(a)(1)(D)(iii)",
+      "(a)(1)(D)(iii)(I)",
+      "(a)(1)(D)(iii)(II)"
+    ],
+    "rule_type": "definition",
+    "title": "Financing",
+    "text": "For purposes of this subparagraph, the term \u201cnonrecourse financing\u201d includes\u2014\u2014any amount with respect to which the taxpayer is protected against loss through guarantees, stop-loss agreements, or other similar arrangements, and\u2014except to the extent provided in regulations, any amount borrowed from a person who has an interest (other than as a creditor) in the activity in which the property is used or from a related person to a person (other than the taxpayer) having such an interest.In the case of amounts borrowed by a corporation from a shareholder, subclause(II)shall not apply to an interest as a shareholder.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "to the extent provided in regulations, any amount borrowed from a person who has an interest (other than as a creditor) in the activity in which the property is used or from a related person to a person (other than the taxpayer) having such an interest.In the case of amounts borrowed by a corporation from a shareholder, subclause(II)shall not apply to an interest as a shareholder."
+      ],
+      "result": "For purposes of this subparagraph, the term \u201cnonrecourse financing\u201d includes\u2014\u2014any amount with respect to which the taxpayer is protected against loss through guarantees, stop-loss agreements, or other similar arrangements, and\u2014"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 49(a)(1)(D)(iii)Nonrecourse Financing\u2014For purposes of this subparagraph, the term \u201cnonrecourse financing\u201d includes\u2014I.R.C. \u00a7 49(a)(1)(D)(iii)(I)\u2014any amount with respect to which the taxpayer is protected against loss through guarantees,\n                              stop-loss agreements, or other similar arrangements, andI.R.C. \u00a7 49(a)(1)(D)(iii)(II)\u2014except to the extent provided in regulations, any amount borrowed from a person who\n                              has an interest (other than as a creditor) in the activity in which the property is\n                              used or from a related person to a person (other than the taxpayer) having such an\n                              interest.In the case of amounts borrowed by a corporation from a shareholder, subclause(II)shall not apply to an interest as a shareholder.",
+    "definitions": null
+  },
+  {
+    "section": "49",
+    "subsection": "(a)(1)(D)(iv)",
+    "source_subsections": [
+      "(a)(1)(D)(iv)",
+      "(a)(1)(D)(iv)(I)",
+      "(a)(1)(D)(iv)(II)",
+      "(a)(1)(D)(iv)(III)"
+    ],
+    "rule_type": "definition",
+    "title": "Person",
+    "text": "For purposes of this paragraph, the term \u201cqualified person\u201d means any person which is actively and regularly engaged in the business of lending money and which is not\u2014\u2014a related person with respect to the taxpayer,\u2014a person from which the taxpayer acquired the property (or a related person to such person), or\u2014a person who receives a fee with respect to the taxpayer's investment in the property (or a related person to such person).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the term \u201cqualified person\u201d means any person which is actively and regularly engaged in the business of lending money and which is not\u2014\u2014a related person with respect to the taxpayer,\u2014a person from which the taxpayer acquired the property (or a related person to such person), or\u2014a person who receives a fee with respect to the taxpayer's investment in the property (or a related person to such person)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 49(a)(1)(D)(iv)Qualified Person\u2014For purposes of this paragraph, the term \u201cqualified person\u201d means any person which\n                           is actively and regularly engaged in the business of lending money and which is not\u2014I.R.C. \u00a7 49(a)(1)(D)(iv)(I)\u2014a related person with respect to the taxpayer,I.R.C. \u00a7 49(a)(1)(D)(iv)(II)\u2014a person from which the taxpayer acquired the property (or a related person to such\n                              person), orI.R.C. \u00a7 49(a)(1)(D)(iv)(III)\u2014a person who receives a fee with respect to the taxpayer's investment in the property\n                              (or a related person to such person).",
+    "definitions": {
+      "term": "qualified person",
+      "requirements": [
+        "any person which is actively and regularly engaged in the business of lending money and which is not\u2014\u2014a related person with respect to the taxpayer,\u2014a person from which the taxpayer acquired the property (or a related person to such person), or\u2014a person who receives a fee with respect to the taxpayer's investment in the property (or a related person to such person)."
+      ]
+    }
+  },
+  {
+    "section": "49",
+    "subsection": "(a)(1)(D)(v)",
+    "source_subsections": [
+      "(a)(1)(D)(v)"
+    ],
+    "rule_type": "definition",
+    "title": "Person",
+    "text": "For purposes of this subparagraph, the term \u201crelated person\u201d has the meaning given such term by section465(b)(3)(C). Except as otherwise provided in regulations prescribed by the Secretary, the determination of whether a person is a related person shall be made as of the close of the taxable year in which the property is placed in service.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as otherwise provided in regulations prescribed by the Secretary, the determination of whether a person is a related person shall be made as of the close of the taxable year in which the property is placed in service."
+      ],
+      "result": "For purposes of this subparagraph, the term \u201crelated person\u201d has the meaning given such term by section465(b)(3)(C)."
+    },
+    "cross_references": [
+      {
+        "section": "465(b)(3)(C)",
+        "reason": "he meaning given such term by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 49(a)(1)(D)(v)Related Person\u2014For purposes of this subparagraph, the term \u201crelated person\u201d has the meaning given\n                           such term by section465(b)(3)(C). Except as otherwise provided in regulations prescribed by the Secretary, the determination\n                           of whether a person is a related person shall be made as of the close of the taxable\n                           year in which the property is placed in service.",
+    "definitions": null
+  },
+  {
+    "section": "49",
+    "subsection": "(a)(1)(E)(i)",
+    "source_subsections": [
+      "(a)(1)(E)(i)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Except as otherwise provided in this subparagraph, in the case of any partnership or S corporation, the determination of whether a partner's or shareholder's allocable share of any financing is nonqualified nonrecourse financing shall be made at the partner or shareholder level.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as otherwise provided in this subparagraph, in the case of any partnership or S corporation, the determination of whether a partner's or shareholder's allocable share of any financing is nonqualified nonrecourse financing shall be made at the partner or shareholder level."
+      ],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 49(a)(1)(E)(i)In General\u2014Except as otherwise provided in this subparagraph, in the case of any partnership\n                           or S corporation, the determination of whether a partner's or shareholder's allocable\n                           share of any financing is nonqualified nonrecourse financing shall be made at the\n                           partner or shareholder level.",
+    "definitions": null
+  },
+  {
+    "section": "49",
+    "subsection": "(a)(1)(E)(ii)",
+    "source_subsections": [
+      "(a)(1)(E)(ii)",
+      "(a)(1)(E)(ii)(I)",
+      "(a)(1)(E)(ii)(II)"
+    ],
+    "rule_type": "condition",
+    "title": "Rule For Certain Recourse Financing Of S Corporation",
+    "text": "A shareholder of an S corporation shall be treated as liable for his allocable share of any financing provided by a qualified person to such corporation if\u2014\u2014such financing is recourse financing (determined at the corporate level), and\u2014such financing is provided with respect to qualified business property of such corporation.",
+    "conditions": [
+      "\u2014\u2014such financing is recourse financing (determined at the corporate level), and\u2014such financing is provided with respect to qualified business property of such corporation."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014such financing is recourse financing (determined at the corporate level), and\u2014such financing is provided with respect to qualified business property of such corporation."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "A shareholder of an S corporation shall be treated as liable for his allocable share of any financing provided by a qualified person to such corporation"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 49(a)(1)(E)(ii)Special Rule For Certain Recourse Financing Of S Corporation\u2014A shareholder of an S corporation shall be treated as liable for his allocable share\n                           of any financing provided by a qualified person to such corporation if\u2014I.R.C. \u00a7 49(a)(1)(E)(ii)(I)\u2014such financing is recourse financing (determined at the corporate level), andI.R.C. \u00a7 49(a)(1)(E)(ii)(II)\u2014such financing is provided with respect to qualified business property of such corporation.",
+    "definitions": null
+  },
+  {
+    "section": "49",
+    "subsection": "(a)(1)(E)(iii)",
+    "source_subsections": [
+      "(a)(1)(E)(iii)",
+      "(a)(1)(E)(iii)(I)",
+      "(a)(1)(E)(iii)(II)",
+      "(a)(1)(E)(iii)(III)"
+    ],
+    "rule_type": "definition",
+    "title": "Business Property",
+    "text": "For purposes of clause(ii), the term \u201cqualified business property\u201d means any property if\u2014\u2014such property is used by the corporation in the active conduct of a trade or business,\u2014during the entire 12-month period ending on the last day of the taxable year, such corporation had at least 3 full-time employees who were not owner-employees (as defined in section465(c)(7)(E)(i)) and substantially all the services of whom were services directly related to such trade or business, and\u2014during the entire 12-month period ending on the last day of such taxable year, such corporation had at least 1 full-time employee substantially all of the services of whom were in the active management of the trade or business.",
+    "conditions": [
+      "\u2014\u2014such property is used by the corporation in the active conduct of a trade or business,\u2014during the entire 12-month period ending on the last day of the taxable year, such corporation had at least 3 full-time employees who were not owner-employees (as defined in section465(c)(7)(E)(i)) and substantially all the services of whom were services directly related to such trade or business, and\u2014during the entire 12-month period ending on the last day of such taxable year, such corporation had at least 1 full-time employee substantially all of the services of whom were in the active management of the trade or business."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014such property is used by the corporation in the active conduct of a trade or business,\u2014during the entire 12-month period ending on the last day of the taxable year, such corporation had at least 3 full-time employees who were not owner-employees (as defined in section465(c)(7)(E)(i)) and substantially all the services of whom were services directly related to such trade or business, and\u2014during the entire 12-month period ending on the last day of such taxable year, such corporation had at least 1 full-time employee substantially all of the services of whom were in the active management of the trade or business."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of clause(ii), the term \u201cqualified business property\u201d means any property"
+    },
+    "cross_references": [
+      {
+        "section": "465(c)(7)(E)(i)",
+        "reason": "wner-employees (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 49(a)(1)(E)(iii)Qualified Business Property\u2014For purposes of clause(ii), the term \u201cqualified business property\u201d means any property if\u2014I.R.C. \u00a7 49(a)(1)(E)(iii)(I)\u2014such property is used by the corporation in the active conduct of a trade or business,I.R.C. \u00a7 49(a)(1)(E)(iii)(II)\u2014during the entire 12-month period ending on the last day of the taxable year, such\n                              corporation had at least 3 full-time employees who were not owner-employees (as defined\n                              in section465(c)(7)(E)(i)) and substantially all the services of whom were services directly related to such\n                              trade or business, andI.R.C. \u00a7 49(a)(1)(E)(iii)(III)\u2014during the entire 12-month period ending on the last day of such taxable year, such\n                              corporation had at least 1 full-time employee substantially all of the services of\n                              whom were in the active management of the trade or business.",
+    "definitions": {
+      "term": "qualified business property",
+      "requirements": [
+        "any property if\u2014\u2014such property is used by the corporation in the active conduct of a trade or business,\u2014during the entire 12-month period ending on the last day of the taxable year, such corporation had at least 3 full-time employees who were not owner-employees (as defined in section465(c)(7)(E)(i)) and substantially all the services of whom were services directly related to such trade or business, and\u2014during the entire 12-month period ending on the last day of such taxable year, such corporation had at least 1 full-time employee substantially all of the services of whom were in the active management of the trade or business."
+      ]
+    }
+  },
+  {
+    "section": "49",
+    "subsection": "(a)(1)(E)(iv)",
+    "source_subsections": [
+      "(a)(1)(E)(iv)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Allocable Share",
+    "text": "The determination of any partner's or shareholder's allocable share of any financing shall be made in the same manner as the credit allowable by section38with respect to such property.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The determination of any partner's or shareholder's allocable share of any financing shall be made in the same manner as the credit allowable by section38with respect to such property."
+    },
+    "cross_references": [
+      {
+        "section": "38w",
+        "reason": "er as the credit allowable by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 49(a)(1)(E)(iv)Determination Of Allocable Share\u2014The determination of any partner's or shareholder's allocable share of any financing\n                           shall be made in the same manner as the credit allowable by section38with respect to such property.",
+    "definitions": null
+  },
+  {
+    "section": "49",
+    "subsection": "(a)(1)(F)",
+    "source_subsections": [
+      "(a)(1)(F)"
+    ],
+    "rule_type": "condition",
+    "title": "Rules For Energy Property",
+    "text": "Rules similar to the rules of subparagraph (F) of section 46(c)(8) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply for purposes of this paragraph.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules of subparagraph (F) of section 46(c)(8) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply for purposes of this paragraph."
+    },
+    "cross_references": [
+      {
+        "section": "46(c)(8)",
+        "reason": "rules of subparagraph (F) of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 49(a)(1)(F)Special Rules For Energy Property\u2014Rules similar to the rules of subparagraph (F) of section 46(c)(8) (as in effect on\n                        the day before the date of the enactment of the Revenue Reconciliation Act of 1990)\n                        shall apply for purposes of this paragraph.",
+    "definitions": null
+  },
+  {
+    "section": "49",
+    "subsection": "(a)(2)(A)",
+    "source_subsections": [
+      "(a)(2)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "If, at the close of a taxable year following the taxable year in which the property was placed in service, there is a net decrease in the amount of nonqualified nonrecourse financing with respect to such property, such net decrease shall be taken into account as an increase in the credit base for such property in accordance with subparagraph(C).",
+    "conditions": [
+      ", at the close of a taxable year following the taxable year in which the property was placed in service, there is a net decrease in the amount of nonqualified nonrecourse financing with respect to such property, such net decrease shall be taken into account as an increase in the credit base for such property in accordance with subparagraph(C)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        ", at the close of a taxable year following the taxable year in which the property was placed in service, there is a net decrease in the amount of nonqualified nonrecourse financing with respect to such property, such net decrease shall be taken into account as an increase in the credit base for such property in accordance with subparagraph(C)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 49(a)(2)(A)In General\u2014If, at the close of a taxable year following the taxable\n                        year in which the property was placed in service, there is a net decrease\n                        in the amount of nonqualified nonrecourse financing with respect to\n                        such property, such net decrease shall be taken into account as an\n                        increase in the credit base for such property in accordance with subparagraph(C).",
+    "definitions": null
+  },
+  {
+    "section": "49",
+    "subsection": "(a)(2)(B)",
+    "source_subsections": [
+      "(a)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Transactions Not Taken Into Account",
+    "text": "For purposes of this paragraph, nonqualified nonrecourse financing shall not be treated as decreased through the surrender or other use of property financed by nonqualified nonrecourse financing.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, nonqualified nonrecourse financing shall not be treated as decreased through the surrender or other use of property financed by nonqualified nonrecourse financing."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 49(a)(2)(B)Certain Transactions Not Taken Into Account\u2014For purposes of this paragraph, nonqualified nonrecourse\n                        financing shall not be treated as decreased through the surrender\n                        or other use of property financed by nonqualified nonrecourse financing.",
+    "definitions": null
+  },
+  {
+    "section": "49",
+    "subsection": "(a)(2)(C)(i)",
+    "source_subsections": [
+      "(a)(2)(C)(i)"
+    ],
+    "rule_type": "condition",
+    "title": "Determined By Reference To Taxable Year Property Placed\n                           In Service",
+    "text": "For purposes of determining the amount of credit allowable under section38and the amount of credit subject to the early disposition or cessation rules under section50(a), any increase in a taxpayer's credit base for any property by reason of this paragraph shall be taken into account as if it were property placed in service by the taxpayer in the taxable year in which the property referred to in subparagraph(A)was first placed in service.",
+    "conditions": [
+      "it were property placed in service by the taxpayer in the taxable year in which the property referred to in subparagraph(A)was first placed in service."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "it were property placed in service by the taxpayer in the taxable year in which the property referred to in subparagraph(A)was first placed in service."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of determining the amount of credit allowable under section38and the amount of credit subject to the early disposition or cessation rules under section50(a), any increase in a taxpayer's credit base for any property by reason of this paragraph shall be taken into account as"
+    },
+    "cross_references": [
+      {
+        "section": "38a",
+        "reason": "unt of credit allowable under..."
+      },
+      {
+        "section": "50(a)",
+        "reason": "tion or cessation rules under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 49(a)(2)(C)(i)Credit Determined By Reference To Taxable Year Property Placed\n                           In Service\u2014For purposes of determining the amount of credit allowable\n                           under section38and\n                           the amount of credit subject to the early disposition or cessation\n                           rules under section50(a),\n                           any increase in a taxpayer's credit base for any property by reason\n                           of this paragraph shall be taken into account as if it were property\n                           placed in service by the taxpayer in the taxable year in which the\n                           property referred to in subparagraph(A)was first placed in\n                           service.",
+    "definitions": null
+  },
+  {
+    "section": "49",
+    "subsection": "(a)(2)(C)(ii)",
+    "source_subsections": [
+      "(a)(2)(C)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Allowed For Year Of Decrease In Nonqualified Nonrecourse\n                           Financing",
+    "text": "Any credit allowable under this subpart for any increase in qualified investment by reason of this paragraph shall be treated as earned during the taxable year of the decrease in the amount of nonqualified nonrecourse financing.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Any credit allowable under this subpart for any increase in qualified investment by reason of this paragraph shall be treated as earned during the taxable year of the decrease in the amount of nonqualified nonrecourse financing."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 49(a)(2)(C)(ii)Credit Allowed For Year Of Decrease In Nonqualified Nonrecourse\n                           Financing\u2014Any credit allowable under this subpart for any increase\n                           in qualified investment by reason of this paragraph shall be treated\n                           as earned during the taxable year of the decrease in the amount of\n                           nonqualified nonrecourse financing.",
+    "definitions": null
+  },
+  {
+    "section": "49",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "If, as of the close of the taxable year, there is a net increase with respect to the taxpayer in the amount of nonqualified nonrecourse financing (within the meaning of subsection(a)(1)) with respect to any property to which subsection(a)(1)applied, then the tax under this chapter for such taxable year shall be increased by an amount equal to the aggregate decrease in credits allowed under section38for all prior taxable years which would have resulted from reducing the credit base (as defined in subsection(a)(1)(C)) taken into account with respect to such property by the amount of such net increase. For purposes of determining the amount of credit subject to the early disposition or cessation rules of section50(a), the net increase in the amount of the nonqualified nonrecourse financing with respect to the property shall be treated as reducing the property's credit base in the year in which the property was first placed in service.",
+    "conditions": [
+      ", as of the close of the taxable year, there is a net increase with respect to the taxpayer in the amount of nonqualified nonrecourse financing (within the meaning of subsection(a)(1)) with respect to any property to which subsection(a)(1)applied, then the tax under this chapter for such taxable year shall be increased by an amount equal to the aggregate decrease in credits allowed under section38for all prior taxable years which would have resulted from reducing the credit base (as defined in subsection(a)(1)(C)) taken into account with respect to such property by the amount of such net increase. For purposes of determining the amount of credit subject to the early disposition or cessation rules of section50(a), the net increase in the amount of the nonqualified nonrecourse financing with respect to the property shall be treated as reducing the property's credit base in the year in which the property was first placed in service."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        ", as of the close of the taxable year, there is a net increase with respect to the taxpayer in the amount of nonqualified nonrecourse financing (within the meaning of subsection(a)(1)) with respect to any property to which subsection(a)(1)applied, then the tax under this chapter for such taxable year shall be increased by an amount equal to the aggregate decrease in credits allowed under section38for all prior taxable years which would have resulted from reducing the credit base (as defined in subsection(a)(1)(C)) taken into account with respect to such property by the amount of such net increase. For purposes of determining the amount of credit subject to the early disposition or cessation rules of section50(a), the net increase in the amount of the nonqualified nonrecourse financing with respect to the property shall be treated as reducing the property's credit base in the year in which the property was first placed in service."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "38f",
+        "reason": "ease in credits allowed under..."
+      },
+      {
+        "section": "50(a)",
+        "reason": "osition or cessation rules of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 49(b)(1)In General\u2014If, as of the close of the taxable year, there is a\n                     net increase with respect to the taxpayer in the amount of nonqualified\n                     nonrecourse financing (within the meaning of subsection(a)(1)) with respect to any\n                     property to which subsection(a)(1)applied,\n                     then the tax under this chapter for such taxable year shall be increased\n                     by an amount equal to the aggregate decrease in credits allowed under\n                     section38for all\n                     prior taxable years which would have resulted from reducing the credit\n                     base (as defined in subsection(a)(1)(C))\n                     taken into account with respect to such property by the amount of\n                     such net increase. For purposes of determining the amount of credit\n                     subject to the early disposition or cessation rules of section50(a), the net increase in the\n                     amount of the nonqualified nonrecourse financing with respect to the\n                     property shall be treated as reducing the property's credit base in\n                     the year in which the property was first placed in service.",
+    "definitions": null
+  },
+  {
+    "section": "49",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Of Debt More Than 1 Year After Initial Borrowing Not Treated As Increasing Nonqualified Nonrecourse Financing\u2014For purposes of paragraph(1), the amount of nonqualified nonrecourse financing (within the meaning of subsection(a)(1)(D)) with respect to the taxpayer shall not be treated as increased by reason of a transfer of (or agreement to transfer) any evidence of any indebtedness if such transfer occurs (or such agreement is entered into) more than 1 year after the date such indebtedness was incurred.",
+    "conditions": [
+      "such transfer occurs (or such agreement is entered into) more than 1 year after the date such indebtedness was incurred."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such transfer occurs (or such agreement is entered into) more than 1 year after the date such indebtedness was incurred."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Of Debt More Than 1 Year After Initial Borrowing Not Treated As Increasing Nonqualified Nonrecourse Financing\u2014For purposes of paragraph(1), the amount of nonqualified nonrecourse financing (within the meaning of subsection(a)(1)(D)) with respect to the taxpayer shall not be treated as increased by reason of a transfer of (or agreement to transfer) any evidence of any indebtedness"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 49(b)(2)Transfers Of Debt More Than 1 Year After Initial Borrowing Not\n                     Treated As Increasing Nonqualified Nonrecourse Financing\u2014For purposes of paragraph(1), the amount of nonqualified\n                     nonrecourse financing (within the meaning of subsection(a)(1)(D)) with respect\n                     to the taxpayer shall not be treated as increased by reason of a transfer\n                     of (or agreement to transfer) any evidence of any indebtedness if\n                     such transfer occurs (or such agreement is entered into) more than\n                     1 year after the date such indebtedness was incurred.",
+    "definitions": null
+  },
+  {
+    "section": "49",
+    "subsection": "(b)(3)",
+    "source_subsections": [
+      "(b)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Rules For Certain Energy Property",
+    "text": "Rules similar to the rules of section 47(d)(3) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply for purposes of this subsection.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules of section 47(d)(3) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply for purposes of this subsection."
+    },
+    "cross_references": [
+      {
+        "section": "47(d)(3)",
+        "reason": "Rules similar to the rules of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 49(b)(3)Special Rules For Certain Energy Property\u2014Rules similar to the rules of section 47(d)(3) (as in\n                     effect on the day before the date of the enactment of the Revenue\n                     Reconciliation Act of 1990) shall apply for purposes of this subsection.",
+    "definitions": null
+  },
+  {
+    "section": "49",
+    "subsection": "(b)(4)",
+    "source_subsections": [
+      "(b)(4)"
+    ],
+    "rule_type": "condition",
+    "title": "Rule",
+    "text": "Any increase in tax under paragraph(1)shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit allowable under this chapter.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Any increase in tax under paragraph(1)shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit allowable under this chapter."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 49(b)(4)Special Rule\u2014Any increase in tax under paragraph(1)shall not be treated as\n                     tax imposed by this chapter for purposes of determining the amount\n                     of any credit allowable under this chapter.",
+    "definitions": null
+  }
+]

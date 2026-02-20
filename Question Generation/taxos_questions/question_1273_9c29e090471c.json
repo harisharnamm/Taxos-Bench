@@ -1,0 +1,22 @@
+{
+  "id": "9c29e090471c",
+  "section": "1273",
+  "citation": "I.R.C. \u00a7 1273(a)(3)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1273(a)(3) is discussed as follows: 'I.R.C. \u00a7 1273(a)(3)1/4 Of 1 Percent De Minimis Rule\u2014If  the original issue discount determined under...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1273(a)(3)?",
+  "difficulty": 1,
+  "choices": [
+    "99.0%",
+    "1.0%",
+    "0.0%",
+    "11.0%",
+    "1.5%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 1.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1273(a)(3)"
+  ]
+}

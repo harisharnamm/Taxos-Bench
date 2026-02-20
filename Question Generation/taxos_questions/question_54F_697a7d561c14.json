@@ -1,0 +1,21 @@
+{
+  "id": "697a7d561c14",
+  "section": "54F",
+  "citation": "I.R.C. \u00a7 54F(d)(2)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 54F(d)(2) is discussed as follows: 'I.R.C. \u00a7 54F(d)(2)40 Percent Of Limitation Allocated Among Largest School DistrictsI.R.C. \u00a7 54F(d)(2...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 54F(d)(2)?",
+  "difficulty": 1,
+  "choices": [
+    "60.0%",
+    "50.0%",
+    "40.0%",
+    "30.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 40.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 54F(d)(2)"
+  ]
+}

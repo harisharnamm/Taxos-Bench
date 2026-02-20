@@ -1,0 +1,22 @@
+{
+  "id": "501eea778a81",
+  "section": "833",
+  "citation": "I.R.C. \u00a7 833(c)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 833(c) is discussed as follows: 'I.R.C. \u00a7 833(c)Organizations To Which Section AppliesI.R.C. \u00a7 833(c)(1)In General\u2014This  section shal...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 833(c)?",
+  "difficulty": 1,
+  "choices": [
+    "85.0%",
+    "15.0%",
+    "95.0%",
+    "127.5%",
+    "75.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 85.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 833(c)"
+  ]
+}

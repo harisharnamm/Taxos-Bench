@@ -1,0 +1,22 @@
+{
+  "id": "c9e3de33d5d8",
+  "section": "250",
+  "citation": "I.R.C. \u00a7 250(a)(1)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 250(a)(1) is discussed as follows: 'I.R.C. \u00a7 250(a)(1)In General\u2014In the case of a domestic corporation for any taxable year, there shall...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 250(a)(1)?",
+  "difficulty": 1,
+  "choices": [
+    "47.5%",
+    "37.5%",
+    "27.5%",
+    "62.5%",
+    "56.2%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 37.5%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 250(a)(1)"
+  ]
+}

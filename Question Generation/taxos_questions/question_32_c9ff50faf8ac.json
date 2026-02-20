@@ -1,0 +1,22 @@
+{
+  "id": "c9ff50faf8ac",
+  "section": "32",
+  "citation": "I.R.C. \u00a7 32(n)(4)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 32(n)(4) is discussed as follows: 'I.R.C. \u00a7 32(n)(4)Increase In Earned Income And Phaseout AmountsI.R.C. \u00a7 32(n)(4)(A)In General\u2014The ta...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 32(n)(4)?",
+  "difficulty": 1,
+  "choices": [
+    "$8,440.00",
+    "$4,220.00",
+    "$3,798.00",
+    "$4,642.00",
+    "$2,110.00"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $4,220.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 32(n)(4)"
+  ]
+}

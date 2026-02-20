@@ -1,0 +1,21 @@
+{
+  "id": "1da7c9a25f49",
+  "section": "942",
+  "citation": "I.R.C. \u00a7 942(b)(2)(A)(ii)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 942(b)(2)(A)(ii) is discussed as follows: 'I.R.C. \u00a7 942(b)(2)(A)(ii)\u2014the foreign direct costs incurred by the taxpayer  attributable to the tra...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 942(b)(2)(A)(ii)?",
+  "difficulty": 1,
+  "choices": [
+    "75.0%",
+    "40.0%",
+    "60.0%",
+    "50.0%"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 942(b)(2)(A)(ii)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "947e4442f812",
+  "section": "1396",
+  "citation": "I.R.C. \u00a7 1396(c)(2)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 1396(c)(2) is discussed as follows: 'I.R.C. \u00a7 1396(c)(2)Only First $15,000 Of Wages Per Year Taken Into Account\u2014With  respect to each qua...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 1396(c)(2)?",
+  "difficulty": 1,
+  "choices": [
+    "$15,000.00",
+    "$30,000.00",
+    "$13,500.00",
+    "$16,500.00",
+    "$7,500.00"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies $15,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1396(c)(2)"
+  ]
+}

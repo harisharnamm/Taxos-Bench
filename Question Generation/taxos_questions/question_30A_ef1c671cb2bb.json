@@ -1,0 +1,22 @@
+{
+  "id": "ef1c671cb2bb",
+  "section": "30A",
+  "citation": "I.R.C. \u00a7 30A(d)(2)(C)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 30A(d)(2)(C) is discussed as follows: 'I.R.C. \u00a7 30A(d)(2)(C)\u201465  percent of the depreciation allowances for the taxable year with respect  ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 30A(d)(2)(C)?",
+  "difficulty": 1,
+  "choices": [
+    "97.5%",
+    "65.0%",
+    "75.0%",
+    "55.0%",
+    "35.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 65.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 30A(d)(2)(C)"
+  ]
+}

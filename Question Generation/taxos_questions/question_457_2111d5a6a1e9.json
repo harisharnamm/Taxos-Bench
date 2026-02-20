@@ -1,0 +1,22 @@
+{
+  "id": "2111d5a6a1e9",
+  "section": "457",
+  "citation": "I.R.C. \u00a7 457(e)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 457(e) is discussed as follows: 'I.R.C. \u00a7 457(e)Other Definitions And Special Rules\u2014For purposes of this section\u2014I.R.C. \u00a7 457(e)(1)El...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 457(e)?",
+  "difficulty": 1,
+  "choices": [
+    "$5,400.00",
+    "$3,000.00",
+    "$12,000.00",
+    "$6,000.00",
+    "$6,600.00"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies $6,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 457(e)"
+  ]
+}

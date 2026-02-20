@@ -1,0 +1,22 @@
+{
+  "id": "ad059a65a14c",
+  "section": "535",
+  "citation": "I.R.C. \u00a7 535(c)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 535(c) is discussed as follows: 'I.R.C. \u00a7 535(c)Accumulated Earnings CreditI.R.C. \u00a7 535(c)(1)General Rule\u2014For  purposes of subsection...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 535(c)?",
+  "difficulty": 1,
+  "choices": [
+    "$150,000.00",
+    "$300,000.00",
+    "$135,000.00",
+    "$165,000.00",
+    "$75,000.00"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies $150,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 535(c)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "41918e60561c",
+  "section": "135",
+  "citation": "I.R.C. \u00a7 135(b)(2)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 135(b)(2) is discussed as follows: 'I.R.C. \u00a7 135(b)(2)Limitation Based On Modified Adjusted Gross IncomeI.R.C. \u00a7 135(b)(2)(A)In General\u2014...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 135(b)(2)?",
+  "difficulty": 1,
+  "choices": [
+    "$27,000.00",
+    "$15,000.00",
+    "$30,000.00",
+    "$60,000.00",
+    "$33,000.00"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies $30,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 135(b)(2)"
+  ]
+}

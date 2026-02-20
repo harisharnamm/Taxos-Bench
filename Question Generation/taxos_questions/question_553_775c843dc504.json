@@ -1,0 +1,22 @@
+{
+  "id": "775c843dc504",
+  "section": "553",
+  "citation": "I.R.C. \u00a7 553(a)(6)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 553(a)(6) is discussed as follows: 'I.R.C. \u00a7 553(a)(6)Use Of Corporation Property By Shareholder\u2014Editor's Note:Pub. L. 108-357, Sec. 413...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 553(a)(6)?",
+  "difficulty": 1,
+  "choices": [
+    "75.0%",
+    "35.0%",
+    "15.0%",
+    "25.0%",
+    "37.5%"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies 25.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 553(a)(6)"
+  ]
+}

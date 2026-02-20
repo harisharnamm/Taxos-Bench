@@ -1,0 +1,315 @@
+[
+  {
+    "section": "39",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)",
+      "(a)(1)(A)",
+      "(a)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Carryback And 20",
+    "text": "Year Carryforward\u2014If the sum of the business credit carryforwards to the taxable year plus the amount of the current year business credit for the taxable year exceeds the amount of the limitation imposed by subsection(c)of section38for such taxable year (hereinafter in this section referred to as the \u201cunused credit year\u201d), such excess (to the extent attributable to the amount of the current year business credit) shall be\u2014\u2014a business credit carryback to the taxable year preceding the unused credit year, and\u2014a business credit carryforward to each of the 20 taxable years following the unused credit year, and, subject to the limitations imposed by subsections(b)and(c), shall be taken into account under the provisions of section38(a)in the manner provided in section38(a).",
+    "conditions": [
+      "the sum of the business credit carryforwards to the taxable year plus the amount of the current year business credit for the taxable year exceeds the amount of the limitation imposed by subsection(c)of section38for such taxable year (hereinafter in this section referred to as the \u201cunused credit year\u201d), such excess (to the extent attributable to the amount of the current year business credit) shall be\u2014\u2014a business credit carryback to the taxable year preceding the unused credit year, and\u2014a business credit carryforward to each of the 20 taxable years following the unused credit year, and, subject to the limitations imposed by subsections(b)and(c), shall be taken into account under the provisions of section38(a)in the manner provided in section38(a)."
+    ],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the sum of the business credit carryforwards to the taxable year plus the amount of the current year business credit for the taxable year exceeds the amount of the limitation imposed by subsection(c)of section38for such taxable year (hereinafter in this section referred to as the \u201cunused credit year\u201d), such excess (to the extent attributable to the amount of the current year business credit) shall be\u2014\u2014a business credit carryback to the taxable year preceding the unused credit year, and\u2014a business credit carryforward to each of the 20 taxable years following the unused credit year, and, subject to the limitations imposed by subsections(b)and(c), shall be taken into account under the provisions of section38(a)in the manner provided in section38(a)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Year Carryforward\u2014"
+    },
+    "cross_references": [
+      {
+        "section": "38f",
+        "reason": "on imposed by subsection(c)of..."
+      },
+      {
+        "section": "38(a)",
+        "reason": "count under the provisions of..."
+      },
+      {
+        "section": "38(a)",
+        "reason": "in the manner provided in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 39(a)(1)1-Year Carryback And 20-Year Carryforward\u2014If the sum of the business credit carryforwards to the\n                     taxable year plus the amount of the current year business credit for\n                     the taxable year exceeds the amount of the limitation imposed by subsection(c)of section38for such taxable year (hereinafter\n                     in this section referred to as the \u201cunused credit year\u201d),\n                     such excess (to the extent attributable to the amount of the current\n                     year business credit) shall be\u2014I.R.C. \u00a7 39(a)(1)(A)\u2014a business credit carryback to the taxable\n                        year preceding the unused credit year, andI.R.C. \u00a7 39(a)(1)(B)\u2014a business credit carryforward to each\n                        of the 20 taxable years following the unused credit year, and, subject\n                        to the limitations imposed by subsections(b)and(c), shall be taken into account\n                        under the provisions of section38(a)in\n                        the manner provided in section38(a).",
+    "definitions": null
+  },
+  {
+    "section": "39",
+    "subsection": "(a)(2)(A)",
+    "source_subsections": [
+      "(a)(2)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "Amount Carried To First Year",
+    "text": "The entire amount of the unused credit for an unused credit year shall be carried to the earliest of the 21 taxable years to which (by reason of paragraph (1)) such credit may be carried.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The entire amount of the unused credit for an unused credit year shall be carried to the earliest of the 21 taxable years to which (by reason of paragraph (1)) such credit may be carried."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 39(a)(2)(A)Entire Amount Carried To First Year\u2014The entire amount of the unused credit for an unused\n                        credit year shall be carried to the earliest of the 21 taxable years\n                        to which (by reason of paragraph (1)) such credit may be carried.",
+    "definitions": null
+  },
+  {
+    "section": "39",
+    "subsection": "(a)(2)(B)",
+    "source_subsections": [
+      "(a)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Carried To Other 20 Years",
+    "text": "The amount of the unused credit for the unused credit year shall be carried to each of the other 20 taxable years to the extent that such unused credit may not be taken into account under section38(a)for a prior taxable year because of the limitations of subsections(b)and(c).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of the unused credit for the unused credit year shall be carried to each of the other 20 taxable years to the extent that such unused credit may not be taken into account under section38(a)for a prior taxable year because of the limitations of subsections(b)and(c)."
+    },
+    "cross_references": [
+      {
+        "section": "38(a)",
+        "reason": "t be taken into account under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 39(a)(2)(B)Amount Carried To Other 20 Years\u2014The amount of the unused credit for the unused credit\n                        year shall be carried to each of the other 20 taxable years to the\n                        extent that such unused credit may not be taken into account under\n                        section38(a)for\n                        a prior taxable year because of the limitations of subsections(b)and(c).",
+    "definitions": null
+  },
+  {
+    "section": "39",
+    "subsection": "(a)(3)",
+    "source_subsections": [
+      "(a)(3)",
+      "(a)(3)(A)",
+      "(a)(3)(B)",
+      "(a)(3)(C)",
+      "(a)(3)(C)(i)",
+      "(a)(3)(C)(ii)"
+    ],
+    "rule_type": "exception",
+    "title": "Carryback For Marginal Oil And Gas Well Production Credit",
+    "text": "Notwithstanding subsection (d), in the case of the marginal oil and gas well production credit\u2014\u2014this section shall be applied separately from the business credit (other than the marginal oil and gas well production credit),\u2014paragraph (1) shall be applied by substituting \u201ceach of the 5 taxable years\u201d for \u201cthe taxable year\u201d in subparagraph (A) thereof, and\u2014paragraph (2) shall be applied\u2014\u2014by substituting \u201c25 taxable years\u201d for \u201c21 taxable years\u201d in subparagraph (A) thereof, and\u2014by substituting \u201c24 taxable years\u201d for \u201c20 taxable years\u201d in subparagraph (B) thereof.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Notwithstanding subsection (d), in the case of the marginal oil and gas well production credit\u2014\u2014this section shall be applied separately from the business credit (other than the marginal oil and gas well production credit),\u2014paragraph (1) shall be applied by substituting \u201ceach of the 5 taxable years\u201d for \u201cthe taxable year\u201d in subparagraph (A) thereof, and\u2014paragraph (2) shall be applied\u2014\u2014by substituting \u201c25 taxable years\u201d for \u201c21 taxable years\u201d in subparagraph (A) thereof, and\u2014by substituting \u201c24 taxable years\u201d for \u201c20 taxable years\u201d in subparagraph (B) thereof."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 39(a)(3)5-Year Carryback For Marginal Oil And Gas Well Production Credit\u2014Notwithstanding subsection (d), in the case of the marginal\n                     oil and gas well production credit\u2014I.R.C. \u00a7 39(a)(3)(A)\u2014this section shall be applied separately\n                        from the business credit (other than the marginal oil and gas well\n                        production credit),I.R.C. \u00a7 39(a)(3)(B)\u2014paragraph (1) shall be applied by substituting \u201ceach\n                        of the 5 taxable years\u201d for \u201cthe taxable year\u201d in\n                        subparagraph (A) thereof, andI.R.C. \u00a7 39(a)(3)(C)\u2014paragraph (2) shall be applied\u2014I.R.C. \u00a7 39(a)(3)(C)(i)\u2014by substituting \u201c25 taxable years\u201d\n                           for \u201c21 taxable years\u201d in subparagraph (A) thereof, andI.R.C. \u00a7 39(a)(3)(C)(ii)\u2014by substituting \u201c24 taxable years\u201d\n                           for \u201c20 taxable years\u201d in subparagraph (B) thereof.",
+    "definitions": null
+  },
+  {
+    "section": "39",
+    "subsection": "(a)(4)",
+    "source_subsections": [
+      "(a)(4)",
+      "(a)(4)(A)",
+      "(a)(4)(B)",
+      "(a)(4)(C)",
+      "(a)(4)(C)(i)",
+      "(a)(4)(C)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Carryback For Applicable Credits",
+    "text": "Notwithstanding subsection (d), in the case of any applicable credit (as defined in section 6417(b))\u2014\u2014this section shall be applied separately from the business credit (other than the applicable credit),\u2014paragraph (1) shall be applied by substituting \u201ceach of the 3 taxable years\u201d for \u201cthe taxable year\u201d in subparagraph (A) thereof, and\u2014paragraph (2) shall be applied\u2014\u2014by substituting \u201c23 taxable years\u201d for \u201c21 taxable years\u201d in subparagraph (A) thereof, and\u2014by substituting \u201c22 taxable years\u201d for \u201c20 taxable years\u201d in subparagraph (B) thereof.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Notwithstanding subsection (d), in the case of any applicable credit (as defined in section 6417(b))\u2014\u2014this section shall be applied separately from the business credit (other than the applicable credit),\u2014paragraph (1) shall be applied by substituting \u201ceach of the 3 taxable years\u201d for \u201cthe taxable year\u201d in subparagraph (A) thereof, and\u2014paragraph (2) shall be applied\u2014\u2014by substituting \u201c23 taxable years\u201d for \u201c21 taxable years\u201d in subparagraph (A) thereof, and\u2014by substituting \u201c22 taxable years\u201d for \u201c20 taxable years\u201d in subparagraph (B) thereof."
+    },
+    "cross_references": [
+      {
+        "section": "6417(b)",
+        "reason": "licable credit (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 39(a)(4)3-Year Carryback For Applicable Credits\u2014Notwithstanding subsection (d), in the case of any applicable\n                     credit (as defined in section 6417(b))\u2014I.R.C. \u00a7 39(a)(4)(A)\u2014this section shall be applied separately\n                        from the business credit (other than the applicable credit),I.R.C. \u00a7 39(a)(4)(B)\u2014paragraph (1) shall be applied by substituting \u201ceach\n                        of the 3 taxable years\u201d for \u201cthe taxable year\u201d in\n                        subparagraph (A) thereof, andI.R.C. \u00a7 39(a)(4)(C)\u2014paragraph (2) shall be applied\u2014I.R.C. \u00a7 39(a)(4)(C)(i)\u2014by substituting \u201c23 taxable years\u201d\n                           for \u201c21 taxable years\u201d in subparagraph (A) thereof, andI.R.C. \u00a7 39(a)(4)(C)(ii)\u2014by substituting \u201c22 taxable years\u201d\n                           for \u201c20 taxable years\u201d in subparagraph (B) thereof.",
+    "definitions": null
+  },
+  {
+    "section": "39",
+    "subsection": "(b)",
+    "source_subsections": [
+      "(b)",
+      "(b)(1)",
+      "(b)(2)"
+    ],
+    "rule_type": "limitation",
+    "title": "On Carrybacks",
+    "text": "The amount of the unused credit which may be taken into account under section38(a)(3)for any preceding taxable year shall not exceed the amount by which the limitation imposed by section38(c)for such taxable year exceeds the sum of\u2014\u2014the amounts determined under paragraphs(1)and(2)of section38(a)for such taxable year, plus\u2014the amounts which (by reason of this section) are carried back to such taxable year and are attributable to taxable years preceding the unused credit year.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of the unused credit which may be taken into account under section38(a)(3)for any preceding taxable year shall not exceed the amount by which the limitation imposed by section38(c)for such taxable year exceeds the sum of\u2014\u2014the amounts determined under paragraphs(1)and(2)of section38(a)for such taxable year, plus\u2014the amounts which (by reason of this section) are carried back to such taxable year and are attributable to taxable years preceding the unused credit year."
+    },
+    "cross_references": [
+      {
+        "section": "38(a)(3)",
+        "reason": "y be taken into account under..."
+      },
+      {
+        "section": "38(c)",
+        "reason": "ich the limitation imposed by..."
+      },
+      {
+        "section": "38(a)",
+        "reason": "d under paragraphs(1)and(2)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 39(b)Limitation On Carrybacks\u2014The amount of the unused credit which may be taken into\n                  account under section38(a)(3)for\n                  any preceding taxable year shall not exceed the amount by which the\n                  limitation imposed by section38(c)for\n                  such taxable year exceeds the sum of\u2014I.R.C. \u00a7 39(b)(1)\u2014the amounts determined under paragraphs(1)and(2)of section38(a)for such taxable year,\n                     plusI.R.C. \u00a7 39(b)(2)\u2014the amounts which (by reason of this\n                     section) are carried back to such taxable year and are attributable\n                     to taxable years preceding the unused credit year.",
+    "definitions": null
+  },
+  {
+    "section": "39",
+    "subsection": "(c)",
+    "source_subsections": [
+      "(c)"
+    ],
+    "rule_type": "limitation",
+    "title": "On Carryforwards",
+    "text": "The amount of the unused credit which may be taken into account under section38(a)(1)for any succeeding taxable year shall not exceed the amount by which the limitation imposed by section38(c)for such taxable year exceeds the sum of the amounts which, by reason of this section, are carried to such taxable year and are attributable to taxable years preceding the unused credit year.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of the unused credit which may be taken into account under section38(a)(1)for any succeeding taxable year shall not exceed the amount by which the limitation imposed by section38(c)for such taxable year exceeds the sum of the amounts which, by reason of this section, are carried to such taxable year and are attributable to taxable years preceding the unused credit year."
+    },
+    "cross_references": [
+      {
+        "section": "38(a)(1)",
+        "reason": "y be taken into account under..."
+      },
+      {
+        "section": "38(c)",
+        "reason": "ich the limitation imposed by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 39(c)Limitation On Carryforwards\u2014The amount of the unused credit which may be taken into\n                  account under section38(a)(1)for\n                  any succeeding taxable year shall not exceed the amount by which the\n                  limitation imposed by section38(c)for\n                  such taxable year exceeds the sum of the amounts which, by reason\n                  of this section, are carried to such taxable year and are attributable\n                  to taxable years preceding the unused credit year.",
+    "definitions": null
+  },
+  {
+    "section": "39",
+    "subsection": "(d)",
+    "source_subsections": [
+      "(d)"
+    ],
+    "rule_type": "condition",
+    "title": "Rule",
+    "text": "No portion of the unused business credit for any taxable year which is attributable to a credit specified in section38(b)or any portion thereof may be carried back to any taxable year before the first taxable year for which such specified credit or such portion is allowable (without regard to subsection (a)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No portion of the unused business credit for any taxable year which is attributable to a credit specified in section38(b)or any portion thereof may be carried back to any taxable year before the first taxable year for which such specified credit or such portion is allowable (without regard to subsection (a))."
+    },
+    "cross_references": [
+      {
+        "section": "38(b)",
+        "reason": "able to a credit specified in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 39(d)Transitional Rule\u2014No portion of the unused business credit for any taxable\n                  year which is attributable to a credit specified in section38(b)or any portion thereof\n                  may be carried back to any taxable year before the first taxable year\n                  for which such specified credit or such portion is allowable (without\n                  regard to subsection (a)).",
+    "definitions": null
+  }
+]

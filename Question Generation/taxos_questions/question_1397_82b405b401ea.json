@@ -1,0 +1,22 @@
+{
+  "id": "82b405b401ea",
+  "section": "1397",
+  "citation": "I.R.C. \u00a7 1397(a)(2)(B)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1397(a)(2)(B) is discussed as follows: 'I.R.C. \u00a7 1397(a)(2)(B)Related Person\u2014A  person is related to any other person if the person bears a ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1397(a)(2)(B)?",
+  "difficulty": 1,
+  "choices": [
+    "0.0%",
+    "20.0%",
+    "15.0%",
+    "90.0%",
+    "10.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 10.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1397(a)(2)(B)"
+  ]
+}

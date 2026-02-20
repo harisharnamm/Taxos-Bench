@@ -1,0 +1,22 @@
+{
+  "id": "fe0d98a17736",
+  "section": "147",
+  "citation": "I.R.C. \u00a7 147(g)(2)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 147(g)(2) is discussed as follows: 'I.R.C. \u00a7 147(g)(2)Special Rule For Small Mortgage Revenue Bond Issues\u2014In  the case of an issue of qu...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 147(g)(2)?",
+  "difficulty": 1,
+  "choices": [
+    "3.0%",
+    "98.0%",
+    "2.0%",
+    "12.0%",
+    "0.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 2.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 147(g)(2)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "82f138c16208",
+  "section": "860L",
+  "citation": "I.R.C. \u00a7 860L(e)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 860L(e) is discussed as follows: 'I.R.C. \u00a7 860L(e)Tax On Prohibited TransactionsI.R.C. \u00a7 860L(e)(1)In General\u2014Editor's Note:Pub. L. 10...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 860L(e)?",
+  "difficulty": 1,
+  "choices": [
+    "90.0%",
+    "150.0%",
+    "110.0%",
+    "0.0%",
+    "100.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 100.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 860L(e)"
+  ]
+}

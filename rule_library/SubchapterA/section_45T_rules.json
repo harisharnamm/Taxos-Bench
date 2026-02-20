@@ -1,0 +1,166 @@
+[
+  {
+    "section": "45T",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$500 for any taxable year occurring during the credit period, and",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 500,
+        "text": "$500"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$500 for any taxable year occurring during the credit period, and"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45T(a)(1)\u2014$500 for any taxable year occurring during the credit period, and",
+    "definitions": null
+  },
+  {
+    "section": "45T",
+    "subsection": "(a)(2)",
+    "source_subsections": [
+      "(a)(2)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "zero for any other taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "zero for any other taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45T(a)(2)\u2014zero for any other taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "45T",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The credit period with respect to any eligible employer is the 3-taxable-year period beginning with the first taxable year for which the employer includes an eligible automatic contribution arrangement (as defined in section 414(w)(3)) in a qualified employer plan (as defined in section 4972(d)) sponsored by the employer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The credit period with respect to any eligible employer is the 3-taxable-year period beginning with the first taxable year for which the employer includes an eligible automatic contribution arrangement (as defined in section 414(w)(3)) in a qualified employer plan (as defined in section 4972(d)) sponsored by the employer."
+    },
+    "cross_references": [
+      {
+        "section": "414(w)(3)",
+        "reason": "on arrangement (as defined in..."
+      },
+      {
+        "section": "4972(d)",
+        "reason": "employer plan (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45T(b)(1)In General\u2014The credit period with respect to any eligible employer is the 3-taxable-year period\n                     beginning with the first taxable year for which the employer includes an eligible\n                     automatic contribution arrangement (as defined in section 414(w)(3)) in a qualified\n                     employer plan (as defined in section 4972(d)) sponsored by the employer.",
+    "definitions": null
+  },
+  {
+    "section": "45T",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Arrangement",
+    "text": "No taxable year with respect to an employer shall be treated as occurring within the credit period unless the arrangement described in paragraph (1) is included in the plan for such year.",
+    "conditions": [
+      "the arrangement described in paragraph (1) is included in the plan for such year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "the arrangement described in paragraph (1) is included in the plan for such year."
+      ],
+      "except": [],
+      "result": "No taxable year with respect to an employer shall be treated as occurring within the credit period"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45T(b)(2)Maintenance Of Arrangement\u2014No taxable year with respect to an employer shall be treated as occurring within the\n                     credit period unless the arrangement described in paragraph (1) is included in the\n                     plan for such year.",
+    "definitions": null
+  },
+  {
+    "section": "45T",
+    "subsection": "(c)",
+    "source_subsections": [
+      "(c)"
+    ],
+    "rule_type": "definition",
+    "title": "Employer",
+    "text": "For purposes of this section, the term \u201celigible employer\u201d has the meaning given such term in section 408(p)(2)(C)(i).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u201celigible employer\u201d has the meaning given such term in section 408(p)(2)(C)(i)."
+    },
+    "cross_references": [
+      {
+        "section": "408(p)(2)(C)(i)",
+        "reason": "he meaning given such term in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45T(c)Eligible Employer\u2014For purposes of this section, the term \u201celigible employer\u201d has the meaning given such\n                  term in section 408(p)(2)(C)(i).",
+    "definitions": null
+  }
+]

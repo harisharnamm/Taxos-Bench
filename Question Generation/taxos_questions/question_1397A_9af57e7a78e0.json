@@ -1,0 +1,22 @@
+{
+  "id": "9af57e7a78e0",
+  "section": "1397A",
+  "citation": "I.R.C. \u00a7 1397A(a)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 1397A(a) is discussed as follows: 'I.R.C. \u00a7 1397A(a)General Rule\u2014In  the case of an enterprise zone business, for purposes of section17...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 1397A(a)?",
+  "difficulty": 1,
+  "choices": [
+    "$38,500.00",
+    "$35,000.00",
+    "$70,000.00",
+    "$31,500.00",
+    "$17,500.00"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $35,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1397A(a)"
+  ]
+}

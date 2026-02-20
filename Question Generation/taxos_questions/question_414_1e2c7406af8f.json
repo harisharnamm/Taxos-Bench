@@ -1,0 +1,22 @@
+{
+  "id": "1e2c7406af8f",
+  "section": "414",
+  "citation": "I.R.C. \u00a7 414(v)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 414(v) is discussed as follows: 'I.R.C. \u00a7 414(v)Catch-Up Contributions For Individuals Age 50 Or OverI.R.C. \u00a7 414(v)(1)In General\u2014An ...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 414(v)?",
+  "difficulty": 1,
+  "choices": [
+    "$290,000.00",
+    "$159,500.00",
+    "$145,000.00",
+    "$72,500.00",
+    "$130,500.00"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies $145,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 414(v)"
+  ]
+}

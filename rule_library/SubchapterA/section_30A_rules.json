@@ -1,0 +1,581 @@
+[
+  {
+    "section": "30A",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)",
+      "(a)(1)(A)",
+      "(a)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Except as otherwise provided in this section, if the conditions of both paragraph(1)and paragraph(2)of subsection(b)are satisfied with respect to a qualified domestic corporation, there shall be allowed as a credit against the tax imposed by this chapter an amount equal to the portion of the tax which is attributable to the taxable income, from sources without the United States, from\u2014\u2014the active conduct of a trade or business within Puerto Rico, or\u2014the sale or exchange of substantially all of the assets used by the taxpayer in the active conduct of such trade or business.In the case of any taxable year beginning after December 31, 2001, the aggregate amount of taxable income taken into account under the preceding sentence (and in applying subsection(d)) shall not exceed the adjusted base period income of such corporation, as determined in the same manner as under section936(j).",
+    "conditions": [
+      "the conditions of both paragraph(1)and paragraph(2)of subsection(b)are satisfied with respect to a qualified domestic corporation, there shall be allowed as a credit against the tax imposed by this chapter an amount equal to the portion of the tax which is attributable to the taxable income, from sources without the United States, from\u2014\u2014the active conduct of a trade or business within Puerto Rico, or\u2014the sale or exchange of substantially all of the assets used by the taxpayer in the active conduct of such trade or business.In the case of any taxable year beginning after December 31, 2001, the aggregate amount of taxable income taken into account under the preceding sentence (and in applying subsection(d)) shall not exceed the adjusted base period income of such corporation, as determined in the same manner as under section936(j)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the conditions of both paragraph(1)and paragraph(2)of subsection(b)are satisfied with respect to a qualified domestic corporation, there shall be allowed as a credit against the tax imposed by this chapter an amount equal to the portion of the tax which is attributable to the taxable income, from sources without the United States, from\u2014\u2014the active conduct of a trade or business within Puerto Rico, or\u2014the sale or exchange of substantially all of the assets used by the taxpayer in the active conduct of such trade or business.In the case of any taxable year beginning after December 31, 2001, the aggregate amount of taxable income taken into account under the preceding sentence (and in applying subsection(d)) shall not exceed the adjusted base period income of such corporation, as determined in the same manner as under section936(j)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as otherwise provided in this section,"
+      ],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "936(j)",
+        "reason": "d in the same manner as under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30A(a)(1)In General\u2014Except  as otherwise provided in this section, if the conditions of both paragraph(1)and paragraph(2)of subsection(b)are satisfied with respect to a  qualified domestic corporation, there shall be allowed\n                     as a credit against  the tax imposed by this chapter an amount equal to the portion\n                     of the tax  which is attributable to the taxable income, from sources without the\n                     United States, from\u2014I.R.C. \u00a7 30A(a)(1)(A)\u2014the  active conduct of a trade or business within Puerto Rico, orI.R.C. \u00a7 30A(a)(1)(B)\u2014the  sale or exchange of substantially all of the assets used by the taxpayer  in\n                        the active conduct of such trade or business.In the case of any taxable year \n                        beginning after December 31, 2001, the aggregate amount of taxable income  taken into\n                        account under the preceding sentence (and in applying\n                        subsection(d))\n                        shall not exceed the adjusted base period income of such  corporation, as determined\n                        in the same manner as under section936(j).",
+    "definitions": null
+  },
+  {
+    "section": "30A",
+    "subsection": "(a)(2)",
+    "source_subsections": [
+      "(a)(2)",
+      "(a)(2)(A)",
+      "(a)(2)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Domestic Corporation",
+    "text": "For purposes of paragraph(1), the term \u201cqualified domestic corporation\u201d means a domestic corporation\u2014\u2014which is an existing credit claimant with respect to Puerto Rico, and\u2014with respect to which section936(a)(4)(B)does not apply for the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of paragraph(1), the term \u201cqualified domestic corporation\u201d means a domestic corporation\u2014\u2014which is an existing credit claimant with respect to Puerto Rico, and\u2014with respect to which section936(a)(4)(B)does not apply for the taxable year."
+    },
+    "cross_references": [
+      {
+        "section": "936(a)(4)(B)",
+        "reason": "co, and\u2014with respect to which..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30A(a)(2)Qualified Domestic Corporation\u2014For  purposes of paragraph(1), the term \u201cqualified domestic corporation\u201d means  a domestic corporation\u2014I.R.C. \u00a7 30A(a)(2)(A)\u2014which is an existing credit claimant with respect to Puerto Rico,  andI.R.C. \u00a7 30A(a)(2)(B)\u2014with  respect to which section936(a)(4)(B)does not apply for the taxable  year.",
+    "definitions": {
+      "term": "qualified domestic corporation",
+      "requirements": [
+        "a domestic corporation\u2014\u2014which is an existing credit claimant with respect to Puerto Rico, and\u2014with respect to which section936(a)(4)(B)does not apply for the taxable year."
+      ]
+    }
+  },
+  {
+    "section": "30A",
+    "subsection": "(a)(3)",
+    "source_subsections": [
+      "(a)(3)",
+      "(a)(3)(A)",
+      "(a)(3)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Application",
+    "text": "For purposes of determining\u2014\u2014whether a taxpayer is an existing credit claimant with respect to Puerto Rico, and\u2014the amount of the credit allowed under this section,this section (and so much of section936as relates to this section) shall be applied separately with respect to Puerto Rico.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of determining\u2014\u2014whether a taxpayer is an existing credit claimant with respect to Puerto Rico, and\u2014the amount of the credit allowed under this section,this section (and so much of section936as relates to this section) shall be applied separately with respect to Puerto Rico."
+    },
+    "cross_references": [
+      {
+        "section": "936a",
+        "reason": ",this section (and so much of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30A(a)(3)Separate Application\u2014For  purposes of determining\u2014I.R.C. \u00a7 30A(a)(3)(A)\u2014whether a taxpayer is an existing credit claimant with respect to Puerto  Rico, andI.R.C. \u00a7 30A(a)(3)(B)\u2014the  amount of the credit allowed under this section,this section (and so much of section936as relates to  this section)\n                        shall be applied separately with respect to Puerto  Rico.",
+    "definitions": null
+  },
+  {
+    "section": "30A",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "Period",
+    "text": "If 80 percent or more of the gross income of the qualified domestic corporation for the 3-year period immediately preceding the close of the taxable year (or for such part of such period immediately preceding the close of such taxable year as may be applicable) was derived from sources within a possession (determined without regard to section904(f)).",
+    "conditions": [
+      "80 percent or more of the gross income of the qualified domestic corporation for the 3-year period immediately preceding the close of the taxable year (or for such part of such period immediately preceding the close of such taxable year as may be applicable) was derived from sources within a possession (determined without regard to section904(f))."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.8,
+        "text": "80 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "80 percent or more of the gross income of the qualified domestic corporation for the 3-year period immediately preceding the close of the taxable year (or for such part of such period immediately preceding the close of such taxable year as may be applicable) was derived from sources within a possession (determined without regard to section904(f))."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "904(f)",
+        "reason": "(determined without regard to..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30A(b)(1)3-Year Period\u2014If  80 percent or more of the gross income of the qualified domestic  corporation\n                     for the 3-year period immediately preceding the close of the  taxable year (or for\n                     such part of such period immediately preceding the  close of such taxable year as\n                     may be applicable) was derived from sources  within a possession (determined without\n                     regard to section904(f)).",
+    "definitions": null
+  },
+  {
+    "section": "30A",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Or Business",
+    "text": "If 75 percent or more of the gross income of the qualified domestic corporation for such period or such part thereof was derived from the active conduct of a trade or business within a possession.",
+    "conditions": [
+      "75 percent or more of the gross income of the qualified domestic corporation for such period or such part thereof was derived from the active conduct of a trade or business within a possession."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.75,
+        "text": "75 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "75 percent or more of the gross income of the qualified domestic corporation for such period or such part thereof was derived from the active conduct of a trade or business within a possession."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30A(b)(2)Trade Or Business\u2014If  75 percent or more of the gross income of the qualified domestic  corporation\n                     for such period or such part thereof was derived from the  active conduct of a trade\n                     or business within a  possession.",
+    "definitions": null
+  },
+  {
+    "section": "30A",
+    "subsection": "(c)",
+    "source_subsections": [
+      "(c)",
+      "(c)(1)",
+      "(c)(2)",
+      "(c)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Not Allowed Against Certain Taxes",
+    "text": "The credit provided by subsection(a)shall not be allowed against the tax imposed by\u2014\u2014section531(relating to the tax on accumulated earnings),\u2014section541(relating to personal holding company tax), or\u2014section1351(relating to recoveries of foreign expropriation losses).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The credit provided by subsection(a)shall not be allowed against the tax imposed by\u2014\u2014section531(relating to the tax on accumulated earnings),\u2014section541(relating to personal holding company tax), or\u2014section1351(relating to recoveries of foreign expropriation losses)."
+    },
+    "cross_references": [
+      {
+        "section": "531",
+        "reason": "d against the tax imposed by\u2014\u2014..."
+      },
+      {
+        "section": "541",
+        "reason": "tax on accumulated earnings),\u2014..."
+      },
+      {
+        "section": "1351",
+        "reason": "onal holding company tax), or\u2014..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30A(c)Credit Not Allowed Against Certain Taxes\u2014The  credit provided by subsection(a)shall not be allowed against the tax  imposed by\u2014I.R.C. \u00a7 30A(c)(1)\u2014section531(relating to the tax on accumulated earnings),I.R.C. \u00a7 30A(c)(2)\u2014section541(relating to personal holding company tax), orI.R.C. \u00a7 30A(c)(3)\u2014section1351(relating to recoveries of foreign expropriation  losses).",
+    "definitions": null
+  },
+  {
+    "section": "30A",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)",
+      "(d)(1)(A)",
+      "(d)(1)(B)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "60 percent of the sum of\u2014\u2014the aggregate amount of the qualified domestic corporation's qualified possession wages for such taxable year, plus\u2014the allocable employee fringe benefit expenses of the qualified domestic corporation for such taxable year.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.6,
+        "text": "60 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "60 percent of the sum of\u2014\u2014the aggregate amount of the qualified domestic corporation's qualified possession wages for such taxable year, plus\u2014the allocable employee fringe benefit expenses of the qualified domestic corporation for such taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30A(d)(1)\u201460  percent of the sum of\u2014I.R.C. \u00a7 30A(d)(1)(A)\u2014the  aggregate amount of the qualified domestic corporation's qualified  possession\n                        wages for such taxable year, plusI.R.C. \u00a7 30A(d)(1)(B)\u2014the  allocable employee fringe benefit expenses of the qualified domestic  corporation\n                        for such taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "30A",
+    "subsection": "(d)(2)(A)",
+    "source_subsections": [
+      "(d)(2)(A)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "15 percent of the depreciation allowances for the taxable year with respect to short-life qualified tangible property,",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.15,
+        "text": "15 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "15 percent of the depreciation allowances for the taxable year with respect to short-life qualified tangible property,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30A(d)(2)(A)\u201415  percent of the depreciation allowances for the taxable year with respect  to short-life\n                        qualified tangible property,",
+    "definitions": null
+  },
+  {
+    "section": "30A",
+    "subsection": "(d)(2)(B)",
+    "source_subsections": [
+      "(d)(2)(B)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "40 percent of the depreciation allowances for the taxable year with respect to medium-life qualified tangible property, and",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.4,
+        "text": "40 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "40 percent of the depreciation allowances for the taxable year with respect to medium-life qualified tangible property, and"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30A(d)(2)(B)\u201440  percent of the depreciation allowances for the taxable year with respect  to medium-life\n                        qualified tangible property, and",
+    "definitions": null
+  },
+  {
+    "section": "30A",
+    "subsection": "(d)(2)(C)",
+    "source_subsections": [
+      "(d)(2)(C)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "65 percent of the depreciation allowances for the taxable year with respect to long-life qualified tangible property.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.65,
+        "text": "65 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "65 percent of the depreciation allowances for the taxable year with respect to long-life qualified tangible property."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30A(d)(2)(C)\u201465  percent of the depreciation allowances for the taxable year with respect  to long-life\n                        qualified tangible property.",
+    "definitions": null
+  },
+  {
+    "section": "30A",
+    "subsection": "(d)(3)",
+    "source_subsections": [
+      "(d)(3)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "If the qualified domestic corporation does not have an election to use the method described in section936(h)(5)(C)(ii)(relating to profit split) in effect for the taxable year, the amount of the qualified possession income taxes for the taxable year allocable to nonsheltered income.",
+    "conditions": [
+      "the qualified domestic corporation does not have an election to use the method described in section936(h)(5)(C)(ii)(relating to profit split) in effect for the taxable year, the amount of the qualified possession income taxes for the taxable year allocable to nonsheltered income."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the qualified domestic corporation does not have an election to use the method described in section936(h)(5)(C)(ii)(relating to profit split) in effect for the taxable year, the amount of the qualified possession income taxes for the taxable year allocable to nonsheltered income."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "936(h)(5)(C)(ii)",
+        "reason": "o use the method described in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30A(d)(3)\u2014If  the qualified domestic corporation does not have an election to use the  method\n                     described in section936(h)(5)(C)(ii)(relating to profit split) in  effect for the taxable year, the amount of the qualified\n                     possession income  taxes for the taxable year allocable to nonsheltered  income.",
+    "definitions": null
+  },
+  {
+    "section": "30A",
+    "subsection": "(e)",
+    "source_subsections": [
+      "(e)",
+      "(e)(1)",
+      "(e)(2)",
+      "(e)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Provisions",
+    "text": "For purposes of this title\u2014\u2014the provisions of section936(including any applicable election thereunder) shall apply in the same manner as if the credit under this section were a credit under section936(a)(1)(A)for a domestic corporation to which section936(a)(4)(A)applies,\u2014the credit under this section shall be treated in the same manner as the credit under section936, and\u2014a corporation to which this section applies shall be treated in the same manner as if it were a corporation electing the application of section936.",
+    "conditions": [
+      "the credit under this section were a credit under section936(a)(1)(A)for a domestic corporation to which section936(a)(4)(A)applies,\u2014the credit under this section shall be treated in the same manner as the credit under section936, and\u2014a corporation to which this section applies shall be treated in the same manner as",
+      "it were a corporation electing the application of section936."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the credit under this section were a credit under section936(a)(1)(A)for a domestic corporation to which section936(a)(4)(A)applies,\u2014the credit under this section shall be treated in the same manner as the credit under section936, and\u2014a corporation to which this section applies shall be treated in the same manner as",
+        "it were a corporation electing the application of section936."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this title\u2014\u2014the provisions of section936(including any applicable election thereunder) shall apply in the same manner as"
+    },
+    "cross_references": [
+      {
+        "section": "936",
+        "reason": "this title\u2014\u2014the provisions of..."
+      },
+      {
+        "section": "936(a)(1)(A)",
+        "reason": "s section were a credit under..."
+      },
+      {
+        "section": "936(a)(4)(A)",
+        "reason": "domestic corporation to which..."
+      },
+      {
+        "section": "936",
+        "reason": "me manner as the credit under..."
+      },
+      {
+        "section": "936",
+        "reason": "n electing the application of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30A(e)Administrative Provisions\u2014For  purposes of this title\u2014I.R.C. \u00a7 30A(e)(1)\u2014the  provisions of section936(including any applicable election thereunder)  shall apply in the same manner as\n                     if the credit under this section were a  credit under section936(a)(1)(A)for a domestic corporation to which  section936(a)(4)(A)applies,I.R.C. \u00a7 30A(e)(2)\u2014the  credit under this section shall be treated in the same manner as the  credit\n                     under section936, andI.R.C. \u00a7 30A(e)(3)\u2014a  corporation to which this section applies shall be treated in the same  manner\n                     as if it were a corporation electing the application of section936.",
+    "definitions": null
+  },
+  {
+    "section": "30A",
+    "subsection": "(f)",
+    "source_subsections": [
+      "(f)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Double Benefit",
+    "text": "Any wages or other expenses taken into account in determining the credit under this section may not be taken into account in determining the credit under section41.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Any wages or other expenses taken into account in determining the credit under this section may not be taken into account in determining the credit under section41."
+    },
+    "cross_references": [
+      {
+        "section": "41",
+        "reason": "determining the credit under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30A(f)Denial Of Double Benefit\u2014Any  wages or other expenses taken into account in determining the credit   under\n                  this section may not be taken into account in determining the credit  under section41.",
+    "definitions": null
+  },
+  {
+    "section": "30A",
+    "subsection": "(g)",
+    "source_subsections": [
+      "(g)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "For purposes of this section, any term used in this section which is also used in section936shall have the same meaning given such term by section936.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, any term used in this section which is also used in section936shall have the same meaning given such term by section936."
+    },
+    "cross_references": [
+      {
+        "section": "936s",
+        "reason": "section which is also used in..."
+      },
+      {
+        "section": "936",
+        "reason": "me meaning given such term by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30A(g)Definitions\u2014For  purposes of this section, any term used in this section which is also used  in\n                  section936shall have the same meaning given such term by section936.",
+    "definitions": null
+  },
+  {
+    "section": "30A",
+    "subsection": "(h)",
+    "source_subsections": [
+      "(h)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Section",
+    "text": "This section shall apply to taxable years beginning after December 31, 1995, and before January 1, 2006.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "This section shall apply to taxable years beginning after December 31, 1995, and before January 1, 2006."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30A(h)Application Of Section\u2014This  section shall apply to taxable years beginning after December 31, 1995,  and\n                  before January 1, 2006.",
+    "definitions": null
+  }
+]

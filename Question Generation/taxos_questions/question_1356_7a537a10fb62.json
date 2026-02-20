@@ -1,0 +1,21 @@
+{
+  "id": "7a537a10fb62",
+  "section": "1356",
+  "citation": "I.R.C. \u00a7 1356(c)(1)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1356(c)(1) is discussed as follows: 'I.R.C. \u00a7 1356(c)(1)In General\u2014The  term \u201cqualifying secondary activities\u201d\n                     means...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1356(c)(1)?",
+  "difficulty": 1,
+  "choices": [
+    "80.0%",
+    "30.0%",
+    "10.0%",
+    "20.0%"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies 20.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1356(c)(1)"
+  ]
+}

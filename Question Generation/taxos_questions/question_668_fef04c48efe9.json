@@ -1,0 +1,22 @@
+{
+  "id": "fef04c48efe9",
+  "section": "668",
+  "citation": "I.R.C. \u00a7 668(a)(6)(A)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 668(a)(6)(A) is discussed as follows: 'I.R.C. \u00a7 668(a)(6)(A)\u2014by  using an interest rate of 6 percent, and...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 668(a)(6)(A)?",
+  "difficulty": 1,
+  "choices": [
+    "6.0%",
+    "9.0%",
+    "0.0%",
+    "16.0%",
+    "94.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 6.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 668(a)(6)(A)"
+  ]
+}

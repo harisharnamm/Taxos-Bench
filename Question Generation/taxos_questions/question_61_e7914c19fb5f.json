@@ -1,0 +1,22 @@
+{
+  "id": "e7914c19fb5f",
+  "section": "61",
+  "citation": "I.R.C. \u00a7 61(a)",
+  "type": "Calculation - Gross Income",
+  "scenario": "Alice received the following amounts during the year: Life Insurance Proceeds (Death): $49,078.62, Loan Proceeds: $38,909.79, Gift from Parents: $12,765.05, Wages: $19,079.56.",
+  "question": "Calculate Alice's gross income under I.R.C. \u00a7 61.",
+  "difficulty": 2,
+  "choices": [
+    "$119,833.02",
+    "$19,079.56",
+    "$100,753.46",
+    "$9,539.78",
+    "$0.00"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "Gross income includes all income from whatever source derived, unless excluded. Total: $19,079.56.",
+  "reasoning": "Summed included items, ignored excluded items.",
+  "source_rules": [
+    "I.R.C. \u00a7 61(a)"
+  ]
+}

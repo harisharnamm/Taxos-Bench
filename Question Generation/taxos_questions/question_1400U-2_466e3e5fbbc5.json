@@ -1,0 +1,21 @@
+{
+  "id": "466e3e5fbbc5",
+  "section": "1400U-2",
+  "citation": "I.R.C. \u00a7 1400U-2(a)(2)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1400U-2(a)(2) is discussed as follows: 'I.R.C. \u00a7 1400U-2(a)(2)\u2014subsection (b) of such section shall\n                     be applied by subst...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1400U-2(a)(2)?",
+  "difficulty": 1,
+  "choices": [
+    "35.0%",
+    "45.0%",
+    "55.0%",
+    "67.5%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 45.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1400U-2(a)(2)"
+  ]
+}

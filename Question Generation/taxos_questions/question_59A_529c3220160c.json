@@ -1,0 +1,22 @@
+{
+  "id": "529c3220160c",
+  "section": "59A",
+  "citation": "I.R.C. \u00a7 59A(b)(1)(A)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 59A(b)(1)(A) is discussed as follows: 'I.R.C. \u00a7 59A(b)(1)(A)\u2014an amount equal to 10 percent (5 percent in the case of taxable years beginnin...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 59A(b)(1)(A)?",
+  "difficulty": 1,
+  "choices": [
+    "20.0%",
+    "15.0%",
+    "90.0%",
+    "0.0%",
+    "10.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 10.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 59A(b)(1)(A)"
+  ]
+}

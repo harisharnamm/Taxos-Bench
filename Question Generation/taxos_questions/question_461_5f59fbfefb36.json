@@ -1,0 +1,22 @@
+{
+  "id": "5f59fbfefb36",
+  "section": "461",
+  "citation": "I.R.C. \u00a7 461(j)(4)(B)(i)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 461(j)(4)(B)(i) is discussed as follows: 'I.R.C. \u00a7 461(j)(4)(B)(i)In General\u2014The term \u201cthreshold amount\u201d means, with respect\n                 ...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 461(j)(4)(B)(i)?",
+  "difficulty": 1,
+  "choices": [
+    "$330,000.00",
+    "$150,000.00",
+    "$270,000.00",
+    "$300,000.00",
+    "$600,000.00"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies $300,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 461(j)(4)(B)(i)"
+  ]
+}

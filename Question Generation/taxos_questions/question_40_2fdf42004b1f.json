@@ -1,0 +1,21 @@
+{
+  "id": "2fdf42004b1f",
+  "section": "40",
+  "citation": "I.R.C. \u00a7 40(g)(2)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 40(g)(2) is discussed as follows: 'I.R.C. \u00a7 40(g)(2)Aggregation Rule\u2014For purposes of the 15,000,000 gallon limitation under subsection ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 40(g)(2)?",
+  "difficulty": 1,
+  "choices": [
+    "40.0%",
+    "75.0%",
+    "60.0%",
+    "50.0%"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 40(g)(2)"
+  ]
+}

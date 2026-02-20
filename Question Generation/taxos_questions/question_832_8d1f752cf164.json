@@ -1,0 +1,22 @@
+{
+  "id": "8d1f752cf164",
+  "section": "832",
+  "citation": "I.R.C. \u00a7 832(b)(5)(B)(ii)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 832(b)(5)(B)(ii) is discussed as follows: 'I.R.C. \u00a7 832(b)(5)(B)(ii)\u2014the aggregate amount of deductions provided by sections243and245for\u2014I.R.C....'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 832(b)(5)(B)(ii)?",
+  "difficulty": 1,
+  "choices": [
+    "100.0%",
+    "90.0%",
+    "0.0%",
+    "110.0%",
+    "150.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 100.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 832(b)(5)(B)(ii)"
+  ]
+}

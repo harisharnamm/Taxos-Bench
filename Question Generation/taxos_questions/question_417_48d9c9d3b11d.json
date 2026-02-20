@@ -1,0 +1,22 @@
+{
+  "id": "48d9c9d3b11d",
+  "section": "417",
+  "citation": "I.R.C. \u00a7 417(g)(2)(A)(ii)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 417(g)(2)(A)(ii) is discussed as follows: 'I.R.C. \u00a7 417(g)(2)(A)(ii)\u2014is  greater than or equal to 75 percent, the applicable percentage  is 50 ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 417(g)(2)(A)(ii)?",
+  "difficulty": 1,
+  "choices": [
+    "25.0%",
+    "75.0%",
+    "112.5%",
+    "85.0%",
+    "65.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 75.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 417(g)(2)(A)(ii)"
+  ]
+}

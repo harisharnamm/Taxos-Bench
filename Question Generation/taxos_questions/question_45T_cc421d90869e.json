@@ -1,0 +1,22 @@
+{
+  "id": "cc421d90869e",
+  "section": "45T",
+  "citation": "I.R.C. \u00a7 45T(a)(1)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 45T(a)(1) is discussed as follows: 'I.R.C. \u00a7 45T(a)(1)\u2014$500 for any taxable year occurring during the credit period, and...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 45T(a)(1)?",
+  "difficulty": 1,
+  "choices": [
+    "$250.00",
+    "$450.00",
+    "$1,000.00",
+    "$550.00",
+    "$500.00"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies $500.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 45T(a)(1)"
+  ]
+}

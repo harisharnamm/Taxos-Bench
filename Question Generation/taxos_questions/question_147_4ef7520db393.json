@@ -1,0 +1,22 @@
+{
+  "id": "4ef7520db393",
+  "section": "147",
+  "citation": "I.R.C. \u00a7 147(g)(2)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 147(g)(2) is discussed as follows: 'I.R.C. \u00a7 147(g)(2)Special Rule For Small Mortgage Revenue Bond Issues\u2014In  the case of an issue of qu...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 147(g)(2)?",
+  "difficulty": 1,
+  "choices": [
+    "$18,000,000.00",
+    "$20,000,000.00",
+    "$22,000,000.00",
+    "$10,000,000.00",
+    "$40,000,000.00"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $20,000,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 147(g)(2)"
+  ]
+}

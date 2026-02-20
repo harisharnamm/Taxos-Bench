@@ -1,0 +1,22 @@
+{
+  "id": "d588c589780a",
+  "section": "436",
+  "citation": "I.R.C. \u00a7 436(h)(3)(A)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 436(h)(3)(A) is discussed as follows: 'I.R.C. \u00a7 436(h)(3)(A)\u2014a  benefit limitation under subsection\n                        (b), (c), (d), ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 436(h)(3)(A)?",
+  "difficulty": 1,
+  "choices": [
+    "0.0%",
+    "15.0%",
+    "10.0%",
+    "90.0%",
+    "20.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 10.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 436(h)(3)(A)"
+  ]
+}

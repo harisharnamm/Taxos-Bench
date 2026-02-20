@@ -1,0 +1,303 @@
+[
+  {
+    "section": "45B",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)"
+    ],
+    "rule_type": "computation",
+    "title": "Rule",
+    "text": "For purposes of section38, the employer social security credit determined under this section for the taxable year is an amount equal to the excess employer social security tax paid or incurred by the taxpayer during the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of section38, the employer social security credit determined under this section for the taxable year is an amount equal to the excess employer social security tax paid or incurred by the taxpayer during the taxable year."
+    },
+    "cross_references": [
+      {
+        "section": "38",
+        "reason": "For purposes of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45B(a)General Rule\u2014For  purposes of section38, the employer social security credit determined  under this section for the taxable\n                  year is an amount equal to the excess  employer social security tax paid or incurred\n                  by the taxpayer during the  taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "45B",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)",
+      "(b)(1)(A)",
+      "(b)(1)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cexcess employer social security tax\u201d means any tax paid by an employer under section3111with respect to tips received by an employee during any month, to the extent such tips\u2014\u2014are deemed to have been paid by the employer to the employee pursuant to section3121(q)(without regard to whether such tips are reported under section6053), andEditor's Note:Subsec. (b)(1)(B), below, before amendment byPub. L. 119-21, Sec. 70201(e)(2), is effective for taxable years beginning on or before Dec. 31, 2024.\u2014exceed the amount by which the wages (excluding tips) paid by the employer to the employee during such month are less than the total amount which would be payable (with respect to such employment) at the minimum wage rate applicable to such individual under section 6(a)(1) of the Fair Labor Standards Act of 1938 (as in effect on January 1, 2007, and determined without regard to section 3(m) of such Act).Editor's Note:Subsec. (b)(1)(B), below, after amendment byPub. L. 119-21, Sec. 70201(e)(2), is effective for taxable years beginning after Dec. 31, 2024.\u2014exceed the amount by which the wages (excluding tips) paid by the employer to the employee during such month are less than the total amount which would be payable (with respect to such employment) at the minimum wage rate applicable to such individual under section 6(a)(1) of the Fair Labor Standards Act of 1938 (determined without regard to section 3(m) of such Act, and in the case of food or beverage establishments, as in effect on January 1, 2007).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cexcess employer social security tax\u201d means any tax paid by an employer under section3111with respect to tips received by an employee during any month, to the extent such tips\u2014\u2014are deemed to have been paid by the employer to the employee pursuant to section3121(q)(without regard to whether such tips are reported under section6053), andEditor's Note:Subsec. (b)(1)(B), below, before amendment byPub. L. 119-21, Sec. 70201(e)(2), is effective for taxable years beginning on or before Dec. 31, 2024.\u2014exceed the amount by which the wages (excluding tips) paid by the employer to the employee during such month are less than the total amount which would be payable (with respect to such employment) at the minimum wage rate applicable to such individual under section 6(a)(1) of the Fair Labor Standards Act of 1938 (as in effect on January 1, 2007, and determined without regard to section 3(m) of such Act).Editor's Note:Subsec. (b)(1)(B), below, after amendment byPub. L. 119-21, Sec. 70201(e)(2), is effective for taxable years beginning after Dec. 31, 2024.\u2014exceed the amount by which the wages (excluding tips) paid by the employer to the employee during such month are less than the total amount which would be payable (with respect to such employment) at the minimum wage rate applicable to such individual under section 6(a)(1) of the Fair Labor Standards Act of 1938 (determined without regard to section 3(m) of such Act, and in the case of food or beverage establishments, as in effect on January 1, 2007)."
+    },
+    "cross_references": [
+      {
+        "section": "3111w",
+        "reason": "tax paid by an employer under..."
+      },
+      {
+        "section": "3121(q)",
+        "reason": "r to the employee pursuant to..."
+      },
+      {
+        "section": "6053",
+        "reason": "such tips are reported under..."
+      },
+      {
+        "section": "6(a)(1)",
+        "reason": "able to such individual under..."
+      },
+      {
+        "section": "3(m)",
+        "reason": "determined without regard to..."
+      },
+      {
+        "section": "6(a)(1)",
+        "reason": "able to such individual under..."
+      },
+      {
+        "section": "3(m)",
+        "reason": "(determined without regard to..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45B(b)(1)In General\u2014The term \u201cexcess employer social security tax\u201d means any tax paid by an employer under\n                     section3111with respect to tips received by an employee during any month, to the extent such\n                     tips\u2014I.R.C. \u00a7 45B(b)(1)(A)\u2014are deemed to have been paid by the employer to the employee pursuant to section3121(q)(without regard to whether such tips are reported under section6053), andEditor's Note:Subsec. (b)(1)(B), below, before amendment byPub. L. 119-21, Sec. 70201(e)(2), is effective for taxable years beginning on or before Dec. 31,\n                              2024.I.R.C. \u00a7 45B(b)(1)(B)\u2014exceed the amount by which the\u00a0wages\u00a0(excluding tips) paid by the employer to the\n                        employee during such month are less than the total amount which would be payable (with\n                        respect to such employment) at the minimum wage rate applicable to such individual\n                        under section 6(a)(1) of the\u00a0Fair Labor Standards Act of 1938\u00a0(as in effect on\u00a0January\n                        1, 2007, and determined without regard to section 3(m) of such Act).Editor's Note:Subsec. (b)(1)(B), below, after amendment byPub. L. 119-21, Sec. 70201(e)(2), is effective for taxable years beginning after Dec. 31, 2024.I.R.C. \u00a7 45B(b)(1)(B)\u2014exceed the amount by which the wages (excluding tips) paid by the employer to the\n                        employee during such month are less than the total amount which would be payable (with\n                        respect to such employment) at the minimum wage rate applicable to such individual\n                        under section 6(a)(1) of the Fair Labor Standards Act of 1938 (determined without\n                        regard to section 3(m) of such Act, and in the case of food or beverage establishments,\n                        as in effect on January 1, 2007).",
+    "definitions": {
+      "term": "excess employer social security tax",
+      "requirements": [
+        "any tax paid by an employer under section3111with respect to tips received by an employee during any month, to the extent such tips\u2014\u2014are deemed to have been paid by the employer to the employee pursuant to section3121(q)(without regard to whether such tips are reported under section6053), andEditor's Note:Subsec. (b)(1)(B), below, before amendment byPub. L. 119-21, Sec. 70201(e)(2), is effective for taxable years beginning on or before Dec. 31, 2024.\u2014exceed the amount by which the wages (excluding tips) paid by the employer to the employee during such month are less than the total amount which would be payable (with respect to such employment) at the minimum wage rate applicable to such individual under section 6(a)(1) of the Fair Labor Standards Act of 1938 (as in effect on January 1, 2007, and determined without regard to section 3(m) of such Act).Editor's Note:Subsec. (b)(1)(B), below, after amendment byPub. L. 119-21, Sec. 70201(e)(2), is effective for taxable years beginning after Dec. 31, 2024.\u2014exceed the amount by which the wages (excluding tips) paid by the employer to the employee during such month are less than the total amount which would be payable (with respect to such employment) at the minimum wage rate applicable to such individual under section 6(a)(1) of the Fair Labor Standards Act of 1938 (determined without regard to section 3(m) of such Act, and in the case of food or beverage establishments, as in effect on January 1, 2007)."
+      ]
+    }
+  },
+  {
+    "section": "45B",
+    "subsection": "(b)(2)(A)",
+    "source_subsections": [
+      "(b)(2)(A)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The providing, delivering, or serving of food or beverages for consumption, if the tipping of employees delivering or serving food or beverages by customers is customary.",
+    "conditions": [
+      "the tipping of employees delivering or serving food or beverages by customers is customary."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the tipping of employees delivering or serving food or beverages by customers is customary."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The providing, delivering, or serving of food or beverages for consumption,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45B(b)(2)(A)\u2014The providing, delivering, or serving of food or beverages for consumption, if the\n                        tipping of employees delivering or serving food or beverages by customers is customary.",
+    "definitions": null
+  },
+  {
+    "section": "45B",
+    "subsection": "(b)(2)(B)(i)",
+    "source_subsections": [
+      "(b)(2)(B)(i)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Barbering and hair care.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Barbering and hair care."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45B(b)(2)(B)(i)\u2014Barbering and hair care.",
+    "definitions": null
+  },
+  {
+    "section": "45B",
+    "subsection": "(b)(2)(B)(ii)",
+    "source_subsections": [
+      "(b)(2)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Nail care.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Nail care."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45B(b)(2)(B)(ii)\u2014Nail care.",
+    "definitions": null
+  },
+  {
+    "section": "45B",
+    "subsection": "(b)(2)(B)(iii)",
+    "source_subsections": [
+      "(b)(2)(B)(iii)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Esthetics.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Esthetics."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45B(b)(2)(B)(iii)\u2014Esthetics.",
+    "definitions": null
+  },
+  {
+    "section": "45B",
+    "subsection": "(b)(2)(B)(iv)",
+    "source_subsections": [
+      "(b)(2)(B)(iv)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Body and spa treatments.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Body and spa treatments."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45B(b)(2)(B)(iv)\u2014Body and spa treatments.",
+    "definitions": null
+  },
+  {
+    "section": "45B",
+    "subsection": "(c)",
+    "source_subsections": [
+      "(c)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Double Benefit",
+    "text": "No deduction shall be allowed under this chapter for any amount taken into account in determining the credit under this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No deduction shall be allowed under this chapter for any amount taken into account in determining the credit under this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45B(c)Denial Of Double Benefit\u2014No deduction shall be allowed under this chapter for any  amount taken into account\n                  in determining the credit under this\n                  section.",
+    "definitions": null
+  },
+  {
+    "section": "45B",
+    "subsection": "(d)",
+    "source_subsections": [
+      "(d)"
+    ],
+    "rule_type": "condition",
+    "title": "Not To Claim Credit",
+    "text": "This section shall not apply to a taxpayer for any taxable year if such taxpayer elects to have this section not apply for such taxable year.",
+    "conditions": [
+      "such taxpayer elects to have this section not apply for such taxable year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such taxpayer elects to have this section not apply for such taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "This section shall not apply to a taxpayer for any taxable year"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45B(d)Election Not To Claim Credit\u2014This section shall not apply to a taxpayer for any \n                  taxable year if such taxpayer elects to have this section not apply for  such taxable\n                  year.",
+    "definitions": null
+  }
+]

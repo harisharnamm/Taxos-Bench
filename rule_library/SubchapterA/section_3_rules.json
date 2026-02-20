@@ -1,0 +1,237 @@
+[
+  {
+    "section": "3",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)",
+      "(a)(1)(A)",
+      "(a)(1)(B)"
+    ],
+    "rule_type": "limitation",
+    "title": "General",
+    "text": "In lieu of the tax imposed by section1, there is hereby imposed for each taxable year on the taxable income of every individual\u2014\u2014who does not itemize his deductions for the taxable year, and\u2014whose taxable income for such taxable year does not exceed the ceiling amount,a tax determined under tables, applicable to such taxable year, which shall be prescribed by the Secretary and which shall be in such form as he determines appropriate. In the table so prescribed, the amounts of the tax shall be computed on the basis of the rates prescribed by section1.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In lieu of the tax imposed by section1, there is hereby imposed for each taxable year on the taxable income of every individual\u2014\u2014who does not itemize his deductions for the taxable year, and\u2014whose taxable income for such taxable year does not exceed the ceiling amount,a tax determined under tables, applicable to such taxable year, which shall be prescribed by the Secretary and which shall be in such form as he determines appropriate. In the table so prescribed, the amounts of the tax shall be computed on the basis of the rates prescribed by section1."
+    },
+    "cross_references": [
+      {
+        "section": "1",
+        "reason": "In lieu of the tax imposed by..."
+      },
+      {
+        "section": "1",
+        "reason": "is of the rates prescribed by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 3(a)(1)In General\u2014In  lieu of the tax imposed by section1, there is hereby imposed for each\n                     taxable year on the taxable income of every individual\u2014I.R.C. \u00a7 3(a)(1)(A)\u2014who  does not itemize his deductions for the taxable year, andI.R.C. \u00a7 3(a)(1)(B)\u2014whose  taxable income for such taxable year does not exceed the ceiling amount,a  tax determined under tables, applicable to such taxable year, which shall  be prescribed\n                        by the Secretary and which shall be in such form as he  determines appropriate. In\n                        the table so prescribed, the amounts of the tax  shall be computed on the basis of\n                        the rates prescribed by section1.",
+    "definitions": null
+  },
+  {
+    "section": "3",
+    "subsection": "(a)(2)",
+    "source_subsections": [
+      "(a)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Amount Defined",
+    "text": "Amount Defined\u2014For purposes of paragraph(1), the term \u201cceiling amount\u201d means, with respect to any taxpayer, the amount (not less than $20,000) determined by the Secretary for the tax rate category in which such taxpayer falls.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 20000,
+        "text": "$20,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Amount Defined\u2014For purposes of paragraph(1), the term \u201cceiling amount\u201d means, with respect to any taxpayer, the amount (not less than $20,000) determined by the Secretary for the tax rate category in which such taxpayer falls."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 3(a)(2)Ceiling Amount Defined\u2014For  purposes of paragraph(1), the term \u201cceiling amount\u201d means, with respect  to any taxpayer, the amount (not\n                     less than $20,000) determined by the  Secretary for the tax rate category in which\n                     such taxpayer falls.",
+    "definitions": null
+  },
+  {
+    "section": "3",
+    "subsection": "(a)(3)",
+    "source_subsections": [
+      "(a)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "To Prescribe Tables For Taxpayers Who Itemize Deductions",
+    "text": "The Secretary may provide that this section shall apply also for any taxable year to individuals who itemize their deductions. Any tables prescribed under the preceding sentence shall be on the basis of taxable income.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary may provide that this section shall apply also for any taxable year to individuals who itemize their deductions. Any tables prescribed under the preceding sentence shall be on the basis of taxable income."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 3(a)(3)Authority To Prescribe Tables For Taxpayers Who Itemize Deductions\u2014The  Secretary may provide that this section shall apply also for any taxable  year\n                     to individuals who itemize their deductions. Any tables prescribed  under the preceding\n                     sentence shall be on the basis of taxable income.",
+    "definitions": null
+  },
+  {
+    "section": "3",
+    "subsection": "(b)",
+    "source_subsections": [
+      "(b)",
+      "(b)(1)",
+      "(b)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Inapplicable To Certain Individuals",
+    "text": "This section shall not apply to\u2014\u2014an individual making a return under section443(a)(1)for a period of less than 12 months on account of a change in annual accounting period, and\u2014an estate or trust.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "This section shall not apply to\u2014\u2014an individual making a return under section443(a)(1)for a period of less than 12 months on account of a change in annual accounting period, and\u2014an estate or trust."
+    },
+    "cross_references": [
+      {
+        "section": "443(a)(1)",
+        "reason": "ividual making a return under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 3(b)Section Inapplicable To Certain Individuals\u2014This  section shall not apply to\u2014I.R.C. \u00a7 3(b)(1)\u2014an  individual making a return under section443(a)(1)for a period of less  than 12 months on account of a change in annual accounting\n                     period, andI.R.C. \u00a7 3(b)(2)\u2014an  estate or trust.",
+    "definitions": null
+  },
+  {
+    "section": "3",
+    "subsection": "(c)",
+    "source_subsections": [
+      "(c)"
+    ],
+    "rule_type": "condition",
+    "title": "Treated As Imposed By Section 1",
+    "text": "For purposes of this title, the tax imposed by this section shall be treated as tax imposed by section1.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this title, the tax imposed by this section shall be treated as tax imposed by section1."
+    },
+    "cross_references": [
+      {
+        "section": "1",
+        "reason": "be treated as tax imposed by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 3(c)Tax Treated As Imposed By Section 1\u2014For  purposes of this title, the tax imposed by this section shall be treated  as\n                  tax imposed by section1.",
+    "definitions": null
+  },
+  {
+    "section": "3",
+    "subsection": "(d)",
+    "source_subsections": [
+      "(d)"
+    ],
+    "rule_type": "condition",
+    "title": "Income",
+    "text": "Whenever it is necessary to determine the taxable income of an individual to whom this section applies, the taxable income shall be determined under section63.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Whenever it is necessary to determine the taxable income of an individual to whom this section applies, the taxable income shall be determined under section63."
+    },
+    "cross_references": [
+      {
+        "section": "63",
+        "reason": "ome shall be determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 3(d)Taxable Income\u2014Whenever  it is necessary to determine the taxable income of an individual to whom\n                  this section applies, the taxable income shall be determined under section63.",
+    "definitions": null
+  },
+  {
+    "section": "3",
+    "subsection": "(e)",
+    "source_subsections": [
+      "(e)"
+    ],
+    "rule_type": "condition",
+    "title": "Reference",
+    "text": "For computation of tax by Secretary, see section6014.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For computation of tax by Secretary, see section6014."
+    },
+    "cross_references": [
+      {
+        "section": "6014",
+        "reason": "tion of tax by Secretary, see..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 3(e)Cross Reference\u2014For  computation of tax by Secretary, see section6014.",
+    "definitions": null
+  }
+]

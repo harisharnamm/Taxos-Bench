@@ -1,0 +1,995 @@
+[
+  {
+    "section": "48C",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "For purposes of section46, the qualifying advanced energy project credit for any taxable year is an amount equal to 30 percent of the qualified investment for such taxable year with respect to any qualifying advanced energy project of the taxpayer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.3,
+        "text": "30 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of section46, the qualifying advanced energy project credit for any taxable year is an amount equal to 30 percent of the qualified investment for such taxable year with respect to any qualifying advanced energy project of the taxpayer."
+    },
+    "cross_references": [
+      {
+        "section": "46",
+        "reason": "For purposes of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48C(a)In General\u2014For purposes of section46,\n                  the qualifying advanced energy project credit for any taxable year\n                  is an amount equal to 30 percent of the qualified investment for such\n                  taxable year with respect to any qualifying advanced energy project\n                  of the taxpayer.",
+    "definitions": null
+  },
+  {
+    "section": "48C",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "For purposes of subsection(a), the qualified investment for any taxable year is the basis of eligible property placed in service by the taxpayer during such taxable year which is part of a qualifying advanced energy project.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subsection(a), the qualified investment for any taxable year is the basis of eligible property placed in service by the taxpayer during such taxable year which is part of a qualifying advanced energy project."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48C(b)(1)In General\u2014For purposes of subsection(a), the qualified investment\n                     for any taxable year is the basis of eligible property placed in service\n                     by the taxpayer during such taxable year which is part of a qualifying\n                     advanced energy project.",
+    "definitions": null
+  },
+  {
+    "section": "48C",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Qualified Progress Expenditures Rules Made Applicable",
+    "text": "Rules similar to the rules of subsections(c)(4)and(d)ofsection 46(as in effect on the day before the enactment of the Revenue Reconciliation Act of 1990) shall apply for purposes of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules of subsections(c)(4)and(d)ofsection 46(as in effect on the day before the enactment of the Revenue Reconciliation Act of 1990) shall apply for purposes of this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48C(b)(2)Certain Qualified Progress Expenditures Rules Made Applicable\u2014Rules similar to the rules of subsections(c)(4)and(d)ofsection 46(as in effect on the\n                     day before the enactment of the Revenue Reconciliation Act of 1990)\n                     shall apply for purposes of this section.",
+    "definitions": null
+  },
+  {
+    "section": "48C",
+    "subsection": "(b)(3)",
+    "source_subsections": [
+      "(b)(3)"
+    ],
+    "rule_type": "limitation",
+    "title": null,
+    "text": "The amount which is treated as the qualified investment for all taxable years with respect to any qualifying advanced energy project shall not exceed the amount designated by the Secretary as eligible for the credit under this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount which is treated as the qualified investment for all taxable years with respect to any qualifying advanced energy project shall not exceed the amount designated by the Secretary as eligible for the credit under this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48C(b)(3)Limitation\u2014The amount which is treated as the qualified investment\n                     for all taxable years with respect to any qualifying advanced energy\n                     project shall not exceed the amount designated by the Secretary as\n                     eligible for the credit under this section.",
+    "definitions": null
+  },
+  {
+    "section": "48C",
+    "subsection": "(c)(1)(A)",
+    "source_subsections": [
+      "(c)(1)(A)",
+      "(c)(1)(A)(i)",
+      "(c)(1)(A)(i)(I)",
+      "(c)(1)(A)(i)(II)",
+      "(c)(1)(A)(i)(III)",
+      "(c)(1)(A)(i)(IV)",
+      "(c)(1)(A)(i)(IX)",
+      "(c)(1)(A)(i)(V)",
+      "(c)(1)(A)(i)(V)(aa)",
+      "(c)(1)(A)(i)(V)(bb)",
+      "(c)(1)(A)(i)(VI)",
+      "(c)(1)(A)(i)(VII)",
+      "(c)(1)(A)(i)(VII)(aa)",
+      "(c)(1)(A)(i)(VII)(bb)",
+      "(c)(1)(A)(i)(VIII)",
+      "(c)(1)(A)(ii)",
+      "(c)(1)(A)(ii)(I)",
+      "(c)(1)(A)(ii)(II)",
+      "(c)(1)(A)(ii)(III)",
+      "(c)(1)(A)(ii)(IV)",
+      "(c)(1)(A)(iii)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cqualifying advanced energy project\u201d means a project, any portion of the qualified investment of which is certified by the Secretary under subsection (e) as eligible for a credit under this section\u2014\u2014which re-equips, expands, or establishes an industrial or manufacturing facility for the production or recycling of\u2014\u2014property designed to be used to produce energy from the sun, water, wind, geothermal deposits (within the meaning of section613(e)(2)), or other renewable resources,\u2014fuel cells, microturbines, or energy storage systems and components,\u2014electric grid modernization equipment or components,\u2014property designed to capture, remove, use, or sequester carbon oxide emissions,\u2014equipment designed to refine, electrolyze, or blend any fuel, chemical, or product which is\u2014\u2014renewable, or\u2014low-carbon and low-emission,\u2014property designed to produce energy conservation technologies (including residential, commercial, and industrial applications),\u2014light-, medium-, or heavy-duty electric or fuel cell vehicles, as well as\u2014\u2014technologies, components, or materials for such vehicles, and\u2014associated charging or refueling infrastructure,\u2014hybrid vehicles with a gross vehicle weight rating of not less than 14,000 pounds, as well as technologies, components, or materials for such vehicles, or\u2014other advanced energy property designed to reduce greenhouse gas emissions as may be determined by the Secretary,\u2014which re-equips an industrial or manufacturing facility with equipment designed to reduce greenhouse gas emissions by at least 20 percent through the installation of\u2014\u2014low- or zero-carbon process heat systems,\u2014carbon capture, transport, utilization and storage systems,\u2014energy efficiency and reduction in waste from industrial processes, or\u2014any other industrial technology designed to reduce greenhouse gas emissions, as determined by the Secretary, or\u2014which re-equips, expands, or establishes an industrial facility for the processing, refining, or recycling of critical materials (as defined in section 7002(a) of the Energy Act of 2020 (30 U.S.C. 1606(a)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.2,
+        "text": "20 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualifying advanced energy project\u201d means a project, any portion of the qualified investment of which is certified by the Secretary under subsection (e) as eligible for a credit under this section\u2014\u2014which re-equips, expands, or establishes an industrial or manufacturing facility for the production or recycling of\u2014\u2014property designed to be used to produce energy from the sun, water, wind, geothermal deposits (within the meaning of section613(e)(2)), or other renewable resources,\u2014fuel cells, microturbines, or energy storage systems and components,\u2014electric grid modernization equipment or components,\u2014property designed to capture, remove, use, or sequester carbon oxide emissions,\u2014equipment designed to refine, electrolyze, or blend any fuel, chemical, or product which is\u2014\u2014renewable, or\u2014low-carbon and low-emission,\u2014property designed to produce energy conservation technologies (including residential, commercial, and industrial applications),\u2014light-, medium-, or heavy-duty electric or fuel cell vehicles, as well as\u2014\u2014technologies, components, or materials for such vehicles, and\u2014associated charging or refueling infrastructure,\u2014hybrid vehicles with a gross vehicle weight rating of not less than 14,000 pounds, as well as technologies, components, or materials for such vehicles, or\u2014other advanced energy property designed to reduce greenhouse gas emissions as may be determined by the Secretary,\u2014which re-equips an industrial or manufacturing facility with equipment designed to reduce greenhouse gas emissions by at least 20 percent through the installation of\u2014\u2014low- or zero-carbon process heat systems,\u2014carbon capture, transport, utilization and storage systems,\u2014energy efficiency and reduction in waste from industrial processes, or\u2014any other industrial technology designed to reduce greenhouse gas emissions, as determined by the Secretary, or\u2014which re-equips, expands, or establishes an industrial facility for the processing, refining, or recycling of critical materials (as defined in section 7002(a) of the Energy Act of 2020 (30 U.S.C. 1606(a))."
+    },
+    "cross_references": [
+      {
+        "section": "613(e)(2)",
+        "reason": "posits (within the meaning of..."
+      },
+      {
+        "section": "7002(a)",
+        "reason": "ical materials (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48C(c)(1)(A)In General\u2014The term \u201cqualifying advanced energy project\u201d\n                        means a project, any portion of the qualified investment of which\n                        is certified by the Secretary under subsection (e) as eligible for\n                        a credit under this section\u2014I.R.C. \u00a7 48C(c)(1)(A)(i)\u2014which re-equips, expands, or establishes\n                           an industrial or manufacturing facility for the production or recycling\n                           of\u2014I.R.C. \u00a7 48C(c)(1)(A)(i)(I)\u2014property designed to be used to produce\n                              energy from the sun, water, wind, geothermal deposits (within the\n                              meaning of section613(e)(2)),\n                              or other renewable resources,I.R.C. \u00a7 48C(c)(1)(A)(i)(II)\u2014fuel cells, microturbines, or energy\n                              storage systems and components,I.R.C. \u00a7 48C(c)(1)(A)(i)(III)\u2014electric grid modernization equipment\n                              or components,I.R.C. \u00a7 48C(c)(1)(A)(i)(IV)\u2014property designed to capture, remove,\n                              use, or sequester carbon oxide emissions,I.R.C. \u00a7 48C(c)(1)(A)(i)(V)\u2014equipment designed to refine, electrolyze,\n                              or blend any fuel, chemical, or product which is\u2014I.R.C. \u00a7 48C(c)(1)(A)(i)(V)(aa)\u2014renewable, orI.R.C. \u00a7 48C(c)(1)(A)(i)(V)(bb)\u2014low-carbon and low-emission,I.R.C. \u00a7 48C(c)(1)(A)(i)(VI)\u2014property designed to produce energy\n                              conservation technologies (including residential, commercial, and\n                              industrial applications),I.R.C. \u00a7 48C(c)(1)(A)(i)(VII)\u2014light-, medium-, or heavy-duty electric\n                              or fuel cell vehicles, as well as\u2014I.R.C. \u00a7 48C(c)(1)(A)(i)(VII)(aa)\u2014technologies, components, or materials\n                                 for such vehicles, andI.R.C. \u00a7 48C(c)(1)(A)(i)(VII)(bb)\u2014associated charging or refueling infrastructure,I.R.C. \u00a7 48C(c)(1)(A)(i)(VIII)\u2014hybrid vehicles with a gross vehicle\n                              weight rating of not less than 14,000 pounds, as well as technologies,\n                              components, or materials for such vehicles, orI.R.C. \u00a7 48C(c)(1)(A)(i)(IX)\u2014other advanced energy property designed\n                              to reduce greenhouse gas emissions as may be determined by the Secretary,I.R.C. \u00a7 48C(c)(1)(A)(ii)\u2014which re-equips an industrial or manufacturing\n                           facility with equipment designed to reduce greenhouse gas emissions\n                           by at least 20 percent through the installation of\u2014I.R.C. \u00a7 48C(c)(1)(A)(ii)(I)\u2014low- or zero-carbon process heat systems,I.R.C. \u00a7 48C(c)(1)(A)(ii)(II)\u2014carbon capture, transport, utilization\n                              and storage systems,I.R.C. \u00a7 48C(c)(1)(A)(ii)(III)\u2014energy efficiency and reduction in\n                              waste from industrial processes, orI.R.C. \u00a7 48C(c)(1)(A)(ii)(IV)\u2014any other industrial technology designed\n                              to reduce greenhouse gas emissions, as determined by the Secretary,\n                              orI.R.C. \u00a7 48C(c)(1)(A)(iii)\u2014which re-equips, expands, or establishes\n                           an industrial facility for the processing, refining, or recycling\n                           of critical materials (as defined in section 7002(a) of the Energy\n                           Act of 2020 (30 U.S.C. 1606(a)).",
+    "definitions": {
+      "term": "qualifying advanced energy project",
+      "requirements": [
+        "a project, any portion of the qualified investment of which is certified by the Secretary under subsection (e) as eligible for a credit under this section\u2014\u2014which re-equips, expands, or establishes an industrial or manufacturing facility for the production or recycling of\u2014\u2014property designed to be used to produce energy from the sun, water, wind, geothermal deposits (within the meaning of section613(e)(2)), or other renewable resources,\u2014fuel cells, microturbines, or energy storage systems and components,\u2014electric grid modernization equipment or components,\u2014property designed to capture, remove, use, or sequester carbon oxide emissions,\u2014equipment designed to refine, electrolyze, or blend any fuel, chemical, or product which is\u2014\u2014renewable, or\u2014low-carbon and low-emission,\u2014property designed to produce energy conservation technologies (including residential, commercial, and industrial applications),\u2014light-, medium-, or heavy-duty electric or fuel cell vehicles, as well as\u2014\u2014technologies, components, or materials for such vehicles, and\u2014associated charging or refueling infrastructure,\u2014hybrid vehicles with a gross vehicle weight rating of not less than 14,000 pounds, as well as technologies, components, or materials for such vehicles, or\u2014other advanced energy property designed to reduce greenhouse gas emissions as may be determined by the Secretary,\u2014which re-equips an industrial or manufacturing facility with equipment designed to reduce greenhouse gas emissions by at least 20 percent through the installation of\u2014\u2014low- or zero-carbon process heat systems,\u2014carbon capture, transport, utilization and storage systems,\u2014energy efficiency and reduction in waste from industrial processes, or\u2014any other industrial technology designed to reduce greenhouse gas emissions, as determined by the Secretary, or\u2014which re-equips, expands, or establishes an industrial facility for the processing, refining, or recycling of critical materials (as defined in section 7002(a) of the Energy Act of 2020 (30 U.S.C. 1606(a))."
+      ]
+    }
+  },
+  {
+    "section": "48C",
+    "subsection": "(c)(1)(B)",
+    "source_subsections": [
+      "(c)(1)(B)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "Such term shall not include any portion of a project for the production of any property which is used in the refining or blending of any transportation fuel (other than renewable fuels).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Such term shall not include any portion of a project for the production of any property which is used in the refining or blending of any transportation fuel (other than renewable fuels)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48C(c)(1)(B)Exception\u2014Such term shall not include any portion of a project\n                        for the production of any property which is used in the refining or\n                        blending of any transportation fuel (other than renewable fuels).",
+    "definitions": null
+  },
+  {
+    "section": "48C",
+    "subsection": "(c)(2)",
+    "source_subsections": [
+      "(c)(2)",
+      "(c)(2)(A)",
+      "(c)(2)(A)(i)",
+      "(c)(2)(A)(ii)",
+      "(c)(2)(A)(iii)",
+      "(c)(2)(B)",
+      "(c)(2)(B)(i)",
+      "(c)(2)(B)(ii)",
+      "(c)(2)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "Property",
+    "text": "The term \u201celigible property\u201d means any property\u2014\u2014which is necessary for\u2014\u2014the production or recycling of property described in clause (i) of paragraph (1)(A),\u2014re-equipping an industrial or manufacturing facility described in clause (ii) of such paragraph, or\u2014re-equipping, expanding, or establishing an industrial facility described in clause (iii) of such paragraph,\u2014which is\u2014\u2014tangible personal property, or\u2014other tangible property (not including a building or its structural components), but only if such property is used as an integral part of the qualified investment credit facility, and\u2014with respect to which depreciation (or amortization in lieu of depreciation) is allowable.",
+    "conditions": [
+      "such property is used as an integral part of the qualified investment credit facility, and\u2014with respect to which depreciation (or amortization in lieu of depreciation) is allowable."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such property is used as an integral part of the qualified investment credit facility, and\u2014with respect to which depreciation (or amortization in lieu of depreciation) is allowable."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201celigible property\u201d means any property\u2014\u2014which is necessary for\u2014\u2014the production or recycling of property described in clause (i) of paragraph (1)(A),\u2014re-equipping an industrial or manufacturing facility described in clause (ii) of such paragraph, or\u2014re-equipping, expanding, or establishing an industrial facility described in clause (iii) of such paragraph,\u2014which is\u2014\u2014tangible personal property, or\u2014other tangible property (not including a building or its structural components), but only"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48C(c)(2)Eligible Property\u2014The term \u201celigible property\u201d means any property\u2014I.R.C. \u00a7 48C(c)(2)(A)\u2014which is necessary for\u2014I.R.C. \u00a7 48C(c)(2)(A)(i)\u2014the production or recycling of property\n                           described in clause (i) of paragraph (1)(A),I.R.C. \u00a7 48C(c)(2)(A)(ii)\u2014re-equipping an industrial or manufacturing\n                           facility described in clause (ii) of such paragraph, orI.R.C. \u00a7 48C(c)(2)(A)(iii)\u2014re-equipping, expanding, or establishing\n                           an industrial facility described in clause (iii) of such paragraph,I.R.C. \u00a7 48C(c)(2)(B)\u2014which is\u2014I.R.C. \u00a7 48C(c)(2)(B)(i)\u2014tangible personal property, orI.R.C. \u00a7 48C(c)(2)(B)(ii)\u2014other tangible property (not including\n                           a building or its structural components), but only if such property\n                           is used as an integral part of the qualified investment credit facility,\n                           andI.R.C. \u00a7 48C(c)(2)(C)\u2014with respect to which depreciation (or\n                        amortization in lieu of depreciation) is allowable.",
+    "definitions": {
+      "term": "eligible property",
+      "requirements": [
+        "any property\u2014\u2014which is necessary for\u2014\u2014the production or recycling of property described in clause (i) of paragraph (1)(A),\u2014re-equipping an industrial or manufacturing facility described in clause (ii) of such paragraph, or\u2014re-equipping, expanding, or establishing an industrial facility described in clause (iii) of such paragraph,\u2014which is\u2014\u2014tangible personal property, or\u2014other tangible property (not including a building or its structural components), but only if such property is used as an integral part of the qualified investment credit facility, and\u2014with respect to which depreciation (or amortization in lieu of depreciation) is allowable."
+      ]
+    }
+  },
+  {
+    "section": "48C",
+    "subsection": "(d)(1)(A)",
+    "source_subsections": [
+      "(d)(1)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Not later than 180 days after the date of enactment of this section, the Secretary, in consultation with the Secretary of Energy, shall establish a qualifying advanced energy project program to consider and award certifications for qualified investments eligible for credits under this section to qualifying advanced energy project sponsors.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Not later than 180 days after the date of enactment of this section, the Secretary, in consultation with the Secretary of Energy, shall establish a qualifying advanced energy project program to consider and award certifications for qualified investments eligible for credits under this section to qualifying advanced energy project sponsors."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48C(d)(1)(A)In General\u2014Not later than 180 days after the date of enactment of\n                        this section, the Secretary, in consultation with the Secretary of\n                        Energy, shall establish a qualifying advanced energy project program\n                        to consider and award certifications for qualified investments eligible\n                        for credits under this section to qualifying advanced energy project\n                        sponsors.",
+    "definitions": null
+  },
+  {
+    "section": "48C",
+    "subsection": "(d)(1)(B)",
+    "source_subsections": [
+      "(d)(1)(B)"
+    ],
+    "rule_type": "limitation",
+    "title": null,
+    "text": "The total amount of credits that may be allocated under the program shall not exceed $2,300,000,000.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 2300000000,
+        "text": "$2,300,000,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The total amount of credits that may be allocated under the program shall not exceed $2,300,000,000."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48C(d)(1)(B)Limitation\u2014The total amount of credits that may be allocated under\n                        the program shall not exceed $2,300,000,000.",
+    "definitions": null
+  },
+  {
+    "section": "48C",
+    "subsection": "(d)(2)(A)",
+    "source_subsections": [
+      "(d)(2)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "Period",
+    "text": "Each applicant for certification under this paragraph shall submit an application containing such information as the Secretary may require during the 2-year period beginning on the date the Secretary establishes the program under paragraph(1).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Each applicant for certification under this paragraph shall submit an application containing such information as the Secretary may require during the 2-year period beginning on the date the Secretary establishes the program under paragraph(1)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48C(d)(2)(A)Application Period\u2014Each applicant for certification under this paragraph\n                        shall submit an application containing such information as the Secretary\n                        may require during the 2-year period beginning on the date the Secretary\n                        establishes the program under paragraph(1).",
+    "definitions": null
+  },
+  {
+    "section": "48C",
+    "subsection": "(d)(2)(B)",
+    "source_subsections": [
+      "(d)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "To Meet Criteria For Certification",
+    "text": "Each applicant for certification shall have 1 year from the date of acceptance by the Secretary of the application during which to provide to the Secretary evidence that the requirements of the certification have been met.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Each applicant for certification shall have 1 year from the date of acceptance by the Secretary of the application during which to provide to the Secretary evidence that the requirements of the certification have been met."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48C(d)(2)(B)Time To Meet Criteria For Certification\u2014Each applicant for certification shall have 1 year from\n                        the date of acceptance by the Secretary of the application during\n                        which to provide to the Secretary evidence that the requirements of\n                        the certification have been met.",
+    "definitions": null
+  },
+  {
+    "section": "48C",
+    "subsection": "(d)(2)(C)",
+    "source_subsections": [
+      "(d)(2)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Issuance",
+    "text": "An applicant which receives a certification shall have 3 years from the date of issuance of the certification in order to place the project in service and if such project is not placed in service by that time period, then the certification shall no longer be valid.",
+    "conditions": [
+      "such project is not placed in service by that time period, then the certification shall no longer be valid."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such project is not placed in service by that time period, then the certification shall no longer be valid."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "An applicant which receives a certification shall have 3 years from the date of issuance of the certification in order to place the project in service and"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48C(d)(2)(C)Period Of Issuance\u2014An applicant which receives a certification shall have\n                        3 years from the date of issuance of the certification in order to\n                        place the project in service and if such project is not placed in\n                        service by that time period, then the certification shall no longer\n                        be valid.",
+    "definitions": null
+  },
+  {
+    "section": "48C",
+    "subsection": "(d)(3)",
+    "source_subsections": [
+      "(d)(3)",
+      "(d)(3)(A)",
+      "(d)(3)(B)",
+      "(d)(3)(B)(i)",
+      "(d)(3)(B)(ii)",
+      "(d)(3)(B)(iii)",
+      "(d)(3)(B)(iv)",
+      "(d)(3)(B)(v)"
+    ],
+    "rule_type": "condition",
+    "title": "Criteria",
+    "text": "In determining which qualifying advanced energy projects to certify under this section, the Secretary\u2014\u2014shall take into consideration only those projects where there is a reasonable expectation of commercial viability, and\u2014shall take into consideration which projects\u2014\u2014will provide the greatest domestic job creation (both direct and indirect) during the credit period,\u2014will provide the greatest net impact in avoiding or reducing air pollutants or anthropogenic emissions of greenhouse gases,\u2014have the greatest potential for technological innovation and commercial deployment,\u2014have the lowest levelized cost of generated or stored energy, or of measured reduction in energy consumption or greenhouse gas emission (based on costs of the full supply chain), and\u2014have the shortest project time from certification to completion.",
+    "conditions": [
+      "there is a reasonable expectation of commercial viability, and\u2014shall take into consideration which projects\u2014\u2014will provide the greatest domestic job creation (both direct and indirect) during the credit period,\u2014will provide the greatest net impact in avoiding or reducing air pollutants or anthropogenic emissions of greenhouse gases,\u2014have the greatest potential for technological innovation and commercial deployment,\u2014have the lowest levelized cost of generated or stored energy, or of measured reduction in energy consumption or greenhouse gas emission (based on costs of the full supply chain), and\u2014have the shortest project time from certification to completion."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "there is a reasonable expectation of commercial viability, and\u2014shall take into consideration which projects\u2014\u2014will provide the greatest domestic job creation (both direct and indirect) during the credit period,\u2014will provide the greatest net impact in avoiding or reducing air pollutants or anthropogenic emissions of greenhouse gases,\u2014have the greatest potential for technological innovation and commercial deployment,\u2014have the lowest levelized cost of generated or stored energy, or of measured reduction in energy consumption or greenhouse gas emission (based on costs of the full supply chain), and\u2014have the shortest project time from certification to completion."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In determining which qualifying advanced energy projects to certify under this section, the Secretary\u2014\u2014shall take into consideration only those projects"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48C(d)(3)Selection Criteria\u2014In determining which qualifying advanced energy projects\n                     to certify under this section, the Secretary\u2014I.R.C. \u00a7 48C(d)(3)(A)\u2014shall take into consideration only those\n                        projects where there is a reasonable expectation of commercial viability,\n                        andI.R.C. \u00a7 48C(d)(3)(B)\u2014shall take into consideration which projects\u2014I.R.C. \u00a7 48C(d)(3)(B)(i)\u2014will provide the greatest domestic job\n                           creation (both direct and indirect) during the credit period,I.R.C. \u00a7 48C(d)(3)(B)(ii)\u2014will provide the greatest net impact\n                           in avoiding or reducing air pollutants or anthropogenic emissions\n                           of greenhouse gases,I.R.C. \u00a7 48C(d)(3)(B)(iii)\u2014have the greatest potential for technological\n                           innovation and commercial deployment,I.R.C. \u00a7 48C(d)(3)(B)(iv)\u2014have the lowest levelized cost of generated\n                           or stored energy, or of measured reduction in energy consumption or\n                           greenhouse gas emission (based on costs of the full supply chain),\n                           andI.R.C. \u00a7 48C(d)(3)(B)(v)\u2014have the shortest project time from certification\n                           to completion.",
+    "definitions": null
+  },
+  {
+    "section": "48C",
+    "subsection": "(d)(4)(A)",
+    "source_subsections": [
+      "(d)(4)(A)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Not later than 4 years after the date of enactment of this section, the Secretary shall review the credits allocated under this section as of such date.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Not later than 4 years after the date of enactment of this section, the Secretary shall review the credits allocated under this section as of such date."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48C(d)(4)(A)Review\u2014Not later than 4 years after the date of enactment of\n                        this section, the Secretary shall review the credits allocated under\n                        this section as of such date.",
+    "definitions": null
+  },
+  {
+    "section": "48C",
+    "subsection": "(d)(4)(B)",
+    "source_subsections": [
+      "(d)(4)(B)",
+      "(d)(4)(B)(i)",
+      "(d)(4)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The Secretary may reallocate credits awarded under this section if the Secretary determines that\u2014\u2014there is an insufficient quantity of qualifying applications for certification pending at the time of the review, or\u2014any certification made pursuant to paragraph(2)has been revoked pursuant to paragraph(2)(B)because the project subject to the certification has been delayed as a result of third party opposition or litigation to the proposed project.",
+    "conditions": [
+      "the Secretary determines that\u2014\u2014there is an insufficient quantity of qualifying applications for certification pending at the time of the review, or\u2014any certification made pursuant to paragraph(2)has been revoked pursuant to paragraph(2)(B)because the project subject to the certification has been delayed as a result of third party opposition or litigation to the proposed project."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the Secretary determines that\u2014\u2014there is an insufficient quantity of qualifying applications for certification pending at the time of the review, or\u2014any certification made pursuant to paragraph(2)has been revoked pursuant to paragraph(2)(B)because the project subject to the certification has been delayed as a result of third party opposition or litigation to the proposed project."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary may reallocate credits awarded under this section"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48C(d)(4)(B)Redistribution\u2014The Secretary may reallocate credits awarded under this\n                        section if the Secretary determines that\u2014I.R.C. \u00a7 48C(d)(4)(B)(i)\u2014there is an insufficient quantity of\n                           qualifying applications for certification pending at the time of the\n                           review, orI.R.C. \u00a7 48C(d)(4)(B)(ii)\u2014any certification made pursuant to paragraph(2)has been revoked pursuant\n                           to paragraph(2)(B)because\n                           the project subject to the certification has been delayed as a result\n                           of third party opposition or litigation to the proposed project.",
+    "definitions": null
+  },
+  {
+    "section": "48C",
+    "subsection": "(d)(4)(C)",
+    "source_subsections": [
+      "(d)(4)(C)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "If the Secretary determines that credits under this section are available for reallocation pursuant to the requirements set forth in paragraph(2), the Secretary is authorized to conduct an additional program for applications for certification.",
+    "conditions": [
+      "the Secretary determines that credits under this section are available for reallocation pursuant to the requirements set forth in paragraph(2), the Secretary is authorized to conduct an additional program for applications for certification."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the Secretary determines that credits under this section are available for reallocation pursuant to the requirements set forth in paragraph(2), the Secretary is authorized to conduct an additional program for applications for certification."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48C(d)(4)(C)Reallocation\u2014If the Secretary determines that credits under this section\n                        are available for reallocation pursuant to the requirements set forth\n                        in paragraph(2),\n                        the Secretary is authorized to conduct an additional program for applications\n                        for certification.",
+    "definitions": null
+  },
+  {
+    "section": "48C",
+    "subsection": "(d)(5)",
+    "source_subsections": [
+      "(d)(5)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Allocations",
+    "text": "The Secretary shall, upon making a certification under this subsection, publicly disclose the identity of the applicant and the amount of the credit with respect to such applicant.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall, upon making a certification under this subsection, publicly disclose the identity of the applicant and the amount of the credit with respect to such applicant."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48C(d)(5)Disclosure Of Allocations\u2014The Secretary shall, upon making a certification under\n                     this subsection, publicly disclose the identity of the applicant and\n                     the amount of the credit with respect to such applicant.",
+    "definitions": null
+  },
+  {
+    "section": "48C",
+    "subsection": "(e)(1)",
+    "source_subsections": [
+      "(e)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Not later than 180 days after the date of enactment of this subsection, the Secretary shall establish a program to consider and award certifications for qualified investments eligible for credits under this section to qualifying advanced energy project sponsors.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Not later than 180 days after the date of enactment of this subsection, the Secretary shall establish a program to consider and award certifications for qualified investments eligible for credits under this section to qualifying advanced energy project sponsors."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48C(e)(1)In General\u2014Not later than 180 days after the date of enactment of\n                     this subsection, the Secretary shall establish a program to consider\n                     and award certifications for qualified investments eligible for credits\n                     under this section to qualifying advanced energy project sponsors.",
+    "definitions": null
+  },
+  {
+    "section": "48C",
+    "subsection": "(e)(2)",
+    "source_subsections": [
+      "(e)(2)",
+      "(e)(2)(A)",
+      "(e)(2)(B)"
+    ],
+    "rule_type": "limitation",
+    "title": null,
+    "text": "The total amount of credits which may be allocated under the program established under paragraph (1) shall not exceed $10,000,000,000, of which not greater than $6,000,000,000 may be allocated to qualified investments which are not located within a census tract which\u2014\u2014is described in clause (iii) of section45(b)(11)(B), and\u2014prior to the date of enactment of this subsection, had no project which received a certification and allocation of credits under subsection (d).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 10000000000,
+        "text": "$10,000,000,000,"
+      },
+      {
+        "label": "amount",
+        "value": 6000000000,
+        "text": "$6,000,000,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The total amount of credits which may be allocated under the program established under paragraph (1) shall not exceed $10,000,000,000, of which not greater than $6,000,000,000 may be allocated to qualified investments which are not located within a census tract which\u2014\u2014is described in clause (iii) of section45(b)(11)(B), and\u2014prior to the date of enactment of this subsection, had no project which received a certification and allocation of credits under subsection (d)."
+    },
+    "cross_references": [
+      {
+        "section": "45(b)(11)(B)",
+        "reason": "described in clause (iii) of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48C(e)(2)Limitation\u2014The total amount of credits which may be allocated under\n                     the program established under paragraph (1) shall not exceed $10,000,000,000,\n                     of which not greater than $6,000,000,000 may be allocated to qualified\n                     investments which are not located within a census tract which\u2014I.R.C. \u00a7 48C(e)(2)(A)\u2014is described in clause (iii) of section45(b)(11)(B), andI.R.C. \u00a7 48C(e)(2)(B)\u2014prior to the date of enactment of this\n                        subsection, had no project which received a certification and allocation\n                        of credits under subsection (d).",
+    "definitions": null
+  },
+  {
+    "section": "48C",
+    "subsection": "(e)(3)(A)",
+    "source_subsections": [
+      "(e)(3)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "Requirement",
+    "text": "Each applicant for certification under this subsection shall submit an application at such time and containing such information as the Secretary may require.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Each applicant for certification under this subsection shall submit an application at such time and containing such information as the Secretary may require."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48C(e)(3)(A)Application Requirement\u2014Each applicant for certification under this subsection\n                        shall submit an application at such time and containing such information\n                        as the Secretary may require.",
+    "definitions": null
+  },
+  {
+    "section": "48C",
+    "subsection": "(e)(3)(B)",
+    "source_subsections": [
+      "(e)(3)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "to Meet Criteria for Certification",
+    "text": "Each applicant for certification shall have 2 years from the date of acceptance by the Secretary of the application during which to provide to the Secretary evidence that the requirements of the certification have been met.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Each applicant for certification shall have 2 years from the date of acceptance by the Secretary of the application during which to provide to the Secretary evidence that the requirements of the certification have been met."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48C(e)(3)(B)Time to Meet Criteria for Certification\u2014Each applicant for certification shall have 2 years from\n                        the date of acceptance by the Secretary of the application during\n                        which to provide to the Secretary evidence that the requirements of\n                        the certification have been met.",
+    "definitions": null
+  },
+  {
+    "section": "48C",
+    "subsection": "(e)(3)(C)",
+    "source_subsections": [
+      "(e)(3)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "of Issuance",
+    "text": "An applicant which receives a certification shall have 2 years from the date of issuance of the certification in order to place the project in service and to notify the Secretary that such project has been so placed in service, and if such project is not placed in service by that time period, then the certification shall no longer be valid. If any certification is revoked under this subparagraph, the amount of the limitation under paragraph (2) shall not be increased by the amount of the credit with respect to such revoked certification.",
+    "conditions": [
+      "such project is not placed in service by that time period, then the certification shall no longer be valid.",
+      "any certification is revoked under this subparagraph, the amount of the limitation under paragraph (2) shall not be increased by the amount of the credit with respect to such revoked certification."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such project is not placed in service by that time period, then the certification shall no longer be valid.",
+        "any certification is revoked under this subparagraph, the amount of the limitation under paragraph (2) shall not be increased by the amount of the credit with respect to such revoked certification."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "An applicant which receives a certification shall have 2 years from the date of issuance of the certification in order to place the project in service and to notify the Secretary that such project has been so placed in service, and"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48C(e)(3)(C)Period of Issuance\u2014An applicant which receives a certification shall have 2 years from the date of issuance\n                        of the certification in order to place the project in service and to notify the Secretary\n                        that such project has been so placed in service, and if such project is not placed\n                        in service by that time period, then the certification shall no longer be valid. If\n                        any certification is revoked under this subparagraph, the amount of the limitation\n                        under paragraph (2) shall not be increased by the amount of the credit with respect\n                        to such revoked certification.",
+    "definitions": null
+  },
+  {
+    "section": "48C",
+    "subsection": "(e)(3)(D)",
+    "source_subsections": [
+      "(e)(3)(D)"
+    ],
+    "rule_type": "condition",
+    "title": "of Project",
+    "text": "In the case of an applicant which receives a certification, if the Secretary determines that the project has been placed in service at a location which is materially different than the location specified in the application for such project, the certification shall no longer be valid.",
+    "conditions": [
+      "the Secretary determines that the project has been placed in service at a location which is materially different than the location specified in the application for such project, the certification shall no longer be valid."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the Secretary determines that the project has been placed in service at a location which is materially different than the location specified in the application for such project, the certification shall no longer be valid."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of an applicant which receives a certification,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48C(e)(3)(D)Location of Project\u2014In the case of an applicant which receives a certification,\n                        if the Secretary determines that the project has been placed in service\n                        at a location which is materially different than the location specified\n                        in the application for such project, the certification shall no longer\n                        be valid.",
+    "definitions": null
+  },
+  {
+    "section": "48C",
+    "subsection": "(e)(4)(A)",
+    "source_subsections": [
+      "(e)(4)(A)"
+    ],
+    "rule_type": "computation",
+    "title": "Rate",
+    "text": "For purposes of allocations under this subsection, the amount of the credit determined under subsection (a) shall be determined by substituting \u201c6 percent\u201d for \u201c30 percent\u201d.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.06,
+        "text": "6 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.3,
+        "text": "30 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of allocations under this subsection, the amount of the credit determined under subsection (a) shall be determined by substituting \u201c6 percent\u201d for \u201c30 percent\u201d."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48C(e)(4)(A)Base Rate\u2014For purposes of allocations under this subsection, the\n                        amount of the credit determined under subsection (a) shall be determined\n                        by substituting \u201c6 percent\u201d for \u201c30 percent\u201d.",
+    "definitions": null
+  },
+  {
+    "section": "48C",
+    "subsection": "(e)(4)(B)",
+    "source_subsections": [
+      "(e)(4)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Rate",
+    "text": "In the case of any project which satisfies the requirements of paragraphs (5)(A) and (6), subparagraph (A) shall not apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any project which satisfies the requirements of paragraphs (5)(A) and (6), subparagraph (A) shall not apply."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48C(e)(4)(B)Alternate Rate\u2014In the case of any project which satisfies the requirements\n                        of paragraphs (5)(A) and (6), subparagraph (A) shall not apply.",
+    "definitions": null
+  },
+  {
+    "section": "48C",
+    "subsection": "(e)(5)(A)",
+    "source_subsections": [
+      "(e)(5)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The requirements described in this subparagraph with respect to a project are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in the re-equipping, expansion, or establishment of a manufacturing facility shall be paid wages at rates not less than the prevailing rates for construction, alteration, or repair of a similar character in the locality in which such project is located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The requirements described in this subparagraph with respect to a project are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in the re-equipping, expansion, or establishment of a manufacturing facility shall be paid wages at rates not less than the prevailing rates for construction, alteration, or repair of a similar character in the locality in which such project is located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48C(e)(5)(A)In General\u2014The requirements described in this subparagraph with\n                        respect to a project are that the taxpayer shall ensure that any laborers\n                        and mechanics employed by the taxpayer or any contractor or subcontractor\n                        in the re-equipping, expansion, or establishment of a manufacturing\n                        facility shall be paid wages at rates not less than the prevailing\n                        rates for construction, alteration, or repair of a similar character\n                        in the locality in which such project is located as most recently\n                        determined by the Secretary of Labor, in accordance with subchapter\n                        IV of chapter 31 of title 40, United States Code.",
+    "definitions": null
+  },
+  {
+    "section": "48C",
+    "subsection": "(e)(5)(B)",
+    "source_subsections": [
+      "(e)(5)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "And Penalty Related To Failure To Satisfy Wage Requirements",
+    "text": "Rules similar to the rules of section45(b)(7)(B)shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules of section45(b)(7)(B)shall apply."
+    },
+    "cross_references": [
+      {
+        "section": "45(b)(7)(B)",
+        "reason": "Rules similar to the rules of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48C(e)(5)(B)Correction And Penalty Related To Failure To Satisfy Wage Requirements\u2014Rules similar to the rules of section45(b)(7)(B)shall apply.",
+    "definitions": null
+  },
+  {
+    "section": "48C",
+    "subsection": "(e)(6)",
+    "source_subsections": [
+      "(e)(6)"
+    ],
+    "rule_type": "condition",
+    "title": "Requirements",
+    "text": "Rules similar to the rules of section45(b)(8)shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules of section45(b)(8)shall apply."
+    },
+    "cross_references": [
+      {
+        "section": "45(b)(8)",
+        "reason": "Rules similar to the rules of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48C(e)(6)Apprenticeship Requirements\u2014Rules similar to the rules of section45(b)(8)shall apply.",
+    "definitions": null
+  },
+  {
+    "section": "48C",
+    "subsection": "(e)(7)",
+    "source_subsections": [
+      "(e)(7)"
+    ],
+    "rule_type": "condition",
+    "title": "of Allocations",
+    "text": "The Secretary shall, upon making a certification under this subsection, publicly disclose the identity of the applicant and the amount of the credit with respect to such applicant.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall, upon making a certification under this subsection, publicly disclose the identity of the applicant and the amount of the credit with respect to such applicant."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48C(e)(7)Disclosure of Allocations\u2014The Secretary shall, upon making a certification under\n                     this subsection, publicly disclose the identity of the applicant and\n                     the amount of the credit with respect to such applicant.",
+    "definitions": null
+  },
+  {
+    "section": "48C",
+    "subsection": "(f)",
+    "source_subsections": [
+      "(f)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Double Benefit",
+    "text": "A credit shall not be allowed under this section for any qualified investment for which a credit is allowed under section48,48A,48B,48E,45Q, or45V.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "A credit shall not be allowed under this section for any qualified investment for which a credit is allowed under section48,48A,48B,48E,45Q, or45V."
+    },
+    "cross_references": [
+      {
+        "section": "48",
+        "reason": "ich a credit is allowed under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48C(f)Denial Of Double Benefit\u2014A credit shall not be allowed under this section for\n                  any qualified investment for which a credit is allowed under section48,48A,48B,48E,45Q, or45V.",
+    "definitions": null
+  }
+]

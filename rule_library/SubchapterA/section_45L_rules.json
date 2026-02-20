@@ -1,0 +1,661 @@
+[
+  {
+    "section": "45L",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)",
+      "(a)(1)(A)",
+      "(a)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "For purposes of section38, in the case of an eligible contractor, the new energy efficient home credit for the taxable year is the applicable amount for each qualified new energy efficient home which is\u2014\u2014constructed by the eligible contractor, and\u2014acquired by a person from such eligible contractor for use as a residence during the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of section38, in the case of an eligible contractor, the new energy efficient home credit for the taxable year is the applicable amount for each qualified new energy efficient home which is\u2014\u2014constructed by the eligible contractor, and\u2014acquired by a person from such eligible contractor for use as a residence during the taxable year."
+    },
+    "cross_references": [
+      {
+        "section": "38",
+        "reason": "For purposes of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45L(a)(1)In General\u2014For purposes of section38, in the case of an eligible contractor, the new energy efficient home credit for\n                     the taxable year is the applicable amount for each qualified new energy efficient\n                     home which is\u2014I.R.C. \u00a7 45L(a)(1)(A)\u2014constructed by the eligible contractor, andI.R.C. \u00a7 45L(a)(1)(B)\u2014acquired by a person from such eligible contractor for use as a residence during the\n                        taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "45L",
+    "subsection": "(a)(2)",
+    "source_subsections": [
+      "(a)(2)",
+      "(a)(2)(A)",
+      "(a)(2)(A)(i)",
+      "(a)(2)(A)(ii)",
+      "(a)(2)(B)",
+      "(a)(2)(B)(i)",
+      "(a)(2)(B)(ii)"
+    ],
+    "rule_type": "computation",
+    "title": "Amount",
+    "text": "For purposes of paragraph (1), the applicable amount is an amount equal to\u2014\u2014in the case of a dwelling unit which is eligible to participate in the Energy Star Residential New Construction Program or the Energy Star Manufactured New Homes program\u2014\u2014which meets the requirements of subsection(c)(1)(A)(and which does not meet the requirements of subsection(c)(1)(B)), $2,500, and\u2014which meets the requirements of subsection(c)(1)(B), $5,000, and\u2014in the case of a dwelling unit which is part of a building eligible to participate in the Energy Star Multifamily New Construction Program\u2014\u2014which meets the requirements of subsection(c)(1)(A)(and which does not meet the requirements of subsection(c)(1)(B)), $500, and\u2014which meets the requirements of subsection(c)(1)(B), $1,000.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 2500,
+        "text": "$2,500,"
+      },
+      {
+        "label": "amount",
+        "value": 5000,
+        "text": "$5,000,"
+      },
+      {
+        "label": "amount",
+        "value": 500,
+        "text": "$500,"
+      },
+      {
+        "label": "amount",
+        "value": 1000,
+        "text": "$1,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of paragraph (1), the applicable amount is an amount equal to\u2014\u2014in the case of a dwelling unit which is eligible to participate in the Energy Star Residential New Construction Program or the Energy Star Manufactured New Homes program\u2014\u2014which meets the requirements of subsection(c)(1)(A)(and which does not meet the requirements of subsection(c)(1)(B)), $2,500, and\u2014which meets the requirements of subsection(c)(1)(B), $5,000, and\u2014in the case of a dwelling unit which is part of a building eligible to participate in the Energy Star Multifamily New Construction Program\u2014\u2014which meets the requirements of subsection(c)(1)(A)(and which does not meet the requirements of subsection(c)(1)(B)), $500, and\u2014which meets the requirements of subsection(c)(1)(B), $1,000."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45L(a)(2)Applicable Amount\u2014For purposes of paragraph (1), the applicable amount is an amount equal to\u2014I.R.C. \u00a7 45L(a)(2)(A)\u2014in the case of a dwelling unit which is eligible to participate in the Energy Star\n                        Residential New Construction Program or the Energy Star Manufactured New Homes program\u2014I.R.C. \u00a7 45L(a)(2)(A)(i)\u2014which meets the requirements of subsection(c)(1)(A)(and which does not meet the requirements of subsection(c)(1)(B)), $2,500, andI.R.C. \u00a7 45L(a)(2)(A)(ii)\u2014which meets the requirements of subsection(c)(1)(B), $5,000, andI.R.C. \u00a7 45L(a)(2)(B)\u2014in the case of a dwelling unit which is part of a building eligible to participate\n                        in the Energy Star Multifamily New Construction Program\u2014I.R.C. \u00a7 45L(a)(2)(B)(i)\u2014which meets the requirements of subsection(c)(1)(A)(and which does not meet the requirements of subsection(c)(1)(B)), $500, andI.R.C. \u00a7 45L(a)(2)(B)(ii)\u2014which meets the requirements of subsection(c)(1)(B), $1,000.",
+    "definitions": null
+  },
+  {
+    "section": "45L",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)",
+      "(b)(1)(A)",
+      "(b)(1)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Contractor",
+    "text": "The term \u201celigible contractor\u201d means\u2014\u2014the person who constructed the qualified new energy efficient home, or\u2014in the case of a qualified new energy efficient home which is a manufactured home, the manufactured home producer of such home.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201celigible contractor\u201d means\u2014\u2014the person who constructed the qualified new energy efficient home, or\u2014in the case of a qualified new energy efficient home which is a manufactured home, the manufactured home producer of such home."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45L(b)(1)Eligible Contractor\u2014The term \u201celigible contractor\u201d means\u2014I.R.C. \u00a7 45L(b)(1)(A)\u2014the person who constructed the qualified new energy efficient home, orI.R.C. \u00a7 45L(b)(1)(B)\u2014in the case of a qualified new energy efficient home which is a manufactured home,\n                        the manufactured home producer of such home.",
+    "definitions": null
+  },
+  {
+    "section": "45L",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)",
+      "(b)(2)(A)",
+      "(b)(2)(B)",
+      "(b)(2)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "New Energy Efficient Home",
+    "text": "The term \u201cqualified new energy efficient home\u201d means a dwelling unit\u2014\u2014located in the United States,\u2014the construction of which is substantially completed after the date of the enactment of this section, and\u2014which meets the energy saving requirements of subsection(c).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified new energy efficient home\u201d means a dwelling unit\u2014\u2014located in the United States,\u2014the construction of which is substantially completed after the date of the enactment of this section, and\u2014which meets the energy saving requirements of subsection(c)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45L(b)(2)Qualified New Energy Efficient Home\u2014The term \u201cqualified new energy efficient home\u201d means a dwelling unit\u2014I.R.C. \u00a7 45L(b)(2)(A)\u2014located in the United States,I.R.C. \u00a7 45L(b)(2)(B)\u2014the construction of which is substantially completed after the date of the enactment\n                        of this section, andI.R.C. \u00a7 45L(b)(2)(C)\u2014which meets the energy saving requirements of subsection(c).",
+    "definitions": {
+      "term": "qualified new energy efficient home",
+      "requirements": [
+        "a dwelling unit\u2014\u2014located in the United States,\u2014the construction of which is substantially completed after the date of the enactment of this section, and\u2014which meets the energy saving requirements of subsection(c)."
+      ]
+    }
+  },
+  {
+    "section": "45L",
+    "subsection": "(b)(3)",
+    "source_subsections": [
+      "(b)(3)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "The term \u201cconstruction\u201d includes substantial reconstruction and rehabilitation.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cconstruction\u201d includes substantial reconstruction and rehabilitation."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45L(b)(3)Construction\u2014The term \u201cconstruction\u201d includes substantial reconstruction and rehabilitation.",
+    "definitions": null
+  },
+  {
+    "section": "45L",
+    "subsection": "(b)(4)",
+    "source_subsections": [
+      "(b)(4)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "The term \u201cacquire\u201d includes purchase.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cacquire\u201d includes purchase."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45L(b)(4)Acquire\u2014The term \u201cacquire\u201d includes purchase.",
+    "definitions": null
+  },
+  {
+    "section": "45L",
+    "subsection": "(c)(1)(A)",
+    "source_subsections": [
+      "(c)(1)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "A dwelling unit meets the requirements of this subparagraph if such dwelling unit meets the requirements of paragraph (2) or (3) (whichever is applicable).",
+    "conditions": [
+      "such dwelling unit meets the requirements of paragraph (2) or (3) (whichever is applicable)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such dwelling unit meets the requirements of paragraph (2) or (3) (whichever is applicable)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "A dwelling unit meets the requirements of this subparagraph"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45L(c)(1)(A)In General\u2014A dwelling unit meets the requirements of this subparagraph if such dwelling unit\n                        meets the requirements of paragraph (2) or (3) (whichever is applicable).",
+    "definitions": null
+  },
+  {
+    "section": "45L",
+    "subsection": "(c)(1)(B)",
+    "source_subsections": [
+      "(c)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Energy Ready Home Program",
+    "text": "A dwelling unit meets the requirements of this subparagraph if such dwelling unit is certified as a zero energy ready home under the zero energy ready home program of the Department of Energy as in effect on January 1, 2023 (or any successor program determined by the Secretary).",
+    "conditions": [
+      "such dwelling unit is certified as a zero energy ready home under the zero energy ready home program of the Department of Energy as in effect on January 1, 2023 (or any successor program determined by the Secretary)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such dwelling unit is certified as a zero energy ready home under the zero energy ready home program of the Department of Energy as in effect on January 1, 2023 (or any successor program determined by the Secretary)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "A dwelling unit meets the requirements of this subparagraph"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45L(c)(1)(B)Zero Energy Ready Home Program\u2014A dwelling unit meets the requirements of this subparagraph if such dwelling unit\n                        is certified as a zero energy ready home under the zero energy ready home program\n                        of the Department of Energy as in effect on January 1, 2023 (or any successor program\n                        determined by the Secretary).",
+    "definitions": null
+  },
+  {
+    "section": "45L",
+    "subsection": "(c)(2)",
+    "source_subsections": [
+      "(c)(2)",
+      "(c)(2)(A)",
+      "(c)(2)(A)(i)",
+      "(c)(2)(A)(i)(I)",
+      "(c)(2)(A)(i)(II)",
+      "(c)(2)(A)(ii)",
+      "(c)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Home Requirements",
+    "text": "A dwelling unit meets the requirements of this paragraph if\u2014\u2014such dwelling unit meets\u2014.R.C. \u00a7 45L(c)(2)(A)(i)(I)\u2014in the case of a dwelling unit acquired before January 1, 2025, the Energy Star Single-Family New Homes National Program Requirements 3.1, or\u2014in the case of a dwelling unit acquired after December 31, 2024, the Energy Star Single-Family New Homes National Program Requirements 3.2, and\u2014the most recent Energy Star Single-Family New Homes Program Requirements applicable to the location of such dwelling unit (as in effect on the latter of January 1, 2023, or January 1 of two calendar years prior to the date the dwelling unit was acquired), or\u2014such dwelling unit meets the most recent Energy Star Manufactured Home National program requirements as in effect on the latter of January 1, 2023, or January 1 of two calendar years prior to the date such dwelling unit is acquired.",
+    "conditions": [
+      "\u2014\u2014such dwelling unit meets\u2014.R.C. \u00a7 45L(c)(2)(A)(i)(I)\u2014in the case of a dwelling unit acquired before January 1, 2025, the Energy Star Single-Family New Homes National Program Requirements 3.1, or\u2014in the case of a dwelling unit acquired after December 31, 2024, the Energy Star Single-Family New Homes National Program Requirements 3.2, and\u2014the most recent Energy Star Single-Family New Homes Program Requirements applicable to the location of such dwelling unit (as in effect on the latter of January 1, 2023, or January 1 of two calendar years prior to the date the dwelling unit was acquired), or\u2014such dwelling unit meets the most recent Energy Star Manufactured Home National program requirements as in effect on the latter of January 1, 2023, or January 1 of two calendar years prior to the date such dwelling unit is acquired."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014such dwelling unit meets\u2014.R.C. \u00a7 45L(c)(2)(A)(i)(I)\u2014in the case of a dwelling unit acquired before January 1, 2025, the Energy Star Single-Family New Homes National Program Requirements 3.1, or\u2014in the case of a dwelling unit acquired after December 31, 2024, the Energy Star Single-Family New Homes National Program Requirements 3.2, and\u2014the most recent Energy Star Single-Family New Homes Program Requirements applicable to the location of such dwelling unit (as in effect on the latter of January 1, 2023, or January 1 of two calendar years prior to the date the dwelling unit was acquired), or\u2014such dwelling unit meets the most recent Energy Star Manufactured Home National program requirements as in effect on the latter of January 1, 2023, or January 1 of two calendar years prior to the date such dwelling unit is acquired."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "A dwelling unit meets the requirements of this paragraph"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45L(c)(2)Single-Family Home Requirements\u2014A dwelling unit meets the requirements of this paragraph if\u2014I.R.C. \u00a7 45L(c)(2)(A)\u2014such dwelling unit meets\u2014I.R.C. \u00a7 45L(c)(2)(A)(i)I.R.C. \u00a7 45L(c)(2)(A)(i)(I)\u2014in the case of a dwelling unit acquired before January 1, 2025, the Energy Star Single-Family\n                              New Homes National Program Requirements 3.1, orI.R.C. \u00a7 45L(c)(2)(A)(i)(II)\u2014in the case of a dwelling unit acquired after December 31, 2024, the Energy Star Single-Family\n                              New Homes National Program Requirements 3.2, andI.R.C. \u00a7 45L(c)(2)(A)(ii)\u2014the most recent Energy Star Single-Family New Homes Program Requirements applicable\n                           to the location of such dwelling unit (as in effect on the latter of January 1, 2023,\n                           or January 1 of two calendar years prior to the date the dwelling unit was acquired),\n                           orI.R.C. \u00a7 45L(c)(2)(B)\u2014such dwelling unit meets the most recent Energy Star Manufactured Home National program\n                        requirements as in effect on the latter of January 1, 2023, or January 1 of two calendar\n                        years prior to the date such dwelling unit is acquired.",
+    "definitions": null
+  },
+  {
+    "section": "45L",
+    "subsection": "(c)(3)",
+    "source_subsections": [
+      "(c)(3)",
+      "(c)(3)(A)",
+      "(c)(3)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Home Requirements",
+    "text": "A dwelling unit meets the requirements of this paragraph if\u2014\u2014such dwelling unit meets the most recent Energy Star Multifamily New Construction National Program Requirements (as in effect on either January 1, 2023, or January 1 of three calendar years prior to the date the dwelling was acquired, whichever is later), and\u2014such dwelling unit meets the most recent Energy Star Multifamily New Construction Regional Program Requirements applicable to the location of such dwelling unit (as in effect on either January 1, 2023, or January 1 of three calendar years prior to the date the dwelling was acquired, whichever is later).",
+    "conditions": [
+      "\u2014\u2014such dwelling unit meets the most recent Energy Star Multifamily New Construction National Program Requirements (as in effect on either January 1, 2023, or January 1 of three calendar years prior to the date the dwelling was acquired, whichever is later), and\u2014such dwelling unit meets the most recent Energy Star Multifamily New Construction Regional Program Requirements applicable to the location of such dwelling unit (as in effect on either January 1, 2023, or January 1 of three calendar years prior to the date the dwelling was acquired, whichever is later)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014such dwelling unit meets the most recent Energy Star Multifamily New Construction National Program Requirements (as in effect on either January 1, 2023, or January 1 of three calendar years prior to the date the dwelling was acquired, whichever is later), and\u2014such dwelling unit meets the most recent Energy Star Multifamily New Construction Regional Program Requirements applicable to the location of such dwelling unit (as in effect on either January 1, 2023, or January 1 of three calendar years prior to the date the dwelling was acquired, whichever is later)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "A dwelling unit meets the requirements of this paragraph"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45L(c)(3)Multi-Family Home Requirements\u2014A dwelling unit meets the requirements of this paragraph if\u2014I.R.C. \u00a7 45L(c)(3)(A)\u2014such dwelling unit meets the most recent Energy Star Multifamily New Construction\n                        National Program Requirements (as in effect on either January 1, 2023, or January\n                        1 of three calendar years prior to the date the dwelling was acquired, whichever is\n                        later), andI.R.C. \u00a7 45L(c)(3)(B)\u2014such dwelling unit meets the most recent Energy Star Multifamily New Construction\n                        Regional Program Requirements applicable to the location of such dwelling unit (as\n                        in effect on either January 1, 2023, or January 1 of three calendar years prior to\n                        the date the dwelling was acquired, whichever is later).",
+    "definitions": null
+  },
+  {
+    "section": "45L",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Certification",
+    "text": "A certification described in subsection(c)shall be made in accordance with guidance prescribed by the Secretary, after consultation with the Secretary of Energy. Such guidance shall specify procedures and methods for calculating energy and cost savings.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "A certification described in subsection(c)shall be made in accordance with guidance prescribed by the Secretary, after consultation with the Secretary of Energy. Such guidance shall specify procedures and methods for calculating energy and cost savings."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45L(d)(1)Method Of Certification\u2014A certification described in subsection(c)shall be made in accordance with guidance prescribed by the Secretary, after consultation\n                     with the Secretary of Energy. Such guidance shall specify procedures and methods for\n                     calculating energy and cost savings.",
+    "definitions": null
+  },
+  {
+    "section": "45L",
+    "subsection": "(d)(2)",
+    "source_subsections": [
+      "(d)(2)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Any certification described in subsection(c)shall be made in writing in a manner which specifies in readily verifiable fashion the energy efficient building envelope components and energy efficient heating or cooling equipment installed and their respective rated energy efficiency performance.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Any certification described in subsection(c)shall be made in writing in a manner which specifies in readily verifiable fashion the energy efficient building envelope components and energy efficient heating or cooling equipment installed and their respective rated energy efficiency performance."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45L(d)(2)Form\u2014Any certification described in subsection(c)shall be made in writing in a manner which specifies in readily verifiable fashion\n                     the energy efficient building envelope components and energy efficient heating or\n                     cooling equipment installed and their respective rated energy efficiency performance.",
+    "definitions": null
+  },
+  {
+    "section": "45L",
+    "subsection": "(e)",
+    "source_subsections": [
+      "(e)"
+    ],
+    "rule_type": "condition",
+    "title": "Adjustment",
+    "text": "For purposes of this subtitle, if a credit is allowed under this section in connection with any expenditure for any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so determined. This subsection shall not apply for purposes of determining the adjusted basis of any building under section42.",
+    "conditions": [
+      "a credit is allowed under this section in connection with any expenditure for any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so determined. This subsection shall not apply for purposes of determining the adjusted basis of any building under section42."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "a credit is allowed under this section in connection with any expenditure for any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so determined. This subsection shall not apply for purposes of determining the adjusted basis of any building under section42."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subtitle,"
+    },
+    "cross_references": [
+      {
+        "section": "42",
+        "reason": "d basis of any building under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45L(e)Basis Adjustment\u2014For purposes of this subtitle, if a credit is allowed under this section in connection\n                  with any expenditure for any property, the increase in the basis of such property\n                  which would (but for this subsection) result from such expenditure shall be reduced\n                  by the amount of the credit so determined. This subsection shall not apply for purposes\n                  of determining the adjusted basis of any building under section42.",
+    "definitions": null
+  },
+  {
+    "section": "45L",
+    "subsection": "(f)",
+    "source_subsections": [
+      "(f)"
+    ],
+    "rule_type": "condition",
+    "title": "With Investment Credit",
+    "text": "For purposes of this section, expenditures taken into account under section47or48(a)shall not be taken into account under this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, expenditures taken into account under section47or48(a)shall not be taken into account under this section."
+    },
+    "cross_references": [
+      {
+        "section": "47o",
+        "reason": "ures taken into account under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45L(f)Coordination With Investment Credit\u2014For purposes of this section, expenditures taken into account under section47or48(a)shall not be taken into account under this section.",
+    "definitions": null
+  },
+  {
+    "section": "45L",
+    "subsection": "(g)(1)(A)",
+    "source_subsections": [
+      "(g)(1)(A)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$2,500 in the case of a residence which meets the requirements of subparagraph (A) of subsection(c)(1)(and which does not meet the requirements of subparagraph (B) of such subsection), and",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 2500,
+        "text": "$2,500"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$2,500 in the case of a residence which meets the requirements of subparagraph (A) of subsection(c)(1)(and which does not meet the requirements of subparagraph (B) of such subsection), and"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45L(g)(1)(A)\u2014$2,500 in the case of a residence which meets the requirements of subparagraph (A)\n                        of subsection(c)(1)(and which does not meet the requirements of subparagraph (B) of such subsection),\n                        and",
+    "definitions": null
+  },
+  {
+    "section": "45L",
+    "subsection": "(g)(1)(B)",
+    "source_subsections": [
+      "(g)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$5,000 in the case of a residence which meets the requirements of subsection(c)(1)(B).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 5000,
+        "text": "$5,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$5,000 in the case of a residence which meets the requirements of subsection(c)(1)(B)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45L(g)(1)(B)\u2014$5,000 in the case of a residence which meets the requirements of subsection(c)(1)(B).",
+    "definitions": null
+  },
+  {
+    "section": "45L",
+    "subsection": "(g)(2)(A)",
+    "source_subsections": [
+      "(g)(2)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The requirements described in this subparagraph with respect to any qualified residence are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in the construction of such residence shall be paid wages at rates not less than the prevailing rates for construction, alteration, or repair of a similar character in the locality in which such residence is located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The requirements described in this subparagraph with respect to any qualified residence are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in the construction of such residence shall be paid wages at rates not less than the prevailing rates for construction, alteration, or repair of a similar character in the locality in which such residence is located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45L(g)(2)(A)In General\u2014The requirements described in this subparagraph with respect to any qualified residence\n                        are that the taxpayer shall ensure that any laborers and mechanics employed by the\n                        taxpayer or any contractor or subcontractor in the construction of such residence\n                        shall be paid wages at rates not less than the prevailing rates for construction,\n                        alteration, or repair of a similar character in the locality in which such residence\n                        is located as most recently determined by the Secretary of Labor, in accordance with\n                        subchapter IV of chapter 31 of title 40, United States Code.",
+    "definitions": null
+  },
+  {
+    "section": "45L",
+    "subsection": "(g)(2)(B)",
+    "source_subsections": [
+      "(g)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "and Penalty Related To Failure To Satisfy Wage Requirements",
+    "text": "Rules similar to the rules of section45(b)(7)(B)shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules of section45(b)(7)(B)shall apply."
+    },
+    "cross_references": [
+      {
+        "section": "45(b)(7)(B)",
+        "reason": "Rules similar to the rules of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45L(g)(2)(B)Correction and Penalty Related To Failure To Satisfy Wage Requirements\u2014Rules similar to the rules of section45(b)(7)(B)shall apply.",
+    "definitions": null
+  },
+  {
+    "section": "45L",
+    "subsection": "(g)(3)",
+    "source_subsections": [
+      "(g)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "And Guidance",
+    "text": "The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45L(g)(3)Regulations And Guidance\u2014The Secretary shall issue such regulations or other guidance as the Secretary determines\n                     necessary to carry out the purposes of this subsection, including regulations or other\n                     guidance which provides for requirements for recordkeeping or information reporting\n                     for purposes of administering the requirements of this subsection.",
+    "definitions": null
+  },
+  {
+    "section": "45L",
+    "subsection": "(h)",
+    "source_subsections": [
+      "(h)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "This section shall not apply to any qualified new energy efficient home acquired after June 30, 2026.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "This section shall not apply to any qualified new energy efficient home acquired after June 30, 2026."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45L(h)Termination\u2014This section shall not apply to any qualified new energy efficient home acquired after\n                  June 30, 2026.",
+    "definitions": null
+  }
+]

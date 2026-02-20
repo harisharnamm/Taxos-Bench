@@ -1,0 +1,1291 @@
+[
+  {
+    "section": "25A",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)",
+      "(a)(1)",
+      "(a)(2)"
+    ],
+    "rule_type": "computation",
+    "title": "Of Credit",
+    "text": "In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year the amount equal to the sum of\u2014\u2014the American Opportunity Tax Credit, plus\u2014the Lifetime Learning Credit.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year the amount equal to the sum of\u2014\u2014the American Opportunity Tax Credit, plus\u2014the Lifetime Learning Credit."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(a)Allowance Of Credit\u2014In  the case of an individual, there shall be allowed\n                  as a credit against the  tax imposed by this chapter for the taxable\n                  year the amount equal to the  sum of\u2014I.R.C. \u00a7 25A(a)(1)\u2014the  American Opportunity Tax Credit,\n                     plusI.R.C. \u00a7 25A(a)(2)\u2014the  Lifetime Learning Credit.",
+    "definitions": null
+  },
+  {
+    "section": "25A",
+    "subsection": "(b)(1)(A)",
+    "source_subsections": [
+      "(b)(1)(A)"
+    ],
+    "rule_type": "limitation",
+    "title": null,
+    "text": "100 percent of so much of the qualified tuition and related expenses paid by the taxpayer during the taxable year (for education furnished to the eligible student during any academic period beginning in such taxable year) as does not exceed $2,000, plus",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 2000,
+        "text": "$2,000,"
+      }
+    ],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 1.0,
+        "text": "100 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "100 percent of so much of the qualified tuition and related expenses paid by the taxpayer during the taxable year (for education furnished to the eligible student during any academic period beginning in such taxable year) as does not exceed $2,000, plus"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(b)(1)(A)\u2014100  percent of so much of the qualified\n                        tuition and related expenses paid by  the taxpayer during the taxable\n                        year (for education furnished to the  eligible student during any\n                        academic period beginning in such taxable  year) as does not exceed\n                        $2,000, plus",
+    "definitions": null
+  },
+  {
+    "section": "25A",
+    "subsection": "(b)(1)(B)",
+    "source_subsections": [
+      "(b)(1)(B)"
+    ],
+    "rule_type": "limitation",
+    "title": null,
+    "text": "25 percent of such expenses so paid as exceeds $2,000 but does not exceed $4,000.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 2000,
+        "text": "$2,000"
+      },
+      {
+        "label": "amount",
+        "value": 4000,
+        "text": "$4,000"
+      }
+    ],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.25,
+        "text": "25 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "25 percent of such expenses so paid as exceeds $2,000 but does not exceed $4,000."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(b)(1)(B)\u201425  percent of such expenses so paid\n                        as exceeds $2,000 but does not exceed $4,000.",
+    "definitions": null
+  },
+  {
+    "section": "25A",
+    "subsection": "(b)(2)(A)",
+    "source_subsections": [
+      "(b)(2)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "Allowed Only For 4 Taxable Years",
+    "text": "An election to have this section apply with respect to any eligible student for purposes of the American Opportunity Tax Credit under subsection(a)(1)may not be made for any taxable year if such an election (by the taxpayer or any other individual) is in effect with respect to such student for any 4 prior taxable years.",
+    "conditions": [
+      "such an election (by the taxpayer or any other individual) is in effect with respect to such student for any 4 prior taxable years."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such an election (by the taxpayer or any other individual) is in effect with respect to such student for any 4 prior taxable years."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "An election to have this section apply with respect to any eligible student for purposes of the American Opportunity Tax Credit under subsection(a)(1)may not be made for any taxable year"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(b)(2)(A)Credit Allowed Only For 4 Taxable Years\u2014An  election to have this section apply with respect\n                        to any eligible student  for purposes of the American Opportunity\n                        Tax Credit under subsection(a)(1)may\n                        not be made for any taxable year if such an election (by the taxpayer\n                        or  any other individual) is in effect with respect to such student\n                        for any 4  prior taxable years.",
+    "definitions": null
+  },
+  {
+    "section": "25A",
+    "subsection": "(b)(2)(B)",
+    "source_subsections": [
+      "(b)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The American Opportunity Tax Credit under subsection(a)(1)shall not be allowed for a taxable year with respect to the qualified tuition and related expenses of an individual unless such individual is an eligible student for at least one academic period which begins during such year.",
+    "conditions": [
+      "such individual is an eligible student for at least one academic period which begins during such year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "such individual is an eligible student for at least one academic period which begins during such year."
+      ],
+      "except": [],
+      "result": "The American Opportunity Tax Credit under subsection(a)(1)shall not be allowed for a taxable year with respect to the qualified tuition and related expenses of an individual"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(b)(2)(B)Credit Allowed For Year Only If Individual Is At Least 1/2 Time\n                        Student For Portion Of Year\u2014The  American Opportunity Tax Credit under subsection(a)(1)shall not be allowed\n                        for a  taxable year with respect to the qualified tuition and related\n                        expenses of  an individual unless such individual is an eligible student\n                        for at least  one academic period which begins during such year.",
+    "definitions": null
+  },
+  {
+    "section": "25A",
+    "subsection": "(b)(2)(C)",
+    "source_subsections": [
+      "(b)(2)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "Allowed Only For First 4 Years Of Postsecondary Education",
+    "text": "The American Opportunity Tax Credit under subsection(a)(1)shall not be allowed for a taxable year with respect to the qualified tuition and related expenses of an eligible student if the student has completed (before the beginning of such taxable year) the first 4 years of postsecondary education at an eligible educational institution.",
+    "conditions": [
+      "the student has completed (before the beginning of such taxable year) the first 4 years of postsecondary education at an eligible educational institution."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the student has completed (before the beginning of such taxable year) the first 4 years of postsecondary education at an eligible educational institution."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The American Opportunity Tax Credit under subsection(a)(1)shall not be allowed for a taxable year with respect to the qualified tuition and related expenses of an eligible student"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(b)(2)(C)Credit Allowed Only For First 4 Years Of Postsecondary Education\u2014The  American Opportunity Tax Credit under subsection(a)(1)shall not be allowed\n                        for a  taxable year with respect to the qualified tuition and related\n                        expenses of  an eligible student if the student has completed (before\n                        the beginning of  such taxable year) the first 4 years of postsecondary\n                        education at an  eligible educational institution.",
+    "definitions": null
+  },
+  {
+    "section": "25A",
+    "subsection": "(b)(2)(D)",
+    "source_subsections": [
+      "(b)(2)(D)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Credit If Student Convicted Of A Felony Drug Offense",
+    "text": "The American Opportunity Tax Credit under subsection(a)(1)shall not be allowed for qualified tuition and related expenses for the enrollment or attendance of a student for any academic period if such student has been convicted of a Federal or State felony offense consisting of the possession or distribution of a controlled substance before the end of the taxable year with or within which such period ends.",
+    "conditions": [
+      "such student has been convicted of a Federal or State felony offense consisting of the possession or distribution of a controlled substance before the end of the taxable year with or within which such period ends."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such student has been convicted of a Federal or State felony offense consisting of the possession or distribution of a controlled substance before the end of the taxable year with or within which such period ends."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The American Opportunity Tax Credit under subsection(a)(1)shall not be allowed for qualified tuition and related expenses for the enrollment or attendance of a student for any academic period"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(b)(2)(D)Denial Of Credit If Student Convicted Of A Felony Drug Offense\u2014The  American Opportunity Tax Credit under subsection(a)(1)shall not be allowed\n                        for  qualified tuition and related expenses for the enrollment or\n                        attendance of  a student for any academic period if such student has\n                        been convicted of a  Federal or State felony offense consisting of\n                        the possession or  distribution of a controlled substance before the\n                        end of the taxable year  with or within which such period ends.",
+    "definitions": null
+  },
+  {
+    "section": "25A",
+    "subsection": "(b)(3)",
+    "source_subsections": [
+      "(b)(3)",
+      "(b)(3)(A)",
+      "(b)(3)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Student",
+    "text": "For purposes of this subsection, the term \u201celigible student\u201d means, with respect to any academic period, a student who\u2014\u2014meets the requirements of section484(a)(1)of the Higher Education Act of 1965 (20 U.S.C. 1091(a)(1)), as in effect on the date of the enactment of this section, and\u2014is carrying at least 1/2 the normal full-time work load for the course of study the student is pursuing.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection, the term \u201celigible student\u201d means, with respect to any academic period, a student who\u2014\u2014meets the requirements of section484(a)(1)of the Higher Education Act of 1965 (20 U.S.C. 1091(a)(1)), as in effect on the date of the enactment of this section, and\u2014is carrying at least 1/2 the normal full-time work load for the course of study the student is pursuing."
+    },
+    "cross_references": [
+      {
+        "section": "484(a)(1)",
+        "reason": "ho\u2014\u2014meets the requirements of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(b)(3)Eligible Student\u2014For  purposes of this subsection, the term \u201celigible\n                     student\u201d means, with  respect to any academic period, a student\n                     who\u2014I.R.C. \u00a7 25A(b)(3)(A)\u2014meets  the requirements of section484(a)(1)of the Higher Education\n                        Act of 1965  (20 U.S.C. 1091(a)(1)),\n                        as in effect on the date of the enactment of this  section, andI.R.C. \u00a7 25A(b)(3)(B)\u2014is  carrying at least 1/2 the normal\n                        full-time work load for the course of  study the student is pursuing.",
+    "definitions": null
+  },
+  {
+    "section": "25A",
+    "subsection": "(b)(4)(A)(i)",
+    "source_subsections": [
+      "(b)(4)(A)(i)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "No American Opportunity Tax Credit shall be allowed under this section for any taxable year in the disallowance period.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No American Opportunity Tax Credit shall be allowed under this section for any taxable year in the disallowance period."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(b)(4)(A)(i)In General\u2014No American Opportunity Tax Credit shall be allowed under\n                           this section for any taxable year in the disallowance period.",
+    "definitions": null
+  },
+  {
+    "section": "25A",
+    "subsection": "(b)(4)(A)(ii)",
+    "source_subsections": [
+      "(b)(4)(A)(ii)",
+      "(b)(4)(A)(ii)(I)",
+      "(b)(4)(A)(ii)(II)"
+    ],
+    "rule_type": "condition",
+    "title": "Period",
+    "text": "For purposes of subparagraph (A), the disallowance period is\u2014\u2014the period of 10 taxable years after the most recent taxable year for which there was a final determination that the taxpayer's claim of the American Opportunity Tax Credit under this section was due to fraud, and\u2014the period of 2 taxable years after the most recent taxable year for which there was a final determination that the taxpayer's claim of the American Opportunity Tax Credit under this section was due to reckless or intentional disregard of rules and regulations (but not due to fraud).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph (A), the disallowance period is\u2014\u2014the period of 10 taxable years after the most recent taxable year for which there was a final determination that the taxpayer's claim of the American Opportunity Tax Credit under this section was due to fraud, and\u2014the period of 2 taxable years after the most recent taxable year for which there was a final determination that the taxpayer's claim of the American Opportunity Tax Credit under this section was due to reckless or intentional disregard of rules and regulations (but not due to fraud)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(b)(4)(A)(ii)Disallowance Period\u2014For purposes of subparagraph (A), the disallowance period\n                           is\u2014I.R.C. \u00a7 25A(b)(4)(A)(ii)(I)\u2014the period of 10 taxable years  after\n                              the most recent taxable year for which there was a final determination\n                              that the taxpayer's claim of the American Opportunity Tax Credit\n                              under this section was due to fraud, andI.R.C. \u00a7 25A(b)(4)(A)(ii)(II)\u2014the period of 2 taxable years after\n                              the most recent taxable year for which there was a final determination\n                              that the taxpayer's claim of the American Opportunity Tax Credit\n                              under this section was due to reckless or intentional disregard of\n                              rules and regulations (but not due to fraud).",
+    "definitions": null
+  },
+  {
+    "section": "25A",
+    "subsection": "(b)(4)(B)",
+    "source_subsections": [
+      "(b)(4)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Making Improper Prior Claims",
+    "text": "In the case of a taxpayer who is denied the American Opportunity Tax Credit under this section for any taxable year as a result of the deficiency procedures under subchapter B of chapter 63, no American Opportunity Tax Credit shall be allowed under this section for any subsequent taxable year unless the taxpayer provides such information as the Secretary may require to demonstrate eligibility for such credit.",
+    "conditions": [
+      "the taxpayer provides such information as the Secretary may require to demonstrate eligibility for such credit."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "the taxpayer provides such information as the Secretary may require to demonstrate eligibility for such credit."
+      ],
+      "except": [],
+      "result": "In the case of a taxpayer who is denied the American Opportunity Tax Credit under this section for any taxable year as a result of the deficiency procedures under subchapter B of chapter 63, no American Opportunity Tax Credit shall be allowed under this section for any subsequent taxable year"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(b)(4)(B)Taxpayers Making Improper Prior Claims\u2014In the case of a taxpayer who is denied the American\n                        Opportunity Tax Credit under this section for any taxable year as\n                        a result of the deficiency procedures under subchapter B of chapter\n                        63, no American Opportunity Tax Credit shall be allowed under this\n                        section for any subsequent taxable year unless the taxpayer provides\n                        such information as the Secretary may require to demonstrate eligibility\n                        for such credit.",
+    "definitions": null
+  },
+  {
+    "section": "25A",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)"
+    ],
+    "rule_type": "limitation",
+    "title": "Taxpayer Credit",
+    "text": "The Lifetime Learning Credit for any taxpayer for any taxable year is an amount equal to 20 percent of so much of the qualified tuition and related expenses paid by the taxpayer during the taxable year for education furnished during any academic period beginning in such taxable year as does not exceed $10,000.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 10000,
+        "text": "$10,000"
+      }
+    ],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.2,
+        "text": "20 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Lifetime Learning Credit for any taxpayer for any taxable year is an amount equal to 20 percent of so much of the qualified tuition and related expenses paid by the taxpayer during the taxable year for education furnished during any academic period beginning in such taxable year as does not exceed $10,000."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(c)(1)Per Taxpayer Credit\u2014The  Lifetime Learning Credit for any taxpayer for any\n                     taxable year is an  amount equal to 20 percent of so much of the qualified\n                     tuition and related  expenses paid by the taxpayer during the taxable\n                     year for education  furnished during any academic period beginning\n                     in such  taxable year as does not exceed $10,000.",
+    "definitions": null
+  },
+  {
+    "section": "25A",
+    "subsection": "(c)(2)(A)",
+    "source_subsections": [
+      "(c)(2)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "With American Opportunity Tax Credit",
+    "text": "The qualified tuition and related expenses with respect to an individual who is an eligible student for whom a American Opportunity Tax Credit under subsection(a)(1)is allowed for the taxable year shall not be taken into account under this subsection.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The qualified tuition and related expenses with respect to an individual who is an eligible student for whom a American Opportunity Tax Credit under subsection(a)(1)is allowed for the taxable year shall not be taken into account under this subsection."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(c)(2)(A)Coordination With American Opportunity Tax Credit\u2014The  qualified tuition and related expenses with respect\n                        to an individual who  is an eligible student for whom a American Opportunity\n                        Tax Credit under subsection(a)(1)is\n                        allowed for the taxable year shall not be taken into account  under\n                        this subsection.",
+    "definitions": null
+  },
+  {
+    "section": "25A",
+    "subsection": "(c)(2)(B)",
+    "source_subsections": [
+      "(c)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Eligible For Lifetime Learning Credit",
+    "text": "For purposes of paragraph(1), qualified tuition and related expenses shall include expenses described in subsection (f)(1) with respect to any course of instruction at an eligible educational institution to acquire or improve job skills of the individual.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of paragraph(1), qualified tuition and related expenses shall include expenses described in subsection (f)(1) with respect to any course of instruction at an eligible educational institution to acquire or improve job skills of the individual."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(c)(2)(B)Expenses Eligible For Lifetime Learning Credit\u2014For  purposes of paragraph(1), qualified tuition and\n                        related expenses shall  include expenses described in subsection (f)(1)\n                        with respect to any course of instruction at an eligible  educational\n                        institution to acquire or improve job skills of the  individual.",
+    "definitions": null
+  },
+  {
+    "section": "25A",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)",
+      "(d)(1)(A)",
+      "(d)(1)(A)(i)",
+      "(d)(1)(A)(ii)",
+      "(d)(1)(B)"
+    ],
+    "rule_type": "computation",
+    "title": "General.",
+    "text": "The American Opportunity Tax Credit and the Lifetime Learning Credit shall each (determined without regard to this paragraph) be reduced (but not below zero) by the amount which bears the same ratio to each such credit (as so determined) as\u2014\u2014the excess of\u2014\u2014the taxpayer's modified adjusted gross income for such taxable year, over\u2014$80,000 ($160,000 in the case of a joint return), bears to\u2014$10,000 ($20,000 in the case of a joint return).",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "subtraction",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 80000,
+        "text": "$80,000"
+      },
+      {
+        "label": "amount",
+        "value": 160000,
+        "text": "$160,000"
+      },
+      {
+        "label": "amount",
+        "value": 10000,
+        "text": "$10,000"
+      },
+      {
+        "label": "amount",
+        "value": 20000,
+        "text": "$20,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The American Opportunity Tax Credit and the Lifetime Learning Credit shall each (determined without regard to this paragraph) be reduced (but not below zero) by the amount which bears the same ratio to each such credit (as so determined) as\u2014\u2014the excess of\u2014\u2014the taxpayer's modified adjusted gross income for such taxable year, over\u2014$80,000 ($160,000 in the case of a joint return), bears to\u2014$10,000 ($20,000 in the case of a joint return)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(d)(1)In General.\u2014\u2014The American Opportunity Tax Credit and the Lifetime\n                     Learning Credit shall each (determined without regard to this paragraph)\n                     be reduced (but not below zero) by the amount which bears the same\n                     ratio to each such credit (as so determined) as\u2014I.R.C. \u00a7 25A(d)(1)(A)\u2014the excess of\u2014I.R.C. \u00a7 25A(d)(1)(A)(i)\u2014the taxpayer's modified adjusted\n                           gross income for such taxable year, overI.R.C. \u00a7 25A(d)(1)(A)(ii)\u2014$80,000 ($160,000 in the case of a joint\n                           return), bears toI.R.C. \u00a7 25A(d)(1)(B)\u2014$10,000 ($20,000 in the case of a joint\n                        return).",
+    "definitions": null
+  },
+  {
+    "section": "25A",
+    "subsection": "(d)(2)",
+    "source_subsections": [
+      "(d)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Adjusted Gross Income",
+    "text": "For purposes of this subsection, the term \u201cmodified adjusted gross income\u201d means the adjusted gross income of the taxpayer for the taxable year increased by any amount excluded from gross income under section911,931, or933.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection, the term \u201cmodified adjusted gross income\u201d means the adjusted gross income of the taxpayer for the taxable year increased by any amount excluded from gross income under section911,931, or933."
+    },
+    "cross_references": [
+      {
+        "section": "911",
+        "reason": "luded from gross income under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(d)(2)Modified Adjusted Gross Income\u2014For purposes of this subsection, the term \u201cmodified\n                     adjusted gross income\u201d means the adjusted gross income of the\n                     taxpayer for the taxable year increased by any amount excluded from\n                     gross income under section911,931, or933.",
+    "definitions": {
+      "term": "modified adjusted gross income",
+      "requirements": [
+        "the adjusted gross income of the taxpayer for the taxable year increased by any amount excluded from gross income under section911,931, or933."
+      ]
+    }
+  },
+  {
+    "section": "25A",
+    "subsection": "(e)",
+    "source_subsections": [
+      "(e)"
+    ],
+    "rule_type": "condition",
+    "title": "Not To Have Section Apply",
+    "text": "A taxpayer may elect not to have this section apply with respect to the qualified tuition and related expenses of an individual for any taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "A taxpayer may elect not to have this section apply with respect to the qualified tuition and related expenses of an individual for any taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(e)Election Not To Have Section Apply\u2014A  taxpayer may elect not to have\n                  this section apply with respect to the  qualified tuition and related\n                  expenses of an individual for any taxable  year.",
+    "definitions": null
+  },
+  {
+    "section": "25A",
+    "subsection": "(f)(1)(A)",
+    "source_subsections": [
+      "(f)(1)(A)",
+      "(f)(1)(A)(i)",
+      "(f)(1)(A)(ii)",
+      "(f)(1)(A)(iii)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cqualified tuition and related expenses\u201d means tuition and fees required for the enrollment or attendance of\u2014\u2014the taxpayer,\u2014the taxpayer's spouse, or\u2014any dependent of the taxpayer with respect to whom the taxpayer is allowed a deduction under section151,at an eligible educational institution for courses of instruction of such individual at such institution.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified tuition and related expenses\u201d means tuition and fees required for the enrollment or attendance of\u2014\u2014the taxpayer,\u2014the taxpayer's spouse, or\u2014any dependent of the taxpayer with respect to whom the taxpayer is allowed a deduction under section151,at an eligible educational institution for courses of instruction of such individual at such institution."
+    },
+    "cross_references": [
+      {
+        "section": "151",
+        "reason": "is allowed a deduction under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(f)(1)(A)In General\u2014The  term \u201cqualified tuition and related expenses\u201d\n                        means tuition and fees  required for the enrollment or attendance\n                        of\u2014I.R.C. \u00a7 25A(f)(1)(A)(i)\u2014the  taxpayer,I.R.C. \u00a7 25A(f)(1)(A)(ii)\u2014the  taxpayer's spouse, orI.R.C. \u00a7 25A(f)(1)(A)(iii)\u2014any  dependent of the taxpayer with\n                           respect to whom the taxpayer is allowed a  deduction under section151,at an eligible educational institution\n                              for courses of  instruction of such individual at such  institution.",
+    "definitions": {
+      "term": "qualified tuition and related expenses",
+      "requirements": [
+        "tuition and fees required for the enrollment or attendance of\u2014\u2014the taxpayer,\u2014the taxpayer's spouse, or\u2014any dependent of the taxpayer with respect to whom the taxpayer is allowed a deduction under section151,at an eligible educational institution for courses of instruction of such individual at such institution."
+      ]
+    }
+  },
+  {
+    "section": "25A",
+    "subsection": "(f)(1)(B)",
+    "source_subsections": [
+      "(f)(1)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "For Education Involving Sports, Etc.",
+    "text": "Such term does not include expenses with respect to any course or other education involving sports, games, or hobbies, unless such course or other education is part of the individual's degree program.",
+    "conditions": [
+      "such course or other education is part of the individual's degree program."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "such course or other education is part of the individual's degree program."
+      ],
+      "except": [],
+      "result": "Such term does not include expenses with respect to any course or other education involving sports, games, or hobbies,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(f)(1)(B)Exception For Education Involving Sports, Etc.\u2014Such  term does not include expenses with respect to\n                        any course or other  education involving sports, games, or hobbies,\n                        unless such course or other  education is part of the individual's\n                        degree program.",
+    "definitions": null
+  },
+  {
+    "section": "25A",
+    "subsection": "(f)(1)(C)",
+    "source_subsections": [
+      "(f)(1)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "For Nonacademic Fees",
+    "text": "Such term does not include student activity fees, athletic fees, insurance expenses, or other expenses unrelated to an individual's academic course of instruction.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Such term does not include student activity fees, athletic fees, insurance expenses, or other expenses unrelated to an individual's academic course of instruction."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(f)(1)(C)Exception For Nonacademic Fees\u2014Such  term does not include student activity fees, athletic\n                        fees, insurance  expenses, or other expenses unrelated to an individual's\n                        academic course  of instruction.",
+    "definitions": null
+  },
+  {
+    "section": "25A",
+    "subsection": "(f)(1)(D)",
+    "source_subsections": [
+      "(f)(1)(D)"
+    ],
+    "rule_type": "condition",
+    "title": "Course Materials Taken Into Account For American Opportunity\n                        Tax Credit",
+    "text": "For purposes of determining the American Opportunity Tax Credit, subparagraph (A) shall be applied by substituting \u201ctuition, fees, and course materials\u201d for \u201ctuition and fees\u201d.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of determining the American Opportunity Tax Credit, subparagraph (A) shall be applied by substituting \u201ctuition, fees, and course materials\u201d for \u201ctuition and fees\u201d."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(f)(1)(D)Required Course Materials Taken Into Account For American Opportunity\n                        Tax Credit\u2014For purposes of determining the American Opportunity\n                        Tax Credit, subparagraph (A) shall be applied by substituting \u201ctuition,\n                        fees, and course materials\u201d for \u201ctuition and fees\u201d.",
+    "definitions": null
+  },
+  {
+    "section": "25A",
+    "subsection": "(f)(2)",
+    "source_subsections": [
+      "(f)(2)",
+      "(f)(2)(A)",
+      "(f)(2)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Educational Institution",
+    "text": "The term \u201celigible educational institution\u201d means an institution\u2014\u2014which is described in section 481 of the Higher Education Act of 1965 (20 U.S.C. 1088), as in effect on the date of the enactment of this section, and\u2014which is eligible to participate in a program under title IV of such Act.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201celigible educational institution\u201d means an institution\u2014\u2014which is described in section 481 of the Higher Education Act of 1965 (20 U.S.C. 1088), as in effect on the date of the enactment of this section, and\u2014which is eligible to participate in a program under title IV of such Act."
+    },
+    "cross_references": [
+      {
+        "section": "481",
+        "reason": "tution\u2014\u2014which is described in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(f)(2)Eligible Educational Institution\u2014The  term \u201celigible educational institution\u201d\n                     means an institution\u2014I.R.C. \u00a7 25A(f)(2)(A)\u2014which  is described in section 481 of\n                        the Higher Education Act of 1965 (20\n                           U.S.C.  1088), as in effect on the date of the enactment\n                        of this section,  andI.R.C. \u00a7 25A(f)(2)(B)\u2014which  is eligible to participate in\n                        a program under title IV of such  Act.",
+    "definitions": {
+      "term": "eligible educational institution",
+      "requirements": [
+        "an institution\u2014\u2014which is described in section 481 of the Higher Education Act of 1965 (20 U.S.C. 1088), as in effect on the date of the enactment of this section, and\u2014which is eligible to participate in a program under title IV of such Act."
+      ]
+    }
+  },
+  {
+    "section": "25A",
+    "subsection": "(g)(1)(A)",
+    "source_subsections": [
+      "(g)(1)(A)",
+      "(g)(1)(A)(i)",
+      "(g)(1)(A)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Security Number Requirement",
+    "text": "No credit shall be allowed under subsection(a)to an individual unless the individual includes on the return of tax for the taxable year\u2014\u2014such individual's social security number, and\u2014in the case of a credit with respect to the qualified tuition and related expenses of an individual other than the taxpayer or the taxpayer's spouse, the name and social security number of such individual.",
+    "conditions": [
+      "the individual includes on the return of tax for the taxable year\u2014\u2014such individual's social security number, and\u2014in the case of a credit with respect to the qualified tuition and related expenses of an individual other than the taxpayer or the taxpayer's spouse, the name and social security number of such individual."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "the individual includes on the return of tax for the taxable year\u2014\u2014such individual's social security number, and\u2014in the case of a credit with respect to the qualified tuition and related expenses of an individual other than the taxpayer or the taxpayer's spouse, the name and social security number of such individual."
+      ],
+      "except": [],
+      "result": "No credit shall be allowed under subsection(a)to an individual"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(g)(1)(A)Social Security Number Requirement\u2014No credit shall be allowed under subsection(a)to an individual unless the individual includes on the return of tax for the taxable\n                        year\u2014I.R.C. \u00a7 25A(g)(1)(A)(i)\u2014such individual's social security number, andI.R.C. \u00a7 25A(g)(1)(A)(ii)\u2014in the case of a credit with respect to the qualified tuition and related expenses\n                           of an individual other than the taxpayer or the taxpayer's spouse, the name and social\n                           security number of such individual.",
+    "definitions": null
+  },
+  {
+    "section": "25A",
+    "subsection": "(g)(1)(B)(i)",
+    "source_subsections": [
+      "(g)(1)(B)(i)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The requirements of subparagraph (A) shall not be treated as met with respect to the American Opportunity Tax Credit unless the individual's taxpayer identification number was issued on or before the due date for filing the return of tax for the taxable year.",
+    "conditions": [
+      "the individual's taxpayer identification number was issued on or before the due date for filing the return of tax for the taxable year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "the individual's taxpayer identification number was issued on or before the due date for filing the return of tax for the taxable year."
+      ],
+      "except": [],
+      "result": "The requirements of subparagraph (A) shall not be treated as met with respect to the American Opportunity Tax Credit"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(g)(1)(B)(i)Student\u2014The requirements of subparagraph (A) shall not be treated as met with respect to the\n                           American Opportunity Tax Credit unless the individual's taxpayer identification number\n                           was issued on or before the due date for filing the return of tax for the taxable\n                           year.",
+    "definitions": null
+  },
+  {
+    "section": "25A",
+    "subsection": "(g)(1)(B)(ii)",
+    "source_subsections": [
+      "(g)(1)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "No American Opportunity Tax Credit shall be allowed under this section if the taxpayer identification number of the taxpayer was issued after the due date for filing the return for the taxable year.",
+    "conditions": [
+      "the taxpayer identification number of the taxpayer was issued after the due date for filing the return for the taxable year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the taxpayer identification number of the taxpayer was issued after the due date for filing the return for the taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No American Opportunity Tax Credit shall be allowed under this section"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(g)(1)(B)(ii)Taxpayer\u2014No American Opportunity Tax Credit shall be allowed under this section if the taxpayer\n                           identification number of the taxpayer was issued after the due date for filing the\n                           return for the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "25A",
+    "subsection": "(g)(1)(B)(iii)",
+    "source_subsections": [
+      "(g)(1)(B)(iii)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "No American Opportunity Tax Credit shall be allowed under this section unless the taxpayer includes the employer identification number of any institution to which qualified tuition and related expenses were paid with respect to the individual.",
+    "conditions": [
+      "the taxpayer includes the employer identification number of any institution to which qualified tuition and related expenses were paid with respect to the individual."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "the taxpayer includes the employer identification number of any institution to which qualified tuition and related expenses were paid with respect to the individual."
+      ],
+      "except": [],
+      "result": "No American Opportunity Tax Credit shall be allowed under this section"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(g)(1)(B)(iii)Institution\u2014No American Opportunity Tax Credit shall be allowed under this section unless the\n                           taxpayer includes the employer identification number of any institution to which qualified\n                           tuition and related expenses were paid with respect to the individual.",
+    "definitions": null
+  },
+  {
+    "section": "25A",
+    "subsection": "(g)(1)(C)",
+    "source_subsections": [
+      "(g)(1)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "Security Number Defined",
+    "text": "Security Number Defined\u2014For purposes of this paragraph, the term \u201csocial security number\u201d shall have the meaning given such term insection 24(h)(7).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Security Number Defined\u2014For purposes of this paragraph, the term \u201csocial security number\u201d shall have the meaning given such term insection 24(h)(7)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(g)(1)(C)Social Security Number Defined\u2014For purposes of this paragraph, the term \u201csocial security number\u201d shall have the meaning\n                        given such term insection 24(h)(7).",
+    "definitions": null
+  },
+  {
+    "section": "25A",
+    "subsection": "(g)(2)",
+    "source_subsections": [
+      "(g)(2)",
+      "(g)(2)(A)",
+      "(g)(2)(B)",
+      "(g)(2)(C)"
+    ],
+    "rule_type": "computation",
+    "title": "For Certain Scholarships, Etc.",
+    "text": "The amount of qualified tuition and related expenses otherwise taken into account under subsection(a)with respect to an individual for an academic period shall be reduced (before the application of subsections(b),(c), and(d)) by the sum of any amounts paid for the benefit of such individual which are allocable to such period as\u2014\u2014a qualified scholarship which is excludable from gross income under section117,\u2014an educational assistance allowance under chapter 30, 31, 32, 34, or 35 of title 38, United States Code, or under chapter 1606 of title 10, United States Code, and\u2014a payment (other than a gift, bequest, devise, or inheritance within the meaning of section102(a)) for such individual's educational expenses, or attributable to such individual's enrollment at an eligible educational institution, which is excludable from gross income under any law of the United States.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of qualified tuition and related expenses otherwise taken into account under subsection(a)with respect to an individual for an academic period shall be reduced (before the application of subsections(b),(c), and(d)) by the sum of any amounts paid for the benefit of such individual which are allocable to such period as\u2014\u2014a qualified scholarship which is excludable from gross income under section117,\u2014an educational assistance allowance under chapter 30, 31, 32, 34, or 35 of title 38, United States Code, or under chapter 1606 of title 10, United States Code, and\u2014a payment (other than a gift, bequest, devise, or inheritance within the meaning of section102(a)) for such individual's educational expenses, or attributable to such individual's enrollment at an eligible educational institution, which is excludable from gross income under any law of the United States."
+    },
+    "cross_references": [
+      {
+        "section": "117",
+        "reason": "dable from gross income under..."
+      },
+      {
+        "section": "102(a)",
+        "reason": "ritance within the meaning of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(g)(2)Adjustment For Certain Scholarships, Etc.\u2014The  amount of qualified tuition and related expenses\n                     otherwise taken into  account under subsection(a)with respect to an individual\n                     for an academic  period shall be reduced (before the application of\n                     subsections(b),(c),  and(d)) by the sum of any amounts\n                     paid for the benefit of such individual  which are allocable to such\n                     period as\u2014I.R.C. \u00a7 25A(g)(2)(A)\u2014a  qualified scholarship which is excludable\n                        from gross income under section117,I.R.C. \u00a7 25A(g)(2)(B)\u2014an  educational assistance allowance\n                        under chapter 30, 31, 32, 34, or 35 of  title 38, United States Code,\n                        or under chapter 1606 of title 10, United  States Code, andI.R.C. \u00a7 25A(g)(2)(C)\u2014a  payment (other than a gift, bequest,\n                        devise, or inheritance within the  meaning of section102(a)) for such individual's\n                        educational expenses, or  attributable to such individual's enrollment\n                        at an eligible educational  institution, which is excludable from\n                        gross income under any law of the  United States.",
+    "definitions": null
+  },
+  {
+    "section": "25A",
+    "subsection": "(g)(3)",
+    "source_subsections": [
+      "(g)(3)",
+      "(g)(3)(A)",
+      "(g)(3)(B)",
+      "(g)(3)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Expenses Paid By Dependent",
+    "text": "If a deduction under section151with respect to an individual is allowed to another taxpayer for a taxable year beginning in the calendar year in which such individual's taxable year begins\u2014\u2014no credit shall be allowed under subsection(a)to such individual for such individual's taxable year,\u2014qualified tuition and related expenses paid by such individual during such individual's taxable year shall be treated for purposes of this section as paid by such other taxpayer, and\u2014a statement described in paragraph(8)and received by such individual shall be treated as received by the taxpayer.",
+    "conditions": [
+      "a deduction under section151with respect to an individual is allowed to another taxpayer for a taxable year beginning in the calendar year in which such individual's taxable year begins\u2014\u2014no credit shall be allowed under subsection(a)to such individual for such individual's taxable year,\u2014qualified tuition and related expenses paid by such individual during such individual's taxable year shall be treated for purposes of this section as paid by such other taxpayer, and\u2014a statement described in paragraph(8)and received by such individual shall be treated as received by the taxpayer."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "a deduction under section151with respect to an individual is allowed to another taxpayer for a taxable year beginning in the calendar year in which such individual's taxable year begins\u2014\u2014no credit shall be allowed under subsection(a)to such individual for such individual's taxable year,\u2014qualified tuition and related expenses paid by such individual during such individual's taxable year shall be treated for purposes of this section as paid by such other taxpayer, and\u2014a statement described in paragraph(8)and received by such individual shall be treated as received by the taxpayer."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "151w",
+        "reason": "If a deduction under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(g)(3)Treatment Of Expenses Paid By Dependent\u2014If  a deduction under section151with respect to an individual\n                     is allowed to  another taxpayer for a taxable year beginning in the\n                     calendar year in  which such individual's taxable year begins\u2014I.R.C. \u00a7 25A(g)(3)(A)\u2014no  credit shall be allowed under subsection(a)to such individual for such\n                        individual's taxable year,I.R.C. \u00a7 25A(g)(3)(B)\u2014qualified  tuition and related expenses\n                        paid by such individual during such  individual's taxable year shall\n                        be treated for purposes of this section as  paid by such other taxpayer,\n                        andI.R.C. \u00a7 25A(g)(3)(C)\u2014a statement described in paragraph(8)and received by such\n                        individual shall be treated as received by the taxpayer.",
+    "definitions": null
+  },
+  {
+    "section": "25A",
+    "subsection": "(g)(4)",
+    "source_subsections": [
+      "(g)(4)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Certain Prepayments",
+    "text": "If qualified tuition and related expenses are paid by the taxpayer during a taxable year for an academic period which begins during the first 3 months following such taxable year, such academic period shall be treated for purposes of this section as beginning during such taxable year.",
+    "conditions": [
+      "qualified tuition and related expenses are paid by the taxpayer during a taxable year for an academic period which begins during the first 3 months following such taxable year, such academic period shall be treated for purposes of this section as beginning during such taxable year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "qualified tuition and related expenses are paid by the taxpayer during a taxable year for an academic period which begins during the first 3 months following such taxable year, such academic period shall be treated for purposes of this section as beginning during such taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(g)(4)Treatment Of Certain Prepayments\u2014If  qualified tuition and related expenses are paid\n                     by the taxpayer during a  taxable year for an academic period which\n                     begins during the first 3 months  following such taxable year, such\n                     academic period shall be treated for  purposes of this section as\n                     beginning during such taxable  year.",
+    "definitions": null
+  },
+  {
+    "section": "25A",
+    "subsection": "(g)(5)",
+    "source_subsections": [
+      "(g)(5)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Double Benefit",
+    "text": "No credit shall be allowed under this section for any expense for which a deduction is allowed under any other provision of this chapter.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be allowed under this section for any expense for which a deduction is allowed under any other provision of this chapter."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(g)(5)Denial Of Double Benefit\u2014No  credit shall be allowed under this section for any\n                     expense for which a  deduction is allowed under any other provision\n                     of this  chapter.",
+    "definitions": null
+  },
+  {
+    "section": "25A",
+    "subsection": "(g)(6)",
+    "source_subsections": [
+      "(g)(6)"
+    ],
+    "rule_type": "condition",
+    "title": "Credit For Married Individuals Filing Separate Returns",
+    "text": "If the taxpayer is a married individual (within the meaning of section7703), this section shall apply only if the taxpayer and the taxpayer's spouse file a joint return for the taxable year.",
+    "conditions": [
+      "the taxpayer is a married individual (within the meaning of section7703), this section shall apply only",
+      "the taxpayer and the taxpayer's spouse file a joint return for the taxable year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the taxpayer is a married individual (within the meaning of section7703), this section shall apply only",
+        "the taxpayer and the taxpayer's spouse file a joint return for the taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "7703",
+        "reason": "vidual (within the meaning of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(g)(6)No Credit For Married Individuals Filing Separate Returns\u2014If  the taxpayer is a married individual (within the\n                     meaning of section7703),\n                     this section shall apply only if the taxpayer and the taxpayer's\n                     spouse  file a joint return for the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "25A",
+    "subsection": "(g)(7)",
+    "source_subsections": [
+      "(g)(7)"
+    ],
+    "rule_type": "condition",
+    "title": "Aliens",
+    "text": "If the taxpayer is a nonresident alien individual for any portion of the taxable year, this section shall apply only if such individual is treated as a resident alien of the United States for purposes of this chapter by reason of an election under subsection(g)or(h)of section6013.",
+    "conditions": [
+      "the taxpayer is a nonresident alien individual for any portion of the taxable year, this section shall apply only",
+      "such individual is treated as a resident alien of the United States for purposes of this chapter by reason of an election under subsection(g)or(h)of section6013."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the taxpayer is a nonresident alien individual for any portion of the taxable year, this section shall apply only",
+        "such individual is treated as a resident alien of the United States for purposes of this chapter by reason of an election under subsection(g)or(h)of section6013."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "6013",
+        "reason": "on under subsection(g)or(h)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(g)(7)Nonresident Aliens\u2014If  the taxpayer is a nonresident alien individual for\n                     any portion of the  taxable year, this section shall apply only if\n                     such individual is treated  as a resident alien of the United States\n                     for purposes of this chapter by  reason of an election under subsection(g)or(h)of section6013.",
+    "definitions": null
+  },
+  {
+    "section": "25A",
+    "subsection": "(g)(8)",
+    "source_subsections": [
+      "(g)(8)"
+    ],
+    "rule_type": "condition",
+    "title": "Statement Requirement",
+    "text": "Except as otherwise provided by the Secretary, no credit shall be allowed under this section unless the taxpayer receives a statement furnished under section6050S(d)which contains all of the information required by paragraph(2)thereof.",
+    "conditions": [
+      "the taxpayer receives a statement furnished under section6050S(d)which contains all of the information required by paragraph(2)thereof."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "the taxpayer receives a statement furnished under section6050S(d)which contains all of the information required by paragraph(2)thereof."
+      ],
+      "except": [
+        "as otherwise provided by the Secretary, no credit shall be allowed under this section"
+      ],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "6050S(d)",
+        "reason": "s a statement furnished under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(g)(8)Payee Statement Requirement\u2014Except as otherwise provided by the Secretary, no credit\n                     shall be allowed under this section unless the taxpayer receives a\n                     statement furnished under section6050S(d)which\n                     contains all of the information required by paragraph(2)thereof.",
+    "definitions": null
+  },
+  {
+    "section": "25A",
+    "subsection": "(h)",
+    "source_subsections": [
+      "(h)"
+    ],
+    "rule_type": "condition",
+    "title": "Adjustment [Repealed by P.L. 116",
+    "text": "260]",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "260]"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(h)Inflation Adjustment [Repealed by P.L. 116-260]",
+    "definitions": null
+  },
+  {
+    "section": "25A",
+    "subsection": "(i)",
+    "source_subsections": [
+      "(i)"
+    ],
+    "rule_type": "condition",
+    "title": "Of American Opportunity Tax Credit Made Refundable",
+    "text": "Forty percent of so much of the credit allowed under subsection (a) as is attributable to the American Opportunity Tax Credit (determined after application of subsection (d) and without regard to this paragraph and section26(a)) shall be treated as a credit allowable under subpart C (and not allowed under subsection (a)). The preceding sentence shall not apply to any taxpayer for any taxable year if such taxpayer is a child to whom subsection (g) of section1applies for such taxable year.",
+    "conditions": [
+      "such taxpayer is a child to whom subsection (g) of section1applies for such taxable year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such taxpayer is a child to whom subsection (g) of section1applies for such taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Forty percent of so much of the credit allowed under subsection (a) as is attributable to the American Opportunity Tax Credit (determined after application of subsection (d) and without regard to this paragraph and section26(a)) shall be treated as a credit allowable under subpart C (and not allowed under subsection (a)). The preceding sentence shall not apply to any taxpayer for any taxable year"
+    },
+    "cross_references": [
+      {
+        "section": "26(a)",
+        "reason": "regard to this paragraph and..."
+      },
+      {
+        "section": "1a",
+        "reason": "ild to whom subsection (g) of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(i)Portion Of American Opportunity Tax Credit Made Refundable\u2014Forty percent of so much of the credit allowed under\n                  subsection (a) as is attributable to the American Opportunity Tax\n                  Credit (determined after application of subsection (d) and without\n                  regard to this paragraph and section26(a))\n                  shall be treated as a credit allowable under subpart C (and not allowed\n                  under subsection (a)). The preceding sentence shall not apply to any\n                  taxpayer for any taxable year if such taxpayer is a child to whom\n                  subsection (g) of section1applies\n                  for such taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "25A",
+    "subsection": "(j)",
+    "source_subsections": [
+      "(j)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations providing for a recapture of the credit allowed under this section in cases where there is a refund in a subsequent taxable year of any amount which was taken into account in determining the amount of such credit.",
+    "conditions": [
+      "there is a refund in a subsequent taxable year of any amount which was taken into account in determining the amount of such credit."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "there is a refund in a subsequent taxable year of any amount which was taken into account in determining the amount of such credit."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations providing for a recapture of the credit allowed under this section in cases"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25A(j)Regulations\u2014The  Secretary may prescribe such regulations as may\n                  be necessary or  appropriate to carry out this section, including\n                  regulations providing for  a recapture of the credit allowed under\n                  this section in cases where there  is a refund in a subsequent taxable\n                  year of any amount which was taken  into account in determining the\n                  amount of such credit.",
+    "definitions": null
+  }
+]

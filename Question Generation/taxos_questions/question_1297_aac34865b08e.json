@@ -1,0 +1,22 @@
+{
+  "id": "aac34865b08e",
+  "section": "1297",
+  "citation": "I.R.C. \u00a7 1297(a)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1297(a) is discussed as follows: 'I.R.C. \u00a7 1297(a)In General\u2014For  purposes of this part, except as otherwise provided in this subpart,...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1297(a)?",
+  "difficulty": 1,
+  "choices": [
+    "85.0%",
+    "75.0%",
+    "65.0%",
+    "112.5%",
+    "25.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 75.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1297(a)"
+  ]
+}

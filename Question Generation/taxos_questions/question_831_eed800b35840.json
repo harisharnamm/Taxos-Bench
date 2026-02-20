@@ -1,0 +1,22 @@
+{
+  "id": "eed800b35840",
+  "section": "831",
+  "citation": "I.R.C. \u00a7 831(b)(2)(C)(ii)(I)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 831(b)(2)(C)(ii)(I) is discussed as follows: 'I.R.C. \u00a7 831(b)(2)(C)(ii)(I)\u2014\u201cmore than 50 percent\u201d shall be substituted for \u201cat\n                   ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 831(b)(2)(C)(ii)(I)?",
+  "difficulty": 1,
+  "choices": [
+    "70.0%",
+    "80.0%",
+    "90.0%",
+    "120.0%",
+    "20.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 80.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 831(b)(2)(C)(ii)(I)"
+  ]
+}

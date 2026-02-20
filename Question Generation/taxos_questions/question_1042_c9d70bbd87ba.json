@@ -1,0 +1,22 @@
+{
+  "id": "c9d70bbd87ba",
+  "section": "1042",
+  "citation": "I.R.C. \u00a7 1042(g)(4)(B)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1042(g)(4)(B) is discussed as follows: 'I.R.C. \u00a7 1042(g)(4)(B)\u2014subsection (b)(2) shall be applied by substituting \u201c100 percent\u201d for \u201c30 perc...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1042(g)(4)(B)?",
+  "difficulty": 1,
+  "choices": [
+    "70.0%",
+    "20.0%",
+    "40.0%",
+    "30.0%",
+    "45.0%"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies 30.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1042(g)(4)(B)"
+  ]
+}

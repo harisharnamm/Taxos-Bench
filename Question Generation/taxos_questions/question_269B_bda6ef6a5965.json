@@ -1,0 +1,21 @@
+{
+  "id": "bda6ef6a5965",
+  "section": "269B",
+  "citation": "I.R.C. \u00a7 269B(e)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 269B(e) is discussed as follows: 'I.R.C. \u00a7 269B(e)Subsection (a)(1) Not To Apply In Certain CasesI.R.C. \u00a7 269B(e)(1)In General\u2014Subsect...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 269B(e)?",
+  "difficulty": 1,
+  "choices": [
+    "50.0%",
+    "75.0%",
+    "60.0%",
+    "40.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 269B(e)"
+  ]
+}

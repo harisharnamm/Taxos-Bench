@@ -1,0 +1,22 @@
+{
+  "id": "85e57e1918b1",
+  "section": "144",
+  "citation": "I.R.C. \u00a7 144(a)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 144(a) is discussed as follows: 'I.R.C. \u00a7 144(a)Qualified Small Issue BondI.R.C. \u00a7 144(a)(1)In General\u2014For  purposes of this part, th...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 144(a)?",
+  "difficulty": 1,
+  "choices": [
+    "$500,000.00",
+    "$1,100,000.00",
+    "$900,000.00",
+    "$2,000,000.00",
+    "$1,000,000.00"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies $1,000,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 144(a)"
+  ]
+}

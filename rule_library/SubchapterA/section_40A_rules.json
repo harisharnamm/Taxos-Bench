@@ -1,0 +1,1235 @@
+[
+  {
+    "section": "40A",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)",
+      "(a)(1)",
+      "(a)(2)",
+      "(a)(3)"
+    ],
+    "rule_type": "computation",
+    "title": "Rule",
+    "text": "For purposes of section38, the biodiesel fuels credit determined under this section for the taxable year is an amount equal to the sum of\u2014\u2014the biodiesel mixture credit, plus\u2014the biodiesel credit, plus\u2014in the case of an eligible small agri-biodiesel producer, the small agri-biodiesel producer credit.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of section38, the biodiesel fuels credit determined under this section for the taxable year is an amount equal to the sum of\u2014\u2014the biodiesel mixture credit, plus\u2014the biodiesel credit, plus\u2014in the case of an eligible small agri-biodiesel producer, the small agri-biodiesel producer credit."
+    },
+    "cross_references": [
+      {
+        "section": "38",
+        "reason": "For purposes of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(a)General Rule\u2014For purposes of section38, the biodiesel fuels credit determined under this section for the taxable year is\n                  an amount equal to the sum of\u2014I.R.C. \u00a7 40A(a)(1)\u2014the biodiesel mixture credit, plusI.R.C. \u00a7 40A(a)(2)\u2014the biodiesel credit, plusI.R.C. \u00a7 40A(a)(3)\u2014in the case of an eligible small agri-biodiesel producer, the small agri-biodiesel\n                     producer credit.",
+    "definitions": null
+  },
+  {
+    "section": "40A",
+    "subsection": "(b)(1)(A)",
+    "source_subsections": [
+      "(b)(1)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The biodiesel mixture credit of any taxpayer for any taxable year is $1.00 for each gallon of biodiesel used by the taxpayer in the production of a qualified biodiesel mixture.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 1,
+        "text": "$1"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The biodiesel mixture credit of any taxpayer for any taxable year is $1.00 for each gallon of biodiesel used by the taxpayer in the production of a qualified biodiesel mixture."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(b)(1)(A)In General\u2014The biodiesel mixture credit of any taxpayer for any taxable year is $1.00 for each\n                        gallon of biodiesel used by the taxpayer in the production of a qualified biodiesel\n                        mixture.",
+    "definitions": null
+  },
+  {
+    "section": "40A",
+    "subsection": "(b)(1)(B)",
+    "source_subsections": [
+      "(b)(1)(B)",
+      "(b)(1)(B)(i)",
+      "(b)(1)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Biodiesel Mixture",
+    "text": "The term \u201cqualified biodiesel mixture\u201d means a mixture of biodiesel and diesel fuel (as defined in section4083(a)(3)), determined without regard to any use of kerosene, which\u2014\u2014is sold by the taxpayer producing such mixture to any person for use as a fuel, or\u2014is used as a fuel by the taxpayer producing such mixture.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified biodiesel mixture\u201d means a mixture of biodiesel and diesel fuel (as defined in section4083(a)(3)), determined without regard to any use of kerosene, which\u2014\u2014is sold by the taxpayer producing such mixture to any person for use as a fuel, or\u2014is used as a fuel by the taxpayer producing such mixture."
+    },
+    "cross_references": [
+      {
+        "section": "4083(a)(3)",
+        "reason": "nd diesel fuel (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(b)(1)(B)Qualified Biodiesel Mixture-\u2014The term \u201cqualified biodiesel mixture\u201d means a mixture of biodiesel and diesel fuel\n                        (as defined in section4083(a)(3)), determined without regard to any use of kerosene, which\u2014I.R.C. \u00a7 40A(b)(1)(B)(i)\u2014is sold by the taxpayer producing such mixture to any person for use as a fuel, orI.R.C. \u00a7 40A(b)(1)(B)(ii)\u2014is used as a fuel by the taxpayer producing such mixture.",
+    "definitions": {
+      "term": "qualified biodiesel mixture",
+      "requirements": [
+        "a mixture of biodiesel and diesel fuel (as defined in section4083(a)(3)), determined without regard to any use of kerosene, which\u2014\u2014is sold by the taxpayer producing such mixture to any person for use as a fuel, or\u2014is used as a fuel by the taxpayer producing such mixture."
+      ]
+    }
+  },
+  {
+    "section": "40A",
+    "subsection": "(b)(1)(C)",
+    "source_subsections": [
+      "(b)(1)(C)",
+      "(b)(1)(C)(i)",
+      "(b)(1)(C)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Or Use Must Be In Trade Or Business, Etc.",
+    "text": "Biodiesel used in the production of a qualified biodiesel mixture shall be taken into account\u2014\u2014only if the sale or use described in subparagraph(B)is in a trade or business of the taxpayer, and\u2014for the taxable year in which such sale or use occurs.",
+    "conditions": [
+      "the sale or use described in subparagraph(B)is in a trade or business of the taxpayer, and\u2014for the taxable year in which such sale or use occurs."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the sale or use described in subparagraph(B)is in a trade or business of the taxpayer, and\u2014for the taxable year in which such sale or use occurs."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Biodiesel used in the production of a qualified biodiesel mixture shall be taken into account\u2014\u2014only"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(b)(1)(C)Sale Or Use Must Be In Trade Or Business, Etc.\u2014Biodiesel used in the production of a qualified biodiesel mixture shall be taken into\n                        account\u2014I.R.C. \u00a7 40A(b)(1)(C)(i)\u2014only if the sale or use described in subparagraph(B)is in a trade or business of the taxpayer, andI.R.C. \u00a7 40A(b)(1)(C)(ii)\u2014for the taxable year in which such sale or use occurs.",
+    "definitions": null
+  },
+  {
+    "section": "40A",
+    "subsection": "(b)(1)(D)",
+    "source_subsections": [
+      "(b)(1)(D)"
+    ],
+    "rule_type": "condition",
+    "title": "Off",
+    "text": "Farm Production Not Eligible\u2014No credit shall be allowed under this section with respect to any casual off-farm production of a qualified biodiesel mixture.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Farm Production Not Eligible\u2014No credit shall be allowed under this section with respect to any casual off-farm production of a qualified biodiesel mixture."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(b)(1)(D)Casual Off-Farm Production Not Eligible\u2014No credit shall be allowed under this section with respect to any casual off-farm\n                        production of a qualified biodiesel mixture.",
+    "definitions": null
+  },
+  {
+    "section": "40A",
+    "subsection": "(b)(2)(A)",
+    "source_subsections": [
+      "(b)(2)(A)",
+      "(b)(2)(A)(i)",
+      "(b)(2)(A)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The biodiesel credit of any taxpayer for any taxable year is $1.00 for each gallon of biodiesel which is not in a mixture with diesel fuel and which during the taxable year\u2014\u2014is used by the taxpayer as a fuel in a trade or business, or\u2014is sold by the taxpayer at retail to a person and placed in the fuel tank of such person's vehicle.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 1,
+        "text": "$1"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The biodiesel credit of any taxpayer for any taxable year is $1.00 for each gallon of biodiesel which is not in a mixture with diesel fuel and which during the taxable year\u2014\u2014is used by the taxpayer as a fuel in a trade or business, or\u2014is sold by the taxpayer at retail to a person and placed in the fuel tank of such person's vehicle."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(b)(2)(A)In General\u2014The biodiesel credit of any taxpayer for any taxable year is $1.00 for each gallon\n                        of biodiesel which is not in a mixture with diesel fuel and which during the taxable\n                        year\u2014I.R.C. \u00a7 40A(b)(2)(A)(i)\u2014is used by the taxpayer as a fuel in a trade or business, orI.R.C. \u00a7 40A(b)(2)(A)(ii)\u2014is sold by the taxpayer at retail to a person and placed in the fuel tank of such\n                           person's vehicle.",
+    "definitions": null
+  },
+  {
+    "section": "40A",
+    "subsection": "(b)(2)(B)",
+    "source_subsections": [
+      "(b)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Credit Not To Apply To Biodiesel Sold At Retail",
+    "text": "No credit shall be allowed under subparagraph(A)(i)with respect to any biodiesel which was sold in a retail sale described in subparagraph(A)(ii).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be allowed under subparagraph(A)(i)with respect to any biodiesel which was sold in a retail sale described in subparagraph(A)(ii)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(b)(2)(B)User Credit Not To Apply To Biodiesel Sold At Retail\u2014No credit shall be allowed under subparagraph(A)(i)with respect to any biodiesel which was sold in a retail sale described in subparagraph(A)(ii).",
+    "definitions": null
+  },
+  {
+    "section": "40A",
+    "subsection": "(b)(3)",
+    "source_subsections": [
+      "(b)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "For Biodiesel",
+    "text": "No credit shall be allowed under paragraph(1)or(2)of subsection(a)unless the taxpayer obtains a certification (in such form and manner as prescribed by the Secretary) from the producer or importer of the biodiesel which identifies the product produced and the percentage of biodiesel and agri-biodiesel in the product.",
+    "conditions": [
+      "the taxpayer obtains a certification (in such form and manner as prescribed by the Secretary) from the producer or importer of the biodiesel which identifies the product produced and the percentage of biodiesel and agri-biodiesel in the product."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "the taxpayer obtains a certification (in such form and manner as prescribed by the Secretary) from the producer or importer of the biodiesel which identifies the product produced and the percentage of biodiesel and agri-biodiesel in the product."
+      ],
+      "except": [],
+      "result": "No credit shall be allowed under paragraph(1)or(2)of subsection(a)"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(b)(3)Certification For Biodiesel\u2014No credit shall be allowed under paragraph(1)or(2)of subsection(a)unless the taxpayer obtains a certification (in such form and manner as prescribed\n                     by the Secretary) from the producer or importer of the biodiesel which identifies\n                     the product produced and the percentage of biodiesel and agri-biodiesel in the product.",
+    "definitions": null
+  },
+  {
+    "section": "40A",
+    "subsection": "(b)(4)(A)",
+    "source_subsections": [
+      "(b)(4)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The small agri-biodiesel producer credit of any eligible small agri-biodiesel producer for any taxable year is 20 cents for each gallon of qualified agri-biodiesel production of such producer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The small agri-biodiesel producer credit of any eligible small agri-biodiesel producer for any taxable year is 20 cents for each gallon of qualified agri-biodiesel production of such producer."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(b)(4)(A)In General\u2014The small agri-biodiesel producer credit of any eligible small agri-biodiesel producer\n                        for any taxable year is 20 cents for each gallon of qualified agri-biodiesel production\n                        of such producer.",
+    "definitions": null
+  },
+  {
+    "section": "40A",
+    "subsection": "(b)(4)(B)",
+    "source_subsections": [
+      "(b)(4)(B)",
+      "(b)(4)(B)(i)",
+      "(b)(4)(B)(i)(I)",
+      "(b)(4)(B)(i)(II)",
+      "(b)(4)(B)(i)(III)",
+      "(b)(4)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Agri",
+    "text": "Biodiesel Production\u2014For purposes of this paragraph, the term \u201cqualified agri-biodiesel production\u201d means any agri-biodiesel which is produced by an eligible small agri-biodiesel producer in a manner which complies with the requirements undersection 45Z(f)(1)(A)(iii), and which during the taxable year\u2014\u2014is sold by such producer to another person\u2014\u2014for use by such other person in the production of a qualified biodiesel mixture in such other person's trade or business (other than casual off-farm production),\u2014for use by such other person as a fuel in a trade or business, or\u2014who sells such agri-biodiesel at retail to another person and places such agri-biodiesel in the fuel tank of such other person, or\u2014is used or sold by such producer for any purpose described in clause (i).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Biodiesel Production\u2014For purposes of this paragraph, the term \u201cqualified agri-biodiesel production\u201d means any agri-biodiesel which is produced by an eligible small agri-biodiesel producer in a manner which complies with the requirements undersection 45Z(f)(1)(A)(iii), and which during the taxable year\u2014\u2014is sold by such producer to another person\u2014\u2014for use by such other person in the production of a qualified biodiesel mixture in such other person's trade or business (other than casual off-farm production),\u2014for use by such other person as a fuel in a trade or business, or\u2014who sells such agri-biodiesel at retail to another person and places such agri-biodiesel in the fuel tank of such other person, or\u2014is used or sold by such producer for any purpose described in clause (i)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(b)(4)(B)Qualified Agri-Biodiesel Production\u2014For purposes of this paragraph, the term \u201cqualified agri-biodiesel production\u201d means\n                        any agri-biodiesel which is produced by an eligible small agri-biodiesel producer\n                        in a manner which complies with the requirements undersection 45Z(f)(1)(A)(iii), and which during the taxable year\u2014I.R.C. \u00a7 40A(b)(4)(B)(i)\u2014is sold by such producer to another person\u2014I.R.C. \u00a7 40A(b)(4)(B)(i)(I)\u2014for use by such other person in the production of a qualified biodiesel mixture in\n                              such other person's trade or business (other than casual off-farm production),I.R.C. \u00a7 40A(b)(4)(B)(i)(II)\u2014for use by such other person as a fuel in a trade or business, orI.R.C. \u00a7 40A(b)(4)(B)(i)(III)\u2014who sells such agri-biodiesel at retail to another person and places such agri-biodiesel\n                              in the fuel tank of such other person, orI.R.C. \u00a7 40A(b)(4)(B)(ii)\u2014is used or sold by such producer for any purpose described in clause (i).",
+    "definitions": {
+      "term": "qualified agri-biodiesel production",
+      "requirements": [
+        "any agri-biodiesel which is produced by an eligible small agri-biodiesel producer in a manner which complies with the requirements undersection 45Z(f)(1)(A)(iii), and which during the taxable year\u2014\u2014is sold by such producer to another person\u2014\u2014for use by such other person in the production of a qualified biodiesel mixture in such other person's trade or business (other than casual off-farm production),\u2014for use by such other person as a fuel in a trade or business, or\u2014who sells such agri-biodiesel at retail to another person and places such agri-biodiesel in the fuel tank of such other person, or\u2014is used or sold by such producer for any purpose described in clause (i)."
+      ]
+    }
+  },
+  {
+    "section": "40A",
+    "subsection": "(b)(4)(C)",
+    "source_subsections": [
+      "(b)(4)(C)"
+    ],
+    "rule_type": "limitation",
+    "title": null,
+    "text": "The qualified agri-biodiesel production of any producer for any taxable year shall not exceed 15,000,000 gallons.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The qualified agri-biodiesel production of any producer for any taxable year shall not exceed 15,000,000 gallons."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(b)(4)(C)Limitation\u2014The qualified agri-biodiesel production of any producer for any taxable year shall\n                        not exceed 15,000,000 gallons.",
+    "definitions": null
+  },
+  {
+    "section": "40A",
+    "subsection": "(b)(4)(D)",
+    "source_subsections": [
+      "(b)(4)(D)"
+    ],
+    "rule_type": "condition",
+    "title": "With Clean Fuel Production Credit",
+    "text": "The credit determined under this paragraph with respect to any gallon of fuel shall be in addition to any credit determined undersection 45Zwith respect to such gallon of fuel.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The credit determined under this paragraph with respect to any gallon of fuel shall be in addition to any credit determined undersection 45Zwith respect to such gallon of fuel."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(b)(4)(D)Coordination With Clean Fuel Production Credit\u2014The credit determined under this paragraph with respect to any gallon of fuel shall\n                        be in addition to any credit determined undersection 45Zwith respect to such gallon of fuel.",
+    "definitions": null
+  },
+  {
+    "section": "40A",
+    "subsection": "(c)",
+    "source_subsections": [
+      "(c)"
+    ],
+    "rule_type": "condition",
+    "title": "With Credit Against Excise Tax",
+    "text": "The amount of the credit determined under this section with respect to any biodiesel shall be properly reduced to take into account any benefit provided with respect to such biodiesel solely by reason of the application of section6426or6427(e).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of the credit determined under this section with respect to any biodiesel shall be properly reduced to take into account any benefit provided with respect to such biodiesel solely by reason of the application of section6426or6427(e)."
+    },
+    "cross_references": [
+      {
+        "section": "6426o",
+        "reason": "reason of the application of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(c)Coordination With Credit Against Excise Tax\u2014The amount of the credit determined under this section with respect to any biodiesel\n                  shall be properly reduced to take into account any benefit provided with respect to\n                  such biodiesel solely by reason of the application of section6426or6427(e).",
+    "definitions": null
+  },
+  {
+    "section": "40A",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)",
+      "(d)(1)(A)",
+      "(d)(1)(B)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "The term \u201cbiodiesel\u201d means the monoalkyl esters of long chain fatty acids derived from plant or animal matter which meet\u2014\u2014the registration requirements for fuels and fuel additives established by the Environmental Protection Agency under section 211 of the Clean Air Act (42 U.S.C. 7545), and\u2014the requirements of the American Society of Testing and Materials D6751.Such term shall not include any liquid with respect to which a credit may be determined under section40or40B.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cbiodiesel\u201d means the monoalkyl esters of long chain fatty acids derived from plant or animal matter which meet\u2014\u2014the registration requirements for fuels and fuel additives established by the Environmental Protection Agency under section 211 of the Clean Air Act (42 U.S.C. 7545), and\u2014the requirements of the American Society of Testing and Materials D6751.Such term shall not include any liquid with respect to which a credit may be determined under section40or40B."
+    },
+    "cross_references": [
+      {
+        "section": "211",
+        "reason": "ental Protection Agency under..."
+      },
+      {
+        "section": "40o",
+        "reason": "redit may be determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(d)(1)Biodiesel\u2014The term \u201cbiodiesel\u201d means the monoalkyl esters of long chain fatty acids derived\n                     from plant or animal matter which meet\u2014I.R.C. \u00a7 40A(d)(1)(A)\u2014the registration requirements for fuels and fuel additives established by the Environmental\n                        Protection Agency under section 211 of the Clean Air Act (42 U.S.C. 7545), andI.R.C. \u00a7 40A(d)(1)(B)\u2014the requirements of the American Society of Testing and Materials D6751.Such term shall not include any liquid with respect to which a credit may be determined\n                        under section40or40B.",
+    "definitions": {
+      "term": "biodiesel",
+      "requirements": [
+        "the monoalkyl esters of long chain fatty acids derived from plant or animal matter which meet\u2014\u2014the registration requirements for fuels and fuel additives established by the Environmental Protection Agency under section 211 of the Clean Air Act (42 U.S.C. 7545), and\u2014the requirements of the American Society of Testing and Materials D6751.Such term shall not include any liquid with respect to which a credit may be determined under section40or40B."
+      ]
+    }
+  },
+  {
+    "section": "40A",
+    "subsection": "(d)(2)",
+    "source_subsections": [
+      "(d)(2)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "The term \u201cagri-biodiesel\u201d means biodiesel derived solely from virgin oils, including esters derived from virgin vegetable oils from corn, soybeans, sunflower seeds, cottonseeds, canola, crambe, rapeseeds, safflowers, flaxseeds, rice bran, mustard seeds, and camelina, and from animal fats.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cagri-biodiesel\u201d means biodiesel derived solely from virgin oils, including esters derived from virgin vegetable oils from corn, soybeans, sunflower seeds, cottonseeds, canola, crambe, rapeseeds, safflowers, flaxseeds, rice bran, mustard seeds, and camelina, and from animal fats."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(d)(2)Agri-Biodiesel\u2014The term \u201cagri-biodiesel\u201d means biodiesel derived solely from virgin oils, including\n                     esters derived from virgin vegetable oils from corn, soybeans, sunflower seeds, cottonseeds,\n                     canola, crambe, rapeseeds, safflowers, flaxseeds, rice bran, mustard seeds, and camelina,\n                     and from animal fats.",
+    "definitions": {
+      "term": "agri-biodiesel",
+      "requirements": [
+        "biodiesel derived solely from virgin oils, including esters derived from virgin vegetable oils from corn, soybeans, sunflower seeds, cottonseeds, canola, crambe, rapeseeds, safflowers, flaxseeds, rice bran, mustard seeds, and camelina, and from animal fats."
+      ]
+    }
+  },
+  {
+    "section": "40A",
+    "subsection": "(d)(3)(A)",
+    "source_subsections": [
+      "(d)(3)(A)",
+      "(d)(3)(A)(i)",
+      "(d)(3)(A)(ii)",
+      "(d)(3)(A)(ii)(I)",
+      "(d)(3)(A)(ii)(II)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "If\u2014\u2014any credit was determined under this section with respect to biodiesel used in the production of any qualified biodiesel mixture, and\u2014any person\u2014\u2014separates the biodiesel from the mixture, or\u2014without separation, uses the mixture other than as a fuel,then there is hereby imposed on such person a tax equal to the product of the rate applicable under subsection(b)(1)(A)and the number of gallons of such biodiesel in such mixture.",
+    "conditions": [
+      "\u2014\u2014any credit was determined under this section with respect to biodiesel used in the production of any qualified biodiesel mixture, and\u2014any person\u2014\u2014separates the biodiesel from the mixture, or\u2014without separation, uses the mixture other than as a fuel,then there is hereby imposed on such person a tax equal to the product of the rate applicable under subsection(b)(1)(A)and the number of gallons of such biodiesel in such mixture."
+    ],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014any credit was determined under this section with respect to biodiesel used in the production of any qualified biodiesel mixture, and\u2014any person\u2014\u2014separates the biodiesel from the mixture, or\u2014without separation, uses the mixture other than as a fuel,then there is hereby imposed on such person a tax equal to the product of the rate applicable under subsection(b)(1)(A)and the number of gallons of such biodiesel in such mixture."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(d)(3)(A)Mixtures\u2014If\u2014I.R.C. \u00a7 40A(d)(3)(A)(i)\u2014any credit was determined under this section with respect to biodiesel used in the\n                           production of any qualified biodiesel mixture, andI.R.C. \u00a7 40A(d)(3)(A)(ii)\u2014any person\u2014I.R.C. \u00a7 40A(d)(3)(A)(ii)(I)\u2014separates the biodiesel from the mixture, orI.R.C. \u00a7 40A(d)(3)(A)(ii)(II)\u2014without separation, uses the mixture other than as a fuel,then there is hereby imposed on such person a tax equal to the product of the rate\n                           applicable under subsection(b)(1)(A)and the number of gallons of such biodiesel in such mixture.",
+    "definitions": null
+  },
+  {
+    "section": "40A",
+    "subsection": "(d)(3)(B)",
+    "source_subsections": [
+      "(d)(3)(B)",
+      "(d)(3)(B)(i)",
+      "(d)(3)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "If\u2014\u2014any credit was determined under this section with respect to the retail sale of any biodiesel, and\u2014any person mixes such biodiesel or uses such biodiesel other than as a fuel,then there is hereby imposed on such person a tax equal to the product of the rate applicable under subsection(b)(2)(A)and the number of gallons of such biodiesel.",
+    "conditions": [
+      "\u2014\u2014any credit was determined under this section with respect to the retail sale of any biodiesel, and\u2014any person mixes such biodiesel or uses such biodiesel other than as a fuel,then there is hereby imposed on such person a tax equal to the product of the rate applicable under subsection(b)(2)(A)and the number of gallons of such biodiesel."
+    ],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014any credit was determined under this section with respect to the retail sale of any biodiesel, and\u2014any person mixes such biodiesel or uses such biodiesel other than as a fuel,then there is hereby imposed on such person a tax equal to the product of the rate applicable under subsection(b)(2)(A)and the number of gallons of such biodiesel."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(d)(3)(B)Biodiesel\u2014If\u2014I.R.C. \u00a7 40A(d)(3)(B)(i)\u2014any credit was determined under this section with respect to the retail sale of any\n                           biodiesel, andI.R.C. \u00a7 40A(d)(3)(B)(ii)\u2014any person mixes such biodiesel or uses such biodiesel other than as a fuel,then there is hereby imposed on such person a tax equal to the product of the rate\n                           applicable under subsection(b)(2)(A)and the number of gallons of such biodiesel.",
+    "definitions": null
+  },
+  {
+    "section": "40A",
+    "subsection": "(d)(3)(C)",
+    "source_subsections": [
+      "(d)(3)(C)",
+      "(d)(3)(C)(i)",
+      "(d)(3)(C)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Credit",
+    "text": "If\u2014\u2014any credit was determined under subsection(a)(3), and\u2014any person does not use such fuel for a purpose described in subsection(b)(4)(B),then there is hereby imposed on such person a tax equal to 10 cents a gallon for each gallon of such agri-biodiesel.",
+    "conditions": [
+      "\u2014\u2014any credit was determined under subsection(a)(3), and\u2014any person does not use such fuel for a purpose described in subsection(b)(4)(B),then there is hereby imposed on such person a tax equal to 10 cents a gallon for each gallon of such agri-biodiesel."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014any credit was determined under subsection(a)(3), and\u2014any person does not use such fuel for a purpose described in subsection(b)(4)(B),then there is hereby imposed on such person a tax equal to 10 cents a gallon for each gallon of such agri-biodiesel."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(d)(3)(C)Producer Credit\u2014If\u2014I.R.C. \u00a7 40A(d)(3)(C)(i)\u2014any credit was determined under subsection(a)(3), andI.R.C. \u00a7 40A(d)(3)(C)(ii)\u2014any person does not use such fuel for a purpose described in subsection(b)(4)(B),then there is hereby imposed on such person a tax equal to 10 cents a gallon for each\n                           gallon of such agri-biodiesel.",
+    "definitions": null
+  },
+  {
+    "section": "40A",
+    "subsection": "(d)(3)(D)",
+    "source_subsections": [
+      "(d)(3)(D)"
+    ],
+    "rule_type": "condition",
+    "title": "Laws",
+    "text": "All provisions of law, including penalties, shall, insofar as applicable and not inconsistent with this section, apply in respect of any tax imposed under subparagraph(A)or(B)as if such tax were imposed by section4081and not by this chapter.",
+    "conditions": [
+      "such tax were imposed by section4081and not by this chapter."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such tax were imposed by section4081and not by this chapter."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "All provisions of law, including penalties, shall, insofar as applicable and not inconsistent with this section, apply in respect of any tax imposed under subparagraph(A)or(B)as"
+    },
+    "cross_references": [
+      {
+        "section": "4081a",
+        "reason": "s if such tax were imposed by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(d)(3)(D)Applicable Laws\u2014All provisions of law, including penalties, shall, insofar as applicable and not inconsistent\n                        with this section, apply in respect of any tax imposed under subparagraph(A)or(B)as if such tax were imposed by section4081and not by this chapter.",
+    "definitions": null
+  },
+  {
+    "section": "40A",
+    "subsection": "(d)(4)",
+    "source_subsections": [
+      "(d)(4)"
+    ],
+    "rule_type": "condition",
+    "title": "In The Case Of Estates And Trusts",
+    "text": "Under regulations prescribed by the Secretary, rules similar to the rules of subsection(d)of section52shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Under regulations prescribed by the Secretary, rules similar to the rules of subsection(d)of section52shall apply."
+    },
+    "cross_references": [
+      {
+        "section": "52s",
+        "reason": "the rules of subsection(d)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(d)(4)Pass-Thru In The Case Of Estates And Trusts\u2014Under regulations prescribed by the Secretary, rules similar to the rules of subsection(d)of section52shall apply.",
+    "definitions": null
+  },
+  {
+    "section": "40A",
+    "subsection": "(d)(5)",
+    "source_subsections": [
+      "(d)(5)"
+    ],
+    "rule_type": "definition",
+    "title": "To Biodiesel With Connection To The United States",
+    "text": "No credit shall be determined under this section with respect to any biodiesel which is produced outside the United States for use as a fuel outside the United States. For purposes of this paragraph, the term \u201cUnited States\u201d includes any possession of the United States.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be determined under this section with respect to any biodiesel which is produced outside the United States for use as a fuel outside the United States. For purposes of this paragraph, the term \u201cUnited States\u201d includes any possession of the United States."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(d)(5)Limitation To Biodiesel With Connection To The United States\u2014No credit shall be determined under this section with respect to any biodiesel which\n                     is produced outside the United States for use as a fuel outside the United States.\n                     For purposes of this paragraph, the term \u201cUnited States\u201d includes any possession of\n                     the United States.",
+    "definitions": null
+  },
+  {
+    "section": "40A",
+    "subsection": "(e)(1)",
+    "source_subsections": [
+      "(e)(1)"
+    ],
+    "rule_type": "definition",
+    "title": "Small Agri",
+    "text": "Biodiesel Producer\u2014The term \u201celigible small agri-biodiesel producer\u201d means a person who, at all times during the taxable year, has a productive capacity for agri-biodiesel not in excess of 60,000,000 gallons.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Biodiesel Producer\u2014The term \u201celigible small agri-biodiesel producer\u201d means a person who, at all times during the taxable year, has a productive capacity for agri-biodiesel not in excess of 60,000,000 gallons."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(e)(1)Eligible Small Agri-Biodiesel Producer\u2014The term \u201celigible small agri-biodiesel producer\u201d means a person who, at all times\n                     during the taxable year, has a productive capacity for agri-biodiesel not in excess\n                     of 60,000,000 gallons.",
+    "definitions": {
+      "term": "eligible small agri-biodiesel producer",
+      "requirements": [
+        "a person who, at all times during the taxable year, has a productive capacity for agri-biodiesel not in excess of 60,000,000 gallons."
+      ]
+    }
+  },
+  {
+    "section": "40A",
+    "subsection": "(e)(2)",
+    "source_subsections": [
+      "(e)(2)"
+    ],
+    "rule_type": "limitation",
+    "title": "Rule",
+    "text": "For purposes of the 15,000,000 gallon limitation under subsection(b)(4)(C)and the 60,000,000 gallon limitation under paragraph(1), all members of the same controlled group of corporations (within the meaning of section267(f)) and all persons under common control (within the meaning of section52(b)but determined by treating an interest of more than 50 percent as a controlling interest) shall be treated as 1 person.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of the 15,000,000 gallon limitation under subsection(b)(4)(C)and the 60,000,000 gallon limitation under paragraph(1), all members of the same controlled group of corporations (within the meaning of section267(f)) and all persons under common control (within the meaning of section52(b)but determined by treating an interest of more than 50 percent as a controlling interest) shall be treated as 1 person."
+    },
+    "cross_references": [
+      {
+        "section": "267(f)",
+        "reason": "ations (within the meaning of..."
+      },
+      {
+        "section": "52(b)",
+        "reason": "ontrol (within the meaning of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(e)(2)Aggregation Rule\u2014For purposes of the 15,000,000 gallon limitation under subsection(b)(4)(C)and the 60,000,000 gallon limitation under paragraph(1), all members of the same controlled group of corporations (within the meaning of\n                     section267(f)) and all persons under common control (within the meaning of section52(b)but determined by treating an interest of more than 50 percent as a controlling interest)\n                     shall be treated as 1 person.",
+    "definitions": null
+  },
+  {
+    "section": "40A",
+    "subsection": "(e)(3)",
+    "source_subsections": [
+      "(e)(3)"
+    ],
+    "rule_type": "condition",
+    "title": ", S Corporation, And Other Pass",
+    "text": "Thru Entities\u2014In the case of a partnership, trust, S corporation, or other pass-thru entity, the limitations contained in subsection(b)(4)(C)and paragraph(1)shall be applied at the entity level and at the partner or similar level.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Thru Entities\u2014In the case of a partnership, trust, S corporation, or other pass-thru entity, the limitations contained in subsection(b)(4)(C)and paragraph(1)shall be applied at the entity level and at the partner or similar level."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(e)(3)Partnership, S Corporation, And Other Pass-Thru Entities\u2014In the case of a partnership, trust, S corporation, or other pass-thru entity, the\n                     limitations contained in subsection(b)(4)(C)and paragraph(1)shall be applied at the entity level and at the partner or similar level.",
+    "definitions": null
+  },
+  {
+    "section": "40A",
+    "subsection": "(e)(4)",
+    "source_subsections": [
+      "(e)(4)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "For purposes of this subsection, in the case of a facility in which more than 1 person has an interest, productive capacity shall be allocated among such persons in such manner as the Secretary may prescribe.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection, in the case of a facility in which more than 1 person has an interest, productive capacity shall be allocated among such persons in such manner as the Secretary may prescribe."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(e)(4)Allocation\u2014For purposes of this subsection, in the case of a facility in which more than 1 person\n                     has an interest, productive capacity shall be allocated among such persons in such\n                     manner as the Secretary may prescribe.",
+    "definitions": null
+  },
+  {
+    "section": "40A",
+    "subsection": "(e)(5)",
+    "source_subsections": [
+      "(e)(5)",
+      "(e)(5)(A)",
+      "(e)(5)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The Secretary may prescribe such regulations as may be necessary\u2014\u2014to prevent the credit provided for in subsection(a)(3)from directly or indirectly benefiting any person with a direct or indirect productive capacity of more than 60,000,000 gallons of agri-biodiesel during the taxable year, or\u2014to prevent any person from directly or indirectly benefiting with respect to more than 15,000,000 gallons during the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary may prescribe such regulations as may be necessary\u2014\u2014to prevent the credit provided for in subsection(a)(3)from directly or indirectly benefiting any person with a direct or indirect productive capacity of more than 60,000,000 gallons of agri-biodiesel during the taxable year, or\u2014to prevent any person from directly or indirectly benefiting with respect to more than 15,000,000 gallons during the taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(e)(5)Regulations\u2014The Secretary may prescribe such regulations as may be necessary\u2014I.R.C. \u00a7 40A(e)(5)(A)\u2014to prevent the credit provided for in subsection(a)(3)from directly or indirectly benefiting any person with a direct or indirect productive\n                        capacity of more than 60,000,000 gallons of agri-biodiesel during the taxable year,\n                        orI.R.C. \u00a7 40A(e)(5)(B)\u2014to prevent any person from directly or indirectly benefiting with respect to more\n                        than 15,000,000 gallons during the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "40A",
+    "subsection": "(e)(6)(A)(i)",
+    "source_subsections": [
+      "(e)(6)(A)(i)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "In the case of a cooperative organization described in section1381(a), any portion of the credit determined under subsection(a)(3)for the taxable year may, at the election of the organization, be apportioned pro rata among patrons of the organization on the basis of the quantity or value of business done with or for such patrons for the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a cooperative organization described in section1381(a), any portion of the credit determined under subsection(a)(3)for the taxable year may, at the election of the organization, be apportioned pro rata among patrons of the organization on the basis of the quantity or value of business done with or for such patrons for the taxable year."
+    },
+    "cross_references": [
+      {
+        "section": "1381(a)",
+        "reason": "ive organization described in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(e)(6)(A)(i)In General\u2014In the case of a cooperative organization described in section1381(a), any portion of the credit determined under subsection(a)(3)for the taxable year may, at the election of the organization, be apportioned pro\n                           rata among patrons of the organization on the basis of the quantity or value of business\n                           done with or for such patrons for the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "40A",
+    "subsection": "(e)(6)(A)(ii)",
+    "source_subsections": [
+      "(e)(6)(A)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "And Effect Of Election",
+    "text": "An election under clause(i)for any taxable year shall be made on a timely filed return for such year. Such election, once made, shall be irrevocable for such taxable year. Such election shall not take effect unless the organization designates the apportionment as such in a written notice mailed to its patrons during the payment period described in section1382(d).",
+    "conditions": [
+      "the organization designates the apportionment as such in a written notice mailed to its patrons during the payment period described in section1382(d)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "the organization designates the apportionment as such in a written notice mailed to its patrons during the payment period described in section1382(d)."
+      ],
+      "except": [],
+      "result": "An election under clause(i)for any taxable year shall be made on a timely filed return for such year. Such election, once made, shall be irrevocable for such taxable year. Such election shall not take effect"
+    },
+    "cross_references": [
+      {
+        "section": "1382(d)",
+        "reason": "e payment period described in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(e)(6)(A)(ii)Form And Effect Of Election\u2014An election under clause(i)for any taxable year shall be made on a timely filed return for such year. Such election,\n                           once made, shall be irrevocable for such taxable year. Such election shall not take\n                           effect unless the organization designates the apportionment as such in a written notice\n                           mailed to its patrons during the payment period described in section1382(d).",
+    "definitions": null
+  },
+  {
+    "section": "40A",
+    "subsection": "(e)(6)(B)(i)",
+    "source_subsections": [
+      "(e)(6)(B)(i)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The amount of the credit not apportioned to patrons pursuant to subparagraph(A)shall be included in the amount determined under subsection(a)(3)for the taxable year of the organization.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of the credit not apportioned to patrons pursuant to subparagraph(A)shall be included in the amount determined under subsection(a)(3)for the taxable year of the organization."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(e)(6)(B)(i)Organizations\u2014The amount of the credit not apportioned to patrons pursuant to subparagraph(A)shall be included in the amount determined under subsection(a)(3)for the taxable year of the organization.",
+    "definitions": null
+  },
+  {
+    "section": "40A",
+    "subsection": "(e)(6)(B)(ii)",
+    "source_subsections": [
+      "(e)(6)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "The amount of the credit apportioned to patrons pursuant to subparagraph(A)shall be included in the amount determined under such subsection for the first taxable year of each patron ending on or after the last day of the payment period (as defined in section1382(d)) for the taxable year of the organization or, if earlier, for the taxable year of each patron ending on or after the date on which the patron receives notice from the cooperative of the apportionment.",
+    "conditions": [
+      "earlier, for the taxable year of each patron ending on or after the date on which the patron receives notice from the cooperative of the apportionment."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "earlier, for the taxable year of each patron ending on or after the date on which the patron receives notice from the cooperative of the apportionment."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of the credit apportioned to patrons pursuant to subparagraph(A)shall be included in the amount determined under such subsection for the first taxable year of each patron ending on or after the last day of the payment period (as defined in section1382(d)) for the taxable year of the organization or,"
+    },
+    "cross_references": [
+      {
+        "section": "1382(d)",
+        "reason": "payment period (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(e)(6)(B)(ii)Patrons\u2014The amount of the credit apportioned to patrons pursuant to subparagraph(A)shall be included in the amount determined under such subsection for the first taxable\n                           year of each patron ending on or after the last day of the payment period (as defined\n                           in section1382(d)) for the taxable year of the organization or, if earlier, for the taxable year of\n                           each patron ending on or after the date on which the patron receives notice from the\n                           cooperative of the apportionment.",
+    "definitions": null
+  },
+  {
+    "section": "40A",
+    "subsection": "(e)(6)(B)(iii)",
+    "source_subsections": [
+      "(e)(6)(B)(iii)",
+      "(e)(6)(B)(iii)(I)",
+      "(e)(6)(B)(iii)(II)"
+    ],
+    "rule_type": "condition",
+    "title": "Rules For Decrease In Credits For Taxable Year",
+    "text": "If the amount of the credit of the organization determined under such subsection for a taxable year is less than the amount of such credit shown on the return of the organization for such year, an amount equal to the excess of\u2014\u2014such reduction, over\u2014the amount not apportioned to such patrons under subparagraph(A)for the taxable year,shall be treated as an increase in tax imposed by this chapter on the organization. Such increase shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit under this chapter or for purposes of section55.",
+    "conditions": [
+      "the amount of the credit of the organization determined under such subsection for a taxable year is less than the amount of such credit shown on the return of the organization for such year, an amount equal to the excess of\u2014\u2014such reduction, over\u2014the amount not apportioned to such patrons under subparagraph(A)for the taxable year,shall be treated as an increase in tax imposed by this chapter on the organization. Such increase shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit under this chapter or for purposes of section55."
+    ],
+    "computations": [
+      {
+        "operation": "subtraction",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the amount of the credit of the organization determined under such subsection for a taxable year is less than the amount of such credit shown on the return of the organization for such year, an amount equal to the excess of\u2014\u2014such reduction, over\u2014the amount not apportioned to such patrons under subparagraph(A)for the taxable year,shall be treated as an increase in tax imposed by this chapter on the organization. Such increase shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit under this chapter or for purposes of section55."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "55",
+        "reason": "is chapter or for purposes of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(e)(6)(B)(iii)Special Rules For Decrease In Credits For Taxable Year\u2014If the amount of the credit of the organization determined under such subsection for\n                           a taxable year is less than the amount of such credit shown on the return of the organization\n                           for such year, an amount equal to the excess of\u2014I.R.C. \u00a7 40A(e)(6)(B)(iii)(I)\u2014such reduction, overI.R.C. \u00a7 40A(e)(6)(B)(iii)(II)\u2014the amount not apportioned to such patrons under subparagraph(A)for the taxable year,shall be treated as an increase in tax imposed by this chapter on the organization.\n                              Such increase shall not be treated as tax imposed by this chapter for purposes of\n                              determining the amount of any credit under this chapter or for purposes of section55.",
+    "definitions": null
+  },
+  {
+    "section": "40A",
+    "subsection": "(f)(1)",
+    "source_subsections": [
+      "(f)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "In The Same Manner As Biodiesel",
+    "text": "Except as provided in paragraph(2), renewable diesel shall be treated in the same manner as biodiesel.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [
+      {
+        "applies_when": "paragraph(2)",
+        "effect": "See referenced section"
+      }
+    ],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as provided in paragraph(2), renewable diesel shall be treated in the same manner as biodiesel."
+      ],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(f)(1)Treatment In The Same Manner As Biodiesel\u2014Except as provided in paragraph(2), renewable diesel shall be treated in the same manner as biodiesel.",
+    "definitions": null
+  },
+  {
+    "section": "40A",
+    "subsection": "(f)(2)",
+    "source_subsections": [
+      "(f)(2)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Subsection(b)(4)shall not apply with respect to renewable diesel.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Subsection(b)(4)shall not apply with respect to renewable diesel."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(f)(2)Exception\u2014Subsection(b)(4)shall not apply with respect to renewable diesel.",
+    "definitions": null
+  },
+  {
+    "section": "40A",
+    "subsection": "(f)(3)",
+    "source_subsections": [
+      "(f)(3)",
+      "(f)(3)(A)",
+      "(f)(3)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Diesel Defined",
+    "text": "Diesel Defined\u2014The term \u201crenewable diesel\u201d means liquid fuel derived from biomass which meets\u2014\u2014the registration requirements for fuels and fuel additives established by the Environmental Protection Agency under section 211 of the Clean Air Act (42 U.S.C. 7545), and\u2014the requirements of the American Society of Testing and Materials D975 or D396, or other equivalent standard approved by the Secretary.Such term shall not include any liquid with respect to which a credit may be determined under section40. Such term does not include any fuel derived from coprocessing biomass with a feedstock which is not biomass. For purposes of this paragraph, the term \u201cbiomass\u201d has the meaning given such term by section45K(c)(3).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Diesel Defined\u2014The term \u201crenewable diesel\u201d means liquid fuel derived from biomass which meets\u2014\u2014the registration requirements for fuels and fuel additives established by the Environmental Protection Agency under section 211 of the Clean Air Act (42 U.S.C. 7545), and\u2014the requirements of the American Society of Testing and Materials D975 or D396, or other equivalent standard approved by the Secretary.Such term shall not include any liquid with respect to which a credit may be determined under section40. Such term does not include any fuel derived from coprocessing biomass with a feedstock which is not biomass. For purposes of this paragraph, the term \u201cbiomass\u201d has the meaning given such term by section45K(c)(3)."
+    },
+    "cross_references": [
+      {
+        "section": "211",
+        "reason": "ental Protection Agency under..."
+      },
+      {
+        "section": "40",
+        "reason": "redit may be determined under..."
+      },
+      {
+        "section": "45K(c)(3)",
+        "reason": "he meaning given such term by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(f)(3)Renewable Diesel Defined\u2014The term \u201crenewable diesel\u201d means liquid fuel derived from biomass which meets\u2014I.R.C. \u00a7 40A(f)(3)(A)\u2014the registration requirements for fuels and fuel additives established by the Environmental\n                        Protection Agency under section 211 of the Clean Air Act (42 U.S.C. 7545), andI.R.C. \u00a7 40A(f)(3)(B)\u2014the requirements of the American Society of Testing and Materials D975 or D396, or\n                        other equivalent standard approved by the Secretary.Such term shall not include any liquid with respect to which a credit may be determined\n                        under section40. Such term does not include any fuel derived from coprocessing biomass with a feedstock\n                        which is not biomass. For purposes of this paragraph, the term \u201cbiomass\u201d has the meaning\n                        given such term by section45K(c)(3).",
+    "definitions": {
+      "term": "renewable diesel",
+      "requirements": [
+        "liquid fuel derived from biomass which meets\u2014\u2014the registration requirements for fuels and fuel additives established by the Environmental Protection Agency under section 211 of the Clean Air Act (42 U.S.C. 7545), and\u2014the requirements of the American Society of Testing and Materials D975 or D396, or other equivalent standard approved by the Secretary.Such term shall not include any liquid with respect to which a credit may be determined under section40. Such term does not include any fuel derived from coprocessing biomass with a feedstock which is not biomass. For purposes of this paragraph, the term \u201cbiomass\u201d has the meaning given such term by section45K(c)(3)."
+      ]
+    }
+  },
+  {
+    "section": "40A",
+    "subsection": "(f)(4)",
+    "source_subsections": [
+      "(f)(4)"
+    ],
+    "rule_type": "condition",
+    "title": "Aviation Fuel [Struck byPub. L. 117",
+    "text": "169, Sec. 13202(c)(2)]",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "169, Sec. 13202(c)(2)]"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(f)(4)Certain Aviation Fuel [Struck byPub. L. 117-169, Sec. 13202(c)(2)]",
+    "definitions": null
+  },
+  {
+    "section": "40A",
+    "subsection": "(g)",
+    "source_subsections": [
+      "(g)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "This section shall not apply to any sale or use after December 31, 2024 (or, in the case of the small agri-biodiesel producer credit, any sale or use after December 31, 2026).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "This section shall not apply to any sale or use after December 31, 2024 (or, in the case of the small agri-biodiesel producer credit, any sale or use after December 31, 2026)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40A(g)Termination\u2014This section shall not apply to any sale or use after December 31, 2024 (or, in the\n                  case of the small agri-biodiesel producer credit, any sale or use after December 31,\n                  2026).",
+    "definitions": null
+  }
+]

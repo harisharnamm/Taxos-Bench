@@ -1,0 +1,22 @@
+{
+  "id": "8b6f8e472886",
+  "section": "137",
+  "citation": "I.R.C. \u00a7 137(a)(2)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 137(a)(2) is discussed as follows: 'I.R.C. \u00a7 137(a)(2)$10,000 Exclusion For Adoption Of Child With Special Needs Regardless Of Expenses\u2014...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 137(a)(2)?",
+  "difficulty": 1,
+  "choices": [
+    "$5,000.00",
+    "$10,000.00",
+    "$9,000.00",
+    "$20,000.00",
+    "$11,000.00"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $10,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 137(a)(2)"
+  ]
+}

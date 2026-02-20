@@ -1,0 +1,22 @@
+{
+  "id": "ec25e91a94cb",
+  "section": "467",
+  "citation": "I.R.C. \u00a7 467(d)(2)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 467(d)(2) is discussed as follows: 'I.R.C. \u00a7 467(d)(2)Section Not To Apply To Agreements Involving Payments Of $250,000 Or Less\u2014This  se...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 467(d)(2)?",
+  "difficulty": 1,
+  "choices": [
+    "$500,000.00",
+    "$275,000.00",
+    "$225,000.00",
+    "$125,000.00",
+    "$250,000.00"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies $250,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 467(d)(2)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "c5c5dca2bbb3",
+  "section": "141",
+  "citation": "I.R.C. \u00a7 141(d)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 141(d) is discussed as follows: 'I.R.C. \u00a7 141(d)Certain Issues Used To Acquire Nongovernmental Output Property\n                  Trea...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 141(d)?",
+  "difficulty": 1,
+  "choices": [
+    "15.0%",
+    "7.5%",
+    "5.0%",
+    "95.0%",
+    "0.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 5.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 141(d)"
+  ]
+}

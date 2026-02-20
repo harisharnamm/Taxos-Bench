@@ -1,0 +1,22 @@
+{
+  "id": "4e778c6b6708",
+  "section": "1400U-1",
+  "citation": "I.R.C. \u00a7 1400U-1(a)(1)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1400U-1(a)(1) is discussed as follows: 'I.R.C. \u00a7 1400U-1(a)(1)In GeneralI.R.C. \u00a7 1400U-1(a)(1)(A)General Allocation\u2014The Secretary shall allo...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1400U-1(a)(1)?",
+  "difficulty": 1,
+  "choices": [
+    "99.1%",
+    "0.9%",
+    "1.4%",
+    "0.0%",
+    "10.9%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 0.9%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1400U-1(a)(1)"
+  ]
+}

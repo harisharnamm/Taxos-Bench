@@ -1,0 +1,22 @@
+{
+  "id": "8aaf55feaee0",
+  "section": "51",
+  "citation": "I.R.C. \u00a7 51(b)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 51(b) is discussed as follows: 'I.R.C. \u00a7 51(b)Qualified Wages Defined\u2014For purposes of this subpart\u2014I.R.C. \u00a7 51(b)(1)In General\u2014The t...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 51(b)?",
+  "difficulty": 1,
+  "choices": [
+    "$6,600.00",
+    "$6,000.00",
+    "$12,000.00",
+    "$5,400.00",
+    "$3,000.00"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $6,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 51(b)"
+  ]
+}

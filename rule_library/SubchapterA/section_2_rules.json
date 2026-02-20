@@ -1,0 +1,413 @@
+[
+  {
+    "section": "2",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)",
+      "(a)(1)(A)",
+      "(a)(1)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "For purposes of section1, the term \u201csurviving spouse\u201d means a taxpayer\u2014\u2014whose spouse died during either of his two taxable years immediately preceding the taxable year, and\u2014who maintains as his home a household which constitutes for the taxable year the principal place of abode (as a member of such household) of a dependent (i) who (within the meaning of section152, determined without regard to subsections(b)(1),(b)(2), and(d)(1)(B)thereof) is a son, stepson, daughter, or stepdaughter of the taxpayer, and (ii) with respect to whom the taxpayer is entitled to a deduction for the taxable year under section151.For purposes of this paragraph, an individual shall be considered as maintaining a household only if over half of the cost of maintaining the household during the taxable year is furnished by such individual.",
+    "conditions": [
+      "over half of the cost of maintaining the household during the taxable year is furnished by such individual."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "over half of the cost of maintaining the household during the taxable year is furnished by such individual."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of section1, the term \u201csurviving spouse\u201d means a taxpayer\u2014\u2014whose spouse died during either of his two taxable years immediately preceding the taxable year, and\u2014who maintains as his home a household which constitutes for the taxable year the principal place of abode (as a member of such household) of a dependent (i) who (within the meaning of section152, determined without regard to subsections(b)(1),(b)(2), and(d)(1)(B)thereof) is a son, stepson, daughter, or stepdaughter of the taxpayer, and (ii) with respect to whom the taxpayer is entitled to a deduction for the taxable year under section151.For purposes of this paragraph, an individual shall be considered as maintaining a household only"
+    },
+    "cross_references": [
+      {
+        "section": "1",
+        "reason": "For purposes of..."
+      },
+      {
+        "section": "152",
+        "reason": "i) who (within the meaning of..."
+      },
+      {
+        "section": "151",
+        "reason": "on for the taxable year under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 2(a)(1)In General\u2014For  purposes of section1, the term \u201csurviving spouse\u201d means a taxpayer\u2014I.R.C. \u00a7 2(a)(1)(A)\u2014whose spouse died during either of his two taxable years immediately preceding the\n                        taxable year, andI.R.C. \u00a7 2(a)(1)(B)\u2014who  maintains as his home a household which constitutes for the taxable year  the\n                        principal place of abode\n                        (as a member of such household) of a  dependent (i) who (within the meaning of section152, determined without  regard to subsections(b)(1),(b)(2), and(d)(1)(B)thereof) is a son,  stepson, daughter, or stepdaughter of the taxpayer, and (ii)\n                        with respect  to whom the taxpayer is entitled to a deduction for the taxable year\n                        under  section151.For purposes of this paragraph, an individual shall be  considered as maintaining\n                           a household only if over half of the cost of  maintaining the household during the\n                           taxable year is furnished by such  individual.",
+    "definitions": {
+      "term": "surviving spouse",
+      "requirements": [
+        "a taxpayer\u2014\u2014whose spouse died during either of his two taxable years immediately preceding the taxable year, and\u2014who maintains as his home a household which constitutes for the taxable year the principal place of abode (as a member of such household) of a dependent (i) who (within the meaning of section152, determined without regard to subsections(b)(1),(b)(2), and(d)(1)(B)thereof) is a son, stepson, daughter, or stepdaughter of the taxpayer, and (ii) with respect to whom the taxpayer is entitled to a deduction for the taxable year under section151.For purposes of this paragraph, an individual shall be considered as maintaining a household only if over half of the cost of maintaining the household during the taxable year is furnished by such individual."
+      ]
+    }
+  },
+  {
+    "section": "2",
+    "subsection": "(a)(2)",
+    "source_subsections": [
+      "(a)(2)",
+      "(a)(2)(A)",
+      "(a)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Notwithstanding paragraph(1), for purposes of section1a taxpayer shall not be considered to be a surviving spouse\u2014\u2014if the taxpayer has remarried at any time before the close of the taxable year, or\u2014unless, for the taxpayer's taxable year during which his spouse died, a joint return could have been made under the provisions of section6013(without regard to subsection(a)(3)thereof).",
+    "conditions": [
+      "the taxpayer has remarried at any time before the close of the taxable year, or\u2014",
+      ", for the taxpayer's taxable year during which his spouse died, a joint return could have been made under the provisions of section6013(without regard to subsection(a)(3)thereof)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the taxpayer has remarried at any time before the close of the taxable year, or\u2014"
+      ],
+      "and": [],
+      "or": [],
+      "unless": [
+        ", for the taxpayer's taxable year during which his spouse died, a joint return could have been made under the provisions of section6013(without regard to subsection(a)(3)thereof)."
+      ],
+      "except": [],
+      "result": "Notwithstanding paragraph(1), for purposes of section1a taxpayer shall not be considered to be a surviving spouse\u2014\u2014"
+    },
+    "cross_references": [
+      {
+        "section": "1a",
+        "reason": "paragraph(1), for purposes of..."
+      },
+      {
+        "section": "6013",
+        "reason": "made under the provisions of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 2(a)(2)Limitations\u2014Notwithstanding  paragraph(1), for purposes of section1a taxpayer shall not be  considered to be a surviving spouse\u2014I.R.C. \u00a7 2(a)(2)(A)\u2014if  the taxpayer has remarried at any time before the close of the taxable  year,\n                        orI.R.C. \u00a7 2(a)(2)(B)\u2014unless,  for the taxpayer's taxable year during which his spouse died, a joint  return\n                        could have been made under the provisions of section6013(without\n                        regard to subsection(a)(3)thereof).",
+    "definitions": null
+  },
+  {
+    "section": "2",
+    "subsection": "(a)(3)",
+    "source_subsections": [
+      "(a)(3)",
+      "(a)(3)(A)",
+      "(a)(3)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Rule Where Deceased Spouse Was In Missing Status",
+    "text": "If an individual was in a missing status (within the meaning of section6013(f)(3)) as a result of service in a combat zone (as determined for purposes of section112) and if such individual remains in such status until the date referred to in subparagraph(A)or(B), then, for purposes of paragraph(1)(A), the date on which such individual died shall be treated as the earlier of the date determined under subparagraph(A)or the date determined under subparagraph(B):\u2014the date on which the determination is made under section556of title 37 of the United States Code or under section5566of title 5 of such Code (whichever is applicable) that such individual died while in such missing status, or\u2014except in the case of the combat zone designated for purposes of the Vietnam conflict, the date which is 2 years after the date designated under section112as the date of termination of combatant activities in that zone.",
+    "conditions": [
+      "an individual was in a missing status (within the meaning of section6013(f)(3)) as a result of service in a combat zone (as determined for purposes of section112) and",
+      "such individual remains in such status until the date referred to in subparagraph(A)or(B), then, for purposes of paragraph(1)(A), the date on which such individual died shall be treated as the earlier of the date determined under subparagraph(A)or the date determined under subparagraph(B):\u2014the date on which the determination is made under section556of title 37 of the United States Code or under section5566of title 5 of such Code (whichever is applicable) that such individual died while in such missing status, or\u2014"
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "an individual was in a missing status (within the meaning of section6013(f)(3)) as a result of service in a combat zone (as determined for purposes of section112) and",
+        "such individual remains in such status until the date referred to in subparagraph(A)or(B), then, for purposes of paragraph(1)(A), the date on which such individual died shall be treated as the earlier of the date determined under subparagraph(A)or the date determined under subparagraph(B):\u2014the date on which the determination is made under section556of title 37 of the United States Code or under section5566of title 5 of such Code (whichever is applicable) that such individual died while in such missing status, or\u2014"
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "in the case of the combat zone designated for purposes of the Vietnam conflict, the date which is 2 years after the date designated under section112as the date of termination of combatant activities in that zone."
+      ],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "6013(f)(3)",
+        "reason": "status (within the meaning of..."
+      },
+      {
+        "section": "112",
+        "reason": "as determined for purposes of..."
+      },
+      {
+        "section": "556o",
+        "reason": "e determination is made under..."
+      },
+      {
+        "section": "5566o",
+        "reason": "e United States Code or under..."
+      },
+      {
+        "section": "112a",
+        "reason": "ter the date designated under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 2(a)(3)Special Rule Where Deceased Spouse Was In Missing Status\u2014If  an individual was in a missing status (within the meaning of section6013(f)(3))\n                     as a result of service in a combat zone (as determined for  purposes of section112)\n                     and if such individual remains in such status  until the date referred to in subparagraph(A)or(B), then, for purposes\n                     of paragraph(1)(A), the date on which such individual died shall be  treated as the earlier of the date\n                     determined under subparagraph(A)or  the date determined under subparagraph(B):I.R.C. \u00a7 2(a)(3)(A)\u2014the  date on which the determination is made under section556of title 37 of  the United States Code or under section5566of title 5 of such Code  (whichever is applicable) that such individual died while\n                        in such missing  status, orI.R.C. \u00a7 2(a)(3)(B)\u2014except  in the case of the combat zone designated for purposes of the Vietnam  conflict,\n                        the date which is 2 years after the date designated under  section112as the date of termination of combatant activities in that  zone.",
+    "definitions": null
+  },
+  {
+    "section": "2",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)",
+      "(b)(1)(A)",
+      "(b)(1)(A)(i)",
+      "(b)(1)(A)(i)(I)",
+      "(b)(1)(A)(i)(II)",
+      "(b)(1)(A)(ii)",
+      "(b)(1)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "For purposes of this subtitle, an individual shall be considered a head of a household if, and only if, such individual is not married at the close of his taxable year, is not a surviving spouse (as defined in subsection(a)), and either\u2014maintains as his home a household which constitutes for more than one-half of such taxable year the principal place of abode, as a member of such household, of\u2014\u2014a qualifying child of the individual (as defined in section152(c), determined without regard to section152(e)), but not if such child\u2014\u2014is married at the close of the taxpayer's taxable year, and\u2014is not a dependent of such individual by reason of section152(b)(2)or152(b)(3), or both, or\u2014any other person who is a dependent of the taxpayer, if the taxpayer is entitled to a deduction for the taxable year for such person under section151, or\u2014maintains a household which constitutes for such taxable year the principal place of abode of the father or mother of the taxpayer, if the taxpayer is entitled to a deduction for the taxable year for such father or mother under section151.For purposes of this paragraph, an individual shall be considered as maintaining a household only if over half of the cost of maintaining the household during the taxable year is furnished by such individual.",
+    "conditions": [
+      ", and only",
+      ", such individual is not married at the close of his taxable year, is not a surviving spouse (as defined in subsection(a)), and either\u2014maintains as his home a household which constitutes for more than one-half of such taxable year the principal place of abode, as a member of such household, of\u2014\u2014a qualifying child of the individual (as defined in section152(c), determined without regard to section152(e)), but not",
+      "such child\u2014\u2014is married at the close of the taxpayer's taxable year, and\u2014is not a dependent of such individual by reason of section152(b)(2)or152(b)(3), or both, or\u2014any other person who is a dependent of the taxpayer,",
+      "the taxpayer is entitled to a deduction for the taxable year for such person under section151, or\u2014maintains a household which constitutes for such taxable year the principal place of abode of the father or mother of the taxpayer,",
+      "the taxpayer is entitled to a deduction for the taxable year for such father or mother under section151.For purposes of this paragraph, an individual shall be considered as maintaining a household only",
+      "over half of the cost of maintaining the household during the taxable year is furnished by such individual."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        ", and only",
+        ", such individual is not married at the close of his taxable year, is not a surviving spouse (as defined in subsection(a)), and either\u2014maintains as his home a household which constitutes for more than one-half of such taxable year the principal place of abode, as a member of such household, of\u2014\u2014a qualifying child of the individual (as defined in section152(c), determined without regard to section152(e)), but not",
+        "such child\u2014\u2014is married at the close of the taxpayer's taxable year, and\u2014is not a dependent of such individual by reason of section152(b)(2)or152(b)(3), or both, or\u2014any other person who is a dependent of the taxpayer,",
+        "the taxpayer is entitled to a deduction for the taxable year for such person under section151, or\u2014maintains a household which constitutes for such taxable year the principal place of abode of the father or mother of the taxpayer,",
+        "the taxpayer is entitled to a deduction for the taxable year for such father or mother under section151.For purposes of this paragraph, an individual shall be considered as maintaining a household only",
+        "over half of the cost of maintaining the household during the taxable year is furnished by such individual."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subtitle, an individual shall be considered a head of a household"
+    },
+    "cross_references": [
+      {
+        "section": "152(c)",
+        "reason": "the individual (as defined in..."
+      },
+      {
+        "section": "152(e)",
+        "reason": "determined without regard to..."
+      },
+      {
+        "section": "152(b)(2)",
+        "reason": "such individual by reason of..."
+      },
+      {
+        "section": "151",
+        "reason": "le year for such person under..."
+      },
+      {
+        "section": "151",
+        "reason": "r such father or mother under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 2(b)(1)In General\u2014For  purposes of this subtitle, an individual shall be considered a head of a  household\n                     if, and only if, such individual is not married at the close of  his taxable year,\n                     is not a surviving spouse (as defined in subsection(a)), and eitherI.R.C. \u00a7 2(b)(1)(A)\u2014maintains  as his home a household which constitutes for more than one-half of such\n                        taxable year the principal place of abode, as a member of such household,  of\u2014I.R.C. \u00a7 2(b)(1)(A)(i)\u2014a  qualifying child of the individual\n                           (as defined in section152(c),\n                           determined without regard to section152(e)), but not if such child\u2014I.R.C. \u00a7 2(b)(1)(A)(i)(I)\u2014is  married at the close of the taxpayer's taxable year, andI.R.C. \u00a7 2(b)(1)(A)(i)(II)\u2014is  not a dependent of such individual by reason of section152(b)(2)or152(b)(3), or both, orI.R.C. \u00a7 2(b)(1)(A)(ii)\u2014any  other person who is a dependent of the taxpayer, if the taxpayer is  entitled\n                           to a deduction for the taxable year for such person under section151, orI.R.C. \u00a7 2(b)(1)(B)\u2014maintains  a household which constitutes for such taxable year the principal place\n                        of  abode of the father or mother of the taxpayer, if the taxpayer is entitled  to\n                        a deduction for the taxable year for such father or mother under  section151.For purposes of this paragraph, an individual shall be  considered as maintaining\n                           a household only if over half of the cost of  maintaining the household during the\n                           taxable year is furnished by such  individual.",
+    "definitions": null
+  },
+  {
+    "section": "2",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)",
+      "(b)(2)(A)",
+      "(b)(2)(B)",
+      "(b)(2)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Status",
+    "text": "For purposes of this subsection\u2014\u2014an individual who is legally separated from his spouse under a decree of divorce or of separate maintenance shall not be considered as married;\u2014a taxpayer shall be considered as not married at the close of his taxable year if at any time during the taxable year his spouse is a nonresident alien; and\u2014a taxpayer shall be considered as married at the close of his taxable year if his spouse (other than a spouse described in subparagraph(B)) died during the taxable year.",
+    "conditions": [
+      "at any time during the taxable year his spouse is a nonresident alien; and\u2014a taxpayer shall be considered as married at the close of his taxable year",
+      "his spouse (other than a spouse described in subparagraph(B)) died during the taxable year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "at any time during the taxable year his spouse is a nonresident alien; and\u2014a taxpayer shall be considered as married at the close of his taxable year",
+        "his spouse (other than a spouse described in subparagraph(B)) died during the taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection\u2014\u2014an individual who is legally separated from his spouse under a decree of divorce or of separate maintenance shall not be considered as married;\u2014a taxpayer shall be considered as not married at the close of his taxable year"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 2(b)(2)Determination Of Status\u2014For  purposes of this subsection\u2014I.R.C. \u00a7 2(b)(2)(A)\u2014an  individual who is legally separated from his spouse under a decree of  divorce\n                        or of separate maintenance shall not be considered as married;I.R.C. \u00a7 2(b)(2)(B)\u2014a  taxpayer shall be considered as not married at the close of his taxable  year if\n                        at any time during the taxable year his spouse is a nonresident  alien; andI.R.C. \u00a7 2(b)(2)(C)\u2014a  taxpayer shall be considered as married at the close of his taxable year  if his\n                        spouse (other than a spouse described in  subparagraph(B)) died  during the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "2",
+    "subsection": "(b)(3)",
+    "source_subsections": [
+      "(b)(3)",
+      "(b)(3)(A)",
+      "(b)(3)(B)",
+      "(b)(3)(B)(i)",
+      "(b)(3)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Notwithstanding paragraph(1), for purposes of this subtitle a taxpayer shall not be considered to be a head of a household\u2014\u2014if at any time during the taxable year he is a nonresident alien; or\u2014by reason of an individual who would not be a dependent for the taxable year but for\u2014\u2014subparagraph(H)of section152(d)(2), or\u2014paragraph(3)of section152(d).",
+    "conditions": [
+      "at any time during the taxable year he is a nonresident alien; or\u2014by reason of an individual who would not be a dependent for the taxable year but for\u2014\u2014subparagraph(H)of section152(d)(2), or\u2014paragraph(3)of section152(d)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "at any time during the taxable year he is a nonresident alien; or\u2014by reason of an individual who would not be a dependent for the taxable year but for\u2014\u2014subparagraph(H)of section152(d)(2), or\u2014paragraph(3)of section152(d)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Notwithstanding paragraph(1), for purposes of this subtitle a taxpayer shall not be considered to be a head of a household\u2014\u2014"
+    },
+    "cross_references": [
+      {
+        "section": "152(d)(2)",
+        "reason": "ar but for\u2014\u2014subparagraph(H)of..."
+      },
+      {
+        "section": "152(d)",
+        "reason": ", or\u2014paragraph(3)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 2(b)(3)Limitations\u2014Notwithstanding  paragraph(1), for purposes of this subtitle a taxpayer shall not be  considered to be a head of\n                     a household\u2014I.R.C. \u00a7 2(b)(3)(A)\u2014if at  any time during the taxable year he is a nonresident alien; orI.R.C. \u00a7 2(b)(3)(B)\u2014by  reason of an individual who would not be a dependent for the taxable year  but\n                        for\u2014I.R.C. \u00a7 2(b)(3)(B)(i)\u2014subparagraph(H)of section152(d)(2), orI.R.C. \u00a7 2(b)(3)(B)(ii)\u2014paragraph(3)of section152(d).",
+    "definitions": null
+  },
+  {
+    "section": "2",
+    "subsection": "(c)",
+    "source_subsections": [
+      "(c)"
+    ],
+    "rule_type": "condition",
+    "title": "Married Individuals Living Apart",
+    "text": "For purposes of this part, an individual shall be treated as not married at the close of the taxable year if such individual is so treated under the provisions of section7703(b).",
+    "conditions": [
+      "such individual is so treated under the provisions of section7703(b)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such individual is so treated under the provisions of section7703(b)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this part, an individual shall be treated as not married at the close of the taxable year"
+    },
+    "cross_references": [
+      {
+        "section": "7703(b)",
+        "reason": "eated under the provisions of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 2(c)Certain Married Individuals Living Apart\u2014For  purposes of this part, an individual shall be treated as not married at  the\n                  close of the taxable year if such individual is so treated under the  provisions of\n                  section7703(b).",
+    "definitions": null
+  },
+  {
+    "section": "2",
+    "subsection": "(d)",
+    "source_subsections": [
+      "(d)"
+    ],
+    "rule_type": "condition",
+    "title": "Aliens",
+    "text": "In the case of a nonresident alien individual, the taxes imposed by sections1and55shall apply only as provided by section871or877.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a nonresident alien individual, the taxes imposed by sections1and55shall apply only as provided by section871or877."
+    },
+    "cross_references": [
+      {
+        "section": "871o",
+        "reason": "all apply only as provided by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 2(d)Nonresident Aliens\u2014In  the case of a nonresident alien individual, the taxes imposed by sections1and55shall apply only as provided by section871or877.",
+    "definitions": null
+  },
+  {
+    "section": "2",
+    "subsection": "(e)",
+    "source_subsections": [
+      "(e)"
+    ],
+    "rule_type": "definition",
+    "title": "Reference",
+    "text": "For definition of taxable income, see section63.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For definition of taxable income, see section63."
+    },
+    "cross_references": [
+      {
+        "section": "63",
+        "reason": "nition of taxable income, see..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 2(e)Cross Reference\u2014For  definition of taxable income, see section63.",
+    "definitions": null
+  }
+]

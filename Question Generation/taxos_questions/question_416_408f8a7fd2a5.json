@@ -1,0 +1,22 @@
+{
+  "id": "408f8a7fd2a5",
+  "section": "416",
+  "citation": "I.R.C. \u00a7 416(i)(1)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 416(i)(1) is discussed as follows: 'I.R.C. \u00a7 416(i)(1)Key EmployeeI.R.C. \u00a7 416(i)(1)(A)In General\u2014The term \u201ckey employee\u201d means an emplo...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 416(i)(1)?",
+  "difficulty": 1,
+  "choices": [
+    "0.0%",
+    "15.0%",
+    "95.0%",
+    "7.5%",
+    "5.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 5.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 416(i)(1)"
+  ]
+}

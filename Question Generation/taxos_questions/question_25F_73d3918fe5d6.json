@@ -1,0 +1,22 @@
+{
+  "id": "73d3918fe5d6",
+  "section": "25F",
+  "citation": "I.R.C. \u00a7 25F(b)(1)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 25F(b)(1) is discussed as follows: 'I.R.C. \u00a7 25F(b)(1)In General\u2014The credit allowed under subsection(a)to any taxpayer for any taxable y...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 25F(b)(1)?",
+  "difficulty": 1,
+  "choices": [
+    "$1,700.00",
+    "$3,400.00",
+    "$850.00",
+    "$1,530.00",
+    "$1,870.00"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies $1,700.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 25F(b)(1)"
+  ]
+}

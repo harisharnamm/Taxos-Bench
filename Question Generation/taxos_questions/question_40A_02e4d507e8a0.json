@@ -1,0 +1,22 @@
+{
+  "id": "02e4d507e8a0",
+  "section": "40A",
+  "citation": "I.R.C. \u00a7 40A(b)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 40A(b) is discussed as follows: 'I.R.C. \u00a7 40A(b)Definition Of Biodiesel Mixture Credit, Biodiesel Credit, And Small Agri-Biodiesel\n  ...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 40A(b)?",
+  "difficulty": 1,
+  "choices": [
+    "$1.00",
+    "$2.00",
+    "$0.50",
+    "$0.90",
+    "$1.10"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies $1.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 40A(b)"
+  ]
+}

@@ -1,0 +1,45 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Logs
+*.log
+
+# Progress tracking
+scraper_progress.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.history/
+
+# Environment variables
+.env
+*.env
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Data Corpus
+Data Corpus/
+
+# Old/archived logs
+*_old.log
+irc_scraper_old.log
+
+# Temporary test scripts
+verify_*.py
+scrape_missing_*.py
+/tmp/
+

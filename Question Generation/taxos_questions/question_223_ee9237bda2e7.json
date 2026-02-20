@@ -1,0 +1,22 @@
+{
+  "id": "ee9237bda2e7",
+  "section": "223",
+  "citation": "I.R.C. \u00a7 223(b)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 223(b) is discussed as follows: 'I.R.C. \u00a7 223(b)LimitationsI.R.C. \u00a7 223(b)(1)In General\u2014The amount allowable as a deduction under sub...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 223(b)?",
+  "difficulty": 1,
+  "choices": [
+    "$660.00",
+    "$300.00",
+    "$600.00",
+    "$540.00",
+    "$1,200.00"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies $600.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 223(b)"
+  ]
+}

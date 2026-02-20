@@ -1,0 +1,22 @@
+{
+  "id": "78b6c5bdea3a",
+  "section": "934",
+  "citation": "I.R.C. \u00a7 934(b)(3)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 934(b)(3) is discussed as follows: 'I.R.C. \u00a7 934(b)(3)Special Rule For Non-United States Income Of Certain Foreign CorporationsI.R.C. \u00a7 ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 934(b)(3)?",
+  "difficulty": 1,
+  "choices": [
+    "20.0%",
+    "90.0%",
+    "10.0%",
+    "0.0%",
+    "15.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 10.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 934(b)(3)"
+  ]
+}

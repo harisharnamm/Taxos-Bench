@@ -1,0 +1,22 @@
+{
+  "id": "8eccdf794201",
+  "section": "1044",
+  "citation": "I.R.C. \u00a7 1044(b)(3)(A)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 1044(b)(3)(A) is discussed as follows: 'I.R.C. \u00a7 1044(b)(3)(A)Separate Returns\u2014In  the case of a separate return by a married individual, pa...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 1044(b)(3)(A)?",
+  "difficulty": 1,
+  "choices": [
+    "$12,500.00",
+    "$22,500.00",
+    "$25,000.00",
+    "$50,000.00",
+    "$27,500.00"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies $25,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1044(b)(3)(A)"
+  ]
+}

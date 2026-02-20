@@ -1,0 +1,22 @@
+{
+  "id": "8f1f42379e9f",
+  "section": "419A",
+  "citation": "I.R.C. \u00a7 419A(c)(5)(B)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 419A(c)(5)(B) is discussed as follows: 'I.R.C. \u00a7 419A(c)(5)(B)Safe Harbor LimitsI.R.C. \u00a7 419A(c)(5)(B)(i)Short-Term Disability Benefits\u2014In  ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 419A(c)(5)(B)?",
+  "difficulty": 1,
+  "choices": [
+    "35.0%",
+    "52.5%",
+    "45.0%",
+    "65.0%",
+    "25.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 35.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 419A(c)(5)(B)"
+  ]
+}

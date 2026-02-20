@@ -1,0 +1,21 @@
+{
+  "id": "4a7681aff308",
+  "section": "25B",
+  "citation": "I.R.C. \u00a7 25B(b)(1)(B)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 25B(b)(1)(B) is discussed as follows: 'I.R.C. \u00a7 25B(b)(1)(B)\u2014if the adjusted gross income of the taxpayer is over $30,000 but not over $32,...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 25B(b)(1)(B)?",
+  "difficulty": 1,
+  "choices": [
+    "30.0%",
+    "20.0%",
+    "80.0%",
+    "10.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 20.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 25B(b)(1)(B)"
+  ]
+}

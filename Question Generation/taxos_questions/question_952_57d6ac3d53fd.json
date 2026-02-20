@@ -1,0 +1,21 @@
+{
+  "id": "57d6ac3d53fd",
+  "section": "952",
+  "citation": "I.R.C. \u00a7 952(c)(1)(B)(vii)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 952(c)(1)(B)(vii) is discussed as follows: 'I.R.C. \u00a7 952(c)(1)(B)(vii)Special Rules For Insurance IncomeI.R.C. \u00a7 952(c)(1)(B)(vii)(I)In General\u2014...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 952(c)(1)(B)(vii)?",
+  "difficulty": 1,
+  "choices": [
+    "60.0%",
+    "50.0%",
+    "40.0%",
+    "75.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 952(c)(1)(B)(vii)"
+  ]
+}

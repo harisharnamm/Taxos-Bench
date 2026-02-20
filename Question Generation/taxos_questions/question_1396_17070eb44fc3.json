@@ -1,0 +1,22 @@
+{
+  "id": "17070eb44fc3",
+  "section": "1396",
+  "citation": "I.R.C. \u00a7 1396(d)(2)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 1396(d)(2) is discussed as follows: 'I.R.C. \u00a7 1396(d)(2)Certain Individuals Not Eligible\u2014The  term \u201cqualified zone employee\u201d shall not in...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 1396(d)(2)?",
+  "difficulty": 1,
+  "choices": [
+    "$1,000,000.00",
+    "$500,000.00",
+    "$550,000.00",
+    "$450,000.00",
+    "$250,000.00"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $500,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1396(d)(2)"
+  ]
+}

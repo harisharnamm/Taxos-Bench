@@ -1,0 +1,22 @@
+{
+  "id": "6ebd5d4bf910",
+  "section": "48E",
+  "citation": "I.R.C. \u00a7 48E(a)(2)(A)(i)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 48E(a)(2)(A)(i) is discussed as follows: 'I.R.C. \u00a7 48E(a)(2)(A)(i)Base Rate\u2014In the case of any qualified facility which is not described in su...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 48E(a)(2)(A)(i)?",
+  "difficulty": 1,
+  "choices": [
+    "0.0%",
+    "6.0%",
+    "16.0%",
+    "94.0%",
+    "9.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 6.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 48E(a)(2)(A)(i)"
+  ]
+}

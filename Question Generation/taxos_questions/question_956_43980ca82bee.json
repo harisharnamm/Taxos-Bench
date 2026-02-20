@@ -1,0 +1,22 @@
+{
+  "id": "43980ca82bee",
+  "section": "956",
+  "citation": "I.R.C. \u00a7 956(c)(2)(F)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 956(c)(2)(F) is discussed as follows: 'I.R.C. \u00a7 956(c)(2)(F)\u2014the stock or obligations of a domestic corporation which  is neither a United ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 956(c)(2)(F)?",
+  "difficulty": 1,
+  "choices": [
+    "35.0%",
+    "25.0%",
+    "15.0%",
+    "75.0%",
+    "37.5%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 25.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 956(c)(2)(F)"
+  ]
+}

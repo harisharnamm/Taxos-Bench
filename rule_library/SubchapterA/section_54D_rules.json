@@ -1,0 +1,651 @@
+[
+  {
+    "section": "54D",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "100 percent of the available project proceeds of such issue are to be used for one or more qualified conservation purposes,",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 1.0,
+        "text": "100 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "100 percent of the available project proceeds of such issue are to be used for one or more qualified conservation purposes,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54D(a)(1)\u2014100 percent of the available project proceeds of such issue are to be used for one\n                     or more qualified conservation purposes,",
+    "definitions": null
+  },
+  {
+    "section": "54D",
+    "subsection": "(a)(2)",
+    "source_subsections": [
+      "(a)(2)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "the bond is issued by a State or local government, and",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "the bond is issued by a State or local government, and"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54D(a)(2)\u2014the bond is issued by a State or local government, and",
+    "definitions": null
+  },
+  {
+    "section": "54D",
+    "subsection": "(a)(3)",
+    "source_subsections": [
+      "(a)(3)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "the issuer designates such bond for purposes of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "the issuer designates such bond for purposes of this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54D(a)(3)\u2014the issuer designates such bond for purposes of this section.",
+    "definitions": null
+  },
+  {
+    "section": "54D",
+    "subsection": "(b)",
+    "source_subsections": [
+      "(b)"
+    ],
+    "rule_type": "computation",
+    "title": "Credit Amount",
+    "text": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54D, effective for bonds issued after December 31, 2017.The annual credit determined undersection 54A(b)with respect to any qualified energy conservation bond shall be 70 percent of the amount so determined without regard to this subsection.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.7,
+        "text": "70 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54D, effective for bonds issued after December 31, 2017.The annual credit determined undersection 54A(b)with respect to any qualified energy conservation bond shall be 70 percent of the amount so determined without regard to this subsection."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54D(b)Reduced Credit Amount\u2014Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54D, effective for bonds issued after December 31, 2017.The annual credit determined undersection 54A(b)with respect to any qualified energy conservation bond shall be 70 percent of the\n                  amount so determined without regard to this subsection.",
+    "definitions": null
+  },
+  {
+    "section": "54D",
+    "subsection": "(c)",
+    "source_subsections": [
+      "(c)"
+    ],
+    "rule_type": "limitation",
+    "title": "on Amount of Bonds Designated",
+    "text": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54D, effective for bonds issued after December 31, 2017.The maximum aggregate face amount of bonds which may be designated under subsection(a)by any issuer shall not exceed the limitation amount allocated to such issuer under subsection(e).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54D, effective for bonds issued after December 31, 2017.The maximum aggregate face amount of bonds which may be designated under subsection(a)by any issuer shall not exceed the limitation amount allocated to such issuer under subsection(e)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54D(c)Limitation on Amount of Bonds Designated\u2014Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54D, effective for bonds issued after December 31, 2017.The maximum aggregate face amount of bonds which may be designated under subsection(a)by any issuer shall not exceed the limitation amount allocated to such issuer under\n                  subsection(e).",
+    "definitions": null
+  },
+  {
+    "section": "54D",
+    "subsection": "(d)",
+    "source_subsections": [
+      "(d)"
+    ],
+    "rule_type": "limitation",
+    "title": "Limitation on Amount of Bonds Designated",
+    "text": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54D, effective for bonds issued after December 31, 2017.There is a national qualified energy conservation bond limitation of $3,200,000,000.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 3200000000,
+        "text": "$3,200,000,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54D, effective for bonds issued after December 31, 2017.There is a national qualified energy conservation bond limitation of $3,200,000,000."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54D(d)National Limitation on Amount of Bonds Designated\u2014Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54D, effective for bonds issued after December 31, 2017.There is a national qualified energy conservation bond limitation of $3,200,000,000.",
+    "definitions": null
+  },
+  {
+    "section": "54D",
+    "subsection": "(e)(1)",
+    "source_subsections": [
+      "(e)(1)"
+    ],
+    "rule_type": "limitation",
+    "title": "General",
+    "text": "The limitation applicable under subsection(d)shall be allocated by the Secretary among the States in proportion to the population of the States.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The limitation applicable under subsection(d)shall be allocated by the Secretary among the States in proportion to the population of the States."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54D(e)(1)In General\u2014The limitation applicable under subsection(d)shall be allocated by the Secretary among the States in proportion to the population\n                     of the States.",
+    "definitions": null
+  },
+  {
+    "section": "54D",
+    "subsection": "(e)(2)(A)",
+    "source_subsections": [
+      "(e)(2)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "In the case of any State in which there is a large local government, each such local government shall be allocated a portion of such State's allocation which bears the same ratio to the State's allocation (determined without regard to this subparagraph) as the population of such large local government bears to the population of such State.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any State in which there is a large local government, each such local government shall be allocated a portion of such State's allocation which bears the same ratio to the State's allocation (determined without regard to this subparagraph) as the population of such large local government bears to the population of such State."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54D(e)(2)(A)In General\u2014In the case of any State in which there is a large local government, each such local\n                        government shall be allocated a portion of such State's allocation which bears the\n                        same ratio to the State's allocation (determined without regard to this subparagraph)\n                        as the population of such large local government bears to the population of such State.",
+    "definitions": null
+  },
+  {
+    "section": "54D",
+    "subsection": "(e)(2)(B)",
+    "source_subsections": [
+      "(e)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "of Unused Limitation to State",
+    "text": "The amount allocated under this subsection to a large local government may be reallocated by such local government to the State in which such local government is located.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount allocated under this subsection to a large local government may be reallocated by such local government to the State in which such local government is located."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54D(e)(2)(B)Allocation of Unused Limitation to State\u2014The amount allocated under this subsection to a large local government may be reallocated\n                        by such local government to the State in which such local government is located.",
+    "definitions": null
+  },
+  {
+    "section": "54D",
+    "subsection": "(e)(2)(C)",
+    "source_subsections": [
+      "(e)(2)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "Local Government",
+    "text": "For purposes of this section, the term \u201clarge local government\u201d means any municipality or county if such municipality or county has a population of 100,000 or more.",
+    "conditions": [
+      "such municipality or county has a population of 100,000 or more."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such municipality or county has a population of 100,000 or more."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u201clarge local government\u201d means any municipality or county"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54D(e)(2)(C)Large Local Government\u2014For purposes of this section, the term \u201clarge local government\u201d means any municipality\n                        or county if such municipality or county has a population of 100,000 or more.",
+    "definitions": {
+      "term": "large local government",
+      "requirements": [
+        "any municipality or county if such municipality or county has a population of 100,000 or more."
+      ]
+    }
+  },
+  {
+    "section": "54D",
+    "subsection": "(e)(3)",
+    "source_subsections": [
+      "(e)(3)"
+    ],
+    "rule_type": "computation",
+    "title": "to Issuers; Restriction on Private Activity Bonds",
+    "text": "Any allocation under this subsection to a State or large local government shall be allocated by such State or large local government to issuers within the State in a manner that results in not less than 70 percent of the allocation to such State or large local government being used to designate bonds which are not private activity bonds.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.7,
+        "text": "70 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Any allocation under this subsection to a State or large local government shall be allocated by such State or large local government to issuers within the State in a manner that results in not less than 70 percent of the allocation to such State or large local government being used to designate bonds which are not private activity bonds."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54D(e)(3)Allocation to Issuers; Restriction on Private Activity Bonds\u2014Any allocation under this subsection to a State or large local government shall be\n                     allocated by such State or large local government to issuers within the State in a\n                     manner that results in not less than 70 percent of the allocation to such State or\n                     large local government being used to designate bonds which are not private activity\n                     bonds.",
+    "definitions": null
+  },
+  {
+    "section": "54D",
+    "subsection": "(e)(4)",
+    "source_subsections": [
+      "(e)(4)"
+    ],
+    "rule_type": "condition",
+    "title": "Rules For Bonds To Implement Green Community Programs",
+    "text": "In the case of any bond issued for the purpose of providing loans, grants, or other repayment mechanisms for capital expenditures to implement green community programs, such bond shall not be treated as a private activity bond for purposes of paragraph(3).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any bond issued for the purpose of providing loans, grants, or other repayment mechanisms for capital expenditures to implement green community programs, such bond shall not be treated as a private activity bond for purposes of paragraph(3)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54D(e)(4)Special Rules For Bonds To Implement Green Community Programs\u2014In the case of any bond issued for the purpose of providing loans, grants, or other\n                     repayment mechanisms for capital expenditures to implement green community programs,\n                     such bond shall not be treated as a private activity bond for purposes of paragraph(3).",
+    "definitions": null
+  },
+  {
+    "section": "54D",
+    "subsection": "(f)(1)(A)",
+    "source_subsections": [
+      "(f)(1)(A)",
+      "(f)(1)(A)(i)",
+      "(f)(1)(A)(ii)",
+      "(f)(1)(A)(iii)",
+      "(f)(1)(A)(iv)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "Capital expenditures incurred for purposes of\u2014\u2014reducing energy consumption in publicly-owned buildings by at least 20 percent,\u2014implementing green community programs (including the use of loans, grants, or other repayment mechanisms to implement such programs),\u2014rural development involving the production of electricity from renewable energy resources, or\u2014any qualified facility (as determined undersection 45(d)without regard to paragraphs(8)and(10)thereof and without regard to any placed in service date).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.2,
+        "text": "20 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Capital expenditures incurred for purposes of\u2014\u2014reducing energy consumption in publicly-owned buildings by at least 20 percent,\u2014implementing green community programs (including the use of loans, grants, or other repayment mechanisms to implement such programs),\u2014rural development involving the production of electricity from renewable energy resources, or\u2014any qualified facility (as determined undersection 45(d)without regard to paragraphs(8)and(10)thereof and without regard to any placed in service date)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54D(f)(1)(A)\u2014Capital expenditures incurred for purposes of\u2014I.R.C. \u00a7 54D(f)(1)(A)(i)\u2014reducing energy consumption in publicly-owned buildings by at least 20 percent,I.R.C. \u00a7 54D(f)(1)(A)(ii)\u2014implementing green community programs\n                           (including the use of loans, grants, or other repayment mechanisms to implement such\n                           programs),I.R.C. \u00a7 54D(f)(1)(A)(iii)\u2014rural development involving the production of electricity from renewable energy resources,\n                           orI.R.C. \u00a7 54D(f)(1)(A)(iv)\u2014any qualified facility (as determined undersection 45(d)without regard to paragraphs(8)and(10)thereof and without regard to any placed in service date).",
+    "definitions": null
+  },
+  {
+    "section": "54D",
+    "subsection": "(f)(1)(B)",
+    "source_subsections": [
+      "(f)(1)(B)",
+      "(f)(1)(B)(i)",
+      "(f)(1)(B)(ii)",
+      "(f)(1)(B)(iii)",
+      "(f)(1)(B)(iv)",
+      "(f)(1)(B)(v)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Expenditures with respect to research facilities, and research grants, to support research in\u2014\u2014development of cellulosic ethanol or other nonfossil fuels,\u2014technologies for the capture and sequestration of carbon dioxide produced through the use of fossil fuels,\u2014increasing the efficiency of existing technologies for producing nonfossil fuels,\u2014automobile battery technologies and other technologies to reduce fossil fuel consumption in transportation, or\u2014technologies to reduce energy use in buildings.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Expenditures with respect to research facilities, and research grants, to support research in\u2014\u2014development of cellulosic ethanol or other nonfossil fuels,\u2014technologies for the capture and sequestration of carbon dioxide produced through the use of fossil fuels,\u2014increasing the efficiency of existing technologies for producing nonfossil fuels,\u2014automobile battery technologies and other technologies to reduce fossil fuel consumption in transportation, or\u2014technologies to reduce energy use in buildings."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54D(f)(1)(B)\u2014Expenditures with respect to research facilities, and research grants, to support\n                        research in\u2014I.R.C. \u00a7 54D(f)(1)(B)(i)\u2014development of cellulosic ethanol or other nonfossil fuels,I.R.C. \u00a7 54D(f)(1)(B)(ii)\u2014technologies for the capture and sequestration of carbon dioxide produced through\n                           the use of fossil fuels,I.R.C. \u00a7 54D(f)(1)(B)(iii)\u2014increasing the efficiency of existing technologies for producing nonfossil fuels,I.R.C. \u00a7 54D(f)(1)(B)(iv)\u2014automobile battery technologies and other technologies to reduce fossil fuel consumption\n                           in transportation, orI.R.C. \u00a7 54D(f)(1)(B)(v)\u2014technologies to reduce energy use in buildings.",
+    "definitions": null
+  },
+  {
+    "section": "54D",
+    "subsection": "(f)(1)(C)",
+    "source_subsections": [
+      "(f)(1)(C)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Mass commuting facilities and related facilities that reduce the consumption of energy, including expenditures to reduce pollution from vehicles used for mass commuting.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Mass commuting facilities and related facilities that reduce the consumption of energy, including expenditures to reduce pollution from vehicles used for mass commuting."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54D(f)(1)(C)\u2014Mass commuting facilities and related facilities that reduce the consumption of energy,\n                        including expenditures to reduce pollution from vehicles used for mass commuting.",
+    "definitions": null
+  },
+  {
+    "section": "54D",
+    "subsection": "(f)(1)(D)",
+    "source_subsections": [
+      "(f)(1)(D)",
+      "(f)(1)(D)(i)",
+      "(f)(1)(D)(ii)",
+      "(f)(1)(D)(iii)",
+      "(f)(1)(D)(iv)",
+      "(f)(1)(D)(v)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Demonstration projects designed to promote the commercialization of\u2014\u2014green building technology,\u2014conversion of agricultural waste for use in the production of fuel or otherwise,\u2014advanced battery manufacturing technologies,\u2014technologies to reduce peak use of electricity, or\u2014technologies for the capture and sequestration of carbon dioxide emitted from combusting fossil fuels in order to produce electricity.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Demonstration projects designed to promote the commercialization of\u2014\u2014green building technology,\u2014conversion of agricultural waste for use in the production of fuel or otherwise,\u2014advanced battery manufacturing technologies,\u2014technologies to reduce peak use of electricity, or\u2014technologies for the capture and sequestration of carbon dioxide emitted from combusting fossil fuels in order to produce electricity."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54D(f)(1)(D)\u2014Demonstration projects designed to promote the commercialization of\u2014I.R.C. \u00a7 54D(f)(1)(D)(i)\u2014green building technology,I.R.C. \u00a7 54D(f)(1)(D)(ii)\u2014conversion of agricultural waste for use in the production of fuel or otherwise,I.R.C. \u00a7 54D(f)(1)(D)(iii)\u2014advanced battery manufacturing technologies,I.R.C. \u00a7 54D(f)(1)(D)(iv)\u2014technologies to reduce peak use of electricity, orI.R.C. \u00a7 54D(f)(1)(D)(v)\u2014technologies for the capture and sequestration of carbon dioxide emitted from combusting\n                           fossil fuels in order to produce electricity.",
+    "definitions": null
+  },
+  {
+    "section": "54D",
+    "subsection": "(f)(1)(E)",
+    "source_subsections": [
+      "(f)(1)(E)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Public education campaigns to promote energy efficiency.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Public education campaigns to promote energy efficiency."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54D(f)(1)(E)\u2014Public education campaigns to promote energy efficiency.",
+    "definitions": null
+  },
+  {
+    "section": "54D",
+    "subsection": "(f)(2)",
+    "source_subsections": [
+      "(f)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Rules for Private Activity Bonds",
+    "text": "For purposes of this section, in the case of any private activity bond, the term \u201cqualified conservation purposes\u201d shall not include any expenditure which is not a capital expenditure.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, in the case of any private activity bond, the term \u201cqualified conservation purposes\u201d shall not include any expenditure which is not a capital expenditure."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54D(f)(2)Special Rules for Private Activity Bonds\u2014For purposes of this section, in the case of any private activity bond, the term \u201cqualified\n                     conservation purposes\u201d\n                     shall not include any expenditure which is not a capital expenditure.",
+    "definitions": null
+  },
+  {
+    "section": "54D",
+    "subsection": "(g)(1)",
+    "source_subsections": [
+      "(g)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The population of any State or local government shall be determined for purposes of this section as provided insection 146(j)for the calendar year which includes the date of the enactment of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The population of any State or local government shall be determined for purposes of this section as provided insection 146(j)for the calendar year which includes the date of the enactment of this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54D(g)(1)In General\u2014The population of any State or local government shall be determined for purposes of\n                     this section as provided insection 146(j)for the calendar year which includes the date of the enactment of this section.",
+    "definitions": null
+  },
+  {
+    "section": "54D",
+    "subsection": "(g)(2)",
+    "source_subsections": [
+      "(g)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Rule for Counties",
+    "text": "In determining the population of any county for purposes of this section, any population of such county which is taken into account in determining the population of any municipality which is a large local government shall not be taken into account in determining the population of such county.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In determining the population of any county for purposes of this section, any population of such county which is taken into account in determining the population of any municipality which is a large local government shall not be taken into account in determining the population of such county."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54D(g)(2)Special Rule for Counties\u2014In determining the population of any county for purposes of this section, any population\n                     of such county which is taken into account in determining the population of any municipality\n                     which is a large local government shall not be taken into account in determining the\n                     population of such county.",
+    "definitions": null
+  },
+  {
+    "section": "54D",
+    "subsection": "(h)",
+    "source_subsections": [
+      "(h)",
+      "(h)(1)",
+      "(h)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "to Indian Tribal Governments",
+    "text": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54D, effective for bonds issued after December 31, 2017.An Indian tribal government shall be treated for purposes of this section in the same manner as a large local government, except that\u2014\u2014an Indian tribal government shall be treated for purposes of subsection(e)as located within a State to the extent of so much of the population of such government as resides within such State, and\u2014any bond issued by an Indian tribal government shall be treated as a qualified energy conservation bond only if issued as part of an issue the available project proceeds of which are used for purposes for which such Indian tribal government could issue bonds to whichsection 103(a)applies.",
+    "conditions": [
+      "issued as part of an issue the available project proceeds of which are used for purposes for which such Indian tribal government could issue bonds to whichsection 103(a)applies."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "issued as part of an issue the available project proceeds of which are used for purposes for which such Indian tribal government could issue bonds to whichsection 103(a)applies."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "that\u2014\u2014an Indian tribal government shall be treated for purposes of subsection(e)as located within a State to the extent of so much of the population of such government as resides within such State, and\u2014any bond issued by an Indian tribal government shall be treated as a qualified energy conservation bond only"
+      ],
+      "result": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54D, effective for bonds issued after December 31, 2017.An Indian tribal government shall be treated for purposes of this section in the same manner as a large local government,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54D(h)Application to Indian Tribal Governments\u2014Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54D, effective for bonds issued after December 31, 2017.An Indian tribal government shall be treated for purposes of this section in the same\n                  manner as a large local government, except that\u2014I.R.C. \u00a7 54D(h)(1)\u2014an Indian tribal government shall be treated for purposes of subsection(e)as located within a State to the extent of so much of the population of such government\n                     as resides within such State, andI.R.C. \u00a7 54D(h)(2)\u2014any bond issued by an Indian tribal government shall be treated as a qualified energy\n                     conservation bond only if issued as part of an issue the available project proceeds\n                     of which are used for purposes for which such Indian tribal government could issue\n                     bonds to whichsection 103(a)applies.",
+    "definitions": null
+  }
+]

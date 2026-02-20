@@ -1,0 +1,22 @@
+{
+  "id": "06967a48a8f9",
+  "section": "988",
+  "citation": "I.R.C. \u00a7 988(c)(1)(E)(iii)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 988(c)(1)(E)(iii) is discussed as follows: 'I.R.C. \u00a7 988(c)(1)(E)(iii)Qualified Fund Defined\u2014For  purposes of this subparagraph, the term \u201cquali...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 988(c)(1)(E)(iii)?",
+  "difficulty": 1,
+  "choices": [
+    "100.0%",
+    "10.0%",
+    "90.0%",
+    "80.0%",
+    "135.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 90.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 988(c)(1)(E)(iii)"
+  ]
+}

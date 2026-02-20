@@ -1,0 +1,22 @@
+{
+  "id": "6fdef71c20f4",
+  "section": "860G",
+  "citation": "I.R.C. \u00a7 860G(a)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 860G(a) is discussed as follows: 'I.R.C. \u00a7 860G(a)Definitions\u2014For  purposes of this part\u2014I.R.C. \u00a7 860G(a)(1)Regular Interest\u2014The  term...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 860G(a)?",
+  "difficulty": 1,
+  "choices": [
+    "70.0%",
+    "40.0%",
+    "45.0%",
+    "20.0%",
+    "30.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 30.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 860G(a)"
+  ]
+}

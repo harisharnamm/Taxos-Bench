@@ -1,0 +1,22 @@
+{
+  "id": "31f6728cdf07",
+  "section": "222",
+  "citation": "I.R.C. \u00a7 222(b)(2)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 222(b)(2) is discussed as follows: 'I.R.C. \u00a7 222(b)(2)Applicable Dollar Limit\u2014Editor's Note:Pub. L. 116-260, Div. EE, Sec. 104(b)(1), st...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 222(b)(2)?",
+  "difficulty": 1,
+  "choices": [
+    "$2,200.00",
+    "$2,000.00",
+    "$1,000.00",
+    "$4,000.00",
+    "$1,800.00"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $2,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 222(b)(2)"
+  ]
+}

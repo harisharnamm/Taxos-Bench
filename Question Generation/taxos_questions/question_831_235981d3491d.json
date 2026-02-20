@@ -1,0 +1,22 @@
+{
+  "id": "235981d3491d",
+  "section": "831",
+  "citation": "I.R.C. \u00a7 831(b)(2)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 831(b)(2) is discussed as follows: 'I.R.C. \u00a7 831(b)(2)Companies To Which This Subsection AppliesI.R.C. \u00a7 831(b)(2)(A)In General\u2014This  su...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 831(b)(2)?",
+  "difficulty": 1,
+  "choices": [
+    "0.0%",
+    "3.0%",
+    "12.0%",
+    "2.0%",
+    "98.0%"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies 2.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 831(b)(2)"
+  ]
+}

@@ -1,0 +1,333 @@
+[
+  {
+    "section": "36A",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "6.2 percent of earned income of the taxpayer, or",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.062,
+        "text": "6.2 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "6.2 percent of earned income of the taxpayer, or"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36A(a)(1)\u20146.2 percent of earned income of the taxpayer, or",
+    "definitions": null
+  },
+  {
+    "section": "36A",
+    "subsection": "(a)(2)",
+    "source_subsections": [
+      "(a)(2)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$400 ($800 in the case of a joint return).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 400,
+        "text": "$400"
+      },
+      {
+        "label": "amount",
+        "value": 800,
+        "text": "$800"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$400 ($800 in the case of a joint return)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36A(a)(2)\u2014$400 ($800 in the case of a joint return).",
+    "definitions": null
+  },
+  {
+    "section": "36A",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "The amount allowable as a credit under subsection(a)(determined without regard to this paragraph and subsection(c)) for the taxable year shall be reduced (but not below zero) by 2 percent of so much of the taxpayer's modified adjusted gross income as exceeds $75,000 ($150,000 in the case of a joint return).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 75000,
+        "text": "$75,000"
+      },
+      {
+        "label": "amount",
+        "value": 150000,
+        "text": "$150,000"
+      }
+    ],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.02,
+        "text": "2 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount allowable as a credit under subsection(a)(determined without regard to this paragraph and subsection(c)) for the taxable year shall be reduced (but not below zero) by 2 percent of so much of the taxpayer's modified adjusted gross income as exceeds $75,000 ($150,000 in the case of a joint return)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36A(b)(1)In General\u2014The amount allowable as a credit under subsection(a)(determined without regard to this paragraph and subsection(c))\n                     for the taxable year shall be reduced (but not below zero) by 2 percent of so much\n                     of the taxpayer's modified adjusted gross income as exceeds\n                     $75,000 ($150,000 in the case of a joint return).",
+    "definitions": null
+  },
+  {
+    "section": "36A",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Adjusted Gross Income",
+    "text": "For purposes of subparagraph (A), the term \u201cmodified adjusted gross income\u201d means the adjusted gross income of the taxpayer for the taxable year increased by any amount excluded from gross income under section911,931, or933.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph (A), the term \u201cmodified adjusted gross income\u201d means the adjusted gross income of the taxpayer for the taxable year increased by any amount excluded from gross income under section911,931, or933."
+    },
+    "cross_references": [
+      {
+        "section": "911",
+        "reason": "luded from gross income under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36A(b)(2)Modified Adjusted Gross Income\u2014For purposes of subparagraph (A), the term \u201cmodified adjusted gross income\u201d means\n                     the adjusted gross income of the taxpayer for the taxable year increased by any amount\n                     excluded from gross income under section911,931, or933.",
+    "definitions": {
+      "term": "modified adjusted gross income",
+      "requirements": [
+        "the adjusted gross income of the taxpayer for the taxable year increased by any amount excluded from gross income under section911,931, or933."
+      ]
+    }
+  },
+  {
+    "section": "36A",
+    "subsection": "(c)",
+    "source_subsections": [
+      "(c)"
+    ],
+    "rule_type": "condition",
+    "title": "For Certain Other Payments",
+    "text": "The credit allowed under subsection(a)for any taxable year shall be reduced by the amount of any payments received by the taxpayer during such taxable year under section 2201, and any credit allowed to the taxpayer under section 2202, of the American Recovery and Reinvestment Tax Act of 2009.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The credit allowed under subsection(a)for any taxable year shall be reduced by the amount of any payments received by the taxpayer during such taxable year under section 2201, and any credit allowed to the taxpayer under section 2202, of the American Recovery and Reinvestment Tax Act of 2009."
+    },
+    "cross_references": [
+      {
+        "section": "2201",
+        "reason": "uring such taxable year under..."
+      },
+      {
+        "section": "2202",
+        "reason": "allowed to the taxpayer under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36A(c)Reduction For Certain Other Payments\u2014The credit allowed under subsection(a)for any taxable year shall be reduced by the amount of any payments received by the\n                  taxpayer during such taxable year under section 2201, and any credit allowed to the\n                  taxpayer under section 2202, of the American Recovery and Reinvestment Tax Act of\n                  2009.",
+    "definitions": null
+  },
+  {
+    "section": "36A",
+    "subsection": "(d)(1)(A)",
+    "source_subsections": [
+      "(d)(1)(A)",
+      "(d)(1)(A)(i)",
+      "(d)(1)(A)(ii)",
+      "(d)(1)(A)(iii)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201celigible individual\u201d means any individual other than\u2014\u2014any nonresident alien individual,\u2014any individual with respect to whom a deduction under section151is allowable to another taxpayer for a taxable year beginning in the calendar year in which the individual's taxable year begins, and\u2014an estate or trust.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201celigible individual\u201d means any individual other than\u2014\u2014any nonresident alien individual,\u2014any individual with respect to whom a deduction under section151is allowable to another taxpayer for a taxable year beginning in the calendar year in which the individual's taxable year begins, and\u2014an estate or trust."
+    },
+    "cross_references": [
+      {
+        "section": "151i",
+        "reason": "ect to whom a deduction under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36A(d)(1)(A)In General\u2014The term \u201celigible individual\u201d means any individual other than\u2014I.R.C. \u00a7 36A(d)(1)(A)(i)\u2014any nonresident alien individual,I.R.C. \u00a7 36A(d)(1)(A)(ii)\u2014any individual with respect to whom a deduction under section151is allowable to another taxpayer for a taxable year beginning in the calendar year\n                           in which the individual's taxable year begins,  andI.R.C. \u00a7 36A(d)(1)(A)(iii)\u2014an estate or trust.",
+    "definitions": {
+      "term": "eligible individual",
+      "requirements": [
+        "any individual other than\u2014\u2014any nonresident alien individual,\u2014any individual with respect to whom a deduction under section151is allowable to another taxpayer for a taxable year beginning in the calendar year in which the individual's taxable year begins, and\u2014an estate or trust."
+      ]
+    }
+  },
+  {
+    "section": "36A",
+    "subsection": "(d)(1)(B)",
+    "source_subsections": [
+      "(d)(1)(B)",
+      "(d)(1)(B)(i)",
+      "(d)(1)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Number Requirement",
+    "text": "Such term shall not include any individual who does not include on the return of tax for the taxable year\u2014\u2014such individual's social security account number, and\u2014in the case of a joint return, the social security account number of one of the taxpayers on such return.For purposes of the preceding sentence, the social security account number shall not include a TIN issued by the Internal Revenue Service.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Such term shall not include any individual who does not include on the return of tax for the taxable year\u2014\u2014such individual's social security account number, and\u2014in the case of a joint return, the social security account number of one of the taxpayers on such return.For purposes of the preceding sentence, the social security account number shall not include a TIN issued by the Internal Revenue Service."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36A(d)(1)(B)Identification Number Requirement\u2014Such term shall not include any individual who does not include on the return of tax\n                        for the taxable year\u2014I.R.C. \u00a7 36A(d)(1)(B)(i)\u2014such individual's social security account number, andI.R.C. \u00a7 36A(d)(1)(B)(ii)\u2014in the case of a joint return, the social security account number of one of the taxpayers\n                           on such return.For purposes of the preceding sentence, the social security account number shall not\n                           include a TIN issued by the Internal Revenue Service.",
+    "definitions": null
+  },
+  {
+    "section": "36A",
+    "subsection": "(d)(2)",
+    "source_subsections": [
+      "(d)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Income",
+    "text": "The term \u201cearned income\u201d has the meaning given such term by section32(c)(2), except that such term shall not include net earnings from self-employment which are not taken into account in computing taxable income. For purposes of the preceding sentence, any amount excluded from gross income by reason of section112shall be treated as earned income which is taken into account in computing taxable income for the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "that such term shall not include net earnings from self-employment which are not taken into account in computing taxable income. For purposes of the preceding sentence, any amount excluded from gross income by reason of section112shall be treated as earned income which is taken into account in computing taxable income for the taxable year."
+      ],
+      "result": "The term \u201cearned income\u201d has the meaning given such term by section32(c)(2),"
+    },
+    "cross_references": [
+      {
+        "section": "32(c)(2)",
+        "reason": "he meaning given such term by..."
+      },
+      {
+        "section": "112s",
+        "reason": "rom gross income by reason of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36A(d)(2)Earned Income\u2014The term \u201cearned income\u201d has the meaning given such term by section32(c)(2), except that such term shall not include net earnings from self-employment which\n                     are not taken into account in computing taxable income. For purposes of the preceding\n                     sentence, any amount excluded from gross income by reason of section112shall be treated as earned income which is taken into account in computing taxable\n                     income for the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "36A",
+    "subsection": "(e)",
+    "source_subsections": [
+      "(e)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "This section shall not apply to taxable years beginning after December 31, 2010.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "This section shall not apply to taxable years beginning after December 31, 2010."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36A(e)Termination\u2014This section shall not apply to taxable years beginning after December 31, 2010.",
+    "definitions": null
+  }
+]

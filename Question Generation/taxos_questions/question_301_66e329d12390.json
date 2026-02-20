@@ -1,0 +1,21 @@
+{
+  "id": "66e329d12390",
+  "section": "301",
+  "citation": "I.R.C. \u00a7 301(e)(2)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 301(e)(2) is discussed as follows: 'I.R.C. \u00a7 301(e)(2)20 Percent Corporate Shareholder\u2014For  purposes of this subsection, the term \u201c20 pe...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 301(e)(2)?",
+  "difficulty": 1,
+  "choices": [
+    "10.0%",
+    "80.0%",
+    "30.0%",
+    "20.0%"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies 20.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 301(e)(2)"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "eaadbfddaf41",
+  "section": "48",
+  "citation": "I.R.C. \u00a7 48(c)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 48(c) is discussed as follows: 'I.R.C. \u00a7 48(c)Definitions\u2014For purposes of this section\u2014I.R.C. \u00a7 48(c)(1)Qualified Fuel Cell Property...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 48(c)?",
+  "difficulty": 1,
+  "choices": [
+    "20.0%",
+    "30.0%",
+    "80.0%",
+    "10.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 20.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 48(c)"
+  ]
+}

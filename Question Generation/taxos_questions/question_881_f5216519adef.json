@@ -1,0 +1,22 @@
+{
+  "id": "f5216519adef",
+  "section": "881",
+  "citation": "I.R.C. \u00a7 881(c)(5)(A)(i)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 881(c)(5)(A)(i) is discussed as follows: 'I.R.C. \u00a7 881(c)(5)(A)(i)\u2014Subparagraph(A)of section954(b)(3)(relating to  exception where foreign bas...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 881(c)(5)(A)(i)?",
+  "difficulty": 1,
+  "choices": [
+    "7.5%",
+    "0.0%",
+    "5.0%",
+    "95.0%",
+    "15.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 5.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 881(c)(5)(A)(i)"
+  ]
+}

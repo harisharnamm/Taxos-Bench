@@ -1,0 +1,22 @@
+{
+  "id": "d895b2405e29",
+  "section": "1274",
+  "citation": "I.R.C. \u00a7 1274(c)(3)(C)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 1274(c)(3)(C) is discussed as follows: 'I.R.C. \u00a7 1274(c)(3)(C)Sales Involving Total Payments Of $250,000 Or LessI.R.C. \u00a7 1274(c)(3)(C)(i)In ...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 1274(c)(3)(C)?",
+  "difficulty": 1,
+  "choices": [
+    "$225,000.00",
+    "$275,000.00",
+    "$250,000.00",
+    "$500,000.00",
+    "$125,000.00"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies $250,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1274(c)(3)(C)"
+  ]
+}

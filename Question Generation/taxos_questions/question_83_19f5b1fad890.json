@@ -1,0 +1,22 @@
+{
+  "id": "19f5b1fad890",
+  "section": "83",
+  "citation": "I.R.C. \u00a7 83(i)(4)(B)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 83(i)(4)(B) is discussed as follows: 'I.R.C. \u00a7 83(i)(4)(B)Limitations\u2014\u2014No election may be made under this section with respect to any qual...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 83(i)(4)(B)?",
+  "difficulty": 1,
+  "choices": [
+    "37.5%",
+    "15.0%",
+    "25.0%",
+    "75.0%",
+    "35.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 25.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 83(i)(4)(B)"
+  ]
+}

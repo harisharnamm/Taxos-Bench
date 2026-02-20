@@ -1,0 +1,22 @@
+{
+  "id": "29a6282d0e08",
+  "section": "483",
+  "citation": "I.R.C. \u00a7 483(e)(3)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 483(e)(3) is discussed as follows: 'I.R.C. \u00a7 483(e)(3)$500,000 Limitation\u2014Paragraph  (1) shall not apply to any qualified sale between i...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 483(e)(3)?",
+  "difficulty": 1,
+  "choices": [
+    "$550,000.00",
+    "$1,000,000.00",
+    "$250,000.00",
+    "$500,000.00",
+    "$450,000.00"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies $500,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 483(e)(3)"
+  ]
+}

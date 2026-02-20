@@ -1,0 +1,21 @@
+{
+  "id": "680e1b220b63",
+  "section": "1042",
+  "citation": "I.R.C. \u00a7 1042(c)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1042(c) is discussed as follows: 'I.R.C. \u00a7 1042(c)Definitions; Special Rules\u2014For purposes of this section\u2014I.R.C. \u00a7 1042(c)(1)Qualified...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1042(c)?",
+  "difficulty": 1,
+  "choices": [
+    "40.0%",
+    "50.0%",
+    "75.0%",
+    "60.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1042(c)"
+  ]
+}

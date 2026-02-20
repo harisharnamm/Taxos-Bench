@@ -1,0 +1,22 @@
+{
+  "id": "a0557e3113e3",
+  "section": "743",
+  "citation": "I.R.C. \u00a7 743(d)(1)(A)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 743(d)(1)(A) is discussed as follows: 'I.R.C. \u00a7 743(d)(1)(A)\u2014the partnership's adjusted basis in the partnership property exceeds by more t...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 743(d)(1)(A)?",
+  "difficulty": 1,
+  "choices": [
+    "$500,000.00",
+    "$250,000.00",
+    "$275,000.00",
+    "$125,000.00",
+    "$225,000.00"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $250,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 743(d)(1)(A)"
+  ]
+}

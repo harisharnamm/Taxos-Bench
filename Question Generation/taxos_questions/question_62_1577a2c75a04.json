@@ -1,0 +1,22 @@
+{
+  "id": "1577a2c75a04",
+  "section": "62",
+  "citation": "I.R.C. \u00a7 62(d)(3)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 62(d)(3) is discussed as follows: 'I.R.C. \u00a7 62(d)(3)Inflation Adjustment\u2014In the case of any taxable year beginning after 2015, the $250...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 62(d)(3)?",
+  "difficulty": 1,
+  "choices": [
+    "$55.00",
+    "$25.00",
+    "$45.00",
+    "$50.00",
+    "$100.00"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies $50.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 62(d)(3)"
+  ]
+}

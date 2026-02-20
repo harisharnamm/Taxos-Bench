@@ -1,0 +1,21 @@
+{
+  "id": "8af7576f6d52",
+  "section": "246",
+  "citation": "I.R.C. \u00a7 246(b)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 246(b) is discussed as follows: 'I.R.C. \u00a7 246(b)Limitation On Aggregate Amount Of DeductionsI.R.C. \u00a7 246(b)(1)General Rule\u2014Except as ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 246(b)?",
+  "difficulty": 1,
+  "choices": [
+    "40.0%",
+    "60.0%",
+    "75.0%",
+    "50.0%"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 246(b)"
+  ]
+}

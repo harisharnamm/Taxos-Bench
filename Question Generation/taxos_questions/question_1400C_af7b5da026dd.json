@@ -1,0 +1,22 @@
+{
+  "id": "af7b5da026dd",
+  "section": "1400C",
+  "citation": "I.R.C. \u00a7 1400C(e)(1)(A)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 1400C(e)(1)(A) is discussed as follows: 'I.R.C. \u00a7 1400C(e)(1)(A)Married Individuals Filing Separately\u2014In  the case of a married individual fi...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 1400C(e)(1)(A)?",
+  "difficulty": 1,
+  "choices": [
+    "$2,500.00",
+    "$1,250.00",
+    "$2,250.00",
+    "$5,000.00",
+    "$2,750.00"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies $2,500.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1400C(e)(1)(A)"
+  ]
+}

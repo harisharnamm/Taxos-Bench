@@ -1,0 +1,1292 @@
+[
+  {
+    "section": "36",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)"
+    ],
+    "rule_type": "computation",
+    "title": "Of Credit",
+    "text": "In the case of an individual who is a first-time homebuyer of a principal residence in the United States during a taxable year, there shall be allowed as a credit against the tax imposed by this Subtitle for such taxable year an amount equal to 10 percent of the purchase price of the residence.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.1,
+        "text": "10 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of an individual who is a first-time homebuyer of a principal residence in the United States during a taxable year, there shall be allowed as a credit against the tax imposed by this Subtitle for such taxable year an amount equal to 10 percent of the purchase price of the residence."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(a)Allowance Of Credit\u2014In the case of an individual who is a first-time homebuyer of a principal residence\n                  in the United States during a taxable year, there shall be allowed as a credit against\n                  the tax imposed by this Subtitle for such taxable year an amount equal to 10 percent\n                  of the purchase price of the residence.",
+    "definitions": null
+  },
+  {
+    "section": "36",
+    "subsection": "(b)(1)(A)",
+    "source_subsections": [
+      "(b)(1)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Except as otherwise provided in this paragraph, the credit allowed under subsection(a)shall not exceed $8,000.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 8000,
+        "text": "$8,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as otherwise provided in this paragraph, the credit allowed under subsection(a)shall not exceed $8,000."
+      ],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(b)(1)(A)In General\u2014Except as otherwise provided in this paragraph, the credit allowed under subsection(a)shall not exceed $8,000.",
+    "definitions": null
+  },
+  {
+    "section": "36",
+    "subsection": "(b)(1)(B)",
+    "source_subsections": [
+      "(b)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Individuals Filing Separately",
+    "text": "In the case of a married individual filing a separate return, subparagraph(A)shall be applied by substituting \u201c$4,000\u201d for \u201c$8,000\u201d.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 4000,
+        "text": "$4,000"
+      },
+      {
+        "label": "amount",
+        "value": 8000,
+        "text": "$8,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a married individual filing a separate return, subparagraph(A)shall be applied by substituting \u201c$4,000\u201d for \u201c$8,000\u201d."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(b)(1)(B)Married Individuals Filing Separately\u2014In the case of a married individual filing a separate return, subparagraph(A)shall be applied by substituting \u201c$4,000\u201d for \u201c$8,000\u201d.",
+    "definitions": null
+  },
+  {
+    "section": "36",
+    "subsection": "(b)(1)(C)",
+    "source_subsections": [
+      "(b)(1)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "Individuals",
+    "text": "If two or more individuals who are not married purchase a principal residence, the amount of the credit allowed under subsection(a)shall be allocated among such individuals in such manner as the Secretary may prescribe, except that the total amount of the credits allowed to all such individuals shall not exceed $8,000.",
+    "conditions": [
+      "two or more individuals who are not married purchase a principal residence, the amount of the credit allowed under subsection(a)shall be allocated among such individuals in such manner as the Secretary may prescribe,"
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 8000,
+        "text": "$8,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "two or more individuals who are not married purchase a principal residence, the amount of the credit allowed under subsection(a)shall be allocated among such individuals in such manner as the Secretary may prescribe,"
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "that the total amount of the credits allowed to all such individuals shall not exceed $8,000."
+      ],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(b)(1)(C)Other Individuals\u2014If two or more individuals who are not married purchase a principal residence, the\n                        amount of the credit allowed under subsection(a)shall be allocated among such individuals in such manner as the Secretary may prescribe,\n                        except that the total amount of the credits allowed to all such individuals shall\n                        not exceed $8,000.",
+    "definitions": null
+  },
+  {
+    "section": "36",
+    "subsection": "(b)(1)(D)",
+    "source_subsections": [
+      "(b)(1)(D)"
+    ],
+    "rule_type": "condition",
+    "title": "Rule For Long",
+    "text": "Time Residents Of Same Principal Residence\u2014In the case of a taxpayer to whom a credit under subsection(a)is allowed by reason of subsection(c)(6), subparagraphs(A),(B), and((C)shall be applied by substituting \u201c$6,500\u201d for \u201c$8,000\u201d and \u201c$3,250\u201d for \u201c$4,000\u201d.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 6500,
+        "text": "$6,500"
+      },
+      {
+        "label": "amount",
+        "value": 8000,
+        "text": "$8,000"
+      },
+      {
+        "label": "amount",
+        "value": 3250,
+        "text": "$3,250"
+      },
+      {
+        "label": "amount",
+        "value": 4000,
+        "text": "$4,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Time Residents Of Same Principal Residence\u2014In the case of a taxpayer to whom a credit under subsection(a)is allowed by reason of subsection(c)(6), subparagraphs(A),(B), and((C)shall be applied by substituting \u201c$6,500\u201d for \u201c$8,000\u201d and \u201c$3,250\u201d for \u201c$4,000\u201d."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(b)(1)(D)Special Rule For Long-Time Residents Of Same Principal Residence\u2014In the case of a taxpayer to whom a credit under subsection(a)is allowed by reason of subsection(c)(6), subparagraphs(A),(B), and((C)shall be applied by substituting \u201c$6,500\u201d for \u201c$8,000\u201d and \u201c$3,250\u201d\n                        for \u201c$4,000\u201d.",
+    "definitions": null
+  },
+  {
+    "section": "36",
+    "subsection": "(b)(2)(A)",
+    "source_subsections": [
+      "(b)(2)(A)",
+      "(b)(2)(A)(i)",
+      "(b)(2)(A)(i)(I)",
+      "(b)(2)(A)(i)(II)",
+      "(b)(2)(A)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The amount allowable as a credit under subsection(a)(determined without regard to this paragraph) for the taxable year shall be reduced (but not below zero) by the amount which bears the same ratio to the amount which is so allowable as\u2014\u2014the excess (if any) of\u2014\u2014the taxpayer's modified adjusted gross income for such taxable year, over\u2014$125,000 ($225,000 in the case of a joint return), bears to\u2014$20,000.",
+    "conditions": [
+      "any) of\u2014\u2014the taxpayer's modified adjusted gross income for such taxable year, over\u2014$125,000 ($225,000 in the case of a joint return), bears to\u2014$20,000."
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 125000,
+        "text": "$125,000"
+      },
+      {
+        "label": "amount",
+        "value": 225000,
+        "text": "$225,000"
+      },
+      {
+        "label": "amount",
+        "value": 20000,
+        "text": "$20,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any) of\u2014\u2014the taxpayer's modified adjusted gross income for such taxable year, over\u2014$125,000 ($225,000 in the case of a joint return), bears to\u2014$20,000."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount allowable as a credit under subsection(a)(determined without regard to this paragraph) for the taxable year shall be reduced (but not below zero) by the amount which bears the same ratio to the amount which is so allowable as\u2014\u2014the excess ("
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(b)(2)(A)In General\u2014The amount allowable as a credit under subsection(a)(determined without regard to this paragraph) for the taxable year shall be reduced\n                        (but not below zero) by the amount which bears the same ratio to the amount which\n                        is so allowable as\u2014I.R.C. \u00a7 36(b)(2)(A)(i)\u2014the excess (if any) of\u2014I.R.C. \u00a7 36(b)(2)(A)(i)(I)\u2014the taxpayer's modified adjusted gross income for such taxable year, overI.R.C. \u00a7 36(b)(2)(A)(i)(II)\u2014$125,000 ($225,000 in the case of a joint return), bears toI.R.C. \u00a7 36(b)(2)(A)(ii)\u2014$20,000.",
+    "definitions": null
+  },
+  {
+    "section": "36",
+    "subsection": "(b)(2)(B)",
+    "source_subsections": [
+      "(b)(2)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Adjusted Gross Income",
+    "text": "For purposes of subparagraph(A), the term \u201cmodified adjusted gross income\u201d means the adjusted gross income of the taxpayer for the taxable year increased by any amount excluded from gross income under section911,931, or933.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph(A), the term \u201cmodified adjusted gross income\u201d means the adjusted gross income of the taxpayer for the taxable year increased by any amount excluded from gross income under section911,931, or933."
+    },
+    "cross_references": [
+      {
+        "section": "911",
+        "reason": "luded from gross income under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(b)(2)(B)Modified Adjusted Gross Income\u2014For purposes of subparagraph(A), the term \u201cmodified adjusted gross income\u201d means the adjusted gross income of the\n                        taxpayer for the taxable year increased by any amount excluded from gross income under\n                        section911,931, or933.",
+    "definitions": {
+      "term": "modified adjusted gross income",
+      "requirements": [
+        "the adjusted gross income of the taxpayer for the taxable year increased by any amount excluded from gross income under section911,931, or933."
+      ]
+    }
+  },
+  {
+    "section": "36",
+    "subsection": "(b)(3)",
+    "source_subsections": [
+      "(b)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Based On Purchase Price",
+    "text": "No credit shall be allowed under subsection(a)for the purchase of any residence if the purchase price of such residence exceeds $800,000.",
+    "conditions": [
+      "the purchase price of such residence exceeds $800,000."
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 800000,
+        "text": "$800,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the purchase price of such residence exceeds $800,000."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be allowed under subsection(a)for the purchase of any residence"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(b)(3)Limitation Based On Purchase Price\u2014No credit shall be allowed under subsection(a)for the purchase of any residence if the purchase price of such residence exceeds\n                     $800,000.",
+    "definitions": null
+  },
+  {
+    "section": "36",
+    "subsection": "(b)(4)",
+    "source_subsections": [
+      "(b)(4)"
+    ],
+    "rule_type": "condition",
+    "title": "Limitation",
+    "text": "No credit shall be allowed under subsection(a)with respect to the purchase of any residence unless the taxpayer has attained age 18 as of the date of such purchase. In the case of any taxpayer who is married (within the meaning of section7703), the taxpayer shall be treated as meeting the age requirement of the preceding sentence if the taxpayer or the taxpayer's spouse meets such age requirement.",
+    "conditions": [
+      "the taxpayer or the taxpayer's spouse meets such age requirement.",
+      "the taxpayer has attained age 18 as of the date of such purchase. In the case of any taxpayer who is married (within the meaning of section7703), the taxpayer shall be treated as meeting the age requirement of the preceding sentence"
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the taxpayer or the taxpayer's spouse meets such age requirement."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [
+        "the taxpayer has attained age 18 as of the date of such purchase. In the case of any taxpayer who is married (within the meaning of section7703), the taxpayer shall be treated as meeting the age requirement of the preceding sentence"
+      ],
+      "except": [],
+      "result": "No credit shall be allowed under subsection(a)with respect to the purchase of any residence"
+    },
+    "cross_references": [
+      {
+        "section": "7703",
+        "reason": "arried (within the meaning of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(b)(4)Age Limitation\u2014No credit shall be allowed under subsection(a)with respect to the purchase of any residence unless the taxpayer has attained age\n                     18 as of the date of such purchase. In the case of any taxpayer who is married\n                     (within the meaning of section7703), the taxpayer shall be treated as meeting the age requirement of the preceding sentence\n                     if the taxpayer or the taxpayer's spouse meets such age requirement.",
+    "definitions": null
+  },
+  {
+    "section": "36",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)"
+    ],
+    "rule_type": "definition",
+    "title": "Homebuyer",
+    "text": "The term \u201cfirst-time homebuyer\u201d means any individual if such individual (and if married, such individual's spouse) had no present ownership interest in a principal residence during the 3-year period ending on the date of the purchase of the principal residence to which this section applies.",
+    "conditions": [
+      "such individual (and",
+      "married, such individual's spouse) had no present ownership interest in a principal residence during the 3-year period ending on the date of the purchase of the principal residence to which this section applies."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such individual (and",
+        "married, such individual's spouse) had no present ownership interest in a principal residence during the 3-year period ending on the date of the purchase of the principal residence to which this section applies."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cfirst-time homebuyer\u201d means any individual"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(c)(1)First-Time Homebuyer\u2014The term \u201cfirst-time homebuyer\u201d means any individual if such individual (and if married,\n                     such individual's spouse)\n                     had no present ownership interest in a principal residence during the 3-year period\n                     ending on the date of the purchase of the principal residence to which this section\n                     applies.",
+    "definitions": {
+      "term": "first-time homebuyer",
+      "requirements": [
+        "any individual if such individual (and if married, such individual's spouse) had no present ownership interest in a principal residence during the 3-year period ending on the date of the purchase of the principal residence to which this section applies."
+      ]
+    }
+  },
+  {
+    "section": "36",
+    "subsection": "(c)(2)",
+    "source_subsections": [
+      "(c)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Residence",
+    "text": "The term \u201cprincipal residence\u201d has the same meaning as when used in section121.",
+    "conditions": [
+      "used in section121."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "used in section121."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cprincipal residence\u201d has the same meaning as"
+    },
+    "cross_references": [
+      {
+        "section": "121",
+        "reason": "same meaning as when used in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(c)(2)Principal Residence\u2014The term \u201cprincipal residence\u201d has the same meaning as when used in section121.",
+    "definitions": null
+  },
+  {
+    "section": "36",
+    "subsection": "(c)(3)(A)",
+    "source_subsections": [
+      "(c)(3)(A)",
+      "(c)(3)(A)(i)",
+      "(c)(3)(A)(ii)",
+      "(c)(3)(A)(ii)(I)",
+      "(c)(3)(A)(ii)(II)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cpurchase\u201d means any acquisition, but only if\u2014\u2014the property is not acquired from a person related to the person acquiring such property (or, if married, such individual's spouse), and\u2014the basis of the property in the hands of the person acquiring such property is not determined\u2014\u2014in whole or in part by reference to the adjusted basis of such property in the hands of the person from whom acquired, or\u2014under section1014(a)(relating to property acquired from a decedent).",
+    "conditions": [
+      "\u2014\u2014the property is not acquired from a person related to the person acquiring such property (or,",
+      "married, such individual's spouse), and\u2014the basis of the property in the hands of the person acquiring such property is not determined\u2014\u2014in whole or in part by reference to the adjusted basis of such property in the hands of the person from whom acquired, or\u2014under section1014(a)(relating to property acquired from a decedent)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014the property is not acquired from a person related to the person acquiring such property (or,",
+        "married, such individual's spouse), and\u2014the basis of the property in the hands of the person acquiring such property is not determined\u2014\u2014in whole or in part by reference to the adjusted basis of such property in the hands of the person from whom acquired, or\u2014under section1014(a)(relating to property acquired from a decedent)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cpurchase\u201d means any acquisition, but only"
+    },
+    "cross_references": [
+      {
+        "section": "1014(a)",
+        "reason": "from whom acquired, or\u2014under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(c)(3)(A)In General\u2014The term \u201cpurchase\u201d means any acquisition, but only if\u2014I.R.C. \u00a7 36(c)(3)(A)(i)\u2014the property is not acquired from a person related to the person acquiring such property\n                           (or, if married, such individual's spouse), andI.R.C. \u00a7 36(c)(3)(A)(ii)\u2014the basis of the property in the hands of the person acquiring such property is not\n                           determined\u2014I.R.C. \u00a7 36(c)(3)(A)(ii)(I)\u2014in whole or in part by reference to the adjusted basis of such property in the hands\n                              of the person from whom acquired, orI.R.C. \u00a7 36(c)(3)(A)(ii)(II)\u2014under section1014(a)(relating to property acquired from a decedent).",
+    "definitions": {
+      "term": "purchase",
+      "requirements": [
+        "any acquisition, but only if\u2014\u2014the property is not acquired from a person related to the person acquiring such property (or, if married, such individual's spouse), and\u2014the basis of the property in the hands of the person acquiring such property is not determined\u2014\u2014in whole or in part by reference to the adjusted basis of such property in the hands of the person from whom acquired, or\u2014under section1014(a)(relating to property acquired from a decedent)."
+      ]
+    }
+  },
+  {
+    "section": "36",
+    "subsection": "(c)(3)(B)",
+    "source_subsections": [
+      "(c)(3)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "A residence which is constructed by the taxpayer shall be treated as purchased by the taxpayer on the date the taxpayer first occupies such residence.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "A residence which is constructed by the taxpayer shall be treated as purchased by the taxpayer on the date the taxpayer first occupies such residence."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(c)(3)(B)Construction\u2014A residence which is constructed by the taxpayer shall be treated as purchased by\n                        the taxpayer on the date the taxpayer first occupies such residence.",
+    "definitions": null
+  },
+  {
+    "section": "36",
+    "subsection": "(c)(4)",
+    "source_subsections": [
+      "(c)(4)"
+    ],
+    "rule_type": "definition",
+    "title": "Price",
+    "text": "The term \u201cpurchase price\u201d means the adjusted basis of the principal residence on the date such residence is purchased.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cpurchase price\u201d means the adjusted basis of the principal residence on the date such residence is purchased."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(c)(4)Purchase Price\u2014The term \u201cpurchase price\u201d means the adjusted basis of the principal residence on the\n                     date such residence is purchased.",
+    "definitions": {
+      "term": "purchase price",
+      "requirements": [
+        "the adjusted basis of the principal residence on the date such residence is purchased."
+      ]
+    }
+  },
+  {
+    "section": "36",
+    "subsection": "(c)(5)",
+    "source_subsections": [
+      "(c)(5)"
+    ],
+    "rule_type": "condition",
+    "title": "Persons",
+    "text": "A person shall be treated as related to another person if the relationship between such persons would result in the disallowance of losses under section267or707(b)(but, in applying section267(b)and (c) for purposes of this section, paragraph(4)of section267(c)shall be treated as providing that the family of an individual shall include only his spouse, ancestors, and lineal descendants).",
+    "conditions": [
+      "the relationship between such persons would result in the disallowance of losses under section267or707(b)(but, in applying section267(b)and (c) for purposes of this section, paragraph(4)of section267(c)shall be treated as providing that the family of an individual shall include only his spouse, ancestors, and lineal descendants)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the relationship between such persons would result in the disallowance of losses under section267or707(b)(but, in applying section267(b)and (c) for purposes of this section, paragraph(4)of section267(c)shall be treated as providing that the family of an individual shall include only his spouse, ancestors, and lineal descendants)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "A person shall be treated as related to another person"
+    },
+    "cross_references": [
+      {
+        "section": "267o",
+        "reason": "disallowance of losses under..."
+      },
+      {
+        "section": "267(b)",
+        "reason": "r707(b)(but, in applying..."
+      },
+      {
+        "section": "267(c)",
+        "reason": "this section, paragraph(4)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(c)(5)Related Persons\u2014A person shall be treated as related to another person if the relationship between\n                     such persons would result in the disallowance of losses under section267or707(b)(but, in applying section267(b)and (c) for purposes of this section, paragraph(4)of section267(c)shall be treated as providing that the family of an individual shall include only\n                     his spouse, ancestors, and lineal descendants).",
+    "definitions": null
+  },
+  {
+    "section": "36",
+    "subsection": "(c)(6)",
+    "source_subsections": [
+      "(c)(6)"
+    ],
+    "rule_type": "condition",
+    "title": "For Long",
+    "text": "Time Residents Of Same Principal Residence\u2014In the case of an individual (and, if married, such individual's spouse) who has owned and used the same residence as such individual's principal residence for any 5-consecutive-year period during the 8-year period ending on the date of the purchase of a subsequent principal residence, such individual shall be treated as a first-time homebuyer for purposes of this section with respect to the purchase of such subsequent residence.",
+    "conditions": [
+      "married, such individual's spouse) who has owned and used the same residence as such individual's principal residence for any 5-consecutive-year period during the 8-year period ending on the date of the purchase of a subsequent principal residence, such individual shall be treated as a first-time homebuyer for purposes of this section with respect to the purchase of such subsequent residence."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "married, such individual's spouse) who has owned and used the same residence as such individual's principal residence for any 5-consecutive-year period during the 8-year period ending on the date of the purchase of a subsequent principal residence, such individual shall be treated as a first-time homebuyer for purposes of this section with respect to the purchase of such subsequent residence."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Time Residents Of Same Principal Residence\u2014In the case of an individual (and,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(c)(6)Exception For Long-Time Residents Of Same Principal Residence\u2014In the case of an individual (and, if married, such individual's spouse) who has owned\n                     and used the same residence as such individual's principal residence for any 5-consecutive-year\n                     period during the 8-year period ending on the date of the purchase of a subsequent\n                     principal residence, such individual shall be treated as a first-time homebuyer for\n                     purposes of this section with respect to the purchase of such subsequent residence.",
+    "definitions": null
+  },
+  {
+    "section": "36",
+    "subsection": "(d)",
+    "source_subsections": [
+      "(d)",
+      "(d)(1)",
+      "(d)(2)",
+      "(d)(3)",
+      "(d)(4)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "No credit under subsection(a)shall be allowed to any taxpayer for any taxable year with respect to the purchase of a residence if\u2014\u2014the taxpayer is a nonresident alien,\u2014the taxpayer disposes of such residence (or such residence ceases to be the principal residence of the taxpayer (and, if married, the taxpayer's spouse)) before the close of such taxable year,\u2014a deduction under section151with respect to such taxpayer is allowable to another taxpayer for such taxable year, or\u2014the taxpayer fails to attach to the return of tax for such taxable year a properly executed copy of the settlement statement used to complete such purchase.",
+    "conditions": [
+      "\u2014\u2014the taxpayer is a nonresident alien,\u2014the taxpayer disposes of such residence (or such residence ceases to be the principal residence of the taxpayer (and,",
+      "married, the taxpayer's spouse)) before the close of such taxable year,\u2014a deduction under section151with respect to such taxpayer is allowable to another taxpayer for such taxable year, or\u2014the taxpayer fails to attach to the return of tax for such taxable year a properly executed copy of the settlement statement used to complete such purchase."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014the taxpayer is a nonresident alien,\u2014the taxpayer disposes of such residence (or such residence ceases to be the principal residence of the taxpayer (and,",
+        "married, the taxpayer's spouse)) before the close of such taxable year,\u2014a deduction under section151with respect to such taxpayer is allowable to another taxpayer for such taxable year, or\u2014the taxpayer fails to attach to the return of tax for such taxable year a properly executed copy of the settlement statement used to complete such purchase."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit under subsection(a)shall be allowed to any taxpayer for any taxable year with respect to the purchase of a residence"
+    },
+    "cross_references": [
+      {
+        "section": "151w",
+        "reason": "xable year,\u2014a deduction under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(d)Exceptions\u2014No credit under subsection(a)shall be allowed to any taxpayer for any taxable year with respect to the purchase\n                  of a residence if\u2014I.R.C. \u00a7 36(d)(1)\u2014the taxpayer is a nonresident alien,I.R.C. \u00a7 36(d)(2)\u2014the taxpayer disposes of such residence\n                     (or such residence ceases to be the principal residence of the taxpayer\n                     (and, if married, the taxpayer's spouse)) before the close of such taxable year,I.R.C. \u00a7 36(d)(3)\u2014a deduction under section151with respect to such taxpayer is allowable to another taxpayer for such taxable year,\n                     orI.R.C. \u00a7 36(d)(4)\u2014the taxpayer fails to attach to the return of tax for such taxable year a properly\n                     executed copy of the settlement statement used to complete such purchase.",
+    "definitions": null
+  },
+  {
+    "section": "36",
+    "subsection": "(e)",
+    "source_subsections": [
+      "(e)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "If the Secretary requires information reporting under section6045by a person described in subsection(e)(2)thereof to verify the eligibility of taxpayers for the credit allowable by this section, the exception provided by section6045(e)shall not apply.",
+    "conditions": [
+      "the Secretary requires information reporting under section6045by a person described in subsection(e)(2)thereof to verify the eligibility of taxpayers for the credit allowable by this section, the exception provided by section6045(e)shall not apply."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the Secretary requires information reporting under section6045by a person described in subsection(e)(2)thereof to verify the eligibility of taxpayers for the credit allowable by this section, the exception provided by section6045(e)shall not apply."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "6045b",
+        "reason": "s information reporting under..."
+      },
+      {
+        "section": "6045(e)",
+        "reason": "on, the exception provided by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(e)Reporting\u2014If the Secretary requires information reporting under section6045by a person described in subsection(e)(2)thereof to verify the eligibility of taxpayers for the credit allowable by this section,\n                  the exception provided by section6045(e)shall not apply.",
+    "definitions": null
+  },
+  {
+    "section": "36",
+    "subsection": "(f)(1)",
+    "source_subsections": [
+      "(f)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Except as otherwise provided in this subsection, if a credit under subsection(a)is allowed to a taxpayer, the tax imposed by this chapter shall be increased by 6 2/3 percent of the amount of such credit for each taxable year in the recapture period.",
+    "conditions": [
+      "a credit under subsection(a)is allowed to a taxpayer, the tax imposed by this chapter shall be increased by 6 2/3 percent of the amount of such credit for each taxable year in the recapture period."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.03,
+        "text": "3 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "a credit under subsection(a)is allowed to a taxpayer, the tax imposed by this chapter shall be increased by 6 2/3 percent of the amount of such credit for each taxable year in the recapture period."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as otherwise provided in this subsection,"
+      ],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(f)(1)In General\u2014Except as otherwise provided in this subsection, if a credit under subsection(a)is allowed to a taxpayer, the tax imposed by this chapter shall be increased by 6\n                     2/3 percent of the amount of such credit for each taxable year in the recapture period.",
+    "definitions": null
+  },
+  {
+    "section": "36",
+    "subsection": "(f)(2)",
+    "source_subsections": [
+      "(f)(2)",
+      "(f)(2)(A)",
+      "(f)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Recapture",
+    "text": "If a taxpayer disposes of the principal residence with respect to which a credit was allowed under subsection(a)(or such residence ceases to be the principal residence of the taxpayer (and, if married, the taxpayer's spouse)) before the end of the recapture period\u2014\u2014the tax imposed by this chapter for the taxable year of such disposition or cessation shall be increased by the excess of the amount of the credit allowed over the amounts of tax imposed by paragraph(1)for preceding taxable years, and\u2014paragraph(1)shall not apply with respect to such credit for such taxable year or any subsequent taxable year.",
+    "conditions": [
+      "a taxpayer disposes of the principal residence with respect to which a credit was allowed under subsection(a)(or such residence ceases to be the principal residence of the taxpayer (and,",
+      "married, the taxpayer's spouse)) before the end of the recapture period\u2014\u2014the tax imposed by this chapter for the taxable year of such disposition or cessation shall be increased by the excess of the amount of the credit allowed over the amounts of tax imposed by paragraph(1)for preceding taxable years, and\u2014paragraph(1)shall not apply with respect to such credit for such taxable year or any subsequent taxable year."
+    ],
+    "computations": [
+      {
+        "operation": "subtraction",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "a taxpayer disposes of the principal residence with respect to which a credit was allowed under subsection(a)(or such residence ceases to be the principal residence of the taxpayer (and,",
+        "married, the taxpayer's spouse)) before the end of the recapture period\u2014\u2014the tax imposed by this chapter for the taxable year of such disposition or cessation shall be increased by the excess of the amount of the credit allowed over the amounts of tax imposed by paragraph(1)for preceding taxable years, and\u2014paragraph(1)shall not apply with respect to such credit for such taxable year or any subsequent taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(f)(2)Acceleration Of Recapture\u2014If a taxpayer disposes of the principal residence with respect to which a credit was\n                     allowed under subsection(a)(or such residence ceases to be the principal residence of the taxpayer (and, if\n                     married, the taxpayer's spouse)) before the end of the recapture period\u2014I.R.C. \u00a7 36(f)(2)(A)\u2014the tax imposed by this chapter for the taxable year of such disposition or cessation\n                        shall be increased by the excess of the amount of the credit allowed over the amounts\n                        of tax imposed by paragraph(1)for preceding taxable years, andI.R.C. \u00a7 36(f)(2)(B)\u2014paragraph(1)shall not apply with respect to such credit for such taxable year or any subsequent\n                        taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "36",
+    "subsection": "(f)(3)",
+    "source_subsections": [
+      "(f)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Based On Gain",
+    "text": "In the case of the sale of the principal residence to a person who is not related to the taxpayer, the increase in tax determined under paragraph(2)shall not exceed the amount of gain (if any) on such sale. Solely for purposes of the preceding sentence, the adjusted basis of such residence shall be reduced by the amount of the credit allowed under subsection(a)to the extent not previously recaptured under paragraph(1).",
+    "conditions": [
+      "any) on such sale. Solely for purposes of the preceding sentence, the adjusted basis of such residence shall be reduced by the amount of the credit allowed under subsection(a)to the extent not previously recaptured under paragraph(1)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any) on such sale. Solely for purposes of the preceding sentence, the adjusted basis of such residence shall be reduced by the amount of the credit allowed under subsection(a)to the extent not previously recaptured under paragraph(1)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of the sale of the principal residence to a person who is not related to the taxpayer, the increase in tax determined under paragraph(2)shall not exceed the amount of gain ("
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(f)(3)Limitation Based On Gain\u2014In the case of the sale of the principal residence to a person who is not related\n                     to the taxpayer, the increase in tax determined under paragraph(2)shall not exceed the amount of gain (if any) on such sale. Solely for purposes of\n                     the preceding sentence, the adjusted basis of such residence shall be reduced by the\n                     amount of the credit allowed under subsection(a)to the extent not previously recaptured under paragraph(1).",
+    "definitions": null
+  },
+  {
+    "section": "36",
+    "subsection": "(f)(4)(A)",
+    "source_subsections": [
+      "(f)(4)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Taxpayer",
+    "text": "Paragraphs(1)and(2)shall not apply to any taxable year ending after the date of the taxpayer's death.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Paragraphs(1)and(2)shall not apply to any taxable year ending after the date of the taxpayer's death."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(f)(4)(A)Death Of Taxpayer\u2014Paragraphs(1)and(2)shall not apply to any taxable year ending after the date of the taxpayer's death.",
+    "definitions": null
+  },
+  {
+    "section": "36",
+    "subsection": "(f)(4)(B)",
+    "source_subsections": [
+      "(f)(4)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Conversion",
+    "text": "Paragraph(2)shall not apply in the case of a residence which is compulsorily or involuntarily converted (within the meaning of section1033(a)) if the taxpayer acquires a new principal residence during the 2-year period beginning on the date of the disposition or cessation referred to in paragraph(2). Paragraph(2)shall apply to such new principal residence during the recapture period in the same manner as if such new principal residence were the converted residence.",
+    "conditions": [
+      "the taxpayer acquires a new principal residence during the 2-year period beginning on the date of the disposition or cessation referred to in paragraph(2). Paragraph(2)shall apply to such new principal residence during the recapture period in the same manner as",
+      "such new principal residence were the converted residence."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the taxpayer acquires a new principal residence during the 2-year period beginning on the date of the disposition or cessation referred to in paragraph(2). Paragraph(2)shall apply to such new principal residence during the recapture period in the same manner as",
+        "such new principal residence were the converted residence."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Paragraph(2)shall not apply in the case of a residence which is compulsorily or involuntarily converted (within the meaning of section1033(a))"
+    },
+    "cross_references": [
+      {
+        "section": "1033(a)",
+        "reason": "verted (within the meaning of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(f)(4)(B)Involuntary Conversion\u2014Paragraph(2)shall not apply in the case of a residence which is compulsorily or involuntarily\n                        converted (within the meaning of section1033(a)) if the taxpayer acquires a new principal residence during the 2-year period beginning\n                        on the date of the disposition or cessation referred to in paragraph(2). Paragraph(2)shall apply to such new principal residence during the recapture period in the same\n                        manner as if such new principal residence were the converted residence.",
+    "definitions": null
+  },
+  {
+    "section": "36",
+    "subsection": "(f)(4)(C)",
+    "source_subsections": [
+      "(f)(4)(C)",
+      "(f)(4)(C)(i)",
+      "(f)(4)(C)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Between Spouses Or Incident To Divorce",
+    "text": "In the case of a transfer of a residence to which section1041(a)applies\u2014\u2014paragraph ((2)shall not apply to such transfer, and\u2014in the case of taxable years ending after such transfer, paragraphs(1)and(2)shall apply to the transferee in the same manner as if such transferee were the transferor (and shall not apply to the transferor).",
+    "conditions": [
+      "such transferee were the transferor (and shall not apply to the transferor)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such transferee were the transferor (and shall not apply to the transferor)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a transfer of a residence to which section1041(a)applies\u2014\u2014paragraph ((2)shall not apply to such transfer, and\u2014in the case of taxable years ending after such transfer, paragraphs(1)and(2)shall apply to the transferee in the same manner as"
+    },
+    "cross_references": [
+      {
+        "section": "1041(a)",
+        "reason": "nsfer of a residence to which..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(f)(4)(C)Transfers Between Spouses Or Incident To Divorce\u2014In the case of a transfer of a residence to which section1041(a)applies\u2014I.R.C. \u00a7 36(f)(4)(C)(i)\u2014paragraph ((2)shall not apply to such transfer, andI.R.C. \u00a7 36(f)(4)(C)(ii)\u2014in the case of taxable years ending after such transfer, paragraphs(1)and(2)shall apply to the transferee in the same manner as if such transferee were the transferor\n                           (and shall not apply to the transferor).",
+    "definitions": null
+  },
+  {
+    "section": "36",
+    "subsection": "(f)(4)(D)",
+    "source_subsections": [
+      "(f)(4)(D)",
+      "(f)(4)(D)(i)",
+      "(f)(4)(D)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Recapture For Purchases In 2009 And 2010",
+    "text": "In the case of any credit allowed with respect to the purchase of a principal residence after December 31, 2008\u2014\u2014paragraph(1)shall not apply, and\u2014paragraph(2)shall apply only if the disposition or cessation described in paragraph(2)with respect to such residence occurs during the 36-month period beginning on the date of the purchase of such residence by the taxpayer.",
+    "conditions": [
+      "the disposition or cessation described in paragraph(2)with respect to such residence occurs during the 36-month period beginning on the date of the purchase of such residence by the taxpayer."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the disposition or cessation described in paragraph(2)with respect to such residence occurs during the 36-month period beginning on the date of the purchase of such residence by the taxpayer."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any credit allowed with respect to the purchase of a principal residence after December 31, 2008\u2014\u2014paragraph(1)shall not apply, and\u2014paragraph(2)shall apply only"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(f)(4)(D)Waiver Of Recapture For Purchases In 2009 And 2010\u2014In the case of any credit allowed with respect to the purchase of a principal residence\n                        after December 31, 2008\u2014I.R.C. \u00a7 36(f)(4)(D)(i)\u2014paragraph(1)shall not apply, andI.R.C. \u00a7 36(f)(4)(D)(ii)\u2014paragraph(2)shall apply only if the disposition or cessation described in paragraph(2)with respect to such residence occurs during the 36-month period beginning on the\n                           date of the purchase of such residence by the taxpayer.",
+    "definitions": null
+  },
+  {
+    "section": "36",
+    "subsection": "(f)(4)(E)(i)",
+    "source_subsections": [
+      "(f)(4)(E)(i)",
+      "(f)(4)(E)(i)(I)",
+      "(f)(4)(E)(i)(II)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "In the case of the disposition of a principal residence by an individual (or a cessation referred to in paragraph(2)) after December 31, 2008, in connection with Government orders received by such individual, or such individual's spouse, for qualified official extended duty service\u2014\u2014paragraph(2)and subsection(d)(2)shall not apply to such disposition (or cessation), and\u2014if such residence was acquired before January 1, 2009, paragraph(1)shall not apply to the taxable year in which such disposition (or cessation) occurs or any subsequent taxable year.",
+    "conditions": [
+      "such residence was acquired before January 1, 2009, paragraph(1)shall not apply to the taxable year in which such disposition (or cessation) occurs or any subsequent taxable year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such residence was acquired before January 1, 2009, paragraph(1)shall not apply to the taxable year in which such disposition (or cessation) occurs or any subsequent taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of the disposition of a principal residence by an individual (or a cessation referred to in paragraph(2)) after December 31, 2008, in connection with Government orders received by such individual, or such individual's spouse, for qualified official extended duty service\u2014\u2014paragraph(2)and subsection(d)(2)shall not apply to such disposition (or cessation), and\u2014"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(f)(4)(E)(i)In General\u2014In the case of the disposition of a principal residence by an individual (or a cessation\n                           referred to in paragraph(2)) after December 31, 2008, in connection with Government orders received by such individual,\n                           or such individual's spouse, for qualified official extended duty service\u2014I.R.C. \u00a7 36(f)(4)(E)(i)(I)\u2014paragraph(2)and subsection(d)(2)shall not apply to such disposition (or cessation), andI.R.C. \u00a7 36(f)(4)(E)(i)(II)\u2014if such residence was acquired before January 1, 2009, paragraph(1)shall not apply to the taxable year in which such disposition (or cessation)\n                              occurs or any subsequent taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "36",
+    "subsection": "(f)(4)(E)(ii)",
+    "source_subsections": [
+      "(f)(4)(E)(ii)",
+      "(f)(4)(E)(ii)(I)",
+      "(f)(4)(E)(ii)(II)",
+      "(f)(4)(E)(ii)(III)"
+    ],
+    "rule_type": "definition",
+    "title": "Official Extended Duty Service",
+    "text": "For purposes of this section, the term \u201cqualified official extended duty service\u201d means service on qualified official extended duty as\u2014a member of the uniformed services,\u2014a member of the Foreign Service of the United States, or\u2014an employee of the intelligence community.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u201cqualified official extended duty service\u201d means service on qualified official extended duty as\u2014a member of the uniformed services,\u2014a member of the Foreign Service of the United States, or\u2014an employee of the intelligence community."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(f)(4)(E)(ii)Qualified Official Extended Duty Service\u2014For purposes of this section, the term \u201cqualified official extended duty service\u201d\n                           means service on qualified official extended duty asI.R.C. \u00a7 36(f)(4)(E)(ii)(I)\u2014a member of the uniformed services,I.R.C. \u00a7 36(f)(4)(E)(ii)(II)\u2014a member of the Foreign Service of the United States, orI.R.C. \u00a7 36(f)(4)(E)(ii)(III)\u2014an employee of the intelligence community.",
+    "definitions": {
+      "term": "qualified official extended duty service",
+      "requirements": [
+        "service on qualified official extended duty as\u2014a member of the uniformed services,\u2014a member of the Foreign Service of the United States, or\u2014an employee of the intelligence community."
+      ]
+    }
+  },
+  {
+    "section": "36",
+    "subsection": "(f)(4)(E)(iii)",
+    "source_subsections": [
+      "(f)(4)(E)(iii)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "Any term used in this subparagraph which is also used in paragraph(9)of section121(d)shall have the same meaning as when used in such paragraph.",
+    "conditions": [
+      "used in such paragraph."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "used in such paragraph."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Any term used in this subparagraph which is also used in paragraph(9)of section121(d)shall have the same meaning as"
+    },
+    "cross_references": [
+      {
+        "section": "121(d)",
+        "reason": "s also used in paragraph(9)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(f)(4)(E)(iii)Definitions\u2014Any term used in this subparagraph which is also used in paragraph(9)of section121(d)shall have the same meaning as when used in such paragraph.",
+    "definitions": null
+  },
+  {
+    "section": "36",
+    "subsection": "(f)(5)",
+    "source_subsections": [
+      "(f)(5)"
+    ],
+    "rule_type": "condition",
+    "title": "Returns",
+    "text": "In the case of a credit allowed under subsection(a)with respect to a joint return, half of such credit shall be treated as having been allowed to each individual filing such return for purposes of this subsection.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a credit allowed under subsection(a)with respect to a joint return, half of such credit shall be treated as having been allowed to each individual filing such return for purposes of this subsection."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(f)(5)Joint Returns\u2014In the case of a credit allowed under subsection(a)with respect to a joint return, half of such credit shall be treated as having been\n                     allowed to each individual filing such return for purposes of this subsection.",
+    "definitions": null
+  },
+  {
+    "section": "36",
+    "subsection": "(f)(6)",
+    "source_subsections": [
+      "(f)(6)"
+    ],
+    "rule_type": "condition",
+    "title": "Requirement",
+    "text": "If the tax imposed by this chapter for the taxable year is increased under this subsection, the taxpayer shall, notwithstanding section6012, be required to file a return with respect to the taxes imposed under this subtitle.",
+    "conditions": [
+      "the tax imposed by this chapter for the taxable year is increased under this subsection, the taxpayer shall, notwithstanding section6012, be required to file a return with respect to the taxes imposed under this subtitle."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the tax imposed by this chapter for the taxable year is increased under this subsection, the taxpayer shall, notwithstanding section6012, be required to file a return with respect to the taxes imposed under this subtitle."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "6012",
+        "reason": "xpayer shall, notwithstanding..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(f)(6)Return Requirement\u2014If the tax imposed by this chapter for the taxable year is increased under this subsection,\n                     the taxpayer shall, notwithstanding section6012, be required to file a return with respect to the taxes imposed under this subtitle.",
+    "definitions": null
+  },
+  {
+    "section": "36",
+    "subsection": "(f)(7)",
+    "source_subsections": [
+      "(f)(7)"
+    ],
+    "rule_type": "definition",
+    "title": "Period",
+    "text": "For purposes of this subsection, the term \u2018recapture period\u2019 means the 15 taxable years beginning with the second taxable year following the taxable year in which the purchase of the principal residence for which a credit is allowed under subsection(a)was made.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection, the term \u2018recapture period\u2019 means the 15 taxable years beginning with the second taxable year following the taxable year in which the purchase of the principal residence for which a credit is allowed under subsection(a)was made."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(f)(7)Recapture Period\u2014For purposes of this subsection, the term \u2018recapture period\u2019 means the 15 taxable\n                     years beginning with the second taxable year following the taxable year in which the\n                     purchase of the principal residence for which a credit is allowed under subsection(a)was made.",
+    "definitions": null
+  },
+  {
+    "section": "36",
+    "subsection": "(g)",
+    "source_subsections": [
+      "(g)"
+    ],
+    "rule_type": "condition",
+    "title": "To Treat Purchase In Prior Year",
+    "text": "In the case of a purchase of a principal residence after December 31, 2008, a taxpayer may elect to treat such purchase as made on December 31 of the calendar year preceding such purchase for purposes of this section (other than subsections(b)(4),(c),(f)(4)(D), and(h)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a purchase of a principal residence after December 31, 2008, a taxpayer may elect to treat such purchase as made on December 31 of the calendar year preceding such purchase for purposes of this section (other than subsections(b)(4),(c),(f)(4)(D), and(h))."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(g)Election To Treat Purchase In Prior Year\u2014In the case of a purchase of a principal residence after December 31, 2008, a taxpayer\n                  may elect to treat such purchase as made on December 31 of the calendar year preceding\n                  such purchase for purposes of this section (other than subsections(b)(4),(c),(f)(4)(D), and(h)).",
+    "definitions": null
+  },
+  {
+    "section": "36",
+    "subsection": "(h)(1)",
+    "source_subsections": [
+      "(h)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "This section shall only apply to a principal residence purchased by the taxpayer on or after April 9, 2008, and before May 1, 2010.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "This section shall only apply to a principal residence purchased by the taxpayer on or after April 9, 2008, and before May 1, 2010."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(h)(1)In General\u2014This section shall only apply to a principal residence purchased by the taxpayer on\n                     or after April 9, 2008, and before May 1, 2010.",
+    "definitions": null
+  },
+  {
+    "section": "36",
+    "subsection": "(h)(2)",
+    "source_subsections": [
+      "(h)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "In Case Of Binding Contract",
+    "text": "In the case of any taxpayer who enters into a written binding contract before May 1, 2010, to close on the purchase of a principal residence before July 1, 2010, and who purchases such residence before October 1, 2010 paragraph(1)shall be applied by substituting \u201cOctober 1, 2010\u201d for \u201cMay 1, 2010\u201d.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any taxpayer who enters into a written binding contract before May 1, 2010, to close on the purchase of a principal residence before July 1, 2010, and who purchases such residence before October 1, 2010 paragraph(1)shall be applied by substituting \u201cOctober 1, 2010\u201d for \u201cMay 1, 2010\u201d."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(h)(2)Exception In Case Of Binding Contract\u2014In the case of any taxpayer who enters into a written binding contract before May\n                     1, 2010, to close on the purchase of a principal residence before July 1, 2010, and\n                     who purchases such residence before October 1, 2010 paragraph(1)shall be applied by substituting \u201cOctober 1, 2010\u201d for \u201cMay 1, 2010\u201d.",
+    "definitions": null
+  },
+  {
+    "section": "36",
+    "subsection": "(h)(3)",
+    "source_subsections": [
+      "(h)(3)",
+      "(h)(3)(A)",
+      "(h)(3)(B)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "In the case of any individual who serves on qualified official extended duty service (as defined in section121(d)(9)(C)(i)) outside the United States for at least 90 days during the period beginning after December 31, 2008, and ending before May 1, 2010, and, if married, such individual's spouse\u2014\u2014paragraphs(1)and(2)shall each be applied by substituting \u201cMay 1, 2011\u201d for \u201cMay 1, 2010\u201d, and\u2014paragraph(2)shall be applied by substituting \u201cJuly 1, 2011\u201d for \u201cJuly 1, 2010\u201d, and for \u201cOctober 1, 2010\u201d.",
+    "conditions": [
+      "married, such individual's spouse\u2014\u2014paragraphs(1)and(2)shall each be applied by substituting \u201cMay 1, 2011\u201d for \u201cMay 1, 2010\u201d, and\u2014paragraph(2)shall be applied by substituting \u201cJuly 1, 2011\u201d for \u201cJuly 1, 2010\u201d, and for \u201cOctober 1, 2010\u201d."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "married, such individual's spouse\u2014\u2014paragraphs(1)and(2)shall each be applied by substituting \u201cMay 1, 2011\u201d for \u201cMay 1, 2010\u201d, and\u2014paragraph(2)shall be applied by substituting \u201cJuly 1, 2011\u201d for \u201cJuly 1, 2010\u201d, and for \u201cOctober 1, 2010\u201d."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any individual who serves on qualified official extended duty service (as defined in section121(d)(9)(C)(i)) outside the United States for at least 90 days during the period beginning after December 31, 2008, and ending before May 1, 2010, and,"
+    },
+    "cross_references": [
+      {
+        "section": "121(d)(9)(C)(i)",
+        "reason": "d duty service (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36(h)(3)Special Rule For Individuals On Qualified Official Extended Duty Outside The United\n                     States\u2014In the case of any individual who serves on qualified official extended duty service\n                     (as defined in section121(d)(9)(C)(i)) outside the United States for at least 90 days during the period beginning after\n                     December 31, 2008, and ending before May 1, 2010, and, if married, such individual's\n                     spouse\u2014I.R.C. \u00a7 36(h)(3)(A)\u2014paragraphs(1)and(2)shall each be applied by substituting \u201cMay 1, 2011\u201d for \u201cMay 1, 2010\u201d, andI.R.C. \u00a7 36(h)(3)(B)\u2014paragraph(2)shall be applied by substituting \u201cJuly 1, 2011\u201d for \u201cJuly 1, 2010\u201d, and for \u201cOctober\n                        1, 2010\u201d.",
+    "definitions": null
+  }
+]

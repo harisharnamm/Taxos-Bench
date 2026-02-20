@@ -1,0 +1,1359 @@
+[
+  {
+    "section": "25",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)",
+      "(a)(1)(A)",
+      "(a)(1)(B)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the product of\u2014\u2014the certificate credit rate, and\u2014the interest paid or accrued by the taxpayer during the taxable year on the remaining principal of the certified indebtedness amount.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the product of\u2014\u2014the certificate credit rate, and\u2014the interest paid or accrued by the taxpayer during the taxable year on the remaining principal of the certified indebtedness amount."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(a)(1)In General\u2014There  shall be allowed as a credit against the tax imposed by this chapter for  the\n                     taxable year an amount equal to the product of\u2014I.R.C. \u00a7 25(a)(1)(A)\u2014the  certificate credit rate, andI.R.C. \u00a7 25(a)(1)(B)\u2014the  interest paid or accrued by the taxpayer during the taxable year on the  remaining\n                        principal of the certified indebtedness amount.",
+    "definitions": null
+  },
+  {
+    "section": "25",
+    "subsection": "(a)(2)(A)",
+    "source_subsections": [
+      "(a)(2)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "If the certificate credit rate exceeds 20 percent, the amount of the credit allowed to the taxpayer under paragraph(1)for any taxable year shall not exceed $2,000.",
+    "conditions": [
+      "the certificate credit rate exceeds 20 percent, the amount of the credit allowed to the taxpayer under paragraph(1)for any taxable year shall not exceed $2,000."
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 2000,
+        "text": "$2,000"
+      }
+    ],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.2,
+        "text": "20 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the certificate credit rate exceeds 20 percent, the amount of the credit allowed to the taxpayer under paragraph(1)for any taxable year shall not exceed $2,000."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(a)(2)(A)In General\u2014If  the certificate credit rate exceeds 20 percent, the amount of the credit  allowed\n                        to the taxpayer under paragraph(1)for any taxable year shall not  exceed $2,000.",
+    "definitions": null
+  },
+  {
+    "section": "25",
+    "subsection": "(a)(2)(B)",
+    "source_subsections": [
+      "(a)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Rule Where 2 Or More Persons Hold Interests In Residence",
+    "text": "If 2 or more persons hold interests in any residence, the limitation of subparagraph(A)shall be allocated among such persons in proportion to their respective interests in the residence.",
+    "conditions": [
+      "2 or more persons hold interests in any residence, the limitation of subparagraph(A)shall be allocated among such persons in proportion to their respective interests in the residence."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "2 or more persons hold interests in any residence, the limitation of subparagraph(A)shall be allocated among such persons in proportion to their respective interests in the residence."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(a)(2)(B)Special Rule Where 2 Or More Persons Hold Interests In Residence\u2014If  2 or more persons hold interests in any residence, the limitation of  subparagraph(A)shall be allocated among such persons in proportion to  their respective interests\n                        in the residence.",
+    "definitions": null
+  },
+  {
+    "section": "25",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)"
+    ],
+    "rule_type": "definition",
+    "title": "Credit Rate",
+    "text": "The term \u201ccertificate credit rate\u201d means the rate of the credit allowable by this section which is specified in the mortgage credit certificate.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201ccertificate credit rate\u201d means the rate of the credit allowable by this section which is specified in the mortgage credit certificate."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(b)(1)Certificate Credit Rate\u2014The  term \u201ccertificate credit rate\u201d means the rate of the credit allowable by  this\n                     section which is specified in the mortgage credit certificate.",
+    "definitions": {
+      "term": "certificate credit rate",
+      "requirements": [
+        "the rate of the credit allowable by this section which is specified in the mortgage credit certificate."
+      ]
+    }
+  },
+  {
+    "section": "25",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)",
+      "(b)(2)(A)",
+      "(b)(2)(A)(i)",
+      "(b)(2)(A)(ii)",
+      "(b)(2)(A)(iii)",
+      "(b)(2)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Indebtedness Amount",
+    "text": "The term \u201ccertified indebtedness amount\u201d means the amount of indebtedness which is\u2014\u2014incurred by the taxpayer\u2014\u2014to acquire the principal residence of the taxpayer,\u2014as a qualified home improvement loan (as defined in section143(k)(4)) with respect to such residence, or\u2014as a qualified rehabilitation loan (as defined in section143(k)(5)) with respect to such residence, and\u2014specified in the mortgage credit certificate.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201ccertified indebtedness amount\u201d means the amount of indebtedness which is\u2014\u2014incurred by the taxpayer\u2014\u2014to acquire the principal residence of the taxpayer,\u2014as a qualified home improvement loan (as defined in section143(k)(4)) with respect to such residence, or\u2014as a qualified rehabilitation loan (as defined in section143(k)(5)) with respect to such residence, and\u2014specified in the mortgage credit certificate."
+    },
+    "cross_references": [
+      {
+        "section": "143(k)(4)",
+        "reason": "provement loan (as defined in..."
+      },
+      {
+        "section": "143(k)(5)",
+        "reason": "ilitation loan (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(b)(2)Certified Indebtedness Amount\u2014The  term \u201ccertified indebtedness amount\u201d means the amount of indebtedness  which\n                     is\u2014I.R.C. \u00a7 25(b)(2)(A)\u2014incurred  by the taxpayer\u2014I.R.C. \u00a7 25(b)(2)(A)(i)\u2014to  acquire the principal residence of the taxpayer,I.R.C. \u00a7 25(b)(2)(A)(ii)\u2014as  a qualified home improvement loan\n                           (as defined in section143(k)(4))\n                           with  respect to such residence, orI.R.C. \u00a7 25(b)(2)(A)(iii)\u2014as  a qualified rehabilitation loan\n                           (as defined in section143(k)(5))\n                           with  respect to such residence, andI.R.C. \u00a7 25(b)(2)(B)\u2014specified  in the mortgage credit certificate.",
+    "definitions": {
+      "term": "certified indebtedness amount",
+      "requirements": [
+        "the amount of indebtedness which is\u2014\u2014incurred by the taxpayer\u2014\u2014to acquire the principal residence of the taxpayer,\u2014as a qualified home improvement loan (as defined in section143(k)(4)) with respect to such residence, or\u2014as a qualified rehabilitation loan (as defined in section143(k)(5)) with respect to such residence, and\u2014specified in the mortgage credit certificate."
+      ]
+    }
+  },
+  {
+    "section": "25",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)",
+      "(c)(1)(A)",
+      "(c)(1)(B)",
+      "(c)(1)(C)",
+      "(c)(1)(C)(i)",
+      "(c)(1)(C)(ii)",
+      "(c)(1)(D)"
+    ],
+    "rule_type": "definition",
+    "title": "Credit Certificate",
+    "text": "The term \u201cmortgage credit certificate\u201d means any certificate which\u2014\u2014is issued under a qualified mortgage credit certificate program by the State or political subdivision having the authority to issue a qualified mortgage bond to provide financing on the principal residence of the taxpayer,\u2014is issued to the taxpayer in connection with the acquisition, qualified rehabilitation, or qualified home improvement of the taxpayer's principal residence,\u2014specifies\u2014\u2014the certificate credit rate, and\u2014the certified indebtedness amount, and\u2014is in such form as the Secretary may prescribe.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cmortgage credit certificate\u201d means any certificate which\u2014\u2014is issued under a qualified mortgage credit certificate program by the State or political subdivision having the authority to issue a qualified mortgage bond to provide financing on the principal residence of the taxpayer,\u2014is issued to the taxpayer in connection with the acquisition, qualified rehabilitation, or qualified home improvement of the taxpayer's principal residence,\u2014specifies\u2014\u2014the certificate credit rate, and\u2014the certified indebtedness amount, and\u2014is in such form as the Secretary may prescribe."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(c)(1)Mortgage Credit Certificate\u2014The  term \u201cmortgage credit certificate\u201d means any certificate which\u2014I.R.C. \u00a7 25(c)(1)(A)\u2014is  issued under a qualified mortgage credit certificate program by the State  or\n                        political subdivision having the authority to issue a qualified  mortgage bond to\n                        provide financing on the principal residence of the  taxpayer,I.R.C. \u00a7 25(c)(1)(B)\u2014is  issued to the taxpayer in connection with the acquisition, qualified  rehabilitation,\n                        or qualified home improvement of the taxpayer's principal  residence,I.R.C. \u00a7 25(c)(1)(C)\u2014specifies\u2014I.R.C. \u00a7 25(c)(1)(C)(i)\u2014the  certificate credit rate, andI.R.C. \u00a7 25(c)(1)(C)(ii)\u2014the  certified indebtedness amount, andI.R.C. \u00a7 25(c)(1)(D)\u2014is in  such form as the Secretary may prescribe.",
+    "definitions": {
+      "term": "mortgage credit certificate",
+      "requirements": [
+        "any certificate which\u2014\u2014is issued under a qualified mortgage credit certificate program by the State or political subdivision having the authority to issue a qualified mortgage bond to provide financing on the principal residence of the taxpayer,\u2014is issued to the taxpayer in connection with the acquisition, qualified rehabilitation, or qualified home improvement of the taxpayer's principal residence,\u2014specifies\u2014\u2014the certificate credit rate, and\u2014the certified indebtedness amount, and\u2014is in such form as the Secretary may prescribe."
+      ]
+    }
+  },
+  {
+    "section": "25",
+    "subsection": "(c)(2)(A)",
+    "source_subsections": [
+      "(c)(2)(A)",
+      "(c)(2)(A)(i)",
+      "(c)(2)(A)(ii)",
+      "(c)(2)(A)(iii)",
+      "(c)(2)(A)(iii)(I)",
+      "(c)(2)(A)(iii)(II)",
+      "(c)(2)(A)(iii)(III)",
+      "(c)(2)(A)(iii)(IV)",
+      "(c)(2)(A)(iii)(V)",
+      "(c)(2)(A)(iii)(VI)",
+      "(c)(2)(A)(iv)",
+      "(c)(2)(A)(v)",
+      "(c)(2)(A)(vi)",
+      "(c)(2)(A)(vii)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cqualified mortgage credit certificate program\u201d means any program\u2014\u2014which is established by a State or political subdivision thereof for any calendar year for which it is authorized to issue qualified mortgage bonds,\u2014under which the issuing authority elects (in such manner and form as the Secretary may prescribe) not to issue an amount of private activity bonds which it may otherwise issue during such calendar year under section146,\u2014under which the indebtedness certified by mortgage credit certificates meets the requirements of the following subsections of section143(as modified by subparagraph(B)of this paragraph):\u2014subsection(c)(relating to residence requirements),\u2014subsection(d)(relating to 3-year requirement),\u2014subsection(e)(relating to purchase price requirement),\u2014subsection(f)(relating to income requirements),\u2014subsection(h)(relating to portion of loans required to be placed in targeted areas), and\u2014paragraph(1)of subsection(i)(relating to other requirements),\u2014under which no mortgage credit certificate may be issued with respect to any residence any of the financing of which is provided from the proceeds of a qualified mortgage bond or a qualified veterans' mortgage bond,\u2014except to the extent provided in regulations, which is not limited to indebtedness incurred from particular lenders,\u2014except to the extent provided in regulations, which provides that a mortgage credit certificate is not transferrable, and\u2014if the issuing authority allocates a block of mortgage credit certificates for use in connection with a particular development, which requires the developer to furnish to the issuing authority and the homebuyer a certificate that the price for the residence is no higher than it would be without the use of a mortgage credit certificate.Under regulations, rules similar to the rules of subparagraphs(B)and(C)of section143(a)(2)shall apply to the requirements of this subparagraph.",
+    "conditions": [
+      "the issuing authority allocates a block of mortgage credit certificates for use in connection with a particular development, which requires the developer to furnish to the issuing authority and the homebuyer a certificate that the price for the residence is no higher than it would be without the use of a mortgage credit certificate.Under regulations, rules similar to the rules of subparagraphs(B)and(C)of section143(a)(2)shall apply to the requirements of this subparagraph."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the issuing authority allocates a block of mortgage credit certificates for use in connection with a particular development, which requires the developer to furnish to the issuing authority and the homebuyer a certificate that the price for the residence is no higher than it would be without the use of a mortgage credit certificate.Under regulations, rules similar to the rules of subparagraphs(B)and(C)of section143(a)(2)shall apply to the requirements of this subparagraph."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "to the extent provided in regulations, which is not limited to indebtedness incurred from particular lenders,\u2014",
+        "to the extent provided in regulations, which provides that a mortgage credit certificate is not transferrable, and\u2014"
+      ],
+      "result": "The term \u201cqualified mortgage credit certificate program\u201d means any program\u2014\u2014which is established by a State or political subdivision thereof for any calendar year for which it is authorized to issue qualified mortgage bonds,\u2014under which the issuing authority elects (in such manner and form as the Secretary may prescribe) not to issue an amount of private activity bonds which it may otherwise issue during such calendar year under section146,\u2014under which the indebtedness certified by mortgage credit certificates meets the requirements of the following subsections of section143(as modified by subparagraph(B)of this paragraph):\u2014subsection(c)(relating to residence requirements),\u2014subsection(d)(relating to 3-year requirement),\u2014subsection(e)(relating to purchase price requirement),\u2014subsection(f)(relating to income requirements),\u2014subsection(h)(relating to portion of loans required to be placed in targeted areas), and\u2014paragraph(1)of subsection(i)(relating to other requirements),\u2014under which no mortgage credit certificate may be issued with respect to any residence any of the financing of which is provided from the proceeds of a qualified mortgage bond or a qualified veterans' mortgage bond,\u2014"
+    },
+    "cross_references": [
+      {
+        "section": "146",
+        "reason": "ring such calendar year under..."
+      },
+      {
+        "section": "143",
+        "reason": "the following subsections of..."
+      },
+      {
+        "section": "143(a)(2)",
+        "reason": "s of subparagraphs(B)and(C)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(c)(2)(A)In General\u2014The  term \u201cqualified mortgage credit certificate program\u201d means any program\u2014I.R.C. \u00a7 25(c)(2)(A)(i)\u2014which  is established by a State or political subdivision thereof for any  calendar\n                           year for which it is authorized to issue qualified mortgage  bonds,I.R.C. \u00a7 25(c)(2)(A)(ii)\u2014under  which the issuing authority elects (in such manner and form as the  Secretary\n                           may prescribe) not to issue an amount of private activity bonds  which it may otherwise\n                           issue during such calendar year under section146,I.R.C. \u00a7 25(c)(2)(A)(iii)\u2014under  which the indebtedness certified by mortgage credit certificates meets the\n                           requirements of the following subsections of section143(as modified by  subparagraph(B)of this paragraph):I.R.C. \u00a7 25(c)(2)(A)(iii)(I)\u2014subsection(c)(relating to residence requirements),I.R.C. \u00a7 25(c)(2)(A)(iii)(II)\u2014subsection(d)(relating to 3-year requirement),I.R.C. \u00a7 25(c)(2)(A)(iii)(III)\u2014subsection(e)(relating to purchase price requirement),I.R.C. \u00a7 25(c)(2)(A)(iii)(IV)\u2014subsection(f)(relating to income requirements),I.R.C. \u00a7 25(c)(2)(A)(iii)(V)\u2014subsection(h)(relating to portion of loans required to be placed in targeted  areas), andI.R.C. \u00a7 25(c)(2)(A)(iii)(VI)\u2014paragraph(1)of subsection(i)(relating to other requirements),I.R.C. \u00a7 25(c)(2)(A)(iv)\u2014under  which no mortgage credit certificate may be issued with respect to any  residence\n                           any of the financing of which is provided from the proceeds of a  qualified mortgage\n                           bond or a qualified veterans' mortgage bond,I.R.C. \u00a7 25(c)(2)(A)(v)\u2014except  to the extent provided in regulations, which is not limited to  indebtedness\n                           incurred from particular lenders,I.R.C. \u00a7 25(c)(2)(A)(vi)\u2014except  to the extent provided in regulations, which provides that a mortgage  credit\n                           certificate is not transferrable, andI.R.C. \u00a7 25(c)(2)(A)(vii)\u2014if  the issuing authority allocates a block of mortgage credit certificates  for use\n                           in connection with a particular development, which requires the  developer to furnish\n                           to the issuing authority and the homebuyer a  certificate that the price for the residence\n                           is no higher than it would be  without the use of a mortgage credit certificate.Under regulations, rules similar to the rules of  subparagraphs(B)and(C)of section143(a)(2)shall apply to the  requirements of this subparagraph.",
+    "definitions": {
+      "term": "qualified mortgage credit certificate program",
+      "requirements": [
+        "any program\u2014\u2014which is established by a State or political subdivision thereof for any calendar year for which it is authorized to issue qualified mortgage bonds,\u2014under which the issuing authority elects (in such manner and form as the Secretary may prescribe) not to issue an amount of private activity bonds which it may otherwise issue during such calendar year under section146,\u2014under which the indebtedness certified by mortgage credit certificates meets the requirements of the following subsections of section143(as modified by subparagraph(B)of this paragraph):\u2014subsection(c)(relating to residence requirements),\u2014subsection(d)(relating to 3-year requirement),\u2014subsection(e)(relating to purchase price requirement),\u2014subsection(f)(relating to income requirements),\u2014subsection(h)(relating to portion of loans required to be placed in targeted areas), and\u2014paragraph(1)of subsection(i)(relating to other requirements),\u2014under which no mortgage credit certificate may be issued with respect to any residence any of the financing of which is provided from the proceeds of a qualified mortgage bond or a qualified veterans' mortgage bond,\u2014except to the extent provided in regulations, which is not limited to indebtedness incurred from particular lenders,\u2014except to the extent provided in regulations, which provides that a mortgage credit certificate is not transferrable, and\u2014if the issuing authority allocates a block of mortgage credit certificates for use in connection with a particular development, which requires the developer to furnish to the issuing authority and the homebuyer a certificate that the price for the residence is no higher than it would be without the use of a mortgage credit certificate.Under regulations, rules similar to the rules of subparagraphs(B)and(C)of section143(a)(2)shall apply to the requirements of this subparagraph."
+      ]
+    }
+  },
+  {
+    "section": "25",
+    "subsection": "(c)(2)(B)",
+    "source_subsections": [
+      "(c)(2)(B)",
+      "(c)(2)(B)(i)",
+      "(c)(2)(B)(ii)",
+      "(c)(2)(B)(ii)(I)",
+      "(c)(2)(B)(ii)(II)",
+      "(c)(2)(B)(iii)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Section 143",
+    "text": "Under regulations prescribed by the Secretary, in applying section143for purposes of subclauses(II),(IV), and(V)of subparagraph(A)(iii)\u2014\u2014each qualified mortgage certificate credit program shall be treated as a separate issue,\u2014the product determined by multiplying\u2014\u2014the certified indebtedness amount of each mortgage credit certificate issued under such program, by\u2014the certificate credit rate specified in such certificate, shall be treated as proceeds of such issue and the sum of such products shall be treated as the total proceeds of such issue, and\u2014paragraph(1)of section143(d)shall be applied by substituting \u201c100 percent\u201d for \u201c95 percent or more\u201d.Clause(iii)shall not apply if the issuing authority submits a plan to the Secretary for administering the 95-percent requirement of section143(d)(1)and the Secretary is satisfied that such requirement will be met under such plan.",
+    "conditions": [
+      "the issuing authority submits a plan to the Secretary for administering the 95-percent requirement of section143(d)(1)and the Secretary is satisfied that such requirement will be met under such plan."
+    ],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 1.0,
+        "text": "100 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.95,
+        "text": "95 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the issuing authority submits a plan to the Secretary for administering the 95-percent requirement of section143(d)(1)and the Secretary is satisfied that such requirement will be met under such plan."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Under regulations prescribed by the Secretary, in applying section143for purposes of subclauses(II),(IV), and(V)of subparagraph(A)(iii)\u2014\u2014each qualified mortgage certificate credit program shall be treated as a separate issue,\u2014the product determined by multiplying\u2014\u2014the certified indebtedness amount of each mortgage credit certificate issued under such program, by\u2014the certificate credit rate specified in such certificate, shall be treated as proceeds of such issue and the sum of such products shall be treated as the total proceeds of such issue, and\u2014paragraph(1)of section143(d)shall be applied by substituting \u201c100 percent\u201d for \u201c95 percent or more\u201d.Clause(iii)shall not apply"
+    },
+    "cross_references": [
+      {
+        "section": "143f",
+        "reason": "by the Secretary, in applying..."
+      },
+      {
+        "section": "143(d)",
+        "reason": "uch issue, and\u2014paragraph(1)of..."
+      },
+      {
+        "section": "143(d)(1)",
+        "reason": "the 95-percent requirement of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(c)(2)(B)Modifications Of Section 143\u2014Under  regulations prescribed by the Secretary, in applying section143for\n                        purposes of subclauses(II),(IV), and(V)of subparagraph(A)(iii)\u2014I.R.C. \u00a7 25(c)(2)(B)(i)\u2014each  qualified mortgage certificate credit program shall be treated as a  separate\n                           issue,I.R.C. \u00a7 25(c)(2)(B)(ii)\u2014the  product determined by multiplying\u2014I.R.C. \u00a7 25(c)(2)(B)(ii)(I)\u2014the  certified indebtedness amount of each mortgage credit certificate issued  under\n                              such program, byI.R.C. \u00a7 25(c)(2)(B)(ii)(II)\u2014the  certificate credit rate specified in such certificate, shall be treated as  proceeds\n                              of such issue and the sum of such products shall be treated as  the total proceeds\n                              of such issue, andI.R.C. \u00a7 25(c)(2)(B)(iii)\u2014paragraph(1)of section143(d)shall be applied by substituting \u201c100 percent\u201d for  \u201c95 percent or more\u201d.Clause(iii)shall not apply if the issuing authority  submits a plan to the Secretary for administering\n                           the 95-percent  requirement of section143(d)(1)and the Secretary is satisfied that such  requirement will be met under such plan.",
+    "definitions": null
+  },
+  {
+    "section": "25",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "The certificate credit rate specified in any mortgage credit certificate shall not be less than 10 percent or more than 50 percent.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.1,
+        "text": "10 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The certificate credit rate specified in any mortgage credit certificate shall not be less than 10 percent or more than 50 percent."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(d)(1)In General\u2014The  certificate credit rate specified in any mortgage credit certificate shall  not\n                     be less than 10 percent or more than 50 percent.",
+    "definitions": null
+  },
+  {
+    "section": "25",
+    "subsection": "(d)(2)(A)",
+    "source_subsections": [
+      "(d)(2)(A)",
+      "(d)(2)(A)(i)",
+      "(d)(2)(A)(ii)"
+    ],
+    "rule_type": "limitation",
+    "title": "General",
+    "text": "In the case of each qualified mortgage credit certificate program, the sum of the products determined by multiplying\u2014\u2014the certified indebtedness amount of each mortgage credit certificate issued under such program, by\u2014the certificate credit rate with respect to such certificate,shall not exceed 25 percent of the nonissued bond amount.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.25,
+        "text": "25 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of each qualified mortgage credit certificate program, the sum of the products determined by multiplying\u2014\u2014the certified indebtedness amount of each mortgage credit certificate issued under such program, by\u2014the certificate credit rate with respect to such certificate,shall not exceed 25 percent of the nonissued bond amount."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(d)(2)(A)In General\u2014In  the case of each qualified mortgage credit certificate program, the sum of  the\n                        products determined by multiplying\u2014I.R.C. \u00a7 25(d)(2)(A)(i)\u2014the  certified indebtedness amount of each mortgage credit certificate issued  under\n                           such program, byI.R.C. \u00a7 25(d)(2)(A)(ii)\u2014the certificate credit rate with respect to such  certificate,shall not exceed 25 percent of the\n                           nonissued bond amount.",
+    "definitions": null
+  },
+  {
+    "section": "25",
+    "subsection": "(d)(2)(B)",
+    "source_subsections": [
+      "(d)(2)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Bond Amount",
+    "text": "For purposes of subparagraph(A), the term \u201cnonissued bond amount\u201d means, with respect to any qualified mortgage credit certificate program, the amount of qualified mortgage bonds which the issuing authority is otherwise authorized to issue and elects not to issue under subsection(c)(2)(A)(ii).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph(A), the term \u201cnonissued bond amount\u201d means, with respect to any qualified mortgage credit certificate program, the amount of qualified mortgage bonds which the issuing authority is otherwise authorized to issue and elects not to issue under subsection(c)(2)(A)(ii)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(d)(2)(B)Nonissued Bond Amount\u2014For  purposes of subparagraph(A), the term \u201cnonissued bond amount\u201d means, with  respect to any qualified mortgage\n                        credit certificate program, the amount  of qualified mortgage bonds which the issuing\n                        authority is otherwise  authorized to issue and elects not to issue under subsection(c)(2)(A)(ii).",
+    "definitions": null
+  },
+  {
+    "section": "25",
+    "subsection": "(e)(1)(A)",
+    "source_subsections": [
+      "(e)(1)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "If the credit allowable under subsection(a)for any taxable year exceeds the applicable tax limit for such taxable year, such excess shall be a carryover to each of the 3 succeeding taxable years and, subject to the limitations of subparagraph(B), shall be added to the credit allowable by subsection(a)for such succeeding taxable year.",
+    "conditions": [
+      "the credit allowable under subsection(a)for any taxable year exceeds the applicable tax limit for such taxable year, such excess shall be a carryover to each of the 3 succeeding taxable years and, subject to the limitations of subparagraph(B), shall be added to the credit allowable by subsection(a)for such succeeding taxable year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the credit allowable under subsection(a)for any taxable year exceeds the applicable tax limit for such taxable year, such excess shall be a carryover to each of the 3 succeeding taxable years and, subject to the limitations of subparagraph(B), shall be added to the credit allowable by subsection(a)for such succeeding taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(e)(1)(A)In General\u2014If  the credit allowable under subsection(a)for any taxable year exceeds the  applicable tax limit for such taxable year, such\n                        excess shall be a  carryover to each of the 3 succeeding taxable years and, subject\n                        to the  limitations of subparagraph(B), shall be added to the credit allowable by  subsection(a)for such succeeding taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "25",
+    "subsection": "(e)(1)(B)",
+    "source_subsections": [
+      "(e)(1)(B)",
+      "(e)(1)(B)(i)",
+      "(e)(1)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The amount of the unused credit which may be taken into account under subparagraph(A)for any taxable year shall not exceed the amount (if any) by which the applicable tax limit for such taxable year exceeds the sum of\u2014\u2014the credit allowable under subsection(a)for such taxable year determined without regard to this paragraph, and\u2014the amounts which, by reason of this paragraph, are carried to such taxable year and are attributable to taxable years before the unused credit year.",
+    "conditions": [
+      "any) by which the applicable tax limit for such taxable year exceeds the sum of\u2014\u2014the credit allowable under subsection(a)for such taxable year determined without regard to this paragraph, and\u2014the amounts which, by reason of this paragraph, are carried to such taxable year and are attributable to taxable years before the unused credit year."
+    ],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any) by which the applicable tax limit for such taxable year exceeds the sum of\u2014\u2014the credit allowable under subsection(a)for such taxable year determined without regard to this paragraph, and\u2014the amounts which, by reason of this paragraph, are carried to such taxable year and are attributable to taxable years before the unused credit year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of the unused credit which may be taken into account under subparagraph(A)for any taxable year shall not exceed the amount ("
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(e)(1)(B)Limitation\u2014The  amount of the unused credit which may be taken into account under  subparagraph(A)for any taxable year shall not exceed the amount (if any)  by which the applicable\n                        tax limit for such taxable year exceeds the sum  of\u2014I.R.C. \u00a7 25(e)(1)(B)(i)\u2014the  credit allowable under subsection(a)for such taxable year determined\n                           without regard to this paragraph, andI.R.C. \u00a7 25(e)(1)(B)(ii)\u2014the  amounts which, by reason of this paragraph, are carried to such taxable  year\n                           and are attributable to taxable years before the unused credit year.",
+    "definitions": null
+  },
+  {
+    "section": "25",
+    "subsection": "(e)(1)(C)",
+    "source_subsections": [
+      "(e)(1)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "Tax Limit",
+    "text": "For purposes of this paragraph, the term \u201capplicable tax limit\u201d means the limitation imposed by section26(a)for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections23[,]25D, and25F).",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the term \u201capplicable tax limit\u201d means the limitation imposed by section26(a)for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections23[,]25D, and25F)."
+    },
+    "cross_references": [
+      {
+        "section": "26(a)",
+        "reason": "ans the limitation imposed by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(e)(1)(C)Applicable Tax Limit\u2014For purposes of this paragraph, the term \u201capplicable tax limit\u201d means the limitation\n                        imposed by section26(a)for the taxable year reduced by the sum of the credits allowable under this subpart\n                        (other than this section and sections23[,]25D, and25F).",
+    "definitions": {
+      "term": "applicable tax limit",
+      "requirements": [
+        "the limitation imposed by section26(a)for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections23[,]25D, and25F)."
+      ]
+    }
+  },
+  {
+    "section": "25",
+    "subsection": "(e)(10)",
+    "source_subsections": [
+      "(e)(10)"
+    ],
+    "rule_type": "definition",
+    "title": "Housing",
+    "text": "For purposes of this section, the term \u201csingle family residence\u201d includes any manufactured home which has a minimum of 400 square feet of living space and a minimum width in excess of 102 inches and which is of a kind customarily used at a fixed location. Nothing in the preceding sentence shall be construed as providing that such a home will be taken into account in making determinations under section143.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u201csingle family residence\u201d includes any manufactured home which has a minimum of 400 square feet of living space and a minimum width in excess of 102 inches and which is of a kind customarily used at a fixed location. Nothing in the preceding sentence shall be construed as providing that such a home will be taken into account in making determinations under section143."
+    },
+    "cross_references": [
+      {
+        "section": "143",
+        "reason": "n making determinations under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(e)(10)Manufactured Housing\u2014For  purposes of this section, the term \u201csingle family residence\u201d includes any  manufactured\n                     home which has a minimum of 400 square feet of living space  and a minimum width in\n                     excess of 102 inches and which is of a kind  customarily used at a fixed location.\n                     Nothing in the preceding sentence  shall be construed as providing that such a home\n                     will be taken into  account in making determinations under section143.",
+    "definitions": null
+  },
+  {
+    "section": "25",
+    "subsection": "(e)(2)",
+    "source_subsections": [
+      "(e)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Not Treated As Certified Where Certain Requirements Not In Fact Met",
+    "text": "Subsection(a)shall not apply to any indebtedness if all the requirements of subsection(c)(1),(d),(e),(f), and(i)of section143and clauses(iv),(v), and(vii)of subsection(c)(2)(A), were not in fact met with respect to such indebtedness. Except to the extent provided in regulations, the requirements described in the preceding sentence shall be treated as met if there is a certification, under penalty of perjury, that such requirements are met.",
+    "conditions": [
+      "all the requirements of subsection(c)(1),(d),(e),(f), and(i)of section143and clauses(iv),(v), and(vii)of subsection(c)(2)(A), were not in fact met with respect to such indebtedness.",
+      "there is a certification, under penalty of perjury, that such requirements are met."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "all the requirements of subsection(c)(1),(d),(e),(f), and(i)of section143and clauses(iv),(v), and(vii)of subsection(c)(2)(A), were not in fact met with respect to such indebtedness.",
+        "there is a certification, under penalty of perjury, that such requirements are met."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "to the extent provided in regulations, the requirements described in the preceding sentence shall be treated as met"
+      ],
+      "result": "Subsection(a)shall not apply to any indebtedness"
+    },
+    "cross_references": [
+      {
+        "section": "143a",
+        "reason": "n(c)(1),(d),(e),(f), and(i)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(e)(2)Indebtedness Not Treated As Certified Where Certain Requirements Not In Fact Met\u2014Subsection(a)shall not apply to any indebtedness if all the requirements of  subsection(c)(1),(d),(e),(f), and(i)of section143and clauses(iv),(v), and(vii)of subsection(c)(2)(A), were not in fact met with respect  to such indebtedness. Except to the extent provided\n                     in regulations, the  requirements described in the preceding sentence shall be treated\n                     as met  if there is a certification, under penalty of perjury, that such  requirements\n                     are met.",
+    "definitions": null
+  },
+  {
+    "section": "25",
+    "subsection": "(e)(3)(A)",
+    "source_subsections": [
+      "(e)(3)(A)",
+      "(e)(3)(A)(i)",
+      "(e)(3)(A)(ii)",
+      "(e)(3)(A)(ii)(I)",
+      "(e)(3)(A)(ii)(II)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Except as provided in subparagraph(B), a mortgage credit certificate shall be treated as in effect with respect to interest attributable to the period\u2014\u2014beginning on the date such certificate is issued, and\u2014ending on the earlier of the date on which\u2014\u2014the certificate is revoked by the issuing authority, or\u2014the residence to which such certificate relates ceases to be the principal residence of the individual to whom the certificate relates.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [
+      {
+        "applies_when": "subparagraph(B)",
+        "effect": "See referenced section"
+      }
+    ],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as provided in subparagraph(B), a mortgage credit certificate shall be treated as in effect with respect to interest attributable to the period\u2014\u2014beginning on the date such certificate is issued, and\u2014ending on the earlier of the date on which\u2014\u2014the certificate is revoked by the issuing authority, or\u2014the residence to which such certificate relates ceases to be the principal residence of the individual to whom the certificate relates."
+      ],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(e)(3)(A)In General\u2014Except  as provided in subparagraph(B), a mortgage credit certificate shall be  treated as in effect with respect to interest\n                        attributable to the period\u2014I.R.C. \u00a7 25(e)(3)(A)(i)\u2014beginning  on the date such certificate is issued, andI.R.C. \u00a7 25(e)(3)(A)(ii)\u2014ending  on the earlier of the date on which\u2014I.R.C. \u00a7 25(e)(3)(A)(ii)(I)\u2014the  certificate is revoked by the issuing authority, orI.R.C. \u00a7 25(e)(3)(A)(ii)(II)\u2014the  residence to which such certificate relates ceases to be the principal  residence\n                              of the individual to whom the certificate relates.",
+    "definitions": null
+  },
+  {
+    "section": "25",
+    "subsection": "(e)(3)(B)",
+    "source_subsections": [
+      "(e)(3)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Invalid Unless Indebtedness Incurred Within Certain Period",
+    "text": "A certificate shall not apply to any indebtedness which is incurred after the close of the second calendar year following the calendar year for which the issuing authority made the applicable election under subsection(c)(2)(A)(ii).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "A certificate shall not apply to any indebtedness which is incurred after the close of the second calendar year following the calendar year for which the issuing authority made the applicable election under subsection(c)(2)(A)(ii)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(e)(3)(B)Certificate Invalid Unless Indebtedness Incurred Within Certain Period\u2014A  certificate shall not apply to any indebtedness which is incurred after  the close\n                        of the second calendar year following the calendar year for  which the issuing authority\n                        made the applicable election under subsection(c)(2)(A)(ii).",
+    "definitions": null
+  },
+  {
+    "section": "25",
+    "subsection": "(e)(3)(C)",
+    "source_subsections": [
+      "(e)(3)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "To Secretary When Certificate Revoked",
+    "text": "Any issuing authority which revokes any mortgage credit certificate shall notify the Secretary of such revocation at such time and in such manner as the Secretary shall prescribe by regulations.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Any issuing authority which revokes any mortgage credit certificate shall notify the Secretary of such revocation at such time and in such manner as the Secretary shall prescribe by regulations."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(e)(3)(C)Notice To Secretary When Certificate Revoked\u2014Any  issuing authority which revokes any mortgage credit certificate shall  notify\n                        the Secretary of such revocation at such time and in such manner as  the Secretary\n                        shall prescribe by regulations.",
+    "definitions": null
+  },
+  {
+    "section": "25",
+    "subsection": "(e)(4)",
+    "source_subsections": [
+      "(e)(4)"
+    ],
+    "rule_type": "computation",
+    "title": "Of Mortgage Credit Certificates",
+    "text": "The Secretary may prescribe regulations which allow the administrator of a mortgage credit certificate program to reissue a mortgage credit certificate specifying a certified mortgage indebtedness that replaces the outstanding balance of the certified mortgage indebtedness specified on the original certificate to any taxpayer to whom the original certificate was issued, under such terms and conditions as the Secretary determines are necessary to ensure that the amount of the credit allowable under subsection(a)with respect to such reissued certificate is equal to or less than the amount of credit which would be allowable under subsection(a)with respect to the original certificate for any taxable year ending after such reissuance.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary may prescribe regulations which allow the administrator of a mortgage credit certificate program to reissue a mortgage credit certificate specifying a certified mortgage indebtedness that replaces the outstanding balance of the certified mortgage indebtedness specified on the original certificate to any taxpayer to whom the original certificate was issued, under such terms and conditions as the Secretary determines are necessary to ensure that the amount of the credit allowable under subsection(a)with respect to such reissued certificate is equal to or less than the amount of credit which would be allowable under subsection(a)with respect to the original certificate for any taxable year ending after such reissuance."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(e)(4)Reissuance Of Mortgage Credit Certificates\u2014The  Secretary may prescribe regulations which allow the administrator of a  mortgage\n                     credit certificate program to reissue a mortgage credit  certificate specifying a\n                     certified mortgage indebtedness that replaces the  outstanding balance of the certified\n                     mortgage indebtedness specified on  the original certificate to any taxpayer to whom\n                     the original certificate  was issued, under such terms and conditions as the Secretary\n                     determines  are necessary to ensure that the amount of the credit allowable under\n                     subsection(a)with respect to such reissued certificate is equal to or  less than the amount of\n                     credit which would be allowable under subsection(a)with respect to the original certificate for any taxable year ending  after such\n                     reissuance.",
+    "definitions": null
+  },
+  {
+    "section": "25",
+    "subsection": "(e)(5)",
+    "source_subsections": [
+      "(e)(5)",
+      "(e)(5)(A)",
+      "(e)(5)(B)",
+      "(e)(5)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "Notice That Certificates Will Be Issued",
+    "text": "At least 90 days before any mortgage credit certificate is to be issued after a qualified mortgage credit certificate program, the issuing authority shall provide reasonable public notice of\u2014\u2014the eligibility requirements for such certificate,\u2014the methods by which such certificates are to be issued, and\u2014such other information as the Secretary may require.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "At least 90 days before any mortgage credit certificate is to be issued after a qualified mortgage credit certificate program, the issuing authority shall provide reasonable public notice of\u2014\u2014the eligibility requirements for such certificate,\u2014the methods by which such certificates are to be issued, and\u2014such other information as the Secretary may require."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(e)(5)Public Notice That Certificates Will Be Issued\u2014At  least 90 days before any mortgage credit certificate is to be issued after  a\n                     qualified mortgage credit certificate program, the issuing authority  shall provide\n                     reasonable public notice of\u2014I.R.C. \u00a7 25(e)(5)(A)\u2014the  eligibility requirements for such certificate,I.R.C. \u00a7 25(e)(5)(B)\u2014the  methods by which such certificates are to be issued, andI.R.C. \u00a7 25(e)(5)(C)\u2014such  other information as the Secretary may require.",
+    "definitions": null
+  },
+  {
+    "section": "25",
+    "subsection": "(e)(6)",
+    "source_subsections": [
+      "(e)(6)"
+    ],
+    "rule_type": "condition",
+    "title": "Paid Or Accrued To Related Persons",
+    "text": "No credit shall be allowed under subsection(a)for any interest paid or accrued to a person who is a related person to the taxpayer (within the meaning of section144(a)(3)(A)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be allowed under subsection(a)for any interest paid or accrued to a person who is a related person to the taxpayer (within the meaning of section144(a)(3)(A))."
+    },
+    "cross_references": [
+      {
+        "section": "144(a)(3)(A)",
+        "reason": "xpayer (within the meaning of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(e)(6)Interest Paid Or Accrued To Related Persons\u2014No  credit shall be allowed under subsection(a)for any interest paid or\n                     accrued to a person who is a related person to the taxpayer (within the  meaning of\n                     section144(a)(3)(A)).",
+    "definitions": null
+  },
+  {
+    "section": "25",
+    "subsection": "(e)(7)",
+    "source_subsections": [
+      "(e)(7)"
+    ],
+    "rule_type": "definition",
+    "title": "Residence",
+    "text": "The term \u201cprincipal residence\u201d has the same meaning as when used in section121.",
+    "conditions": [
+      "used in section121."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "used in section121."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cprincipal residence\u201d has the same meaning as"
+    },
+    "cross_references": [
+      {
+        "section": "121",
+        "reason": "same meaning as when used in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(e)(7)Principal Residence\u2014The  term \u201cprincipal residence\u201d has the same meaning as when used in  section121.",
+    "definitions": null
+  },
+  {
+    "section": "25",
+    "subsection": "(e)(8)(A)",
+    "source_subsections": [
+      "(e)(8)(A)"
+    ],
+    "rule_type": "definition",
+    "title": "Rehabilitation",
+    "text": "The term \u201cqualified rehabilitation\u201d has the meaning given such term by section143(k)(5)(B).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified rehabilitation\u201d has the meaning given such term by section143(k)(5)(B)."
+    },
+    "cross_references": [
+      {
+        "section": "143(k)(5)(B)",
+        "reason": "he meaning given such term by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(e)(8)(A)Qualified Rehabilitation\u2014The  term \u201cqualified rehabilitation\u201d has the meaning given such term by section143(k)(5)(B).",
+    "definitions": null
+  },
+  {
+    "section": "25",
+    "subsection": "(e)(8)(B)",
+    "source_subsections": [
+      "(e)(8)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Home Improvement",
+    "text": "The term \u201cqualified home improvement\u201d means an alteration, repair, or improvement described in section143(k)(4).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified home improvement\u201d means an alteration, repair, or improvement described in section143(k)(4)."
+    },
+    "cross_references": [
+      {
+        "section": "143(k)(4)",
+        "reason": ", or improvement described in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(e)(8)(B)Qualified Home Improvement\u2014The  term \u201cqualified home improvement\u201d means an alteration, repair, or  improvement\n                        described in section143(k)(4).",
+    "definitions": {
+      "term": "qualified home improvement",
+      "requirements": [
+        "an alteration, repair, or improvement described in section143(k)(4)."
+      ]
+    }
+  },
+  {
+    "section": "25",
+    "subsection": "(e)(9)",
+    "source_subsections": [
+      "(e)(9)"
+    ],
+    "rule_type": "definition",
+    "title": "Mortgage Bond",
+    "text": "The term \u201cqualified mortgage bond\u201d has the meaning given such term by section143(a)(1).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified mortgage bond\u201d has the meaning given such term by section143(a)(1)."
+    },
+    "cross_references": [
+      {
+        "section": "143(a)(1)",
+        "reason": "he meaning given such term by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(e)(9)Qualified Mortgage Bond\u2014The  term \u201cqualified mortgage bond\u201d has the meaning given such term by section143(a)(1).",
+    "definitions": null
+  },
+  {
+    "section": "25",
+    "subsection": "(f)(1)",
+    "source_subsections": [
+      "(f)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "If for any calendar year any mortgage credit certificate program which satisfies procedural requirements with respect to volume limitations prescribed by the Secretary fails to meet the requirements of paragraph(2)of subsection(d), such requirements shall be treated as satisfied with respect to any certified indebtedness of such program, but the applicable State ceiling under subsection(d)of section146for the State in which such program operates shall be reduced by 1.25 times the correction amount with respect to such failure. Such reduction shall be applied to such State ceiling for the calendar year following the calendar year in which the Secretary determines the correction amount with respect to such failure.",
+    "conditions": [
+      "for any calendar year any mortgage credit certificate program which satisfies procedural requirements with respect to volume limitations prescribed by the Secretary fails to meet the requirements of paragraph(2)of subsection(d), such requirements shall be treated as satisfied with respect to any certified indebtedness of such program, but the applicable State ceiling under subsection(d)of section146for the State in which such program operates shall be reduced by 1.25 times the correction amount with respect to such failure. Such reduction shall be applied to such State ceiling for the calendar year following the calendar year in which the Secretary determines the correction amount with respect to such failure."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "for any calendar year any mortgage credit certificate program which satisfies procedural requirements with respect to volume limitations prescribed by the Secretary fails to meet the requirements of paragraph(2)of subsection(d), such requirements shall be treated as satisfied with respect to any certified indebtedness of such program, but the applicable State ceiling under subsection(d)of section146for the State in which such program operates shall be reduced by 1.25 times the correction amount with respect to such failure. Such reduction shall be applied to such State ceiling for the calendar year following the calendar year in which the Secretary determines the correction amount with respect to such failure."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "146f",
+        "reason": "ceiling under subsection(d)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(f)(1)In General\u2014If  for any calendar year any mortgage credit certificate program which  satisfies\n                     procedural requirements with respect to volume limitations  prescribed by the Secretary\n                     fails to meet the requirements of paragraph(2)of subsection(d), such requirements shall be treated as satisfied  with respect to any certified indebtedness\n                     of such program, but the  applicable State ceiling under subsection(d)of section146for the State  in which such program operates shall be reduced by 1.25 times the\n                     correction amount with respect to such failure. Such reduction shall be  applied to\n                     such State ceiling for the calendar year following the calendar  year in which the\n                     Secretary determines the correction amount with respect  to such failure.",
+    "definitions": null
+  },
+  {
+    "section": "25",
+    "subsection": "(f)(2)(A)",
+    "source_subsections": [
+      "(f)(2)(A)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "For purposes of paragraph(1), the term \u201ccorrection amount\u201d means an amount equal to the excess credit amount divided by 0.25.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of paragraph(1), the term \u201ccorrection amount\u201d means an amount equal to the excess credit amount divided by 0.25."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(f)(2)(A)In General\u2014For  purposes of paragraph(1), the term \u201ccorrection amount\u201d means an amount  equal to the excess credit amount\n                        divided by 0.25.",
+    "definitions": {
+      "term": "correction amount",
+      "requirements": [
+        "an amount equal to the excess credit amount divided by 0.25."
+      ]
+    }
+  },
+  {
+    "section": "25",
+    "subsection": "(f)(2)(B)(i)",
+    "source_subsections": [
+      "(f)(2)(B)(i)",
+      "(f)(2)(B)(i)(I)",
+      "(f)(2)(B)(i)(II)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "For purposes of subparagraph(A)(ii), the term \u201cexcess credit amount\u201d means the excess of\u2014\u2014the credit amount for any mortgage credit certificate program, over\u2014the amount which would have been the credit amount for such program had such program met the requirements of paragraph(2)of subsection(d).",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "subtraction",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph(A)(ii), the term \u201cexcess credit amount\u201d means the excess of\u2014\u2014the credit amount for any mortgage credit certificate program, over\u2014the amount which would have been the credit amount for such program had such program met the requirements of paragraph(2)of subsection(d)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(f)(2)(B)(i)In General\u2014For  purposes of subparagraph(A)(ii), the term \u201cexcess credit amount\u201d means  the excess of\u2014I.R.C. \u00a7 25(f)(2)(B)(i)(I)\u2014the  credit amount for any mortgage credit certificate program, overI.R.C. \u00a7 25(f)(2)(B)(i)(II)\u2014the  amount which would have been the credit amount for such program had such  program\n                              met the requirements of paragraph(2)of subsection(d).",
+    "definitions": {
+      "term": "excess credit amount",
+      "requirements": [
+        "the excess of\u2014\u2014the credit amount for any mortgage credit certificate program, over\u2014the amount which would have been the credit amount for such program had such program met the requirements of paragraph(2)of subsection(d)."
+      ]
+    }
+  },
+  {
+    "section": "25",
+    "subsection": "(f)(2)(B)(ii)",
+    "source_subsections": [
+      "(f)(2)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Amount",
+    "text": "For purposes of clause(i), the term \u201ccredit amount\u201d means the sum of the products determined under clauses(i)and(ii)of subsection(d)(2)(A).",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of clause(i), the term \u201ccredit amount\u201d means the sum of the products determined under clauses(i)and(ii)of subsection(d)(2)(A)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(f)(2)(B)(ii)Credit Amount\u2014For  purposes of clause(i), the term \u201ccredit amount\u201d means the sum of the  products determined under clauses(i)and(ii)of subsection(d)(2)(A).",
+    "definitions": {
+      "term": "credit amount",
+      "requirements": [
+        "the sum of the products determined under clauses(i)and(ii)of subsection(d)(2)(A)."
+      ]
+    }
+  },
+  {
+    "section": "25",
+    "subsection": "(f)(3)",
+    "source_subsections": [
+      "(f)(3)"
+    ],
+    "rule_type": "limitation",
+    "title": "Rule For States Having Constitutional Home Rule Cities",
+    "text": "In the case of a State having one or more constitutional home rule cities (within the meaning of section146(d)(3)(C)), the reduction in the State ceiling by reason of paragraph(1)shall be allocated to the constitutional home rule city, or to the portion of the State not within such city, whichever caused the reduction.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a State having one or more constitutional home rule cities (within the meaning of section146(d)(3)(C)), the reduction in the State ceiling by reason of paragraph(1)shall be allocated to the constitutional home rule city, or to the portion of the State not within such city, whichever caused the reduction."
+    },
+    "cross_references": [
+      {
+        "section": "146(d)(3)(C)",
+        "reason": "cities (within the meaning of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(f)(3)Special Rule For States Having Constitutional Home Rule Cities\u2014In  the case of a State having one or more constitutional home rule cities  (within\n                     the meaning of section146(d)(3)(C)), the reduction in the State  ceiling by reason of paragraph(1)shall be allocated to the  constitutional home rule city, or to the portion of the\n                     State not within  such city, whichever caused the reduction.",
+    "definitions": null
+  },
+  {
+    "section": "25",
+    "subsection": "(f)(4)",
+    "source_subsections": [
+      "(f)(4)"
+    ],
+    "rule_type": "condition",
+    "title": "Where Certification Program",
+    "text": "The provisions of this subsection shall not apply in any case in which there is a certification program which is designed to ensure that the requirements of this section are met and which meets such requirements as the Secretary may by regulations prescribe.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The provisions of this subsection shall not apply in any case in which there is a certification program which is designed to ensure that the requirements of this section are met and which meets such requirements as the Secretary may by regulations prescribe."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(f)(4)Exception Where Certification Program\u2014The  provisions of this subsection shall not apply in any case in which there  is\n                     a certification program which is designed to ensure that the  requirements of this\n                     section are met and which meets such requirements as  the Secretary may by regulations\n                     prescribe.",
+    "definitions": null
+  },
+  {
+    "section": "25",
+    "subsection": "(f)(5)",
+    "source_subsections": [
+      "(f)(5)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The Secretary may waive the application of paragraph(1)in any case in which he determines that the failure is due to reasonable cause.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary may waive the application of paragraph(1)in any case in which he determines that the failure is due to reasonable cause."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(f)(5)Waiver\u2014The  Secretary may waive the application of paragraph(1)in any case in which \n                     he determines that the failure is due to reasonable cause.",
+    "definitions": null
+  },
+  {
+    "section": "25",
+    "subsection": "(g)",
+    "source_subsections": [
+      "(g)",
+      "(g)(1)",
+      "(g)(2)",
+      "(g)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Requirements",
+    "text": "Each person who makes a loan which is a certified indebtedness amount under any mortgage credit certificate shall file a report with the Secretary containing\u2014\u2014the name, address, and social security account number of the individual to which the certificate was issued,\u2014the certificate's issuer, date of issue, certified indebtedness amount, and certificate credit rate, and\u2014such other information as the Secretary may require by regulations.Each person who issues a mortgage credit certificate shall file a report showing such information as the Secretary shall by regulations prescribe. Any such report shall be filed at such time and in such manner as the Secretary may require by regulations.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Each person who makes a loan which is a certified indebtedness amount under any mortgage credit certificate shall file a report with the Secretary containing\u2014\u2014the name, address, and social security account number of the individual to which the certificate was issued,\u2014the certificate's issuer, date of issue, certified indebtedness amount, and certificate credit rate, and\u2014such other information as the Secretary may require by regulations.Each person who issues a mortgage credit certificate shall file a report showing such information as the Secretary shall by regulations prescribe. Any such report shall be filed at such time and in such manner as the Secretary may require by regulations."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(g)Reporting Requirements\u2014Each  person who makes a loan which is a certified indebtedness amount under any \n                  mortgage credit certificate shall file a report with the Secretary  containing\u2014I.R.C. \u00a7 25(g)(1)\u2014the  name, address, and social security account number of the individual to  which\n                     the certificate was issued,I.R.C. \u00a7 25(g)(2)\u2014the  certificate's issuer, date of issue, certified indebtedness amount, and  certificate\n                     credit rate, andI.R.C. \u00a7 25(g)(3)\u2014such  other information as the Secretary may require by regulations.Each person who issues a mortgage credit certificate\n                     shall file a report showing such information as the Secretary shall by  regulations\n                     prescribe. Any such report shall be filed at such time and in  such manner as the\n                     Secretary may require by  regulations.",
+    "definitions": null
+  },
+  {
+    "section": "25",
+    "subsection": "(h)(1)",
+    "source_subsections": [
+      "(h)(1)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section, including regulations which may require recipients of mortgage credit certificates to pay a reasonable processing fee to defray the expenses incurred in administering the program.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section, including regulations which may require recipients of mortgage credit certificates to pay a reasonable processing fee to defray the expenses incurred in administering the program."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(h)(1)Regulations\u2014The  Secretary shall prescribe such regulations as may be necessary to carry  out\n                     the purposes of this section, including regulations which may require  recipients\n                     of mortgage credit certificates to pay a reasonable processing  fee to defray the\n                     expenses incurred in administering the program.",
+    "definitions": null
+  },
+  {
+    "section": "25",
+    "subsection": "(h)(2)",
+    "source_subsections": [
+      "(h)(2)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The Secretary is authorized to enter into contracts with any person to provide services in connection with the administration of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary is authorized to enter into contracts with any person to provide services in connection with the administration of this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(h)(2)Contracts\u2014The  Secretary is authorized to enter into contracts with any person to provide  services\n                     in connection with the administration of this  section.",
+    "definitions": null
+  },
+  {
+    "section": "25",
+    "subsection": "(i)",
+    "source_subsections": [
+      "(i)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Portion Of Federal Subsidy From Use Of Mortgage Credit Certificates",
+    "text": "For provisions increasing the tax imposed by this chapter to recapture a portion of the Federal subsidy from the use of mortgage credit certificates, see section143(m).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For provisions increasing the tax imposed by this chapter to recapture a portion of the Federal subsidy from the use of mortgage credit certificates, see section143(m)."
+    },
+    "cross_references": [
+      {
+        "section": "143(m)",
+        "reason": "gage credit certificates, see..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25(i)Recapture Of Portion Of Federal Subsidy From Use Of Mortgage Credit Certificates\u2014For  provisions increasing the tax imposed by this chapter to recapture a  portion\n                  of the Federal subsidy from the use of mortgage credit  certificates, see section143(m).",
+    "definitions": null
+  }
+]

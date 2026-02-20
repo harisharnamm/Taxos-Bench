@@ -1,0 +1,22 @@
+{
+  "id": "25b1c7c61d36",
+  "section": "1274A",
+  "citation": "I.R.C. \u00a7 1274A(d)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 1274A(d) is discussed as follows: 'I.R.C. \u00a7 1274A(d)Other Special RulesI.R.C. \u00a7 1274A(d)(1)Aggregation Rules\u2014For  purposes of this sect...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 1274A(d)?",
+  "difficulty": 1,
+  "choices": [
+    "$50.00",
+    "$110.00",
+    "$100.00",
+    "$90.00",
+    "$200.00"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies $100.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1274A(d)"
+  ]
+}

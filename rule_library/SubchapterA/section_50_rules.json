@@ -1,0 +1,1570 @@
+[
+  {
+    "section": "50",
+    "subsection": "(a)(1)(A)",
+    "source_subsections": [
+      "(a)(1)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "Rule",
+    "text": "If, during any taxable year, investment credit property is disposed of, or otherwise ceases to be investment credit property with respect to the taxpayer, before the close of the recapture period, then the tax under this chapter for such taxable year shall be increased by the recapture percentage of the aggregate decrease in the credits allowed under section38for all prior taxable years which would have resulted solely from reducing to zero any credit determined under this subpart with respect to such property.",
+    "conditions": [
+      ", during any taxable year, investment credit property is disposed of, or otherwise ceases to be investment credit property with respect to the taxpayer, before the close of the recapture period, then the tax under this chapter for such taxable year shall be increased by the recapture percentage of the aggregate decrease in the credits allowed under section38for all prior taxable years which would have resulted solely from reducing to zero any credit determined under this subpart with respect to such property."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        ", during any taxable year, investment credit property is disposed of, or otherwise ceases to be investment credit property with respect to the taxpayer, before the close of the recapture period, then the tax under this chapter for such taxable year shall be increased by the recapture percentage of the aggregate decrease in the credits allowed under section38for all prior taxable years which would have resulted solely from reducing to zero any credit determined under this subpart with respect to such property."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "38f",
+        "reason": "in the credits allowed under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(a)(1)(A)General Rule\u2014If, during any taxable year, investment credit property is disposed of, or otherwise\n                        ceases to be investment credit property with respect to the taxpayer, before the close\n                        of the recapture period, then the tax under this chapter for such taxable year shall\n                        be increased by the recapture percentage of the aggregate decrease in the credits\n                        allowed under section38for all prior taxable years which would have resulted solely from reducing to zero\n                        any credit determined under this subpart with respect to such property.",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(a)(1)(B)",
+    "source_subsections": [
+      "(a)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Percentage",
+    "text": "For purposes of subparagraph(A), the recapture percentage shall be determined in accordance with the following table:If the property ceases to be investment credit property within--The recapture percentage is:(i) One full year after placed in service100(ii) One full year after the close of the period described in clause (i)80(iii) One full year after the close of the period described in clause (ii)60(iv) One full year after the close of the period described in clause (iii)40(v) One full year after the close of the period described in clause (iv)20",
+    "conditions": [
+      "the property ceases to be investment credit property within--The recapture percentage is:(i) One full year after placed in service100(ii) One full year after the close of the period described in clause (i)80(iii) One full year after the close of the period described in clause (ii)60(iv) One full year after the close of the period described in clause (iii)40(v) One full year after the close of the period described in clause (iv)20"
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the property ceases to be investment credit property within--The recapture percentage is:(i) One full year after placed in service100(ii) One full year after the close of the period described in clause (i)80(iii) One full year after the close of the period described in clause (ii)60(iv) One full year after the close of the period described in clause (iii)40(v) One full year after the close of the period described in clause (iv)20"
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph(A), the recapture percentage shall be determined in accordance with the following table:"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(a)(1)(B)Recapture Percentage\u2014For purposes of subparagraph(A), the recapture percentage shall be determined in accordance with the following table:If the property ceases to be investment credit property within--The recapture percentage is:(i) One full year after placed in service100(ii) One full year after the close of the period described in clause (i)80(iii) One full year after the close of the period described in clause (ii)60(iv) One full year after the close of the period described in clause (iii)40(v) One full year after the close of the period described in clause (iv)20",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(a)(2)(A)",
+    "source_subsections": [
+      "(a)(2)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "If during any taxable year any building to which section47(d)applied ceases (by reason of sale or other disposition, cancellation or abandonment of contract, or otherwise) to be, with respect to the taxpayer, property which, when placed in service, will be a qualified rehabilitated building, then the tax under this chapter for such taxable year shall be increased by an amount equal to the aggregate decrease in the credits allowed under section38for all prior taxable years which would have resulted solely from reducing to zero the credit determined under this subpart with respect to such building.",
+    "conditions": [
+      "during any taxable year any building to which section47(d)applied ceases (by reason of sale or other disposition, cancellation or abandonment of contract, or otherwise) to be, with respect to the taxpayer, property which,",
+      "placed in service, will be a qualified rehabilitated building, then the tax under this chapter for such taxable year shall be increased by an amount equal to the aggregate decrease in the credits allowed under section38for all prior taxable years which would have resulted solely from reducing to zero the credit determined under this subpart with respect to such building."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "during any taxable year any building to which section47(d)applied ceases (by reason of sale or other disposition, cancellation or abandonment of contract, or otherwise) to be, with respect to the taxpayer, property which,",
+        "placed in service, will be a qualified rehabilitated building, then the tax under this chapter for such taxable year shall be increased by an amount equal to the aggregate decrease in the credits allowed under section38for all prior taxable years which would have resulted solely from reducing to zero the credit determined under this subpart with respect to such building."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "47(d)",
+        "reason": "le year any building to which..."
+      },
+      {
+        "section": "38f",
+        "reason": "in the credits allowed under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(a)(2)(A)In General\u2014If during any taxable year any building to which section47(d)applied ceases (by reason\n                        of sale or other disposition, cancellation or abandonment of contract,\n                        or otherwise) to be, with respect to the taxpayer, property which,\n                        when placed in service, will be a qualified rehabilitated building,\n                        then the tax under this chapter for such taxable year shall be increased\n                        by an amount equal to the aggregate decrease in the credits allowed\n                        under section38for\n                        all prior taxable years which would have resulted solely from reducing\n                        to zero the credit determined under this subpart with respect to such\n                        building.",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(a)(2)(B)",
+    "source_subsections": [
+      "(a)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Excess Credit Recaptured",
+    "text": "Any amount which would have been applied as a reduction under paragraph(2)of section47(b)but for the fact that a reduction under such paragraph cannot reduce the amount taken into account under section47(b)(1)below zero shall be treated as an amount required to be recaptured under subparagraph(A)for the taxable year during which the building is placed in service.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Any amount which would have been applied as a reduction under paragraph(2)of section47(b)but for the fact that a reduction under such paragraph cannot reduce the amount taken into account under section47(b)(1)below zero shall be treated as an amount required to be recaptured under subparagraph(A)for the taxable year during which the building is placed in service."
+    },
+    "cross_references": [
+      {
+        "section": "47(b)",
+        "reason": "eduction under paragraph(2)of..."
+      },
+      {
+        "section": "47(b)(1)",
+        "reason": "ount taken into account under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(a)(2)(B)Certain Excess Credit Recaptured\u2014Any amount which would have been applied as a reduction\n                        under paragraph(2)of\n                        section47(b)but\n                        for the fact that a reduction under such paragraph cannot reduce the\n                        amount taken into account under section47(b)(1)below zero shall\n                        be treated as an amount required to be recaptured under subparagraph(A)for the taxable year\n                        during which the building is placed in service.",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(a)(2)(C)",
+    "source_subsections": [
+      "(a)(2)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "Sales And Leasebacks",
+    "text": "Under regulations prescribed by the Secretary, a sale by, and leaseback to, a taxpayer who, when the property is placed in service, will b e a lessee to whom the rules referred to in subsection(d)(5)apply shall not be treated as a cessation described in subparagraph(A)to the extent that the amount which will be passed through to the lessee under such rules with respect to such property is not less than the qualified rehabilitation expenditures properly taken into account by the lessee under section47(d)with respect to such property.",
+    "conditions": [
+      "the property is placed in service, will b e a lessee to whom the rules referred to in subsection(d)(5)apply shall not be treated as a cessation described in subparagraph(A)to the extent that the amount which will be passed through to the lessee under such rules with respect to such property is not less than the qualified rehabilitation expenditures properly taken into account by the lessee under section47(d)with respect to such property."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the property is placed in service, will b e a lessee to whom the rules referred to in subsection(d)(5)apply shall not be treated as a cessation described in subparagraph(A)to the extent that the amount which will be passed through to the lessee under such rules with respect to such property is not less than the qualified rehabilitation expenditures properly taken into account by the lessee under section47(d)with respect to such property."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Under regulations prescribed by the Secretary, a sale by, and leaseback to, a taxpayer who,"
+    },
+    "cross_references": [
+      {
+        "section": "47(d)",
+        "reason": "o account by the lessee under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(a)(2)(C)Certain Sales And Leasebacks\u2014Under regulations prescribed by the Secretary, a sale by, and leaseback to, a taxpayer\n                        who, when the property is placed in service, will b e a lessee to whom the rules referred\n                        to in subsection(d)(5)apply shall not be treated as a cessation described in subparagraph(A)to the extent that the amount which will be passed through to the lessee under such\n                        rules with respect to such property is not less than the qualified rehabilitation\n                        expenditures properly taken into account by the lessee under section47(d)with respect to such property.",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(a)(2)(D)",
+    "source_subsections": [
+      "(a)(2)(D)"
+    ],
+    "rule_type": "condition",
+    "title": "With Paragraph (1)",
+    "text": "If, after property is placed in service, there is a disposition or other cessation described in paragraph(1), then paragraph(1)shall be applied as if any credit which was allowable by reason of section47(d)and which has not been required to be recaptured before such disposition, cessation, or change in use were allowable for the taxable year the property was placed in service.",
+    "conditions": [
+      ", after property is placed in service, there is a disposition or other cessation described in paragraph(1), then paragraph(1)shall be applied as",
+      "any credit which was allowable by reason of section47(d)and which has not been required to be recaptured before such disposition, cessation, or change in use were allowable for the taxable year the property was placed in service."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        ", after property is placed in service, there is a disposition or other cessation described in paragraph(1), then paragraph(1)shall be applied as",
+        "any credit which was allowable by reason of section47(d)and which has not been required to be recaptured before such disposition, cessation, or change in use were allowable for the taxable year the property was placed in service."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "47(d)",
+        "reason": "ch was allowable by reason of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(a)(2)(D)Coordination With Paragraph (1)\u2014If, after property is placed in service, there is a\n                        disposition or other cessation described in paragraph(1), then paragraph(1)shall be applied as if\n                        any credit which was allowable by reason of section47(d)and which has not been\n                        required to be recaptured before such disposition, cessation, or change\n                        in use were allowable for the taxable year the property was placed\n                        in service.",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(a)(2)(E)",
+    "source_subsections": [
+      "(a)(2)(E)"
+    ],
+    "rule_type": "condition",
+    "title": "Rules",
+    "text": "Rules similar to the rules of this paragraph shall apply in cases where qualified progress expenditures were taken into account under the rules referred to in section48(b),48A(b)(3),48B(b)(3),48C(b)(2),48D(b)(5), or48E(e).",
+    "conditions": [
+      "qualified progress expenditures were taken into account under the rules referred to in section48(b),48A(b)(3),48B(b)(3),48C(b)(2),48D(b)(5), or48E(e)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "qualified progress expenditures were taken into account under the rules referred to in section48(b),48A(b)(3),48B(b)(3),48C(b)(2),48D(b)(5), or48E(e)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules of this paragraph shall apply in cases"
+    },
+    "cross_references": [
+      {
+        "section": "48(b)",
+        "reason": "nder the rules referred to in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(a)(2)(E)Special Rules\u2014Rules similar to the rules of this paragraph shall apply\n                        in cases where qualified progress expenditures were taken into account\n                        under the rules referred to in section48(b),48A(b)(3),48B(b)(3),48C(b)(2),48D(b)(5), or48E(e).",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(a)(3)(A)",
+    "source_subsections": [
+      "(a)(3)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "If there is a an applicable transaction by an applicable taxpayer before the close of the 10-year period beginning on the date such taxpayer placed in service investment credit property which is eligible for the advanced manufacturing investment credit undersection 48D(a), then the tax under this chapter for the taxable year in which such transaction occurs shall be increased by 100 percent of the aggregate decrease in the credits allowed undersection 38for all prior taxable years which would have resulted solely from reducing to zero any credit determined undersection 46which is attributable to the advanced manufacturing investment credit undersection 48D(a)with respect to such property.",
+    "conditions": [
+      "there is a an applicable transaction by an applicable taxpayer before the close of the 10-year period beginning on the date such taxpayer placed in service investment credit property which is eligible for the advanced manufacturing investment credit undersection 48D(a), then the tax under this chapter for the taxable year in which such transaction occurs shall be increased by 100 percent of the aggregate decrease in the credits allowed undersection 38for all prior taxable years which would have resulted solely from reducing to zero any credit determined undersection 46which is attributable to the advanced manufacturing investment credit undersection 48D(a)with respect to such property."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 1.0,
+        "text": "100 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "there is a an applicable transaction by an applicable taxpayer before the close of the 10-year period beginning on the date such taxpayer placed in service investment credit property which is eligible for the advanced manufacturing investment credit undersection 48D(a), then the tax under this chapter for the taxable year in which such transaction occurs shall be increased by 100 percent of the aggregate decrease in the credits allowed undersection 38for all prior taxable years which would have resulted solely from reducing to zero any credit determined undersection 46which is attributable to the advanced manufacturing investment credit undersection 48D(a)with respect to such property."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(a)(3)(A)In General\u2014If there is a an applicable transaction by an applicable\n                        taxpayer before the close of the 10-year period beginning on the date\n                        such taxpayer placed in service investment credit property which is\n                        eligible for the advanced manufacturing investment credit undersection 48D(a), then the tax under\n                        this chapter for the taxable year in which such transaction occurs\n                        shall be increased by 100 percent of the aggregate decrease in the\n                        credits allowed undersection 38for\n                        all prior taxable years which would have resulted solely from reducing\n                        to zero any credit determined undersection\n                           46which is attributable to the advanced manufacturing\n                        investment credit undersection 48D(a)with\n                        respect to such property.",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(a)(3)(B)",
+    "source_subsections": [
+      "(a)(3)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Subparagraph (A) shall not apply if the applicable taxpayer demonstrates to the satisfaction of the Secretary that the applicable transaction has been ceased or abandoned within 45 days of a determination and notice by the Secretary.",
+    "conditions": [
+      "the applicable taxpayer demonstrates to the satisfaction of the Secretary that the applicable transaction has been ceased or abandoned within 45 days of a determination and notice by the Secretary."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the applicable taxpayer demonstrates to the satisfaction of the Secretary that the applicable transaction has been ceased or abandoned within 45 days of a determination and notice by the Secretary."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Subparagraph (A) shall not apply"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(a)(3)(B)Exception\u2014Subparagraph (A) shall not apply if the applicable taxpayer\n                        demonstrates to the satisfaction of the Secretary that the applicable\n                        transaction has been ceased or abandoned within 45 days of a determination\n                        and notice by the Secretary.",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(a)(3)(C)",
+    "source_subsections": [
+      "(a)(3)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "And Guidance",
+    "text": "The Secretary shall issue such regulations or other guidance as the Secretary determines necessary or appropriate to carry out the purposes of this paragraph, including regulations or other guidance which provide for requirements for recordkeeping or information reporting for purposes of administering the requirements of this paragraph.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall issue such regulations or other guidance as the Secretary determines necessary or appropriate to carry out the purposes of this paragraph, including regulations or other guidance which provide for requirements for recordkeeping or information reporting for purposes of administering the requirements of this paragraph."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(a)(3)(C)Regulations And Guidance\u2014The Secretary shall issue such regulations or other guidance\n                        as the Secretary determines necessary or appropriate to carry out\n                        the purposes of this paragraph, including regulations or other guidance\n                        which provide for requirements for recordkeeping or information reporting\n                        for purposes of administering the requirements of this paragraph.",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(a)(4)(A)",
+    "source_subsections": [
+      "(a)(4)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "If there is an applicable payment made by a specified taxpayer before the close of the 10-year period beginning on the date such taxpayer placed in service investment credit property which is eligible for the clean electricity investment credit under section48E(a), then the tax under this chapter for the taxable year in which such applicable payment occurs shall be increased by 100 percent of the aggregate decrease in the credits allowed under section38for all prior taxable years which would have resulted solely from reducing to zero any credit determined under section46which is attributable to the clean electricity investment credit under section48E(a)with respect to such property.",
+    "conditions": [
+      "there is an applicable payment made by a specified taxpayer before the close of the 10-year period beginning on the date such taxpayer placed in service investment credit property which is eligible for the clean electricity investment credit under section48E(a), then the tax under this chapter for the taxable year in which such applicable payment occurs shall be increased by 100 percent of the aggregate decrease in the credits allowed under section38for all prior taxable years which would have resulted solely from reducing to zero any credit determined under section46which is attributable to the clean electricity investment credit under section48E(a)with respect to such property."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 1.0,
+        "text": "100 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "there is an applicable payment made by a specified taxpayer before the close of the 10-year period beginning on the date such taxpayer placed in service investment credit property which is eligible for the clean electricity investment credit under section48E(a), then the tax under this chapter for the taxable year in which such applicable payment occurs shall be increased by 100 percent of the aggregate decrease in the credits allowed under section38for all prior taxable years which would have resulted solely from reducing to zero any credit determined under section46which is attributable to the clean electricity investment credit under section48E(a)with respect to such property."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "48E(a)",
+        "reason": "icity investment credit under..."
+      },
+      {
+        "section": "38f",
+        "reason": "in the credits allowed under..."
+      },
+      {
+        "section": "46w",
+        "reason": "o any credit determined under..."
+      },
+      {
+        "section": "48E(a)",
+        "reason": "icity investment credit under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(a)(4)(A)In General\u2014If there is an applicable payment made by a specified taxpayer before the close of\n                        the 10-year period beginning on the date such taxpayer placed in service investment\n                        credit property which is eligible for the clean electricity investment credit under\n                        section48E(a), then the tax under this chapter for the taxable year in which such applicable payment\n                        occurs shall be increased by 100 percent of the aggregate decrease in the credits\n                        allowed under section38for all prior taxable years which would have resulted solely from reducing to zero\n                        any credit determined under section46which is attributable to the clean electricity investment credit under section48E(a)with respect to such property.",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(a)(4)(B)",
+    "source_subsections": [
+      "(a)(4)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Payment",
+    "text": "For purposes of this paragraph, the term \u201capplicable payment\u201d means, with respect to any taxable year, a payment or payments described in section7701(a)(51)(D)(i)(II).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the term \u201capplicable payment\u201d means, with respect to any taxable year, a payment or payments described in section7701(a)(51)(D)(i)(II)."
+    },
+    "cross_references": [
+      {
+        "section": "7701(a)(51)(D)(i)(II)",
+        "reason": "ment or payments described in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(a)(4)(B)Applicable Payment\u2014For purposes of this paragraph, the term \u201capplicable payment\u201d means, with respect\n                        to any taxable year, a payment or payments described in section7701(a)(51)(D)(i)(II).",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(a)(4)(C)",
+    "source_subsections": [
+      "(a)(4)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "Taxpayer",
+    "text": "For purposes of this paragraph, the term \u201cspecified taxpayer\u201d means any taxpayer who has been allowed a credit under section48E(a)for any taxable year beginning after the date which is 2 years after the date of enactment of this paragraph.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the term \u201cspecified taxpayer\u201d means any taxpayer who has been allowed a credit under section48E(a)for any taxable year beginning after the date which is 2 years after the date of enactment of this paragraph."
+    },
+    "cross_references": [
+      {
+        "section": "48E(a)",
+        "reason": "s been allowed a credit under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(a)(4)(C)Specified Taxpayer\u2014For purposes of this paragraph, the term \u201cspecified taxpayer\u201d means any taxpayer who\n                        has been allowed a credit under section48E(a)for any taxable year beginning after the date which is 2 years after the date of\n                        enactment of this paragraph.",
+    "definitions": {
+      "term": "specified taxpayer",
+      "requirements": [
+        "any taxpayer who has been allowed a credit under section48E(a)for any taxable year beginning after the date which is 2 years after the date of enactment of this paragraph."
+      ]
+    }
+  },
+  {
+    "section": "50",
+    "subsection": "(a)(5)",
+    "source_subsections": [
+      "(a)(5)",
+      "(a)(5)(A)",
+      "(a)(5)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "And Carryovers Adjusted",
+    "text": "In the case of any cessation described in paragraph(1)or(2), any applicable transaction to which paragraph(3)(A)applies, or any applicable payment to which paragraph(4)(A)applies, the carrybacks and carryovers under section39shall be adjusted by reason of such cessation or applicable transaction.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any cessation described in paragraph(1)or(2), any applicable transaction to which paragraph(3)(A)applies, or any applicable payment to which paragraph(4)(A)applies, the carrybacks and carryovers under section39shall be adjusted by reason of such cessation or applicable transaction."
+    },
+    "cross_references": [
+      {
+        "section": "39s",
+        "reason": "rrybacks and carryovers under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(a)(5)Carrybacks And Carryovers Adjusted\u2014In the case of any cessation described in paragraph(1)or(2), any applicable transaction to which paragraph(3)(A)applies, or any applicable payment to which paragraph(4)(A)applies, the carrybacks and carryovers under section39shall be adjusted by reason of such cessation or applicable transaction.",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(a)(6)",
+    "source_subsections": [
+      "(a)(6)",
+      "(a)(6)(A)",
+      "(a)(6)(B)",
+      "(a)(6)(B)(i)",
+      "(a)(6)(B)(ii)",
+      "(a)(6)(C)",
+      "(a)(6)(D)",
+      "(a)(6)(D)(i)",
+      "(a)(6)(D)(ii)",
+      "(a)(6)(E)"
+    ],
+    "rule_type": "condition",
+    "title": "Not To Apply In Certain Cases",
+    "text": "Paragraphs(1)and(2)shall not apply to\u2014\u2014a transfer by reason of death, or\u2014a transaction to which section381(a)applies.For purposes of this subsection, property shall not be treated as ceasing to be investment credit property with respect to the taxpayer by reason of a mere change in the form of conducting the trade or business so long as the property is retained in such trade or business as investment credit property and the taxpayer retains a substantial interest in such trade or business.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Paragraphs(1)and(2)shall not apply to\u2014\u2014a transfer by reason of death, or\u2014a transaction to which section381(a)applies.For purposes of this subsection, property shall not be treated as ceasing to be investment credit property with respect to the taxpayer by reason of a mere change in the form of conducting the trade or business so long as the property is retained in such trade or business as investment credit property and the taxpayer retains a substantial interest in such trade or business."
+    },
+    "cross_references": [
+      {
+        "section": "381(a)",
+        "reason": "th, or\u2014a transaction to which..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(a)(6)Subsection Not To Apply In Certain Cases\u2014Paragraphs(1)and(2)shall not apply to\u2014I.R.C. \u00a7 50(a)(6)(A)\u2014a transfer by reason of death, orI.R.C. \u00a7 50(a)(6)(B)\u2014a transaction to which section381(a)applies.For purposes of this subsection, property shall not be treated as ceasing to be investment\n                        credit property with respect to the taxpayer by reason of a mere change in the form\n                        of conducting the trade or business so long as the property is retained in such trade\n                        or business as investment credit property and the taxpayer retains a substantial interest\n                        in such trade or business.",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(a)(7)(A)",
+    "source_subsections": [
+      "(a)(7)(A)"
+    ],
+    "rule_type": "definition",
+    "title": "Credit Property",
+    "text": "For purposes of this subsection, the term \u201cinvestment credit property\u201d means any property eligible for a credit determined under this subpart.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection, the term \u201cinvestment credit property\u201d means any property eligible for a credit determined under this subpart."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(a)(7)(A)Investment Credit Property\u2014For purposes of this subsection, the term \u201cinvestment credit property\u201d means any property\n                        eligible for a credit determined under this subpart.",
+    "definitions": {
+      "term": "investment credit property",
+      "requirements": [
+        "any property eligible for a credit determined under this subpart."
+      ]
+    }
+  },
+  {
+    "section": "50",
+    "subsection": "(a)(7)(B)",
+    "source_subsections": [
+      "(a)(7)(B)",
+      "(a)(7)(B)(i)",
+      "(a)(7)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Between Spouses Or Incident To Divorce",
+    "text": "In the case of any transfer described in subsection(a)of section1041\u2014\u2014the foregoing provisions of this subsection shall not apply, and\u2014the same tax treatment under this subsection with respect to the transferred property shall apply to the transferee as would have applied to the transferor.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any transfer described in subsection(a)of section1041\u2014\u2014the foregoing provisions of this subsection shall not apply, and\u2014the same tax treatment under this subsection with respect to the transferred property shall apply to the transferee as would have applied to the transferor."
+    },
+    "cross_references": [
+      {
+        "section": "1041",
+        "reason": "described in subsection(a)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(a)(7)(B)Transfer Between Spouses Or Incident To Divorce\u2014In the case of any transfer described in subsection(a)of section1041\u2014I.R.C. \u00a7 50(a)(7)(B)(i)\u2014the foregoing provisions of this subsection shall not apply, andI.R.C. \u00a7 50(a)(7)(B)(ii)\u2014the same tax treatment under this subsection with respect to the transferred property\n                           shall apply to the transferee as would have applied to the transferor.",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(a)(7)(C)",
+    "source_subsections": [
+      "(a)(7)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "Rule",
+    "text": "Any increase in tax under paragraph(1),(2),(3), or(4)shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit allowable under this chapter.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Any increase in tax under paragraph(1),(2),(3), or(4)shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit allowable under this chapter."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(a)(7)(C)Special Rule\u2014Any increase in tax under paragraph(1),(2),(3), or(4)shall not be treated as tax imposed by this chapter for purposes of determining the\n                        amount of any credit allowable under this chapter.",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(a)(7)(D)(i)",
+    "source_subsections": [
+      "(a)(7)(D)(i)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201capplicable transaction\u201d means, with respect to any applicable taxpayer, any significant transaction (as determined by the Secretary, in coordination with the Secretary of Commerce and the Secretary of Defense) involving the material expansion of semiconductor manufacturing capacity of such applicable taxpayer in the People's Republic of China or a foreign country of concern (as defined in section 9901(7) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201capplicable transaction\u201d means, with respect to any applicable taxpayer, any significant transaction (as determined by the Secretary, in coordination with the Secretary of Commerce and the Secretary of Defense) involving the material expansion of semiconductor manufacturing capacity of such applicable taxpayer in the People's Republic of China or a foreign country of concern (as defined in section 9901(7) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021)."
+    },
+    "cross_references": [
+      {
+        "section": "9901(7)",
+        "reason": "try of concern (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(a)(7)(D)(i)In General\u2014The term \u201capplicable transaction\u201d means, with respect to any applicable taxpayer,\n                           any significant transaction (as determined by the Secretary, in coordination with\n                           the Secretary of Commerce and the Secretary of Defense) involving the material expansion\n                           of semiconductor manufacturing capacity of such applicable taxpayer in the People's\n                           Republic of China or a foreign country of concern (as defined in section 9901(7) of\n                           the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year\n                           2021).",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(a)(7)(D)(ii)",
+    "source_subsections": [
+      "(a)(7)(D)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "Such term shall not include a transaction which primarily involves the expansion of manufacturing capacity for legacy semiconductors (as defined in section 9902(a)(6) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Such term shall not include a transaction which primarily involves the expansion of manufacturing capacity for legacy semiconductors (as defined in section 9902(a)(6) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021)."
+    },
+    "cross_references": [
+      {
+        "section": "9902(a)(6)",
+        "reason": "semiconductors (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(a)(7)(D)(ii)Exception\u2014Such term shall not include a transaction which primarily involves the expansion of\n                           manufacturing capacity for legacy semiconductors (as defined in section 9902(a)(6)\n                           of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year\n                           2021).",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(a)(7)(E)",
+    "source_subsections": [
+      "(a)(7)(E)"
+    ],
+    "rule_type": "definition",
+    "title": "Taxpayer",
+    "text": "For purposes of this subsection, the term \u2018applicable taxpayer\u2019 means any taxpayer who has been allowed a credit undersection 48D(a)for any prior taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection, the term \u2018applicable taxpayer\u2019 means any taxpayer who has been allowed a credit undersection 48D(a)for any prior taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(a)(7)(E)Applicable Taxpayer\u2014For purposes of this subsection, the term \u2018applicable taxpayer\u2019 means any taxpayer\n                        who has been allowed a credit undersection 48D(a)for any prior taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(b)(1)(A)",
+    "source_subsections": [
+      "(b)(1)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Except as provided in subparagraph(B), no credit shall be determined under this subpart with respect to any property which is used predominantly outside the United States.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [
+      {
+        "applies_when": "subparagraph(B)",
+        "effect": "See referenced section"
+      }
+    ],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as provided in subparagraph(B), no credit shall be determined under this subpart with respect to any property which is used predominantly outside the United States."
+      ],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(b)(1)(A)In General\u2014Except as provided in subparagraph(B), no credit shall be\n                        determined under this subpart with respect to any property which is\n                        used predominantly outside the United States.",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(b)(1)(B)",
+    "source_subsections": [
+      "(b)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Subparagraph(A)shall not apply to any property described in section168(g)(4).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Subparagraph(A)shall not apply to any property described in section168(g)(4)."
+    },
+    "cross_references": [
+      {
+        "section": "168(g)(4)",
+        "reason": "to any property described in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(b)(1)(B)Exceptions\u2014Subparagraph(A)shall\n                        not apply to any property described in section168(g)(4).",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)",
+      "(b)(2)(A)",
+      "(b)(2)(B)",
+      "(b)(2)(C)",
+      "(b)(2)(D)"
+    ],
+    "rule_type": "condition",
+    "title": "Used For Lodging",
+    "text": "No credit shall be determined under this subpart with respect to any property which is used predominantly to furnish lodging or in connection with the furnishing of lodging. The preceding sentence shall not apply to\u2014\u2014nonlodging commercial facilities which are available to persons not using the lodging facilities on the same basis as they are available to persons using the lodging facilities;\u2014property used by a hotel or motel in connection with the trade or business of furnishing lodging where the predominant portion of the accommodations is used by transients;\u2014a certified historic structure to the extent of that portion of the basis which is attributable to qualified rehabilitation expenditures; and\u2014any energy property.",
+    "conditions": [
+      "the predominant portion of the accommodations is used by transients;\u2014a certified historic structure to the extent of that portion of the basis which is attributable to qualified rehabilitation expenditures; and\u2014any energy property."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the predominant portion of the accommodations is used by transients;\u2014a certified historic structure to the extent of that portion of the basis which is attributable to qualified rehabilitation expenditures; and\u2014any energy property."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be determined under this subpart with respect to any property which is used predominantly to furnish lodging or in connection with the furnishing of lodging. The preceding sentence shall not apply to\u2014\u2014nonlodging commercial facilities which are available to persons not using the lodging facilities on the same basis as they are available to persons using the lodging facilities;\u2014property used by a hotel or motel in connection with the trade or business of furnishing lodging"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(b)(2)Property Used For Lodging\u2014No credit shall be determined under this subpart with\n                     respect to any property which is used predominantly to furnish lodging\n                     or in connection with the furnishing of lodging. The preceding sentence\n                     shall not apply to\u2014I.R.C. \u00a7 50(b)(2)(A)\u2014nonlodging commercial facilities which\n                        are available to persons not using the lodging facilities on the same\n                        basis as they are available to persons using the lodging facilities;I.R.C. \u00a7 50(b)(2)(B)\u2014property used by a hotel or motel in\n                        connection with the trade or business of furnishing lodging where\n                        the predominant portion of the accommodations is used by transients;I.R.C. \u00a7 50(b)(2)(C)\u2014a certified historic structure to the\n                        extent of that portion of the basis which is attributable to qualified\n                        rehabilitation expenditures; andI.R.C. \u00a7 50(b)(2)(D)\u2014any energy property.",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(b)(3)",
+    "source_subsections": [
+      "(b)(3)"
+    ],
+    "rule_type": "definition",
+    "title": "Used By Certain Tax",
+    "text": "Exempt Organization\u2014No credit shall be determined under this subpart with respect to any property used by an organization (other than a cooperative described in section521) which is exempt from the tax imposed by this chapter unless such property is used predominantly in an unrelated trade or business the income of which is subject to tax under section511. If the property is debt-financed property (as defined in section514(b)), the amount taken into account for purposes of determining the amount of the credit under this subpart with respect to such property shall be that percentage of the amount (which but for this paragraph would be so taken into account) which is the same percentage as is used under section514(a), for the year the property is placed in service, in computing the amount of gross income to be taken into account during such taxable year with respect to such property. If any qualified rehabilitated building is used by the tax-exempt organization pursuant to a lease, this paragraph shall not apply for purposes of determining the amount of the rehabilitation credit.",
+    "conditions": [
+      "the property is debt-financed property (as defined in section514(b)), the amount taken into account for purposes of determining the amount of the credit under this subpart with respect to such property shall be that percentage of the amount (which but for this paragraph would be so taken into account) which is the same percentage as is used under section514(a), for the year the property is placed in service, in computing the amount of gross income to be taken into account during such taxable year with respect to such property.",
+      "any qualified rehabilitated building is used by the tax-exempt organization pursuant to a lease, this paragraph shall not apply for purposes of determining the amount of the rehabilitation credit.",
+      "such property is used predominantly in an unrelated trade or business the income of which is subject to tax under section511."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the property is debt-financed property (as defined in section514(b)), the amount taken into account for purposes of determining the amount of the credit under this subpart with respect to such property shall be that percentage of the amount (which but for this paragraph would be so taken into account) which is the same percentage as is used under section514(a), for the year the property is placed in service, in computing the amount of gross income to be taken into account during such taxable year with respect to such property.",
+        "any qualified rehabilitated building is used by the tax-exempt organization pursuant to a lease, this paragraph shall not apply for purposes of determining the amount of the rehabilitation credit."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [
+        "such property is used predominantly in an unrelated trade or business the income of which is subject to tax under section511."
+      ],
+      "except": [],
+      "result": "Exempt Organization\u2014No credit shall be determined under this subpart with respect to any property used by an organization (other than a cooperative described in section521) which is exempt from the tax imposed by this chapter"
+    },
+    "cross_references": [
+      {
+        "section": "521",
+        "reason": "an a cooperative described in..."
+      },
+      {
+        "section": "511",
+        "reason": "which is subject to tax under..."
+      },
+      {
+        "section": "514(b)",
+        "reason": "anced property (as defined in..."
+      },
+      {
+        "section": "514(a)",
+        "reason": "e percentage as is used under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(b)(3)Property Used By Certain Tax-Exempt Organization\u2014No credit shall be determined under this subpart with\n                     respect to any property used by an organization (other than a cooperative\n                     described in section521)\n                     which is exempt from the tax imposed by this chapter unless such property\n                     is used predominantly in an unrelated trade or business the income\n                     of which is subject to tax under section511. If the property is debt-financed\n                     property (as defined in section514(b)),\n                     the amount taken into account for purposes of determining the amount\n                     of the credit under this subpart with respect to such property shall\n                     be that percentage of the amount (which but for this paragraph would\n                     be so taken into account) which is the same percentage as is used\n                     under section514(a),\n                     for the year the property is placed in service, in computing the amount\n                     of gross income to be taken into account during such taxable year\n                     with respect to such property. If any qualified rehabilitated building\n                     is used by the tax-exempt organization pursuant to a lease, this paragraph\n                     shall not apply for purposes of determining the amount of the rehabilitation\n                     credit.",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(b)(4)(A)",
+    "source_subsections": [
+      "(b)(4)(A)",
+      "(b)(4)(A)(i)",
+      "(b)(4)(A)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "No credit shall be determined under this subpart with respect to any property used\u2014\u2014by the United States, any State or political subdivision thereof, any possession of the United States, or any agency or instrumentality of any of the foregoing, or\u2014by any foreign person or entity (as defined in section168(h)(2)(C)), but only with respect to property to which section168(h)(2)(A)(iii)applies (determined after the application of section168(h)(2)(B)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be determined under this subpart with respect to any property used\u2014\u2014by the United States, any State or political subdivision thereof, any possession of the United States, or any agency or instrumentality of any of the foregoing, or\u2014by any foreign person or entity (as defined in section168(h)(2)(C)), but only with respect to property to which section168(h)(2)(A)(iii)applies (determined after the application of section168(h)(2)(B))."
+    },
+    "cross_references": [
+      {
+        "section": "168(h)(2)(C)",
+        "reason": "rson or entity (as defined in..."
+      },
+      {
+        "section": "168(h)(2)(A)(iii)",
+        "reason": "respect to property to which..."
+      },
+      {
+        "section": "168(h)(2)(B)",
+        "reason": "ined after the application of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(b)(4)(A)In General\u2014No credit shall be determined under this subpart with\n                        respect to any property used\u2014I.R.C. \u00a7 50(b)(4)(A)(i)\u2014by the United States, any State or political\n                           subdivision thereof, any possession of the United States, or any agency\n                           or instrumentality of any of the foregoing, orI.R.C. \u00a7 50(b)(4)(A)(ii)\u2014by any foreign person or entity (as\n                           defined in section168(h)(2)(C)),\n                           but only with respect to property to which section168(h)(2)(A)(iii)applies\n                           (determined after the application of section168(h)(2)(B)).",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(b)(4)(B)",
+    "source_subsections": [
+      "(b)(4)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "For Short",
+    "text": "Term Leases\u2014This paragraph and paragraph(3)shall not apply to any property by reason of use under a lease with a term of less than 6 months (determined under section168(i)(3)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Term Leases\u2014This paragraph and paragraph(3)shall not apply to any property by reason of use under a lease with a term of less than 6 months (determined under section168(i)(3))."
+    },
+    "cross_references": [
+      {
+        "section": "168(i)(3)",
+        "reason": "an 6 months (determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(b)(4)(B)Exception For Short-Term Leases\u2014This paragraph and paragraph(3)shall not apply to any\n                        property by reason of use under a lease with a term of less than 6\n                        months (determined under section168(i)(3)).",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(b)(4)(C)",
+    "source_subsections": [
+      "(b)(4)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "For Qualified Rehabilitated Buildings Leased To Governments,\n                        Etc.",
+    "text": "If any qualified rehabilitated building is leased to a governmental unit (or a foreign person or entity) this paragraph shall not apply for purposes of determining the rehabilitation credit with respect to such building.",
+    "conditions": [
+      "any qualified rehabilitated building is leased to a governmental unit (or a foreign person or entity) this paragraph shall not apply for purposes of determining the rehabilitation credit with respect to such building."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any qualified rehabilitated building is leased to a governmental unit (or a foreign person or entity) this paragraph shall not apply for purposes of determining the rehabilitation credit with respect to such building."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(b)(4)(C)Exception For Qualified Rehabilitated Buildings Leased To Governments,\n                        Etc.\u2014If any qualified rehabilitated building is leased to\n                        a governmental unit (or a foreign person or entity) this paragraph\n                        shall not apply for purposes of determining the rehabilitation credit\n                        with respect to such building.",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(b)(4)(D)",
+    "source_subsections": [
+      "(b)(4)(D)"
+    ],
+    "rule_type": "condition",
+    "title": "Rules For Partnerships, Etc.",
+    "text": "For purposes of this paragraph and paragraph(3), rules similar to the rules of paragraphs(5)and(6)of section168(h)shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph and paragraph(3), rules similar to the rules of paragraphs(5)and(6)of section168(h)shall apply."
+    },
+    "cross_references": [
+      {
+        "section": "168(h)",
+        "reason": "ules of paragraphs(5)and(6)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(b)(4)(D)Special Rules For Partnerships, Etc.\u2014For purposes of this paragraph and paragraph(3), rules similar to the\n                        rules of paragraphs(5)and(6)of section168(h)shall apply.",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(b)(4)(E)",
+    "source_subsections": [
+      "(b)(4)(E)"
+    ],
+    "rule_type": "condition",
+    "title": "Reference",
+    "text": "For special rules for the application of this paragraph and paragraph(3), see section168(h).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For special rules for the application of this paragraph and paragraph(3), see section168(h)."
+    },
+    "cross_references": [
+      {
+        "section": "168(h)",
+        "reason": "ragraph and paragraph(3), see..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(b)(4)(E)Cross Reference\u2014For special rules for the application of this paragraph\n                        and paragraph(3),\n                        see section168(h).",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "For purposes of this subtitle, if a credit is determined under this subpart with respect to any property, the basis of such property shall be reduced by the amount of the credit so determined.",
+    "conditions": [
+      "a credit is determined under this subpart with respect to any property, the basis of such property shall be reduced by the amount of the credit so determined."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "a credit is determined under this subpart with respect to any property, the basis of such property shall be reduced by the amount of the credit so determined."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subtitle,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(c)(1)In General\u2014For purposes of this subtitle, if a credit is determined\n                     under this subpart with respect to any property, the basis of such\n                     property shall be reduced by the amount of the credit so determined.",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(c)(2)",
+    "source_subsections": [
+      "(c)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Dispositions",
+    "text": "If during any taxable year there is a recapture amount determined with respect to any property the basis of which was reduced under paragraph(1), the basis of such property (immediately before the event resulting in such recapture) shall be increased by an amount equal to such recapture amount. For purposes of the preceding sentence, the term \u201crecapture amount\u201d means any increase in tax (or adjustment in carrybacks or carryovers) determined under subsection(a).",
+    "conditions": [
+      "during any taxable year there is a recapture amount determined with respect to any property the basis of which was reduced under paragraph(1), the basis of such property (immediately before the event resulting in such recapture) shall be increased by an amount equal to such recapture amount. For purposes of the preceding sentence, the term \u201crecapture amount\u201d means any increase in tax (or adjustment in carrybacks or carryovers) determined under subsection(a)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "during any taxable year there is a recapture amount determined with respect to any property the basis of which was reduced under paragraph(1), the basis of such property (immediately before the event resulting in such recapture) shall be increased by an amount equal to such recapture amount. For purposes of the preceding sentence, the term \u201crecapture amount\u201d means any increase in tax (or adjustment in carrybacks or carryovers) determined under subsection(a)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(c)(2)Certain Dispositions\u2014If during any taxable year there is a recapture amount\n                     determined with respect to any property the basis of which was reduced\n                     under paragraph(1),\n                     the basis of such property (immediately before the event resulting\n                     in such recapture) shall be increased by an amount equal to such recapture\n                     amount. For purposes of the preceding sentence, the term \u201crecapture\n                     amount\u201d means any increase in tax (or adjustment in carrybacks\n                     or carryovers) determined under subsection(a).",
+    "definitions": {
+      "term": "recapture amount",
+      "requirements": [
+        "any increase in tax (or adjustment in carrybacks or carryovers) determined under subsection(a)."
+      ]
+    }
+  },
+  {
+    "section": "50",
+    "subsection": "(c)(3)",
+    "source_subsections": [
+      "(c)(3)",
+      "(c)(3)(A)",
+      "(c)(3)(B)",
+      "(c)(3)(C)"
+    ],
+    "rule_type": "computation",
+    "title": "Rule",
+    "text": "In the case of any energy credit or clean electricity investment credit\u2014\u2014only 50 percent of such credit shall be taken into account under paragraph(1),\u2014only 50 percent of any recapture amount attributable to such credit shall be taken into account under paragraph(2), and\u2014paragraph (1) shall not apply for purposes of determining eligible basis undersection 42.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any energy credit or clean electricity investment credit\u2014\u2014only 50 percent of such credit shall be taken into account under paragraph(1),\u2014only 50 percent of any recapture amount attributable to such credit shall be taken into account under paragraph(2), and\u2014paragraph (1) shall not apply for purposes of determining eligible basis undersection 42."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(c)(3)Special Rule\u2014In the case of any energy credit or clean electricity\n                     investment credit\u2014I.R.C. \u00a7 50(c)(3)(A)\u2014only 50 percent of such credit shall\n                        be taken into account under paragraph(1),I.R.C. \u00a7 50(c)(3)(B)\u2014only 50 percent of any recapture amount\n                        attributable to such credit shall be taken into account under paragraph(2), andI.R.C. \u00a7 50(c)(3)(C)\u2014paragraph (1) shall not apply for purposes\n                        of determining eligible basis undersection\n                           42.",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(c)(4)(A)",
+    "source_subsections": [
+      "(c)(4)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "For purposes of sections1245and1250, any reduction under this subsection shall be treated as a deduction allowed for depreciation.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of sections1245and1250, any reduction under this subsection shall be treated as a deduction allowed for depreciation."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(c)(4)(A)In General\u2014For purposes of sections1245and1250, any reduction under this\n                        subsection shall be treated as a deduction allowed for depreciation.",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(c)(4)(B)",
+    "source_subsections": [
+      "(c)(4)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Rule For Section 1250",
+    "text": "For purposes of section1250(b), the determination of what would have been the depreciation adjustments under the straight line method shall be made as if there had been no reduction under this section.",
+    "conditions": [
+      "there had been no reduction under this section."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "there had been no reduction under this section."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of section1250(b), the determination of what would have been the depreciation adjustments under the straight line method shall be made as"
+    },
+    "cross_references": [
+      {
+        "section": "1250(b)",
+        "reason": "For purposes of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(c)(4)(B)Special Rule For Section 1250\u2014For purposes of section1250(b), the determination\n                        of what would have been the depreciation adjustments under the straight\n                        line method shall be made as if there had been no reduction under\n                        this section.",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(c)(5)",
+    "source_subsections": [
+      "(c)(5)",
+      "(c)(5)(A)",
+      "(c)(5)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "In Basis Of Interest In Partnership Or S Corporation",
+    "text": "The adjusted basis of\u2014\u2014a partner's interest in a partnership, and\u2014stock in an S corporation, shall be appropriately adjusted to take into account adjustments made under this subsection in the basis of property held by the partnership or S corporation (as the case may be).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The adjusted basis of\u2014\u2014a partner's interest in a partnership, and\u2014stock in an S corporation, shall be appropriately adjusted to take into account adjustments made under this subsection in the basis of property held by the partnership or S corporation (as the case may be)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(c)(5)Adjustment In Basis Of Interest In Partnership Or S Corporation\u2014The adjusted basis of\u2014I.R.C. \u00a7 50(c)(5)(A)\u2014a partner's interest in a partnership,\n                        andI.R.C. \u00a7 50(c)(5)(B)\u2014stock in an S corporation, shall be\n                        appropriately adjusted to take into account adjustments made under\n                        this subsection in the basis of property held by the partnership or\n                        S corporation (as the case may be).",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Section46(e)(relating to limitations with respect to certain persons).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Section46(e)(relating to limitations with respect to certain persons)."
+    },
+    "cross_references": [
+      {
+        "section": "46(e)",
+        "reason": "..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(d)(1)\u2014Section46(e)(relating\n                     to limitations with respect to certain persons).",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(d)(2)",
+    "source_subsections": [
+      "(d)(2)",
+      "(d)(2)(A)",
+      "(d)(2)(B)",
+      "(d)(2)(C)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "Section46(f)(relating to limitation in case of certain regulated companies). At the election of a taxpayer, this paragraph shall not apply to any energy storage technology (as defined insection 48(c)(6)), provided\u2014\u2014no election under this paragraph shall be permitted if the making of such election is prohibited by a State or political subdivision thereof, by any agency or instrumentality of the United States, or by a public service or public utility commission or other similar body of any State or political subdivision that regulates public utilities as described insection 7701(a)(33)(A),\u2014an election under this paragraph shall be made separately with respect to each energy storage technology by the due date (including extensions) of the Federal tax return for the taxable year in which the energy storage technology is placed in service by the taxpayer, and once made, may be revoked only with the consent of the Secretary, and\u2014an election shall not apply with respect to any energy storage technology if such energy storage technology has a maximum capacity equal to or less than 500 kilowatt hours.",
+    "conditions": [
+      "the making of such election is prohibited by a State or political subdivision thereof, by any agency or instrumentality of the United States, or by a public service or public utility commission or other similar body of any State or political subdivision that regulates public utilities as described insection 7701(a)(33)(A),\u2014an election under this paragraph shall be made separately with respect to each energy storage technology by the due date (including extensions) of the Federal tax return for the taxable year in which the energy storage technology is placed in service by the taxpayer, and once made, may be revoked only with the consent of the Secretary, and\u2014an election shall not apply with respect to any energy storage technology",
+      "such energy storage technology has a maximum capacity equal to or less than 500 kilowatt hours."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the making of such election is prohibited by a State or political subdivision thereof, by any agency or instrumentality of the United States, or by a public service or public utility commission or other similar body of any State or political subdivision that regulates public utilities as described insection 7701(a)(33)(A),\u2014an election under this paragraph shall be made separately with respect to each energy storage technology by the due date (including extensions) of the Federal tax return for the taxable year in which the energy storage technology is placed in service by the taxpayer, and once made, may be revoked only with the consent of the Secretary, and\u2014an election shall not apply with respect to any energy storage technology",
+        "such energy storage technology has a maximum capacity equal to or less than 500 kilowatt hours."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Section46(f)(relating to limitation in case of certain regulated companies). At the election of a taxpayer, this paragraph shall not apply to any energy storage technology (as defined insection 48(c)(6)), provided\u2014\u2014no election under this paragraph shall be permitted"
+    },
+    "cross_references": [
+      {
+        "section": "46(f)",
+        "reason": "..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(d)(2)\u2014Section46(f)(relating\n                     to limitation in case of certain regulated companies). At the election\n                     of a taxpayer, this paragraph shall not apply to any energy storage\n                     technology (as defined insection\n                        48(c)(6)), provided\u2014I.R.C. \u00a7 50(d)(2)(A)\u2014no election under this paragraph shall\n                        be permitted if the making of such election is prohibited by a State\n                        or political subdivision thereof, by any agency or instrumentality\n                        of the United States, or by a public service or public utility commission\n                        or other similar body of any State or political subdivision that regulates\n                        public utilities as described insection\n                           7701(a)(33)(A),I.R.C. \u00a7 50(d)(2)(B)\u2014an election under this paragraph shall\n                        be made separately with respect to each energy storage technology\n                        by the due date (including extensions) of the Federal tax return for\n                        the taxable year in which the energy storage technology is placed\n                        in service by the taxpayer, and once made, may be revoked only with\n                        the consent of the Secretary, andI.R.C. \u00a7 50(d)(2)(C)\u2014an election shall not apply with respect\n                        to any energy storage technology if such energy storage technology\n                        has a maximum capacity equal to or less than 500 kilowatt hours.",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(d)(3)",
+    "source_subsections": [
+      "(d)(3)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Section46(h)(relating to special rules for cooperatives).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Section46(h)(relating to special rules for cooperatives)."
+    },
+    "cross_references": [
+      {
+        "section": "46(h)",
+        "reason": "..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(d)(3)\u2014Section46(h)(relating\n                     to special rules for cooperatives).",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(d)(4)",
+    "source_subsections": [
+      "(d)(4)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Paragraphs(2)and(3)of section48(b)(relating to special rule for sale-leasebacks).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Paragraphs(2)and(3)of section48(b)(relating to special rule for sale-leasebacks)."
+    },
+    "cross_references": [
+      {
+        "section": "48(b)",
+        "reason": "Paragraphs(2)and(3)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(d)(4)\u2014Paragraphs(2)and(3)of section48(b)(relating to special rule\n                     for sale-leasebacks).",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(d)(5)",
+    "source_subsections": [
+      "(d)(5)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Section48(d)(relating to certain leased property).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Section48(d)(relating to certain leased property)."
+    },
+    "cross_references": [
+      {
+        "section": "48(d)",
+        "reason": "..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(d)(5)\u2014Section48(d)(relating\n                     to certain leased property).",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(d)(6)",
+    "source_subsections": [
+      "(d)(6)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Section48(f)(relating to estates and trusts).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Section48(f)(relating to estates and trusts)."
+    },
+    "cross_references": [
+      {
+        "section": "48(f)",
+        "reason": "..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(d)(6)\u2014Section48(f)(relating\n                     to estates and trusts).",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(d)(7)",
+    "source_subsections": [
+      "(d)(7)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Section48(r)(relating to certain501(d)organizations).Paragraphs(1)(A),(2)(A), and(4)of the section46(e)referred to in paragraph(1)of this subsection shall not apply to any taxable year beginning after December 31, 1995. In the case of a real estate investment trust making an election undersection 6418, paragraphs (1)(B) and (2)(B) of thesection 46(e)referred to in paragraph (1) of this subsection shall not apply to any investment credit property of such real estate investment trust to which such election applies.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Section48(r)(relating to certain501(d)organizations).Paragraphs(1)(A),(2)(A), and(4)of the section46(e)referred to in paragraph(1)of this subsection shall not apply to any taxable year beginning after December 31, 1995. In the case of a real estate investment trust making an election undersection 6418, paragraphs (1)(B) and (2)(B) of thesection 46(e)referred to in paragraph (1) of this subsection shall not apply to any investment credit property of such real estate investment trust to which such election applies."
+    },
+    "cross_references": [
+      {
+        "section": "48(r)",
+        "reason": "..."
+      },
+      {
+        "section": "46(e)",
+        "reason": "hs(1)(A),(2)(A), and(4)of the..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(d)(7)\u2014Section48(r)(relating\n                     to certain501(d)organizations).Paragraphs(1)(A),(2)(A), and(4)of the section46(e)referred to in paragraph(1)of this subsection shall\n                        not apply to any taxable year beginning after December 31, 1995. In\n                        the case of a real estate investment trust making an election undersection 6418, paragraphs (1)(B) and (2)(B)\n                        of thesection 46(e)referred\n                        to in paragraph (1) of this subsection shall not apply to any investment\n                        credit property of such real estate investment trust to which such\n                        election applies.",
+    "definitions": null
+  },
+  {
+    "section": "50",
+    "subsection": "(e)",
+    "source_subsections": [
+      "(e)"
+    ],
+    "rule_type": "condition",
+    "title": "For Geothermal Heat Pumps",
+    "text": "For purposes of this section andsection 168, the ownership of energy property described in section48(a)(3)(A)(vii)shall be determined without regard to whether such property is readily usable by a person other than the lessee or service recipient.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section andsection 168, the ownership of energy property described in section48(a)(3)(A)(vii)shall be determined without regard to whether such property is readily usable by a person other than the lessee or service recipient."
+    },
+    "cross_references": [
+      {
+        "section": "48(a)(3)(A)(vii)",
+        "reason": "energy property described in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 50(e)Rules For Geothermal Heat Pumps\u2014For purposes of this section andsection 168, the ownership of energy property described in section48(a)(3)(A)(vii)shall be determined without regard to whether such property is readily usable by\n                  a person other than the lessee or service recipient.",
+    "definitions": null
+  }
+]

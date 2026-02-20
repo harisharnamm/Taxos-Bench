@@ -1,0 +1,22 @@
+{
+  "id": "9c79aacd406a",
+  "section": "530",
+  "citation": "I.R.C. \u00a7 530(c)(1)(A)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 530(c)(1)(A) is discussed as follows: 'I.R.C. \u00a7 530(c)(1)(A)\u2014the  excess of\u2014I.R.C. \u00a7 530(c)(1)(A)(i)\u2014the  contributor's modified adjusted g...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 530(c)(1)(A)?",
+  "difficulty": 1,
+  "choices": [
+    "$209,000.00",
+    "$380,000.00",
+    "$171,000.00",
+    "$190,000.00",
+    "$95,000.00"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies $190,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 530(c)(1)(A)"
+  ]
+}

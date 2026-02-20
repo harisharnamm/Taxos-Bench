@@ -1,0 +1,19 @@
+{
+  "id": "4dbd72918424",
+  "section": "163",
+  "citation": "I.R.C. \u00a7 163(h)",
+  "type": "Calculation - Interest Deduction",
+  "scenario": "Alice paid the following interest amounts: Investment Interest (within limits): $476.29, Student Loan Interest (assume deductible): $2,292.73, Mortgage Interest on Main Home: $4,694.10.",
+  "question": "Calculate the total deductible interest under I.R.C. \u00a7 163.",
+  "difficulty": 2,
+  "choices": [
+    "$0.00",
+    "$7,463.12"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "Personal interest is generally not deductible. Total: $7,463.12.",
+  "reasoning": "Summed deductible interest types.",
+  "source_rules": [
+    "I.R.C. \u00a7 163(h)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "85def226ed01",
+  "section": "416",
+  "citation": "I.R.C. \u00a7 416(g)(1)(A)(ii)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 416(g)(1)(A)(ii) is discussed as follows: 'I.R.C. \u00a7 416(g)(1)(A)(ii)\u2014any defined contribution plan if, as of the determination date, the aggreg...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 416(g)(1)(A)(ii)?",
+  "difficulty": 1,
+  "choices": [
+    "40.0%",
+    "60.0%",
+    "50.0%",
+    "70.0%",
+    "90.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 60.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 416(g)(1)(A)(ii)"
+  ]
+}

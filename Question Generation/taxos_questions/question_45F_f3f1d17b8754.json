@@ -1,0 +1,22 @@
+{
+  "id": "f3f1d17b8754",
+  "section": "45F",
+  "citation": "I.R.C. \u00a7 45F(b)(1)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 45F(b)(1) is discussed as follows: 'I.R.C. \u00a7 45F(b)(1)In General\u2014The credit allowable under subsection (a) for any taxable year shall no...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 45F(b)(1)?",
+  "difficulty": 1,
+  "choices": [
+    "$250,000.00",
+    "$500,000.00",
+    "$450,000.00",
+    "$1,000,000.00",
+    "$550,000.00"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $500,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 45F(b)(1)"
+  ]
+}

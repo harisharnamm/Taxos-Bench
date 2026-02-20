@@ -1,0 +1,22 @@
+{
+  "id": "600640b2b086",
+  "section": "528",
+  "citation": "I.R.C. \u00a7 528(c)(1)(B)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 528(c)(1)(B) is discussed as follows: 'I.R.C. \u00a7 528(c)(1)(B)\u201460  percent or more of the gross income of such organization for the taxable  ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 528(c)(1)(B)?",
+  "difficulty": 1,
+  "choices": [
+    "60.0%",
+    "50.0%",
+    "90.0%",
+    "40.0%",
+    "70.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 60.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 528(c)(1)(B)"
+  ]
+}

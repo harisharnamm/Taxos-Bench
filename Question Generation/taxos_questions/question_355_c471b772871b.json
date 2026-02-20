@@ -1,0 +1,22 @@
+{
+  "id": "c471b772871b",
+  "section": "355",
+  "citation": "I.R.C. \u00a7 355(g)(2)(B)(iv)(III)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 355(g)(2)(B)(iv)(III) is discussed as follows: 'I.R.C. \u00a7 355(g)(2)(B)(iv)(III)20-Percent Controlled Entity\u2014For purposes of this clause, the term \u201c20...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 355(g)(2)(B)(iv)(III)?",
+  "difficulty": 1,
+  "choices": [
+    "70.0%",
+    "20.0%",
+    "80.0%",
+    "90.0%",
+    "120.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 80.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 355(g)(2)(B)(iv)(III)"
+  ]
+}

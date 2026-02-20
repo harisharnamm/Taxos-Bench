@@ -1,0 +1,22 @@
+{
+  "id": "909c5834219b",
+  "section": "219",
+  "citation": "I.R.C. \u00a7 219(b)(5)(C)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 219(b)(5)(C) is discussed as follows: 'I.R.C. \u00a7 219(b)(5)(C)Cost-Of-Living AdjustmentI.R.C. \u00a7 219(b)(5)(C)(i)In General\u2014In the case of any ...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 219(b)(5)(C)?",
+  "difficulty": 1,
+  "choices": [
+    "$450.00",
+    "$500.00",
+    "$250.00",
+    "$1,000.00",
+    "$550.00"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $500.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 219(b)(5)(C)"
+  ]
+}

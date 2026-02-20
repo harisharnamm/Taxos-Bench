@@ -1,0 +1,21 @@
+{
+  "id": "99dc8e7b3eac",
+  "section": "45N",
+  "citation": "I.R.C. \u00a7 45N(a)(1)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 45N(a)(1) is discussed as follows: 'I.R.C. \u00a7 45N(a)(1)\u201420 percent of the amount paid or incurred by the taxpayer during the taxable year...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 45N(a)(1)?",
+  "difficulty": 1,
+  "choices": [
+    "20.0%",
+    "10.0%",
+    "30.0%",
+    "80.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 20.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 45N(a)(1)"
+  ]
+}

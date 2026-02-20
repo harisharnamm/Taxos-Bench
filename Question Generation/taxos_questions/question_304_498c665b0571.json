@@ -1,0 +1,22 @@
+{
+  "id": "498c665b0571",
+  "section": "304",
+  "citation": "I.R.C. \u00a7 304(c)(3)(B)(i)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 304(c)(3)(B)(i) is discussed as follows: 'I.R.C. \u00a7 304(c)(3)(B)(i)\u2014paragraph(2)(C)of section318(a)shall be applied by substituting\n           ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 304(c)(3)(B)(i)?",
+  "difficulty": 1,
+  "choices": [
+    "5.0%",
+    "0.0%",
+    "7.5%",
+    "95.0%",
+    "15.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 5.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 304(c)(3)(B)(i)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4459cbb1a345",
+  "section": "48B",
+  "citation": "I.R.C. \u00a7 48B(d)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 48B(d) is discussed as follows: 'I.R.C. \u00a7 48B(d)Qualifying Gasification Project ProgramI.R.C. \u00a7 48B(d)(1)In General\u2014Not  later than 1...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 48B(d)?",
+  "difficulty": 1,
+  "choices": [
+    "25.0%",
+    "112.5%",
+    "65.0%",
+    "85.0%",
+    "75.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 75.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 48B(d)"
+  ]
+}

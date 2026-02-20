@@ -1,0 +1,372 @@
+[
+  {
+    "section": "40B",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)",
+      "(a)(1)",
+      "(a)(2)",
+      "(a)(2)(A)",
+      "(a)(2)(B)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "For purposes ofsection 38, the sustainable aviation fuel credit determined under this section for the taxable year is, with respect to any sale or use of a qualified mixture which occurs during such taxable year, an amount equal to the product of\u2014\u2014the number of gallons of sustainable aviation fuel in such mixture, multiplied by\u2014the sum of\u2014\u2014$1.25, plus\u2014the applicable supplementary amount with respect to such sustainable aviation fuel.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      },
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 1,
+        "text": "$1"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes ofsection 38, the sustainable aviation fuel credit determined under this section for the taxable year is, with respect to any sale or use of a qualified mixture which occurs during such taxable year, an amount equal to the product of\u2014\u2014the number of gallons of sustainable aviation fuel in such mixture, multiplied by\u2014the sum of\u2014\u2014$1.25, plus\u2014the applicable supplementary amount with respect to such sustainable aviation fuel."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40B(a)In General\u2014For purposes ofsection\n                     38, the sustainable aviation fuel credit determined\n                  under this section for the taxable year is, with respect to any sale\n                  or use of a qualified mixture which occurs during such taxable year,\n                  an amount equal to the product of\u2014I.R.C. \u00a7 40B(a)(1)\u2014the number of gallons of sustainable\n                     aviation fuel in such mixture, multiplied byI.R.C. \u00a7 40B(a)(2)\u2014the sum of\u2014I.R.C. \u00a7 40B(a)(2)(A)\u2014$1.25, plusI.R.C. \u00a7 40B(a)(2)(B)\u2014the applicable supplementary amount with\n                        respect to such sustainable aviation fuel.",
+    "definitions": null
+  },
+  {
+    "section": "40B",
+    "subsection": "(b)",
+    "source_subsections": [
+      "(b)"
+    ],
+    "rule_type": "definition",
+    "title": "Supplementary Amount",
+    "text": "For purposes of this section, the term \u201capplicable supplementary amount\u201d\u2019 means, with respect to any sustainable aviation fuel, an amount equal to $0.01 for each percentage point by which the lifecycle greenhouse gas emissions reduction percentage with respect to such fuel exceeds 50 percent. In no event shall the applicable supplementary amount determined under this subsection exceed $0.50.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 0,
+        "text": "$0"
+      },
+      {
+        "label": "amount",
+        "value": 0,
+        "text": "$0"
+      }
+    ],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u201capplicable supplementary amount\u201d\u2019 means, with respect to any sustainable aviation fuel, an amount equal to $0.01 for each percentage point by which the lifecycle greenhouse gas emissions reduction percentage with respect to such fuel exceeds 50 percent. In no event shall the applicable supplementary amount determined under this subsection exceed $0.50."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40B(b)Applicable Supplementary Amount\u2014For purposes of this section, the term \u201capplicable\n                  supplementary amount\u201d\u2019 means, with respect to any sustainable\n                  aviation fuel, an amount equal to $0.01 for each percentage point\n                  by which the lifecycle greenhouse gas emissions reduction percentage\n                  with respect to such fuel exceeds 50 percent. In no event shall the\n                  applicable supplementary amount determined under this subsection exceed\n                  $0.50.",
+    "definitions": null
+  },
+  {
+    "section": "40B",
+    "subsection": "(c)",
+    "source_subsections": [
+      "(c)",
+      "(c)(1)",
+      "(c)(2)",
+      "(c)(3)",
+      "(c)(4)"
+    ],
+    "rule_type": "definition",
+    "title": "Mixture",
+    "text": "For purposes of this section, the term \u201cqualified mixture\u201d means a mixture of sustainable aviation fuel and kerosene if\u2014\u2014such mixture is produced by the taxpayer in the United States,\u2014such mixture is used by the taxpayer (or sold by the taxpayer for use) in an aircraft,\u2014such sale or use is in the ordinary course of a trade or business of the taxpayer, and\u2014the transfer of such mixture to the fuel tank of such aircraft occurs in the United States.",
+    "conditions": [
+      "\u2014\u2014such mixture is produced by the taxpayer in the United States,\u2014such mixture is used by the taxpayer (or sold by the taxpayer for use) in an aircraft,\u2014such sale or use is in the ordinary course of a trade or business of the taxpayer, and\u2014the transfer of such mixture to the fuel tank of such aircraft occurs in the United States."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014such mixture is produced by the taxpayer in the United States,\u2014such mixture is used by the taxpayer (or sold by the taxpayer for use) in an aircraft,\u2014such sale or use is in the ordinary course of a trade or business of the taxpayer, and\u2014the transfer of such mixture to the fuel tank of such aircraft occurs in the United States."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u201cqualified mixture\u201d means a mixture of sustainable aviation fuel and kerosene"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40B(c)Qualified Mixture\u2014For purposes of this section, the term \u201cqualified\n                  mixture\u201d means a mixture of sustainable aviation fuel and kerosene\n                  if\u2014I.R.C. \u00a7 40B(c)(1)\u2014such mixture is produced by the taxpayer\n                     in the United States,I.R.C. \u00a7 40B(c)(2)\u2014such mixture is used by the taxpayer\n                     (or sold by the taxpayer for use) in an aircraft,I.R.C. \u00a7 40B(c)(3)\u2014such sale or use is in the ordinary course\n                     of a trade or business of the taxpayer, andI.R.C. \u00a7 40B(c)(4)\u2014the transfer of such mixture to the fuel\n                     tank of such aircraft occurs in the United States.",
+    "definitions": {
+      "term": "qualified mixture",
+      "requirements": [
+        "a mixture of sustainable aviation fuel and kerosene if\u2014\u2014such mixture is produced by the taxpayer in the United States,\u2014such mixture is used by the taxpayer (or sold by the taxpayer for use) in an aircraft,\u2014such sale or use is in the ordinary course of a trade or business of the taxpayer, and\u2014the transfer of such mixture to the fuel tank of such aircraft occurs in the United States."
+      ]
+    }
+  },
+  {
+    "section": "40B",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)",
+      "(d)(1)(A)",
+      "(d)(1)(A)(i)",
+      "(d)(1)(A)(ii)",
+      "(d)(1)(B)",
+      "(d)(1)(C)",
+      "(d)(1)(D)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "For purposes of this section, the term \u201csustainable aviation fuel\u201d means liquid fuel, the portion of which is not kerosene, which\u2014\u2014meets the requirements of\u2014\u2014ASTM International Standard D7566, or\u2014the Fischer Tropsch provisions of ASTM International Standard D1655, Annex A1,\u2014is not derived from coprocessing an applicable material (or materials derived from an applicable material) with a feedstock which is not biomass,\u2014is not derived from palm fatty acid distillates or petroleum, and\u2014has been certified in accordance with subsection (e) as having a lifecycle greenhouse gas emissions reduction percentage of at least 50 percent.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u201csustainable aviation fuel\u201d means liquid fuel, the portion of which is not kerosene, which\u2014\u2014meets the requirements of\u2014\u2014ASTM International Standard D7566, or\u2014the Fischer Tropsch provisions of ASTM International Standard D1655, Annex A1,\u2014is not derived from coprocessing an applicable material (or materials derived from an applicable material) with a feedstock which is not biomass,\u2014is not derived from palm fatty acid distillates or petroleum, and\u2014has been certified in accordance with subsection (e) as having a lifecycle greenhouse gas emissions reduction percentage of at least 50 percent."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40B(d)(1)In General\u2014For purposes of this section, the term \u201csustainable\n                     aviation fuel\u201d means liquid fuel, the portion of which is not\n                     kerosene, which\u2014I.R.C. \u00a7 40B(d)(1)(A)\u2014meets the requirements of\u2014I.R.C. \u00a7 40B(d)(1)(A)(i)\u2014ASTM International Standard D7566, orI.R.C. \u00a7 40B(d)(1)(A)(ii)\u2014the Fischer Tropsch provisions of ASTM\n                           International Standard D1655, Annex A1,I.R.C. \u00a7 40B(d)(1)(B)\u2014is not derived from coprocessing an applicable\n                        material (or materials derived from an applicable material) with a\n                        feedstock which is not biomass,I.R.C. \u00a7 40B(d)(1)(C)\u2014is not derived from palm fatty acid distillates\n                        or petroleum, andI.R.C. \u00a7 40B(d)(1)(D)\u2014has been certified in accordance with\n                        subsection (e) as having a lifecycle greenhouse gas emissions reduction\n                        percentage of at least 50 percent.",
+    "definitions": {
+      "term": "sustainable aviation fuel",
+      "requirements": [
+        "liquid fuel, the portion of which is not kerosene, which\u2014\u2014meets the requirements of\u2014\u2014ASTM International Standard D7566, or\u2014the Fischer Tropsch provisions of ASTM International Standard D1655, Annex A1,\u2014is not derived from coprocessing an applicable material (or materials derived from an applicable material) with a feedstock which is not biomass,\u2014is not derived from palm fatty acid distillates or petroleum, and\u2014has been certified in accordance with subsection (e) as having a lifecycle greenhouse gas emissions reduction percentage of at least 50 percent."
+      ]
+    }
+  },
+  {
+    "section": "40B",
+    "subsection": "(d)(2)(A)",
+    "source_subsections": [
+      "(d)(2)(A)",
+      "(d)(2)(A)(i)",
+      "(d)(2)(A)(ii)",
+      "(d)(2)(A)(iii)"
+    ],
+    "rule_type": "definition",
+    "title": "Material",
+    "text": "The term \u201capplicable material\u201d means\u2014\u2014monoglycerides, diglycerides, and triglycerides,\u2014free fatty acids, and\u2014fatty acid esters.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201capplicable material\u201d means\u2014\u2014monoglycerides, diglycerides, and triglycerides,\u2014free fatty acids, and\u2014fatty acid esters."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40B(d)(2)(A)Applicable Material\u2014The term \u201capplicable material\u201d means\u2014I.R.C. \u00a7 40B(d)(2)(A)(i)\u2014monoglycerides, diglycerides, and triglycerides,I.R.C. \u00a7 40B(d)(2)(A)(ii)\u2014free fatty acids, andI.R.C. \u00a7 40B(d)(2)(A)(iii)\u2014fatty acid esters.",
+    "definitions": null
+  },
+  {
+    "section": "40B",
+    "subsection": "(d)(2)(B)",
+    "source_subsections": [
+      "(d)(2)(B)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "The term \u201cbiomass\u201d has the same meaning given such term insection 45K(c)(3).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cbiomass\u201d has the same meaning given such term insection 45K(c)(3)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40B(d)(2)(B)Biomass\u2014The term \u201cbiomass\u201d has the same meaning given\n                        such term insection\n                           45K(c)(3).",
+    "definitions": null
+  },
+  {
+    "section": "40B",
+    "subsection": "(e)",
+    "source_subsections": [
+      "(e)",
+      "(e)(1)",
+      "(e)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Greenhouse Gas Emissions Reduction Percentage",
+    "text": "For purposes of this section, the term \u2018lifecycle greenhouse gas emissions reduction percentage\u2019 means, with respect to any sustainable aviation fuel, the percentage reduction in lifecycle greenhouse gas emissions achieved by such fuel as compared with petroleum-based jet fuel, as defined in accordance with\u2014\u2014the most recent Carbon Offsetting and Reduction Scheme for International Aviation which has been adopted by the International Civil Aviation Organization with the agreement of the United States, or\u2014any similar methodology which satisfies the criteria under section 211(o)(1)(H) of the Clean Air Act (42 U.S.C. 7545(o)(1)(H)), as in effect on the date of enactment of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u2018lifecycle greenhouse gas emissions reduction percentage\u2019 means, with respect to any sustainable aviation fuel, the percentage reduction in lifecycle greenhouse gas emissions achieved by such fuel as compared with petroleum-based jet fuel, as defined in accordance with\u2014\u2014the most recent Carbon Offsetting and Reduction Scheme for International Aviation which has been adopted by the International Civil Aviation Organization with the agreement of the United States, or\u2014any similar methodology which satisfies the criteria under section 211(o)(1)(H) of the Clean Air Act (42 U.S.C. 7545(o)(1)(H)), as in effect on the date of enactment of this section."
+    },
+    "cross_references": [
+      {
+        "section": "211(o)(1)(H)",
+        "reason": "satisfies the criteria under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40B(e)Lifecycle Greenhouse Gas Emissions Reduction Percentage\u2014For purposes of this section, the term \u2018lifecycle\n                  greenhouse gas emissions reduction percentage\u2019 means, with respect\n                  to any sustainable aviation fuel, the percentage reduction in lifecycle\n                  greenhouse gas emissions achieved by such fuel as compared with petroleum-based\n                  jet fuel, as defined in accordance with\u2014I.R.C. \u00a7 40B(e)(1)\u2014the most recent Carbon Offsetting and\n                     Reduction Scheme for International Aviation which has been adopted\n                     by the International Civil Aviation Organization with the agreement\n                     of the United States, orI.R.C. \u00a7 40B(e)(2)\u2014any similar methodology which satisfies\n                     the criteria under section 211(o)(1)(H) of the Clean Air Act (42 U.S.C. 7545(o)(1)(H)),\n                     as in effect on the date of enactment of this section.",
+    "definitions": null
+  },
+  {
+    "section": "40B",
+    "subsection": "(f)",
+    "source_subsections": [
+      "(f)",
+      "(f)(1)",
+      "(f)(2)",
+      "(f)(2)(A)",
+      "(f)(2)(A)(i)",
+      "(f)(2)(A)(ii)",
+      "(f)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Sustainable Aviation Fuel Producers",
+    "text": "No credit shall be allowed under this section with respect to any sustainable aviation fuel unless the producer or importer of such fuel\u2014\u2014is registered with the Secretary undersection 4101, and\u2014provides\u2014\u2014certification (in such form and manner as the Secretary shall prescribe) from an unrelated party demonstrating compliance with\u2014\u2014any general requirements, supply chain traceability requirements, and information transmission requirements established under the Carbon Offsetting and Reduction Scheme for International Aviation described in paragraph (1) of subsection (e), or\u2014in the case of any methodology established under paragraph (2) of such subsection, requirements similar to the requirements described in clause (i), and\u2014such other information with respect to such fuel as the Secretary may require for purposes of carrying out this section.",
+    "conditions": [
+      "the producer or importer of such fuel\u2014\u2014is registered with the Secretary undersection 4101, and\u2014provides\u2014\u2014certification (in such form and manner as the Secretary shall prescribe) from an unrelated party demonstrating compliance with\u2014\u2014any general requirements, supply chain traceability requirements, and information transmission requirements established under the Carbon Offsetting and Reduction Scheme for International Aviation described in paragraph (1) of subsection (e), or\u2014in the case of any methodology established under paragraph (2) of such subsection, requirements similar to the requirements described in clause (i), and\u2014such other information with respect to such fuel as the Secretary may require for purposes of carrying out this section."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "the producer or importer of such fuel\u2014\u2014is registered with the Secretary undersection 4101, and\u2014provides\u2014\u2014certification (in such form and manner as the Secretary shall prescribe) from an unrelated party demonstrating compliance with\u2014\u2014any general requirements, supply chain traceability requirements, and information transmission requirements established under the Carbon Offsetting and Reduction Scheme for International Aviation described in paragraph (1) of subsection (e), or\u2014in the case of any methodology established under paragraph (2) of such subsection, requirements similar to the requirements described in clause (i), and\u2014such other information with respect to such fuel as the Secretary may require for purposes of carrying out this section."
+      ],
+      "except": [],
+      "result": "No credit shall be allowed under this section with respect to any sustainable aviation fuel"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40B(f)Registration Of Sustainable Aviation Fuel Producers\u2014No credit shall be allowed under this section with respect\n                  to any sustainable aviation fuel unless the producer or importer of\n                  such fuel\u2014I.R.C. \u00a7 40B(f)(1)\u2014is registered with the Secretary undersection 4101, andI.R.C. \u00a7 40B(f)(2)\u2014provides\u2014I.R.C. \u00a7 40B(f)(2)(A)\u2014certification (in such form and manner\n                        as the Secretary shall prescribe) from an unrelated party demonstrating\n                        compliance with\u2014I.R.C. \u00a7 40B(f)(2)(A)(i)\u2014any general requirements, supply chain\n                           traceability requirements, and information transmission requirements\n                           established under the Carbon Offsetting and Reduction Scheme for International\n                           Aviation described in paragraph (1) of subsection (e), orI.R.C. \u00a7 40B(f)(2)(A)(ii)\u2014in the case of any methodology established\n                           under paragraph (2) of such subsection, requirements similar to the\n                           requirements described in clause (i), andI.R.C. \u00a7 40B(f)(2)(B)\u2014such other information with respect to\n                        such fuel as the Secretary may require for purposes of carrying out\n                        this section.",
+    "definitions": null
+  },
+  {
+    "section": "40B",
+    "subsection": "(g)",
+    "source_subsections": [
+      "(g)"
+    ],
+    "rule_type": "condition",
+    "title": "With Credit Against Excise Tax",
+    "text": "The amount of the credit determined under this section with respect to any sustainable aviation fuel shall, under rules prescribed by the Secretary, be properly reduced to take into account any benefit provided with respect to such sustainable aviation fuel solely by reason of the application ofsection 6426or6427(e).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of the credit determined under this section with respect to any sustainable aviation fuel shall, under rules prescribed by the Secretary, be properly reduced to take into account any benefit provided with respect to such sustainable aviation fuel solely by reason of the application ofsection 6426or6427(e)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40B(g)Coordination With Credit Against Excise Tax\u2014The amount of the credit determined under this section\n                  with respect to any sustainable aviation fuel shall, under rules prescribed\n                  by the Secretary, be properly reduced to take into account any benefit\n                  provided with respect to such sustainable aviation fuel solely by\n                  reason of the application ofsection\n                     6426or6427(e).",
+    "definitions": null
+  },
+  {
+    "section": "40B",
+    "subsection": "(h)",
+    "source_subsections": [
+      "(h)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "This section shall not apply to any sale or use after December 31, 2024.(Added byPub. L. 117-169, title I, Sec. 13203(a), Aug. 16, 2022,136 Stat. 1818.)",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "This section shall not apply to any sale or use after December 31, 2024.(Added byPub. L. 117-169, title I, Sec. 13203(a), Aug. 16, 2022,136 Stat. 1818.)"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40B(h)Termination\u2014This section shall not apply to any sale or use after\n                  December 31, 2024.(Added byPub.\n                        L. 117-169, title I, Sec. 13203(a), Aug. 16, 2022,136 Stat. 1818.)",
+    "definitions": null
+  }
+]

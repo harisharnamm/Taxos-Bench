@@ -1,0 +1,22 @@
+{
+  "id": "865fb00650e8",
+  "section": "29",
+  "citation": "I.R.C. \u00a7 29(g)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 29(g) is discussed as follows: 'I.R.C. \u00a7 29(g)Extension For Facilities Producing Coke Or Coke Gas\u2014Notwithstanding   subsection (f)\u2014I...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 29(g)?",
+  "difficulty": 1,
+  "choices": [
+    "$3.30",
+    "$6.00",
+    "$2.70",
+    "$3.00",
+    "$1.50"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies $3.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 29(g)"
+  ]
+}

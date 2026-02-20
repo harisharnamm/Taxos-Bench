@@ -1,0 +1,21 @@
+{
+  "id": "c51accf2cb4a",
+  "section": "1256",
+  "citation": "I.R.C. \u00a7 1256(a)(3)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1256(a)(3) is discussed as follows: 'I.R.C. \u00a7 1256(a)(3)\u2014any  gain or loss with respect to a section 1256 contract shall be treated as\u2014I....'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1256(a)(3)?",
+  "difficulty": 1,
+  "choices": [
+    "40.0%",
+    "30.0%",
+    "50.0%",
+    "60.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 40.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1256(a)(3)"
+  ]
+}

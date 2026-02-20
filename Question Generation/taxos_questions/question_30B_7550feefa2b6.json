@@ -1,0 +1,22 @@
+{
+  "id": "7550feefa2b6",
+  "section": "30B",
+  "citation": "I.R.C. \u00a7 30B(b)(2)(A)(v)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 30B(b)(2)(A)(v) is discussed as follows: 'I.R.C. \u00a7 30B(b)(2)(A)(v)\u2014$3,000, if such vehicle achieves at least\n                           250 pe...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 30B(b)(2)(A)(v)?",
+  "difficulty": 1,
+  "choices": [
+    "$3,000.00",
+    "$2,700.00",
+    "$3,300.00",
+    "$1,500.00",
+    "$6,000.00"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies $3,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 30B(b)(2)(A)(v)"
+  ]
+}

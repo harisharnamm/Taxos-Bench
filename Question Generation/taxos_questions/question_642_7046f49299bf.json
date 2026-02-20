@@ -1,0 +1,22 @@
+{
+  "id": "7046f49299bf",
+  "section": "642",
+  "citation": "I.R.C. \u00a7 642(i)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 642(i) is discussed as follows: 'I.R.C. \u00a7 642(i)Certain Distributions By Cemetery Perpetual Care Funds\u2014In  the case of a cemetery per...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 642(i)?",
+  "difficulty": 1,
+  "choices": [
+    "$5.00",
+    "$10.00",
+    "$2.50",
+    "$4.50",
+    "$5.50"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies $5.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 642(i)"
+  ]
+}

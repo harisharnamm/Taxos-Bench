@@ -1,0 +1,21 @@
+{
+  "id": "c4e01f433192",
+  "section": "860L",
+  "citation": "I.R.C. \u00a7 860L(g)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 860L(g) is discussed as follows: 'I.R.C. \u00a7 860L(g)Related Person\u2014Editor's Note:Pub. L. 108-357, Sec. 835(a), repealed Sec. 860L, effec...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 860L(g)?",
+  "difficulty": 1,
+  "choices": [
+    "60.0%",
+    "50.0%",
+    "40.0%",
+    "75.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 860L(g)"
+  ]
+}

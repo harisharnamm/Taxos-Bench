@@ -1,0 +1,22 @@
+{
+  "id": "505813c8055b",
+  "section": "543",
+  "citation": "I.R.C. \u00a7 543(d)(4)(A)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 543(d)(4)(A) is discussed as follows: 'I.R.C. \u00a7 543(d)(4)(A)In General\u2014The requirements of this paragraph are met if\u2014Editor's Note:Sec. 543...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 543(d)(4)(A)?",
+  "difficulty": 1,
+  "choices": [
+    "15.0%",
+    "25.0%",
+    "35.0%",
+    "75.0%",
+    "37.5%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 25.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 543(d)(4)(A)"
+  ]
+}

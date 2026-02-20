@@ -1,0 +1,21 @@
+{
+  "id": "e9a68bf7d158",
+  "section": "457A",
+  "citation": "I.R.C. \u00a7 457A(c)(1)(B)(ii)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 457A(c)(1)(B)(ii) is discussed as follows: 'I.R.C. \u00a7 457A(c)(1)(B)(ii)\u2014an amount equal to 20 percent of the amount of such compensation....'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 457A(c)(1)(B)(ii)?",
+  "difficulty": 1,
+  "choices": [
+    "10.0%",
+    "20.0%",
+    "30.0%",
+    "80.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 20.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 457A(c)(1)(B)(ii)"
+  ]
+}

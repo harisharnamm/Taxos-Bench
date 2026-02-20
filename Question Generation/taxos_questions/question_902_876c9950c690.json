@@ -1,0 +1,22 @@
+{
+  "id": "876c9950c690",
+  "section": "902",
+  "citation": "I.R.C. \u00a7 902(b)(2)(B)(i)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 902(b)(2)(B)(i) is discussed as follows: 'I.R.C. \u00a7 902(b)(2)(B)(i)\u2014the domestic corporation owns at least 5 percent of the  voting stock of su...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 902(b)(2)(B)(i)?",
+  "difficulty": 1,
+  "choices": [
+    "15.0%",
+    "7.5%",
+    "0.0%",
+    "5.0%",
+    "95.0%"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies 5.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 902(b)(2)(B)(i)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "291c12499fc5",
+  "section": "530A",
+  "citation": "I.R.C. \u00a7 530A(d)(5)(C)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 530A(d)(5)(C) is discussed as follows: 'I.R.C. \u00a7 530A(d)(5)(C)\u2014the tax imposed by this chapter on the distributee for the taxable year in wh...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 530A(d)(5)(C)?",
+  "difficulty": 1,
+  "choices": [
+    "110.0%",
+    "0.0%",
+    "90.0%",
+    "150.0%",
+    "100.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 100.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 530A(d)(5)(C)"
+  ]
+}

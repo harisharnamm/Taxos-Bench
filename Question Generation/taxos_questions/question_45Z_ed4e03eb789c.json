@@ -1,0 +1,22 @@
+{
+  "id": "ed4e03eb789c",
+  "section": "45Z",
+  "citation": "I.R.C. \u00a7 45Z(c)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 45Z(c) is discussed as follows: 'I.R.C. \u00a7 45Z(c)Inflation Adjustment\u2014Editor's Note:Sec. 45Z(c)(1), below, before amendment byPub. L. ...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 45Z(c)?",
+  "difficulty": 1,
+  "choices": [
+    "$1.00",
+    "$1.10",
+    "$0.50",
+    "$0.90",
+    "$2.00"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies $1.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 45Z(c)"
+  ]
+}

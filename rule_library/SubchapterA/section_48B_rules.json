@@ -1,0 +1,716 @@
+[
+  {
+    "section": "48B",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "For purposes of section46, the qualifying gasification project credit for any taxable year is an amount equal to 20 percent (30 percent in the case of credits allocated under subsection(d)(1)(B)) of the qualified investment for such taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.2,
+        "text": "20 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.3,
+        "text": "30 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of section46, the qualifying gasification project credit for any taxable year is an amount equal to 20 percent (30 percent in the case of credits allocated under subsection(d)(1)(B)) of the qualified investment for such taxable year."
+    },
+    "cross_references": [
+      {
+        "section": "46",
+        "reason": "For purposes of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48B(a)In General\u2014For  purposes of section46, the qualifying gasification  project credit for  any taxable year is an amount equal\n                  to 20 percent (30 percent in the case of credits allocated under subsection(d)(1)(B))\n                  of the  qualified  investment for such taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "48B",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)",
+      "(b)(1)(A)",
+      "(b)(1)(A)(i)",
+      "(b)(1)(A)(ii)",
+      "(b)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "For purposes of subsection(a), the qualified investment for any taxable year is the basis of eligible property placed in service by the taxpayer during such taxable year which is part of a qualifying gasification project\u2014.R.C. \u00a7 48B(b)(1)(A)(i)\u2014the construction, reconstruction, or erection of which is completed by the taxpayer, or\u2014which is acquired by the taxpayer if the original use of such property commences with the taxpayer, and\u2014with respect to which depreciation (or amortization in lieu of depreciation) is allowable.",
+    "conditions": [
+      "the original use of such property commences with the taxpayer, and\u2014with respect to which depreciation (or amortization in lieu of depreciation) is allowable."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the original use of such property commences with the taxpayer, and\u2014with respect to which depreciation (or amortization in lieu of depreciation) is allowable."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subsection(a), the qualified investment for any taxable year is the basis of eligible property placed in service by the taxpayer during such taxable year which is part of a qualifying gasification project\u2014.R.C. \u00a7 48B(b)(1)(A)(i)\u2014the construction, reconstruction, or erection of which is completed by the taxpayer, or\u2014which is acquired by the taxpayer"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48B(b)(1)In General\u2014For  purposes of subsection(a), the qualified investment for  any taxable year  is the basis of eligible property\n                     placed in service by the  taxpayer  during such taxable year which is part of a qualifying\n                     gasification project\u2014I.R.C. \u00a7 48B(b)(1)(A)I.R.C. \u00a7 48B(b)(1)(A)(i)\u2014the  construction, reconstruction, or erection of which is completed by  the  taxpayer,\n                           orI.R.C. \u00a7 48B(b)(1)(A)(ii)\u2014which is acquired by the taxpayer if the original use of  such property  commences\n                           with the taxpayer, andI.R.C. \u00a7 48B(b)(1)(B)\u2014with  respect to which  depreciation\n                        (or amortization in lieu of depreciation)  is allowable.",
+    "definitions": null
+  },
+  {
+    "section": "48B",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Rule For Certain Subsidized Property",
+    "text": "Rules similar to section48(a)(4)(without regard to subparagraph(D)thereof) shall apply for purposes of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to section48(a)(4)(without regard to subparagraph(D)thereof) shall apply for purposes of this section."
+    },
+    "cross_references": [
+      {
+        "section": "48(a)(4)",
+        "reason": "Rules similar to..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48B(b)(2)Special Rule For Certain Subsidized Property\u2014Rules  similar to section48(a)(4)(without regard to subparagraph(D)thereof)\n                     shall apply for purposes of this section.",
+    "definitions": null
+  },
+  {
+    "section": "48B",
+    "subsection": "(b)(3)",
+    "source_subsections": [
+      "(b)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Qualified Progress Expenditures Rules Made Applicable",
+    "text": "Rules similar to the rules of subsections (c)(4) and (d) of section 46 (as in effect on the day before the enactment of the Revenue Reconciliation Act of 1990) shall apply for purposes of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules of subsections (c)(4) and (d) of section 46 (as in effect on the day before the enactment of the Revenue Reconciliation Act of 1990) shall apply for purposes of this section."
+    },
+    "cross_references": [
+      {
+        "section": "46",
+        "reason": "subsections (c)(4) and (d) of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48B(b)(3)Certain Qualified Progress Expenditures Rules Made Applicable\u2014Rules   similar to the rules of subsections (c)(4) and\n                     (d) of section 46 (as in  effect  on the day before the enactment of the Revenue Reconciliation\n                     Act  of 1990) shall  apply for purposes of this section.",
+    "definitions": null
+  },
+  {
+    "section": "48B",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)",
+      "(c)(1)(A)",
+      "(c)(1)(B)",
+      "(c)(1)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "Gasification Project",
+    "text": "The term \u201cqualifying gasification project\u201d means any project which\u2014\u2014employs gasification technology,\u2014will be carried out by an eligible entity, and\u2014any portion of the qualified investment of which is certified under the qualifying gasification program as eligible for credit under this section in an amount (not to exceed $650,000,000) determined by the Secretary.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 650000000,
+        "text": "$650,000,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualifying gasification project\u201d means any project which\u2014\u2014employs gasification technology,\u2014will be carried out by an eligible entity, and\u2014any portion of the qualified investment of which is certified under the qualifying gasification program as eligible for credit under this section in an amount (not to exceed $650,000,000) determined by the Secretary."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48B(c)(1)Qualifying Gasification Project\u2014The  term \u201cqualifying gasification  project\u201d means any project which\u2014I.R.C. \u00a7 48B(c)(1)(A)\u2014employs gasification technology,I.R.C. \u00a7 48B(c)(1)(B)\u2014will  be carried out by an eligible\n                        entity, andI.R.C. \u00a7 48B(c)(1)(C)\u2014any  portion of the qualified investment of which is certified  under the  qualifying\n                        gasification program as eligible for credit under this  section  in an amount (not\n                        to exceed\n                        $650,000,000) determined by the Secretary.",
+    "definitions": {
+      "term": "qualifying gasification project",
+      "requirements": [
+        "any project which\u2014\u2014employs gasification technology,\u2014will be carried out by an eligible entity, and\u2014any portion of the qualified investment of which is certified under the qualifying gasification program as eligible for credit under this section in an amount (not to exceed $650,000,000) determined by the Secretary."
+      ]
+    }
+  },
+  {
+    "section": "48B",
+    "subsection": "(c)(2)",
+    "source_subsections": [
+      "(c)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Technology",
+    "text": "The term \u201cgasification technology\u201d means any process which converts a solid or liquid product from coal, petroleum residue, biomass, or other materials which are recovered for their energy or feedstock value into a synthesis gas composed primarily of carbon monoxide and hydrogen for direct use or subsequent chemical or physical conversion.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cgasification technology\u201d means any process which converts a solid or liquid product from coal, petroleum residue, biomass, or other materials which are recovered for their energy or feedstock value into a synthesis gas composed primarily of carbon monoxide and hydrogen for direct use or subsequent chemical or physical conversion."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48B(c)(2)Gasification Technology\u2014The  term \u201cgasification technology\u201d means any  process which converts a solid  or\n                     liquid product from coal, petroleum residue,\n                     biomass, or other  materials which are recovered for their energy or feedstock  value\n                     into a  synthesis gas composed primarily of carbon monoxide and hydrogen  for  direct\n                     use or subsequent chemical or physical conversion.",
+    "definitions": {
+      "term": "gasification technology",
+      "requirements": [
+        "any process which converts a solid or liquid product from coal, petroleum residue, biomass, or other materials which are recovered for their energy or feedstock value into a synthesis gas composed primarily of carbon monoxide and hydrogen for direct use or subsequent chemical or physical conversion."
+      ]
+    }
+  },
+  {
+    "section": "48B",
+    "subsection": "(c)(3)",
+    "source_subsections": [
+      "(c)(3)"
+    ],
+    "rule_type": "definition",
+    "title": "Property",
+    "text": "The term \u201celigible property\u201d means any property which is a part of a qualifying gasification project and is necessary for the gasification technology of such project.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201celigible property\u201d means any property which is a part of a qualifying gasification project and is necessary for the gasification technology of such project."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48B(c)(3)Eligible Property\u2014The  term \u201celigible property\u201d means any property which\n                     is a part of a  qualifying gasification project and is necessary for the  gasification\n                     technology of such project.",
+    "definitions": {
+      "term": "eligible property",
+      "requirements": [
+        "any property which is a part of a qualifying gasification project and is necessary for the gasification technology of such project."
+      ]
+    }
+  },
+  {
+    "section": "48B",
+    "subsection": "(c)(4)(A)",
+    "source_subsections": [
+      "(c)(4)(A)",
+      "(c)(4)(A)(i)",
+      "(c)(4)(A)(ii)",
+      "(c)(4)(A)(iii)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cbiomass\u201d means any\u2014\u2014agricultural or plant waste,\u2014byproduct of wood or paper mill operations, including lignin in spent pulping liquors, and\u2014other products of forestry maintenance.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cbiomass\u201d means any\u2014\u2014agricultural or plant waste,\u2014byproduct of wood or paper mill operations, including lignin in spent pulping liquors, and\u2014other products of forestry maintenance."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48B(c)(4)(A)In General\u2014The  term \u201cbiomass\u201d means any\u2014I.R.C. \u00a7 48B(c)(4)(A)(i)\u2014agricultural or plant waste,I.R.C. \u00a7 48B(c)(4)(A)(ii)\u2014byproduct of wood or paper mill operations, including lignin in spent   pulping liquors,\n                           andI.R.C. \u00a7 48B(c)(4)(A)(iii)\u2014other products of forestry maintenance.",
+    "definitions": {
+      "term": "biomass",
+      "requirements": [
+        "any\u2014\u2014agricultural or plant waste,\u2014byproduct of wood or paper mill operations, including lignin in spent pulping liquors, and\u2014other products of forestry maintenance."
+      ]
+    }
+  },
+  {
+    "section": "48B",
+    "subsection": "(c)(4)(B)",
+    "source_subsections": [
+      "(c)(4)(B)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "The term \u201cbiomass\u201d does not include paper which is commonly recycled.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cbiomass\u201d does not include paper which is commonly recycled."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48B(c)(4)(B)Exclusion\u2014The  term \u201cbiomass\u201d does not include paper which is commonly  recycled.",
+    "definitions": null
+  },
+  {
+    "section": "48B",
+    "subsection": "(c)(5)",
+    "source_subsections": [
+      "(c)(5)"
+    ],
+    "rule_type": "definition",
+    "title": "Capture Capability",
+    "text": "The term \u201ccarbon capture capability\u201d means a gasification plant design which is determined by the Secretary to reflect reasonable consideration for, and be capable of, accommodating the equipment likely to be necessary to capture carbon dioxide from the gaseous stream, for later use or sequestration, which would otherwise be emitted in the flue gas from a project which uses a nonrenewable fuel.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201ccarbon capture capability\u201d means a gasification plant design which is determined by the Secretary to reflect reasonable consideration for, and be capable of, accommodating the equipment likely to be necessary to capture carbon dioxide from the gaseous stream, for later use or sequestration, which would otherwise be emitted in the flue gas from a project which uses a nonrenewable fuel."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48B(c)(5)Carbon Capture Capability\u2014The  term \u201ccarbon capture capability\u201d means a  gasification plant design which  is\n                     determined by the Secretary to reflect  reasonable consideration for,  and be capable\n                     of, accommodating the equipment\n                     likely to be necessary to  capture carbon dioxide from the gaseous stream, for  later\n                     use or  sequestration, which would otherwise be emitted in the flue gas  from a  project\n                     which uses a nonrenewable fuel.",
+    "definitions": {
+      "term": "carbon capture capability",
+      "requirements": [
+        "a gasification plant design which is determined by the Secretary to reflect reasonable consideration for, and be capable of, accommodating the equipment likely to be necessary to capture carbon dioxide from the gaseous stream, for later use or sequestration, which would otherwise be emitted in the flue gas from a project which uses a nonrenewable fuel."
+      ]
+    }
+  },
+  {
+    "section": "48B",
+    "subsection": "(c)(6)",
+    "source_subsections": [
+      "(c)(6)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "The term \u201ccoal\u201d means anthracite, bituminous coal, subbituminous coal, lignite, and peat.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201ccoal\u201d means anthracite, bituminous coal, subbituminous coal, lignite, and peat."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48B(c)(6)Coal\u2014The  term \u201ccoal\u201d means anthracite, bituminous coal, subbituminous  coal,  lignite,\n                     and peat.",
+    "definitions": {
+      "term": "coal",
+      "requirements": [
+        "anthracite, bituminous coal, subbituminous coal, lignite, and peat."
+      ]
+    }
+  },
+  {
+    "section": "48B",
+    "subsection": "(c)(7)",
+    "source_subsections": [
+      "(c)(7)",
+      "(c)(7)(A)",
+      "(c)(7)(B)",
+      "(c)(7)(C)",
+      "(c)(7)(D)",
+      "(c)(7)(E)",
+      "(c)(7)(F)",
+      "(c)(7)(G)",
+      "(c)(7)(H)"
+    ],
+    "rule_type": "definition",
+    "title": "Entity",
+    "text": "The term \u201celigible entity\u201d means any person whose application for certification is principally intended for use in a domestic project which employs domestic gasification applications related to\u2014\u2014chemicals,\u2014fertilizers,\u2014glass,\u2014steel,\u2014petroleum residues,\u2014forest products,\u2014agriculture, including feedlots and dairy operations, and\u2014transportation grade liquid fuels.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201celigible entity\u201d means any person whose application for certification is principally intended for use in a domestic project which employs domestic gasification applications related to\u2014\u2014chemicals,\u2014fertilizers,\u2014glass,\u2014steel,\u2014petroleum residues,\u2014forest products,\u2014agriculture, including feedlots and dairy operations, and\u2014transportation grade liquid fuels."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48B(c)(7)Eligible Entity\u2014The  term \u201celigible entity\u201d means any person whose \n                     application for  certification is principally intended for use in a domestic  project\n                     which  employs domestic gasification applications related to\u2014I.R.C. \u00a7 48B(c)(7)(A)\u2014chemicals,I.R.C. \u00a7 48B(c)(7)(B)\u2014fertilizers,I.R.C. \u00a7 48B(c)(7)(C)\u2014glass,I.R.C. \u00a7 48B(c)(7)(D)\u2014steel,I.R.C. \u00a7 48B(c)(7)(E)\u2014petroleum  residues,I.R.C. \u00a7 48B(c)(7)(F)\u2014forest products,I.R.C. \u00a7 48B(c)(7)(G)\u2014agriculture, including feedlots and\n                        dairy operations, andI.R.C. \u00a7 48B(c)(7)(H)\u2014transportation grade liquid fuels.",
+    "definitions": {
+      "term": "eligible entity",
+      "requirements": [
+        "any person whose application for certification is principally intended for use in a domestic project which employs domestic gasification applications related to\u2014\u2014chemicals,\u2014fertilizers,\u2014glass,\u2014steel,\u2014petroleum residues,\u2014forest products,\u2014agriculture, including feedlots and dairy operations, and\u2014transportation grade liquid fuels."
+      ]
+    }
+  },
+  {
+    "section": "48B",
+    "subsection": "(c)(8)",
+    "source_subsections": [
+      "(c)(8)"
+    ],
+    "rule_type": "definition",
+    "title": "Residue",
+    "text": "The term \u201cpetroleum residue\u201d means the carbonized product of high-boiling hydrocarbon fractions obtained in petroleum processing.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cpetroleum residue\u201d means the carbonized product of high-boiling hydrocarbon fractions obtained in petroleum processing."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48B(c)(8)Petroleum Residue\u2014The  term \u201cpetroleum residue\u201d means the carbonized \n                     product of high-boiling  hydrocarbon fractions obtained in petroleum processing.",
+    "definitions": {
+      "term": "petroleum residue",
+      "requirements": [
+        "the carbonized product of high-boiling hydrocarbon fractions obtained in petroleum processing."
+      ]
+    }
+  },
+  {
+    "section": "48B",
+    "subsection": "(d)(1)(A)",
+    "source_subsections": [
+      "(d)(1)(A)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$350,000,000, plus",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 350000000,
+        "text": "$350,000,000,"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$350,000,000, plus"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48B(d)(1)(A)\u2014$350,000,000, plus",
+    "definitions": null
+  },
+  {
+    "section": "48B",
+    "subsection": "(d)(1)(B)",
+    "source_subsections": [
+      "(d)(1)(B)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "$250,000,000 for qualifying gasification projects that include equipment which separates and sequesters at least 75 percent of such project's total carbon dioxide emissions.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 250000000,
+        "text": "$250,000,000"
+      }
+    ],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.75,
+        "text": "75 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$250,000,000 for qualifying gasification projects that include equipment which separates and sequesters at least 75 percent of such project's total carbon dioxide emissions."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48B(d)(1)(B)\u2014$250,000,000 for qualifying gasification projects that include equipment which separates\n                        and sequesters at least 75 percent of such project's total carbon dioxide emissions.",
+    "definitions": null
+  },
+  {
+    "section": "48B",
+    "subsection": "(d)(2)",
+    "source_subsections": [
+      "(d)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Issuance",
+    "text": "A certificate of eligibility under paragraph(1)may be issued only during the 10-fiscal year period beginning on October 1, 2005.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "A certificate of eligibility under paragraph(1)may be issued only during the 10-fiscal year period beginning on October 1, 2005."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48B(d)(2)Period Of Issuance\u2014A  certificate of eligibility under paragraph(1)may  be issued only during\n                     the 10-fiscal year period beginning on October 1, 2005.",
+    "definitions": null
+  },
+  {
+    "section": "48B",
+    "subsection": "(d)(3)",
+    "source_subsections": [
+      "(d)(3)",
+      "(d)(3)(A)",
+      "(d)(3)(B)",
+      "(d)(3)(C)",
+      "(d)(3)(D)",
+      "(d)(3)(E)",
+      "(d)(3)(F)"
+    ],
+    "rule_type": "condition",
+    "title": "Criteria",
+    "text": "The Secretary shall not make a competitive certification award for qualified investment for credit eligibility under this section unless the recipient has documented to the satisfaction of the Secretary that\u2014\u2014the award recipient is financially viable without the receipt of additional Federal funding associated with the proposed project,\u2014the recipient will provide sufficient information to the Secretary for the Secretary to ensure that the qualified investment is spent efficiently and effectively,\u2014a market exists for the products of the proposed project as evidenced by contracts or written statements of intent from potential customers,\u2014the fuels identified with respect to the gasification technology for such project will comprise at least 90 percent of the fuels required by the project for the production of chemical feedstocks, liquid transportation fuels, or coproduction of electricity,\u2014the award recipient's project team is competent in the construction and operation of the gasification technology proposed, with preference given to those recipients with experience which demonstrates successful and reliable operations of the technology on domestic fuels so identified, and\u2014the award recipient has met other criteria established and published by the Secretary.",
+    "conditions": [
+      "the recipient has documented to the satisfaction of the Secretary that\u2014\u2014the award recipient is financially viable without the receipt of additional Federal funding associated with the proposed project,\u2014the recipient will provide sufficient information to the Secretary for the Secretary to ensure that the qualified investment is spent efficiently and effectively,\u2014a market exists for the products of the proposed project as evidenced by contracts or written statements of intent from potential customers,\u2014the fuels identified with respect to the gasification technology for such project will comprise at least 90 percent of the fuels required by the project for the production of chemical feedstocks, liquid transportation fuels, or coproduction of electricity,\u2014the award recipient's project team is competent in the construction and operation of the gasification technology proposed, with preference given to those recipients with experience which demonstrates successful and reliable operations of the technology on domestic fuels so identified, and\u2014the award recipient has met other criteria established and published by the Secretary."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.9,
+        "text": "90 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "the recipient has documented to the satisfaction of the Secretary that\u2014\u2014the award recipient is financially viable without the receipt of additional Federal funding associated with the proposed project,\u2014the recipient will provide sufficient information to the Secretary for the Secretary to ensure that the qualified investment is spent efficiently and effectively,\u2014a market exists for the products of the proposed project as evidenced by contracts or written statements of intent from potential customers,\u2014the fuels identified with respect to the gasification technology for such project will comprise at least 90 percent of the fuels required by the project for the production of chemical feedstocks, liquid transportation fuels, or coproduction of electricity,\u2014the award recipient's project team is competent in the construction and operation of the gasification technology proposed, with preference given to those recipients with experience which demonstrates successful and reliable operations of the technology on domestic fuels so identified, and\u2014the award recipient has met other criteria established and published by the Secretary."
+      ],
+      "except": [],
+      "result": "The Secretary shall not make a competitive certification award for qualified investment for credit eligibility under this section"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48B(d)(3)Selection Criteria\u2014The  Secretary shall not make a competitive  certification award for qualified  investment\n                     for credit eligibility under this\n                     section unless the recipient  has documented to the satisfaction of the Secretary\n                     that\u2014I.R.C. \u00a7 48B(d)(3)(A)\u2014the  award recipient is financially viable without the receipt of additional   Federal\n                        funding associated with the proposed project,I.R.C. \u00a7 48B(d)(3)(B)\u2014the  recipient will provide sufficient information to the Secretary for the   Secretary\n                        to ensure that the qualified investment is spent efficiently and   effectively,I.R.C. \u00a7 48B(d)(3)(C)\u2014a  market exists for the products of the proposed project as evidenced by   contracts\n                        or written statements of intent from potential customers,I.R.C. \u00a7 48B(d)(3)(D)\u2014the  fuels identified with respect to the gasification technology for such   project\n                        will comprise at least 90 percent of the fuels required by the  project  for the production\n                        of chemical feedstocks, liquid transportation  fuels, or  coproduction of electricity,I.R.C. \u00a7 48B(d)(3)(E)\u2014the  award recipient's project team is competent in the construction and   operation\n                        of the gasification technology proposed, with preference given  to  those recipients\n                        with experience which demonstrates successful and  reliable  operations of the technology\n                        on domestic fuels so identified,  andI.R.C. \u00a7 48B(d)(3)(F)\u2014the  award  recipient has met other criteria established and published by the  Secretary.",
+    "definitions": null
+  },
+  {
+    "section": "48B",
+    "subsection": "(d)(4)",
+    "source_subsections": [
+      "(d)(4)",
+      "(d)(4)(A)",
+      "(d)(4)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Priorities",
+    "text": "In determining which qualifying gasification projects to certify under this section, the Secretary shall\u2014\u2014give highest priority to projects with the greatest separation and sequestration percentage of total carbon dioxide emissions, and\u2014give high priority to applicant participants who have a research partnership with an eligible educational institution (as defined in section529(e)(5)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In determining which qualifying gasification projects to certify under this section, the Secretary shall\u2014\u2014give highest priority to projects with the greatest separation and sequestration percentage of total carbon dioxide emissions, and\u2014give high priority to applicant participants who have a research partnership with an eligible educational institution (as defined in section529(e)(5))."
+    },
+    "cross_references": [
+      {
+        "section": "529(e)(5)",
+        "reason": "al institution (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48B(d)(4)Selection Priorities\u2014In determining which qualifying gasification projects to certify under this section,\n                     the Secretary shall\u2014I.R.C. \u00a7 48B(d)(4)(A)\u2014give highest priority to projects with the greatest separation and sequestration percentage\n                        of total carbon dioxide emissions, andI.R.C. \u00a7 48B(d)(4)(B)\u2014give high priority to applicant participants who have a research partnership with\n                        an eligible educational institution\n                        (as defined in section529(e)(5)).",
+    "definitions": null
+  },
+  {
+    "section": "48B",
+    "subsection": "(e)",
+    "source_subsections": [
+      "(e)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Double Benefit",
+    "text": "A credit shall not be allowed under this section for any qualified investment for which a credit is allowed under section48A.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "A credit shall not be allowed under this section for any qualified investment for which a credit is allowed under section48A."
+    },
+    "cross_references": [
+      {
+        "section": "48A",
+        "reason": "ich a credit is allowed under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48B(e)Denial Of Double Benefit\u2014A  credit shall not be allowed under this  section for any qualified  investment for\n                  which a credit is allowed under section48A.",
+    "definitions": null
+  },
+  {
+    "section": "48B",
+    "subsection": "(f)",
+    "source_subsections": [
+      "(f)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Credit For Failure To Sequester",
+    "text": "The Secretary shall provide for recapturing the benefit of any credit allowable under subsection(a)with respect to any project which fails to attain or maintain the separation and sequestration requirements for such project under subsection(d)(1).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall provide for recapturing the benefit of any credit allowable under subsection(a)with respect to any project which fails to attain or maintain the separation and sequestration requirements for such project under subsection(d)(1)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 48B(f)Recapture Of Credit For Failure To Sequester\u2014The Secretary shall provide for recapturing the benefit of any credit allowable under\n                  subsection(a)with respect to any project which fails to attain or maintain the separation and\n                  sequestration requirements for such project under subsection(d)(1).",
+    "definitions": null
+  }
+]

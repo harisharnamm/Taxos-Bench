@@ -1,0 +1,22 @@
+{
+  "id": "9dede02ddd72",
+  "section": "45Q",
+  "citation": "I.R.C. \u00a7 45Q(b)(1)(A)(i)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 45Q(b)(1)(A)(i) is discussed as follows: 'I.R.C. \u00a7 45Q(b)(1)(A)(i)\u2014for any taxable year beginning in a calendar year after 2024 and before 202...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 45Q(b)(1)(A)(i)?",
+  "difficulty": 1,
+  "choices": [
+    "$34.00",
+    "$15.30",
+    "$18.70",
+    "$17.00",
+    "$8.50"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies $17.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 45Q(b)(1)(A)(i)"
+  ]
+}

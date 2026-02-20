@@ -1,0 +1,22 @@
+{
+  "id": "1046b243a431",
+  "section": "951A",
+  "citation": "I.R.C. \u00a7 951A(b)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 951A(b) is discussed as follows: 'I.R.C. \u00a7 951A(b)Global Intangible Low-Taxed Income\u2014For purposes of this section\u2014I.R.C. \u00a7 951A(b)(1)I...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 951A(b)?",
+  "difficulty": 1,
+  "choices": [
+    "90.0%",
+    "20.0%",
+    "0.0%",
+    "10.0%",
+    "15.0%"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies 10.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 951A(b)"
+  ]
+}

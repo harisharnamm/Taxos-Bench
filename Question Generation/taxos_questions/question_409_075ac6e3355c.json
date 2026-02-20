@@ -1,0 +1,22 @@
+{
+  "id": "075ac6e3355c",
+  "section": "409",
+  "citation": "I.R.C. \u00a7 409(i)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 409(i) is discussed as follows: 'I.R.C. \u00a7 409(i)Reimbursement For Expenses Of Establishing And Administering Plan\u2014A  plan which other...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 409(i)?",
+  "difficulty": 1,
+  "choices": [
+    "90.0%",
+    "15.0%",
+    "20.0%",
+    "0.0%",
+    "10.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 10.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 409(i)"
+  ]
+}

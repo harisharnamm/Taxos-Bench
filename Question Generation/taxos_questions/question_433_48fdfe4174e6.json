@@ -1,0 +1,22 @@
+{
+  "id": "48fdfe4174e6",
+  "section": "433",
+  "citation": "I.R.C. \u00a7 433(c)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 433(c) is discussed as follows: 'I.R.C. \u00a7 433(c)Special RulesI.R.C. \u00a7 433(c)(1)Determinations To Be Made Under Funding Method\u2014For pur...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 433(c)?",
+  "difficulty": 1,
+  "choices": [
+    "90.0%",
+    "150.0%",
+    "100.0%",
+    "0.0%",
+    "110.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 100.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 433(c)"
+  ]
+}

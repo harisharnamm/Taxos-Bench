@@ -1,0 +1,22 @@
+{
+  "id": "1ca6587114da",
+  "section": "1400N",
+  "citation": "I.R.C. \u00a7 1400N(h)(1)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1400N(h)(1) is discussed as follows: 'I.R.C. \u00a7 1400N(h)(1)\u2014by  substituting \u201c13 percent\u201d for \u201c10\n                     percent\u201d in paragrap...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1400N(h)(1)?",
+  "difficulty": 1,
+  "choices": [
+    "20.0%",
+    "15.0%",
+    "0.0%",
+    "90.0%",
+    "10.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 10.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1400N(h)(1)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "385f9bcc9f7f",
+  "section": "1441",
+  "citation": "I.R.C. \u00a7 1441(a)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1441(a) is discussed as follows: 'I.R.C. \u00a7 1441(a)General Rule\u2014Except  as otherwise provided in subsection (c), all persons, in whatev...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1441(a)?",
+  "difficulty": 1,
+  "choices": [
+    "45.0%",
+    "30.0%",
+    "40.0%",
+    "20.0%",
+    "70.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 30.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1441(a)"
+  ]
+}

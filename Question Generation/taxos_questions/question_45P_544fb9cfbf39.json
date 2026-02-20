@@ -1,0 +1,22 @@
+{
+  "id": "544fb9cfbf39",
+  "section": "45P",
+  "citation": "I.R.C. \u00a7 45P(b)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 45P(b) is discussed as follows: 'I.R.C. \u00a7 45P(b)Definitions\u2014For purposes of this section\u2014I.R.C. \u00a7 45P(b)(1)Eligible Differential Wage...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 45P(b)?",
+  "difficulty": 1,
+  "choices": [
+    "$20,000.00",
+    "$22,000.00",
+    "$10,000.00",
+    "$18,000.00",
+    "$40,000.00"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies $20,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 45P(b)"
+  ]
+}

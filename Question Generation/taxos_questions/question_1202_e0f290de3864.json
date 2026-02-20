@@ -1,0 +1,22 @@
+{
+  "id": "e0f290de3864",
+  "section": "1202",
+  "citation": "I.R.C. \u00a7 1202(a)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1202(a) is discussed as follows: 'I.R.C. \u00a7 1202(a)Exclusion\u2014Editor's Note:Sec. 1202(a)(1), below, before amendment byPub. L. 119-21, S...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1202(a)?",
+  "difficulty": 1,
+  "choices": [
+    "110.0%",
+    "100.0%",
+    "90.0%",
+    "150.0%",
+    "0.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 100.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1202(a)"
+  ]
+}

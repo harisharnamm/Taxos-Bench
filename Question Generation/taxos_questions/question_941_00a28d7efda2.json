@@ -1,0 +1,22 @@
+{
+  "id": "00a28d7efda2",
+  "section": "941",
+  "citation": "I.R.C. \u00a7 941(a)(1)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 941(a)(1) is discussed as follows: 'I.R.C. \u00a7 941(a)(1)In General\u2014Editor's Note:Pub. L. 108-357, Sec. 101(b)(1), repealed Sec. 941, gener...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 941(a)(1)?",
+  "difficulty": 1,
+  "choices": [
+    "22.5%",
+    "85.0%",
+    "15.0%",
+    "25.0%",
+    "5.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 15.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 941(a)(1)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "041cfe78ab13",
+  "section": "11",
+  "citation": "I.R.C. \u00a7 11(b)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 11(b) is discussed as follows: 'I.R.C. \u00a7 11(b)Amount Of Tax\u2014The amount of the tax imposed by\n                  subsection (a) shall ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 11(b)?",
+  "difficulty": 1,
+  "choices": [
+    "21.0%",
+    "31.0%",
+    "79.0%",
+    "31.5%",
+    "11.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 21.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 11(b)"
+  ]
+}

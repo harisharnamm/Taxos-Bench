@@ -1,0 +1,22 @@
+{
+  "id": "c3a779a4edb8",
+  "section": "9510",
+  "citation": "I.R.C. \u00a7 9510(c)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 9510(c) is discussed as follows: 'I.R.C. \u00a7 9510(c)Expenditures From Trust FundI.R.C. \u00a7 9510(c)(1)In General\u2014Amounts  in the Vaccine In...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 9510(c)?",
+  "difficulty": 1,
+  "choices": [
+    "$19,000,000.00",
+    "$4,750,000.00",
+    "$9,500,000.00",
+    "$10,450,000.00",
+    "$8,550,000.00"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies $9,500,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 9510(c)"
+  ]
+}

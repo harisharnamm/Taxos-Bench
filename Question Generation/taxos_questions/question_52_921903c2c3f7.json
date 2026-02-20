@@ -1,0 +1,21 @@
+{
+  "id": "921903c2c3f7",
+  "section": "52",
+  "citation": "I.R.C. \u00a7 52(a)(1)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 52(a)(1) is discussed as follows: 'I.R.C. \u00a7 52(a)(1)\u2014\u201cmore  than 50 percent\u201d shall be substituted\n                     for \u201cat least 80...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 52(a)(1)?",
+  "difficulty": 1,
+  "choices": [
+    "60.0%",
+    "50.0%",
+    "40.0%",
+    "75.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 52(a)(1)"
+  ]
+}

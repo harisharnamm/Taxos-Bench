@@ -1,0 +1,22 @@
+{
+  "id": "c2ca16c0dabd",
+  "section": "42",
+  "citation": "I.R.C. \u00a7 42(h)(5)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 42(h)(5) is discussed as follows: 'I.R.C. \u00a7 42(h)(5)Portion Of State Ceiling Set-Aside For Certain Projects Involving\n                 ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 42(h)(5)?",
+  "difficulty": 1,
+  "choices": [
+    "135.0%",
+    "10.0%",
+    "90.0%",
+    "80.0%",
+    "100.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 90.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 42(h)(5)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "29b5a79fcc65",
+  "section": "505",
+  "citation": "I.R.C. \u00a7 505(b)(7)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 505(b)(7) is discussed as follows: 'I.R.C. \u00a7 505(b)(7)Compensation Limit\u2014A  plan shall not be treated as meeting the requirements of thi...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 505(b)(7)?",
+  "difficulty": 1,
+  "choices": [
+    "$100,000.00",
+    "$200,000.00",
+    "$220,000.00",
+    "$180,000.00",
+    "$400,000.00"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $200,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 505(b)(7)"
+  ]
+}

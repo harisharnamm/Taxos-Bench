@@ -1,0 +1,22 @@
+{
+  "id": "36a6f7eb95f3",
+  "section": "1092",
+  "citation": "I.R.C. \u00a7 1092(c)(4)(D)(iii)(I)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 1092(c)(4)(D)(iii)(I) is discussed as follows: 'I.R.C. \u00a7 1092(c)(4)(D)(iii)(I)\u2014the  applicable stock price is $25 or less, and...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 1092(c)(4)(D)(iii)(I)?",
+  "difficulty": 1,
+  "choices": [
+    "$25.00",
+    "$27.50",
+    "$22.50",
+    "$12.50",
+    "$50.00"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies $25.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1092(c)(4)(D)(iii)(I)"
+  ]
+}

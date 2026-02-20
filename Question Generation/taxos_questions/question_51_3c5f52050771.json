@@ -1,0 +1,22 @@
+{
+  "id": "3c5f52050771",
+  "section": "51",
+  "citation": "I.R.C. \u00a7 51(e)(3)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 51(e)(3) is discussed as follows: 'I.R.C. \u00a7 51(e)(3)Special Rules For Agricultural And Railway Labor\u2014If such recipient is an employee t...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 51(e)(3)?",
+  "difficulty": 1,
+  "choices": [
+    "$749.70",
+    "$833.00",
+    "$916.30",
+    "$1,666.00",
+    "$416.50"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $833.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 51(e)(3)"
+  ]
+}

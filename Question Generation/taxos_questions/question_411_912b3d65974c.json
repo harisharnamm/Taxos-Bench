@@ -1,0 +1,21 @@
+{
+  "id": "912b3d65974c",
+  "section": "411",
+  "citation": "I.R.C. \u00a7 411(a)(3)(D)(v)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 411(a)(3)(D)(v) is discussed as follows: 'I.R.C. \u00a7 411(a)(3)(D)(v)\u2014For nonforfeitability where the employee has a nonforfeitable right to at l...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 411(a)(3)(D)(v)?",
+  "difficulty": 1,
+  "choices": [
+    "50.0%",
+    "40.0%",
+    "75.0%",
+    "60.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 411(a)(3)(D)(v)"
+  ]
+}

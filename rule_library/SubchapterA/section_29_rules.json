@@ -1,0 +1,1074 @@
+[
+  {
+    "section": "29",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$3, multiplied by",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 3,
+        "text": "$3,"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$3, multiplied by"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 29(a)(1)\u2014$3,  multiplied by",
+    "definitions": null
+  },
+  {
+    "section": "29",
+    "subsection": "(a)(2)",
+    "source_subsections": [
+      "(a)(2)",
+      "(a)(2)(A)",
+      "(a)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "the barrel-of-oil equivalent of qualified fuels\u2014\u2014sold by the taxpayer to an unrelated person during the taxable year, and\u2014the production of which is attributable to the taxpayer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "the barrel-of-oil equivalent of qualified fuels\u2014\u2014sold by the taxpayer to an unrelated person during the taxable year, and\u2014the production of which is attributable to the taxpayer."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 29(a)(2)\u2014the  barrel-of-oil equivalent of qualified fuels\u2014I.R.C. \u00a7 29(a)(2)(A)\u2014sold  by the taxpayer to an unrelated person during the taxable year, andI.R.C. \u00a7 29(a)(2)(B)\u2014the  production of which is attributable to the taxpayer.",
+    "definitions": null
+  },
+  {
+    "section": "29",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)",
+      "(b)(1)(A)",
+      "(b)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Credit",
+    "text": "The amount of the credit allowable under subsection(a)shall be reduced by an amount which bears the same ratio to the amount of the credit (determined without regard to this paragraph) as\u2014\u2014the amount by which the reference price for the calendar year in which the sale occurs exceeds $23.50, bears to\u2014$6.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 23,
+        "text": "$23"
+      },
+      {
+        "label": "amount",
+        "value": 6,
+        "text": "$6"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of the credit allowable under subsection(a)shall be reduced by an amount which bears the same ratio to the amount of the credit (determined without regard to this paragraph) as\u2014\u2014the amount by which the reference price for the calendar year in which the sale occurs exceeds $23.50, bears to\u2014$6."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 29(b)(1)Phaseout Of Credit\u2014The  amount of the credit allowable under subsection(a)shall be reduced by an  amount which bears the same ratio to the amount of the credit\n                     (determined  without regard to this paragraph) as\u2014I.R.C. \u00a7 29(b)(1)(A)\u2014the  amount by which the reference price for the calendar year in which the  sale\n                        occurs exceeds $23.50, bears toI.R.C. \u00a7 29(b)(1)(B)\u2014$6.",
+    "definitions": null
+  },
+  {
+    "section": "29",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "And Phaseout Adjustment Based On Inflation",
+    "text": "The $3 amount in subsection(a)and the $23.50 and $6 amounts in paragraph(1)shall each be adjusted by multiplying such amount by the inflation adjustment factor for the calendar year in which the sale occurs. In the case of gas from a tight formation, the $3 amount in subsection(a)shall not be adjusted.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 3,
+        "text": "$3"
+      },
+      {
+        "label": "amount",
+        "value": 23,
+        "text": "$23"
+      },
+      {
+        "label": "amount",
+        "value": 6,
+        "text": "$6"
+      },
+      {
+        "label": "amount",
+        "value": 3,
+        "text": "$3"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The $3 amount in subsection(a)and the $23.50 and $6 amounts in paragraph(1)shall each be adjusted by multiplying such amount by the inflation adjustment factor for the calendar year in which the sale occurs. In the case of gas from a tight formation, the $3 amount in subsection(a)shall not be adjusted."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 29(b)(2)Credit And Phaseout Adjustment Based On Inflation\u2014The  $3 amount in subsection(a)and the $23.50 and $6 amounts in paragraph(1)shall each be adjusted by multiplying such amount by the inflation\n                     adjustment factor for the calendar year in which the sale occurs. In the  case of\n                     gas from a tight formation, the $3 amount in subsection(a)shall  not be adjusted.",
+    "definitions": null
+  },
+  {
+    "section": "29",
+    "subsection": "(b)(3)(A)",
+    "source_subsections": [
+      "(b)(3)(A)",
+      "(b)(3)(A)(i)",
+      "(b)(3)(A)(i)(I)",
+      "(b)(3)(A)(i)(II)",
+      "(b)(3)(A)(i)(III)",
+      "(b)(3)(A)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The amount of the credit allowable under subsection(a)with respect to any project for any taxable year (determined after the application of paragraphs (1) and (2)) shall be reduced by the amount which is the product of the amount so determined for such year and a fraction\u2014\u2014the numerator of which is the sum, for the taxable year and all prior taxable years, of\u2014\u2014grants provided by the United States, a State, or a political subdivision of a State for use in connection with the project,\u2014proceeds of any issue of State or local government obligations used to provide financing for the project the interest on which is exempt from tax under section103, and\u2014the aggregate amount of subsidized energy financing (within the meaning of section48(a)(4)(C)) provided in connection with the project, and\u2014the denominator of which is the aggregate amount of additions to the capital account for the project for the taxable year and all prior taxable years.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of the credit allowable under subsection(a)with respect to any project for any taxable year (determined after the application of paragraphs (1) and (2)) shall be reduced by the amount which is the product of the amount so determined for such year and a fraction\u2014\u2014the numerator of which is the sum, for the taxable year and all prior taxable years, of\u2014\u2014grants provided by the United States, a State, or a political subdivision of a State for use in connection with the project,\u2014proceeds of any issue of State or local government obligations used to provide financing for the project the interest on which is exempt from tax under section103, and\u2014the aggregate amount of subsidized energy financing (within the meaning of section48(a)(4)(C)) provided in connection with the project, and\u2014the denominator of which is the aggregate amount of additions to the capital account for the project for the taxable year and all prior taxable years."
+    },
+    "cross_references": [
+      {
+        "section": "103",
+        "reason": "hich is exempt from tax under..."
+      },
+      {
+        "section": "48(a)(4)(C)",
+        "reason": "ancing (within the meaning of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 29(b)(3)(A)In General\u2014The  amount of the credit allowable under subsection(a)with respect to any  project for any taxable year (determined after the application\n                        of  paragraphs\n                        (1) and (2)) shall be reduced by the amount which is the  product of the amount so\n                        determined for such year and a fraction\u2014I.R.C. \u00a7 29(b)(3)(A)(i)\u2014the  numerator of which is the sum, for the taxable year and all prior taxable  years,\n                           of\u2014I.R.C. \u00a7 29(b)(3)(A)(i)(I)\u2014grants  provided by the United States, a State, or a political subdivision of a  State\n                              for use in connection with the project,I.R.C. \u00a7 29(b)(3)(A)(i)(II)\u2014proceeds  of any issue of State or local government obligations used to provide  financing\n                              for the project the interest on which is exempt from tax under  section103, andI.R.C. \u00a7 29(b)(3)(A)(i)(III)\u2014the  aggregate amount of subsidized energy financing (within the meaning of  section48(a)(4)(C)) provided in connection with the project, andI.R.C. \u00a7 29(b)(3)(A)(ii)\u2014the  denominator of which is the aggregate amount of additions to the capital  account\n                           for the project for the taxable year and all prior taxable years.",
+    "definitions": null
+  },
+  {
+    "section": "29",
+    "subsection": "(b)(3)(B)",
+    "source_subsections": [
+      "(b)(3)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Determined At Close Of Year",
+    "text": "The amounts under subparagraph (A) for any taxable year shall be determined as of the close of the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amounts under subparagraph (A) for any taxable year shall be determined as of the close of the taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 29(b)(3)(B)Amounts Determined At Close Of Year\u2014The  amounts under subparagraph (A) for any taxable year shall be determined as  of\n                        the close of the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "29",
+    "subsection": "(b)(4)",
+    "source_subsections": [
+      "(b)(4)",
+      "(b)(4)(A)",
+      "(b)(4)(B)",
+      "(b)(4)(B)(i)",
+      "(b)(4)(B)(ii)"
+    ],
+    "rule_type": "computation",
+    "title": "Reduced For Energy Credit",
+    "text": "The amount allowable as a credit under subsection(a)with respect to any project for any taxable year (determined after the application of paragraphs (1), (2), and (3)) shall be reduced by the excess of\u2014\u2014the aggregate amount allowed under section38for the taxable year or any prior taxable year by reason of the energy percentage with respect to property used in the project, over\u2014the aggregate amount recaptured with respect to the amount described in subparagraph (A)\u2014\u2014under section49(b)or50(a)for the taxable year or any prior taxable year, or\u2014under this paragraph for any prior taxable year.The amount recaptured under section49(b)or50(a)with respect to any property shall be appropriately reduced to take into account any reduction in the credit allowed by this section by reason of the preceding sentence.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "subtraction",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount allowable as a credit under subsection(a)with respect to any project for any taxable year (determined after the application of paragraphs (1), (2), and (3)) shall be reduced by the excess of\u2014\u2014the aggregate amount allowed under section38for the taxable year or any prior taxable year by reason of the energy percentage with respect to property used in the project, over\u2014the aggregate amount recaptured with respect to the amount described in subparagraph (A)\u2014\u2014under section49(b)or50(a)for the taxable year or any prior taxable year, or\u2014under this paragraph for any prior taxable year.The amount recaptured under section49(b)or50(a)with respect to any property shall be appropriately reduced to take into account any reduction in the credit allowed by this section by reason of the preceding sentence."
+    },
+    "cross_references": [
+      {
+        "section": "38f",
+        "reason": "ggregate amount allowed under..."
+      },
+      {
+        "section": "49(b)",
+        "reason": "ed in subparagraph (A)\u2014\u2014under..."
+      },
+      {
+        "section": "49(b)",
+        "reason": "r.The amount recaptured under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 29(b)(4)Credit Reduced For Energy Credit\u2014The  amount allowable as a credit under subsection(a)with respect to any  project for any taxable year (determined after the application\n                     of  paragraphs\n                     (1), (2), and (3)) shall be reduced by the excess of\u2014I.R.C. \u00a7 29(b)(4)(A)\u2014the  aggregate amount allowed under section38for the taxable year or any  prior taxable year by reason of the energy percentage\n                        with respect to  property used in the project, overI.R.C. \u00a7 29(b)(4)(B)\u2014the  aggregate amount recaptured with respect to the amount described in  subparagraph\n                        (A)\u2014I.R.C. \u00a7 29(b)(4)(B)(i)\u2014under  section49(b)or50(a)for the taxable year or any prior taxable year, orI.R.C. \u00a7 29(b)(4)(B)(ii)\u2014under  this paragraph for any prior taxable year.The amount recaptured under section49(b)or50(a)with  respect to any property shall be appropriately reduced to take into  account\n                              any reduction in the credit allowed by this section by reason of  the preceding sentence.",
+    "definitions": null
+  },
+  {
+    "section": "29",
+    "subsection": "(b)(5)",
+    "source_subsections": [
+      "(b)(5)",
+      "(b)(5)(A)",
+      "(b)(5)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Reduced For Enhanced Oil Recovery Credit",
+    "text": "The amount allowable as a credit under subsection(a)with respect to any project for any taxable year (determined after application of paragraphs (1), (2), (3), and (4)) shall be reduced by the excess (if any) of\u2014\u2014the aggregate amount allowed under section38for the taxable year and any prior taxable year by reason of any enhanced oil recovery credit determined under section43with respect to such project, over\u2014the aggregate amount recaptured with respect to the amount described in subparagraph (A) under this paragraph for any prior taxable year.",
+    "conditions": [
+      "any) of\u2014\u2014the aggregate amount allowed under section38for the taxable year and any prior taxable year by reason of any enhanced oil recovery credit determined under section43with respect to such project, over\u2014the aggregate amount recaptured with respect to the amount described in subparagraph (A) under this paragraph for any prior taxable year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any) of\u2014\u2014the aggregate amount allowed under section38for the taxable year and any prior taxable year by reason of any enhanced oil recovery credit determined under section43with respect to such project, over\u2014the aggregate amount recaptured with respect to the amount described in subparagraph (A) under this paragraph for any prior taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount allowable as a credit under subsection(a)with respect to any project for any taxable year (determined after application of paragraphs (1), (2), (3), and (4)) shall be reduced by the excess ("
+    },
+    "cross_references": [
+      {
+        "section": "38f",
+        "reason": "ggregate amount allowed under..."
+      },
+      {
+        "section": "43w",
+        "reason": "overy credit determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 29(b)(5)Credit Reduced For Enhanced Oil Recovery Credit\u2014The  amount allowable as a credit under subsection(a)with respect to any  project for any taxable year (determined after application of\n                     paragraphs  (1),\n                     (2), (3), and (4)) shall be reduced by the excess (if any) of\u2014I.R.C. \u00a7 29(b)(5)(A)\u2014the  aggregate amount allowed under section38for the taxable year and any  prior taxable year by reason of any enhanced oil recovery\n                        credit  determined under section43with respect to such project, overI.R.C. \u00a7 29(b)(5)(B)\u2014the  aggregate amount recaptured with respect to the amount described in  subparagraph\n                        (A) under this paragraph for any prior taxable  year.",
+    "definitions": null
+  },
+  {
+    "section": "29",
+    "subsection": "(b)(6)",
+    "source_subsections": [
+      "(b)(6)",
+      "(b)(6)(A)",
+      "(b)(6)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "With Other Credits",
+    "text": "The credit allowed by subsection(a)for any taxable year shall not exceed the excess (if any) of\u2014\u2014the regular tax for the taxable year reduced by the sum of the credits allowable under subpart A and section27, over\u2014the tentative minimum tax for the taxable year.",
+    "conditions": [
+      "any) of\u2014\u2014the regular tax for the taxable year reduced by the sum of the credits allowable under subpart A and section27, over\u2014the tentative minimum tax for the taxable year."
+    ],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any) of\u2014\u2014the regular tax for the taxable year reduced by the sum of the credits allowable under subpart A and section27, over\u2014the tentative minimum tax for the taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The credit allowed by subsection(a)for any taxable year shall not exceed the excess ("
+    },
+    "cross_references": [
+      {
+        "section": "27",
+        "reason": "allowable under subpart A and..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 29(b)(6)Application With Other Credits\u2014The  credit allowed by subsection(a)for any taxable year shall not exceed the  excess (if any) of\u2014I.R.C. \u00a7 29(b)(6)(A)\u2014the  regular tax for the taxable year reduced by the sum of the credits  allowable\n                        under subpart A and \n                        section27, overI.R.C. \u00a7 29(b)(6)(B)\u2014the  tentative minimum tax for the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "29",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)",
+      "(c)(1)(A)",
+      "(c)(1)(B)",
+      "(c)(1)(B)(i)",
+      "(c)(1)(B)(ii)",
+      "(c)(1)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cqualified fuels\u201d means\u2014\u2014oil produced from shale and tar sands,\u2014gas produced from\u2014\u2014geopressured brine, Devonian shale, coal seams, or a tight formation, or\u2014biomass, and\u2014liquid, gaseous, or solid synthetic fuels produced from coal (including lignite), including such fuels when used as feedstocks.",
+    "conditions": [
+      "used as feedstocks."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "used as feedstocks."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified fuels\u201d means\u2014\u2014oil produced from shale and tar sands,\u2014gas produced from\u2014\u2014geopressured brine, Devonian shale, coal seams, or a tight formation, or\u2014biomass, and\u2014liquid, gaseous, or solid synthetic fuels produced from coal (including lignite), including such fuels"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 29(c)(1)In General\u2014The  term \u201cqualified fuels\u201d means\u2014I.R.C. \u00a7 29(c)(1)(A)\u2014oil  produced from shale and tar sands,I.R.C. \u00a7 29(c)(1)(B)\u2014gas  produced from\u2014I.R.C. \u00a7 29(c)(1)(B)(i)\u2014geopressured  brine, Devonian shale, coal seams, or a tight formation, orI.R.C. \u00a7 29(c)(1)(B)(ii)\u2014biomass,  andI.R.C. \u00a7 29(c)(1)(C)\u2014liquid,  gaseous, or solid synthetic fuels produced from coal (including lignite),\n                        including such fuels when used as feedstocks.",
+    "definitions": null
+  },
+  {
+    "section": "29",
+    "subsection": "(c)(2)(A)",
+    "source_subsections": [
+      "(c)(2)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Except as provided in subparagraph (B), the determination of whether any gas is produced from geopressured brine, Devonian shale, coal seams, or a tight formation shall be made in accordance with section 503 of the Natural Gas Policy Act of 1978 (as in effect before the repeal of such section).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [
+      {
+        "applies_when": "subparagraph (B)",
+        "effect": "See referenced section"
+      }
+    ],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as provided in subparagraph (B), the determination of whether any gas is produced from geopressured brine, Devonian shale, coal seams, or a tight formation shall be made in accordance with section 503 of the Natural Gas Policy Act of 1978 (as in effect before the repeal of such section)."
+      ],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "503",
+        "reason": "ll be made in accordance with..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 29(c)(2)(A)In General\u2014Except  as provided in subparagraph (B), the determination of whether any gas is \n                        produced from geopressured brine, Devonian shale, coal seams, or a tight  formation\n                        shall be made in accordance with section 503 of the Natural Gas  Policy Act of 1978\n                        (as in effect before the repeal of such section).",
+    "definitions": null
+  },
+  {
+    "section": "29",
+    "subsection": "(c)(2)(B)",
+    "source_subsections": [
+      "(c)(2)(B)",
+      "(c)(2)(B)(i)",
+      "(c)(2)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Rules For Gas From Tight Formations",
+    "text": "The term \u201cgas produced from a tight formation\u201d shall only include gas from a tight formation\u2014\u2014which, as of April 20, 1977, was committed or dedicated to interstate commerce (as defined in section 2(18) of the Natural Gas Policy Act of 1978, as in effect on the date of the enactment of this clause), or\u2014which is produced from a well drilled after such date of enactment.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cgas produced from a tight formation\u201d shall only include gas from a tight formation\u2014\u2014which, as of April 20, 1977, was committed or dedicated to interstate commerce (as defined in section 2(18) of the Natural Gas Policy Act of 1978, as in effect on the date of the enactment of this clause), or\u2014which is produced from a well drilled after such date of enactment."
+    },
+    "cross_references": [
+      {
+        "section": "2(18)",
+        "reason": "state commerce (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 29(c)(2)(B)Special Rules For Gas From Tight Formations\u2014The  term \u201cgas produced from a tight formation\u201d\n                        shall only include gas from a  tight formation\u2014I.R.C. \u00a7 29(c)(2)(B)(i)\u2014which,  as of April 20, 1977, was committed or dedicated to interstate commerce  (as\n                           defined in section 2(18)\n                           of the Natural Gas Policy Act of 1978, as in  effect on the date of the enactment\n                           of this clause), orI.R.C. \u00a7 29(c)(2)(B)(ii)\u2014which  is produced from a well drilled after such date of  enactment.",
+    "definitions": null
+  },
+  {
+    "section": "29",
+    "subsection": "(c)(3)",
+    "source_subsections": [
+      "(c)(3)",
+      "(c)(3)(A)",
+      "(c)(3)(B)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "The term \u201cbiomass\u201d means any organic material other than\u2014\u2014oil and natural gas (or any product thereof), and\u2014coal (including lignite) or any product thereof.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cbiomass\u201d means any organic material other than\u2014\u2014oil and natural gas (or any product thereof), and\u2014coal (including lignite) or any product thereof."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 29(c)(3)Biomass\u2014The  term \u201cbiomass\u201d means any organic material other than\u2014I.R.C. \u00a7 29(c)(3)(A)\u2014oil  and natural gas (or any product thereof), andI.R.C. \u00a7 29(c)(3)(B)\u2014coal  (including lignite) or any product\n                        thereof.",
+    "definitions": {
+      "term": "biomass",
+      "requirements": [
+        "any organic material other than\u2014\u2014oil and natural gas (or any product thereof), and\u2014coal (including lignite) or any product thereof."
+      ]
+    }
+  },
+  {
+    "section": "29",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)",
+      "(d)(1)(A)",
+      "(d)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Production Within The United States Taken Into Account",
+    "text": "Sales shall be taken into account under this section only with respect to qualified fuels the production of which is within\u2014\u2014the United States (within the meaning of section638(1)), or\u2014a possession of the United States (within the meaning of section638(2)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Sales shall be taken into account under this section only with respect to qualified fuels the production of which is within\u2014\u2014the United States (within the meaning of section638(1)), or\u2014a possession of the United States (within the meaning of section638(2))."
+    },
+    "cross_references": [
+      {
+        "section": "638(1)",
+        "reason": "States (within the meaning of..."
+      },
+      {
+        "section": "638(2)",
+        "reason": "States (within the meaning of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 29(d)(1)Only Production Within The United States Taken Into Account\u2014Sales  shall be taken into account under this section only with respect to  qualified\n                     fuels the production of which is within\u2014I.R.C. \u00a7 29(d)(1)(A)\u2014the  United States (within the meaning of section638(1)), orI.R.C. \u00a7 29(d)(1)(B)\u2014a  possession of the United States (within the meaning of section638(2)).",
+    "definitions": null
+  },
+  {
+    "section": "29",
+    "subsection": "(d)(2)(A)",
+    "source_subsections": [
+      "(d)(2)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The Secretary shall, not later than April 1 of each calendar year, determine and publish in the Federal Register the inflation adjustment factor and the reference price for the preceding calendar year in accordance with this paragraph.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall, not later than April 1 of each calendar year, determine and publish in the Federal Register the inflation adjustment factor and the reference price for the preceding calendar year in accordance with this paragraph."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 29(d)(2)(A)In General\u2014The  Secretary shall, not later than April 1 of each calendar year, determine  and\n                        publish in the Federal Register the inflation adjustment factor and  the reference\n                        price for the preceding calendar year in accordance with  this paragraph.",
+    "definitions": null
+  },
+  {
+    "section": "29",
+    "subsection": "(d)(2)(B)",
+    "source_subsections": [
+      "(d)(2)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Adjustment Factor",
+    "text": "The term \u201cinflation adjustment factor\u201d means, with respect to a calendar year, a fraction the numerator of which is the GNP implicit price deflator for the calendar year and the denominator of which is the GNP implicit price deflator for calendar year 1979. The term \u201cGNP implicit price deflator\u201d means the first revision of the implicit price deflator for the gross national product as computed and published by the Department of Commerce.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cinflation adjustment factor\u201d means, with respect to a calendar year, a fraction the numerator of which is the GNP implicit price deflator for the calendar year and the denominator of which is the GNP implicit price deflator for calendar year 1979. The term \u201cGNP implicit price deflator\u201d means the first revision of the implicit price deflator for the gross national product as computed and published by the Department of Commerce."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 29(d)(2)(B)Inflation Adjustment Factor\u2014The  term \u201cinflation adjustment factor\u201d\n                        means, with respect to a calendar year,  a fraction the numerator of which is the\n                        GNP implicit price deflator for  the calendar year and the denominator of which is\n                        the GNP implicit price  deflator for calendar year 1979. The term \u201cGNP implicit price\n                        deflator\u201d  means the first revision of the implicit price deflator for the gross \n                        national product as computed and published by the Department of Commerce.",
+    "definitions": {
+      "term": "inflation adjustment factor\u201d means, with respect to a calendar year, a fraction the numerator of which is the GNP implicit price deflator for the calendar year and the denominator of which is the GNP implicit price deflator for calendar year 1979. The term \u201cGNP implicit price deflator",
+      "requirements": [
+        "the first revision of the implicit price deflator for the gross national product as computed and published by the Department of Commerce."
+      ]
+    }
+  },
+  {
+    "section": "29",
+    "subsection": "(d)(2)(C)",
+    "source_subsections": [
+      "(d)(2)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "Price",
+    "text": "The term \u201creference price\u201d means with respect to a calendar year the Secretary's estimate of the annual average wellhead price per barrel for all domestic crude oil the price of which is not subject to regulation by the United States.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201creference price\u201d means with respect to a calendar year the Secretary's estimate of the annual average wellhead price per barrel for all domestic crude oil the price of which is not subject to regulation by the United States."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 29(d)(2)(C)Reference Price\u2014The  term \u201creference price\u201d means with respect to a calendar year the  Secretary's\n                        estimate of the annual average wellhead price per barrel for  all domestic crude oil\n                        the price of which is not subject to regulation by  the United States.",
+    "definitions": {
+      "term": "reference price",
+      "requirements": [
+        "with respect to a calendar year the Secretary's estimate of the annual average wellhead price per barrel for all domestic crude oil the price of which is not subject to regulation by the United States."
+      ]
+    }
+  },
+  {
+    "section": "29",
+    "subsection": "(d)(3)",
+    "source_subsections": [
+      "(d)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Attributable To The Taxpayer",
+    "text": "In the case of a property or facility in which more than 1 person has an interest, except to the extent provided in regulations prescribed by the Secretary, production from the property or facility (as the case may be) shall be allocated among such persons in proportion to their respective interests in the gross sales from such property or facility.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "to the extent provided in regulations prescribed by the Secretary, production from the property or facility (as the case may be) shall be allocated among such persons in proportion to their respective interests in the gross sales from such property or facility."
+      ],
+      "result": "In the case of a property or facility in which more than 1 person has an interest,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 29(d)(3)Production Attributable To The Taxpayer\u2014In  the case of a property or facility in which more than 1 person has an  interest,\n                     except to the extent provided in regulations prescribed by the  Secretary, production\n                     from the property or facility\n                     (as the case may be)  shall be allocated among such persons in proportion to their\n                     respective  interests in the gross sales from such property or facility.",
+    "definitions": null
+  },
+  {
+    "section": "29",
+    "subsection": "(d)(4)",
+    "source_subsections": [
+      "(d)(4)"
+    ],
+    "rule_type": "condition",
+    "title": "From Geopressured Brine, Devonian Shale, Coal Seams, Or A Tight Formation",
+    "text": "The amount of the credit allowable under subsection (a) shall be determined without regard to any production attributable to a property from which gas from Devonian shale, coal seams, geopressured brine, or a tight formation was produced in marketable quantities before January 1, 1980.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of the credit allowable under subsection (a) shall be determined without regard to any production attributable to a property from which gas from Devonian shale, coal seams, geopressured brine, or a tight formation was produced in marketable quantities before January 1, 1980."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 29(d)(4)Gas From Geopressured Brine, Devonian Shale, Coal Seams, Or A Tight Formation\u2014The  amount of the credit allowable under subsection\n                     (a) shall be determined  without regard to any production attributable to a property\n                     from which gas  from Devonian shale, coal seams, geopressured brine, or a tight formation\n                     was produced in marketable quantities before January 1, 1980.",
+    "definitions": null
+  },
+  {
+    "section": "29",
+    "subsection": "(d)(5)",
+    "source_subsections": [
+      "(d)(5)"
+    ],
+    "rule_type": "definition",
+    "title": "Equivalent",
+    "text": "The term \u201cbarrel-of-oil equivalent\u201d with respect to any fuel means that amount of such fuel which has a Btu content of 5.8 million; except that in the case of qualified fuels described in subparagraph (C) of subsection (c)(1), the Btu content shall be determined without regard to any material from a source not described in such subparagraph.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "that in the case of qualified fuels described in subparagraph (C) of subsection (c)(1), the Btu content shall be determined without regard to any material from a source not described in such subparagraph."
+      ],
+      "result": "The term \u201cbarrel-of-oil equivalent\u201d with respect to any fuel means that amount of such fuel which has a Btu content of 5.8 million;"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 29(d)(5)Barrel-Of-Oil Equivalent\u2014The  term \u201cbarrel-of-oil equivalent\u201d with respect to any fuel means that amount  of\n                     such fuel which has a Btu content of 5.8 million; except that in the  case of qualified\n                     fuels described in subparagraph (C) of subsection  (c)(1), the Btu content shall be\n                     determined without regard to any material  from a source not described in such subparagraph.",
+    "definitions": null
+  },
+  {
+    "section": "29",
+    "subsection": "(d)(6)",
+    "source_subsections": [
+      "(d)(6)"
+    ],
+    "rule_type": "definition",
+    "title": "Defined",
+    "text": "Defined\u2014The term \u201cbarrel\u201d means 42 United States gallons.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Defined\u2014The term \u201cbarrel\u201d means 42 United States gallons."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 29(d)(6)Barrel Defined\u2014The  term \u201cbarrel\u201d means 42 United States gallons.",
+    "definitions": {
+      "term": "barrel",
+      "requirements": [
+        "42 United States gallons."
+      ]
+    }
+  },
+  {
+    "section": "29",
+    "subsection": "(d)(7)",
+    "source_subsections": [
+      "(d)(7)"
+    ],
+    "rule_type": "condition",
+    "title": "Persons",
+    "text": "Persons shall be treated as related to each other if such persons would be treated as a single employer under the regulations prescribed under section52(b). In the case of a corporation which is a member of an affiliated group of corporations filing a consolidated return, such corporation shall be treated as selling qualified fuels to an unrelated person if such fuels are sold to such a person by another member of such group.",
+    "conditions": [
+      "such persons would be treated as a single employer under the regulations prescribed under section52(b). In the case of a corporation which is a member of an affiliated group of corporations filing a consolidated return, such corporation shall be treated as selling qualified fuels to an unrelated person",
+      "such fuels are sold to such a person by another member of such group."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such persons would be treated as a single employer under the regulations prescribed under section52(b). In the case of a corporation which is a member of an affiliated group of corporations filing a consolidated return, such corporation shall be treated as selling qualified fuels to an unrelated person",
+        "such fuels are sold to such a person by another member of such group."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Persons shall be treated as related to each other"
+    },
+    "cross_references": [
+      {
+        "section": "52(b)",
+        "reason": "regulations prescribed under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 29(d)(7)Related Persons\u2014Persons  shall be treated as related to each other if such persons would be treated\n                     as a single employer under the regulations prescribed under section52(b).\n                     In the case of a corporation which is a member of an affiliated group of  corporations\n                     filing a consolidated return, such corporation shall be  treated as selling qualified\n                     fuels to an unrelated person if such fuels  are sold to such a person by another member\n                     of such group.",
+    "definitions": null
+  },
+  {
+    "section": "29",
+    "subsection": "(d)(8)",
+    "source_subsections": [
+      "(d)(8)"
+    ],
+    "rule_type": "condition",
+    "title": "In The Case Of Estates And Trusts",
+    "text": "Under regulations prescribed by the Secretary, rules similar to the rules of subsection (d) of section52shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Under regulations prescribed by the Secretary, rules similar to the rules of subsection (d) of section52shall apply."
+    },
+    "cross_references": [
+      {
+        "section": "52s",
+        "reason": "he rules of subsection (d) of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 29(d)(8)Pass-Thru In The Case Of Estates And Trusts\u2014Under  regulations prescribed by the Secretary, rules similar to the rules of  subsection\n                     (d) of section52shall apply.",
+    "definitions": null
+  },
+  {
+    "section": "29",
+    "subsection": "(e)",
+    "source_subsections": [
+      "(e)",
+      "(e)(1)",
+      "(e)(1)(A)",
+      "(e)(1)(B)",
+      "(e)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Section",
+    "text": "This section shall apply with respect to qualified fuels\u2014\u2014which are\u2014\u2014produced from a well drilled after December 31, 1979, and before January 1, 1993, or\u2014produced in a facility placed in service after December 31, 1979, and before January 1, 1993, and\u2014which are sold before January 1, 2003.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "This section shall apply with respect to qualified fuels\u2014\u2014which are\u2014\u2014produced from a well drilled after December 31, 1979, and before January 1, 1993, or\u2014produced in a facility placed in service after December 31, 1979, and before January 1, 1993, and\u2014which are sold before January 1, 2003."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 29(e)Application Of Section\u2014This  section shall apply with respect to qualified fuels\u2014I.R.C. \u00a7 29(e)(1)\u2014which  are\u2014I.R.C. \u00a7 29(e)(1)(A)\u2014produced  from a well drilled after December 31, 1979, and before January 1, 1993,\n                        orI.R.C. \u00a7 29(e)(1)(B)\u2014produced  in a facility placed in service after December 31, 1979, and before  January\n                        1, 1993, andI.R.C. \u00a7 29(e)(2)\u2014which  are sold before January 1, 2003.",
+    "definitions": null
+  },
+  {
+    "section": "29",
+    "subsection": "(f)(1)",
+    "source_subsections": [
+      "(f)(1)",
+      "(f)(1)(A)",
+      "(f)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "In the case of a facility for producing qualified fuels described in subparagraph (B)(ii) or (C) of subsection (c)(1)\u2014\u2014for purposes of subsection (e)(1)(B), such facility shall be treated as being placed in service before January 1, 1993, if such facility is placed in service before July 1, 1998 pursuant to a binding written contract in effect before January 1, 1997, and\u2014if such facility is originally placed in service after December 31, 1992, paragraph (2) of subsection (e) shall be applied with respect to such facility by substituting \u201cJanuary 1, 2008\u201d for \u201cJanuary 1, 2003\u201d.",
+    "conditions": [
+      "such facility is placed in service before July 1, 1998 pursuant to a binding written contract in effect before January 1, 1997, and\u2014",
+      "such facility is originally placed in service after December 31, 1992, paragraph (2) of subsection (e) shall be applied with respect to such facility by substituting \u201cJanuary 1, 2008\u201d for \u201cJanuary 1, 2003\u201d."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such facility is placed in service before July 1, 1998 pursuant to a binding written contract in effect before January 1, 1997, and\u2014",
+        "such facility is originally placed in service after December 31, 1992, paragraph (2) of subsection (e) shall be applied with respect to such facility by substituting \u201cJanuary 1, 2008\u201d for \u201cJanuary 1, 2003\u201d."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a facility for producing qualified fuels described in subparagraph (B)(ii) or (C) of subsection (c)(1)\u2014\u2014for purposes of subsection (e)(1)(B), such facility shall be treated as being placed in service before January 1, 1993,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 29(f)(1)In General\u2014In  the case of a facility for producing qualified fuels described in  subparagraph\n                     (B)(ii) or (C) of subsection (c)(1)\u2014I.R.C. \u00a7 29(f)(1)(A)\u2014for purposes of  subsection (e)(1)(B), such facility  shall be treated as being placed\n                        in service before January 1, 1993, if  such facility is placed in service before \n                        July 1, 1998 pursuant to a  binding written contract in effect before \n                        January 1, 1997, andI.R.C. \u00a7 29(f)(1)(B)\u2014if such facility is originally placed in service after  December 31, 1992, paragraph\n                        (2) of  subsection\n                        (e)   shall be applied  with respect to such facility by substituting\n                        \u201cJanuary 1, 2008\u201d for  \u201cJanuary 1, 2003\u201d.",
+    "definitions": null
+  },
+  {
+    "section": "29",
+    "subsection": "(f)(2)",
+    "source_subsections": [
+      "(f)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Rule",
+    "text": "Paragraph (1) shall not apply to any facility which produces coke or coke gas unless the original use of the facility commences with the taxpayer.",
+    "conditions": [
+      "the original use of the facility commences with the taxpayer."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "the original use of the facility commences with the taxpayer."
+      ],
+      "except": [],
+      "result": "Paragraph (1) shall not apply to any facility which produces coke or coke gas"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 29(f)(2)Special Rule\u2014Paragraph  (1) shall not apply to any facility which produces coke or coke gas unless\n                     the original use of the facility commences with the taxpayer.",
+    "definitions": null
+  },
+  {
+    "section": "29",
+    "subsection": "(g)(1)",
+    "source_subsections": [
+      "(g)(1)",
+      "(g)(1)(A)",
+      "(g)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "In the case of a facility for producing coke or coke gas which was placed in service before January 1, 1993, or after June 30, 1998, and before January 1, 2010, this section shall apply with respect to coke and coke gas produced in such facility and sold during the period\u2014\u2014beginning on the later of January 1, 2006, or the date that such facility is placed in service, and\u2014ending on the date which is 4 years after the date such period began.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a facility for producing coke or coke gas which was placed in service before January 1, 1993, or after June 30, 1998, and before January 1, 2010, this section shall apply with respect to coke and coke gas produced in such facility and sold during the period\u2014\u2014beginning on the later of January 1, 2006, or the date that such facility is placed in service, and\u2014ending on the date which is 4 years after the date such period began."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 29(g)(1)In General\u2014In the case of a facility for producing coke or coke gas  which was placed  in service\n                     before January 1, 1993, or after June 30, 1998, and  before  January 1, 2010, this\n                     section shall apply with respect to coke and coke   gas produced in such facility\n                     and sold during the period\u2014I.R.C. \u00a7 29(g)(1)(A)\u2014beginning on the later of January 1, 2006, or the date that such facility   is placed\n                        in service, andI.R.C. \u00a7 29(g)(1)(B)\u2014ending on the date which is 4 years after the date  such period began.",
+    "definitions": null
+  },
+  {
+    "section": "29",
+    "subsection": "(g)(2)(A)",
+    "source_subsections": [
+      "(g)(2)(A)"
+    ],
+    "rule_type": "limitation",
+    "title": "Limit",
+    "text": "The amount of qualified fuels sold during any taxable year which may be taken into account by reason of this subsection with respect to any facility shall not exceed an average barrel-of-oil equivalent of 4,000 barrels per day. Days before the date the facility is placed in service shall not be taken into account in determining such average.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of qualified fuels sold during any taxable year which may be taken into account by reason of this subsection with respect to any facility shall not exceed an average barrel-of-oil equivalent of 4,000 barrels per day. Days before the date the facility is placed in service shall not be taken into account in determining such average."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 29(g)(2)(A)Daily Limit\u2014The amount of qualified fuels sold during any taxable year  which may be  taken into\n                        account by reason of this subsection with respect to any   facility shall not exceed\n                        an average barrel-of-oil equivalent of 4,000  barrels  per day. Days before the date\n                        the facility is placed in service  shall not be  taken into account in determining\n                        such average.",
+    "definitions": null
+  },
+  {
+    "section": "29",
+    "subsection": "(g)(2)(B)",
+    "source_subsections": [
+      "(g)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Period To Commence With Unadjusted Credit Amount",
+    "text": "For purposes of applying subsection (b)(2) to the $3 amount in subsection (a), in the case of fuels sold after 2005, subsection (d)(2)(B) shall be applied by substituting \u201c2004\u201d for \u201c1979\u201d.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 3,
+        "text": "$3"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of applying subsection (b)(2) to the $3 amount in subsection (a), in the case of fuels sold after 2005, subsection (d)(2)(B) shall be applied by substituting \u201c2004\u201d for \u201c1979\u201d."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 29(g)(2)(B)Extension Period To Commence With Unadjusted Credit Amount\u2014For purposes  of applying subsection (b)(2) to the\n                        $3 amount in subsection  (a), in the case of  fuels sold after 2005, subsection (d)(2)(B)\n                        shall be  applied by substituting  \u201c2004\u201d for\n                        \u201c1979\u201d.",
+    "definitions": null
+  },
+  {
+    "section": "29",
+    "subsection": "(g)(2)(C)",
+    "source_subsections": [
+      "(g)(2)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Double Benefit",
+    "text": "This subsection shall not apply to any facility producing qualified fuels for which a credit was allowed under this section for the taxable year or any preceding taxable year by reason of subsection (g).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "This subsection shall not apply to any facility producing qualified fuels for which a credit was allowed under this section for the taxable year or any preceding taxable year by reason of subsection (g)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 29(g)(2)(C)Denial Of Double Benefit\u2014This  subsection shall not apply to any  facility producing qualified fuels for  which\n                        a credit was allowed under this  section for the taxable year or any  preceding taxable\n                        year by reason of \n                        subsection (g).",
+    "definitions": null
+  }
+]

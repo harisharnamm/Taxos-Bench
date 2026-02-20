@@ -1,0 +1,21 @@
+{
+  "id": "9a0755239a34",
+  "section": "468A",
+  "citation": "I.R.C. \u00a7 468A(e)(2)(A)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 468A(e)(2)(A) is discussed as follows: 'I.R.C. \u00a7 468A(e)(2)(A)In General\u2014There  is hereby imposed on the gross income of the Fund for any ta...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 468A(e)(2)(A)?",
+  "difficulty": 1,
+  "choices": [
+    "80.0%",
+    "20.0%",
+    "30.0%",
+    "10.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 20.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 468A(e)(2)(A)"
+  ]
+}

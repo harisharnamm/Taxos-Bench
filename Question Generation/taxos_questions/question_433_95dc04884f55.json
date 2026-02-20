@@ -1,0 +1,22 @@
+{
+  "id": "95dc04884f55",
+  "section": "433",
+  "citation": "I.R.C. \u00a7 433(f)(4)(B)(i)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 433(f)(4)(B)(i) is discussed as follows: 'I.R.C. \u00a7 433(f)(4)(B)(i)\u201490 percent of the amount required to be contributed to or under the plan by...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 433(f)(4)(B)(i)?",
+  "difficulty": 1,
+  "choices": [
+    "80.0%",
+    "10.0%",
+    "135.0%",
+    "100.0%",
+    "90.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 90.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 433(f)(4)(B)(i)"
+  ]
+}

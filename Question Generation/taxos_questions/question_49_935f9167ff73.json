@@ -1,0 +1,22 @@
+{
+  "id": "935f9167ff73",
+  "section": "49",
+  "citation": "I.R.C. \u00a7 49(a)(1)(D)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 49(a)(1)(D) is discussed as follows: 'I.R.C. \u00a7 49(a)(1)(D)Nonqualified Nonrecourse FinancingI.R.C. \u00a7 49(a)(1)(D)(i)In General\u2014For purposes...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 49(a)(1)(D)?",
+  "difficulty": 1,
+  "choices": [
+    "70.0%",
+    "20.0%",
+    "120.0%",
+    "80.0%",
+    "90.0%"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies 80.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 49(a)(1)(D)"
+  ]
+}

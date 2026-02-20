@@ -1,0 +1,22 @@
+{
+  "id": "0fa6ae167cf9",
+  "section": "673",
+  "citation": "I.R.C. \u00a7 673(a)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 673(a) is discussed as follows: 'I.R.C. \u00a7 673(a)General Rule\u2014The  grantor shall be treated as the owner of any portion of a trust in ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 673(a)?",
+  "difficulty": 1,
+  "choices": [
+    "7.5%",
+    "5.0%",
+    "95.0%",
+    "15.0%",
+    "0.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 5.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 673(a)"
+  ]
+}

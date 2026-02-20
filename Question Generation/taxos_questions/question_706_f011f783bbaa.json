@@ -1,0 +1,21 @@
+{
+  "id": "f011f783bbaa",
+  "section": "706",
+  "citation": "I.R.C. \u00a7 706(b)(4)(A)(i)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 706(b)(4)(A)(i) is discussed as follows: 'I.R.C. \u00a7 706(b)(4)(A)(i)In General\u2014The  term \u201cmajority interest taxable year\u201d means the taxable year...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 706(b)(4)(A)(i)?",
+  "difficulty": 1,
+  "choices": [
+    "75.0%",
+    "60.0%",
+    "40.0%",
+    "50.0%"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 706(b)(4)(A)(i)"
+  ]
+}

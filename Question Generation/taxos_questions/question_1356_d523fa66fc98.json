@@ -1,0 +1,22 @@
+{
+  "id": "d523fa66fc98",
+  "section": "1356",
+  "citation": "I.R.C. \u00a7 1356(d)(3)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1356(d)(3) is discussed as follows: 'I.R.C. \u00a7 1356(d)(3)\u2014without  regard to this subchapter, the gross income derived by such corporation...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1356(d)(3)?",
+  "difficulty": 1,
+  "choices": [
+    "10.1%",
+    "99.9%",
+    "0.1%",
+    "0.2%",
+    "0.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 0.1%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1356(d)(3)"
+  ]
+}

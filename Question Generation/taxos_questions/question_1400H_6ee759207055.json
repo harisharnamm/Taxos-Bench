@@ -1,0 +1,22 @@
+{
+  "id": "6ee759207055",
+  "section": "1400H",
+  "citation": "I.R.C. \u00a7 1400H(b)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 1400H(b) is discussed as follows: 'I.R.C. \u00a7 1400H(b)Modification\u2014In  applying section1396with respect to renewal communities\u2014I.R.C. \u00a7 1...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 1400H(b)?",
+  "difficulty": 1,
+  "choices": [
+    "$13,500.00",
+    "$15,000.00",
+    "$7,500.00",
+    "$16,500.00",
+    "$30,000.00"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $15,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1400H(b)"
+  ]
+}

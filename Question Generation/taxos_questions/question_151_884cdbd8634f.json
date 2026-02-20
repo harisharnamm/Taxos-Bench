@@ -1,0 +1,22 @@
+{
+  "id": "884cdbd8634f",
+  "section": "151",
+  "citation": "I.R.C. \u00a7 151(d)(5)(C)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 151(d)(5)(C) is discussed as follows: 'I.R.C. \u00a7 151(d)(5)(C)Deduction for SeniorsI.R.C. \u00a7 151(d)(5)(C)(i)In General\u2014In the case of a taxabl...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 151(d)(5)(C)?",
+  "difficulty": 1,
+  "choices": [
+    "$300,000.00",
+    "$75,000.00",
+    "$165,000.00",
+    "$135,000.00",
+    "$150,000.00"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies $150,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 151(d)(5)(C)"
+  ]
+}

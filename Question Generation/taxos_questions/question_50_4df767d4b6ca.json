@@ -1,0 +1,21 @@
+{
+  "id": "4df767d4b6ca",
+  "section": "50",
+  "citation": "I.R.C. \u00a7 50(c)(3)(A)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 50(c)(3)(A) is discussed as follows: 'I.R.C. \u00a7 50(c)(3)(A)\u2014only 50 percent of such credit shall\n                        be taken into acco...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 50(c)(3)(A)?",
+  "difficulty": 1,
+  "choices": [
+    "60.0%",
+    "40.0%",
+    "50.0%",
+    "75.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 50(c)(3)(A)"
+  ]
+}

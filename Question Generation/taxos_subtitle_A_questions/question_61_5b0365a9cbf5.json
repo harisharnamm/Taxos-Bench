@@ -1,0 +1,22 @@
+{
+  "id": "5b0365a9cbf5",
+  "section": "61",
+  "citation": "I.R.C. \u00a7 61(a)",
+  "type": "Calculation - Gross Income",
+  "scenario": "Bob received the following amounts during the year: Loan Proceeds: $19,186.39, Gift from Parents: $20,914.05, Interest on Bank Account: $31,109.34.",
+  "question": "Calculate Bob's gross income under I.R.C. \u00a7 61.",
+  "difficulty": 2,
+  "choices": [
+    "$0.00",
+    "$31,109.34",
+    "$40,100.44",
+    "$71,209.78",
+    "$15,554.67"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "Gross income includes all income from whatever source derived, unless excluded. Total: $31,109.34.",
+  "reasoning": "Summed included items, ignored excluded items (Gifts, Loans, etc.).",
+  "source_rules": [
+    "I.R.C. \u00a7 61(a)"
+  ]
+}

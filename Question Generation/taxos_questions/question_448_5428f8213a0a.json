@@ -1,0 +1,22 @@
+{
+  "id": "5428f8213a0a",
+  "section": "448",
+  "citation": "I.R.C. \u00a7 448(c)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 448(c) is discussed as follows: 'I.R.C. \u00a7 448(c)Gross Receipts Test\u2014For  purposes of this section\u2014I.R.C. \u00a7 448(c)(1)In General\u2014A corp...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 448(c)?",
+  "difficulty": 1,
+  "choices": [
+    "$1,000,000.00",
+    "$2,000,000.00",
+    "$900,000.00",
+    "$1,100,000.00",
+    "$500,000.00"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies $1,000,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 448(c)"
+  ]
+}

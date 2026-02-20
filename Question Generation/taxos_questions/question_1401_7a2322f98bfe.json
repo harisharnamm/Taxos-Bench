@@ -1,0 +1,22 @@
+{
+  "id": "7a2322f98bfe",
+  "section": "1401",
+  "citation": "I.R.C. \u00a7 1401(b)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1401(b) is discussed as follows: 'I.R.C. \u00a7 1401(b)Hospital InsuranceI.R.C. \u00a7 1401(b)(1)In General\u2014In  addition to the tax imposed by t...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1401(b)?",
+  "difficulty": 1,
+  "choices": [
+    "0.9%",
+    "10.9%",
+    "99.1%",
+    "1.4%",
+    "0.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 0.9%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1401(b)"
+  ]
+}

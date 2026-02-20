@@ -1,0 +1,22 @@
+{
+  "id": "edddcb38561d",
+  "section": "45M",
+  "citation": "I.R.C. \u00a7 45M(b)(3)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 45M(b)(3) is discussed as follows: 'I.R.C. \u00a7 45M(b)(3)Refrigerators\u2014The applicable amount is\u2014I.R.C. \u00a7 45M(b)(3)(A)\u2014$50 in the case of a ...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 45M(b)(3)?",
+  "difficulty": 1,
+  "choices": [
+    "$220.00",
+    "$400.00",
+    "$180.00",
+    "$100.00",
+    "$200.00"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies $200.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 45M(b)(3)"
+  ]
+}

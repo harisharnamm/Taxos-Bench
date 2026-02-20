@@ -1,0 +1,22 @@
+{
+  "id": "8b8952ad7d0b",
+  "section": "213",
+  "citation": "I.R.C. \u00a7 213(d)(10)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 213(d)(10) is discussed as follows: 'I.R.C. \u00a7 213(d)(10)Eligible Long-Term Care PremiumsI.R.C. \u00a7 213(d)(10)(A)In General\u2014For purposes of ...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 213(d)(10)?",
+  "difficulty": 1,
+  "choices": [
+    "$20.00",
+    "$10.00",
+    "$9.00",
+    "$11.00",
+    "$5.00"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $10.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 213(d)(10)"
+  ]
+}

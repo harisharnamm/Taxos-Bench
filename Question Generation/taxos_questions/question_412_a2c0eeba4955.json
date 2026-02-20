@@ -1,0 +1,22 @@
+{
+  "id": "a2c0eeba4955",
+  "section": "412",
+  "citation": "I.R.C. \u00a7 412(c)(4)(C)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 412(c)(4)(C) is discussed as follows: 'I.R.C. \u00a7 412(c)(4)(C)Exception For Certain Waivers Or ExtensionsI.R.C. \u00a7 412(c)(4)(C)(i)In General\u2014T...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 412(c)(4)(C)?",
+  "difficulty": 1,
+  "choices": [
+    "$1,000,000.00",
+    "$900,000.00",
+    "$1,100,000.00",
+    "$500,000.00",
+    "$2,000,000.00"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies $1,000,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 412(c)(4)(C)"
+  ]
+}

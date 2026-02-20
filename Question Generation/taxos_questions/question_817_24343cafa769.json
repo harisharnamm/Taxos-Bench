@@ -1,0 +1,21 @@
+{
+  "id": "24343cafa769",
+  "section": "817",
+  "citation": "I.R.C. \u00a7 817(h)(2)(B)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 817(h)(2)(B) is discussed as follows: 'I.R.C. \u00a7 817(h)(2)(B)\u2014no more than 55 percent of the value of the total assets  of the account are a...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 817(h)(2)(B)?",
+  "difficulty": 1,
+  "choices": [
+    "65.0%",
+    "82.5%",
+    "55.0%",
+    "45.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 55.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 817(h)(2)(B)"
+  ]
+}

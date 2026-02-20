@@ -1,0 +1,21 @@
+{
+  "id": "bc7a9dfbf493",
+  "section": "312",
+  "citation": "I.R.C. \u00a7 312(k)(4)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 312(k)(4) is discussed as follows: 'I.R.C. \u00a7 312(k)(4)Certain Foreign Corporations\u2014The provisions of paragraph (1) shall not apply in co...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 312(k)(4)?",
+  "difficulty": 1,
+  "choices": [
+    "80.0%",
+    "20.0%",
+    "10.0%",
+    "30.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 20.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 312(k)(4)"
+  ]
+}

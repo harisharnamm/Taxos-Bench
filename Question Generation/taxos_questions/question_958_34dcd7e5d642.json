@@ -1,0 +1,21 @@
+{
+  "id": "34dcd7e5d642",
+  "section": "958",
+  "citation": "I.R.C. \u00a7 958(b)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 958(b) is discussed as follows: 'I.R.C. \u00a7 958(b)Constructive Ownership\u2014For purposes of sections951(b),954(d)(3),956(c)(2), and957, se...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 958(b)?",
+  "difficulty": 1,
+  "choices": [
+    "50.0%",
+    "75.0%",
+    "40.0%",
+    "60.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 958(b)"
+  ]
+}

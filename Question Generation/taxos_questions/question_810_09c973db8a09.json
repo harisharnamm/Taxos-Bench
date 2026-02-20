@@ -1,0 +1,21 @@
+{
+  "id": "09c973db8a09",
+  "section": "810",
+  "citation": "I.R.C. \u00a7 810(b)(4)(D)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 810(b)(4)(D) is discussed as follows: 'I.R.C. \u00a7 810(b)(4)(D)Limitation On Amount Of Loss Carryback To 5th Preceding Taxable YearI.R.C. \u00a7 81...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 810(b)(4)(D)?",
+  "difficulty": 1,
+  "choices": [
+    "60.0%",
+    "40.0%",
+    "50.0%",
+    "75.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 810(b)(4)(D)"
+  ]
+}

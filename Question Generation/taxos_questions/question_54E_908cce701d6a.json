@@ -1,0 +1,22 @@
+{
+  "id": "908cce701d6a",
+  "section": "54E",
+  "citation": "I.R.C. \u00a7 54E(c)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 54E(c) is discussed as follows: 'I.R.C. \u00a7 54E(c)Limitation on Amount of Bonds Designated\u2014Editor's Note:Pub. L. 115-97, Sec. 13404(a),...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 54E(c)?",
+  "difficulty": 1,
+  "choices": [
+    "$440,000,000.00",
+    "$400,000,000.00",
+    "$800,000,000.00",
+    "$360,000,000.00",
+    "$200,000,000.00"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $400,000,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 54E(c)"
+  ]
+}

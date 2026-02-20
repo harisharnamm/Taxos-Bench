@@ -1,0 +1,22 @@
+{
+  "id": "4372bb75af24",
+  "section": "48",
+  "citation": "I.R.C. \u00a7 48(a)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 48(a) is discussed as follows: 'I.R.C. \u00a7 48(a)Energy CreditI.R.C. \u00a7 48(a)(1)In General\u2014For purposes of section46, except as provided...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 48(a)?",
+  "difficulty": 1,
+  "choices": [
+    "1.2%",
+    "98.8%",
+    "0.0%",
+    "1.8%",
+    "11.2%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 1.2%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 48(a)"
+  ]
+}

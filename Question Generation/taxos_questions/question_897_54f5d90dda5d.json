@@ -1,0 +1,22 @@
+{
+  "id": "54f5d90dda5d",
+  "section": "897",
+  "citation": "I.R.C. \u00a7 897(i)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 897(i) is discussed as follows: 'I.R.C. \u00a7 897(i)Election By Foreign Corporation To Be Treated As Domestic CorporationI.R.C. \u00a7 897(i)(...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 897(i)?",
+  "difficulty": 1,
+  "choices": [
+    "5.0%",
+    "7.5%",
+    "15.0%",
+    "95.0%",
+    "0.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 5.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 897(i)"
+  ]
+}

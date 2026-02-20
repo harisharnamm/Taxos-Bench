@@ -1,0 +1,2685 @@
+[
+  {
+    "section": "36B",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "In the case of an applicable taxpayer, there shall be allowed as a credit against the tax imposed by this subtitle for any taxable year an amount equal to the premium assistance credit amount of the taxpayer for the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of an applicable taxpayer, there shall be allowed as a credit against the tax imposed by this subtitle for any taxable year an amount equal to the premium assistance credit amount of the taxpayer for the taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(a)In General\u2014In the case of an applicable taxpayer, there shall be allowed as a credit against\n                  the tax imposed by this subtitle for any taxable year an amount equal to the premium\n                  assistance credit amount of the taxpayer for the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cpremium assistance credit amount\u201d means, with respect to any taxable year, the sum of the premium assistance amounts determined under paragraph (2) with respect to all coverage months of the taxpayer occurring during the taxable year.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cpremium assistance credit amount\u201d means, with respect to any taxable year, the sum of the premium assistance amounts determined under paragraph (2) with respect to all coverage months of the taxpayer occurring during the taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(b)(1)In General\u2014The term \u201cpremium assistance credit amount\u201d means, with respect to any taxable year,\n                     the sum of the premium assistance amounts determined under paragraph (2) with respect\n                     to all coverage months of the taxpayer occurring during the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)",
+      "(b)(2)(A)",
+      "(b)(2)(B)",
+      "(b)(2)(B)(i)",
+      "(b)(2)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Assistance Amount",
+    "text": "The premium assistance amount determined under this subsection with respect to any coverage month is the amount equal to the lesser of\u2014\u2014the monthly premiums for such month for 1 or more qualified health plans offered in the individual market within a State which cover the taxpayer, the taxpayer's spouse, or any dependent (as defined in section152) of the taxpayer and which were enrolled in through an Exchange established by the State under 1311 of the Patient Protection and Affordable Care Act, or\u2014the excess (if any) of\u2014\u2014the adjusted monthly premium for such month for the applicable second lowest cost silver plan with respect to the taxpayer, over\u2014an amount equal to 1/12 of the product of the applicable percentage and the taxpayer's household income for the taxable year.",
+    "conditions": [
+      "any) of\u2014\u2014the adjusted monthly premium for such month for the applicable second lowest cost silver plan with respect to the taxpayer, over\u2014an amount equal to 1/12 of the product of the applicable percentage and the taxpayer's household income for the taxable year."
+    ],
+    "computations": [
+      {
+        "operation": "min",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      },
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any) of\u2014\u2014the adjusted monthly premium for such month for the applicable second lowest cost silver plan with respect to the taxpayer, over\u2014an amount equal to 1/12 of the product of the applicable percentage and the taxpayer's household income for the taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The premium assistance amount determined under this subsection with respect to any coverage month is the amount equal to the lesser of\u2014\u2014the monthly premiums for such month for 1 or more qualified health plans offered in the individual market within a State which cover the taxpayer, the taxpayer's spouse, or any dependent (as defined in section152) of the taxpayer and which were enrolled in through an Exchange established by the State under 1311 of the Patient Protection and Affordable Care Act, or\u2014the excess ("
+    },
+    "cross_references": [
+      {
+        "section": "152",
+        "reason": "any dependent (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(b)(2)Premium Assistance Amount\u2014The premium assistance amount determined under this subsection with respect to any\n                     coverage month is the amount equal to the lesser of\u2014I.R.C. \u00a7 36B(b)(2)(A)\u2014the monthly premiums for such month for 1 or more qualified health plans offered in\n                        the individual market within a State which cover the taxpayer, the taxpayer's spouse,\n                        or any dependent (as defined in section152) of the taxpayer and which were enrolled in through an Exchange established by the\n                        State under 1311 of the Patient Protection and Affordable Care Act, orI.R.C. \u00a7 36B(b)(2)(B)\u2014the excess (if any) of\u2014I.R.C. \u00a7 36B(b)(2)(B)(i)\u2014the adjusted monthly premium for such month for the applicable second lowest cost\n                           silver plan with respect to the taxpayer, overI.R.C. \u00a7 36B(b)(2)(B)(ii)\u2014an amount equal to 1/12 of the product of the applicable percentage and the taxpayer's\n                           household income for the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(b)(3)(A)(i)",
+    "source_subsections": [
+      "(b)(3)(A)(i)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "GeneralExcept as provided in clause (ii), the applicable percentage for any taxable year shall be the percentage such that the applicable percentage for any taxpayer whose household income is within an income tier specified in the following table shall increase, on a sliding scale in a linear manner, from the initial premium percentage to the final premium percentage specified in such table for such income tier:In the case of household income (expressed as a percent of poverty line) within the following income tier:The initial premium percentage is\u2014The final premium percentage is\u2014Up to 133%2.0%2.0%133% up to 150%3.0%4.0%150% up to 200%4.0%6.3%200% up to 250%6.3%8.05%250% up to 300%8.05%9.5%300% up to 400%9.5%9.5%.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 1.33,
+        "text": "133%"
+      },
+      {
+        "label": "rate",
+        "value": 0.02,
+        "text": "2.0%"
+      },
+      {
+        "label": "rate",
+        "value": 0.02,
+        "text": "2.0%"
+      },
+      {
+        "label": "rate",
+        "value": 1.33,
+        "text": "133%"
+      },
+      {
+        "label": "rate",
+        "value": 1.5,
+        "text": "150%"
+      },
+      {
+        "label": "rate",
+        "value": 0.03,
+        "text": "3.0%"
+      },
+      {
+        "label": "rate",
+        "value": 0.04,
+        "text": "4.0%"
+      },
+      {
+        "label": "rate",
+        "value": 1.5,
+        "text": "150%"
+      },
+      {
+        "label": "rate",
+        "value": 2.0,
+        "text": "200%"
+      },
+      {
+        "label": "rate",
+        "value": 0.04,
+        "text": "4.0%"
+      },
+      {
+        "label": "rate",
+        "value": 0.063,
+        "text": "6.3%"
+      },
+      {
+        "label": "rate",
+        "value": 2.0,
+        "text": "200%"
+      },
+      {
+        "label": "rate",
+        "value": 2.5,
+        "text": "250%"
+      },
+      {
+        "label": "rate",
+        "value": 0.063,
+        "text": "6.3%"
+      },
+      {
+        "label": "rate",
+        "value": 0.0805,
+        "text": "8.05%"
+      },
+      {
+        "label": "rate",
+        "value": 2.5,
+        "text": "250%"
+      },
+      {
+        "label": "rate",
+        "value": 3.0,
+        "text": "300%"
+      },
+      {
+        "label": "rate",
+        "value": 0.0805,
+        "text": "8.05%"
+      },
+      {
+        "label": "rate",
+        "value": 0.095,
+        "text": "9.5%"
+      },
+      {
+        "label": "rate",
+        "value": 3.0,
+        "text": "300%"
+      },
+      {
+        "label": "rate",
+        "value": 4.0,
+        "text": "400%"
+      },
+      {
+        "label": "rate",
+        "value": 0.095,
+        "text": "9.5%"
+      },
+      {
+        "label": "rate",
+        "value": 0.095,
+        "text": "9.5%"
+      }
+    ],
+    "variables": [],
+    "exceptions": [
+      {
+        "applies_when": "clause (ii)",
+        "effect": "See referenced section"
+      }
+    ],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "GeneralExcept as provided in clause (ii), the applicable percentage for any taxable year shall be the percentage such that the applicable percentage for any taxpayer whose household income is within an income tier specified in the following table shall increase, on a sliding scale in a linear manner, from the initial premium percentage to the final premium percentage specified in such table for such income tier:In the case of household income (expressed as a percent of poverty line) within the following income tier:The initial premium percentage is\u2014The final premium percentage is\u2014Up to 133%2.0%2.0%133% up to 150%3.0%4.0%150% up to 200%4.0%6.3%200% up to 250%6.3%8.05%250% up to 300%8.05%9.5%300% up to 400%9.5%9.5%."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(b)(3)(A)(i)In GeneralExcept as provided in clause (ii), the applicable percentage for any taxable year\n                        shall be the percentage such that the applicable percentage for any taxpayer whose\n                        household income is within an income tier specified in the following table shall increase,\n                        on a sliding scale in a linear manner, from the initial premium percentage to the\n                        final premium percentage specified in such table for such income tier:In the case of household income (expressed as a percent of poverty line) within the\n                                       following income tier:The initial premium percentage is\u2014The final premium percentage is\u2014Up to 133%2.0%2.0%133% up to 150%3.0%4.0%150% up to 200%4.0%6.3%200% up to 250%6.3%8.05%250% up to 300%8.05%9.5%300% up to 400%9.5%9.5%.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(b)(3)(A)(ii)",
+    "source_subsections": [
+      "(b)(3)(A)(ii)",
+      "(b)(3)(A)(ii)(I)",
+      "(b)(3)(A)(ii)(II)",
+      "(b)(3)(A)(ii)(III)"
+    ],
+    "rule_type": "condition",
+    "title": ".R.C. \u00a7 36B(b)(3)(A)(ii)(I)In General",
+    "text": "Subject to subclause (II), in the case of taxable years beginning in any calendar year after 2014, the initial and final applicable percentages under clause (i) (as in effect for the preceding calendar year after application of this clause) shall be adjusted to reflect the excess of the rate of premium growth for the preceding calendar year over the rate of income growth for the preceding calendar year. Adjustment\u2014Except as provided in subclause (III), in the case of any calendar year after 2018, the percentages described in subclause (I) shall, in addition to the adjustment under subclause (I), be adjusted to reflect the excess (if any) of the rate of premium growth estimated under subclause (I) for the preceding calendar year over the rate of growth in the consumer price index for the preceding calendar year.\u2014Subclause (II) shall apply for any calendar year only if the aggregate amount of premium tax credits under this section and cost-sharing reductions under section1402of the Patient Protection and Affordable Care Act for the preceding calendar year exceeds an amount equal to 0.504 percent of the gross domestic product for the preceding calendar year.",
+    "conditions": [
+      "any) of the rate of premium growth estimated under subclause (I) for the preceding calendar year over the rate of growth in the consumer price index for the preceding calendar year.\u2014Subclause (II) shall apply for any calendar year only",
+      "the aggregate amount of premium tax credits under this section and cost-sharing reductions under section1402of the Patient Protection and Affordable Care Act for the preceding calendar year exceeds an amount equal to 0.504 percent of the gross domestic product for the preceding calendar year."
+    ],
+    "computations": [
+      {
+        "operation": "subtraction",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.00504,
+        "text": "0.504 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [
+      {
+        "applies_when": "subclause (III)",
+        "effect": "See referenced section"
+      }
+    ],
+    "logical_structure": {
+      "if": [
+        "any) of the rate of premium growth estimated under subclause (I) for the preceding calendar year over the rate of growth in the consumer price index for the preceding calendar year.\u2014Subclause (II) shall apply for any calendar year only",
+        "the aggregate amount of premium tax credits under this section and cost-sharing reductions under section1402of the Patient Protection and Affordable Care Act for the preceding calendar year exceeds an amount equal to 0.504 percent of the gross domestic product for the preceding calendar year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as provided in subclause (III), in the case of any calendar year after 2018, the percentages described in subclause (I) shall, in addition to the adjustment under subclause (I), be adjusted to reflect the excess ("
+      ],
+      "result": "Subject to subclause (II), in the case of taxable years beginning in any calendar year after 2014, the initial and final applicable percentages under clause (i) (as in effect for the preceding calendar year after application of this clause) shall be adjusted to reflect the excess of the rate of premium growth for the preceding calendar year over the rate of income growth for the preceding calendar year. Adjustment\u2014"
+    },
+    "cross_references": [
+      {
+        "section": "1402o",
+        "reason": "cost-sharing reductions under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(b)(3)(A)(ii)IndexingI.R.C. \u00a7 36B(b)(3)(A)(ii)(I)In General\u2014Subject to subclause (II), in the case of taxable years beginning in any calendar\n                              year after 2014, the initial and final applicable percentages under clause (i) (as\n                              in effect for the preceding calendar year after application of this clause) shall\n                              be adjusted to reflect the excess of the rate of premium growth for the preceding\n                              calendar year over the rate of income growth for the preceding calendar year.I.R.C. \u00a7 36B(b)(3)(A)(ii)(II)Additional Adjustment\u2014Except as provided in subclause (III), in the case of any calendar year after 2018,\n                              the percentages described in subclause (I) shall, in addition to the adjustment under\n                              subclause (I), be adjusted to reflect the excess (if any) of the rate of premium growth\n                              estimated under subclause (I) for the preceding calendar year over the rate of growth\n                              in the consumer price index for the preceding calendar year.I.R.C. \u00a7 36B(b)(3)(A)(ii)(III)Failsafe\u2014Subclause (II) shall apply for any calendar year only if the aggregate amount of premium\n                              tax credits under this section and cost-sharing reductions under section1402of the Patient Protection and Affordable Care Act for the preceding calendar year\n                              exceeds an amount equal to 0.504 percent of the gross domestic product for the preceding\n                              calendar year.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(b)(3)(A)(iii)",
+    "source_subsections": [
+      "(b)(3)(A)(iii)",
+      "(b)(3)(A)(iii)(I)",
+      "(b)(3)(A)(iii)(II)"
+    ],
+    "rule_type": "computation",
+    "title": "Percentages For 2021 Through 2025",
+    "text": "In the case of a taxable year beginning after December 31, 2020, and before January 1, 2026\u2014\u2014clause (ii) shall not apply for purposes of adjusting premium percentages under this subparagraph, and following table shall be applied in lieu of the table contained in clause (i):In the case of household income (expressed as a percent of poverty line) within the following income tier:The initial premium percentage is\u2014The final premium percentage is\u2014Up to 150.0 percent0.00.0150.0 percent up to 200.0 percent0.02.0200.0 percent up to 250.0 percent2.04.0250.0 percent up to 300.0 percent4.06.0300.0 percent up to 400.0 percent6.08.5400.0 percent and higher8.58.5",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 1.5,
+        "text": "150.0 percent"
+      },
+      {
+        "label": "rate",
+        "value": 1.5,
+        "text": "0150.0 percent"
+      },
+      {
+        "label": "rate",
+        "value": 2.0,
+        "text": "200.0 percent"
+      },
+      {
+        "label": "rate",
+        "value": 2.0,
+        "text": "0200.0 percent"
+      },
+      {
+        "label": "rate",
+        "value": 2.5,
+        "text": "250.0 percent"
+      },
+      {
+        "label": "rate",
+        "value": 2.5,
+        "text": "0250.0 percent"
+      },
+      {
+        "label": "rate",
+        "value": 3.0,
+        "text": "300.0 percent"
+      },
+      {
+        "label": "rate",
+        "value": 3.0,
+        "text": "0300.0 percent"
+      },
+      {
+        "label": "rate",
+        "value": 4.0,
+        "text": "400.0 percent"
+      },
+      {
+        "label": "rate",
+        "value": 54.0,
+        "text": "5400.0 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a taxable year beginning after December 31, 2020, and before January 1, 2026\u2014\u2014clause (ii) shall not apply for purposes of adjusting premium percentages under this subparagraph, and following table shall be applied in lieu of the table contained in clause (i):In the case of household income (expressed as a percent of poverty line) within the following income tier:The initial premium percentage is\u2014The final premium percentage is\u2014Up to 150.0 percent0.00.0150.0 percent up to 200.0 percent0.02.0200.0 percent up to 250.0 percent2.04.0250.0 percent up to 300.0 percent4.06.0300.0 percent up to 400.0 percent6.08.5400.0 percent and higher8.58.5"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(b)(3)(A)(iii)Temporary Percentages For 2021 Through 2025\u2014In the case of a taxable year beginning after December 31, 2020, and before January\n                           1, 2026\u2014I.R.C. \u00a7 36B(b)(3)(A)(iii)(I)\u2014clause (ii) shall not apply for purposes of adjusting premium percentages under this\n                              subparagraph, andI.R.C. \u00a7 36B(b)(3)(A)(iii)(II)the following table shall be applied in lieu of the table contained in clause (i):In the case of household income (expressed as a percent of poverty line) within the\n                                          following income tier:The initial premium percentage is\u2014The final premium percentage is\u2014Up to 150.0 percent0.00.0150.0 percent up to 200.0 percent0.02.0200.0 percent up to 250.0 percent2.04.0250.0 percent up to 300.0 percent4.06.0300.0 percent up to 400.0 percent6.08.5400.0 percent and higher8.58.5",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(b)(3)(B)",
+    "source_subsections": [
+      "(b)(3)(B)",
+      "(b)(3)(B)(i)",
+      "(b)(3)(B)(ii)",
+      "(b)(3)(B)(ii)(I)",
+      "(b)(3)(B)(ii)(I)(aa)",
+      "(b)(3)(B)(ii)(I)(bb)",
+      "(b)(3)(B)(ii)(II)"
+    ],
+    "rule_type": "condition",
+    "title": "Second Lowest Cost Silver Plan",
+    "text": "The applicable second lowest cost silver plan with respect to any applicable taxpayer is the second lowest cost silver plan of the individual market in the rating area in which the taxpayer resides which\u2014\u2014is offered through the same Exchange through which the qualified health plans taken into account under paragraph (2)(A) were offered, and\u2014provides\u2014\u2014self-only coverage in the case of an applicable taxpayer\u2014\u2014whose tax for the taxable year is determined under section1(c)(relating to unmarried individuals other than surviving spouses and heads of households) and who is not allowed a deduction under section151for the taxable year with respect to a dependent, or\u2014who is not described in item (aa) but who purchases only self-only coverage, and\u2014family coverage in the case of any other applicable taxpayer.If a taxpayer files a joint return and no credit is allowed under this section with respect to 1 of the spouses by reason of subsection (e), the taxpayer shall be treated as described in clause (ii)(I) unless a deduction is allowed under section151for the taxable year with respect to a dependent other than either spouse and subsection (e) does not apply to the dependent.",
+    "conditions": [
+      "a taxpayer files a joint return and no credit is allowed under this section with respect to 1 of the spouses by reason of subsection (e), the taxpayer shall be treated as described in clause (ii)(I)",
+      "a deduction is allowed under section151for the taxable year with respect to a dependent other than either spouse and subsection (e) does not apply to the dependent."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "a taxpayer files a joint return and no credit is allowed under this section with respect to 1 of the spouses by reason of subsection (e), the taxpayer shall be treated as described in clause (ii)(I)"
+      ],
+      "and": [],
+      "or": [],
+      "unless": [
+        "a deduction is allowed under section151for the taxable year with respect to a dependent other than either spouse and subsection (e) does not apply to the dependent."
+      ],
+      "except": [],
+      "result": "The applicable second lowest cost silver plan with respect to any applicable taxpayer is the second lowest cost silver plan of the individual market in the rating area in which the taxpayer resides which\u2014\u2014is offered through the same Exchange through which the qualified health plans taken into account under paragraph (2)(A) were offered, and\u2014provides\u2014\u2014self-only coverage in the case of an applicable taxpayer\u2014\u2014whose tax for the taxable year is determined under section1(c)(relating to unmarried individuals other than surviving spouses and heads of households) and who is not allowed a deduction under section151for the taxable year with respect to a dependent, or\u2014who is not described in item (aa) but who purchases only self-only coverage, and\u2014family coverage in the case of any other applicable taxpayer."
+    },
+    "cross_references": [
+      {
+        "section": "1(c)",
+        "reason": "able year is determined under..."
+      },
+      {
+        "section": "151f",
+        "reason": "not allowed a deduction under..."
+      },
+      {
+        "section": "151f",
+        "reason": "a deduction is allowed under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(b)(3)(B)Applicable Second Lowest Cost Silver Plan\u2014The applicable second lowest cost silver plan with respect to any applicable taxpayer\n                        is the second lowest cost silver plan of the individual market in the rating area\n                        in which the taxpayer resides which\u2014I.R.C. \u00a7 36B(b)(3)(B)(i)\u2014is offered through the same Exchange through which the qualified health plans taken\n                           into account under paragraph (2)(A) were offered, andI.R.C. \u00a7 36B(b)(3)(B)(ii)\u2014provides\u2014I.R.C. \u00a7 36B(b)(3)(B)(ii)(I)\u2014self-only coverage in the case of an applicable taxpayer\u2014I.R.C. \u00a7 36B(b)(3)(B)(ii)(I)(aa)\u2014whose tax for the taxable year is determined under section1(c)(relating to unmarried individuals other than surviving spouses and heads of households)\n                                 and who is not allowed a deduction under section151for the taxable year with respect to a dependent, orI.R.C. \u00a7 36B(b)(3)(B)(ii)(I)(bb)\u2014who is not described in item (aa) but who purchases only self-only coverage, andI.R.C. \u00a7 36B(b)(3)(B)(ii)(II)\u2014family coverage in the case of any other applicable taxpayer.If a taxpayer files a joint return and no credit is allowed under this section with\n                           respect to 1 of the spouses by reason of subsection (e), the taxpayer shall be treated\n                           as described in clause (ii)(I) unless a deduction is allowed under section151for the taxable year with respect to a dependent other than either spouse and subsection\n                           (e) does not apply to the dependent.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(b)(3)(C)",
+    "source_subsections": [
+      "(b)(3)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "Monthly Premium",
+    "text": "The adjusted monthly premium for an applicable second lowest cost silver plan is the monthly premium which would have been charged (for the rating area with respect to which the premiums under paragraph (2)(A) were determined) for the plan if each individual covered under a qualified health plan taken into account under paragraph (2)(A) were covered by such silver plan and the premium was adjusted only for the age of each such individual in the manner allowed under section 2701 of the Public Health Service Act. In the case of a State participating in the wellness discount demonstration project under section 2705(d) of the Public Health Service Act, the adjusted monthly premium shall be determined without regard to any premium discount or rebate under such project.",
+    "conditions": [
+      "each individual covered under a qualified health plan taken into account under paragraph (2)(A) were covered by such silver plan and the premium was adjusted only for the age of each such individual in the manner allowed under section 2701 of the Public Health Service Act. In the case of a State participating in the wellness discount demonstration project under section 2705(d) of the Public Health Service Act, the adjusted monthly premium shall be determined without regard to any premium discount or rebate under such project."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "each individual covered under a qualified health plan taken into account under paragraph (2)(A) were covered by such silver plan and the premium was adjusted only for the age of each such individual in the manner allowed under section 2701 of the Public Health Service Act. In the case of a State participating in the wellness discount demonstration project under section 2705(d) of the Public Health Service Act, the adjusted monthly premium shall be determined without regard to any premium discount or rebate under such project."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The adjusted monthly premium for an applicable second lowest cost silver plan is the monthly premium which would have been charged (for the rating area with respect to which the premiums under paragraph (2)(A) were determined) for the plan"
+    },
+    "cross_references": [
+      {
+        "section": "2701",
+        "reason": "l in the manner allowed under..."
+      },
+      {
+        "section": "2705(d)",
+        "reason": "t demonstration project under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(b)(3)(C)Adjusted Monthly Premium\u2014The adjusted monthly premium for an applicable second lowest cost silver plan is the\n                        monthly premium which would have been charged (for the rating area with respect to\n                        which the premiums under paragraph (2)(A) were determined) for the plan if each individual\n                        covered under a qualified health plan taken into account under paragraph (2)(A) were\n                        covered by such silver plan and the premium was adjusted only for the age of each\n                        such individual in the manner allowed under section 2701 of the Public Health Service\n                        Act. In the case of a State participating in the wellness discount demonstration project\n                        under section 2705(d) of the Public Health Service Act, the adjusted monthly premium\n                        shall be determined without regard to any premium discount or rebate under such project.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(b)(3)(D)",
+    "source_subsections": [
+      "(b)(3)(D)",
+      "(b)(3)(D)(i)",
+      "(b)(3)(D)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Benefits",
+    "text": "If\u2014\u2014a qualified health plan under section 1302(b)(5) of the Patient Protection and Affordable Care Act offers benefits in addition to the essential health benefits required to be provided by the plan, or\u2014a State requires a qualified health plan under section 1311(d)(3)(B) of such Act to cover benefits in addition to the essential health benefits required to be provided by the plan,the portion of the premium for the plan properly allocable (under rules prescribed by the Secretary of Health and Human Services) to such additional benefits shall not be taken into account in determining either the monthly premium or the adjusted monthly premium under paragraph (2).",
+    "conditions": [
+      "\u2014\u2014a qualified health plan under section 1302(b)(5) of the Patient Protection and Affordable Care Act offers benefits in addition to the essential health benefits required to be provided by the plan, or\u2014a State requires a qualified health plan under section 1311(d)(3)(B) of such Act to cover benefits in addition to the essential health benefits required to be provided by the plan,the portion of the premium for the plan properly allocable (under rules prescribed by the Secretary of Health and Human Services) to such additional benefits shall not be taken into account in determining either the monthly premium or the adjusted monthly premium under paragraph (2)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014a qualified health plan under section 1302(b)(5) of the Patient Protection and Affordable Care Act offers benefits in addition to the essential health benefits required to be provided by the plan, or\u2014a State requires a qualified health plan under section 1311(d)(3)(B) of such Act to cover benefits in addition to the essential health benefits required to be provided by the plan,the portion of the premium for the plan properly allocable (under rules prescribed by the Secretary of Health and Human Services) to such additional benefits shall not be taken into account in determining either the monthly premium or the adjusted monthly premium under paragraph (2)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "1302(b)(5)",
+        "reason": "a qualified health plan under..."
+      },
+      {
+        "section": "1311(d)(3)(B)",
+        "reason": "a qualified health plan under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(b)(3)(D)Additional Benefits\u2014If\u2014I.R.C. \u00a7 36B(b)(3)(D)(i)\u2014a qualified health plan under section 1302(b)(5) of the Patient Protection and Affordable\n                           Care Act offers benefits in addition to the essential health benefits required to\n                           be provided by the plan, orI.R.C. \u00a7 36B(b)(3)(D)(ii)\u2014a State requires a qualified health plan under section 1311(d)(3)(B) of such Act to\n                           cover benefits in addition to the essential health benefits required to be provided\n                           by the plan,the portion of the premium for the plan properly allocable (under rules prescribed\n                           by the Secretary of Health and Human Services) to such additional benefits shall not\n                           be taken into account in determining either the monthly premium or the adjusted monthly\n                           premium under paragraph (2).",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(b)(3)(E)",
+    "source_subsections": [
+      "(b)(3)(E)"
+    ],
+    "rule_type": "condition",
+    "title": "Rule For Pediatric Dental Coverage",
+    "text": "For purposes of determining the amount of any monthly premium, if an individual enrolls in both a qualified health plan and a plan described in section 1311(d)(2)(B)(ii)(I) of the Patient Protection and Affordable Care Act for any plan year, the portion of the premium for the plan described in such section that (under regulations prescribed by the Secretary) is properly allocable to pediatric dental benefits which are included in the essential health benefits required to be provided by a qualified health plan under section 1302(b)(1)(J) of such Act shall be treated as a premium payable for a qualified health plan.",
+    "conditions": [
+      "an individual enrolls in both a qualified health plan and a plan described in section 1311(d)(2)(B)(ii)(I) of the Patient Protection and Affordable Care Act for any plan year, the portion of the premium for the plan described in such section that (under regulations prescribed by the Secretary) is properly allocable to pediatric dental benefits which are included in the essential health benefits required to be provided by a qualified health plan under section 1302(b)(1)(J) of such Act shall be treated as a premium payable for a qualified health plan."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "an individual enrolls in both a qualified health plan and a plan described in section 1311(d)(2)(B)(ii)(I) of the Patient Protection and Affordable Care Act for any plan year, the portion of the premium for the plan described in such section that (under regulations prescribed by the Secretary) is properly allocable to pediatric dental benefits which are included in the essential health benefits required to be provided by a qualified health plan under section 1302(b)(1)(J) of such Act shall be treated as a premium payable for a qualified health plan."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of determining the amount of any monthly premium,"
+    },
+    "cross_references": [
+      {
+        "section": "1311(d)(2)(B)(ii)(I)",
+        "reason": "plan and a plan described in..."
+      },
+      {
+        "section": "1302(b)(1)(J)",
+        "reason": "a qualified health plan under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(b)(3)(E)Special Rule For Pediatric Dental Coverage\u2014For purposes of determining the amount of any monthly premium, if an individual enrolls\n                        in both a qualified health plan and a plan described in section 1311(d)(2)(B)(ii)(I)\n                        of the Patient Protection and Affordable Care Act for any plan year, the portion of\n                        the premium for the plan described in such section that (under regulations prescribed\n                        by the Secretary) is properly allocable to pediatric dental benefits which are included\n                        in the essential health benefits required to be provided by a qualified health plan\n                        under section 1302(b)(1)(J) of such Act shall be treated as a premium payable for\n                        a qualified health plan.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(c)(1)(A)",
+    "source_subsections": [
+      "(c)(1)(A)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201capplicable taxpayer\u201d means, with respect to any taxable year, a taxpayer whose household income for the taxable year equals or exceeds 100 percent but does not exceed 400 percent of an amount equal to the poverty line for a family of the size involved.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 1.0,
+        "text": "100 percent"
+      },
+      {
+        "label": "rate",
+        "value": 4.0,
+        "text": "400 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201capplicable taxpayer\u201d means, with respect to any taxable year, a taxpayer whose household income for the taxable year equals or exceeds 100 percent but does not exceed 400 percent of an amount equal to the poverty line for a family of the size involved."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(c)(1)(A)In General\u2014The term \u201capplicable taxpayer\u201d means, with respect to any taxable year, a taxpayer\n                        whose household income for the taxable year equals or exceeds 100 percent but does\n                        not exceed 400 percent of an amount equal to the poverty line for a family of the\n                        size involved.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(c)(1)(B)",
+    "source_subsections": [
+      "(c)(1)(B)",
+      "(c)(1)(B)(i)",
+      "(c)(1)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Rule For Certain Individuals Lawfully Present In The United States",
+    "text": "If\u2014\u2014a taxpayer has a household income which is not greater than 100 percent of an amount equal to the poverty line for a family of the size involved, and\u2014the taxpayer is an alien lawfully present in the United States, but is not eligible for the medicaid program under title XIX of the Social Security Act by reason of such alien status,the taxpayer shall, for purposes of the credit under this section, be treated as an applicable taxpayer with a household income which is equal to 100 percent of the poverty line for a family of the size involved.",
+    "conditions": [
+      "\u2014\u2014a taxpayer has a household income which is not greater than 100 percent of an amount equal to the poverty line for a family of the size involved, and\u2014the taxpayer is an alien lawfully present in the United States, but is not eligible for the medicaid program under title XIX of the Social Security Act by reason of such alien status,the taxpayer shall, for purposes of the credit under this section, be treated as an applicable taxpayer with a household income which is equal to 100 percent of the poverty line for a family of the size involved."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 1.0,
+        "text": "100 percent"
+      },
+      {
+        "label": "rate",
+        "value": 1.0,
+        "text": "100 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014a taxpayer has a household income which is not greater than 100 percent of an amount equal to the poverty line for a family of the size involved, and\u2014the taxpayer is an alien lawfully present in the United States, but is not eligible for the medicaid program under title XIX of the Social Security Act by reason of such alien status,the taxpayer shall, for purposes of the credit under this section, be treated as an applicable taxpayer with a household income which is equal to 100 percent of the poverty line for a family of the size involved."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(c)(1)(B)Special Rule For Certain Individuals Lawfully Present In The United States\u2014If\u2014I.R.C. \u00a7 36B(c)(1)(B)(i)\u2014a taxpayer has a household income which is not greater than 100 percent of an amount\n                           equal to the poverty line for a family of the size involved, andI.R.C. \u00a7 36B(c)(1)(B)(ii)\u2014the taxpayer is an alien lawfully present in the United States, but is not eligible\n                           for the medicaid program under title XIX of the Social Security Act by reason of such\n                           alien status,the taxpayer shall, for purposes of the credit under this section, be treated as an\n                           applicable taxpayer with a household income which is equal to 100 percent of the poverty\n                           line for a family of the size involved.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(c)(1)(C)",
+    "source_subsections": [
+      "(c)(1)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "Couples Must File Joint Return",
+    "text": "If the taxpayer is married (within the meaning of section7703) at the close of the taxable year, the taxpayer shall be treated as an applicable taxpayer only if the taxpayer and the taxpayer's spouse file a joint return for the taxable year.",
+    "conditions": [
+      "the taxpayer is married (within the meaning of section7703) at the close of the taxable year, the taxpayer shall be treated as an applicable taxpayer only",
+      "the taxpayer and the taxpayer's spouse file a joint return for the taxable year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the taxpayer is married (within the meaning of section7703) at the close of the taxable year, the taxpayer shall be treated as an applicable taxpayer only",
+        "the taxpayer and the taxpayer's spouse file a joint return for the taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "7703",
+        "reason": "arried (within the meaning of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(c)(1)(C)Married Couples Must File Joint Return\u2014If the taxpayer is married (within the meaning of section7703) at the close of the taxable year, the taxpayer shall be treated as an applicable\n                        taxpayer only if the taxpayer and the taxpayer's spouse file a joint return for the\n                        taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(c)(1)(D)",
+    "source_subsections": [
+      "(c)(1)(D)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Credit To Dependents",
+    "text": "No credit shall be allowed under this section to any individual with respect to whom a deduction under section151is allowable to another taxpayer for a taxable year beginning in the calendar year in which such individual's taxable year begins.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be allowed under this section to any individual with respect to whom a deduction under section151is allowable to another taxpayer for a taxable year beginning in the calendar year in which such individual's taxable year begins."
+    },
+    "cross_references": [
+      {
+        "section": "151i",
+        "reason": "ect to whom a deduction under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(c)(1)(D)Denial Of Credit To Dependents\u2014No credit shall be allowed under this section to any individual with respect to whom\n                        a deduction under section151is allowable to another taxpayer for a taxable year beginning in the calendar year\n                        in which such individual's taxable year begins.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(c)(1)(E)",
+    "source_subsections": [
+      "(c)(1)(E)"
+    ],
+    "rule_type": "limitation",
+    "title": "Rule For 2021 Through 2025",
+    "text": "In the case of a taxable year beginning after December 31, 2020, and before January 1, 2026, subparagraph (A) shall be applied without regard to \u201cbut does not exceed 400 percent.\u201d",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 4.0,
+        "text": "400 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a taxable year beginning after December 31, 2020, and before January 1, 2026, subparagraph (A) shall be applied without regard to \u201cbut does not exceed 400 percent.\u201d"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(c)(1)(E)Temporary Rule For 2021 Through 2025\u2014In the case of a taxable year beginning after December 31, 2020, and before January\n                        1, 2026, subparagraph (A) shall be applied without regard to \u201cbut does not exceed\n                        400 percent.\u201d",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(c)(2)(A)",
+    "source_subsections": [
+      "(c)(2)(A)",
+      "(c)(2)(A)(i)",
+      "(c)(2)(A)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201ccoverage month\u201d means, with respect to an applicable taxpayer, any month if\u2014\u2014as of the first day of such month the taxpayer, the taxpayer's spouse, or any dependent of the taxpayer is covered by a qualified health plan described in subsection (b)(2)(A) that was enrolled in through an Exchange established by the State under section1311of the Patient Protection and Affordable Care Act, and\u2014the premium for coverage under such plan for such month is paid by the taxpayer (or through advance payment of the credit under subsection (a) undersection 1412 of the Patient Protection and Affordable Care Act).",
+    "conditions": [
+      "\u2014\u2014as of the first day of such month the taxpayer, the taxpayer's spouse, or any dependent of the taxpayer is covered by a qualified health plan described in subsection (b)(2)(A) that was enrolled in through an Exchange established by the State under section1311of the Patient Protection and Affordable Care Act, and\u2014the premium for coverage under such plan for such month is paid by the taxpayer (or through advance payment of the credit under subsection (a) undersection 1412 of the Patient Protection and Affordable Care Act)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014as of the first day of such month the taxpayer, the taxpayer's spouse, or any dependent of the taxpayer is covered by a qualified health plan described in subsection (b)(2)(A) that was enrolled in through an Exchange established by the State under section1311of the Patient Protection and Affordable Care Act, and\u2014the premium for coverage under such plan for such month is paid by the taxpayer (or through advance payment of the credit under subsection (a) undersection 1412 of the Patient Protection and Affordable Care Act)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201ccoverage month\u201d means, with respect to an applicable taxpayer, any month"
+    },
+    "cross_references": [
+      {
+        "section": "1311o",
+        "reason": "stablished by the State under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(c)(2)(A)In General\u2014The term \u201ccoverage month\u201d means, with respect to an applicable taxpayer, any month\n                        if\u2014I.R.C. \u00a7 36B(c)(2)(A)(i)\u2014as of the first day of such month the taxpayer, the taxpayer's spouse, or any dependent\n                           of the taxpayer is covered by a qualified health plan described in subsection (b)(2)(A)\n                           that was enrolled in through an Exchange established by the State under section1311of the Patient Protection and Affordable Care Act, andI.R.C. \u00a7 36B(c)(2)(A)(ii)\u2014the premium for coverage under such plan for such month is paid by the taxpayer (or\n                           through advance payment of the credit under subsection (a) undersection 1412 of the Patient Protection and Affordable Care Act).",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(c)(2)(B)(i)",
+    "source_subsections": [
+      "(c)(2)(B)(i)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201ccoverage month\u201d shall not include any month with respect to an individual if for such month the individual is eligible for minimum essential coverage other than eligibility for coverage described in section5000A(f)(1)(C)(relating to coverage in the individual market).",
+    "conditions": [
+      "for such month the individual is eligible for minimum essential coverage other than eligibility for coverage described in section5000A(f)(1)(C)(relating to coverage in the individual market)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "for such month the individual is eligible for minimum essential coverage other than eligibility for coverage described in section5000A(f)(1)(C)(relating to coverage in the individual market)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201ccoverage month\u201d shall not include any month with respect to an individual"
+    },
+    "cross_references": [
+      {
+        "section": "5000A(f)(1)(C)",
+        "reason": "ity for coverage described in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(c)(2)(B)(i)In General\u2014The term \u201ccoverage month\u201d shall not include any month with respect to an individual\n                           if for such month the individual is eligible for minimum essential coverage other\n                           than eligibility for coverage described in section5000A(f)(1)(C)(relating to coverage in the individual market).",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(c)(2)(B)(ii)",
+    "source_subsections": [
+      "(c)(2)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Essential Coverage",
+    "text": "The term \u201dminimum essential coverage\u201d has the meaning given such term by section5000A(f).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201dminimum essential coverage\u201d has the meaning given such term by section5000A(f)."
+    },
+    "cross_references": [
+      {
+        "section": "5000A(f)",
+        "reason": "he meaning given such term by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(c)(2)(B)(ii)Minimum Essential Coverage\u2014The term \u201dminimum essential coverage\u201d has the meaning given such term by section5000A(f).",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(c)(2)(C)(i)",
+    "source_subsections": [
+      "(c)(2)(C)(i)",
+      "(c)(2)(C)(i)(I)",
+      "(c)(2)(C)(i)(II)"
+    ],
+    "rule_type": "definition",
+    "title": "Must Be Affordable",
+    "text": "Except as provided in clause (iii), an employee shall not be treated as eligible for minimum essential coverage if such coverage\u2014\u2014consists of an eligible employer-sponsored plan (as defined in section5000A(f)(2)), and\u2014the employee's required contribution (within the meaning of section5000A(e)(1)(B)) with respect to the plan exceeds 9.5 percent of the applicable taxpayer's household income.This clause shall also apply to an individual who is eligible to enroll in the plan by reason of a relationship the individual bears to the employee.",
+    "conditions": [
+      "such coverage\u2014\u2014consists of an eligible employer-sponsored plan (as defined in section5000A(f)(2)), and\u2014the employee's required contribution (within the meaning of section5000A(e)(1)(B)) with respect to the plan exceeds 9.5 percent of the applicable taxpayer's household income.This clause shall also apply to an individual who is eligible to enroll in the plan by reason of a relationship the individual bears to the employee."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.095,
+        "text": "9.5 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [
+      {
+        "applies_when": "clause (iii)",
+        "effect": "See referenced section"
+      }
+    ],
+    "logical_structure": {
+      "if": [
+        "such coverage\u2014\u2014consists of an eligible employer-sponsored plan (as defined in section5000A(f)(2)), and\u2014the employee's required contribution (within the meaning of section5000A(e)(1)(B)) with respect to the plan exceeds 9.5 percent of the applicable taxpayer's household income.This clause shall also apply to an individual who is eligible to enroll in the plan by reason of a relationship the individual bears to the employee."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as provided in clause (iii), an employee shall not be treated as eligible for minimum essential coverage"
+      ],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "5000A(f)(2)",
+        "reason": "sponsored plan (as defined in..."
+      },
+      {
+        "section": "5000A(e)(1)(B)",
+        "reason": "bution (within the meaning of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(c)(2)(C)(i)Coverage Must Be Affordable\u2014Except as provided in clause (iii), an employee shall not be treated as eligible for\n                           minimum essential coverage if such coverage\u2014I.R.C. \u00a7 36B(c)(2)(C)(i)(I)\u2014consists of an eligible employer-sponsored plan (as defined in section5000A(f)(2)), andI.R.C. \u00a7 36B(c)(2)(C)(i)(II)\u2014the employee's required contribution (within the meaning of section5000A(e)(1)(B)) with respect to the plan exceeds 9.5 percent of the applicable taxpayer's household\n                              income.This clause shall also apply to an individual who is eligible to enroll in the plan\n                              by reason of a relationship the individual bears to the employee.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(c)(2)(C)(ii)",
+    "source_subsections": [
+      "(c)(2)(C)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Must Provide Minimum Value",
+    "text": "Except as provided in clause (iii), an employee shall not be treated as eligible for minimum essential coverage if such coverage consists of an eligible employer-sponsored plan (as defined in section5000A(f)(2)) and the plan's share of the total allowed costs of benefits provided under the plan is less than 60 percent of such costs.",
+    "conditions": [
+      "such coverage consists of an eligible employer-sponsored plan (as defined in section5000A(f)(2)) and the plan's share of the total allowed costs of benefits provided under the plan is less than 60 percent of such costs."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.6,
+        "text": "60 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [
+      {
+        "applies_when": "clause (iii)",
+        "effect": "See referenced section"
+      }
+    ],
+    "logical_structure": {
+      "if": [
+        "such coverage consists of an eligible employer-sponsored plan (as defined in section5000A(f)(2)) and the plan's share of the total allowed costs of benefits provided under the plan is less than 60 percent of such costs."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as provided in clause (iii), an employee shall not be treated as eligible for minimum essential coverage"
+      ],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "5000A(f)(2)",
+        "reason": "sponsored plan (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(c)(2)(C)(ii)Coverage Must Provide Minimum Value\u2014Except as provided in clause (iii), an employee shall not be treated as eligible for\n                           minimum essential coverage if such coverage consists of an eligible employer-sponsored\n                           plan (as defined in section5000A(f)(2)) and the plan's share of the total allowed costs of benefits provided under the plan\n                           is less than 60 percent of such costs.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(c)(2)(C)(iii)",
+    "source_subsections": [
+      "(c)(2)(C)(iii)"
+    ],
+    "rule_type": "condition",
+    "title": "Or Family Must Not Be Covered Under Employer Plan",
+    "text": "Clauses (i) and (ii) shall not apply if the employee (or any individual described in the last sentence of clause (i)) is covered under the eligible employer-sponsored plan or the grandfathered health plan.",
+    "conditions": [
+      "the employee (or any individual described in the last sentence of clause (i)) is covered under the eligible employer-sponsored plan or the grandfathered health plan."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the employee (or any individual described in the last sentence of clause (i)) is covered under the eligible employer-sponsored plan or the grandfathered health plan."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Clauses (i) and (ii) shall not apply"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(c)(2)(C)(iii)Employee Or Family Must Not Be Covered Under Employer Plan\u2014Clauses (i) and (ii) shall not apply if the employee (or any individual described\n                           in the last sentence of clause (i)) is covered under the eligible employer-sponsored\n                           plan or the grandfathered health plan.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(c)(2)(C)(iv)",
+    "source_subsections": [
+      "(c)(2)(C)(iv)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "In the case of plan years beginning in any calendar year after 2014, the Secretary shall adjust the 9.5 percent under clause (i)(II) in the same manner as the percentages are adjusted under subsection (b)(3)(A)(ii).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.095,
+        "text": "9.5 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of plan years beginning in any calendar year after 2014, the Secretary shall adjust the 9.5 percent under clause (i)(II) in the same manner as the percentages are adjusted under subsection (b)(3)(A)(ii)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(c)(2)(C)(iv)Indexing\u2014In the case of plan years beginning in any calendar year after 2014, the Secretary\n                           shall adjust the 9.5 percent under clause (i)(II) in the same manner as the percentages\n                           are adjusted under subsection (b)(3)(A)(ii).",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(c)(3)(A)(i)",
+    "source_subsections": [
+      "(c)(3)(A)(i)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cqualified health plan\u201d has the meaning given such term by section 1301(a) of the Patient Protection and Affordable Care Act, except that such term shall not include a qualified health plan which is a catastrophic plan described in section 1302(e) of such Act.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "that such term shall not include a qualified health plan which is a catastrophic plan described in section 1302(e) of such Act."
+      ],
+      "result": "The term \u201cqualified health plan\u201d has the meaning given such term by section 1301(a) of the Patient Protection and Affordable Care Act,"
+    },
+    "cross_references": [
+      {
+        "section": "1301(a)",
+        "reason": "he meaning given such term by..."
+      },
+      {
+        "section": "1302(e)",
+        "reason": "atastrophic plan described in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(c)(3)(A)(i)In General\u2014The term \u201cqualified health plan\u201d has the meaning given such term by section 1301(a)\n                           of the Patient Protection and Affordable Care Act, except that such term shall not\n                           include a qualified health plan which is a catastrophic plan described in section\n                           1302(e) of such Act.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(c)(3)(A)(ii)",
+    "source_subsections": [
+      "(c)(3)(A)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Verification Process Required",
+    "text": "Such term shall not include any plan enrolled in through an Exchange, unless such Exchange provides a process for pre-enrollment verification through which any applicant may, beginning not later than August 1, verify with the Exchange the applicant's household income and eligibility for enrollment in such plan for plan years beginning in the subsequent year.",
+    "conditions": [
+      "such Exchange provides a process for pre-enrollment verification through which any applicant may, beginning not later than August 1, verify with the Exchange the applicant's household income and eligibility for enrollment in such plan for plan years beginning in the subsequent year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "such Exchange provides a process for pre-enrollment verification through which any applicant may, beginning not later than August 1, verify with the Exchange the applicant's household income and eligibility for enrollment in such plan for plan years beginning in the subsequent year."
+      ],
+      "except": [],
+      "result": "Such term shall not include any plan enrolled in through an Exchange,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(c)(3)(A)(ii)Pre-enrollment Verification Process Required\u2014Such term shall not include any plan enrolled in through an Exchange, unless such\n                           Exchange provides a process for pre-enrollment verification through which any applicant\n                           may, beginning not later than August 1, verify with the Exchange the applicant's household\n                           income and eligibility for enrollment in such plan for plan years beginning in the\n                           subsequent year.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(c)(3)(A)(iii)",
+    "source_subsections": [
+      "(c)(3)(A)(iii)",
+      "(c)(3)(A)(iii)(I)",
+      "(c)(3)(A)(iii)(II)"
+    ],
+    "rule_type": "definition",
+    "title": "In Case Of Certain Special Enrollment Periods",
+    "text": "Such term shall not include any plan enrolled in during a special enrollment period provided for by an Exchange\u2014\u2014on the basis of the relationship of the individual's expected household income to such a percentage of the poverty line (or such other amount) as is prescribed by the Secretary of Health and Human Services for purposes of such period, and\u2014not in connection with the occurrence of an event or change in circumstances specified by the Secretary of Health and Human Services for such purposes.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Such term shall not include any plan enrolled in during a special enrollment period provided for by an Exchange\u2014\u2014on the basis of the relationship of the individual's expected household income to such a percentage of the poverty line (or such other amount) as is prescribed by the Secretary of Health and Human Services for purposes of such period, and\u2014not in connection with the occurrence of an event or change in circumstances specified by the Secretary of Health and Human Services for such purposes."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(c)(3)(A)(iii)Exception In Case Of Certain Special Enrollment Periods\u2014Such term shall not include any plan enrolled in during a special enrollment period\n                           provided for by an Exchange\u2014I.R.C. \u00a7 36B(c)(3)(A)(iii)(I)\u2014on the basis of the relationship of the individual's expected household income to\n                              such a percentage of the poverty line (or such other amount) as is prescribed by the\n                              Secretary of Health and Human Services for purposes of such period, andI.R.C. \u00a7 36B(c)(3)(A)(iii)(II)\u2014not in connection with the occurrence of an event or change in circumstances specified\n                              by the Secretary of Health and Human Services for such purposes.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(c)(3)(B)",
+    "source_subsections": [
+      "(c)(3)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Health Plan",
+    "text": "The term \u201cgrandfathered health plan\u201d has the meaning given such term by section 1251 of the Patient Protection and Affordable Care Act.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cgrandfathered health plan\u201d has the meaning given such term by section 1251 of the Patient Protection and Affordable Care Act."
+    },
+    "cross_references": [
+      {
+        "section": "1251",
+        "reason": "he meaning given such term by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(c)(3)(B)Grandfathered Health Plan\u2014The term \u201cgrandfathered health plan\u201d has the meaning given such term by section 1251\n                        of the Patient Protection and Affordable Care Act.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(c)(4)(A)",
+    "source_subsections": [
+      "(c)(4)(A)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201ccoverage month\u201d shall not include any month with respect to an employee (or any spouse or dependent of such employee) if for such month the employee is provided a qualified small employer health reimbursement arrangement which constitutes affordable coverage.",
+    "conditions": [
+      "for such month the employee is provided a qualified small employer health reimbursement arrangement which constitutes affordable coverage."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "for such month the employee is provided a qualified small employer health reimbursement arrangement which constitutes affordable coverage."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201ccoverage month\u201d shall not include any month with respect to an employee (or any spouse or dependent of such employee)"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(c)(4)(A)In General\u2014The term \u201ccoverage month\u201d shall not include any month with respect to an employee\n                        (or any spouse or dependent of such employee) if for such month the employee is provided\n                        a qualified small employer health reimbursement arrangement which constitutes affordable\n                        coverage.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(c)(4)(B)",
+    "source_subsections": [
+      "(c)(4)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Double Benefit",
+    "text": "In the case of any employee who is provided a qualified small employer health reimbursement arrangement for any coverage month (determined without regard to subparagraph (A)), the credit otherwise allowable under subsection (A) to the taxpayer for such month shall be reduced (but not below zero) by the amount described in subparagraph (C)(i)(II) for such month.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any employee who is provided a qualified small employer health reimbursement arrangement for any coverage month (determined without regard to subparagraph (A)), the credit otherwise allowable under subsection (A) to the taxpayer for such month shall be reduced (but not below zero) by the amount described in subparagraph (C)(i)(II) for such month."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(c)(4)(B)Denial Of Double Benefit\u2014In the case of any employee who is provided a qualified small employer health reimbursement\n                        arrangement for any coverage month (determined without regard to subparagraph (A)),\n                        the credit otherwise allowable under subsection (A) to the taxpayer for such month\n                        shall be reduced (but not below zero) by the amount described in subparagraph (C)(i)(II)\n                        for such month.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(c)(4)(C)(i)",
+    "source_subsections": [
+      "(c)(4)(C)(i)",
+      "(c)(4)(C)(i)(I)",
+      "(c)(4)(C)(i)(II)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "The excess of\u2014\u2014the amount that would be paid by the employee as the premium for such month for self-only coverage under the second lowest cost silver plan offered in the relevant individual health insurance market, over\u20141/12 of the employee's permitted benefit (as defined in section9831(d)(3)(C)) under such arrangement, does not exceed--",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "subtraction",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The excess of\u2014\u2014the amount that would be paid by the employee as the premium for such month for self-only coverage under the second lowest cost silver plan offered in the relevant individual health insurance market, over\u20141/12 of the employee's permitted benefit (as defined in section9831(d)(3)(C)) under such arrangement, does not exceed--"
+    },
+    "cross_references": [
+      {
+        "section": "9831(d)(3)(C)",
+        "reason": "mitted benefit (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(c)(4)(C)(i)\u2014The excess of\u2014I.R.C. \u00a7 36B(c)(4)(C)(i)(I)\u2014the amount that would be paid by the employee as the premium for such month for self-only\n                              coverage under the second lowest cost silver plan offered in the relevant individual\n                              health insurance market, overI.R.C. \u00a7 36B(c)(4)(C)(i)(II)\u20141/12 of the employee's permitted benefit (as defined in section9831(d)(3)(C)) under such arrangement, does not exceed--",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(c)(4)(C)(ii)",
+    "source_subsections": [
+      "(c)(4)(C)(ii)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "1/12 of 9.5 percent of the employee's household income.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.095,
+        "text": "9.5 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "1/12 of 9.5 percent of the employee's household income."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(c)(4)(C)(ii)\u20141/12 of 9.5 percent of the employee's household income.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(c)(4)(D)",
+    "source_subsections": [
+      "(c)(4)(D)"
+    ],
+    "rule_type": "definition",
+    "title": "Small Employer Health Reimbursement Arrangement",
+    "text": "For purposes of this paragraph, the term \u201cqualified small employer health reimbursement arrangement\u201d has the meaning given such term by section9831(d)(2).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the term \u201cqualified small employer health reimbursement arrangement\u201d has the meaning given such term by section9831(d)(2)."
+    },
+    "cross_references": [
+      {
+        "section": "9831(d)(2)",
+        "reason": "he meaning given such term by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(c)(4)(D)Qualified Small Employer Health Reimbursement Arrangement\u2014For purposes of this paragraph, the term \u201cqualified small employer health reimbursement\n                        arrangement\u201d has the meaning given such term by section9831(d)(2).",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(c)(4)(E)",
+    "source_subsections": [
+      "(c)(4)(E)"
+    ],
+    "rule_type": "condition",
+    "title": "For Less Than Entire Year",
+    "text": "In the case of an employee who is provided a qualified small employer health reimbursement arrangement for less than an entire year, subparagraph (C)(i)(II) shall be applied by substituting \u201cthe number of months during the year for which such arrangement was provided\u201d for \u201c12\u201d.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of an employee who is provided a qualified small employer health reimbursement arrangement for less than an entire year, subparagraph (C)(i)(II) shall be applied by substituting \u201cthe number of months during the year for which such arrangement was provided\u201d for \u201c12\u201d."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(c)(4)(E)Coverage For Less Than Entire Year\u2014In the case of an employee who is provided a qualified small employer health reimbursement\n                        arrangement for less than an entire year, subparagraph (C)(i)(II) shall be applied\n                        by substituting \u201cthe number of months during the year for which such arrangement was\n                        provided\u201d for \u201c12\u201d.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(c)(4)(F)",
+    "source_subsections": [
+      "(c)(4)(F)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "In the case of plan years beginning in any calendar year after 2014, the Secretary shall adjust the 9.5 percent amount under subparagraph (C)(ii) in the same manner as the percentages are adjusted under subsection (b)(3)(A)(ii).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.095,
+        "text": "9.5 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of plan years beginning in any calendar year after 2014, the Secretary shall adjust the 9.5 percent amount under subparagraph (C)(ii) in the same manner as the percentages are adjusted under subsection (b)(3)(A)(ii)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(c)(4)(F)Indexing\u2014In the case of plan years beginning in any calendar year after 2014, the Secretary\n                        shall adjust the 9.5 percent amount under subparagraph (C)(ii) in the same manner\n                        as the percentages are adjusted under subsection (b)(3)(A)(ii).",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(c)(5)(A)",
+    "source_subsections": [
+      "(c)(5)(A)",
+      "(c)(5)(A)(i)",
+      "(c)(5)(A)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201ccoverage month\u201d shall not include, with respect to any individual covered by a qualified health plan enrolled in through an Exchange, any month beginning before the Exchange verifies, using applicable enrollment information that shall be provided or verified by the applicant, such individual's eligibility\u2014\u2014to enroll in the plan through the Exchange, and\u2014for any advance payment under section 1412 of the Patient Protection and Affordable Care Act of the credit allowed under this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201ccoverage month\u201d shall not include, with respect to any individual covered by a qualified health plan enrolled in through an Exchange, any month beginning before the Exchange verifies, using applicable enrollment information that shall be provided or verified by the applicant, such individual's eligibility\u2014\u2014to enroll in the plan through the Exchange, and\u2014for any advance payment under section 1412 of the Patient Protection and Affordable Care Act of the credit allowed under this section."
+    },
+    "cross_references": [
+      {
+        "section": "1412",
+        "reason": "for any advance payment under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(c)(5)(A)In General\u2014The term \u201ccoverage month\u201d shall not include, with respect to any individual covered\n                        by a qualified health plan enrolled in through an Exchange, any month beginning before\n                        the Exchange verifies, using applicable enrollment information that shall be provided\n                        or verified by the applicant, such individual's eligibility\u2014I.R.C. \u00a7 36B(c)(5)(A)(i)\u2014to enroll in the plan through the Exchange, andI.R.C. \u00a7 36B(c)(5)(A)(ii)\u2014for any advance payment under section 1412 of the Patient Protection and Affordable\n                           Care Act of the credit allowed under this section.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(c)(5)(B)(i)",
+    "source_subsections": [
+      "(c)(5)(B)(i)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Household income and family size.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Household income and family size."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(c)(5)(B)(i)\u2014Household income and family size.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(c)(5)(B)(ii)",
+    "source_subsections": [
+      "(c)(5)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Whether the individual is an eligible alien.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Whether the individual is an eligible alien."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(c)(5)(B)(ii)\u2014Whether the individual is an eligible alien.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(c)(5)(B)(iii)",
+    "source_subsections": [
+      "(c)(5)(B)(iii)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Any health coverage status or eligibility for coverage.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Any health coverage status or eligibility for coverage."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(c)(5)(B)(iii)\u2014Any health coverage status or eligibility for coverage.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(c)(5)(B)(iv)",
+    "source_subsections": [
+      "(c)(5)(B)(iv)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Place of residence.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Place of residence."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(c)(5)(B)(iv)\u2014Place of residence.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(c)(5)(B)(v)",
+    "source_subsections": [
+      "(c)(5)(B)(v)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Such other information as may be determined by the Secretary (in consultation with the Secretary of Health and Human Services) as necessary to the verification prescribed under subparagraph (A).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Such other information as may be determined by the Secretary (in consultation with the Secretary of Health and Human Services) as necessary to the verification prescribed under subparagraph (A)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(c)(5)(B)(v)\u2014Such other information as may be determined by the Secretary (in consultation with\n                           the Secretary of Health and Human Services) as necessary to the verification prescribed\n                           under subparagraph (A).",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(c)(5)(C)",
+    "source_subsections": [
+      "(c)(5)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Past Months",
+    "text": "In the case of a month that begins before verification prescribed by subparagraph (A), such month shall be treated as a coverage month if the Exchange verifies for such month (using applicable enrollment information that shall be provided or verified by the applicant) such individual's eligibility to have so enrolled and for any such advance payment.",
+    "conditions": [
+      "the Exchange verifies for such month (using applicable enrollment information that shall be provided or verified by the applicant) such individual's eligibility to have so enrolled and for any such advance payment."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the Exchange verifies for such month (using applicable enrollment information that shall be provided or verified by the applicant) such individual's eligibility to have so enrolled and for any such advance payment."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a month that begins before verification prescribed by subparagraph (A), such month shall be treated as a coverage month"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(c)(5)(C)Verification Of Past Months\u2014In the case of a month that begins before verification prescribed by subparagraph\n                        (A), such month shall be treated as a coverage month if the Exchange verifies for\n                        such month (using applicable enrollment information that shall be provided or verified\n                        by the applicant) such individual's eligibility to have so enrolled and for any such\n                        advance payment.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(c)(5)(D)",
+    "source_subsections": [
+      "(c)(5)(D)"
+    ],
+    "rule_type": "condition",
+    "title": "Participation; Coordination With Other Procedures For Determining Eligibility",
+    "text": "An individual shall not, solely by reason of failing to meet the requirements of this paragraph with respect to a month, be treated for such month as ineligible to enroll in a qualified health plan through an Exchange.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "An individual shall not, solely by reason of failing to meet the requirements of this paragraph with respect to a month, be treated for such month as ineligible to enroll in a qualified health plan through an Exchange."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(c)(5)(D)Exchange Participation; Coordination With Other Procedures For Determining Eligibility\u2014An individual shall not, solely by reason of failing to meet the requirements of this\n                        paragraph with respect to a month, be treated for such month as ineligible to enroll\n                        in a qualified health plan through an Exchange.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(c)(5)(E)",
+    "source_subsections": [
+      "(c)(5)(E)"
+    ],
+    "rule_type": "condition",
+    "title": "For Certain Special Enrollment Periods",
+    "text": "The Secretary may waive the application of subparagraph (A) in the case of an individual who enrolls in a qualified health plan through an Exchange for 1 or more months of the taxable year during a special enrollment period provided by the Exchange on the basis of a change in the family size of the individual.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary may waive the application of subparagraph (A) in the case of an individual who enrolls in a qualified health plan through an Exchange for 1 or more months of the taxable year during a special enrollment period provided by the Exchange on the basis of a change in the family size of the individual."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(c)(5)(E)Waiver For Certain Special Enrollment Periods\u2014The Secretary may waive the application of subparagraph (A) in the case of an individual\n                        who enrolls in a qualified health plan through an Exchange for 1 or more months of\n                        the taxable year during a special enrollment period provided by the Exchange on the\n                        basis of a change in the family size of the individual.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(c)(5)(F)",
+    "source_subsections": [
+      "(c)(5)(F)"
+    ],
+    "rule_type": "condition",
+    "title": "And Reliance On Third",
+    "text": "Party Sources\u2014An Exchange shall be permitted to use any data available to the Exchange and any reliable third-party sources in collecting information for verification by the applicant.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Party Sources\u2014An Exchange shall be permitted to use any data available to the Exchange and any reliable third-party sources in collecting information for verification by the applicant."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(c)(5)(F)Information And Reliance On Third-Party Sources\u2014An Exchange shall be permitted to use any data available to the Exchange and any reliable\n                        third-party sources in collecting information for verification by the applicant.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(c)(6)",
+    "source_subsections": [
+      "(c)(6)"
+    ],
+    "rule_type": "definition",
+    "title": "Compliance With Filing Requirements",
+    "text": "The term \u201ccoverage month\u201d shall not include, with respect to any individual covered by a qualified health plan enrolled in through an Exchange, any month for which the Exchange does not meet the requirements of section155.305(f)(4)(iii) of title 45, Code of Federal Regulations (as published in the Federal Register on June 25, 2025 (90 Fed. Reg. 27074), applied as though it applied to all plan years after 2025), with respect to the individual.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201ccoverage month\u201d shall not include, with respect to any individual covered by a qualified health plan enrolled in through an Exchange, any month for which the Exchange does not meet the requirements of section155.305(f)(4)(iii) of title 45, Code of Federal Regulations (as published in the Federal Register on June 25, 2025 (90 Fed. Reg. 27074), applied as though it applied to all plan years after 2025), with respect to the individual."
+    },
+    "cross_references": [
+      {
+        "section": "155",
+        "reason": "not meet the requirements of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(c)(6)Exchange Compliance With Filing Requirements\u2014The term \u201ccoverage month\u201d shall not include, with respect to any individual covered\n                     by a qualified health plan enrolled in through an Exchange, any month for which the\n                     Exchange does not meet the requirements of section155.305(f)(4)(iii) of title 45, Code of Federal Regulations (as published in the Federal Register on June 25, 2025\n                     (90 Fed. Reg. 27074), applied as though it applied to all plan years after 2025), with respect to the\n                     individual.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)"
+    ],
+    "rule_type": "computation",
+    "title": "Size",
+    "text": "The family size involved with respect to any taxpayer shall be equal to the number of individuals for whom the taxpayer is allowed a deduction under section151(relating to allowance of deduction for personal exemptions) for the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The family size involved with respect to any taxpayer shall be equal to the number of individuals for whom the taxpayer is allowed a deduction under section151(relating to allowance of deduction for personal exemptions) for the taxable year."
+    },
+    "cross_references": [
+      {
+        "section": "151",
+        "reason": "is allowed a deduction under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(d)(1)Family Size\u2014The family size involved with respect to any taxpayer shall be equal to the number\n                     of individuals for whom the taxpayer is allowed a deduction under section151(relating to allowance of deduction for personal exemptions) for the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(d)(2)(A)",
+    "source_subsections": [
+      "(d)(2)(A)",
+      "(d)(2)(A)(i)",
+      "(d)(2)(A)(ii)",
+      "(d)(2)(A)(ii)(I)",
+      "(d)(2)(A)(ii)(II)"
+    ],
+    "rule_type": "definition",
+    "title": "Income",
+    "text": "The term \u201chousehold income\u201d means, with respect to any taxpayer, an amount equal to the sum of\u2014\u2014the modified adjusted gross income of the taxpayer, plus\u2014the aggregate modified adjusted gross incomes of all other individuals who\u2014\u2014were taken into account in determining the taxpayer's family size under paragraph (1), and\u2014were required to file a return of tax imposed by section1for the taxable year.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201chousehold income\u201d means, with respect to any taxpayer, an amount equal to the sum of\u2014\u2014the modified adjusted gross income of the taxpayer, plus\u2014the aggregate modified adjusted gross incomes of all other individuals who\u2014\u2014were taken into account in determining the taxpayer's family size under paragraph (1), and\u2014were required to file a return of tax imposed by section1for the taxable year."
+    },
+    "cross_references": [
+      {
+        "section": "1f",
+        "reason": "le a return of tax imposed by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(d)(2)(A)Household Income\u2014The term \u201chousehold income\u201d means, with respect to any taxpayer, an amount equal to\n                        the sum of\u2014I.R.C. \u00a7 36B(d)(2)(A)(i)\u2014the modified adjusted gross income of the taxpayer, plusI.R.C. \u00a7 36B(d)(2)(A)(ii)\u2014the aggregate modified adjusted gross incomes of all other individuals who\u2014I.R.C. \u00a7 36B(d)(2)(A)(ii)(I)\u2014were taken into account in determining the taxpayer's family size under paragraph\n                              (1), andI.R.C. \u00a7 36B(d)(2)(A)(ii)(II)\u2014were required to file a return of tax imposed by section1for the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(d)(2)(B)",
+    "source_subsections": [
+      "(d)(2)(B)",
+      "(d)(2)(B)(i)",
+      "(d)(2)(B)(ii)",
+      "(d)(2)(B)(iii)"
+    ],
+    "rule_type": "definition",
+    "title": "Adjusted Gross Income",
+    "text": "The term \u201dmodified adjusted gross income\u201d means adjusted gross income increased by\u2014\u2014any amount excluded from gross income under section911,\u2014any amount of interest received or accrued by the taxpayer during the taxable year which is exempt from tax, and\u2014an amount equal to the portion of the taxpayer's social security benefits (as defined in section86(d)) which is not included in gross income under section86for the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201dmodified adjusted gross income\u201d means adjusted gross income increased by\u2014\u2014any amount excluded from gross income under section911,\u2014any amount of interest received or accrued by the taxpayer during the taxable year which is exempt from tax, and\u2014an amount equal to the portion of the taxpayer's social security benefits (as defined in section86(d)) which is not included in gross income under section86for the taxable year."
+    },
+    "cross_references": [
+      {
+        "section": "911",
+        "reason": "luded from gross income under..."
+      },
+      {
+        "section": "86(d)",
+        "reason": "urity benefits (as defined in..."
+      },
+      {
+        "section": "86f",
+        "reason": "ncluded in gross income under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(d)(2)(B)Modified Adjusted Gross Income\u2014The term \u201dmodified adjusted gross income\u201d means adjusted gross income increased by\u2014I.R.C. \u00a7 36B(d)(2)(B)(i)\u2014any amount excluded from gross income under section911,I.R.C. \u00a7 36B(d)(2)(B)(ii)\u2014any amount of interest received or accrued by the taxpayer during the taxable year\n                           which is exempt from tax, andI.R.C. \u00a7 36B(d)(2)(B)(iii)\u2014an amount equal to the portion of the taxpayer's social security benefits (as defined\n                           in section86(d)) which is not included in gross income under section86for the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(d)(3)(A)",
+    "source_subsections": [
+      "(d)(3)(A)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cpoverty line\u201d has the meaning given that term in section2110(c)(5)of the Social Security Act (42 U.S.C. 1397jj(c)(5)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cpoverty line\u201d has the meaning given that term in section2110(c)(5)of the Social Security Act (42 U.S.C. 1397jj(c)(5))."
+    },
+    "cross_references": [
+      {
+        "section": "2110(c)(5)",
+        "reason": "he meaning given that term in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(d)(3)(A)In General\u2014The term \u201cpoverty line\u201d has the meaning given that term in section2110(c)(5)of the Social Security Act (42 U.S.C. 1397jj(c)(5)).",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(d)(3)(B)",
+    "source_subsections": [
+      "(d)(3)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Line Used",
+    "text": "In the case of any qualified health plan offered through an Exchange for coverage during a taxable year beginning in a calendar year, the poverty line used shall be the most recently published poverty line as of the 1st day of the regular enrollment period for coverage during such calendar year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any qualified health plan offered through an Exchange for coverage during a taxable year beginning in a calendar year, the poverty line used shall be the most recently published poverty line as of the 1st day of the regular enrollment period for coverage during such calendar year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(d)(3)(B)Poverty Line Used\u2014In the case of any qualified health plan offered through an Exchange for coverage\n                        during a taxable year beginning in a calendar year, the poverty line used shall be\n                        the most recently published poverty line as of the 1st day of the regular enrollment\n                        period for coverage during such calendar year.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(e)(1)",
+    "source_subsections": [
+      "(e)(1)",
+      "(e)(1)(A)",
+      "(e)(1)(B)",
+      "(e)(1)(B)(i)",
+      "(e)(1)(B)(i)(I)",
+      "(e)(1)(B)(i)(II)",
+      "(e)(1)(B)(i)(II)(aa)",
+      "(e)(1)(B)(i)(II)(bb)",
+      "(e)(1)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "If 1 or more individuals for whom a taxpayer is allowed a deduction under section151(relating to allowance of deduction for personal exemptions) for the taxable year (including the taxpayer or his spouse) are individuals who are not lawfully present or, in the case of aliens who are lawfully present, are not eligible aliens\u2014\u2014the aggregate amount of premiums otherwise taken into account under clauses (i) and (ii) of subsection (b)(2)(A) shall be reduced by the portion (if any) of such premiums which is attributable to such individuals, and\u2014for purposes of applying this section, the determination as to what percentage a taxpayer's household income bears to the poverty level for a family of the size involved shall be made under one of the following methods:\u2014A method under which\u2014\u2014the taxpayer's family size is determined by not taking such individuals into account, and\u2014the taxpayer's household income is equal to the product of the taxpayer's household income (determined without regard to this subsection) and a fraction\u2014\u2014the numerator of which is the poverty line for the taxpayer's family size determined after application of subclause (I), and\u2014the denominator of which is the poverty line for the taxpayer's family size determined without regard to subclause (I).\u2014A comparable method reaching the same result as the method under clause (i).",
+    "conditions": [
+      "1 or more individuals for whom a taxpayer is allowed a deduction under section151(relating to allowance of deduction for personal exemptions) for the taxable year (including the taxpayer or his spouse) are individuals who are not lawfully present or, in the case of aliens who are lawfully present, are not eligible aliens\u2014\u2014the aggregate amount of premiums otherwise taken into account under clauses (i) and (ii) of subsection (b)(2)(A) shall be reduced by the portion (",
+      "any) of such premiums which is attributable to such individuals, and\u2014for purposes of applying this section, the determination as to what percentage a taxpayer's household income bears to the poverty level for a family of the size involved shall be made under one of the following methods:\u2014A method under which\u2014\u2014the taxpayer's family size is determined by not taking such individuals into account, and\u2014the taxpayer's household income is equal to the product of the taxpayer's household income (determined without regard to this subsection) and a fraction\u2014\u2014the numerator of which is the poverty line for the taxpayer's family size determined after application of subclause (I), and\u2014the denominator of which is the poverty line for the taxpayer's family size determined without regard to subclause (I).\u2014A comparable method reaching the same result as the method under clause (i)."
+    ],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "1 or more individuals for whom a taxpayer is allowed a deduction under section151(relating to allowance of deduction for personal exemptions) for the taxable year (including the taxpayer or his spouse) are individuals who are not lawfully present or, in the case of aliens who are lawfully present, are not eligible aliens\u2014\u2014the aggregate amount of premiums otherwise taken into account under clauses (i) and (ii) of subsection (b)(2)(A) shall be reduced by the portion (",
+        "any) of such premiums which is attributable to such individuals, and\u2014for purposes of applying this section, the determination as to what percentage a taxpayer's household income bears to the poverty level for a family of the size involved shall be made under one of the following methods:\u2014A method under which\u2014\u2014the taxpayer's family size is determined by not taking such individuals into account, and\u2014the taxpayer's household income is equal to the product of the taxpayer's household income (determined without regard to this subsection) and a fraction\u2014\u2014the numerator of which is the poverty line for the taxpayer's family size determined after application of subclause (I), and\u2014the denominator of which is the poverty line for the taxpayer's family size determined without regard to subclause (I).\u2014A comparable method reaching the same result as the method under clause (i)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "151",
+        "reason": "is allowed a deduction under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(e)(1)In General\u2014If 1 or more individuals for whom a taxpayer is allowed a deduction under section151(relating to allowance of deduction for personal exemptions) for the taxable year\n                     (including the taxpayer or his spouse) are individuals who are not lawfully present\n                     or, in the case of aliens who are lawfully present, are not eligible aliens\u2014I.R.C. \u00a7 36B(e)(1)(A)\u2014the aggregate amount of premiums otherwise taken into account under clauses (i) and\n                        (ii) of subsection (b)(2)(A) shall be reduced by the portion (if any) of such premiums\n                        which is attributable to such individuals, andI.R.C. \u00a7 36B(e)(1)(B)\u2014for purposes of applying this section, the determination as to what percentage a taxpayer's\n                        household income bears to the poverty level for a family of the size involved shall\n                        be made under one of the following methods:I.R.C. \u00a7 36B(e)(1)(B)(i)\u2014A method under which\u2014I.R.C. \u00a7 36B(e)(1)(B)(i)(I)\u2014the taxpayer's family size is determined by not taking such individuals into account,\n                              andI.R.C. \u00a7 36B(e)(1)(B)(i)(II)\u2014the taxpayer's household income is equal to the product of the taxpayer's household\n                              income (determined without regard to this subsection) and a fraction\u2014I.R.C. \u00a7 36B(e)(1)(B)(i)(II)(aa)\u2014the numerator of which is the poverty line for the taxpayer's family size determined\n                                 after application of subclause (I), andI.R.C. \u00a7 36B(e)(1)(B)(i)(II)(bb)\u2014the denominator of which is the poverty line for the taxpayer's family size determined\n                                 without regard to subclause (I).I.R.C. \u00a7 36B(e)(1)(B)(ii)\u2014A comparable method reaching the same result as the method under clause (i).",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(e)(2)(A)",
+    "source_subsections": [
+      "(e)(2)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "An individual shall be treated as lawfully present only if the individual is, and is reasonably expected to be for the entire period of enrollment for which the credit under this section is being claimed, a citizen or national of the United States or an alien lawfully present in the United States.",
+    "conditions": [
+      "the individual is, and is reasonably expected to be for the entire period of enrollment for which the credit under this section is being claimed, a citizen or national of the United States or an alien lawfully present in the United States."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the individual is, and is reasonably expected to be for the entire period of enrollment for which the credit under this section is being claimed, a citizen or national of the United States or an alien lawfully present in the United States."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "An individual shall be treated as lawfully present only"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(e)(2)(A)In General\u2014An individual shall be treated as lawfully present only if the individual is, and\n                        is reasonably expected to be for the entire period of enrollment for which the credit\n                        under this section is being claimed, a citizen or national of the United States or\n                        an alien lawfully present in the United States.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(e)(2)(B)",
+    "source_subsections": [
+      "(e)(2)(B)",
+      "(e)(2)(B)(i)",
+      "(e)(2)(B)(ii)",
+      "(e)(2)(B)(iii)"
+    ],
+    "rule_type": "definition",
+    "title": "Aliens",
+    "text": "An individual who is an alien and lawfully present shall be treated as an eligible alien if such individual is, and is reasonably expected to be for the entire period of enrollment for which the credit under this section is being claimed\u2014\u2014an alien who is lawfully admitted for permanent residence under the Immigration and Nationality Act (8 U.S.C. 1101et seq.),\u2014an alien who has been granted the status of Cuban and Haitian entrant, as defined in section 501(e) of the Refugee Education Assistance Act of 1980 (Public Law 96\u2013422); or\u2014an individual who lawfully resides in the United States in accordance with a Compact of Free Association referred to in section 402(b)(2)(G) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (8 U.S.C. 1612(b)(2)(G)).",
+    "conditions": [
+      "such individual is, and is reasonably expected to be for the entire period of enrollment for which the credit under this section is being claimed\u2014\u2014an alien who is lawfully admitted for permanent residence under the Immigration and Nationality Act (8 U.S.C. 1101et seq.),\u2014an alien who has been granted the status of Cuban and Haitian entrant, as defined in section 501(e) of the Refugee Education Assistance Act of 1980 (Public Law 96\u2013422); or\u2014an individual who lawfully resides in the United States in accordance with a Compact of Free Association referred to in section 402(b)(2)(G) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (8 U.S.C. 1612(b)(2)(G))."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such individual is, and is reasonably expected to be for the entire period of enrollment for which the credit under this section is being claimed\u2014\u2014an alien who is lawfully admitted for permanent residence under the Immigration and Nationality Act (8 U.S.C. 1101et seq.),\u2014an alien who has been granted the status of Cuban and Haitian entrant, as defined in section 501(e) of the Refugee Education Assistance Act of 1980 (Public Law 96\u2013422); or\u2014an individual who lawfully resides in the United States in accordance with a Compact of Free Association referred to in section 402(b)(2)(G) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (8 U.S.C. 1612(b)(2)(G))."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "An individual who is an alien and lawfully present shall be treated as an eligible alien"
+    },
+    "cross_references": [
+      {
+        "section": "501(e)",
+        "reason": "aitian entrant, as defined in..."
+      },
+      {
+        "section": "402(b)(2)(G)",
+        "reason": "ee Association referred to in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(e)(2)(B)Eligible Aliens\u2014An individual who is an alien and lawfully present shall be treated as an eligible\n                        alien if such individual is, and is reasonably expected to be for the entire period\n                        of enrollment for which the credit under this section is being claimed\u2014I.R.C. \u00a7 36B(e)(2)(B)(i)\u2014an alien who is lawfully admitted for permanent residence under the Immigration and\n                           Nationality Act (8 U.S.C. 1101et seq.),I.R.C. \u00a7 36B(e)(2)(B)(ii)\u2014an alien who has been granted the status of Cuban and Haitian entrant, as defined\n                           in section 501(e) of the Refugee Education Assistance Act of 1980 (Public Law 96\u2013422); orI.R.C. \u00a7 36B(e)(2)(B)(iii)\u2014an individual who lawfully resides in the United States in accordance with a Compact\n                           of Free Association referred to in section 402(b)(2)(G) of the Personal Responsibility\n                           and Work Opportunity Reconciliation Act of 1996 (8 U.S.C. 1612(b)(2)(G)).",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(e)(3)",
+    "source_subsections": [
+      "(e)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Authority",
+    "text": "The Secretary of Health and Human Services, in consultation with the Secretary, shall prescribe rules setting forth the methods by which calculations of family size and household income are made for purposes of this subsection. Such rules shall be designed to ensure that the least burden is placed on individuals enrolling in qualified health plans through an Exchange and taxpayers eligible for the credit allowable under this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary of Health and Human Services, in consultation with the Secretary, shall prescribe rules setting forth the methods by which calculations of family size and household income are made for purposes of this subsection. Such rules shall be designed to ensure that the least burden is placed on individuals enrolling in qualified health plans through an Exchange and taxpayers eligible for the credit allowable under this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(e)(3)Secretarial Authority\u2014The Secretary of Health and Human Services, in consultation with the Secretary, shall\n                     prescribe rules setting forth the methods by which calculations of family size and\n                     household income are made for purposes of this subsection. Such rules shall be designed\n                     to ensure that the least burden is placed on individuals enrolling in qualified health\n                     plans through an Exchange and taxpayers eligible for the credit allowable under this\n                     section.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(f)(1)",
+    "source_subsections": [
+      "(f)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The amount of the credit allowed under this section for any taxable year shall be reduced (but not below zero) by the amount of any advance payment of such credit undersection 1412 of the Patient Protection and Affordable Care Act.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of the credit allowed under this section for any taxable year shall be reduced (but not below zero) by the amount of any advance payment of such credit undersection 1412 of the Patient Protection and Affordable Care Act."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(f)(1)In General\u2014The amount of the credit allowed under this section for any taxable year shall be\n                     reduced (but not below zero) by the amount of any advance payment of such credit undersection 1412 of the Patient Protection and Affordable Care Act.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(f)(2)(A)",
+    "source_subsections": [
+      "(f)(2)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "If the advance payments to a taxpayer under section 1412 of the Patient Protection and Affordable Care Act for a taxable year exceed the credit allowed by this section (determined without regard to paragraph (1)), the tax imposed by this chapter for the taxable year shall be increased by the amount of such excess.",
+    "conditions": [
+      "the advance payments to a taxpayer under section 1412 of the Patient Protection and Affordable Care Act for a taxable year exceed the credit allowed by this section (determined without regard to paragraph (1)), the tax imposed by this chapter for the taxable year shall be increased by the amount of such excess."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the advance payments to a taxpayer under section 1412 of the Patient Protection and Affordable Care Act for a taxable year exceed the credit allowed by this section (determined without regard to paragraph (1)), the tax imposed by this chapter for the taxable year shall be increased by the amount of such excess."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "1412",
+        "reason": "payments to a taxpayer under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(f)(2)(A)In General\u2014If the advance payments to a taxpayer under section 1412 of the Patient Protection\n                        and Affordable Care Act for a taxable year exceed the credit allowed by this section\n                        (determined without regard to paragraph (1)), the tax imposed by this chapter for\n                        the taxable year shall be increased by the amount of such excess.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(f)(2)(B)(i)",
+    "source_subsections": [
+      "(f)(2)(B)(i)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "In the case of a taxpayer whose household income is less than 400 percent of the poverty line for the size of the family involved for the taxable year, the amount of the increase under subparagraph (A) shall in no event exceed the applicable dollar amount determined in accordance with the following table (one-half of such amount in the case of a taxpayer whose tax is determined under section1(c)for the taxable year):If the household income (expressed as a percent of poverty line) is:The applicable dollar amount is:Less than 200%$600At least 200% but less than 300%$1,500At least 300% but less than 400%$2,500.",
+    "conditions": [
+      "the household income (expressed as a percent of poverty line) is:The applicable dollar amount is:Less than 200%$600At least 200% but less than 300%$1,500At least 300% but less than 400%$2,500."
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 600,
+        "text": "$600"
+      },
+      {
+        "label": "amount",
+        "value": 1500,
+        "text": "$1,500"
+      },
+      {
+        "label": "amount",
+        "value": 2500,
+        "text": "$2,500"
+      }
+    ],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 4.0,
+        "text": "400 percent"
+      },
+      {
+        "label": "rate",
+        "value": 2.0,
+        "text": "200%"
+      },
+      {
+        "label": "rate",
+        "value": 2.0,
+        "text": "200%"
+      },
+      {
+        "label": "rate",
+        "value": 3.0,
+        "text": "300%"
+      },
+      {
+        "label": "rate",
+        "value": 3.0,
+        "text": "300%"
+      },
+      {
+        "label": "rate",
+        "value": 4.0,
+        "text": "400%"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the household income (expressed as a percent of poverty line) is:The applicable dollar amount is:Less than 200%$600At least 200% but less than 300%$1,500At least 300% but less than 400%$2,500."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a taxpayer whose household income is less than 400 percent of the poverty line for the size of the family involved for the taxable year, the amount of the increase under subparagraph (A) shall in no event exceed the applicable dollar amount determined in accordance with the following table (one-half of such amount in the case of a taxpayer whose tax is determined under section1(c)for the taxable year):"
+    },
+    "cross_references": [
+      {
+        "section": "1(c)",
+        "reason": "whose tax is determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(f)(2)(B)(i)In General\u2014In the case of a taxpayer whose household income is less than 400 percent of the poverty\n                           line for the size of the family involved for the taxable year, the amount of the increase\n                           under subparagraph (A) shall in no event exceed the applicable dollar amount determined\n                           in accordance with the following table (one-half of such amount in the case of a taxpayer\n                           whose tax is determined under section1(c)for the taxable year):If the household income (expressed as a percent of poverty line) is:The applicable dollar amount is:Less than 200%$600At least 200% but less than 300%$1,500At least 300% but less than 400%$2,500.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(f)(2)(B)(ii)",
+    "source_subsections": [
+      "(f)(2)(B)(ii)",
+      "(f)(2)(B)(ii)(I)",
+      "(f)(2)(B)(ii)(II)"
+    ],
+    "rule_type": "computation",
+    "title": "Of Amount",
+    "text": "In the case of any calendar year beginning after 2014, each of the dollar amounts in the table contained under clause (i) shall be increased by an amount equal to\u2014\u2014such dollar amount, multiplied by\u2014the cost-of-living adjustment determined under section1(f)(3)for the calendar year, determined by substituting \u201ccalendar year 2013\u201d for \u201ccalendar year 2016\u201d in subparagraph(A)(ii)thereof.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any calendar year beginning after 2014, each of the dollar amounts in the table contained under clause (i) shall be increased by an amount equal to\u2014\u2014such dollar amount, multiplied by\u2014the cost-of-living adjustment determined under section1(f)(3)for the calendar year, determined by substituting \u201ccalendar year 2013\u201d for \u201ccalendar year 2016\u201d in subparagraph(A)(ii)thereof."
+    },
+    "cross_references": [
+      {
+        "section": "1(f)(3)",
+        "reason": "g adjustment determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(f)(2)(B)(ii)Indexing Of Amount\u2014In the case of any calendar year beginning after 2014, each of the dollar amounts\n                           in the table contained under clause (i) shall be increased by an amount equal to\u2014I.R.C. \u00a7 36B(f)(2)(B)(ii)(I)\u2014such dollar amount, multiplied byI.R.C. \u00a7 36B(f)(2)(B)(ii)(II)\u2014the cost-of-living adjustment determined under section1(f)(3)for the calendar year, determined by substituting \u201ccalendar year 2013\u201d for \u201ccalendar\n                              year 2016\u201d in subparagraph(A)(ii)thereof.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(f)(2)(B)(iii)",
+    "source_subsections": [
+      "(f)(2)(B)(iii)"
+    ],
+    "rule_type": "condition",
+    "title": "Modification Of Limitation On Increase",
+    "text": "In the case of any taxable year beginning in 2020, for any taxpayer who files for such taxable year an income tax return reconciling any advance payment of the credit under this section, the Secretary shall treat subparagraph (A) as not applying.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any taxable year beginning in 2020, for any taxpayer who files for such taxable year an income tax return reconciling any advance payment of the credit under this section, the Secretary shall treat subparagraph (A) as not applying."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(f)(2)(B)(iii)Temporary Modification Of Limitation On Increase\u2014In the case of any taxable year beginning in 2020, for any taxpayer who files for\n                           such taxable year an income tax return reconciling any advance payment of the credit\n                           under this section, the Secretary shall treat subparagraph (A) as not applying.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(f)(3)(A)",
+    "source_subsections": [
+      "(f)(3)(A)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The level of coverage described insection 1302(d) of the Patient Protection and Affordable Care Actand the period such coverage was in effect.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The level of coverage described insection 1302(d) of the Patient Protection and Affordable Care Actand the period such coverage was in effect."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(f)(3)(A)\u2014The level of coverage described insection 1302(d) of the Patient Protection and Affordable Care Actand the period such coverage was in effect.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(f)(3)(B)",
+    "source_subsections": [
+      "(f)(3)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The total premium for the coverage without regard to the credit under this section or cost-sharing reductions under section 1402 of such Act.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The total premium for the coverage without regard to the credit under this section or cost-sharing reductions under section 1402 of such Act."
+    },
+    "cross_references": [
+      {
+        "section": "1402",
+        "reason": "cost-sharing reductions under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(f)(3)(B)\u2014The total premium for the coverage without regard to the credit under this section\n                        or cost-sharing reductions under section 1402 of such Act.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(f)(3)(C)",
+    "source_subsections": [
+      "(f)(3)(C)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The aggregate amount of any advance payment of such credit or reductions under section 1412 of such Act.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The aggregate amount of any advance payment of such credit or reductions under section 1412 of such Act."
+    },
+    "cross_references": [
+      {
+        "section": "1412",
+        "reason": "ch credit or reductions under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(f)(3)(C)\u2014The aggregate amount of any advance payment of such credit or reductions under section\n                        1412 of such Act.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(f)(3)(D)",
+    "source_subsections": [
+      "(f)(3)(D)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The name, address, and TIN of the primary insured and the name and TIN of each other individual obtaining coverage under the policy.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The name, address, and TIN of the primary insured and the name and TIN of each other individual obtaining coverage under the policy."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(f)(3)(D)\u2014The name, address, and TIN of the primary insured and the name and TIN of each other\n                        individual obtaining coverage under the policy.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(f)(3)(E)",
+    "source_subsections": [
+      "(f)(3)(E)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Any information provided to the Exchange, including any change of circumstances, necessary to determine eligibility for, and the amount of, such credit.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Any information provided to the Exchange, including any change of circumstances, necessary to determine eligibility for, and the amount of, such credit."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(f)(3)(E)\u2014Any information provided to the Exchange, including any change of circumstances, necessary\n                        to determine eligibility for, and the amount of, such credit.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(f)(3)(F)",
+    "source_subsections": [
+      "(f)(3)(F)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Information necessary to determine whether a taxpayer has received excess advance payments.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Information necessary to determine whether a taxpayer has received excess advance payments."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(f)(3)(F)\u2014Information necessary to determine whether a taxpayer has received excess advance\n                        payments.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(g)(1)",
+    "source_subsections": [
+      "(g)(1)",
+      "(g)(1)(A)",
+      "(g)(1)(B)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "For purposes of this section, in the case of a taxpayer who has received, or has been approved to receive, unemployment compensation for any week beginning during 2021, for the taxable year in which such week begins\u2014\u2014such taxpayer shall be treated as an applicable taxpayer, and\u2014there shall not be taken into account any household income of the taxpayer in excess of 133 percent of the poverty line for a family of the size involved.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "subtraction",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 1.33,
+        "text": "133 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, in the case of a taxpayer who has received, or has been approved to receive, unemployment compensation for any week beginning during 2021, for the taxable year in which such week begins\u2014\u2014such taxpayer shall be treated as an applicable taxpayer, and\u2014there shall not be taken into account any household income of the taxpayer in excess of 133 percent of the poverty line for a family of the size involved."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(g)(1)In General\u2014For purposes of this section, in the case of a taxpayer who has received, or has been\n                     approved to receive, unemployment compensation for any week beginning during 2021,\n                     for the taxable year in which such week begins\u2014I.R.C. \u00a7 36B(g)(1)(A)\u2014such taxpayer shall be treated as an applicable taxpayer, andI.R.C. \u00a7 36B(g)(1)(B)\u2014there shall not be taken into account any household income of the taxpayer in excess\n                        of 133 percent of the poverty line for a family of the size involved.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(g)(2)",
+    "source_subsections": [
+      "(g)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Compensation",
+    "text": "For purposes of this subsection, the term \u201cunemployment compensation\u201d has the meaning given such term in section85(b).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection, the term \u201cunemployment compensation\u201d has the meaning given such term in section85(b)."
+    },
+    "cross_references": [
+      {
+        "section": "85(b)",
+        "reason": "he meaning given such term in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(g)(2)Unemployment Compensation\u2014For purposes of this subsection, the term \u201cunemployment compensation\u201d has the meaning\n                     given such term in section85(b).",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(g)(3)",
+    "source_subsections": [
+      "(g)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Unemployment Compensation",
+    "text": "For purposes of this subsection, a taxpayer shall not be treated as having received (or been approved to receive) unemployment compensation for any week unless such taxpayer provides self attestation of, and such documentation as the Secretary shall prescribe which demonstrates, such receipt or approval.",
+    "conditions": [
+      "such taxpayer provides self attestation of, and such documentation as the Secretary shall prescribe which demonstrates, such receipt or approval."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "such taxpayer provides self attestation of, and such documentation as the Secretary shall prescribe which demonstrates, such receipt or approval."
+      ],
+      "except": [],
+      "result": "For purposes of this subsection, a taxpayer shall not be treated as having received (or been approved to receive) unemployment compensation for any week"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(g)(3)Evidence Of Unemployment Compensation\u2014For purposes of this subsection, a taxpayer shall not be treated as having received\n                     (or been approved to receive) unemployment compensation for any week unless such taxpayer\n                     provides self attestation of, and such documentation as the Secretary shall prescribe\n                     which demonstrates, such receipt or approval.",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(g)(4)(A)",
+    "source_subsections": [
+      "(g)(4)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "Return Requirement",
+    "text": "Paragraph (1)(A) shall not affect the application of subsection (c)(1)(C).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Paragraph (1)(A) shall not affect the application of subsection (c)(1)(C)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(g)(4)(A)Joint Return Requirement\u2014Paragraph (1)(A) shall not affect the application of subsection (c)(1)(C).",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(g)(4)(B)",
+    "source_subsections": [
+      "(g)(4)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Income And Affordabillity",
+    "text": "Paragraph (1)(B) shall not apply to any determination of household income for purposes of paragraph (2)(C)(i)(II) or (4)(C)(ii) of subsection (c).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Paragraph (1)(B) shall not apply to any determination of household income for purposes of paragraph (2)(C)(i)(II) or (4)(C)(ii) of subsection (c)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(g)(4)(B)Household Income And Affordabillity\u2014Paragraph (1)(B) shall not apply to any determination of household income for purposes\n                        of paragraph (2)(C)(i)(II) or (4)(C)(ii) of subsection (c).",
+    "definitions": null
+  },
+  {
+    "section": "36B",
+    "subsection": "(h)",
+    "source_subsections": [
+      "(h)",
+      "(h)(1)",
+      "(h)(2)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section, including regulations which provide for\u2014\u2014the coordination of the credit allowed under this section with the program for advance payment of the credit undersection 1412 of the Patient Protection and Affordable Care Act, and\u2014the application of subsection (f) where the filing status of the taxpayer for a taxable year is different from such status used for determining the advance payment of the credit.",
+    "conditions": [
+      "the filing status of the taxpayer for a taxable year is different from such status used for determining the advance payment of the credit."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the filing status of the taxpayer for a taxable year is different from such status used for determining the advance payment of the credit."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section, including regulations which provide for\u2014\u2014the coordination of the credit allowed under this section with the program for advance payment of the credit undersection 1412 of the Patient Protection and Affordable Care Act, and\u2014the application of subsection (f)"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 36B(h)Regulations\u2014The Secretary shall prescribe such regulations as may be necessary to carry out the\n                  provisions of this section, including regulations which provide for\u2014I.R.C. \u00a7 36B(h)(1)\u2014the coordination of the credit allowed under this section with the program for advance\n                     payment of the credit undersection 1412 of the Patient Protection and Affordable Care Act, andI.R.C. \u00a7 36B(h)(2)\u2014the application of subsection (f) where the filing status of the taxpayer for a taxable\n                     year is different from such status used for determining the advance payment of the\n                     credit.",
+    "definitions": null
+  }
+]

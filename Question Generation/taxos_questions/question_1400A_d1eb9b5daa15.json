@@ -1,0 +1,22 @@
+{
+  "id": "d1eb9b5daa15",
+  "section": "1400A",
+  "citation": "I.R.C. \u00a7 1400A(a)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 1400A(a) is discussed as follows: 'I.R.C. \u00a7 1400A(a)In General\u2014In  the case of the  District of Columbia Enterprise Zone, subparagraph ...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 1400A(a)?",
+  "difficulty": 1,
+  "choices": [
+    "$16,500,000.00",
+    "$7,500,000.00",
+    "$15,000,000.00",
+    "$13,500,000.00",
+    "$30,000,000.00"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies $15,000,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1400A(a)"
+  ]
+}

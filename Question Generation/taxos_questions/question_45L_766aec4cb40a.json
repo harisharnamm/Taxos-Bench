@@ -1,0 +1,22 @@
+{
+  "id": "766aec4cb40a",
+  "section": "45L",
+  "citation": "I.R.C. \u00a7 45L(a)(2)(A)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 45L(a)(2)(A) is discussed as follows: 'I.R.C. \u00a7 45L(a)(2)(A)\u2014in the case of a dwelling unit which is eligible to participate in the Energy ...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 45L(a)(2)(A)?",
+  "difficulty": 1,
+  "choices": [
+    "$1,250.00",
+    "$2,250.00",
+    "$5,000.00",
+    "$2,500.00",
+    "$2,750.00"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies $2,500.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 45L(a)(2)(A)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "f1649baf8fb9",
+  "section": "585",
+  "citation": "I.R.C. \u00a7 585(c)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 585(c) is discussed as follows: 'I.R.C. \u00a7 585(c)Section Not To Apply To Large BanksI.R.C. \u00a7 585(c)(1)In General\u2014In  the case of a lar...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 585(c)?",
+  "difficulty": 1,
+  "choices": [
+    "$250,000,000.00",
+    "$500,000,000.00",
+    "$1,000,000,000.00",
+    "$550,000,000.00",
+    "$450,000,000.00"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $500,000,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 585(c)"
+  ]
+}

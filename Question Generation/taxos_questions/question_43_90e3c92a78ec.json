@@ -1,0 +1,22 @@
+{
+  "id": "90e3c92a78ec",
+  "section": "43",
+  "citation": "I.R.C. \u00a7 43(b)(3)(A)(i)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 43(b)(3)(A)(i) is discussed as follows: 'I.R.C. \u00a7 43(b)(3)(A)(i)\u2014$28,  multiplied by...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 43(b)(3)(A)(i)?",
+  "difficulty": 1,
+  "choices": [
+    "$30.80",
+    "$28.00",
+    "$14.00",
+    "$56.00",
+    "$25.20"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $28.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 43(b)(3)(A)(i)"
+  ]
+}

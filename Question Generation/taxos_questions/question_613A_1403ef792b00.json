@@ -1,0 +1,22 @@
+{
+  "id": "1403ef792b00",
+  "section": "613A",
+  "citation": "I.R.C. \u00a7 613A(c)(6)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 613A(c)(6) is discussed as follows: 'I.R.C. \u00a7 613A(c)(6)Oil And Natural Gas Produced From Marginal PropertiesI.R.C. \u00a7 613A(c)(6)(A)In Gen...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 613A(c)(6)?",
+  "difficulty": 1,
+  "choices": [
+    "75.0%",
+    "37.5%",
+    "35.0%",
+    "15.0%",
+    "25.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 25.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 613A(c)(6)"
+  ]
+}

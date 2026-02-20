@@ -1,0 +1,22 @@
+{
+  "id": "c433022a23dc",
+  "section": "264",
+  "citation": "I.R.C. \u00a7 264(e)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 264(e) is discussed as follows: 'I.R.C. \u00a7 264(e)Special Rules For Application Of Subsection (a)(4)I.R.C. \u00a7 264(e)(1)Exception For Key...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 264(e)?",
+  "difficulty": 1,
+  "choices": [
+    "$100,000.00",
+    "$25,000.00",
+    "$55,000.00",
+    "$50,000.00",
+    "$45,000.00"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies $50,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 264(e)"
+  ]
+}

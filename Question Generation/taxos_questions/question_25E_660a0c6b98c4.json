@@ -1,0 +1,22 @@
+{
+  "id": "660a0c6b98c4",
+  "section": "25E",
+  "citation": "I.R.C. \u00a7 25E(c)(2)(B)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 25E(c)(2)(B) is discussed as follows: 'I.R.C. \u00a7 25E(c)(2)(B)\u2014for a sale price which does not exceed\n                        $25,000, and...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 25E(c)(2)(B)?",
+  "difficulty": 1,
+  "choices": [
+    "$25,000.00",
+    "$27,500.00",
+    "$22,500.00",
+    "$50,000.00",
+    "$12,500.00"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies $25,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 25E(c)(2)(B)"
+  ]
+}

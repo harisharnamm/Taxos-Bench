@@ -1,0 +1,22 @@
+{
+  "id": "dee4e1d0bb71",
+  "section": "139L",
+  "citation": "I.R.C. \u00a7 139L(d)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 139L(d) is discussed as follows: 'I.R.C. \u00a7 139L(d)Coordination With Section 265\u2014In the case of any qualified real estate loan, section...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 139L(d)?",
+  "difficulty": 1,
+  "choices": [
+    "15.0%",
+    "75.0%",
+    "37.5%",
+    "25.0%",
+    "35.0%"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies 25.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 139L(d)"
+  ]
+}

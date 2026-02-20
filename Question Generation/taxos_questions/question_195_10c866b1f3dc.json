@@ -1,0 +1,22 @@
+{
+  "id": "10c866b1f3dc",
+  "section": "195",
+  "citation": "I.R.C. \u00a7 195(b)(3)(A)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 195(b)(3)(A) is discussed as follows: 'I.R.C. \u00a7 195(b)(3)(A)\u2014by substituting \u201c$10,000\u201d\n                        for \u201c$5,000\u201d, and...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 195(b)(3)(A)?",
+  "difficulty": 1,
+  "choices": [
+    "$10,000.00",
+    "$20,000.00",
+    "$5,000.00",
+    "$11,000.00",
+    "$9,000.00"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies $10,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 195(b)(3)(A)"
+  ]
+}

@@ -1,0 +1,974 @@
+[
+  {
+    "section": "45F",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "40 percent (50 percent in the case of an eligible small business) of the qualified child care expenditures, and",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.4,
+        "text": "40 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "40 percent (50 percent in the case of an eligible small business) of the qualified child care expenditures, and"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45F(a)(1)\u201440 percent (50 percent in the case of an eligible small business) of the qualified\n                     child care expenditures, and",
+    "definitions": null
+  },
+  {
+    "section": "45F",
+    "subsection": "(a)(2)",
+    "source_subsections": [
+      "(a)(2)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "10 percent of the qualified child care resource and referral expenditures, of the taxpayer for such taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.1,
+        "text": "10 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "10 percent of the qualified child care resource and referral expenditures, of the taxpayer for such taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45F(a)(2)\u201410  percent of the qualified child care resource and referral expenditures, of  the\n                     taxpayer for such taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "45F",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)"
+    ],
+    "rule_type": "limitation",
+    "title": "General",
+    "text": "The credit allowable under subsection (a) for any taxable year shall not exceed $500,000 ($600,000 in the case of an eligible small business).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 500000,
+        "text": "$500,000"
+      },
+      {
+        "label": "amount",
+        "value": 600000,
+        "text": "$600,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The credit allowable under subsection (a) for any taxable year shall not exceed $500,000 ($600,000 in the case of an eligible small business)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45F(b)(1)In General\u2014The credit allowable under subsection (a) for any taxable year shall not exceed $500,000\n                     ($600,000 in the case of an eligible small business).",
+    "definitions": null
+  },
+  {
+    "section": "45F",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)",
+      "(b)(2)(A)",
+      "(b)(2)(B)"
+    ],
+    "rule_type": "computation",
+    "title": "Adjustment",
+    "text": "In the case of any taxable year beginning after 2026, the $500,000 and $600,000 amounts in paragraph (1) shall each be increased by an amount equal to\u2014\u2014such dollar amount, multiplied by\u2014the cost-of-living adjustment determined undersection 1(f)(3)for the calendar year in which the taxable year begins, determined by substituting \u2018calendar year 2025\u2019 for \u2018calendar year 2016\u2019 in subparagraph (A)(ii) thereof.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 500000,
+        "text": "$500,000"
+      },
+      {
+        "label": "amount",
+        "value": 600000,
+        "text": "$600,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any taxable year beginning after 2026, the $500,000 and $600,000 amounts in paragraph (1) shall each be increased by an amount equal to\u2014\u2014such dollar amount, multiplied by\u2014the cost-of-living adjustment determined undersection 1(f)(3)for the calendar year in which the taxable year begins, determined by substituting \u2018calendar year 2025\u2019 for \u2018calendar year 2016\u2019 in subparagraph (A)(ii) thereof."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45F(b)(2)Inflation Adjustment\u2014In the case of any taxable year beginning after 2026, the $500,000 and $600,000 amounts\n                     in paragraph (1) shall each be increased by an amount equal to\u2014I.R.C. \u00a7 45F(b)(2)(A)\u2014such dollar amount, multiplied byI.R.C. \u00a7 45F(b)(2)(B)\u2014the cost-of-living adjustment determined undersection 1(f)(3)for the calendar year in which the taxable year begins, determined by substituting\n                        \u2018calendar year 2025\u2019 for \u2018calendar year 2016\u2019 in subparagraph (A)(ii) thereof.",
+    "definitions": null
+  },
+  {
+    "section": "45F",
+    "subsection": "(c)(1)(A)",
+    "source_subsections": [
+      "(c)(1)(A)",
+      "(c)(1)(A)(i)",
+      "(c)(1)(A)(i)(I)",
+      "(c)(1)(A)(i)(II)",
+      "(c)(1)(A)(i)(III)",
+      "(c)(1)(A)(ii)",
+      "(c)(1)(A)(iii)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cqualified child care expenditure\u201d means any amount paid or incurred\u2014\u2014to acquire, construct, rehabilitate, or expand property\u2014\u2014which is to be used as part of a qualified child care facility of the taxpayer,\u2014with respect to which a deduction for depreciation (or amortization in lieu of depreciation) is allowable, and\u2014which does not constitute part of the principal residence (within the meaning of section121) of the taxpayer or any employee of the taxpayer,\u2014for the operating costs of a qualified child care facility of the taxpayer, including costs related to the training of employees, to scholarship programs, and to the providing of increased compensation to employees with higher levels of child care training, orEditor's Note:Sec. 45F(c)(1)(A)(iii), below, before amendment byPub. L. 119-21, Sec. 70401(d), is applicable to amounts paid or incurred on or before Dec. 31, 2025.\u2014under a contract with a qualified child care facility to provide child care services to employees of the taxpayer.Editor's Note:Sec. 45F(c)(1)(A)(iii), below, after amendment byPub. L. 119-21, Sec. 70401(d), is applicable to amounts paid or incurred after Dec. 31, 2025.\u2014under a contract with a qualified child care facility to provide child care services to employees of the taxpayer, or under a contract with an intermediate entity that contracts with one or more qualified child care facilities to provide such child care services.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified child care expenditure\u201d means any amount paid or incurred\u2014\u2014to acquire, construct, rehabilitate, or expand property\u2014\u2014which is to be used as part of a qualified child care facility of the taxpayer,\u2014with respect to which a deduction for depreciation (or amortization in lieu of depreciation) is allowable, and\u2014which does not constitute part of the principal residence (within the meaning of section121) of the taxpayer or any employee of the taxpayer,\u2014for the operating costs of a qualified child care facility of the taxpayer, including costs related to the training of employees, to scholarship programs, and to the providing of increased compensation to employees with higher levels of child care training, orEditor's Note:Sec. 45F(c)(1)(A)(iii), below, before amendment byPub. L. 119-21, Sec. 70401(d), is applicable to amounts paid or incurred on or before Dec. 31, 2025.\u2014under a contract with a qualified child care facility to provide child care services to employees of the taxpayer.Editor's Note:Sec. 45F(c)(1)(A)(iii), below, after amendment byPub. L. 119-21, Sec. 70401(d), is applicable to amounts paid or incurred after Dec. 31, 2025.\u2014under a contract with a qualified child care facility to provide child care services to employees of the taxpayer, or under a contract with an intermediate entity that contracts with one or more qualified child care facilities to provide such child care services."
+    },
+    "cross_references": [
+      {
+        "section": "121",
+        "reason": "idence (within the meaning of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45F(c)(1)(A)In General\u2014The term \u201cqualified child care expenditure\u201d means any amount paid or incurred\u2014I.R.C. \u00a7 45F(c)(1)(A)(i)\u2014to acquire, construct, rehabilitate, or expand property\u2014I.R.C. \u00a7 45F(c)(1)(A)(i)(I)\u2014which is to be used as part of a qualified child care facility of the taxpayer,I.R.C. \u00a7 45F(c)(1)(A)(i)(II)\u2014with respect to which a deduction for depreciation (or amortization in lieu of depreciation)\n                              is allowable, andI.R.C. \u00a7 45F(c)(1)(A)(i)(III)\u2014which does not constitute part of the principal residence (within the meaning of section121) of the taxpayer or any employee of the taxpayer,I.R.C. \u00a7 45F(c)(1)(A)(ii)\u2014for the operating costs of a qualified child care facility of the taxpayer, including\n                           costs related to the training of employees, to scholarship programs, and to the providing\n                           of increased compensation to employees with higher levels of child care training,\n                           orEditor's Note:Sec. 45F(c)(1)(A)(iii), below, before amendment byPub. L. 119-21, Sec. 70401(d), is applicable to amounts paid or incurred on or before Dec. 31, 2025.I.R.C. \u00a7 45F(c)(1)(A)(iii)\u2014under a contract with a qualified child care facility to provide child care services\n                           to employees of the taxpayer.Editor's Note:Sec. 45F(c)(1)(A)(iii), below, after amendment byPub. L. 119-21, Sec. 70401(d), is applicable to amounts paid or incurred after Dec. 31, 2025.I.R.C. \u00a7 45F(c)(1)(A)(iii)\u2014under a contract with a qualified child care facility to provide child care services\n                           to employees of the taxpayer, or under a contract with an intermediate entity that\n                           contracts with one or more qualified child care facilities to provide such child care\n                           services.",
+    "definitions": {
+      "term": "qualified child care expenditure",
+      "requirements": [
+        "any amount paid or incurred\u2014\u2014to acquire, construct, rehabilitate, or expand property\u2014\u2014which is to be used as part of a qualified child care facility of the taxpayer,\u2014with respect to which a deduction for depreciation (or amortization in lieu of depreciation) is allowable, and\u2014which does not constitute part of the principal residence (within the meaning of section121) of the taxpayer or any employee of the taxpayer,\u2014for the operating costs of a qualified child care facility of the taxpayer, including costs related to the training of employees, to scholarship programs, and to the providing of increased compensation to employees with higher levels of child care training, orEditor's Note:Sec. 45F(c)(1)(A)(iii), below, before amendment byPub. L. 119-21, Sec. 70401(d), is applicable to amounts paid or incurred on or before Dec. 31, 2025.\u2014under a contract with a qualified child care facility to provide child care services to employees of the taxpayer.Editor's Note:Sec. 45F(c)(1)(A)(iii), below, after amendment byPub. L. 119-21, Sec. 70401(d), is applicable to amounts paid or incurred after Dec. 31, 2025.\u2014under a contract with a qualified child care facility to provide child care services to employees of the taxpayer, or under a contract with an intermediate entity that contracts with one or more qualified child care facilities to provide such child care services."
+      ]
+    }
+  },
+  {
+    "section": "45F",
+    "subsection": "(c)(1)(B)",
+    "source_subsections": [
+      "(c)(1)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Market Value",
+    "text": "The term \u201cqualified child care expenditures\u201d shall not include expenses in excess of the fair market value of such care.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified child care expenditures\u201d shall not include expenses in excess of the fair market value of such care."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45F(c)(1)(B)Fair Market Value\u2014The term \u201cqualified child care expenditures\u201d shall not include expenses in excess\n                        of the fair market value of such care.",
+    "definitions": null
+  },
+  {
+    "section": "45F",
+    "subsection": "(c)(2)(A)",
+    "source_subsections": [
+      "(c)(2)(A)",
+      "(c)(2)(A)(i)",
+      "(c)(2)(A)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cqualified child care facility\u201d means a facility\u2014\u2014the principal use of which is to provide child care assistance, and\u2014which meets the requirements of all applicable laws and regulations of the State or local government in which it is located, including the licensing of the facility as a child care facility.Clause(i)shall not apply to a facility which is the principal residence (within the meaning of section121) of the operator of the facility.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified child care facility\u201d means a facility\u2014\u2014the principal use of which is to provide child care assistance, and\u2014which meets the requirements of all applicable laws and regulations of the State or local government in which it is located, including the licensing of the facility as a child care facility.Clause(i)shall not apply to a facility which is the principal residence (within the meaning of section121) of the operator of the facility."
+    },
+    "cross_references": [
+      {
+        "section": "121",
+        "reason": "idence (within the meaning of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45F(c)(2)(A)In General\u2014The term \u201cqualified child care facility\u201d means a facility\u2014I.R.C. \u00a7 45F(c)(2)(A)(i)\u2014the principal use of which is to provide child care assistance, andI.R.C. \u00a7 45F(c)(2)(A)(ii)\u2014which meets the requirements of all applicable laws and regulations of the State or\n                           local government in which it is located, including the licensing of the facility as\n                           a child care facility.Clause(i)shall not apply to a facility which is the principal residence (within the meaning\n                           of section121) of the operator of the facility.",
+    "definitions": {
+      "term": "qualified child care facility",
+      "requirements": [
+        "a facility\u2014\u2014the principal use of which is to provide child care assistance, and\u2014which meets the requirements of all applicable laws and regulations of the State or local government in which it is located, including the licensing of the facility as a child care facility.Clause(i)shall not apply to a facility which is the principal residence (within the meaning of section121) of the operator of the facility."
+      ]
+    }
+  },
+  {
+    "section": "45F",
+    "subsection": "(c)(2)(B)",
+    "source_subsections": [
+      "(c)(2)(B)",
+      "(c)(2)(B)(i)",
+      "(c)(2)(B)(ii)",
+      "(c)(2)(B)(iii)"
+    ],
+    "rule_type": "condition",
+    "title": "Rules With Respect To A Taxpayer",
+    "text": "A facility shall not be treated as a qualified child care facility with respect to a taxpayer unless\u2014\u2014enrollment in the facility is open to employees of the taxpayer during the taxable year,\u2014if the facility is the principal trade or business of the taxpayer, at least 30 percent of the enrollees of such facility are dependents of employees of the taxpayer, and\u2014the use of such facility (or the eligibility to use such facility) does not discriminate in favor of employees of the taxpayer who are highly compensated employees (within the meaning of section414(q)).",
+    "conditions": [
+      "the facility is the principal trade or business of the taxpayer, at least 30 percent of the enrollees of such facility are dependents of employees of the taxpayer, and\u2014the use of such facility (or the eligibility to use such facility) does not discriminate in favor of employees of the taxpayer who are highly compensated employees (within the meaning of section414(q)).",
+      "\u2014\u2014enrollment in the facility is open to employees of the taxpayer during the taxable year,\u2014"
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.3,
+        "text": "30 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the facility is the principal trade or business of the taxpayer, at least 30 percent of the enrollees of such facility are dependents of employees of the taxpayer, and\u2014the use of such facility (or the eligibility to use such facility) does not discriminate in favor of employees of the taxpayer who are highly compensated employees (within the meaning of section414(q))."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [
+        "\u2014\u2014enrollment in the facility is open to employees of the taxpayer during the taxable year,\u2014"
+      ],
+      "except": [],
+      "result": "A facility shall not be treated as a qualified child care facility with respect to a taxpayer"
+    },
+    "cross_references": [
+      {
+        "section": "414(q)",
+        "reason": "loyees (within the meaning of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45F(c)(2)(B)Special Rules With Respect To A Taxpayer\u2014A facility shall not be treated as a qualified child care facility with respect to\n                        a taxpayer unless\u2014I.R.C. \u00a7 45F(c)(2)(B)(i)\u2014enrollment in the facility is open to employees of the taxpayer during the taxable\n                           year,I.R.C. \u00a7 45F(c)(2)(B)(ii)\u2014if the facility is the principal trade or business of the taxpayer, at least 30 percent\n                           of the enrollees of such facility are dependents of employees of the taxpayer, andI.R.C. \u00a7 45F(c)(2)(B)(iii)\u2014the use of such facility (or the eligibility to use such facility) does not discriminate\n                           in favor of employees of the taxpayer who are highly compensated employees (within\n                           the meaning of section414(q)).",
+    "definitions": null
+  },
+  {
+    "section": "45F",
+    "subsection": "(c)(2)(C)",
+    "source_subsections": [
+      "(c)(2)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Jointly Owned or Operated Child Care Facility",
+    "text": "A facility shall not fail to be treated as a qualified child care facility of the taxpayer merely because such facility is jointly owned or operated by the taxpayer and other persons.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "A facility shall not fail to be treated as a qualified child care facility of the taxpayer merely because such facility is jointly owned or operated by the taxpayer and other persons."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45F(c)(2)(C)Treatment Of Jointly Owned or Operated Child Care Facility\u2014A facility shall not fail to be treated as a qualified child care facility of the\n                        taxpayer merely because such facility is jointly owned or operated by the taxpayer\n                        and other persons.",
+    "definitions": null
+  },
+  {
+    "section": "45F",
+    "subsection": "(c)(3)(A)",
+    "source_subsections": [
+      "(c)(3)(A)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cqualified child care resource and referral expenditure\u201d means any amount paid or incurred under a contract to provide child care resource and referral services to an employee of the taxpayer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified child care resource and referral expenditure\u201d means any amount paid or incurred under a contract to provide child care resource and referral services to an employee of the taxpayer."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45F(c)(3)(A)In General\u2014The term \u201cqualified child care resource and referral expenditure\u201d means any amount\n                        paid or incurred under a contract to provide child care resource and referral services\n                        to an employee of the taxpayer.",
+    "definitions": {
+      "term": "qualified child care resource and referral expenditure",
+      "requirements": [
+        "any amount paid or incurred under a contract to provide child care resource and referral services to an employee of the taxpayer."
+      ]
+    }
+  },
+  {
+    "section": "45F",
+    "subsection": "(c)(3)(B)",
+    "source_subsections": [
+      "(c)(3)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The services shall not be treated as qualified unless the provision of such services (or the eligibility to use such services) does not discriminate in favor of employees of the taxpayer who are highly compensated employees (within the meaning of section414(q)).",
+    "conditions": [
+      "the provision of such services (or the eligibility to use such services) does not discriminate in favor of employees of the taxpayer who are highly compensated employees (within the meaning of section414(q))."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "the provision of such services (or the eligibility to use such services) does not discriminate in favor of employees of the taxpayer who are highly compensated employees (within the meaning of section414(q))."
+      ],
+      "except": [],
+      "result": "The services shall not be treated as qualified"
+    },
+    "cross_references": [
+      {
+        "section": "414(q)",
+        "reason": "loyees (within the meaning of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45F(c)(3)(B)Nondiscrimination\u2014The services shall not be treated as qualified unless the provision of such services\n                        (or the eligibility to use such services) does not discriminate in favor of employees\n                        of the taxpayer who are highly compensated employees (within the meaning of section414(q)).",
+    "definitions": null
+  },
+  {
+    "section": "45F",
+    "subsection": "(c)(4)",
+    "source_subsections": [
+      "(c)(4)",
+      "(c)(4)(A)",
+      "(c)(4)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Small Business",
+    "text": "The term \u2018eligible small business\u2019 means a business that meets the gross receipts test of section448(c), determined\u2014\u2014by substituting \u20185-taxable-year\u2019 for \u20183-taxable-year\u2019 in paragraph (1) thereof, and\u2014by substituting \u20185-year\u2019 for \u20183-year\u2019 in paragraph (3)(A) thereof.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u2018eligible small business\u2019 means a business that meets the gross receipts test of section448(c), determined\u2014\u2014by substituting \u20185-taxable-year\u2019 for \u20183-taxable-year\u2019 in paragraph (1) thereof, and\u2014by substituting \u20185-year\u2019 for \u20183-year\u2019 in paragraph (3)(A) thereof."
+    },
+    "cross_references": [
+      {
+        "section": "448(c)",
+        "reason": "ts the gross receipts test of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45F(c)(4)Eligible Small Business\u2014The term \u2018eligible small business\u2019 means a business that meets the gross receipts\n                     test of section448(c), determined\u2014I.R.C. \u00a7 45F(c)(4)(A)\u2014by substituting \u20185-taxable-year\u2019 for \u20183-taxable-year\u2019 in paragraph (1) thereof, andI.R.C. \u00a7 45F(c)(4)(B)\u2014by substituting \u20185-year\u2019 for \u20183-year\u2019 in paragraph (3)(A) thereof.",
+    "definitions": null
+  },
+  {
+    "section": "45F",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)",
+      "(d)(1)(A)",
+      "(d)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "If, as of the close of any taxable year, there is a recapture event with respect to any qualified child care facility of the taxpayer, then the tax of the taxpayer under this chapter for such taxable year shall be increased by an amount equal to the product of\u2014\u2014the applicable recapture percentage, and\u2014the aggregate decrease in the credits allowed under section38for all prior taxable years which would have resulted if the qualified child care expenditures of the taxpayer described in subsection(c)(1)(A)with respect to such facility had been zero.",
+    "conditions": [
+      ", as of the close of any taxable year, there is a recapture event with respect to any qualified child care facility of the taxpayer, then the tax of the taxpayer under this chapter for such taxable year shall be increased by an amount equal to the product of\u2014\u2014the applicable recapture percentage, and\u2014the aggregate decrease in the credits allowed under section38for all prior taxable years which would have resulted",
+      "the qualified child care expenditures of the taxpayer described in subsection(c)(1)(A)with respect to such facility had been zero."
+    ],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        ", as of the close of any taxable year, there is a recapture event with respect to any qualified child care facility of the taxpayer, then the tax of the taxpayer under this chapter for such taxable year shall be increased by an amount equal to the product of\u2014\u2014the applicable recapture percentage, and\u2014the aggregate decrease in the credits allowed under section38for all prior taxable years which would have resulted",
+        "the qualified child care expenditures of the taxpayer described in subsection(c)(1)(A)with respect to such facility had been zero."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "38f",
+        "reason": "in the credits allowed under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45F(d)(1)In General\u2014If,  as of the close of any taxable year, there is a recapture event with  respect\n                     to any qualified child care facility of the taxpayer, then the tax  of the taxpayer\n                     under this chapter for such taxable year shall be  increased by an amount equal to\n                     the product of\u2014I.R.C. \u00a7 45F(d)(1)(A)\u2014the  applicable recapture percentage, andI.R.C. \u00a7 45F(d)(1)(B)\u2014the  aggregate decrease in the credits allowed under section38for all prior  taxable years which would have resulted if the qualified child care\n                        expenditures of the taxpayer described in subsection(c)(1)(A)with  respect to such facility had been zero.",
+    "definitions": null
+  },
+  {
+    "section": "45F",
+    "subsection": "(d)(2)(A)",
+    "source_subsections": [
+      "(d)(2)(A)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "GeneralFor purposes of this subsection, the applicable recapture percentage shall be determined from the following table:If the recapture event occurs in:The applicable recapture percentage is:Years 1-3100Year 485Year 570Year 655Year 740Year 825Years 9 and 1010Years 11 and thereafter0.",
+    "conditions": [
+      "the recapture event occurs in:The applicable recapture percentage is:Years 1-3100Year 485Year 570Year 655Year 740Year 825Years 9 and 1010Years 11 and thereafter0."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the recapture event occurs in:The applicable recapture percentage is:Years 1-3100Year 485Year 570Year 655Year 740Year 825Years 9 and 1010Years 11 and thereafter0."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "GeneralFor purposes of this subsection, the applicable recapture percentage shall be determined from the following table:"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45F(d)(2)(A)In GeneralFor  purposes of this subsection, the applicable recapture percentage shall be  determined\n                     from the following table:If the recapture event occurs in:The applicable recapture percentage is:Years 1-3100Year 485Year 570Year 655Year 740Year 825Years 9 and 1010Years 11 and thereafter0.",
+    "definitions": null
+  },
+  {
+    "section": "45F",
+    "subsection": "(d)(2)(B)",
+    "source_subsections": [
+      "(d)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "For purposes of subparagraph(A), year 1 shall begin on the first day of the taxable year in which the qualified child care facility is placed in service by the taxpayer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph(A), year 1 shall begin on the first day of the taxable year in which the qualified child care facility is placed in service by the taxpayer."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45F(d)(2)(B)Years\u2014For  purposes of subparagraph(A), year 1 shall begin on the first day of the  taxable year in which the qualified\n                        child care facility is placed in  service by the taxpayer.",
+    "definitions": null
+  },
+  {
+    "section": "45F",
+    "subsection": "(d)(3)(A)",
+    "source_subsections": [
+      "(d)(3)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Operation",
+    "text": "The cessation of the operation of the facility as a qualified child care facility.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The cessation of the operation of the facility as a qualified child care facility."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45F(d)(3)(A)Cessation Of Operation\u2014The  cessation of the operation of the facility as a qualified child care  facility.",
+    "definitions": null
+  },
+  {
+    "section": "45F",
+    "subsection": "(d)(3)(B)(i)",
+    "source_subsections": [
+      "(d)(3)(B)(i)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Except as provided in clause(ii), the disposition of a taxpayer's interest in a qualified child care facility with respect to which the credit described in subsection(a)was allowable.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [
+      {
+        "applies_when": "clause(ii)",
+        "effect": "See referenced section"
+      }
+    ],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as provided in clause(ii), the disposition of a taxpayer's interest in a qualified child care facility with respect to which the credit described in subsection(a)was allowable."
+      ],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45F(d)(3)(B)(i)In General\u2014Except  as provided in clause(ii), the disposition of a taxpayer's interest in a  qualified child care facility with\n                           respect to which the credit described  in subsection(a)was allowable.",
+    "definitions": null
+  },
+  {
+    "section": "45F",
+    "subsection": "(d)(3)(B)(ii)",
+    "source_subsections": [
+      "(d)(3)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "To Assume Recapture Liability",
+    "text": "Clause(i)shall not apply if the person acquiring such interest in the facility agrees in writing to assume the recapture liability of the person disposing of such interest in effect immediately before such disposition. In the event of such an assumption, the person acquiring the interest in the facility shall be treated as the taxpayer for purposes of assessing any recapture liability (computed as if there had been no change in ownership).",
+    "conditions": [
+      "the person acquiring such interest in the facility agrees in writing to assume the recapture liability of the person disposing of such interest in effect immediately before such disposition. In the event of such an assumption, the person acquiring the interest in the facility shall be treated as the taxpayer for purposes of assessing any recapture liability (computed as",
+      "there had been no change in ownership)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the person acquiring such interest in the facility agrees in writing to assume the recapture liability of the person disposing of such interest in effect immediately before such disposition. In the event of such an assumption, the person acquiring the interest in the facility shall be treated as the taxpayer for purposes of assessing any recapture liability (computed as",
+        "there had been no change in ownership)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Clause(i)shall not apply"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45F(d)(3)(B)(ii)Agreement To Assume Recapture Liability\u2014Clause(i)shall not apply if the person acquiring such interest in the facility  agrees in\n                           writing to assume the recapture liability of the person  disposing of such interest\n                           in effect immediately before such disposition.  In the event of such an assumption,\n                           the person acquiring the interest in  the facility shall be treated as the taxpayer\n                           for purposes of assessing  any recapture liability (computed as if there had been\n                           no change in  ownership).",
+    "definitions": null
+  },
+  {
+    "section": "45F",
+    "subsection": "(d)(4)(A)",
+    "source_subsections": [
+      "(d)(4)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "Benefit Rule",
+    "text": "The tax for the taxable year shall be increased under paragraph(1)only with respect to credits allowed by reason of this section which were used to reduce tax liability. In the case of credits not so used to reduce tax liability, the carryforwards and carrybacks under section39shall be appropriately adjusted.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The tax for the taxable year shall be increased under paragraph(1)only with respect to credits allowed by reason of this section which were used to reduce tax liability. In the case of credits not so used to reduce tax liability, the carryforwards and carrybacks under section39shall be appropriately adjusted."
+    },
+    "cross_references": [
+      {
+        "section": "39s",
+        "reason": "forwards and carrybacks under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45F(d)(4)(A)Tax Benefit Rule\u2014The  tax for the taxable year shall be increased under paragraph(1)only with  respect to credits allowed by reason of this section which were used to\n                        reduce tax liability. In the case of credits not so used to reduce tax  liability,\n                        the carryforwards and carrybacks under section39shall be  appropriately adjusted.",
+    "definitions": null
+  },
+  {
+    "section": "45F",
+    "subsection": "(d)(4)(B)",
+    "source_subsections": [
+      "(d)(4)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Credits Against Tax",
+    "text": "Any increase in tax under this subsection shall not be treated as a tax imposed by this chapter for purposes of determining the amount of any credit under this chapter or for purposes of section55.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Any increase in tax under this subsection shall not be treated as a tax imposed by this chapter for purposes of determining the amount of any credit under this chapter or for purposes of section55."
+    },
+    "cross_references": [
+      {
+        "section": "55",
+        "reason": "is chapter or for purposes of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45F(d)(4)(B)No Credits Against Tax\u2014Any  increase in tax under this subsection shall not be treated as a tax  imposed\n                        by this chapter for purposes of determining the amount of any  credit under this chapter\n                        or for purposes of section55.",
+    "definitions": null
+  },
+  {
+    "section": "45F",
+    "subsection": "(d)(4)(C)",
+    "source_subsections": [
+      "(d)(4)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "Recapture By Reason Of Casualty Loss",
+    "text": "The increase in tax under this subsection shall not apply to a cessation of operation of the facility as a qualified child care facility by reason of a casualty loss to the extent such loss is restored by reconstruction or replacement within a reasonable period established by the Secretary.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The increase in tax under this subsection shall not apply to a cessation of operation of the facility as a qualified child care facility by reason of a casualty loss to the extent such loss is restored by reconstruction or replacement within a reasonable period established by the Secretary."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45F(d)(4)(C)No Recapture By Reason Of Casualty Loss\u2014The  increase in tax under this subsection shall not apply to a cessation of  operation\n                        of the facility as a qualified child care facility by reason of  a casualty loss to\n                        the extent such loss is restored by reconstruction or  replacement within a reasonable\n                        period established by the  Secretary.",
+    "definitions": null
+  },
+  {
+    "section": "45F",
+    "subsection": "(e)(1)",
+    "source_subsections": [
+      "(e)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "Rules",
+    "text": "All persons which are treated as a single employer under subsections(a)and(b)of section52shall be treated as a single taxpayer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "All persons which are treated as a single employer under subsections(a)and(b)of section52shall be treated as a single taxpayer."
+    },
+    "cross_references": [
+      {
+        "section": "52s",
+        "reason": "under subsections(a)and(b)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45F(e)(1)Aggregation Rules\u2014All  persons which are treated as a single employer under subsections(a)and(b)of section52shall be treated as a single taxpayer.",
+    "definitions": null
+  },
+  {
+    "section": "45F",
+    "subsection": "(e)(2)",
+    "source_subsections": [
+      "(e)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "In The Case Of Estates And Trusts",
+    "text": "Under regulations prescribed by the Secretary, rules similar to the rules of subsection(d)of section52shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Under regulations prescribed by the Secretary, rules similar to the rules of subsection(d)of section52shall apply."
+    },
+    "cross_references": [
+      {
+        "section": "52s",
+        "reason": "the rules of subsection(d)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45F(e)(2)Pass-Thru In The Case Of Estates And Trusts\u2014Under  regulations prescribed by the Secretary, rules similar to the rules of  subsection(d)of section52shall apply.",
+    "definitions": null
+  },
+  {
+    "section": "45F",
+    "subsection": "(e)(3)",
+    "source_subsections": [
+      "(e)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "In The Case Of Partnerships",
+    "text": "In the case of partnerships, the credit shall be allocated among partners under regulations prescribed by the Secretary.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of partnerships, the credit shall be allocated among partners under regulations prescribed by the Secretary."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45F(e)(3)Allocation In The Case Of Partnerships\u2014In  the case of partnerships, the credit shall be allocated among partners  under\n                     regulations prescribed by the Secretary.",
+    "definitions": null
+  },
+  {
+    "section": "45F",
+    "subsection": "(f)(1)(A)",
+    "source_subsections": [
+      "(f)(1)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "If a credit is determined under this section with respect to any property by reason of expenditures described in subsection(c)(1)(A), the basis of such property shall be reduced by the amount of the credit so determined.",
+    "conditions": [
+      "a credit is determined under this section with respect to any property by reason of expenditures described in subsection(c)(1)(A), the basis of such property shall be reduced by the amount of the credit so determined."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "a credit is determined under this section with respect to any property by reason of expenditures described in subsection(c)(1)(A), the basis of such property shall be reduced by the amount of the credit so determined."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45F(f)(1)(A)In General\u2014If  a credit is determined under this section with respect to any property by  reason\n                        of expenditures described in subsection(c)(1)(A), the basis of\n                        such property shall be reduced by the amount of the credit so  determined.",
+    "definitions": null
+  },
+  {
+    "section": "45F",
+    "subsection": "(f)(1)(B)",
+    "source_subsections": [
+      "(f)(1)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Dispositions",
+    "text": "If, during any taxable year, there is a recapture amount determined with respect to any property the basis of which was reduced under subparagraph(A), the basis of such property (immediately before the event resulting in such recapture) shall be increased by an amount equal to such recapture amount. For purposes of the preceding sentence, the term \u201crecapture amount\u201d means any increase in tax (or adjustment in carrybacks or carryovers) determined under subsection(d).",
+    "conditions": [
+      ", during any taxable year, there is a recapture amount determined with respect to any property the basis of which was reduced under subparagraph(A), the basis of such property (immediately before the event resulting in such recapture) shall be increased by an amount equal to such recapture amount. For purposes of the preceding sentence, the term \u201crecapture amount\u201d means any increase in tax (or adjustment in carrybacks or carryovers) determined under subsection(d)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        ", during any taxable year, there is a recapture amount determined with respect to any property the basis of which was reduced under subparagraph(A), the basis of such property (immediately before the event resulting in such recapture) shall be increased by an amount equal to such recapture amount. For purposes of the preceding sentence, the term \u201crecapture amount\u201d means any increase in tax (or adjustment in carrybacks or carryovers) determined under subsection(d)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45F(f)(1)(B)Certain Dispositions\u2014If,  during any taxable year, there is a recapture amount determined with  respect\n                        to any property the basis of which was reduced under subparagraph(A), the basis of such property (immediately before the event resulting in  such recapture)\n                        shall be increased by an amount equal to such recapture  amount. For purposes of the\n                        preceding sentence, the term \u201crecapture\n                        amount\u201d means any increase in tax (or adjustment in carrybacks or  carryovers) determined\n                        under subsection(d).",
+    "definitions": {
+      "term": "recapture amount",
+      "requirements": [
+        "any increase in tax (or adjustment in carrybacks or carryovers) determined under subsection(d)."
+      ]
+    }
+  },
+  {
+    "section": "45F",
+    "subsection": "(f)(2)",
+    "source_subsections": [
+      "(f)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Deductions And Credits",
+    "text": "No deduction or credit shall be allowed under any other provision of this chapter with respect to the amount of the credit determined under this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No deduction or credit shall be allowed under any other provision of this chapter with respect to the amount of the credit determined under this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45F(f)(2)Other Deductions And Credits\u2014No  deduction or credit shall be allowed under any other provision of this  chapter\n                     with respect to the amount of the credit determined under this  section.",
+    "definitions": null
+  },
+  {
+    "section": "45F",
+    "subsection": "(g)",
+    "source_subsections": [
+      "(g)"
+    ],
+    "rule_type": "condition",
+    "title": "and Guidance",
+    "text": "The Secretary shall issue such regulations or other guidance as may be necessary to carry out the purposes of this section, including guidance to carry out the purposes of paragraphs (1)(A)(iii) and (2)(C) of subsection (c).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall issue such regulations or other guidance as may be necessary to carry out the purposes of this section, including guidance to carry out the purposes of paragraphs (1)(A)(iii) and (2)(C) of subsection (c)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45F(g)Regulations and Guidance\u2014The Secretary shall issue such regulations or other guidance as may be necessary to\n                  carry out the purposes of this section, including guidance to carry out the purposes\n                  of paragraphs (1)(A)(iii) and (2)(C) of subsection (c).",
+    "definitions": null
+  }
+]

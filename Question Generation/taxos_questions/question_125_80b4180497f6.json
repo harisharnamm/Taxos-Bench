@@ -1,0 +1,22 @@
+{
+  "id": "80b4180497f6",
+  "section": "125",
+  "citation": "I.R.C. \u00a7 125(i)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 125(i) is discussed as follows: 'I.R.C. \u00a7 125(i)Limitation On Health Flexible Spending ArrangementsI.R.C. \u00a7 125(i)(1)In General\u2014For p...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 125(i)?",
+  "difficulty": 1,
+  "choices": [
+    "$50.00",
+    "$55.00",
+    "$45.00",
+    "$100.00",
+    "$25.00"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies $50.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 125(i)"
+  ]
+}

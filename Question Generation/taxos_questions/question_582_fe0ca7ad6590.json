@@ -1,0 +1,22 @@
+{
+  "id": "fe0ca7ad6590",
+  "section": "582",
+  "citation": "I.R.C. \u00a7 582(b)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 582(b) is discussed as follows: 'I.R.C. \u00a7 582(b)Worthless Stock In Affiliated Bank\u2014For  purposes of section165(g)(1), where the taxpa...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 582(b)?",
+  "difficulty": 1,
+  "choices": [
+    "70.0%",
+    "120.0%",
+    "80.0%",
+    "20.0%",
+    "90.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 80.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 582(b)"
+  ]
+}

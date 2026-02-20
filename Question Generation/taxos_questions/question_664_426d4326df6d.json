@@ -1,0 +1,22 @@
+{
+  "id": "426d4326df6d",
+  "section": "664",
+  "citation": "I.R.C. \u00a7 664(g)(7)(A)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 664(g)(7)(A) is discussed as follows: 'I.R.C. \u00a7 664(g)(7)(A)In General\u2014For  purposes of paragraph (3)(E), the applicable limitation\n       ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 664(g)(7)(A)?",
+  "difficulty": 1,
+  "choices": [
+    "37.5%",
+    "35.0%",
+    "15.0%",
+    "25.0%",
+    "75.0%"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies 25.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 664(g)(7)(A)"
+  ]
+}

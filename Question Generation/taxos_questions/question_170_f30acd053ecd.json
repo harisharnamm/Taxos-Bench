@@ -1,0 +1,21 @@
+{
+  "id": "f30acd053ecd",
+  "section": "170",
+  "citation": "I.R.C. \u00a7 170(b)(1)(G)(i)(I)",
+  "type": "Complex - Charitable Contribution Limit",
+  "scenario": "In 2024, Grace has an Adjusted Gross Income (AGI) of $154,582.09. Grace makes a charitable contribution of $137,844.80 in cash to a public charity. Under I.R.C. \u00a7 170(b)(1)(G)(i)(I), the deduction is limited to 60% of the contribution base.",
+  "question": "Calculate the allowable charitable deduction for 2024.",
+  "difficulty": 3,
+  "choices": [
+    "$92,749.25",
+    "$0.00",
+    "$137,844.80",
+    "$45,095.55"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The deduction is limited to 60% of AGI ($92,749.25). Allowable: $92,749.25.",
+  "reasoning": "Calculated limit and compared to contribution.",
+  "source_rules": [
+    "I.R.C. \u00a7 170(b)(1)(G)(i)(I)"
+  ]
+}

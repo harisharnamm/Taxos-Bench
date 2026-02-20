@@ -1,0 +1,21 @@
+{
+  "id": "c2db1655a94a",
+  "section": "1400E",
+  "citation": "I.R.C. \u00a7 1400E(c)(3)(C)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1400E(c)(3)(C) is discussed as follows: 'I.R.C. \u00a7 1400E(c)(3)(C)\u2014the poverty rate for each population census tract  within the nominated area...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1400E(c)(3)(C)?",
+  "difficulty": 1,
+  "choices": [
+    "80.0%",
+    "30.0%",
+    "20.0%",
+    "10.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 20.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1400E(c)(3)(C)"
+  ]
+}

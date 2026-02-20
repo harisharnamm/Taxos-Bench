@@ -1,0 +1,2070 @@
+[
+  {
+    "section": "51",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)"
+    ],
+    "rule_type": "computation",
+    "title": "Of Amount",
+    "text": "For purposes of section38, the amount of the work opportunity credit determined under this section for the taxable year shall be equal to 40 percent of the qualified first-year wages for such year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.4,
+        "text": "40 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of section38, the amount of the work opportunity credit determined under this section for the taxable year shall be equal to 40 percent of the qualified first-year wages for such year."
+    },
+    "cross_references": [
+      {
+        "section": "38",
+        "reason": "For purposes of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(a)Determination Of Amount\u2014For purposes of section38, the amount of the work opportunity credit determined under this section for the\n                  taxable year shall be equal to 40 percent of the qualified first-year wages for such\n                  year.",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cqualified wages\u201d means the wages paid or incurred by the employer during the taxable year to individuals who are members of a targeted group.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified wages\u201d means the wages paid or incurred by the employer during the taxable year to individuals who are members of a targeted group."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(b)(1)In General\u2014The term \u201cqualified wages\u201d means the wages paid or incurred by the employer during\n                     the taxable year to individuals who are members of a targeted group.",
+    "definitions": {
+      "term": "qualified wages",
+      "requirements": [
+        "the wages paid or incurred by the employer during the taxable year to individuals who are members of a targeted group."
+      ]
+    }
+  },
+  {
+    "section": "51",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "First",
+    "text": "Year Wages\u2014The term \u201cqualified first-year wages\u201d means, with respect to any individual, qualified wages attributable to service rendered during the 1-year period beginning with the day the individual begins work for the employer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Year Wages\u2014The term \u201cqualified first-year wages\u201d means, with respect to any individual, qualified wages attributable to service rendered during the 1-year period beginning with the day the individual begins work for the employer."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(b)(2)Qualified First-Year Wages\u2014The term \u201cqualified first-year wages\u201d means, with respect to any individual, qualified\n                     wages attributable to service rendered during the 1-year period beginning with the\n                     day the individual begins work for the employer.",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(b)(3)",
+    "source_subsections": [
+      "(b)(3)"
+    ],
+    "rule_type": "limitation",
+    "title": "On Wages Per Year Taken Into Account",
+    "text": "The amount of the qualified first-year wages which may be taken into account with respect to any individual shall not exceed $6,000 per year ($12,000 per year in the case of any individual who is a qualified veteran by reason of subsection(d)(3)(A)(ii)(I), $14,000 per year in the case of any individual who is a qualified veteran by reason of subsection(d)(3)(A)(iv), and $24,000 per year in the case of any individual who is a qualified veteran by reason of subsection(d)(3)(A)(ii)(II)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 6000,
+        "text": "$6,000"
+      },
+      {
+        "label": "amount",
+        "value": 12000,
+        "text": "$12,000"
+      },
+      {
+        "label": "amount",
+        "value": 14000,
+        "text": "$14,000"
+      },
+      {
+        "label": "amount",
+        "value": 24000,
+        "text": "$24,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of the qualified first-year wages which may be taken into account with respect to any individual shall not exceed $6,000 per year ($12,000 per year in the case of any individual who is a qualified veteran by reason of subsection(d)(3)(A)(ii)(I), $14,000 per year in the case of any individual who is a qualified veteran by reason of subsection(d)(3)(A)(iv), and $24,000 per year in the case of any individual who is a qualified veteran by reason of subsection(d)(3)(A)(ii)(II))."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(b)(3)Limitation On Wages Per Year Taken Into Account\u2014The amount of the qualified first-year wages which may be taken into account with\n                     respect to any individual shall not exceed $6,000 per year ($12,000 per year in the\n                     case of any individual who is a qualified veteran by reason of subsection(d)(3)(A)(ii)(I), $14,000 per year in the case of any individual who is a qualified veteran by reason\n                     of subsection(d)(3)(A)(iv), and $24,000 per year in the case of any individual who is a qualified veteran by\n                     reason of subsection(d)(3)(A)(ii)(II)).",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "Except as otherwise provided in this subsection and subsection(h)(2), the term \u201cwages\u201d has the meaning given to such term by subsection(b)of section3306(determined without regard to any dollar limitation contained in such section).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as otherwise provided in this subsection and subsection(h)(2), the term \u201cwages\u201d has the meaning given to such term by subsection(b)of section3306(determined without regard to any dollar limitation contained in such section)."
+      ],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "3306",
+        "reason": "such term by subsection(b)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(c)(1)In General\u2014Except as otherwise provided in this subsection and subsection(h)(2), the term \u201cwages\u201d has the meaning given to such term by subsection(b)of section3306(determined without regard to any dollar limitation contained in such section).",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(c)(2)(A)",
+    "source_subsections": [
+      "(c)(2)(A)"
+    ],
+    "rule_type": "definition",
+    "title": "For Employers Receiving On",
+    "text": "The-Job Training Payments\u2014The term \u201cwages\u201d shall not include any amounts paid or incurred by an employer for any period to any individual for whom the employer receives federally funded payments for on-the-job training of such individual for such period.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The-Job Training Payments\u2014The term \u201cwages\u201d shall not include any amounts paid or incurred by an employer for any period to any individual for whom the employer receives federally funded payments for on-the-job training of such individual for such period."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(c)(2)(A)Exclusion For Employers Receiving On-The-Job Training Payments\u2014The term \u201cwages\u201d shall not include any amounts paid or incurred by an employer for\n                        any period to any individual for whom the employer receives federally funded payments\n                        for on-the-job training of such individual for such period.",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(c)(2)(B)",
+    "source_subsections": [
+      "(c)(2)(B)"
+    ],
+    "rule_type": "computation",
+    "title": "For Work Supplementation Payments To Employers",
+    "text": "The amount of wages which would (but for this subparagraph) be qualified wages under this section for an employer with respect to an individual for a taxable year shall be reduced by an amount equal to the amount of the payments made to such employer (however utilized by such employer) with respect to such individual for such taxable year under a program established under section482(e)of the Social Security Act.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of wages which would (but for this subparagraph) be qualified wages under this section for an employer with respect to an individual for a taxable year shall be reduced by an amount equal to the amount of the payments made to such employer (however utilized by such employer) with respect to such individual for such taxable year under a program established under section482(e)of the Social Security Act."
+    },
+    "cross_references": [
+      {
+        "section": "482(e)",
+        "reason": "r a program established under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(c)(2)(B)Reduction For Work Supplementation Payments To Employers\u2014The amount of wages which would (but for this subparagraph) be qualified wages under\n                        this section for an employer with respect to an individual for a taxable year shall\n                        be reduced by an amount equal to the amount of the payments made to such employer\n                        (however utilized by such employer) with respect to such individual for such taxable\n                        year under a program established under section482(e)of the Social Security Act.",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(c)(3)",
+    "source_subsections": [
+      "(c)(3)",
+      "(c)(3)(A)",
+      "(c)(3)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "For Services During Labor Disputes",
+    "text": "If\u2014\u2014the principal place of employment of an individual with the employer is at a plant or facility, and\u2014there is a strike or lockout involving employees at such plant or facility,the term \u201cwages\u201d shall not include any amount paid or incurred by the employer to such individual for services which are the same as, or substantially similar to, those services performed by employees participating in, or affected by, the strike or lockout during the period of such strike or lockout.",
+    "conditions": [
+      "\u2014\u2014the principal place of employment of an individual with the employer is at a plant or facility, and\u2014there is a strike or lockout involving employees at such plant or facility,the term \u201cwages\u201d shall not include any amount paid or incurred by the employer to such individual for services which are the same as, or substantially similar to, those services performed by employees participating in, or affected by, the strike or lockout during the period of such strike or lockout."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014the principal place of employment of an individual with the employer is at a plant or facility, and\u2014there is a strike or lockout involving employees at such plant or facility,the term \u201cwages\u201d shall not include any amount paid or incurred by the employer to such individual for services which are the same as, or substantially similar to, those services performed by employees participating in, or affected by, the strike or lockout during the period of such strike or lockout."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(c)(3)Payments For Services During Labor Disputes\u2014If\u2014I.R.C. \u00a7 51(c)(3)(A)\u2014the principal place of employment of an individual with the employer is at a plant\n                        or facility, andI.R.C. \u00a7 51(c)(3)(B)\u2014there is a strike or lockout involving employees at such plant or facility,the term \u201cwages\u201d shall not include any amount paid or incurred by the employer to\n                        such individual for services which are the same as, or substantially similar to, those\n                        services performed by employees participating in, or affected by, the strike or lockout\n                        during the period of such strike or lockout.",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(c)(4)",
+    "source_subsections": [
+      "(c)(4)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "The term \u201cwages\u201d shall not include any amount paid or incurred to an individual who begins work for the employer after December 31, 2025.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cwages\u201d shall not include any amount paid or incurred to an individual who begins work for the employer after December 31, 2025."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(c)(4)Termination\u2014The term \u201cwages\u201d shall not include any amount paid or incurred to an individual who\n                     begins work for the employer after December 31, 2025.",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(c)(5)",
+    "source_subsections": [
+      "(c)(5)"
+    ],
+    "rule_type": "definition",
+    "title": "With Payroll Tax Forgiveness",
+    "text": "The term \u201cwages\u201d shall not include any amount paid or incurred to a qualified individual (as defined in section3111(d)(3)) during the 1-year period beginning on the hiring date of such individual by a qualified employer (as defined in section3111(d)) unless such qualified employer makes an election not to have section3111(d)apply.",
+    "conditions": [
+      "such qualified employer makes an election not to have section3111(d)apply."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "such qualified employer makes an election not to have section3111(d)apply."
+      ],
+      "except": [],
+      "result": "The term \u201cwages\u201d shall not include any amount paid or incurred to a qualified individual (as defined in section3111(d)(3)) during the 1-year period beginning on the hiring date of such individual by a qualified employer (as defined in section3111(d))"
+    },
+    "cross_references": [
+      {
+        "section": "3111(d)(3)",
+        "reason": "ied individual (as defined in..."
+      },
+      {
+        "section": "3111(d)",
+        "reason": "ified employer (as defined in..."
+      },
+      {
+        "section": "3111(d)",
+        "reason": "makes an election not to have..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(c)(5)Coordination With Payroll Tax Forgiveness\u2014The term \u201cwages\u201d shall not include any amount paid or incurred to a qualified individual\n                     (as defined in section3111(d)(3)) during the 1-year period beginning on the hiring date of such individual by a qualified\n                     employer (as defined in section3111(d)) unless such qualified employer makes an election not to have section3111(d)apply.",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)",
+      "(d)(1)(A)",
+      "(d)(1)(B)",
+      "(d)(1)(C)",
+      "(d)(1)(D)",
+      "(d)(1)(E)",
+      "(d)(1)(F)",
+      "(d)(1)(G)",
+      "(d)(1)(H)",
+      "(d)(1)(I)",
+      "(d)(1)(J)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "An individual is a member of a targeted group if such individual is\u2014\u2014a qualified IV-A recipient,\u2014a qualified veteran,\u2014a qualified ex-felon,\u2014a designated community resident,\u2014a vocational rehabilitation referral,\u2014a qualified summer youth employee,\u2014a qualified supplemental nutrition assistance program benefits recipient,\u2014a qualified SSI recipient,\u2014a long-term family assistance recipient, or\u2014a qualified long-term unemployment recipient.",
+    "conditions": [
+      "such individual is\u2014\u2014a qualified IV-A recipient,\u2014a qualified veteran,\u2014a qualified ex-felon,\u2014a designated community resident,\u2014a vocational rehabilitation referral,\u2014a qualified summer youth employee,\u2014a qualified supplemental nutrition assistance program benefits recipient,\u2014a qualified SSI recipient,\u2014a long-term family assistance recipient, or\u2014a qualified long-term unemployment recipient."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such individual is\u2014\u2014a qualified IV-A recipient,\u2014a qualified veteran,\u2014a qualified ex-felon,\u2014a designated community resident,\u2014a vocational rehabilitation referral,\u2014a qualified summer youth employee,\u2014a qualified supplemental nutrition assistance program benefits recipient,\u2014a qualified SSI recipient,\u2014a long-term family assistance recipient, or\u2014a qualified long-term unemployment recipient."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "An individual is a member of a targeted group"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(d)(1)In General\u2014An individual is a member of a targeted group if such individual is\u2014I.R.C. \u00a7 51(d)(1)(A)\u2014a qualified IV-A recipient,I.R.C. \u00a7 51(d)(1)(B)\u2014a qualified veteran,I.R.C. \u00a7 51(d)(1)(C)\u2014a qualified ex-felon,I.R.C. \u00a7 51(d)(1)(D)\u2014a designated community resident,I.R.C. \u00a7 51(d)(1)(E)\u2014a vocational rehabilitation referral,I.R.C. \u00a7 51(d)(1)(F)\u2014a qualified summer youth employee,I.R.C. \u00a7 51(d)(1)(G)\u2014a qualified supplemental nutrition assistance program benefits recipient,I.R.C. \u00a7 51(d)(1)(H)\u2014a qualified SSI recipient,I.R.C. \u00a7 51(d)(1)(I)\u2014a long-term family assistance recipient, orI.R.C. \u00a7 51(d)(1)(J)\u2014a qualified long-term unemployment recipient.",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(d)(10)",
+    "source_subsections": [
+      "(d)(10)",
+      "(d)(10)(A)",
+      "(d)(10)(B)",
+      "(d)(10)(B)(i)",
+      "(d)(10)(B)(ii)",
+      "(d)(10)(C)",
+      "(d)(10)(C)(i)",
+      "(d)(10)(C)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Family Assistance Recipient",
+    "text": "The term \u201clong-term family assistance recipient\u201d means any individual who is certified by the designated local agency\u2014\u2014as being a member of a family receiving assistance under a IV-A program (as defined in paragraph(2)(B)) for at least the 18-month period ending on the hiring date,.R.C. \u00a7 51(d)(10)(B)(i)\u2014as being a member of a family receiving such assistance for 18 months beginning after August 5, 1997, and\u2014as having a hiring date which is not more than 2 years after the end of the earliest such 18-month period, or.R.C. \u00a7 51(d)(10)(C)(i)\u2014as being a member of a family which ceased to be eligible for such assistance by reason of any limitation imposed by Federal or State law on the maximum period such assistance is payable to a family, and\u2014as having a hiring date which is not more than 2 years after the date of such cessation.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201clong-term family assistance recipient\u201d means any individual who is certified by the designated local agency\u2014\u2014as being a member of a family receiving assistance under a IV-A program (as defined in paragraph(2)(B)) for at least the 18-month period ending on the hiring date,.R.C. \u00a7 51(d)(10)(B)(i)\u2014as being a member of a family receiving such assistance for 18 months beginning after August 5, 1997, and\u2014as having a hiring date which is not more than 2 years after the end of the earliest such 18-month period, or.R.C. \u00a7 51(d)(10)(C)(i)\u2014as being a member of a family which ceased to be eligible for such assistance by reason of any limitation imposed by Federal or State law on the maximum period such assistance is payable to a family, and\u2014as having a hiring date which is not more than 2 years after the date of such cessation."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(d)(10)Long-Term Family Assistance Recipient\u2014The term \u201clong-term family assistance recipient\u201d means any individual who is certified\n                     by the designated local agency\u2014I.R.C. \u00a7 51(d)(10)(A)\u2014as being a member of a family receiving assistance under a IV-A program (as defined\n                        in paragraph(2)(B)) for at least the 18-month period ending on the hiring date,I.R.C. \u00a7 51(d)(10)(B)I.R.C. \u00a7 51(d)(10)(B)(i)\u2014as being a member of a family receiving such assistance for 18 months beginning after\n                           August 5, 1997, andI.R.C. \u00a7 51(d)(10)(B)(ii)\u2014as having a hiring date which is not more than 2 years after the end of the earliest\n                           such 18-month period, orI.R.C. \u00a7 51(d)(10)(C)I.R.C. \u00a7 51(d)(10)(C)(i)\u2014as being a member of a family which ceased to be eligible for such assistance by reason\n                           of any limitation imposed by Federal or State law on the maximum period such assistance\n                           is payable to a family, andI.R.C. \u00a7 51(d)(10)(C)(ii)\u2014as having a hiring date which is not more than 2 years after the date of such cessation.",
+    "definitions": {
+      "term": "long-term family assistance recipient",
+      "requirements": [
+        "any individual who is certified by the designated local agency\u2014\u2014as being a member of a family receiving assistance under a IV-A program (as defined in paragraph(2)(B)) for at least the 18-month period ending on the hiring date,.R.C. \u00a7 51(d)(10)(B)(i)\u2014as being a member of a family receiving such assistance for 18 months beginning after August 5, 1997, and\u2014as having a hiring date which is not more than 2 years after the end of the earliest such 18-month period, or.R.C. \u00a7 51(d)(10)(C)(i)\u2014as being a member of a family which ceased to be eligible for such assistance by reason of any limitation imposed by Federal or State law on the maximum period such assistance is payable to a family, and\u2014as having a hiring date which is not more than 2 years after the date of such cessation."
+      ]
+    }
+  },
+  {
+    "section": "51",
+    "subsection": "(d)(11)",
+    "source_subsections": [
+      "(d)(11)"
+    ],
+    "rule_type": "definition",
+    "title": "Date",
+    "text": "The term \u201chiring date\u201d means the day the individual is hired by the employer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201chiring date\u201d means the day the individual is hired by the employer."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(d)(11)Hiring Date\u2014The term \u201chiring date\u201d means the day the individual is hired by the employer.",
+    "definitions": {
+      "term": "hiring date",
+      "requirements": [
+        "the day the individual is hired by the employer."
+      ]
+    }
+  },
+  {
+    "section": "51",
+    "subsection": "(d)(12)",
+    "source_subsections": [
+      "(d)(12)"
+    ],
+    "rule_type": "definition",
+    "title": "Local Agency",
+    "text": "The term \u201cdesignated local agency\u201d means a State employment security agency established in accordance with the Act of June 6, 1933, as amended (29 U.S.C. 49-49n).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cdesignated local agency\u201d means a State employment security agency established in accordance with the Act of June 6, 1933, as amended (29 U.S.C. 49-49n)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(d)(12)Designated Local Agency\u2014The term \u201cdesignated local agency\u201d means a State employment security agency established\n                     in accordance with the Act of June 6, 1933, as amended (29 U.S.C. 49-49n).",
+    "definitions": {
+      "term": "designated local agency",
+      "requirements": [
+        "a State employment security agency established in accordance with the Act of June 6, 1933, as amended (29 U.S.C. 49-49n)."
+      ]
+    }
+  },
+  {
+    "section": "51",
+    "subsection": "(d)(13)(A)",
+    "source_subsections": [
+      "(d)(13)(A)",
+      "(d)(13)(A)(i)",
+      "(d)(13)(A)(ii)",
+      "(d)(13)(A)(ii)(I)",
+      "(d)(13)(A)(ii)(II)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "An individual shall not be treated as a member of a targeted group unless\u2014\u2014on or before the day on which such individual begins work for the employer, the employer has received a certification from a designated local agency that such individual is a member of a targeted group, or\u2014\u2014on or before the day the individual is offered employment with the employer, a pre-screening notice is completed by the employer with respect to such individual, and\u2014not later than the 28th day after the individual begins work for the employer, the employer submits such notice, signed by the employer and the individual under penalties of perjury, to the designated local agency as part of a written request for such a certification from such agency.For purposes of this paragraph, the term \u201cpre-screening notice\u201d means a document (in such form as the Secretary shall prescribe) which contains information provided by the individual on the basis of which the employer believes that the individual is a member of a targeted group.",
+    "conditions": [
+      "\u2014\u2014on or before the day on which such individual begins work for the employer, the employer has received a certification from a designated local agency that such individual is a member of a targeted group, or\u2014\u2014on or before the day the individual is offered employment with the employer, a pre-screening notice is completed by the employer with respect to such individual, and\u2014not later than the 28th day after the individual begins work for the employer, the employer submits such notice, signed by the employer and the individual under penalties of perjury, to the designated local agency as part of a written request for such a certification from such agency.For purposes of this paragraph, the term \u201cpre-screening notice\u201d means a document (in such form as the Secretary shall prescribe) which contains information provided by the individual on the basis of which the employer believes that the individual is a member of a targeted group."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "\u2014\u2014on or before the day on which such individual begins work for the employer, the employer has received a certification from a designated local agency that such individual is a member of a targeted group, or\u2014\u2014on or before the day the individual is offered employment with the employer, a pre-screening notice is completed by the employer with respect to such individual, and\u2014not later than the 28th day after the individual begins work for the employer, the employer submits such notice, signed by the employer and the individual under penalties of perjury, to the designated local agency as part of a written request for such a certification from such agency.For purposes of this paragraph, the term \u201cpre-screening notice\u201d means a document (in such form as the Secretary shall prescribe) which contains information provided by the individual on the basis of which the employer believes that the individual is a member of a targeted group."
+      ],
+      "except": [],
+      "result": "An individual shall not be treated as a member of a targeted group"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(d)(13)(A)In General\u2014An individual shall not be treated as a member of a targeted group unless\u2014I.R.C. \u00a7 51(d)(13)(A)(i)\u2014on or before the day on which such individual begins work for the employer, the employer\n                           has received a certification from a designated local agency that such individual is\n                           a member of a targeted group, orI.R.C. \u00a7 51(d)(13)(A)(ii)\u2014I.R.C. \u00a7 51(d)(13)(A)(ii)(I)\u2014on or before the day the individual is offered employment with the employer, a pre-screening\n                              notice is completed by the employer with respect to such individual, andI.R.C. \u00a7 51(d)(13)(A)(ii)(II)\u2014not later than the 28th day after the individual begins work for the employer, the\n                              employer submits such notice, signed by the employer and the individual under penalties\n                              of perjury, to the designated local agency as part of a written request for such a\n                              certification from such agency.For purposes of this paragraph, the term \u201cpre-screening notice\u201d means a document (in\n                              such form as the Secretary shall prescribe) which contains information provided by\n                              the individual on the basis of which the employer believes that the individual is\n                              a member of a targeted group.",
+    "definitions": {
+      "term": "pre-screening notice",
+      "requirements": [
+        "a document (in such form as the Secretary shall prescribe) which contains information provided by the individual on the basis of which the employer believes that the individual is a member of a targeted group."
+      ]
+    }
+  },
+  {
+    "section": "51",
+    "subsection": "(d)(13)(B)",
+    "source_subsections": [
+      "(d)(13)(B)",
+      "(d)(13)(B)(i)",
+      "(d)(13)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Certifications",
+    "text": "If\u2014\u2014an individual has been certified by a designated local agency as a member of a targeted group, and\u2014such certification is incorrect because it was based on false information provided by such individual,",
+    "conditions": [
+      "\u2014\u2014an individual has been certified by a designated local agency as a member of a targeted group, and\u2014such certification is incorrect because it was based on false information provided by such individual,"
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014an individual has been certified by a designated local agency as a member of a targeted group, and\u2014such certification is incorrect because it was based on false information provided by such individual,"
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(d)(13)(B)Incorrect Certifications\u2014If\u2014I.R.C. \u00a7 51(d)(13)(B)(i)\u2014an individual has been certified by a designated local agency as a member of a targeted\n                           group, andI.R.C. \u00a7 51(d)(13)(B)(ii)\u2014such certification is incorrect because it was based on false information provided\n                           by such individual,",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(d)(13)(C)",
+    "source_subsections": [
+      "(d)(13)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Denial Of Request",
+    "text": "If a designated local agency denies a request for certification of membership in a targeted group, such agency shall provide to the person making such request a written explanation of the reasons for such denial.",
+    "conditions": [
+      "a designated local agency denies a request for certification of membership in a targeted group, such agency shall provide to the person making such request a written explanation of the reasons for such denial."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "a designated local agency denies a request for certification of membership in a targeted group, such agency shall provide to the person making such request a written explanation of the reasons for such denial."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(d)(13)(C)Explanation Of Denial Of Request\u2014If a designated local agency denies a request for certification of membership in a\n                        targeted group, such agency shall provide to the person making such request a written\n                        explanation of the reasons for such denial.",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(d)(13)(D)(i)",
+    "source_subsections": [
+      "(d)(13)(D)(i)",
+      "(d)(13)(D)(i)(I)",
+      "(d)(13)(D)(i)(II)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Notwithstanding subparagraph(A), for purposes of paragraph(3)(A)\u2014\u2014a veteran will be treated as certified by the designated local agency as having aggregate periods of unemployment meeting the requirements of clause(ii)(II)or(iv)of such paragraph (whichever is applicable) if such veteran is certified by such agency as being in receipt of unemployment compensation under State or Federal law for not less than 6 months during the 1-year period ending on the hiring date, and\u2014a veteran will be treated as certified by the designated local agency as having aggregate periods of unemployment meeting the requirements of clause(iii)of such paragraph if such veteran is certified by such agency as being in receipt of unemployment compensation under State or Federal law for not less than 4 weeks (but less than 6 months) during the 1-year period ending on the hiring date.",
+    "conditions": [
+      "such veteran is certified by such agency as being in receipt of unemployment compensation under State or Federal law for not less than 6 months during the 1-year period ending on the hiring date, and\u2014a veteran will be treated as certified by the designated local agency as having aggregate periods of unemployment meeting the requirements of clause(iii)of such paragraph",
+      "such veteran is certified by such agency as being in receipt of unemployment compensation under State or Federal law for not less than 4 weeks (but less than 6 months) during the 1-year period ending on the hiring date."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such veteran is certified by such agency as being in receipt of unemployment compensation under State or Federal law for not less than 6 months during the 1-year period ending on the hiring date, and\u2014a veteran will be treated as certified by the designated local agency as having aggregate periods of unemployment meeting the requirements of clause(iii)of such paragraph",
+        "such veteran is certified by such agency as being in receipt of unemployment compensation under State or Federal law for not less than 4 weeks (but less than 6 months) during the 1-year period ending on the hiring date."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Notwithstanding subparagraph(A), for purposes of paragraph(3)(A)\u2014\u2014a veteran will be treated as certified by the designated local agency as having aggregate periods of unemployment meeting the requirements of clause(ii)(II)or(iv)of such paragraph (whichever is applicable)"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(d)(13)(D)(i)In General\u2014Notwithstanding subparagraph(A), for purposes of paragraph(3)(A)\u2014I.R.C. \u00a7 51(d)(13)(D)(i)(I)\u2014a veteran will be treated as certified by the designated local agency as having aggregate\n                              periods of unemployment meeting the requirements of clause(ii)(II)or(iv)of such paragraph (whichever is applicable) if such veteran is certified by such\n                              agency as being in receipt of unemployment compensation under State or Federal law\n                              for not less than 6 months during the 1-year period ending on the hiring date, andI.R.C. \u00a7 51(d)(13)(D)(i)(II)\u2014a veteran will be treated as certified by the designated local agency as having aggregate\n                              periods of unemployment meeting the requirements of clause(iii)of such paragraph if such veteran is certified by such agency as being in receipt\n                              of unemployment compensation under State or Federal law for not less than 4 weeks\n                              (but less than 6 months) during the 1-year period ending on the hiring date.",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(d)(13)(D)(ii)",
+    "source_subsections": [
+      "(d)(13)(D)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Authority",
+    "text": "The Secretary may provide alternative methods for certification of a veteran as a qualified veteran described in clause(ii)(II),(iii), or(iv)of paragraph(3)(A), at the Secretary's discretion.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary may provide alternative methods for certification of a veteran as a qualified veteran described in clause(ii)(II),(iii), or(iv)of paragraph(3)(A), at the Secretary's discretion."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(d)(13)(D)(ii)Regulatory Authority\u2014The Secretary may provide alternative methods for certification of a veteran as a\n                           qualified veteran described in clause(ii)(II),(iii), or(iv)of paragraph(3)(A), at the Secretary's discretion.",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(d)(14)(A)",
+    "source_subsections": [
+      "(d)(14)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Any unemployed veteran or disconnected youth who begins work for the employer during 2009 or 2010 shall be treated as a member of a targeted group for purposes of this subpart.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Any unemployed veteran or disconnected youth who begins work for the employer during 2009 or 2010 shall be treated as a member of a targeted group for purposes of this subpart."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(d)(14)(A)In General\u2014Any unemployed veteran or disconnected youth who begins work for the employer during\n                        2009 or 2010 shall be treated as a member of a targeted group for purposes of this\n                        subpart.",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(d)(14)(B)(i)",
+    "source_subsections": [
+      "(d)(14)(B)(i)",
+      "(d)(14)(B)(i)(I)",
+      "(d)(14)(B)(i)(II)"
+    ],
+    "rule_type": "definition",
+    "title": "Veteran",
+    "text": "The term \u201cunemployed veteran\u201d means any veteran (as defined in paragraph(3)(B), determined without regard to clause(ii)thereof) who is certified by the designated local agency as\u2014\u2014having been discharged or released from active duty in the Armed Forces at any time during the 5-year period ending on the hiring date, and\u2014being in receipt of unemployment compensation under State or Federal law for not less than 4 weeks during the 1-year period ending on the hiring date.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cunemployed veteran\u201d means any veteran (as defined in paragraph(3)(B), determined without regard to clause(ii)thereof) who is certified by the designated local agency as\u2014\u2014having been discharged or released from active duty in the Armed Forces at any time during the 5-year period ending on the hiring date, and\u2014being in receipt of unemployment compensation under State or Federal law for not less than 4 weeks during the 1-year period ending on the hiring date."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(d)(14)(B)(i)Unemployed Veteran\u2014The term \u201cunemployed veteran\u201d means any veteran (as defined in paragraph(3)(B), determined without regard to clause(ii)thereof) who is certified by the designated local agency as\u2014I.R.C. \u00a7 51(d)(14)(B)(i)(I)\u2014having been discharged or released from active duty in the Armed Forces at any time\n                              during the 5-year period ending on the hiring date, andI.R.C. \u00a7 51(d)(14)(B)(i)(II)\u2014being in receipt of unemployment compensation under State or Federal law for not less\n                              than 4 weeks during the 1-year period ending on the hiring date.",
+    "definitions": {
+      "term": "unemployed veteran",
+      "requirements": [
+        "any veteran (as defined in paragraph(3)(B), determined without regard to clause(ii)thereof) who is certified by the designated local agency as\u2014\u2014having been discharged or released from active duty in the Armed Forces at any time during the 5-year period ending on the hiring date, and\u2014being in receipt of unemployment compensation under State or Federal law for not less than 4 weeks during the 1-year period ending on the hiring date."
+      ]
+    }
+  },
+  {
+    "section": "51",
+    "subsection": "(d)(14)(B)(ii)",
+    "source_subsections": [
+      "(d)(14)(B)(ii)",
+      "(d)(14)(B)(ii)(I)",
+      "(d)(14)(B)(ii)(II)",
+      "(d)(14)(B)(ii)(III)",
+      "(d)(14)(B)(ii)(IV)"
+    ],
+    "rule_type": "definition",
+    "title": "Youth",
+    "text": "The term \u201cdisconnected youth\u201d means any individual who is certified by the designated local agency\u2014\u2014as having attained age 16 but not age 25 on the hiring date,\u2014as not regularly attending any secondary, technical, or post-secondary school during the 6-month period preceding the hiring date,\u2014as not regularly employed during such 6-month period, and\u2014as not readily employable by reason of lacking a sufficient number of basic skills.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cdisconnected youth\u201d means any individual who is certified by the designated local agency\u2014\u2014as having attained age 16 but not age 25 on the hiring date,\u2014as not regularly attending any secondary, technical, or post-secondary school during the 6-month period preceding the hiring date,\u2014as not regularly employed during such 6-month period, and\u2014as not readily employable by reason of lacking a sufficient number of basic skills."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(d)(14)(B)(ii)Disconnected Youth\u2014The term \u201cdisconnected youth\u201d means any individual who is certified by the designated\n                           local agency\u2014I.R.C. \u00a7 51(d)(14)(B)(ii)(I)\u2014as having attained age 16 but not age 25 on the hiring date,I.R.C. \u00a7 51(d)(14)(B)(ii)(II)\u2014as not regularly attending any secondary, technical, or post-secondary school during\n                              the 6-month period preceding the hiring date,I.R.C. \u00a7 51(d)(14)(B)(ii)(III)\u2014as not regularly employed during such 6-month period, andI.R.C. \u00a7 51(d)(14)(B)(ii)(IV)\u2014as not readily employable by reason of lacking a sufficient number of basic skills.",
+    "definitions": {
+      "term": "disconnected youth",
+      "requirements": [
+        "any individual who is certified by the designated local agency\u2014\u2014as having attained age 16 but not age 25 on the hiring date,\u2014as not regularly attending any secondary, technical, or post-secondary school during the 6-month period preceding the hiring date,\u2014as not regularly employed during such 6-month period, and\u2014as not readily employable by reason of lacking a sufficient number of basic skills."
+      ]
+    }
+  },
+  {
+    "section": "51",
+    "subsection": "(d)(15)",
+    "source_subsections": [
+      "(d)(15)",
+      "(d)(15)(A)",
+      "(d)(15)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Long",
+    "text": "Term Unemployment Recipient\u2014The term \u201cqualified long-term unemployment recipient\u201d means any individual who is certified by the designated local agency as being in a period of unemployment which\u2014\u2014is not less than 27 consecutive weeks, and\u2014includes a period in which the individual was receiving unemployment compensation under State or Federal law.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Term Unemployment Recipient\u2014The term \u201cqualified long-term unemployment recipient\u201d means any individual who is certified by the designated local agency as being in a period of unemployment which\u2014\u2014is not less than 27 consecutive weeks, and\u2014includes a period in which the individual was receiving unemployment compensation under State or Federal law."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(d)(15)Qualified Long-Term Unemployment Recipient\u2014The term \u201cqualified long-term unemployment recipient\u201d means any individual who is\n                     certified by the designated local agency as being in a period of unemployment which\u2014I.R.C. \u00a7 51(d)(15)(A)\u2014is not less than 27 consecutive weeks, andI.R.C. \u00a7 51(d)(15)(B)\u2014includes a period in which the individual was receiving unemployment compensation\n                        under State or Federal law.",
+    "definitions": {
+      "term": "qualified long-term unemployment recipient",
+      "requirements": [
+        "any individual who is certified by the designated local agency as being in a period of unemployment which\u2014\u2014is not less than 27 consecutive weeks, and\u2014includes a period in which the individual was receiving unemployment compensation under State or Federal law."
+      ]
+    }
+  },
+  {
+    "section": "51",
+    "subsection": "(d)(2)(A)",
+    "source_subsections": [
+      "(d)(2)(A)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cqualified IV-A recipient\u201d means any individual who is certified by the designated local agency as being a member of a family receiving assistance under a IV-A program for any 9 months during the 18-month period ending on the hiring date.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified IV-A recipient\u201d means any individual who is certified by the designated local agency as being a member of a family receiving assistance under a IV-A program for any 9 months during the 18-month period ending on the hiring date."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(d)(2)(A)In General\u2014The term \u201cqualified IV-A recipient\u201d means any individual who is certified by the designated\n                        local agency as being a member of a family receiving assistance under a IV-A program\n                        for any 9 months during the 18-month period ending on the hiring date.",
+    "definitions": {
+      "term": "qualified IV-A recipient",
+      "requirements": [
+        "any individual who is certified by the designated local agency as being a member of a family receiving assistance under a IV-A program for any 9 months during the 18-month period ending on the hiring date."
+      ]
+    }
+  },
+  {
+    "section": "51",
+    "subsection": "(d)(2)(B)",
+    "source_subsections": [
+      "(d)(2)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Program",
+    "text": "For purposes of this paragraph, the term \u201cIV-A program\u201d means any program providing assistance under a State program funded under part A of title IV of the Social Security Act and any successor of such program.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the term \u201cIV-A program\u201d means any program providing assistance under a State program funded under part A of title IV of the Social Security Act and any successor of such program."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(d)(2)(B)IV-A Program\u2014For purposes of this paragraph, the term \u201cIV-A program\u201d means any program providing\n                        assistance under a State program funded under part A of title IV of the Social Security\n                        Act and any successor of such program.",
+    "definitions": {
+      "term": "IV-A program",
+      "requirements": [
+        "any program providing assistance under a State program funded under part A of title IV of the Social Security Act and any successor of such program."
+      ]
+    }
+  },
+  {
+    "section": "51",
+    "subsection": "(d)(3)(A)",
+    "source_subsections": [
+      "(d)(3)(A)",
+      "(d)(3)(A)(i)",
+      "(d)(3)(A)(ii)",
+      "(d)(3)(A)(ii)(I)",
+      "(d)(3)(A)(ii)(II)",
+      "(d)(3)(A)(iii)",
+      "(d)(3)(A)(iv)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cqualified veteran\u201d means any veteran who is certified by the designated local agency as\u2014\u2014being a member of a family receiving assistance under a supplemental nutrition assistance program under the Food and Nutrition Act of 2008 for at least a 3-month period ending during the 12-month period ending on the hiring date,\u2014entitled to compensation for a service-connected disability, and\u2014\u2014having a hiring date which is not more that 1 year after having been discharged or released from active duty in the Armed Forces of the United States, or\u2014having aggregate periods of unemployment during the 1-year period ending on the hiring date which equal or exceed 6 months,\u2014having aggregate periods of unemployment during the 1-year period ending on the hiring date which equal or exceed 4 weeks (but less than 6 months), or\u2014having aggregate periods of unemployment during the 1-year period ending on the hiring date which equal or exceed 6 months.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified veteran\u201d means any veteran who is certified by the designated local agency as\u2014\u2014being a member of a family receiving assistance under a supplemental nutrition assistance program under the Food and Nutrition Act of 2008 for at least a 3-month period ending during the 12-month period ending on the hiring date,\u2014entitled to compensation for a service-connected disability, and\u2014\u2014having a hiring date which is not more that 1 year after having been discharged or released from active duty in the Armed Forces of the United States, or\u2014having aggregate periods of unemployment during the 1-year period ending on the hiring date which equal or exceed 6 months,\u2014having aggregate periods of unemployment during the 1-year period ending on the hiring date which equal or exceed 4 weeks (but less than 6 months), or\u2014having aggregate periods of unemployment during the 1-year period ending on the hiring date which equal or exceed 6 months."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(d)(3)(A)In General\u2014The term \u201cqualified veteran\u201d means any veteran who is certified by the designated\n                        local agency as\u2014I.R.C. \u00a7 51(d)(3)(A)(i)\u2014being a member of a family receiving assistance under a supplemental nutrition assistance\n                           program under the Food and Nutrition Act of 2008 for at least a 3-month period ending\n                           during the 12-month period ending on the hiring date,I.R.C. \u00a7 51(d)(3)(A)(ii)\u2014entitled to compensation for a service-connected disability, and\u2014I.R.C. \u00a7 51(d)(3)(A)(ii)(I)\u2014having a hiring date which is not more that 1 year after having been discharged or\n                              released from active duty in the Armed Forces of the United States, orI.R.C. \u00a7 51(d)(3)(A)(ii)(II)\u2014having aggregate periods of unemployment during the 1-year period ending on the hiring\n                              date which equal or exceed 6 months,I.R.C. \u00a7 51(d)(3)(A)(iii)\u2014having aggregate periods of unemployment during the 1-year period ending on the hiring\n                           date which equal or exceed 4 weeks (but less than 6 months), orI.R.C. \u00a7 51(d)(3)(A)(iv)\u2014having aggregate periods of unemployment during the 1-year period ending on the hiring\n                           date which equal or exceed 6 months.",
+    "definitions": {
+      "term": "qualified veteran",
+      "requirements": [
+        "any veteran who is certified by the designated local agency as\u2014\u2014being a member of a family receiving assistance under a supplemental nutrition assistance program under the Food and Nutrition Act of 2008 for at least a 3-month period ending during the 12-month period ending on the hiring date,\u2014entitled to compensation for a service-connected disability, and\u2014\u2014having a hiring date which is not more that 1 year after having been discharged or released from active duty in the Armed Forces of the United States, or\u2014having aggregate periods of unemployment during the 1-year period ending on the hiring date which equal or exceed 6 months,\u2014having aggregate periods of unemployment during the 1-year period ending on the hiring date which equal or exceed 4 weeks (but less than 6 months), or\u2014having aggregate periods of unemployment during the 1-year period ending on the hiring date which equal or exceed 6 months."
+      ]
+    }
+  },
+  {
+    "section": "51",
+    "subsection": "(d)(3)(B)",
+    "source_subsections": [
+      "(d)(3)(B)",
+      "(d)(3)(B)(i)",
+      "(d)(3)(B)(i)(II)",
+      "(d)(3)(B)(i)(i)",
+      "(d)(3)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "For purposes of subparagraph(A), the term \u201cveteran\u201d means any individual who is certified by the designated local agency as\u2014.R.C. \u00a7 51(d)(3)(B)(i)(i)\u2014having served on active duty (other than active duty for training) in the Armed Forces of the United States for a period of more than 180 days, or\u2014having been discharged or released from active duty in the Armed Forces of the United States for a service-connected disability, and\u2014not having any day during the 60-day period ending on the hiring date which was a day of extended active duty in the Armed Forces of the United States.For purposes of clause(ii), the term \u201cextended active duty\u201d means a period of more than 90 days during which the individual was on active duty (other than active duty for training).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph(A), the term \u201cveteran\u201d means any individual who is certified by the designated local agency as\u2014.R.C. \u00a7 51(d)(3)(B)(i)(i)\u2014having served on active duty (other than active duty for training) in the Armed Forces of the United States for a period of more than 180 days, or\u2014having been discharged or released from active duty in the Armed Forces of the United States for a service-connected disability, and\u2014not having any day during the 60-day period ending on the hiring date which was a day of extended active duty in the Armed Forces of the United States.For purposes of clause(ii), the term \u201cextended active duty\u201d means a period of more than 90 days during which the individual was on active duty (other than active duty for training)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(d)(3)(B)Veteran\u2014For purposes of subparagraph(A), the term \u201cveteran\u201d means any individual who is certified by the designated local\n                        agency as\u2014I.R.C. \u00a7 51(d)(3)(B)(i)I.R.C. \u00a7 51(d)(3)(B)(i)(i)\u2014having served on active duty (other than active duty for training) in the Armed Forces\n                              of the United States for a period of more than 180 days, orI.R.C. \u00a7 51(d)(3)(B)(i)(II)\u2014having been discharged or released from active duty in the Armed Forces of the United\n                              States for a service-connected disability, andI.R.C. \u00a7 51(d)(3)(B)(ii)\u2014not having any day during the 60-day period ending on the hiring date which was a\n                           day of extended active duty in the Armed Forces of the United States.For purposes of clause(ii), the term \u201cextended active duty\u201d means a period of more than 90 days during which\n                           the individual was on active duty (other than active duty for training).",
+    "definitions": {
+      "term": "veteran",
+      "requirements": [
+        "any individual who is certified by the designated local agency as\u2014.R.C. \u00a7 51(d)(3)(B)(i)(i)\u2014having served on active duty (other than active duty for training) in the Armed Forces of the United States for a period of more than 180 days, or\u2014having been discharged or released from active duty in the Armed Forces of the United States for a service-connected disability, and\u2014not having any day during the 60-day period ending on the hiring date which was a day of extended active duty in the Armed Forces of the United States.For purposes of clause(ii), the term \u201cextended active duty\u201d means a period of more than 90 days during which the individual was on active duty (other than active duty for training)."
+      ]
+    }
+  },
+  {
+    "section": "51",
+    "subsection": "(d)(3)(C)",
+    "source_subsections": [
+      "(d)(3)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "Definitions",
+    "text": "For purposes of subparagraph(A), the terms \u201ccompensation\u201d and \u201cservice-connected\u201d have the meanings given such terms under section101of title 38, United States Code.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph(A), the terms \u201ccompensation\u201d and \u201cservice-connected\u201d have the meanings given such terms under section101of title 38, United States Code."
+    },
+    "cross_references": [
+      {
+        "section": "101o",
+        "reason": "anings given such terms under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(d)(3)(C)Other Definitions\u2014For purposes of subparagraph(A), the terms \u201ccompensation\u201d and \u201cservice-connected\u201d have the meanings given such terms\n                        under section101of title 38, United States Code.",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(d)(4)",
+    "source_subsections": [
+      "(d)(4)",
+      "(d)(4)(A)",
+      "(d)(4)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Ex",
+    "text": "Felon\u2014The term \u201cqualified ex-felon\u201d means any individual who is certified by the designated local agency\u2014\u2014as having been convicted of a felony under any statute of the United States or any State, and\u2014as having a hiring date which is not more than 1 year after the last date on which such individual was so convicted or was released from prison.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Felon\u2014The term \u201cqualified ex-felon\u201d means any individual who is certified by the designated local agency\u2014\u2014as having been convicted of a felony under any statute of the United States or any State, and\u2014as having a hiring date which is not more than 1 year after the last date on which such individual was so convicted or was released from prison."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(d)(4)Qualified Ex-Felon\u2014The term \u201cqualified ex-felon\u201d means any individual who is certified by the designated\n                     local agency\u2014I.R.C. \u00a7 51(d)(4)(A)\u2014as having been convicted of a felony under any statute of the United States or any\n                        State, andI.R.C. \u00a7 51(d)(4)(B)\u2014as having a hiring date which is not more than 1 year after the last date on which\n                        such individual was so convicted or was released from prison.",
+    "definitions": {
+      "term": "qualified ex-felon",
+      "requirements": [
+        "any individual who is certified by the designated local agency\u2014\u2014as having been convicted of a felony under any statute of the United States or any State, and\u2014as having a hiring date which is not more than 1 year after the last date on which such individual was so convicted or was released from prison."
+      ]
+    }
+  },
+  {
+    "section": "51",
+    "subsection": "(d)(5)(A)",
+    "source_subsections": [
+      "(d)(5)(A)",
+      "(d)(5)(A)(i)",
+      "(d)(5)(A)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cdesignated community resident\u201d means any individual who is certified by the designated local agency\u2014\u2014as having attained age 18 but not age 40 on the hiring date, and\u2014as having his principal place of abode within an empowerment zone, enterprise community, renewal community, or rural renewal county.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cdesignated community resident\u201d means any individual who is certified by the designated local agency\u2014\u2014as having attained age 18 but not age 40 on the hiring date, and\u2014as having his principal place of abode within an empowerment zone, enterprise community, renewal community, or rural renewal county."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(d)(5)(A)In General\u2014The term \u201cdesignated community resident\u201d means any individual who is certified by\n                        the designated local agency\u2014I.R.C. \u00a7 51(d)(5)(A)(i)\u2014as having attained age 18 but not age 40 on the hiring date, andI.R.C. \u00a7 51(d)(5)(A)(ii)\u2014as having his principal place of abode within an empowerment zone, enterprise community,\n                           renewal community, or rural renewal county.",
+    "definitions": {
+      "term": "designated community resident",
+      "requirements": [
+        "any individual who is certified by the designated local agency\u2014\u2014as having attained age 18 but not age 40 on the hiring date, and\u2014as having his principal place of abode within an empowerment zone, enterprise community, renewal community, or rural renewal county."
+      ]
+    }
+  },
+  {
+    "section": "51",
+    "subsection": "(d)(5)(B)",
+    "source_subsections": [
+      "(d)(5)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Must Continue To Reside In Zone, Community, Or County",
+    "text": "In the case of a designated community resident, the term \u201cqualified wages\u201d shall not include wages paid or incurred for services performed while the individual's principal place of abode is outside an empowerment zone, enterprise community, renewal community, or rural renewal county.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a designated community resident, the term \u201cqualified wages\u201d shall not include wages paid or incurred for services performed while the individual's principal place of abode is outside an empowerment zone, enterprise community, renewal community, or rural renewal county."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(d)(5)(B)Individual Must Continue To Reside In Zone, Community, Or County\u2014In the case of a designated community resident, the term \u201cqualified wages\u201d shall not\n                        include wages paid or incurred for services performed while the individual's principal\n                        place of abode is outside an empowerment zone, enterprise community, renewal community,\n                        or rural renewal county.",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(d)(5)(C)",
+    "source_subsections": [
+      "(d)(5)(C)",
+      "(d)(5)(C)(i)",
+      "(d)(5)(C)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Renewal County",
+    "text": "For purposes of this paragraph, the term \u201crural renewal county\u201d means any county which\u2014\u2014is outside a metropolitan statistical area (defined as such by the Office of Management and Budget), and\u2014during the 5-year periods 1990 through 1994 and 1995 through 1999 had a net population loss.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the term \u201crural renewal county\u201d means any county which\u2014\u2014is outside a metropolitan statistical area (defined as such by the Office of Management and Budget), and\u2014during the 5-year periods 1990 through 1994 and 1995 through 1999 had a net population loss."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(d)(5)(C)Rural Renewal County\u2014For purposes of this paragraph, the term \u201crural renewal county\u201d means any county which\u2014I.R.C. \u00a7 51(d)(5)(C)(i)\u2014is outside a metropolitan statistical area (defined as such by the Office of Management\n                           and Budget), andI.R.C. \u00a7 51(d)(5)(C)(ii)\u2014during the 5-year periods 1990 through 1994 and 1995 through 1999 had a net population\n                           loss.",
+    "definitions": {
+      "term": "rural renewal county",
+      "requirements": [
+        "any county which\u2014\u2014is outside a metropolitan statistical area (defined as such by the Office of Management and Budget), and\u2014during the 5-year periods 1990 through 1994 and 1995 through 1999 had a net population loss."
+      ]
+    }
+  },
+  {
+    "section": "51",
+    "subsection": "(d)(6)",
+    "source_subsections": [
+      "(d)(6)",
+      "(d)(6)(A)",
+      "(d)(6)(B)",
+      "(d)(6)(B)(i)",
+      "(d)(6)(B)(ii)",
+      "(d)(6)(B)(iii)"
+    ],
+    "rule_type": "definition",
+    "title": "Rehabilitation Referral",
+    "text": "The term \u201cvocational rehabilitation referral\u201d means any individual who is certified by the designated local agency as\u2014\u2014having a physical or mental disability which, for such individual, constitutes or results in a substantial handicap to employment, and\u2014having been referred to the employer upon completion of (or while receiving) rehabilitative services pursuant to\u2014\u2014an individualized written plan for employment under a State plan for vocational rehabilitation services approved under the Rehabilitation Act of 1973,\u2014a program of vocational rehabilitation carried out under chapter 31 of title 38, United States Code, or\u2014an individual work plan developed and implemented by an employment network pursuant to subsection (g) of section1148of the Social Security Act with respect to which the requirements of such subsection are met.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cvocational rehabilitation referral\u201d means any individual who is certified by the designated local agency as\u2014\u2014having a physical or mental disability which, for such individual, constitutes or results in a substantial handicap to employment, and\u2014having been referred to the employer upon completion of (or while receiving) rehabilitative services pursuant to\u2014\u2014an individualized written plan for employment under a State plan for vocational rehabilitation services approved under the Rehabilitation Act of 1973,\u2014a program of vocational rehabilitation carried out under chapter 31 of title 38, United States Code, or\u2014an individual work plan developed and implemented by an employment network pursuant to subsection (g) of section1148of the Social Security Act with respect to which the requirements of such subsection are met."
+    },
+    "cross_references": [
+      {
+        "section": "1148o",
+        "reason": "pursuant to subsection (g) of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(d)(6)Vocational Rehabilitation Referral\u2014The term \u201cvocational rehabilitation referral\u201d means any individual who is certified\n                     by the designated local agency as\u2014I.R.C. \u00a7 51(d)(6)(A)\u2014having a physical or mental disability which, for such individual, constitutes or\n                        results in a substantial handicap to employment, andI.R.C. \u00a7 51(d)(6)(B)\u2014having been referred to the employer upon completion of (or while receiving) rehabilitative\n                        services pursuant to\u2014I.R.C. \u00a7 51(d)(6)(B)(i)\u2014an individualized written plan for employment under a State plan for vocational rehabilitation\n                           services approved under the Rehabilitation Act of 1973,I.R.C. \u00a7 51(d)(6)(B)(ii)\u2014a program of vocational rehabilitation carried out under chapter 31 of title 38, United\n                           States Code, orI.R.C. \u00a7 51(d)(6)(B)(iii)\u2014an individual work plan developed and implemented by an employment network pursuant\n                           to subsection (g) of section1148of the Social Security Act with respect to which the requirements of such subsection\n                           are met.",
+    "definitions": {
+      "term": "vocational rehabilitation referral",
+      "requirements": [
+        "any individual who is certified by the designated local agency as\u2014\u2014having a physical or mental disability which, for such individual, constitutes or results in a substantial handicap to employment, and\u2014having been referred to the employer upon completion of (or while receiving) rehabilitative services pursuant to\u2014\u2014an individualized written plan for employment under a State plan for vocational rehabilitation services approved under the Rehabilitation Act of 1973,\u2014a program of vocational rehabilitation carried out under chapter 31 of title 38, United States Code, or\u2014an individual work plan developed and implemented by an employment network pursuant to subsection (g) of section1148of the Social Security Act with respect to which the requirements of such subsection are met."
+      ]
+    }
+  },
+  {
+    "section": "51",
+    "subsection": "(d)(7)(A)",
+    "source_subsections": [
+      "(d)(7)(A)",
+      "(d)(7)(A)(i)",
+      "(d)(7)(A)(ii)",
+      "(d)(7)(A)(iii)",
+      "(d)(7)(A)(iv)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cqualified summer youth employee\u201d means any individual\u2014\u2014who performs services for the employer between May 1 and September 15,\u2014who is certified by the designated local agency as having attained age 16 but not 18 on the hiring date (or if later, on May 1 of the calendar year involved),\u2014who has not been an employee of the employer during any period prior to the 90-day period described in subparagraph(B)(i), and\u2014who is certified by the designated local agency as having his principal place of abode within an empowerment zone, enterprise community, or renewal community.",
+    "conditions": [
+      "later, on May 1 of the calendar year involved),\u2014who has not been an employee of the employer during any period prior to the 90-day period described in subparagraph(B)(i), and\u2014who is certified by the designated local agency as having his principal place of abode within an empowerment zone, enterprise community, or renewal community."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "later, on May 1 of the calendar year involved),\u2014who has not been an employee of the employer during any period prior to the 90-day period described in subparagraph(B)(i), and\u2014who is certified by the designated local agency as having his principal place of abode within an empowerment zone, enterprise community, or renewal community."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified summer youth employee\u201d means any individual\u2014\u2014who performs services for the employer between May 1 and September 15,\u2014who is certified by the designated local agency as having attained age 16 but not 18 on the hiring date (or"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(d)(7)(A)In General\u2014The term \u201cqualified summer youth employee\u201d means any individual\u2014I.R.C. \u00a7 51(d)(7)(A)(i)\u2014who performs services for the employer between May 1 and September 15,I.R.C. \u00a7 51(d)(7)(A)(ii)\u2014who is certified by the designated local agency as having attained age 16 but not\n                           18 on the hiring date (or if later, on May 1 of the calendar year involved),I.R.C. \u00a7 51(d)(7)(A)(iii)\u2014who has not been an employee of the employer during any period prior to the 90-day\n                           period described in subparagraph(B)(i), andI.R.C. \u00a7 51(d)(7)(A)(iv)\u2014who is certified by the designated local agency as having his principal place of abode\n                           within an empowerment zone, enterprise community, or renewal community.",
+    "definitions": {
+      "term": "qualified summer youth employee",
+      "requirements": [
+        "any individual\u2014\u2014who performs services for the employer between May 1 and September 15,\u2014who is certified by the designated local agency as having attained age 16 but not 18 on the hiring date (or if later, on May 1 of the calendar year involved),\u2014who has not been an employee of the employer during any period prior to the 90-day period described in subparagraph(B)(i), and\u2014who is certified by the designated local agency as having his principal place of abode within an empowerment zone, enterprise community, or renewal community."
+      ]
+    }
+  },
+  {
+    "section": "51",
+    "subsection": "(d)(7)(B)",
+    "source_subsections": [
+      "(d)(7)(B)",
+      "(d)(7)(B)(i)",
+      "(d)(7)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Rules For Determining Amount Of Credit",
+    "text": "For purposes of applying this subpart to wages paid or incurred to any qualified summer youth employee\u2014\u2014subsection(b)(2)shall be applied by substituting \u201cany 90-day period between May 1 and September 15\u201d for \u201cthe 1-year period beginning with the day the individual begins work for the employer\u201d, and\u2014subsection(b)(3)shall be applied by substituting \u201c$3,000\u201d for \u201c$6,000\u201d.The preceding sentence shall not apply to an individual who, with respect to the same employer, is certified as a member of another targeted group after such individual has been a qualified summer youth employee.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 3000,
+        "text": "$3,000"
+      },
+      {
+        "label": "amount",
+        "value": 6000,
+        "text": "$6,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of applying this subpart to wages paid or incurred to any qualified summer youth employee\u2014\u2014subsection(b)(2)shall be applied by substituting \u201cany 90-day period between May 1 and September 15\u201d for \u201cthe 1-year period beginning with the day the individual begins work for the employer\u201d, and\u2014subsection(b)(3)shall be applied by substituting \u201c$3,000\u201d for \u201c$6,000\u201d.The preceding sentence shall not apply to an individual who, with respect to the same employer, is certified as a member of another targeted group after such individual has been a qualified summer youth employee."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(d)(7)(B)Special Rules For Determining Amount Of Credit\u2014For purposes of applying this subpart to wages paid or incurred to any qualified summer\n                        youth employee\u2014I.R.C. \u00a7 51(d)(7)(B)(i)\u2014subsection(b)(2)shall be applied by substituting \u201cany 90-day period between May 1 and September 15\u201d\n                           for \u201cthe 1-year period beginning with the day the individual begins work for the employer\u201d,\n                           andI.R.C. \u00a7 51(d)(7)(B)(ii)\u2014subsection(b)(3)shall be applied by substituting \u201c$3,000\u201d for \u201c$6,000\u201d.The preceding sentence shall not apply to an individual who, with respect to the same\n                           employer, is certified as a member of another targeted group after such individual\n                           has been a qualified summer youth employee.",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(d)(7)(C)",
+    "source_subsections": [
+      "(d)(7)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "Must Continue To Reside In Zone Or Community",
+    "text": "Paragraph(5)(B)shall apply for purposes of subparagraph(A)(iv).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Paragraph(5)(B)shall apply for purposes of subparagraph(A)(iv)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(d)(7)(C)Youth Must Continue To Reside In Zone Or Community\u2014Paragraph(5)(B)shall apply for purposes of subparagraph(A)(iv).",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(d)(8)(A)",
+    "source_subsections": [
+      "(d)(8)(A)",
+      "(d)(8)(A)(i)",
+      "(d)(8)(A)(ii)",
+      "(d)(8)(A)(ii)(I)",
+      "(d)(8)(A)(ii)(II)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cqualified supplemental nutrition assistance program benefits recipient\u201d means any individual who is certified by the designated local agency\u2014\u2014as having attained age 18 but not age 40 on the hiring date, and\u2014as being a member of a family\u2014\u2014receiving assistance under a supplemental nutrition assistance program under the Food and Nutrition Act of 2008 for the 6-month period ending on the hiring date, or\u2014receiving such assistance for at least 3 months of the 5-month period ending on the hiring date, in the case of a member of a family who ceases to be eligible for such assistance under section 6(o) of the Food and Nutrition Act of 2008.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified supplemental nutrition assistance program benefits recipient\u201d means any individual who is certified by the designated local agency\u2014\u2014as having attained age 18 but not age 40 on the hiring date, and\u2014as being a member of a family\u2014\u2014receiving assistance under a supplemental nutrition assistance program under the Food and Nutrition Act of 2008 for the 6-month period ending on the hiring date, or\u2014receiving such assistance for at least 3 months of the 5-month period ending on the hiring date, in the case of a member of a family who ceases to be eligible for such assistance under section 6(o) of the Food and Nutrition Act of 2008."
+    },
+    "cross_references": [
+      {
+        "section": "6(o)",
+        "reason": "ble for such assistance under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(d)(8)(A)In General\u2014The term \u201cqualified supplemental nutrition assistance program benefits recipient\u201d\n                        means any individual who is certified by the designated local agency\u2014I.R.C. \u00a7 51(d)(8)(A)(i)\u2014as having attained age 18 but not age 40 on the hiring date, andI.R.C. \u00a7 51(d)(8)(A)(ii)\u2014as being a member of a family\u2014I.R.C. \u00a7 51(d)(8)(A)(ii)(I)\u2014receiving assistance under a supplemental nutrition assistance program under the Food\n                              and Nutrition Act of 2008 for the 6-month period ending on the hiring date, orI.R.C. \u00a7 51(d)(8)(A)(ii)(II)\u2014receiving such assistance for at least 3 months of the 5-month period ending on the\n                              hiring date, in the case of a member of a family who ceases to be eligible for such\n                              assistance under section 6(o) of the Food and Nutrition Act of 2008.",
+    "definitions": {
+      "term": "qualified supplemental nutrition assistance program benefits recipient",
+      "requirements": [
+        "any individual who is certified by the designated local agency\u2014\u2014as having attained age 18 but not age 40 on the hiring date, and\u2014as being a member of a family\u2014\u2014receiving assistance under a supplemental nutrition assistance program under the Food and Nutrition Act of 2008 for the 6-month period ending on the hiring date, or\u2014receiving such assistance for at least 3 months of the 5-month period ending on the hiring date, in the case of a member of a family who ceases to be eligible for such assistance under section 6(o) of the Food and Nutrition Act of 2008."
+      ]
+    }
+  },
+  {
+    "section": "51",
+    "subsection": "(d)(8)(B)",
+    "source_subsections": [
+      "(d)(8)(B)"
+    ],
+    "rule_type": "exception",
+    "title": "Information",
+    "text": "Notwithstanding any other provision of law, the Secretary of the Treasury and the Secretary of Agriculture shall enter into an agreement to provide information to designated local agencies with respect to participation in the supplemental nutrition assistance program.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Notwithstanding any other provision of law, the Secretary of the Treasury and the Secretary of Agriculture shall enter into an agreement to provide information to designated local agencies with respect to participation in the supplemental nutrition assistance program."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(d)(8)(B)Participation Information\u2014Notwithstanding any other provision of law, the Secretary of the Treasury and the\n                        Secretary of Agriculture shall enter into an agreement to provide information to designated\n                        local agencies with respect to participation in the supplemental nutrition assistance\n                        program.",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(d)(9)",
+    "source_subsections": [
+      "(d)(9)"
+    ],
+    "rule_type": "definition",
+    "title": "SSI Recipient",
+    "text": "The term \u201cqualified SSI recipient\u201d means any individual who is certified by the designated local agency as receiving supplemental security income benefits under title XVI of the Social Security Act (including supplemental security income benefits of the type described in section 1616 of such Act or section 212 ofPublic Law 93-66) for any month ending within the 60-day period ending on the hiring date.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified SSI recipient\u201d means any individual who is certified by the designated local agency as receiving supplemental security income benefits under title XVI of the Social Security Act (including supplemental security income benefits of the type described in section 1616 of such Act or section 212 ofPublic Law 93-66) for any month ending within the 60-day period ending on the hiring date."
+    },
+    "cross_references": [
+      {
+        "section": "1616",
+        "reason": "fits of the type described in..."
+      },
+      {
+        "section": "212",
+        "reason": "of such Act or..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(d)(9)Qualified SSI Recipient\u2014The term \u201cqualified SSI recipient\u201d means any individual who is certified by the designated\n                     local agency as receiving supplemental security income benefits under title XVI of\n                     the Social Security Act (including supplemental security income benefits of the type\n                     described in section 1616 of such Act or section 212 ofPublic Law 93-66) for any month ending within the 60-day period ending on the hiring date.",
+    "definitions": {
+      "term": "qualified SSI recipient",
+      "requirements": [
+        "any individual who is certified by the designated local agency as receiving supplemental security income benefits under title XVI of the Social Security Act (including supplemental security income benefits of the type described in section 1616 of such Act or section 212 ofPublic Law 93-66) for any month ending within the 60-day period ending on the hiring date."
+      ]
+    }
+  },
+  {
+    "section": "51",
+    "subsection": "(e)(1)",
+    "source_subsections": [
+      "(e)(1)",
+      "(e)(1)(A)",
+      "(e)(1)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "With respect to the employment of a long-term family assistance recipient\u2014\u2014the amount of the work opportunity credit determined under this section for the taxable year shall include 50 percent of the qualified second-year wages for such year, and\u2014in lieu of applying subsection(b)(3), the amount of the qualified first-year wages, and the amount of qualified second-year wages, which may be taken into account with respect to such a recipient shall not exceed $10,000 per year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 10000,
+        "text": "$10,000"
+      }
+    ],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "With respect to the employment of a long-term family assistance recipient\u2014\u2014the amount of the work opportunity credit determined under this section for the taxable year shall include 50 percent of the qualified second-year wages for such year, and\u2014in lieu of applying subsection(b)(3), the amount of the qualified first-year wages, and the amount of qualified second-year wages, which may be taken into account with respect to such a recipient shall not exceed $10,000 per year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(e)(1)In General\u2014With respect to the employment of a long-term family assistance recipient\u2014I.R.C. \u00a7 51(e)(1)(A)\u2014the amount of the work opportunity credit determined under this section for the taxable\n                        year shall include 50 percent of the qualified second-year wages for such year, andI.R.C. \u00a7 51(e)(1)(B)\u2014in lieu of applying subsection(b)(3), the amount of the qualified first-year wages, and the amount of qualified second-year\n                        wages, which may be taken into account with respect to such a recipient shall not\n                        exceed $10,000 per year.",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(e)(2)",
+    "source_subsections": [
+      "(e)(2)",
+      "(e)(2)(A)",
+      "(e)(2)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Second",
+    "text": "Year Wages\u2014For purposes of this subsection, the term \u201cqualified second-year wages\u201d means qualified wages\u2014\u2014which are paid to a long-term family assistance recipient, and\u2014which are attributable to service rendered during the 1-year period beginning on the day after the last day of the 1-year period with respect to such recipient determined under subsection (b)(2).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Year Wages\u2014For purposes of this subsection, the term \u201cqualified second-year wages\u201d means qualified wages\u2014\u2014which are paid to a long-term family assistance recipient, and\u2014which are attributable to service rendered during the 1-year period beginning on the day after the last day of the 1-year period with respect to such recipient determined under subsection (b)(2)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(e)(2)Qualified Second-Year Wages\u2014For purposes of this subsection, the term \u201cqualified second-year wages\u201d means qualified\n                     wages\u2014I.R.C. \u00a7 51(e)(2)(A)\u2014which are paid to a long-term family assistance recipient, andI.R.C. \u00a7 51(e)(2)(B)\u2014which are attributable to service rendered during the 1-year period beginning on the\n                        day after the last day of the 1-year period with respect to such recipient determined\n                        under subsection (b)(2).",
+    "definitions": {
+      "term": "qualified second-year wages",
+      "requirements": [
+        "qualified wages\u2014\u2014which are paid to a long-term family assistance recipient, and\u2014which are attributable to service rendered during the 1-year period beginning on the day after the last day of the 1-year period with respect to such recipient determined under subsection (b)(2)."
+      ]
+    }
+  },
+  {
+    "section": "51",
+    "subsection": "(e)(3)",
+    "source_subsections": [
+      "(e)(3)",
+      "(e)(3)(A)",
+      "(e)(3)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Rules For Agricultural And Railway Labor",
+    "text": "If such recipient is an employee to whom subparagraph(A)or(B)of subsection(h)(1)applies, rules similar to the rules of such subparagraphs shall apply except that\u2014\u2014such subparagraph(A)shall be applied by substituting \u201c$10,000\u201d for \u201c$6,000\u201d, and\u2014such subparagraph(B)shall be applied by substituting \u201c$833.33\u201d for \u201c$500\u201d.",
+    "conditions": [
+      "such recipient is an employee to whom subparagraph(A)or(B)of subsection(h)(1)applies, rules similar to the rules of such subparagraphs shall apply"
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 10000,
+        "text": "$10,000"
+      },
+      {
+        "label": "amount",
+        "value": 6000,
+        "text": "$6,000"
+      },
+      {
+        "label": "amount",
+        "value": 833,
+        "text": "$833"
+      },
+      {
+        "label": "amount",
+        "value": 500,
+        "text": "$500"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such recipient is an employee to whom subparagraph(A)or(B)of subsection(h)(1)applies, rules similar to the rules of such subparagraphs shall apply"
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "that\u2014\u2014such subparagraph(A)shall be applied by substituting \u201c$10,000\u201d for \u201c$6,000\u201d, and\u2014such subparagraph(B)shall be applied by substituting \u201c$833.33\u201d for \u201c$500\u201d."
+      ],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(e)(3)Special Rules For Agricultural And Railway Labor\u2014If such recipient is an employee to whom subparagraph(A)or(B)of subsection(h)(1)applies, rules similar to the rules of such subparagraphs shall apply except that\u2014I.R.C. \u00a7 51(e)(3)(A)\u2014such subparagraph(A)shall be applied by substituting \u201c$10,000\u201d for \u201c$6,000\u201d, andI.R.C. \u00a7 51(e)(3)(B)\u2014such subparagraph(B)shall be applied by substituting \u201c$833.33\u201d for \u201c$500\u201d.",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(f)(1)",
+    "source_subsections": [
+      "(f)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "For purposes of this subpart, remuneration paid by an employer to an employee during any taxable year shall be taken into account only if more than one-half of the remuneration so paid is for services performed in a trade or business of the employer.",
+    "conditions": [
+      "more than one-half of the remuneration so paid is for services performed in a trade or business of the employer."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "more than one-half of the remuneration so paid is for services performed in a trade or business of the employer."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subpart, remuneration paid by an employer to an employee during any taxable year shall be taken into account only"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(f)(1)In General\u2014For purposes of this subpart, remuneration paid by an employer to an employee during\n                     any taxable year shall be taken into account only if more than one-half of the remuneration\n                     so paid is for services performed in a trade or business of the employer.",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(f)(2)",
+    "source_subsections": [
+      "(f)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Rule For Certain Determination",
+    "text": "Any determination as to whether paragraph(1), or subparagraph(A)or(B)of subsection(h)(1), applies with respect to any employee for any taxable year shall be made without regard to subsections(a)and(b)of section52.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Any determination as to whether paragraph(1), or subparagraph(A)or(B)of subsection(h)(1), applies with respect to any employee for any taxable year shall be made without regard to subsections(a)and(b)of section52."
+    },
+    "cross_references": [
+      {
+        "section": "52",
+        "reason": "ard to subsections(a)and(b)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(f)(2)Special Rule For Certain Determination\u2014Any determination as to whether paragraph(1), or subparagraph(A)or(B)of subsection(h)(1), applies with respect to any employee for any taxable year shall be made without\n                     regard to subsections(a)and(b)of section52.",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(g)",
+    "source_subsections": [
+      "(g)"
+    ],
+    "rule_type": "condition",
+    "title": "States Employment Service To Notify Employers Of Availability Of Credit",
+    "text": "The United States Employment Service, in consultation with the Internal Revenue Service, shall take such steps as may be necessary or appropriate to keep employers apprised of the availability of the work opportunity credit determined under this subpart.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The United States Employment Service, in consultation with the Internal Revenue Service, shall take such steps as may be necessary or appropriate to keep employers apprised of the availability of the work opportunity credit determined under this subpart."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(g)United States Employment Service To Notify Employers Of Availability Of Credit\u2014The United States Employment Service, in consultation with the Internal Revenue Service,\n                  shall take such steps as may be necessary or appropriate to keep employers apprised\n                  of the availability of the work opportunity credit determined under this subpart.",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(h)(1)(A)",
+    "source_subsections": [
+      "(h)(1)(A)"
+    ],
+    "rule_type": "definition",
+    "title": "Labor",
+    "text": "If the services performed by any employee for an employer during more than one-half of any pay period (within the meaning of section3306(d)) taken into account with respect to any year constitute agricultural labor (within the meaning of section3306(k)), the term \u201cunemployment insurance wages\u201d means, with respect to the remuneration paid by the employer to such employee for such year, an amount equal to so much of such remuneration as constitutes \u201cwages\u201d within the meaning of section3121(a), except that the contribution and benefit base for each calendar year shall be deemed to be $6,000.",
+    "conditions": [
+      "the services performed by any employee for an employer during more than one-half of any pay period (within the meaning of section3306(d)) taken into account with respect to any year constitute agricultural labor (within the meaning of section3306(k)), the term \u201cunemployment insurance wages\u201d means, with respect to the remuneration paid by the employer to such employee for such year, an amount equal to so much of such remuneration as constitutes \u201cwages\u201d within the meaning of section3121(a),"
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 6000,
+        "text": "$6,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the services performed by any employee for an employer during more than one-half of any pay period (within the meaning of section3306(d)) taken into account with respect to any year constitute agricultural labor (within the meaning of section3306(k)), the term \u201cunemployment insurance wages\u201d means, with respect to the remuneration paid by the employer to such employee for such year, an amount equal to so much of such remuneration as constitutes \u201cwages\u201d within the meaning of section3121(a),"
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "that the contribution and benefit base for each calendar year shall be deemed to be $6,000."
+      ],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "3306(d)",
+        "reason": "period (within the meaning of..."
+      },
+      {
+        "section": "3306(k)",
+        "reason": "labor (within the meaning of..."
+      },
+      {
+        "section": "3121(a)",
+        "reason": "\u201cwages\u201d within the meaning of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(h)(1)(A)Agricultural Labor\u2014If the services performed by any employee for an employer during more than one-half\n                        of any pay period (within the meaning of section3306(d)) taken into account with respect to any year constitute agricultural labor (within\n                        the meaning of section3306(k)), the term \u201cunemployment insurance wages\u201d means, with respect to the remuneration\n                        paid by the employer to such employee for such year, an amount equal to so much of\n                        such remuneration as constitutes \u201cwages\u201d within the meaning of section3121(a), except that the contribution and benefit base for each calendar year shall be deemed\n                        to be $6,000.",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(h)(1)(B)",
+    "source_subsections": [
+      "(h)(1)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Labor",
+    "text": "If more than one-half of remuneration paid by an employer to an employee during any year is remuneration for service described in section3306(c)(9), the term \u201cunemployment insurance wages\u201d means, with respect to such employee for such year, an amount equal to so much of the remuneration paid to such employee during such year which would be subject to contributions under section 8(a) of the Railroad Unemployment Insurance Act (45 U.S.C. 358(a)) if the maximum amount subject to such contributions were $500 per month.",
+    "conditions": [
+      "more than one-half of remuneration paid by an employer to an employee during any year is remuneration for service described in section3306(c)(9), the term \u201cunemployment insurance wages\u201d means, with respect to such employee for such year, an amount equal to so much of the remuneration paid to such employee during such year which would be subject to contributions under section 8(a) of the Railroad Unemployment Insurance Act (45 U.S.C. 358(a))",
+      "the maximum amount subject to such contributions were $500 per month."
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 500,
+        "text": "$500"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "more than one-half of remuneration paid by an employer to an employee during any year is remuneration for service described in section3306(c)(9), the term \u201cunemployment insurance wages\u201d means, with respect to such employee for such year, an amount equal to so much of the remuneration paid to such employee during such year which would be subject to contributions under section 8(a) of the Railroad Unemployment Insurance Act (45 U.S.C. 358(a))",
+        "the maximum amount subject to such contributions were $500 per month."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "3306(c)(9)",
+        "reason": "tion for service described in..."
+      },
+      {
+        "section": "8(a)",
+        "reason": "ubject to contributions under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(h)(1)(B)Railway Labor\u2014If more than one-half of remuneration paid by an employer to an employee during any\n                        year is remuneration for service described in section3306(c)(9), the term \u201cunemployment insurance wages\u201d means, with respect to such employee for\n                        such year, an amount equal to so much of the remuneration paid to such employee during\n                        such year which would be subject to contributions under section 8(a) of the Railroad\n                        Unemployment Insurance Act (45 U.S.C. 358(a)) if the maximum amount subject to such contributions were $500 per month.",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(h)(2)",
+    "source_subsections": [
+      "(h)(2)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "In any case to which subparagraph(A)or(B)of paragraph(1)applies, the term \u201cwages\u201d means unemployment insurance wages (determined without regard to any dollar limitation).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In any case to which subparagraph(A)or(B)of paragraph(1)applies, the term \u201cwages\u201d means unemployment insurance wages (determined without regard to any dollar limitation)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(h)(2)Wages\u2014In any case to which subparagraph(A)or(B)of paragraph(1)applies, the term \u201cwages\u201d means unemployment insurance wages (determined without\n                     regard to any dollar limitation).",
+    "definitions": {
+      "term": "wages",
+      "requirements": [
+        "unemployment insurance wages (determined without regard to any dollar limitation)."
+      ]
+    }
+  },
+  {
+    "section": "51",
+    "subsection": "(i)(1)",
+    "source_subsections": [
+      "(i)(1)",
+      "(i)(1)(A)",
+      "(i)(1)(B)",
+      "(i)(1)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "Individuals",
+    "text": "No wages shall be taken into account under subsection(a)with respect to an individual who\u2014\u2014bears any of the relationships described in subparagraphs(A)through(G)of section152(d)(2)to the taxpayer, or, if the taxpayer is a corporation, to an individual who owns, directly or indirectly, more than 50 percent in value of the outstanding stock of the corporation, or, if the taxpayer is an entity other than a corporation, to any individual who owns, directly or indirectly, more than 50 percent of the capital and profits interests in the entity (determined with the application of section267(c)),\u2014if the taxpayer is an estate or trust, is a grantor, beneficiary, or fiduciary of the estate or trust, or is an individual who bears any of the relationships described in subparagraphs(A)through(G)of section152(d)(2)to a grantor, beneficiary, or fiduciary of the estate or trust, or\u2014is a dependent (described in section152(d)(2)(H)) of the taxpayer, or, if the taxpayer is a corporation, of an individual described in subparagraph(A), or, if the taxpayer is an estate or trust, of a grantor, beneficiary, or fiduciary of the estate or trust.",
+    "conditions": [
+      "the taxpayer is a corporation, to an individual who owns, directly or indirectly, more than 50 percent in value of the outstanding stock of the corporation, or,",
+      "the taxpayer is an entity other than a corporation, to any individual who owns, directly or indirectly, more than 50 percent of the capital and profits interests in the entity (determined with the application of section267(c)),\u2014",
+      "the taxpayer is an estate or trust, is a grantor, beneficiary, or fiduciary of the estate or trust, or is an individual who bears any of the relationships described in subparagraphs(A)through(G)of section152(d)(2)to a grantor, beneficiary, or fiduciary of the estate or trust, or\u2014is a dependent (described in section152(d)(2)(H)) of the taxpayer, or,",
+      "the taxpayer is a corporation, of an individual described in subparagraph(A), or,",
+      "the taxpayer is an estate or trust, of a grantor, beneficiary, or fiduciary of the estate or trust."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the taxpayer is a corporation, to an individual who owns, directly or indirectly, more than 50 percent in value of the outstanding stock of the corporation, or,",
+        "the taxpayer is an entity other than a corporation, to any individual who owns, directly or indirectly, more than 50 percent of the capital and profits interests in the entity (determined with the application of section267(c)),\u2014",
+        "the taxpayer is an estate or trust, is a grantor, beneficiary, or fiduciary of the estate or trust, or is an individual who bears any of the relationships described in subparagraphs(A)through(G)of section152(d)(2)to a grantor, beneficiary, or fiduciary of the estate or trust, or\u2014is a dependent (described in section152(d)(2)(H)) of the taxpayer, or,",
+        "the taxpayer is a corporation, of an individual described in subparagraph(A), or,",
+        "the taxpayer is an estate or trust, of a grantor, beneficiary, or fiduciary of the estate or trust."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No wages shall be taken into account under subsection(a)with respect to an individual who\u2014\u2014bears any of the relationships described in subparagraphs(A)through(G)of section152(d)(2)to the taxpayer, or,"
+    },
+    "cross_references": [
+      {
+        "section": "152(d)(2)",
+        "reason": "subparagraphs(A)through(G)of..."
+      },
+      {
+        "section": "267(c)",
+        "reason": "mined with the application of..."
+      },
+      {
+        "section": "152(d)(2)",
+        "reason": "subparagraphs(A)through(G)of..."
+      },
+      {
+        "section": "152(d)(2)(H)",
+        "reason": "\u2014is a dependent (described in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(i)(1)Related Individuals\u2014No wages shall be taken into account under subsection(a)with respect to an individual who\u2014I.R.C. \u00a7 51(i)(1)(A)\u2014bears any of the relationships described in subparagraphs(A)through(G)of section152(d)(2)to the taxpayer, or, if the taxpayer is a corporation, to an individual who owns,\n                        directly or indirectly, more than 50 percent in value of the outstanding stock of\n                        the corporation, or, if the taxpayer is an entity other than a corporation, to any\n                        individual who owns, directly or indirectly, more than 50 percent of the capital and\n                        profits interests in the entity (determined with the application of section267(c)),I.R.C. \u00a7 51(i)(1)(B)\u2014if the taxpayer is an estate or trust, is a grantor, beneficiary, or fiduciary of\n                        the estate or trust, or is an individual who bears any of the relationships described\n                        in subparagraphs(A)through(G)of section152(d)(2)to a grantor, beneficiary, or fiduciary of the estate or trust, orI.R.C. \u00a7 51(i)(1)(C)\u2014is a dependent (described in section152(d)(2)(H)) of the taxpayer, or, if the taxpayer is a corporation, of an individual described\n                        in subparagraph(A), or, if the taxpayer is an estate or trust, of a grantor, beneficiary, or fiduciary\n                        of the estate or trust.",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(i)(2)",
+    "source_subsections": [
+      "(i)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Rehires",
+    "text": "No wages shall be taken into account under subsection(a)with respect to any individual if, prior to the hiring date of such individual, such individual had been employed by the employer at any time.",
+    "conditions": [
+      ", prior to the hiring date of such individual, such individual had been employed by the employer at any time."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        ", prior to the hiring date of such individual, such individual had been employed by the employer at any time."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No wages shall be taken into account under subsection(a)with respect to any individual"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(i)(2)Nonqualifying Rehires\u2014No wages shall be taken into account under subsection(a)with respect to any individual if, prior to the hiring date of such individual, such\n                     individual had been employed by the employer at any time.",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(i)(3)(A)",
+    "source_subsections": [
+      "(i)(3)(A)"
+    ],
+    "rule_type": "computation",
+    "title": "Of Credit For Individuals Performing Fewer Than 400 Hours Of Service",
+    "text": "In the case of an individual who has performed at least 120 hours, but less than 400 hours, of service for the employer, subsection(a)shall be applied by substituting \u201c25 percent\u201d for \u201c40 percent\u201d.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.25,
+        "text": "25 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.4,
+        "text": "40 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of an individual who has performed at least 120 hours, but less than 400 hours, of service for the employer, subsection(a)shall be applied by substituting \u201c25 percent\u201d for \u201c40 percent\u201d."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(i)(3)(A)Reduction Of Credit For Individuals Performing Fewer Than 400 Hours Of Service\u2014In the case of an individual who has performed at least 120 hours, but less than 400\n                        hours, of service for the employer, subsection(a)shall be applied by substituting \u201c25 percent\u201d for \u201c40 percent\u201d.",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(i)(3)(B)",
+    "source_subsections": [
+      "(i)(3)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Credit For Individuals Performing Fewer Than 120 Hours Of Service",
+    "text": "No wages shall be taken into account under subsection(a)with respect to any individual unless such individual has performed at least 120 hours of service for the employer.",
+    "conditions": [
+      "such individual has performed at least 120 hours of service for the employer."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "such individual has performed at least 120 hours of service for the employer."
+      ],
+      "except": [],
+      "result": "No wages shall be taken into account under subsection(a)with respect to any individual"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(i)(3)(B)Denial Of Credit For Individuals Performing Fewer Than 120 Hours Of Service\u2014No wages shall be taken into account under subsection(a)with respect to any individual unless such individual has performed at least 120\n                        hours of service for the employer.",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(j)(1)",
+    "source_subsections": [
+      "(j)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "A taxpayer may elect to have this section not apply for any taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "A taxpayer may elect to have this section not apply for any taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(j)(1)In General\u2014A taxpayer may elect to have this section not apply for any taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(j)(2)",
+    "source_subsections": [
+      "(j)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "For Making Election",
+    "text": "An election under paragraph(1)for any taxable year may be made (or revoked) at any time before the expiration of the 3-year period beginning on the last date prescribed by law for filing the return for such taxable year (determined without regard to extensions).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "An election under paragraph(1)for any taxable year may be made (or revoked) at any time before the expiration of the 3-year period beginning on the last date prescribed by law for filing the return for such taxable year (determined without regard to extensions)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(j)(2)Time For Making Election\u2014An election under paragraph(1)for any taxable year may be made (or revoked) at any time before the expiration of\n                     the 3-year period beginning on the last date prescribed by law for filing the return\n                     for such taxable year (determined without regard to extensions).",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(j)(3)",
+    "source_subsections": [
+      "(j)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Making Election",
+    "text": "An election under paragraph(1)(or revocation thereof) shall be made in such manner as the Secretary may by regulations prescribe.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "An election under paragraph(1)(or revocation thereof) shall be made in such manner as the Secretary may by regulations prescribe."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(j)(3)Manner Of Making Election\u2014An election under paragraph(1)(or revocation thereof) shall be made in such manner as the Secretary may by regulations\n                     prescribe.",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(k)(1)",
+    "source_subsections": [
+      "(k)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Successor Employers",
+    "text": "Under regulations prescribed by the Secretary, in the case of a successor employer referred to in section3306(b)(1), the determination of the amount of the credit under this section with respect to wages paid by such successor employer shall be made in the same manner as if such wages were paid by the predecessor employer referred to in such section.",
+    "conditions": [
+      "such wages were paid by the predecessor employer referred to in such section."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such wages were paid by the predecessor employer referred to in such section."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Under regulations prescribed by the Secretary, in the case of a successor employer referred to in section3306(b)(1), the determination of the amount of the credit under this section with respect to wages paid by such successor employer shall be made in the same manner as"
+    },
+    "cross_references": [
+      {
+        "section": "3306(b)(1)",
+        "reason": "essor employer referred to in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(k)(1)Treatment Of Successor Employers\u2014Under regulations prescribed by the Secretary, in the case of a successor employer\n                     referred to in section3306(b)(1), the determination of the amount of the credit under this section with respect to\n                     wages paid by such successor employer shall be made in the same manner as if such\n                     wages were paid by the predecessor employer referred to in such section.",
+    "definitions": null
+  },
+  {
+    "section": "51",
+    "subsection": "(k)(2)",
+    "source_subsections": [
+      "(k)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Employees Performing Services For Other Persons",
+    "text": "No credit shall be determined under this section with respect to remuneration paid by an employer to an employee for services performed by such employee for another person unless the amount reasonably expected to be received by the employer for such services from such other person exceeds the remuneration paid by the employer to such employee for such services.",
+    "conditions": [
+      "the amount reasonably expected to be received by the employer for such services from such other person exceeds the remuneration paid by the employer to such employee for such services."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "the amount reasonably expected to be received by the employer for such services from such other person exceeds the remuneration paid by the employer to such employee for such services."
+      ],
+      "except": [],
+      "result": "No credit shall be determined under this section with respect to remuneration paid by an employer to an employee for services performed by such employee for another person"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 51(k)(2)Treatment Of Employees Performing Services For Other Persons\u2014No credit shall be determined under this section with respect to remuneration paid\n                     by an employer to an employee for services performed by such employee for another\n                     person unless the amount reasonably expected to be received by the employer for such\n                     services from such other person exceeds the remuneration paid by the employer to such\n                     employee for such services.",
+    "definitions": null
+  }
+]

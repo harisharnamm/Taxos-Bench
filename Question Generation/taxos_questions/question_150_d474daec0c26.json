@@ -1,0 +1,21 @@
+{
+  "id": "d474daec0c26",
+  "section": "150",
+  "citation": "I.R.C. \u00a7 150(d)(3)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 150(d)(3) is discussed as follows: 'I.R.C. \u00a7 150(d)(3)Election To Cease Status As Qualified Scholarship Funding CorporationI.R.C. \u00a7 150(...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 150(d)(3)?",
+  "difficulty": 1,
+  "choices": [
+    "40.0%",
+    "50.0%",
+    "60.0%",
+    "75.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 150(d)(3)"
+  ]
+}

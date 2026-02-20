@@ -1,0 +1,21 @@
+{
+  "id": "5bded59a4238",
+  "section": "267",
+  "citation": "I.R.C. \u00a7 267(b)(10)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 267(b)(10) is discussed as follows: 'I.R.C. \u00a7 267(b)(10)\u2014A  corporation and a partnership if the same persons own--I.R.C. \u00a7 267(b)(10)(A)...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 267(b)(10)?",
+  "difficulty": 1,
+  "choices": [
+    "40.0%",
+    "60.0%",
+    "75.0%",
+    "50.0%"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 267(b)(10)"
+  ]
+}

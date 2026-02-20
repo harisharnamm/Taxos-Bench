@@ -1,0 +1,21 @@
+{
+  "id": "73603049ad17",
+  "section": "927",
+  "citation": "I.R.C. \u00a7 927(d)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 927(d) is discussed as follows: 'I.R.C. \u00a7 927(d)Other Definitions [Repealed]\u2014For  purposes of this subpart\u2014I.R.C. \u00a7 927(d)(1)Carrying...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 927(d)?",
+  "difficulty": 1,
+  "choices": [
+    "40.0%",
+    "50.0%",
+    "75.0%",
+    "60.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 927(d)"
+  ]
+}

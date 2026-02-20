@@ -1,0 +1,1272 @@
+[
+  {
+    "section": "54",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Credit",
+    "text": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54, effective for bonds issued after December 31, 2017.If a taxpayer holds a clean renewable energy bond on 1 or more credit allowance dates of the bond occurring during any taxable year, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the credits determined under subsection(b)with respect to such dates.",
+    "conditions": [
+      "a taxpayer holds a clean renewable energy bond on 1 or more credit allowance dates of the bond occurring during any taxable year, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the credits determined under subsection(b)with respect to such dates."
+    ],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "a taxpayer holds a clean renewable energy bond on 1 or more credit allowance dates of the bond occurring during any taxable year, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the credits determined under subsection(b)with respect to such dates."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54, effective for bonds issued after December 31, 2017."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(a)Allowance Of Credit\u2014Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54, effective for bonds issued after December 31, 2017.If  a taxpayer holds a clean renewable energy bond\n                  on 1 or more credit  allowance dates of the bond occurring during any taxable  year,\n                  there  shall be allowed as a credit against the tax imposed by this chapter  for \n                  the taxable year an amount equal to the sum of the credits determined  under  subsection(b)with respect to such dates.",
+    "definitions": null
+  },
+  {
+    "section": "54",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "The amount of the credit determined under this subsection with respect to any credit allowance date for a clean renewable energy bond is 25 percent of the annual credit determined with respect to such bond.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.25,
+        "text": "25 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of the credit determined under this subsection with respect to any credit allowance date for a clean renewable energy bond is 25 percent of the annual credit determined with respect to such bond."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(b)(1)In General\u2014The  amount of the credit determined under this subsection\n                     with respect to any  credit allowance date for a clean renewable energy bond is  25\n                     percent of  the annual credit determined with respect to such bond.",
+    "definitions": null
+  },
+  {
+    "section": "54",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)",
+      "(b)(2)(A)",
+      "(b)(2)(B)"
+    ],
+    "rule_type": "computation",
+    "title": "Credit",
+    "text": "The annual credit determined with respect to any clean renewable energy bond is the product of\u2014\u2014the credit rate determined by the Secretary under paragraph(3)for the day on which such bond was sold, multiplied by\u2014the outstanding face amount of the bond.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The annual credit determined with respect to any clean renewable energy bond is the product of\u2014\u2014the credit rate determined by the Secretary under paragraph(3)for the day on which such bond was sold, multiplied by\u2014the outstanding face amount of the bond."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(b)(2)Annual Credit\u2014The  annual credit determined with respect to any clean\n                     renewable energy bond  is the product of\u2014I.R.C. \u00a7 54(b)(2)(A)\u2014the  credit rate determined by the Secretary under paragraph(3)for the day   on which such bond was sold, multiplied byI.R.C. \u00a7 54(b)(2)(B)\u2014the  outstanding face amount of the bond.",
+    "definitions": null
+  },
+  {
+    "section": "54",
+    "subsection": "(b)(3)",
+    "source_subsections": [
+      "(b)(3)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "For purposes of paragraph(2), with respect to any clean renewable energy bond, the Secretary shall determine daily or cause to be determined daily a credit rate which shall apply to the first day on which there is a binding, written contract for the sale or exchange of the bond. The credit rate for any day is the credit rate which the Secretary or the Secretary's designee estimates will permit the issuance of clean renewable energy bonds with a specified maturity or redemption date without discount and without interest cost to the qualified issuer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of paragraph(2), with respect to any clean renewable energy bond, the Secretary shall determine daily or cause to be determined daily a credit rate which shall apply to the first day on which there is a binding, written contract for the sale or exchange of the bond. The credit rate for any day is the credit rate which the Secretary or the Secretary's designee estimates will permit the issuance of clean renewable energy bonds with a specified maturity or redemption date without discount and without interest cost to the qualified issuer."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(b)(3)Determination\u2014For  purposes of paragraph(2), with respect to any clean\n                     renewable energy  bond, the Secretary shall determine daily or cause to be  determined\n                     daily  a credit rate which shall apply to the first day on which there  is a  binding,\n                     written contract for the sale or exchange of the bond. The credit   rate for any day\n                     is the credit rate which the Secretary or the  Secretary's  designee estimates will\n                     permit the issuance of clean  renewable energy bonds with  a specified maturity or\n                     redemption date  without discount and without interest\n                     cost to the qualified issuer.",
+    "definitions": null
+  },
+  {
+    "section": "54",
+    "subsection": "(b)(4)(A)",
+    "source_subsections": [
+      "(b)(4)(A)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "March 15,",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "March 15,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(b)(4)(A)\u2014March 15,",
+    "definitions": null
+  },
+  {
+    "section": "54",
+    "subsection": "(b)(4)(B)",
+    "source_subsections": [
+      "(b)(4)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "June 15,",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "June 15,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(b)(4)(B)\u2014June  15,",
+    "definitions": null
+  },
+  {
+    "section": "54",
+    "subsection": "(b)(4)(C)",
+    "source_subsections": [
+      "(b)(4)(C)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "September 15, and",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "September 15, and"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(b)(4)(C)\u2014September 15, and",
+    "definitions": null
+  },
+  {
+    "section": "54",
+    "subsection": "(b)(4)(D)",
+    "source_subsections": [
+      "(b)(4)(D)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "December 15.Such term also includes the last day on which the bond is outstanding.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "December 15.Such term also includes the last day on which the bond is outstanding."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(b)(4)(D)\u2014December 15.Such term also includes the last day  on which the bond is outstanding.",
+    "definitions": null
+  },
+  {
+    "section": "54",
+    "subsection": "(b)(5)",
+    "source_subsections": [
+      "(b)(5)"
+    ],
+    "rule_type": "condition",
+    "title": "Rule For Issuance And Redemption",
+    "text": "In the case of a bond which is issued during the 3-month period ending on a credit allowance date, the amount of the credit determined under this subsection with respect to such credit allowance date shall be a ratable portion of the credit otherwise determined based on the portion of the 3-month period during which the bond is outstanding. A similar rule shall apply when the bond is redeemed or matures.",
+    "conditions": [
+      "the bond is redeemed or matures."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the bond is redeemed or matures."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a bond which is issued during the 3-month period ending on a credit allowance date, the amount of the credit determined under this subsection with respect to such credit allowance date shall be a ratable portion of the credit otherwise determined based on the portion of the 3-month period during which the bond is outstanding. A similar rule shall apply"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(b)(5)Special Rule For Issuance And Redemption\u2014In  the case of a bond which is  issued during the 3-month period ending on a  credit\n                     allowance date, the amount  of the credit determined under this  subsection with respect\n                     to such credit  allowance date shall be a ratable  portion of the credit otherwise\n                     determined\n                     based on the portion of the  3-month period during which the bond is outstanding.\n                     A similar rule shall  apply when the bond is redeemed or matures.",
+    "definitions": null
+  },
+  {
+    "section": "54",
+    "subsection": "(c)",
+    "source_subsections": [
+      "(c)",
+      "(c)(1)",
+      "(c)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Based On Amount Of Tax",
+    "text": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54, effective for bonds issued after December 31, 2017.The credit allowed under subsection(a)for any taxable year shall not exceed the excess of\u2014\u2014the sum of the regular tax liability (as defined in section26(b)) plus the tax imposed by section55, over\u2014the sum of the credits allowable under this part (other than subparts C, I, and J, section1400N(l), and this section).",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "subtraction",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      },
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54, effective for bonds issued after December 31, 2017.The credit allowed under subsection(a)for any taxable year shall not exceed the excess of\u2014\u2014the sum of the regular tax liability (as defined in section26(b)) plus the tax imposed by section55, over\u2014the sum of the credits allowable under this part (other than subparts C, I, and J, section1400N(l), and this section)."
+    },
+    "cross_references": [
+      {
+        "section": "26(b)",
+        "reason": "tax liability (as defined in..."
+      },
+      {
+        "section": "55",
+        "reason": ") plus the tax imposed by..."
+      },
+      {
+        "section": "1400N(l)",
+        "reason": "er than subparts C, I, and J,..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(c)Limitation Based On Amount Of Tax\u2014Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54, effective for bonds issued after December 31, 2017.The  credit allowed under subsection(a)for any taxable year shall not exceed  the excess of\u2014I.R.C. \u00a7 54(c)(1)\u2014the  sum of the regular tax liability\n                     (as defined in section26(b))\n                     plus the   tax imposed by section55, overI.R.C. \u00a7 54(c)(2)\u2014the  sum of the credits allowable under this  part (other than subparts C,  I, and\n                     J, section1400N(l),  and this section).",
+    "definitions": null
+  },
+  {
+    "section": "54",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)",
+      "(d)(1)(A)",
+      "(d)(1)(B)",
+      "(d)(1)(C)",
+      "(d)(1)(D)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cclean renewable energy bond\u201d means any bond issued as part of an issue if\u2014\u2014the bond is issued by a qualified issuer pursuant to an allocation by the Secretary to such issuer of a portion of the national clean renewable energy bond limitation under subsection(f)(2),\u201495 percent or more of the proceeds of such issue are to be used for capital expenditures incurred by qualified borrowers for 1 or more qualified projects,\u2014the qualified issuer designates such bond for purposes of this section and the bond is in registered form, and\u2014the issue meets the requirements of subsection(h).",
+    "conditions": [
+      "\u2014\u2014the bond is issued by a qualified issuer pursuant to an allocation by the Secretary to such issuer of a portion of the national clean renewable energy bond limitation under subsection(f)(2),\u201495 percent or more of the proceeds of such issue are to be used for capital expenditures incurred by qualified borrowers for 1 or more qualified projects,\u2014the qualified issuer designates such bond for purposes of this section and the bond is in registered form, and\u2014the issue meets the requirements of subsection(h)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.95,
+        "text": "95 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014the bond is issued by a qualified issuer pursuant to an allocation by the Secretary to such issuer of a portion of the national clean renewable energy bond limitation under subsection(f)(2),\u201495 percent or more of the proceeds of such issue are to be used for capital expenditures incurred by qualified borrowers for 1 or more qualified projects,\u2014the qualified issuer designates such bond for purposes of this section and the bond is in registered form, and\u2014the issue meets the requirements of subsection(h)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cclean renewable energy bond\u201d means any bond issued as part of an issue"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(d)(1)In General\u2014The  term \u201cclean renewable energy bond\u201d means any bond issued  as part of an  issue\n                     if\u2014I.R.C. \u00a7 54(d)(1)(A)\u2014the  bond is issued by a qualified issuer pursuant to an allocation by the   Secretary\n                        to such issuer of a portion of the national clean renewable  energy  bond limitation\n                        under subsection(f)(2),I.R.C. \u00a7 54(d)(1)(B)\u201495  percent or more of the proceeds of such issue are to be used for capital   expenditures\n                        incurred by qualified borrowers for 1 or more qualified  projects,I.R.C. \u00a7 54(d)(1)(C)\u2014the  qualified issuer designates such bond for purposes of this section and   the\n                        bond is in registered form, andI.R.C. \u00a7 54(d)(1)(D)\u2014the  issue meets the requirements of\n                        subsection(h).",
+    "definitions": {
+      "term": "clean renewable energy bond",
+      "requirements": [
+        "any bond issued as part of an issue if\u2014\u2014the bond is issued by a qualified issuer pursuant to an allocation by the Secretary to such issuer of a portion of the national clean renewable energy bond limitation under subsection(f)(2),\u201495 percent or more of the proceeds of such issue are to be used for capital expenditures incurred by qualified borrowers for 1 or more qualified projects,\u2014the qualified issuer designates such bond for purposes of this section and the bond is in registered form, and\u2014the issue meets the requirements of subsection(h)."
+      ]
+    }
+  },
+  {
+    "section": "54",
+    "subsection": "(d)(2)(A)",
+    "source_subsections": [
+      "(d)(2)(A)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cqualified project\u201d means any qualified facility (as determined under section45(d)without regard to paragraph(10)and to any placed in service date) owned by a qualified borrower.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified project\u201d means any qualified facility (as determined under section45(d)without regard to paragraph(10)and to any placed in service date) owned by a qualified borrower."
+    },
+    "cross_references": [
+      {
+        "section": "45(d)",
+        "reason": "facility (as determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(d)(2)(A)In General\u2014The  term \u201cqualified project\u201d means any qualified facility\n                        (as determined  under section45(d)without regard to paragraph(10)and to any  placed in  service date) owned by a qualified borrower.",
+    "definitions": {
+      "term": "qualified project",
+      "requirements": [
+        "any qualified facility (as determined under section45(d)without regard to paragraph(10)and to any placed in service date) owned by a qualified borrower."
+      ]
+    }
+  },
+  {
+    "section": "54",
+    "subsection": "(d)(2)(B)",
+    "source_subsections": [
+      "(d)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Rules",
+    "text": "For purposes of paragraph(1)(B), a qualified project may be refinanced with proceeds of a clean renewable energy bond only if the indebtedness being refinanced (including any obligation directly or indirectly refinanced by such indebtedness) was originally incurred by a qualified borrower after the date of the enactment of this section.",
+    "conditions": [
+      "the indebtedness being refinanced (including any obligation directly or indirectly refinanced by such indebtedness) was originally incurred by a qualified borrower after the date of the enactment of this section."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the indebtedness being refinanced (including any obligation directly or indirectly refinanced by such indebtedness) was originally incurred by a qualified borrower after the date of the enactment of this section."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of paragraph(1)(B), a qualified project may be refinanced with proceeds of a clean renewable energy bond only"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(d)(2)(B)Refinancing Rules\u2014For  purposes of paragraph(1)(B), a qualified project\n                        may be refinanced with  proceeds of a clean renewable energy bond only if the  indebtedness\n                        being  refinanced (including any obligation directly or indirectly  refinanced by\n                        such indebtedness) was originally incurred by a qualified borrower  after  the date\n                        of the enactment of this section.",
+    "definitions": null
+  },
+  {
+    "section": "54",
+    "subsection": "(d)(2)(C)",
+    "source_subsections": [
+      "(d)(2)(C)",
+      "(d)(2)(C)(i)",
+      "(d)(2)(C)(ii)",
+      "(d)(2)(C)(iii)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "For purposes of paragraph(1)(B), a clean renewable energy bond may be issued to reimburse a qualified borrower for amounts paid after the date of the enactment of this section with respect to a qualified project, but only if\u2014\u2014prior to the payment of the original expenditure, the qualified borrower declared its intent to reimburse such expenditure with the proceeds of a clean renewable energy bond,\u2014not later than 60 days after payment of the original expenditure, the qualified issuer adopts an official intent to reimburse the original expenditure with such proceeds, and\u2014the reimbursement is made not later than 18 months after the date the original expenditure is paid.",
+    "conditions": [
+      "\u2014\u2014prior to the payment of the original expenditure, the qualified borrower declared its intent to reimburse such expenditure with the proceeds of a clean renewable energy bond,\u2014not later than 60 days after payment of the original expenditure, the qualified issuer adopts an official intent to reimburse the original expenditure with such proceeds, and\u2014the reimbursement is made not later than 18 months after the date the original expenditure is paid."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014prior to the payment of the original expenditure, the qualified borrower declared its intent to reimburse such expenditure with the proceeds of a clean renewable energy bond,\u2014not later than 60 days after payment of the original expenditure, the qualified issuer adopts an official intent to reimburse the original expenditure with such proceeds, and\u2014the reimbursement is made not later than 18 months after the date the original expenditure is paid."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of paragraph(1)(B), a clean renewable energy bond may be issued to reimburse a qualified borrower for amounts paid after the date of the enactment of this section with respect to a qualified project, but only"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(d)(2)(C)Reimbursement\u2014For  purposes of paragraph(1)(B), a clean renewable\n                        energy bond may be issued  to reimburse a qualified borrower for amounts paid  after\n                        the date of the  enactment of this section with respect to a qualified  project, but\n                        only  if\u2014I.R.C. \u00a7 54(d)(2)(C)(i)\u2014prior to the payment of the original expenditure, the qualified borrower declared\n                           its intent to reimburse such expenditure with the proceeds of a  clean  renewable\n                           energy bond,I.R.C. \u00a7 54(d)(2)(C)(ii)\u2014not later than 60 days after payment of the original expenditure, the qualified issuer\n                           adopts an official intent to reimburse the original  expenditure  with such proceeds,\n                           andI.R.C. \u00a7 54(d)(2)(C)(iii)\u2014the reimbursement is made not later than 18 months  after the date the  original expenditure\n                           is paid.",
+    "definitions": null
+  },
+  {
+    "section": "54",
+    "subsection": "(d)(2)(D)",
+    "source_subsections": [
+      "(d)(2)(D)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Changes In Use",
+    "text": "For purposes of paragraph(1)(B), the proceeds of an issue shall not be treated as used for a qualified project to the extent that a qualified borrower or qualified issuer takes any action within its control which causes such proceeds not to be used for a qualified project. The Secretary shall prescribe regulations specifying remedial actions that may be taken (including conditions to taking such remedial actions) to prevent an action described in the preceding sentence from causing a bond to fail to be a clean renewable energy bond.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of paragraph(1)(B), the proceeds of an issue shall not be treated as used for a qualified project to the extent that a qualified borrower or qualified issuer takes any action within its control which causes such proceeds not to be used for a qualified project. The Secretary shall prescribe regulations specifying remedial actions that may be taken (including conditions to taking such remedial actions) to prevent an action described in the preceding sentence from causing a bond to fail to be a clean renewable energy bond."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(d)(2)(D)Treatment Of Changes In Use\u2014For  purposes of paragraph(1)(B), the  proceeds of an issue shall not be  treated as used for a qualified project\n                        to the  extent that a qualified  borrower or qualified issuer takes any action within\n                        its  control which  causes such proceeds not to be used for a qualified project. The\n                        Secretary shall prescribe regulations specifying remedial actions that may  be  taken\n                        (including conditions to taking such remedial actions) to  prevent an  action described\n                        in the preceding sentence from causing a bond  to fail to be a  clean renewable energy\n                        bond.",
+    "definitions": null
+  },
+  {
+    "section": "54",
+    "subsection": "(e)(1)",
+    "source_subsections": [
+      "(e)(1)"
+    ],
+    "rule_type": "definition",
+    "title": "Of Term",
+    "text": "A bond shall not be treated as a clean renewable energy bond if the maturity of such bond exceeds the maximum term determined by the Secretary under paragraph(2)with respect to such bond.",
+    "conditions": [
+      "the maturity of such bond exceeds the maximum term determined by the Secretary under paragraph(2)with respect to such bond."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the maturity of such bond exceeds the maximum term determined by the Secretary under paragraph(2)with respect to such bond."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "A bond shall not be treated as a clean renewable energy bond"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(e)(1)Duration Of Term\u2014A  bond shall not be treated as a clean renewable  energy bond if the  maturity of\n                     such bond exceeds the maximum term determined by  the  Secretary under paragraph(2)with respect to such bond.",
+    "definitions": null
+  },
+  {
+    "section": "54",
+    "subsection": "(e)(2)",
+    "source_subsections": [
+      "(e)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Term",
+    "text": "During each calendar month, the Secretary shall determine the maximum term permitted under this paragraph for bonds issued during the following calendar month. Such maximum term shall be the term which the Secretary estimates will result in the present value of the obligation to repay the principal on the bond being equal to 50 percent of the face amount of such bond. Such present value shall be determined without regard to the requirements of subsection(l)(6)and using as a discount rate the average annual interest rate of tax-exempt obligations having a term of 10 years or more which are issued during the month. If the term as so determined is not a multiple of a whole year, such term shall be rounded to the next highest whole year.",
+    "conditions": [
+      "the term as so determined is not a multiple of a whole year, such term shall be rounded to the next highest whole year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the term as so determined is not a multiple of a whole year, such term shall be rounded to the next highest whole year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "During each calendar month, the Secretary shall determine the maximum term permitted under this paragraph for bonds issued during the following calendar month. Such maximum term shall be the term which the Secretary estimates will result in the present value of the obligation to repay the principal on the bond being equal to 50 percent of the face amount of such bond. Such present value shall be determined without regard to the requirements of subsection(l)(6)and using as a discount rate the average annual interest rate of tax-exempt obligations having a term of 10 years or more which are issued during the month."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(e)(2)Maximum Term\u2014During  each calendar month, the Secretary shall determine\n                     the maximum term  permitted under this paragraph for bonds issued during the  following\n                     calendar month. Such maximum term shall be the term which the  Secretary  estimates\n                     will result in the present value of the obligation to repay  the  principal on the\n                     bond being equal to 50 percent of the face amount of such   bond. Such present value\n                     shall be determined without regard to the  requirements  of subsection(l)(6)and using as a discount rate the  average annual interest  rate of tax-exempt obligations\n                     having a term of  10 years or more which are  issued during the month. If the term\n                     as so  determined is not a multiple of a  whole year, such term shall be rounded \n                     to the next highest whole year.",
+    "definitions": null
+  },
+  {
+    "section": "54",
+    "subsection": "(f)(1)",
+    "source_subsections": [
+      "(f)(1)"
+    ],
+    "rule_type": "limitation",
+    "title": "Limitation",
+    "text": "There is a national clean renewable energy bond limitation of $1,200,000,000.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 1200000000,
+        "text": "$1,200,000,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "There is a national clean renewable energy bond limitation of $1,200,000,000."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(f)(1)National Limitation\u2014There  is a national clean renewable energy bond  limitation of $1,200,000,000.",
+    "definitions": null
+  },
+  {
+    "section": "54",
+    "subsection": "(f)(2)",
+    "source_subsections": [
+      "(f)(2)"
+    ],
+    "rule_type": "exception",
+    "title": "By Secretary",
+    "text": "The Secretary shall allocate the amount described in paragraph(1)among qualified projects in such manner as the Secretary determines appropriate, except that the Secretary may not allocate more than $750,000,000 of the national clean renewable energy bond limitation to finance qualified projects of qualified borrowers which are governmental bodies.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 750000000,
+        "text": "$750,000,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "that the Secretary may not allocate more than $750,000,000 of the national clean renewable energy bond limitation to finance qualified projects of qualified borrowers which are governmental bodies."
+      ],
+      "result": "The Secretary shall allocate the amount described in paragraph(1)among qualified projects in such manner as the Secretary determines appropriate,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(f)(2)Allocation By Secretary\u2014The  Secretary shall allocate the amount  described in paragraph(1)among\n                     qualified projects in such manner as the  Secretary determines  appropriate, except\n                     that the Secretary may not allocate  more than  $750,000,000 of the national clean\n                     renewable energy bond limitation to finance qualified projects of qualified borrowers\n                     which are governmental \n                     bodies.",
+    "definitions": null
+  },
+  {
+    "section": "54",
+    "subsection": "(g)",
+    "source_subsections": [
+      "(g)"
+    ],
+    "rule_type": "condition",
+    "title": "Included In Gross Income",
+    "text": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54, effective for bonds issued after December 31, 2017.Gross income includes the amount of the credit allowed to the taxpayer under this section (determined without regard to subsection(c)) and the amount so included shall be treated as interest income.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54, effective for bonds issued after December 31, 2017.Gross income includes the amount of the credit allowed to the taxpayer under this section (determined without regard to subsection(c)) and the amount so included shall be treated as interest income."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(g)Credit Included In Gross Income\u2014Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54, effective for bonds issued after December 31, 2017.Gross  income includes the amount of the  credit allowed to the taxpayer under  this\n                  section (determined without regard to\n                  subsection(c))\n                  and the amount  so included shall be treated as interest income.",
+    "definitions": null
+  },
+  {
+    "section": "54",
+    "subsection": "(h)(1)",
+    "source_subsections": [
+      "(h)(1)",
+      "(h)(1)(A)",
+      "(h)(1)(B)",
+      "(h)(1)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "An issue shall be treated as meeting the requirements of this subsection if, as of the date of issuance, the qualified issuer reasonably expects\u2014\u2014at least 95 percent of the proceeds of such issue are to be spent for 1 or more qualified projects within the 5-year period beginning on the date of issuance of the clean energy bond,\u2014a binding commitment with a third party to spend at least 10 percent of the proceeds of such issue will be incurred within the 6-month period beginning on the date of issuance of the clean energy bond or, in the case of a clean energy bond the proceeds of which are to be loaned to 2 or more qualified borrowers, such binding commitment will be incurred within the 6-month period beginning on the date of the loan of such proceeds to a qualified borrower, and\u2014such projects will be completed with due diligence and the proceeds of such issue will be spent with due diligence.",
+    "conditions": [
+      ", as of the date of issuance, the qualified issuer reasonably expects\u2014\u2014at least 95 percent of the proceeds of such issue are to be spent for 1 or more qualified projects within the 5-year period beginning on the date of issuance of the clean energy bond,\u2014a binding commitment with a third party to spend at least 10 percent of the proceeds of such issue will be incurred within the 6-month period beginning on the date of issuance of the clean energy bond or, in the case of a clean energy bond the proceeds of which are to be loaned to 2 or more qualified borrowers, such binding commitment will be incurred within the 6-month period beginning on the date of the loan of such proceeds to a qualified borrower, and\u2014such projects will be completed with due diligence and the proceeds of such issue will be spent with due diligence."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.95,
+        "text": "95 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.1,
+        "text": "10 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        ", as of the date of issuance, the qualified issuer reasonably expects\u2014\u2014at least 95 percent of the proceeds of such issue are to be spent for 1 or more qualified projects within the 5-year period beginning on the date of issuance of the clean energy bond,\u2014a binding commitment with a third party to spend at least 10 percent of the proceeds of such issue will be incurred within the 6-month period beginning on the date of issuance of the clean energy bond or, in the case of a clean energy bond the proceeds of which are to be loaned to 2 or more qualified borrowers, such binding commitment will be incurred within the 6-month period beginning on the date of the loan of such proceeds to a qualified borrower, and\u2014such projects will be completed with due diligence and the proceeds of such issue will be spent with due diligence."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "An issue shall be treated as meeting the requirements of this subsection"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(h)(1)In General\u2014An  issue shall be treated as meeting the requirements of  this subsection if,  as\n                     of the date of issuance, the qualified issuer reasonably  expects\u2014I.R.C. \u00a7 54(h)(1)(A)\u2014at  least 95 percent of the proceeds of such issue are to be spent for 1 or   more\n                        qualified projects within the 5-year period beginning on the date of   issuance of\n                        the clean energy bond,I.R.C. \u00a7 54(h)(1)(B)\u2014a  binding commitment with a third party to spend at least 10 percent of the   proceeds\n                        of such issue will be incurred within the 6-month period  beginning on  the date of\n                        issuance of the clean energy bond or, in the  case of a clean energy\n                        bond the proceeds of which are to be loaned to 2  or more qualified borrowers,  such\n                        binding commitment will be incurred  within the 6-month period beginning on  the date\n                        of the loan of such  proceeds to a qualified borrower, andI.R.C. \u00a7 54(h)(1)(C)\u2014such   projects will be completed with due diligence and the proceeds of such  issue\n                        will be spent with due diligence.",
+    "definitions": null
+  },
+  {
+    "section": "54",
+    "subsection": "(h)(2)",
+    "source_subsections": [
+      "(h)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Period",
+    "text": "Upon submission of a request prior to the expiration of the period described in paragraph(1)(A), the Secretary may extend such period if the qualified issuer establishes that the failure to satisfy the 5-year requirement is due to reasonable cause and the related projects will continue to proceed with due diligence.",
+    "conditions": [
+      "the qualified issuer establishes that the failure to satisfy the 5-year requirement is due to reasonable cause and the related projects will continue to proceed with due diligence."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the qualified issuer establishes that the failure to satisfy the 5-year requirement is due to reasonable cause and the related projects will continue to proceed with due diligence."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Upon submission of a request prior to the expiration of the period described in paragraph(1)(A), the Secretary may extend such period"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(h)(2)Extension Of Period\u2014Upon  submission of a request prior to the  expiration of the period described  in\n                     paragraph(1)(A), the Secretary may extend  such period if the  qualified issuer establishes that\n                     the failure to satisfy the 5-year  requirement is due to reasonable cause and the\n                     related projects will   continue to proceed with due diligence.",
+    "definitions": null
+  },
+  {
+    "section": "54",
+    "subsection": "(h)(3)",
+    "source_subsections": [
+      "(h)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "To Spend Required Amount Of Bond Proceeds Within 5 Years",
+    "text": "To the extent that less than 95 percent of the proceeds of such issue are expended by the close of the 5-year period beginning on the date of issuance (or if an extension has been obtained under paragraph(2), by the close of the extended period), the qualified issuer shall redeem all of the nonqualified bonds within 90 days after the end of such period. For purposes of this paragraph, the amount of the nonqualified bonds required to be redeemed shall be determined in the same manner as under section142.",
+    "conditions": [
+      "an extension has been obtained under paragraph(2), by the close of the extended period), the qualified issuer shall redeem all of the nonqualified bonds within 90 days after the end of such period. For purposes of this paragraph, the amount of the nonqualified bonds required to be redeemed shall be determined in the same manner as under section142."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.95,
+        "text": "95 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "an extension has been obtained under paragraph(2), by the close of the extended period), the qualified issuer shall redeem all of the nonqualified bonds within 90 days after the end of such period. For purposes of this paragraph, the amount of the nonqualified bonds required to be redeemed shall be determined in the same manner as under section142."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "To the extent that less than 95 percent of the proceeds of such issue are expended by the close of the 5-year period beginning on the date of issuance (or"
+    },
+    "cross_references": [
+      {
+        "section": "142",
+        "reason": "d in the same manner as under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(h)(3)Failure To Spend Required Amount Of Bond Proceeds Within 5 Years\u2014To the  extent that less than 95 percent of the proceeds of such issue are  expended\n                     by  the close of the 5-year period beginning on the date of  issuance (or if an  extension\n                     has been obtained under paragraph(2), by  the close of the extended  period), the qualified issuer shall redeem all  of\n                     the nonqualified bonds within  90 days after the end of such period.  For purposes\n                     of this paragraph, the amount  of the nonqualified bonds  required to be redeemed\n                     shall be determined in the  same manner as under  section142.",
+    "definitions": null
+  },
+  {
+    "section": "54",
+    "subsection": "(i)",
+    "source_subsections": [
+      "(i)"
+    ],
+    "rule_type": "condition",
+    "title": "Rules Relating To Arbitrage",
+    "text": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54, effective for bonds issued after December 31, 2017.A bond which is part of an issue shall not be treated as a clean renewable energy bond unless, with respect to the issue of which the bond is a part, the qualified issuer satisfies the arbitrage requirements of section148with respect to proceeds of the issue.",
+    "conditions": [
+      ", with respect to the issue of which the bond is a part, the qualified issuer satisfies the arbitrage requirements of section148with respect to proceeds of the issue."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        ", with respect to the issue of which the bond is a part, the qualified issuer satisfies the arbitrage requirements of section148with respect to proceeds of the issue."
+      ],
+      "except": [],
+      "result": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54, effective for bonds issued after December 31, 2017.A bond which is part of an issue shall not be treated as a clean renewable energy bond"
+    },
+    "cross_references": [
+      {
+        "section": "148w",
+        "reason": "the arbitrage requirements of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(i)Special Rules Relating To Arbitrage\u2014Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54, effective for bonds issued after December 31, 2017.A  bond which is part of an issue  shall not be treated as a clean renewable  energy\n                  bond unless, with respect to  the issue of which the bond is a  part, the qualified\n                  issuer satisfies the \n                  arbitrage requirements of  section148with respect to proceeds of the issue.",
+    "definitions": null
+  },
+  {
+    "section": "54",
+    "subsection": "(j)(1)",
+    "source_subsections": [
+      "(j)(1)"
+    ],
+    "rule_type": "definition",
+    "title": "Electric Company",
+    "text": "The term \u201ccooperative electric company\u201d means a mutual or cooperative electric company described in section501(c)(12)or section1381(a)(2)(C), or a not-for-profit electric utility which has received a loan or loan guarantee under the Rural Electrification Act.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201ccooperative electric company\u201d means a mutual or cooperative electric company described in section501(c)(12)or section1381(a)(2)(C), or a not-for-profit electric utility which has received a loan or loan guarantee under the Rural Electrification Act."
+    },
+    "cross_references": [
+      {
+        "section": "501(c)(12)",
+        "reason": "electric company described in..."
+      },
+      {
+        "section": "1381(a)(2)(C)",
+        "reason": "or..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(j)(1)Cooperative Electric Company\u2014The  term \u201ccooperative electric company\u201d  means a mutual or cooperative  electric\n                     company described in section501(c)(12)or section1381(a)(2)(C), or a not-for-profit electric utility which has  received a  loan or loan guarantee\n                     under the Rural Electrification Act.",
+    "definitions": {
+      "term": "cooperative electric company",
+      "requirements": [
+        "a mutual or cooperative electric company described in section501(c)(12)or section1381(a)(2)(C), or a not-for-profit electric utility which has received a loan or loan guarantee under the Rural Electrification Act."
+      ]
+    }
+  },
+  {
+    "section": "54",
+    "subsection": "(j)(2)",
+    "source_subsections": [
+      "(j)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Renewable Energy Bond Lender",
+    "text": "The term \u201cclean renewable energy bond lender\u201d means a lender which is a cooperative which is owned by, or has outstanding loans to, 100 or more cooperative electric companies and is in existence on February 1, 2002, and shall include any affiliated entity which is controlled by such lender.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cclean renewable energy bond lender\u201d means a lender which is a cooperative which is owned by, or has outstanding loans to, 100 or more cooperative electric companies and is in existence on February 1, 2002, and shall include any affiliated entity which is controlled by such lender."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(j)(2)Clean Renewable Energy Bond Lender\u2014The  term \u201cclean renewable energy  bond lender\u201d means a lender which is a  cooperative\n                     which is owned by, or has  outstanding loans to, 100 or more  cooperative electric\n                     companies and is in  existence on February 1, 2002,  and shall include any affiliated\n                     entity which is  controlled by such  lender.",
+    "definitions": {
+      "term": "clean renewable energy bond lender",
+      "requirements": [
+        "a lender which is a cooperative which is owned by, or has outstanding loans to, 100 or more cooperative electric companies and is in existence on February 1, 2002, and shall include any affiliated entity which is controlled by such lender."
+      ]
+    }
+  },
+  {
+    "section": "54",
+    "subsection": "(j)(3)",
+    "source_subsections": [
+      "(j)(3)"
+    ],
+    "rule_type": "definition",
+    "title": "Body",
+    "text": "The term \u201cgovernmental body\u201d means any State, territory, possession of the United States, the District of Columbia, Indian tribal government, and any political subdivision thereof.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cgovernmental body\u201d means any State, territory, possession of the United States, the District of Columbia, Indian tribal government, and any political subdivision thereof."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(j)(3)Governmental Body\u2014The  term \u201cgovernmental body\u201d means any State,  territory, possession of the  United\n                     States, the District of Columbia, Indian\n                     tribal government, and  any political subdivision thereof.",
+    "definitions": {
+      "term": "governmental body",
+      "requirements": [
+        "any State, territory, possession of the United States, the District of Columbia, Indian tribal government, and any political subdivision thereof."
+      ]
+    }
+  },
+  {
+    "section": "54",
+    "subsection": "(j)(4)",
+    "source_subsections": [
+      "(j)(4)",
+      "(j)(4)(A)",
+      "(j)(4)(B)",
+      "(j)(4)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "Issuer",
+    "text": "The term \u201cqualified issuer\u201d means\u2014\u2014a clean renewable energy bond lender,\u2014a cooperative electric company, or\u2014a governmental body.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified issuer\u201d means\u2014\u2014a clean renewable energy bond lender,\u2014a cooperative electric company, or\u2014a governmental body."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(j)(4)Qualified Issuer\u2014The  term \u201cqualified issuer\u201d means\u2014I.R.C. \u00a7 54(j)(4)(A)\u2014a  clean renewable energy bond lender,I.R.C. \u00a7 54(j)(4)(B)\u2014a  cooperative electric company,  orI.R.C. \u00a7 54(j)(4)(C)\u2014a  governmental body.",
+    "definitions": null
+  },
+  {
+    "section": "54",
+    "subsection": "(j)(5)",
+    "source_subsections": [
+      "(j)(5)",
+      "(j)(5)(A)",
+      "(j)(5)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Borrower",
+    "text": "The term \u201cqualified borrower\u201d means\u2014\u2014a mutual or cooperative electric company described in section501(c)(12)or1381(a)(2)(C), or\u2014a governmental body.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified borrower\u201d means\u2014\u2014a mutual or cooperative electric company described in section501(c)(12)or1381(a)(2)(C), or\u2014a governmental body."
+    },
+    "cross_references": [
+      {
+        "section": "501(c)(12)",
+        "reason": "electric company described in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(j)(5)Qualified Borrower\u2014The  term \u201cqualified borrower\u201d means\u2014I.R.C. \u00a7 54(j)(5)(A)\u2014a mutual or cooperative electric  company described in section501(c)(12)or1381(a)(2)(C), orI.R.C. \u00a7 54(j)(5)(B)\u2014a  governmental body.",
+    "definitions": null
+  },
+  {
+    "section": "54",
+    "subsection": "(k)",
+    "source_subsections": [
+      "(k)"
+    ],
+    "rule_type": "condition",
+    "title": "Rules Relating To Pool Bonds",
+    "text": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54, effective for bonds issued after December 31, 2017.No portion of a pooled financing bond may be allocable to any loan unless the borrower has entered into a written loan commitment for such portion prior to the issue date of such issue.",
+    "conditions": [
+      "the borrower has entered into a written loan commitment for such portion prior to the issue date of such issue."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "the borrower has entered into a written loan commitment for such portion prior to the issue date of such issue."
+      ],
+      "except": [],
+      "result": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54, effective for bonds issued after December 31, 2017.No portion of a pooled financing bond may be allocable to any loan"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(k)Special Rules Relating To Pool Bonds\u2014Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54, effective for bonds issued after December 31, 2017.No  portion of a pooled financing  bond may be allocable to any loan unless  the\n                  borrower has entered into a written  loan commitment for such portion  prior to the\n                  issue date of such issue.",
+    "definitions": null
+  },
+  {
+    "section": "54",
+    "subsection": "(l)(1)",
+    "source_subsections": [
+      "(l)(1)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "The term \u201cbond\u201d includes any obligation.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cbond\u201d includes any obligation."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(l)(1)Bond\u2014The  term \u201cbond\u201d includes any obligation.",
+    "definitions": null
+  },
+  {
+    "section": "54",
+    "subsection": "(l)(2)",
+    "source_subsections": [
+      "(l)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Financing Bond",
+    "text": "The term \u201cpooled financing bond\u201d shall have the meaning given such term by section149(f)(6)(A).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cpooled financing bond\u201d shall have the meaning given such term by section149(f)(6)(A)."
+    },
+    "cross_references": [
+      {
+        "section": "149(f)(6)(A)",
+        "reason": "he meaning given such term by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(l)(2)Pooled Financing Bond\u2014The  term \u201cpooled financing bond\u201d shall have the  meaning given such term by   section149(f)(6)(A).",
+    "definitions": null
+  },
+  {
+    "section": "54",
+    "subsection": "(l)(3)(A)",
+    "source_subsections": [
+      "(l)(3)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Under regulations prescribed by the Secretary, in the case of a partnership, trust, S corporation, or other pass-thru entity, rules similar to the rules of section41(g)shall apply with respect to the credit allowable under subsection(a).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Under regulations prescribed by the Secretary, in the case of a partnership, trust, S corporation, or other pass-thru entity, rules similar to the rules of section41(g)shall apply with respect to the credit allowable under subsection(a)."
+    },
+    "cross_references": [
+      {
+        "section": "41(g)",
+        "reason": "rules similar to the rules of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(l)(3)(A)In General\u2014Under  regulations prescribed by the Secretary, in the case  of a partnership,  trust,\n                        S corporation, or other pass-thru entity, rules similar  to the  rules of section41(g)shall apply with respect to the credit allowable   under subsection(a).",
+    "definitions": null
+  },
+  {
+    "section": "54",
+    "subsection": "(l)(3)(B)",
+    "source_subsections": [
+      "(l)(3)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Basis Adjustment",
+    "text": "Editor's Note:Sec. 54(l)(3)(B), below, after amendment byPub. L. 115-97, Sec. 13404(c)(2)and before being struck by Sec. 13404(a), is effective for bonds issued after December 31, 2017.In the case of a bond held by a partnership or an S corporation, rules similar to the rules under section1397E(l)(as in effect before its repeal by the Tax Cuts and Jobs Act) shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Editor's Note:Sec. 54(l)(3)(B), below, after amendment byPub. L. 115-97, Sec. 13404(c)(2)and before being struck by Sec. 13404(a), is effective for bonds issued after December 31, 2017.In the case of a bond held by a partnership or an S corporation, rules similar to the rules under section1397E(l)(as in effect before its repeal by the Tax Cuts and Jobs Act) shall apply."
+    },
+    "cross_references": [
+      {
+        "section": "1397E(l)",
+        "reason": "es similar to the rules under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(l)(3)(B)No Basis Adjustment\u2014Editor's Note:Sec. 54(l)(3)(B), below, after amendment byPub. L. 115-97, Sec. 13404(c)(2)and before being struck by Sec. 13404(a), is effective for bonds issued after December\n                                    31, 2017.In  the case of a bond held by a partnership or an S  corporation, rules  similar\n                        to the rules under section1397E(l)(as in effect before its repeal by the Tax Cuts and Jobs Act) shall apply.",
+    "definitions": null
+  },
+  {
+    "section": "54",
+    "subsection": "(l)(4)",
+    "source_subsections": [
+      "(l)(4)"
+    ],
+    "rule_type": "condition",
+    "title": "Principal Amortization Required",
+    "text": "A bond shall not be treated as a clean renewable energy bond unless it is part of an issue which provides for an equal amount of principal to be paid by the qualified issuer during each calendar year that the issue is outstanding.",
+    "conditions": [
+      "it is part of an issue which provides for an equal amount of principal to be paid by the qualified issuer during each calendar year that the issue is outstanding."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "it is part of an issue which provides for an equal amount of principal to be paid by the qualified issuer during each calendar year that the issue is outstanding."
+      ],
+      "except": [],
+      "result": "A bond shall not be treated as a clean renewable energy bond"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(l)(4)Ratable Principal Amortization Required\u2014A  bond shall not be treated as  a clean renewable energy bond unless it is  part\n                     of an issue which provides for  an equal amount of principal to be  paid by the qualified\n                     issuer during each  calendar year that the issue is  outstanding.",
+    "definitions": null
+  },
+  {
+    "section": "54",
+    "subsection": "(l)(5)",
+    "source_subsections": [
+      "(l)(5)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Issuers of clean renewable energy bonds shall submit reports similar to the reports required under section149(e).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Issuers of clean renewable energy bonds shall submit reports similar to the reports required under section149(e)."
+    },
+    "cross_references": [
+      {
+        "section": "149(e)",
+        "reason": "to the reports required under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(l)(5)Reporting\u2014Issuers  of clean renewable energy bonds shall submit reports  similar to the  reports\n                     required under section149(e).",
+    "definitions": null
+  },
+  {
+    "section": "54",
+    "subsection": "(m)",
+    "source_subsections": [
+      "(m)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54, effective for bonds issued after December 31, 2017.This section shall not apply with respect to any bond issued after December 31, 2009.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54, effective for bonds issued after December 31, 2017.This section shall not apply with respect to any bond issued after December 31, 2009."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54(m)Termination\u2014Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54, effective for bonds issued after December 31, 2017.This  section shall not apply with respect to any bond\n                  issued after December  31, 2009.",
+    "definitions": null
+  }
+]

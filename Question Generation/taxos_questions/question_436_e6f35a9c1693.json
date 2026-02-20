@@ -1,0 +1,22 @@
+{
+  "id": "e6f35a9c1693",
+  "section": "436",
+  "citation": "I.R.C. \u00a7 436(e)(2)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 436(e)(2) is discussed as follows: 'I.R.C. \u00a7 436(e)(2)Exemption\u2014Paragraph (1) shall cease to apply with respect to any plan  year,  effe...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 436(e)(2)?",
+  "difficulty": 1,
+  "choices": [
+    "90.0%",
+    "60.0%",
+    "40.0%",
+    "70.0%",
+    "50.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 60.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 436(e)(2)"
+  ]
+}

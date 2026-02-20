@@ -1,0 +1,22 @@
+{
+  "id": "2b39cc4c374c",
+  "section": "1372",
+  "citation": "I.R.C. \u00a7 1372(b)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1372(b) is discussed as follows: 'I.R.C. \u00a7 1372(b)2-Percent Shareholder Defined\u2014For  purposes of this section, the term \u201c2-percent sha...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1372(b)?",
+  "difficulty": 1,
+  "choices": [
+    "2.0%",
+    "98.0%",
+    "0.0%",
+    "3.0%",
+    "12.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 2.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1372(b)"
+  ]
+}

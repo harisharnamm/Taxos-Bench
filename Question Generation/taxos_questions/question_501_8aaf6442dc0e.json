@@ -1,0 +1,22 @@
+{
+  "id": "8aaf6442dc0e",
+  "section": "501",
+  "citation": "I.R.C. \u00a7 501(c)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 501(c) is discussed as follows: 'I.R.C. \u00a7 501(c)List Of Exempt Organizations\u2014The following organizations are referred to in subsectio...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 501(c)?",
+  "difficulty": 1,
+  "choices": [
+    "5.0%",
+    "85.0%",
+    "25.0%",
+    "22.5%",
+    "15.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 15.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 501(c)"
+  ]
+}

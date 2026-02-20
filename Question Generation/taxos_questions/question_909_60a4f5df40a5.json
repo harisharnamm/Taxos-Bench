@@ -1,0 +1,22 @@
+{
+  "id": "60a4f5df40a5",
+  "section": "909",
+  "citation": "I.R.C. \u00a7 909(d)(4)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 909(d)(4) is discussed as follows: 'I.R.C. \u00a7 909(d)(4)Covered Person\u2014The term \u201ccovered person\u201d means, with respect to any person who pay...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 909(d)(4)?",
+  "difficulty": 1,
+  "choices": [
+    "90.0%",
+    "0.0%",
+    "20.0%",
+    "15.0%",
+    "10.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 10.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 909(d)(4)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "104456f4fbe8",
+  "section": "120",
+  "citation": "I.R.C. \u00a7 120(c)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 120(c) is discussed as follows: 'I.R.C. \u00a7 120(c)RequirementsI.R.C. \u00a7 120(c)(1)Discrimination\u2014The  contributions or benefits provided ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 120(c)?",
+  "difficulty": 1,
+  "choices": [
+    "5.0%",
+    "7.5%",
+    "0.0%",
+    "15.0%",
+    "95.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 5.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 120(c)"
+  ]
+}

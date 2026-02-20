@@ -1,0 +1,22 @@
+{
+  "id": "b108a8e6c488",
+  "section": "68",
+  "citation": "I.R.C. \u00a7 68(a)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 68(a) is discussed as follows: 'I.R.C. \u00a7 68(a)In General\u2014In the case of an individual, the amount of the itemized deductions otherwi...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 68(a)?",
+  "difficulty": 1,
+  "choices": [
+    "55.5%",
+    "63.0%",
+    "27.0%",
+    "47.0%",
+    "37.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 37.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 68(a)"
+  ]
+}

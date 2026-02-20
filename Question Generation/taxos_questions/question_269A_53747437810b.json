@@ -1,0 +1,22 @@
+{
+  "id": "53747437810b",
+  "section": "269A",
+  "citation": "I.R.C. \u00a7 269A(b)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 269A(b) is discussed as follows: 'I.R.C. \u00a7 269A(b)Definitions\u2014For  purposes of this section\u2014I.R.C. \u00a7 269A(b)(1)Personal Service Corpor...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 269A(b)?",
+  "difficulty": 1,
+  "choices": [
+    "0.0%",
+    "5.0%",
+    "15.0%",
+    "95.0%",
+    "7.5%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 5.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 269A(b)"
+  ]
+}

@@ -1,0 +1,1285 @@
+[
+  {
+    "section": "21",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "In the case of an individual for which there are 1 or more qualifying individuals (as defined in subsection(b)(1)) with respect to such individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the applicable percentage of the employment-related expenses (as defined in subsection(b)(2)) paid by such individual during the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of an individual for which there are 1 or more qualifying individuals (as defined in subsection(b)(1)) with respect to such individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the applicable percentage of the employment-related expenses (as defined in subsection(b)(2)) paid by such individual during the taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 21(a)(1)In General\u2014In the case of an individual for which there are 1 or more qualifying individuals\n                     (as defined in subsection(b)(1)) with respect to such individual, there shall be allowed as a credit against the\n                     tax imposed by this chapter for the taxable year an amount equal to the applicable\n                     percentage of the employment-related expenses (as defined in subsection(b)(2)) paid by such individual during the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "21",
+    "subsection": "(a)(2)",
+    "source_subsections": [
+      "(a)(2)",
+      "(a)(2)(A)",
+      "(a)(2)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Percentage Defined",
+    "text": "Percentage Defined\u2014For purposes of paragraph(1), the term \u201capplicable percentage\u201d means 50 percent\u2014reduced (but not below 35 percent) by 1 percentage point for each $2,000 or fraction thereof by which the taxpayer's adjusted gross income for the taxable year exceeds $15,000, and\u2014further reduced (but not below 20 percent) by 1 percentage point for each $2,000 ($4,000 in the case of a joint return) or fraction thereof by which the taxpayer's adjusted gross in come for the taxable year exceeds $75,000 ($150,000 in the case of a joint return).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 2000,
+        "text": "$2,000"
+      },
+      {
+        "label": "amount",
+        "value": 15000,
+        "text": "$15,000,"
+      },
+      {
+        "label": "amount",
+        "value": 2000,
+        "text": "$2,000"
+      },
+      {
+        "label": "amount",
+        "value": 4000,
+        "text": "$4,000"
+      },
+      {
+        "label": "amount",
+        "value": 75000,
+        "text": "$75,000"
+      },
+      {
+        "label": "amount",
+        "value": 150000,
+        "text": "$150,000"
+      }
+    ],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.35,
+        "text": "35 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.01,
+        "text": "1 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.2,
+        "text": "20 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.01,
+        "text": "1 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Percentage Defined\u2014For purposes of paragraph(1), the term \u201capplicable percentage\u201d means 50 percent\u2014reduced (but not below 35 percent) by 1 percentage point for each $2,000 or fraction thereof by which the taxpayer's adjusted gross income for the taxable year exceeds $15,000, and\u2014further reduced (but not below 20 percent) by 1 percentage point for each $2,000 ($4,000 in the case of a joint return) or fraction thereof by which the taxpayer's adjusted gross in come for the taxable year exceeds $75,000 ($150,000 in the case of a joint return)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 21(a)(2)Applicable Percentage Defined\u2014For purposes of paragraph(1), the term \u201capplicable percentage\u201d means 50 percentI.R.C. \u00a7 21(a)(2)(A)\u2014reduced (but not below 35 percent) by 1 percentage point for each $2,000 or fraction\n                        thereof by which the taxpayer's adjusted gross income for the taxable year exceeds\n                        $15,000, andI.R.C. \u00a7 21(a)(2)(B)\u2014further reduced (but not below 20 percent) by 1 percentage point for each $2,000 ($4,000\n                        in the case of a joint return) or fraction thereof by which the taxpayer's adjusted\n                        gross in come for the taxable year exceeds $75,000 ($150,000 in the case of a joint\n                        return).",
+    "definitions": {
+      "term": "applicable percentage",
+      "requirements": [
+        "50 percent\u2014reduced (but not below 35 percent) by 1 percentage point for each $2,000 or fraction thereof by which the taxpayer's adjusted gross income for the taxable year exceeds $15,000, and\u2014further reduced (but not below 20 percent) by 1 percentage point for each $2,000 ($4,000 in the case of a joint return) or fraction thereof by which the taxpayer's adjusted gross in come for the taxable year exceeds $75,000 ($150,000 in the case of a joint return)."
+      ]
+    }
+  },
+  {
+    "section": "21",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)",
+      "(b)(1)(A)",
+      "(b)(1)(B)",
+      "(b)(1)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "Individual",
+    "text": "The term \u201cqualifying individual\u201d means\u2014\u2014a dependent of the taxpayer (as defined in section152(a)(1)) who has not attained age 13,\u2014a dependent of the taxpayer (as defined in section152, determined without regard to subsections(b)(1),(b)(2), and(d)(1)(B)) who is physically or mentally incapable of caring for himself or herself and who has the same principal place of abode as the taxpayer for more than one-half of such taxable year, or\u2014the spouse of the taxpayer, if the spouse is physically or mentally incapable of caring for himself or herself and who has the same principal place of abode as the taxpayer for more than one-half of such taxable year.",
+    "conditions": [
+      "the spouse is physically or mentally incapable of caring for himself or herself and who has the same principal place of abode as the taxpayer for more than one-half of such taxable year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the spouse is physically or mentally incapable of caring for himself or herself and who has the same principal place of abode as the taxpayer for more than one-half of such taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualifying individual\u201d means\u2014\u2014a dependent of the taxpayer (as defined in section152(a)(1)) who has not attained age 13,\u2014a dependent of the taxpayer (as defined in section152, determined without regard to subsections(b)(1),(b)(2), and(d)(1)(B)) who is physically or mentally incapable of caring for himself or herself and who has the same principal place of abode as the taxpayer for more than one-half of such taxable year, or\u2014the spouse of the taxpayer,"
+    },
+    "cross_references": [
+      {
+        "section": "152(a)(1)",
+        "reason": "f the taxpayer (as defined in..."
+      },
+      {
+        "section": "152",
+        "reason": "f the taxpayer (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 21(b)(1)Qualifying Individual\u2014The  term \u201cqualifying individual\u201d means\u2014I.R.C. \u00a7 21(b)(1)(A)\u2014a  dependent of the taxpayer (as defined in section152(a)(1))\n                        who has not  attained age 13,I.R.C. \u00a7 21(b)(1)(B)\u2014a  dependent of the taxpayer  (as defined in section152, determined without  regard to subsections(b)(1),(b)(2), and(d)(1)(B))  who is physically or  mentally incapable of caring for himself or herself and who\n                        has the same  principal place of abode as the taxpayer for more than one-half of such\n                        taxable year, orI.R.C. \u00a7 21(b)(1)(C)\u2014the  spouse of the taxpayer, if the spouse is physically or mentally incapable  of\n                        caring for himself or herself and who has the same principal place of  abode as the\n                        taxpayer for more than one-half of such taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "21",
+    "subsection": "(b)(2)(A)",
+    "source_subsections": [
+      "(b)(2)(A)",
+      "(b)(2)(A)(i)",
+      "(b)(2)(A)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cemployment-related expenses\u201d means amounts paid for the following expenses, but only if such expenses are incurred to enable the taxpayer to be gainfully employed for any period for which there are 1 or more qualifying individuals with respect to the taxpayer:\u2014expenses for household services, and\u2014expenses for the care of a qualifying individual.Such term shall not include any amount paid for services outside the taxpayer's household at a camp where the qualifying individual stays overnight.",
+    "conditions": [
+      "such expenses are incurred to enable the taxpayer to be gainfully employed for any period for which there are 1 or more qualifying individuals with respect to the taxpayer:\u2014expenses for household services, and\u2014expenses for the care of a qualifying individual.Such term shall not include any amount paid for services outside the taxpayer's household at a camp",
+      "the qualifying individual stays overnight."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such expenses are incurred to enable the taxpayer to be gainfully employed for any period for which there are 1 or more qualifying individuals with respect to the taxpayer:\u2014expenses for household services, and\u2014expenses for the care of a qualifying individual.Such term shall not include any amount paid for services outside the taxpayer's household at a camp",
+        "the qualifying individual stays overnight."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cemployment-related expenses\u201d means amounts paid for the following expenses, but only"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 21(b)(2)(A)In General\u2014The  term \u201cemployment-related expenses\u201d\n                        means amounts paid for the following  expenses, but only if such expenses are incurred\n                        to enable the taxpayer to  be gainfully employed for any period for which there are\n                        1 or more  qualifying individuals with respect to the taxpayer:I.R.C. \u00a7 21(b)(2)(A)(i)\u2014expenses  for household services, andI.R.C. \u00a7 21(b)(2)(A)(ii)\u2014expenses  for the care of a qualifying individual.Such term shall not include any amount paid for services\n                           outside the taxpayer's household at a camp where the qualifying individual\n                           stays overnight.",
+    "definitions": {
+      "term": "employment-related expenses",
+      "requirements": [
+        "amounts paid for the following expenses, but only if such expenses are incurred to enable the taxpayer to be gainfully employed for any period for which there are 1 or more qualifying individuals with respect to the taxpayer:\u2014expenses for household services, and\u2014expenses for the care of a qualifying individual.Such term shall not include any amount paid for services outside the taxpayer's household at a camp where the qualifying individual stays overnight."
+      ]
+    }
+  },
+  {
+    "section": "21",
+    "subsection": "(b)(2)(B)",
+    "source_subsections": [
+      "(b)(2)(B)",
+      "(b)(2)(B)(i)",
+      "(b)(2)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Employment-related expenses described in subparagraph(A)which are incurred for services outside the taxpayer's household shall be taken into account only if incurred for the care of\u2014\u2014a qualifying individual described in paragraph(1)(A), or\u2014a qualifying individual (not described in paragraph(1)(A)) who regularly spends at least 8 hours each day in the taxpayer's household.",
+    "conditions": [
+      "incurred for the care of\u2014\u2014a qualifying individual described in paragraph(1)(A), or\u2014a qualifying individual (not described in paragraph(1)(A)) who regularly spends at least 8 hours each day in the taxpayer's household."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "incurred for the care of\u2014\u2014a qualifying individual described in paragraph(1)(A), or\u2014a qualifying individual (not described in paragraph(1)(A)) who regularly spends at least 8 hours each day in the taxpayer's household."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Employment-related expenses described in subparagraph(A)which are incurred for services outside the taxpayer's household shall be taken into account only"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 21(b)(2)(B)Exception\u2014Employment-related  expenses described in subparagraph(A)which are incurred for services  outside the taxpayer's household shall be taken\n                        into account only if  incurred for the care of\u2014I.R.C. \u00a7 21(b)(2)(B)(i)\u2014a  qualifying individual described in paragraph(1)(A), orI.R.C. \u00a7 21(b)(2)(B)(ii)\u2014a  qualifying individual (not described in paragraph(1)(A))\n                           who regularly  spends at least 8 hours each day in the taxpayer's household.",
+    "definitions": null
+  },
+  {
+    "section": "21",
+    "subsection": "(b)(2)(C)",
+    "source_subsections": [
+      "(b)(2)(C)",
+      "(b)(2)(C)(i)",
+      "(b)(2)(C)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Care Centers",
+    "text": "Employment-related expenses described in subparagraph(A)which are incurred for services provided outside the taxpayer's household by a dependent care center (as defined in subparagraph(D)) shall be taken into account only if\u2014\u2014such center complies with all applicable laws and regulations of a State or unit of local government, and\u2014the requirements of subparagraph(B)are met.",
+    "conditions": [
+      "\u2014\u2014such center complies with all applicable laws and regulations of a State or unit of local government, and\u2014the requirements of subparagraph(B)are met."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014such center complies with all applicable laws and regulations of a State or unit of local government, and\u2014the requirements of subparagraph(B)are met."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Employment-related expenses described in subparagraph(A)which are incurred for services provided outside the taxpayer's household by a dependent care center (as defined in subparagraph(D)) shall be taken into account only"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 21(b)(2)(C)Dependent Care Centers\u2014Employment-related  expenses described in subparagraph(A)which are incurred for services  provided outside the taxpayer's household by a dependent\n                        care center (as  defined in subparagraph(D)) shall be taken into account only if\u2014I.R.C. \u00a7 21(b)(2)(C)(i)\u2014such  center complies with all applicable laws and regulations of a State or  unit\n                           of local government, andI.R.C. \u00a7 21(b)(2)(C)(ii)\u2014the  requirements of subparagraph(B)are met.",
+    "definitions": null
+  },
+  {
+    "section": "21",
+    "subsection": "(b)(2)(D)",
+    "source_subsections": [
+      "(b)(2)(D)",
+      "(b)(2)(D)(i)",
+      "(b)(2)(D)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Care Center Defined",
+    "text": "Care Center Defined\u2014For purposes of this paragraph, the term \u201cdependent care center\u201d means any facility which\u2014\u2014provides care for more than six individuals (other than individuals who reside at the facility), and\u2014receives a fee, payment, or grant for providing services for any of the individuals (regardless of whether such facility is operated for profit).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Care Center Defined\u2014For purposes of this paragraph, the term \u201cdependent care center\u201d means any facility which\u2014\u2014provides care for more than six individuals (other than individuals who reside at the facility), and\u2014receives a fee, payment, or grant for providing services for any of the individuals (regardless of whether such facility is operated for profit)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 21(b)(2)(D)Dependent Care Center Defined\u2014For  purposes of this paragraph, the term \u201cdependent care center\u201d means any  facility\n                        which\u2014I.R.C. \u00a7 21(b)(2)(D)(i)\u2014provides  care for more than six individuals\n                           (other than individuals who reside at  the facility), andI.R.C. \u00a7 21(b)(2)(D)(ii)\u2014receives  a fee, payment, or grant for providing services for any of the individuals\n                           (regardless of whether such facility is operated for profit).",
+    "definitions": {
+      "term": "dependent care center",
+      "requirements": [
+        "any facility which\u2014\u2014provides care for more than six individuals (other than individuals who reside at the facility), and\u2014receives a fee, payment, or grant for providing services for any of the individuals (regardless of whether such facility is operated for profit)."
+      ]
+    }
+  },
+  {
+    "section": "21",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$3,000 if there is 1 qualifying individual with respect to the taxpayer for such taxable year, or",
+    "conditions": [
+      "there is 1 qualifying individual with respect to the taxpayer for such taxable year, or"
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 3000,
+        "text": "$3,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "there is 1 qualifying individual with respect to the taxpayer for such taxable year, or"
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$3,000"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 21(c)(1)\u2014$3,000 if there is 1 qualifying individual with respect to the taxpayer  for such\n                     taxable year, or",
+    "definitions": null
+  },
+  {
+    "section": "21",
+    "subsection": "(c)(2)",
+    "source_subsections": [
+      "(c)(2)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$6,000 if there are 2 or more qualifying individuals with respect to the taxpayer for such taxable year.",
+    "conditions": [
+      "there are 2 or more qualifying individuals with respect to the taxpayer for such taxable year."
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 6000,
+        "text": "$6,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "there are 2 or more qualifying individuals with respect to the taxpayer for such taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$6,000"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 21(c)(2)\u2014$6,000 if there are 2 or more qualifying individuals with respect to the  taxpayer\n                     for such taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "21",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)",
+      "(d)(1)(A)",
+      "(d)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Except as otherwise provided in this subsection, the amount of the employment-related expenses incurred during any taxable year which may be taken into account under subsection(a)shall not exceed\u2014\u2014in the case of an individual who is not married at the close of such year, such individual's earned income for such year, or\u2014in the case of an individual who is married at the close of such year, the lesser of such individual's earned income or the earned income of his spouse for such year.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "min",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as otherwise provided in this subsection, the amount of the employment-related expenses incurred during any taxable year which may be taken into account under subsection(a)shall not exceed\u2014\u2014in the case of an individual who is not married at the close of such year, such individual's earned income for such year, or\u2014in the case of an individual who is married at the close of such year, the lesser of such individual's earned income or the earned income of his spouse for such year."
+      ],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 21(d)(1)In General\u2014Except  as otherwise provided in this subsection, the amount of the  employment-related\n                     expenses incurred during any taxable year which may be  taken into account under subsection(a)shall not exceed\u2014I.R.C. \u00a7 21(d)(1)(A)\u2014in  the case of an individual who is not married at the close of such year,  such\n                        individual's earned income for such year, orI.R.C. \u00a7 21(d)(1)(B)\u2014in  the case of an individual who is married at the close of such year, the  lesser\n                        of such individual's earned income or the earned income of his  spouse for such year.",
+    "definitions": null
+  },
+  {
+    "section": "21",
+    "subsection": "(d)(2)(A)",
+    "source_subsections": [
+      "(d)(2)(A)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$250 if subsection(c)(1)applies for the taxable year, or",
+    "conditions": [
+      "subsection(c)(1)applies for the taxable year, or"
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 250,
+        "text": "$250"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "subsection(c)(1)applies for the taxable year, or"
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$250"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 21(d)(2)(A)\u2014$250  if subsection(c)(1)applies for the taxable year, or",
+    "definitions": null
+  },
+  {
+    "section": "21",
+    "subsection": "(d)(2)(B)",
+    "source_subsections": [
+      "(d)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$500 if subsection(c)(2)applies for the taxable year.In the case of any husband and wife, this paragraph shall apply with respect to only one spouse for any one month.",
+    "conditions": [
+      "subsection(c)(2)applies for the taxable year.In the case of any husband and wife, this paragraph shall apply with respect to only one spouse for any one month."
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 500,
+        "text": "$500"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "subsection(c)(2)applies for the taxable year.In the case of any husband and wife, this paragraph shall apply with respect to only one spouse for any one month."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$500"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 21(d)(2)(B)\u2014$500  if subsection(c)(2)applies for the taxable year.In the case of any husband and wife, this paragraph  shall apply with respect to only\n                           one spouse for any one month.",
+    "definitions": null
+  },
+  {
+    "section": "21",
+    "subsection": "(e)(1)",
+    "source_subsections": [
+      "(e)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Abode",
+    "text": "An individual shall not be treated as having the same principal place of abode of the taxpayer if at any time during the taxable year of the taxpayer the relationship between the individual and the taxpayer is in violation of local law.",
+    "conditions": [
+      "at any time during the taxable year of the taxpayer the relationship between the individual and the taxpayer is in violation of local law."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "at any time during the taxable year of the taxpayer the relationship between the individual and the taxpayer is in violation of local law."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "An individual shall not be treated as having the same principal place of abode of the taxpayer"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 21(e)(1)Place Of Abode\u2014An  individual shall not be treated as having the same principal place of  abode of\n                     the taxpayer if at any time during the taxable year of the  taxpayer the relationship\n                     between the individual and the taxpayer is in  violation of local law.",
+    "definitions": null
+  },
+  {
+    "section": "21",
+    "subsection": "(e)(10)",
+    "source_subsections": [
+      "(e)(10)"
+    ],
+    "rule_type": "condition",
+    "title": "Information Required With Respect To Qualifying Individuals",
+    "text": "No credit shall be allowed under this section with respect to any qualifying individual unless the TIN of such individual is included on the return claiming the credit.",
+    "conditions": [
+      "the TIN of such individual is included on the return claiming the credit."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "the TIN of such individual is included on the return claiming the credit."
+      ],
+      "except": [],
+      "result": "No credit shall be allowed under this section with respect to any qualifying individual"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 21(e)(10)Identifying Information Required With Respect To Qualifying Individuals\u2014No  credit shall be allowed under this section with respect to any qualifying  individual\n                     unless the TIN of such individual is included on the return  claiming the credit.",
+    "definitions": null
+  },
+  {
+    "section": "21",
+    "subsection": "(e)(2)",
+    "source_subsections": [
+      "(e)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Couples Must File Joint Return",
+    "text": "If the taxpayer is married at the close of the taxable year, the credit shall be allowed under subsection(a)only if the taxpayer and his spouse file a joint return for the taxable year.",
+    "conditions": [
+      "the taxpayer is married at the close of the taxable year, the credit shall be allowed under subsection(a)only",
+      "the taxpayer and his spouse file a joint return for the taxable year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the taxpayer is married at the close of the taxable year, the credit shall be allowed under subsection(a)only",
+        "the taxpayer and his spouse file a joint return for the taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 21(e)(2)Married Couples Must File Joint Return\u2014If  the taxpayer is married at the close of the taxable year, the credit shall  be\n                     allowed under subsection(a)only if the taxpayer and his spouse file a  joint return for the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "21",
+    "subsection": "(e)(3)",
+    "source_subsections": [
+      "(e)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Status",
+    "text": "An individual legally separated from his spouse under a decree of divorce or of separate maintenance shall not be considered as married.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "An individual legally separated from his spouse under a decree of divorce or of separate maintenance shall not be considered as married."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 21(e)(3)Marital Status\u2014An  individual legally separated from his spouse under a decree of divorce or  of\n                     separate maintenance shall not be considered as married.",
+    "definitions": null
+  },
+  {
+    "section": "21",
+    "subsection": "(e)(4)",
+    "source_subsections": [
+      "(e)(4)",
+      "(e)(4)(A)",
+      "(e)(4)(A)(i)",
+      "(e)(4)(A)(ii)",
+      "(e)(4)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Married Individuals Living Apart",
+    "text": "If\u2014\u2014an individual who is married and who files a separate return\u2014\u2014maintains as his home a household which constitutes for more than one-half of the taxable year the principal place of abode of a qualifying individual, and\u2014furnishes over half of the cost of maintaining such household during the taxable year, and\u2014during the last 6 months of such taxable year such individual's spouse is not a member of such household, such individual shall not be considered as married.",
+    "conditions": [
+      "\u2014\u2014an individual who is married and who files a separate return\u2014\u2014maintains as his home a household which constitutes for more than one-half of the taxable year the principal place of abode of a qualifying individual, and\u2014furnishes over half of the cost of maintaining such household during the taxable year, and\u2014during the last 6 months of such taxable year such individual's spouse is not a member of such household, such individual shall not be considered as married."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014an individual who is married and who files a separate return\u2014\u2014maintains as his home a household which constitutes for more than one-half of the taxable year the principal place of abode of a qualifying individual, and\u2014furnishes over half of the cost of maintaining such household during the taxable year, and\u2014during the last 6 months of such taxable year such individual's spouse is not a member of such household, such individual shall not be considered as married."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 21(e)(4)Certain Married Individuals Living Apart\u2014If\u2014I.R.C. \u00a7 21(e)(4)(A)\u2014an  individual who is married and who files a separate return\u2014I.R.C. \u00a7 21(e)(4)(A)(i)\u2014maintains  as his home a household which constitutes for more than one-half of the\n                           taxable year the principal place of abode of a qualifying individual, andI.R.C. \u00a7 21(e)(4)(A)(ii)\u2014furnishes  over half of the cost of maintaining such household during the taxable\n                           year, andI.R.C. \u00a7 21(e)(4)(B)\u2014during  the last 6 months of such taxable year such individual's spouse is not a \n                        member of such household, such individual shall not be considered as  married.",
+    "definitions": null
+  },
+  {
+    "section": "21",
+    "subsection": "(e)(5)",
+    "source_subsections": [
+      "(e)(5)",
+      "(e)(5)(A)",
+      "(e)(5)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Dependency Test In Case Of Divorced Parents, Etc.",
+    "text": "If\u2014\u2014section152(e)applies to any child with respect to any calendar year, and\u2014such child is under the age of 13 or is physically or mentally incapable of caring for himself, in the case of any taxable year beginning in such calendar year,such child shall be treated as a qualifying individual described in subparagraph(A)or(B)of subsection(b)(1)(whichever is appropriate) with respect to the custodial parent (as defined in section152(e)(4)(A)), and shall not be treated as a qualifying individual with respect to the noncustodial parent.",
+    "conditions": [
+      "\u2014\u2014section152(e)applies to any child with respect to any calendar year, and\u2014such child is under the age of 13 or is physically or mentally incapable of caring for himself, in the case of any taxable year beginning in such calendar year,such child shall be treated as a qualifying individual described in subparagraph(A)or(B)of subsection(b)(1)(whichever is appropriate) with respect to the custodial parent (as defined in section152(e)(4)(A)), and shall not be treated as a qualifying individual with respect to the noncustodial parent."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014section152(e)applies to any child with respect to any calendar year, and\u2014such child is under the age of 13 or is physically or mentally incapable of caring for himself, in the case of any taxable year beginning in such calendar year,such child shall be treated as a qualifying individual described in subparagraph(A)or(B)of subsection(b)(1)(whichever is appropriate) with respect to the custodial parent (as defined in section152(e)(4)(A)), and shall not be treated as a qualifying individual with respect to the noncustodial parent."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "152(e)",
+        "reason": "If\u2014\u2014..."
+      },
+      {
+        "section": "152(e)(4)(A)",
+        "reason": "stodial parent (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 21(e)(5)Special Dependency Test In Case Of Divorced Parents, Etc.\u2014If\u2014I.R.C. \u00a7 21(e)(5)(A)\u2014section152(e)applies to any child with respect to any calendar year, andI.R.C. \u00a7 21(e)(5)(B)\u2014such  child is under the age of 13 or is physically or mentally incapable of  caring\n                        for himself, in the case of any taxable year beginning in such  calendar year,such child shall be treated as a qualifying individual\n                        described in subparagraph(A)or(B)of subsection(b)(1)(whichever is  appropriate)\n                        with respect to the custodial parent (as defined in section152(e)(4)(A)), and shall not be treated as a qualifying individual with  respect to the noncustodial\n                        parent.",
+    "definitions": null
+  },
+  {
+    "section": "21",
+    "subsection": "(e)(6)",
+    "source_subsections": [
+      "(e)(6)",
+      "(e)(6)(A)",
+      "(e)(6)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "To Related Individuals",
+    "text": "No credit shall be allowed under subsection(a)for any amount paid by the taxpayer to an individual\u2014\u2014with respect to whom, for the taxable year, a deduction under section151(c)(relating to deduction for personal exemptions for dependents) is allowable either to the taxpayer or his spouse, or\u2014who is a child of the taxpayer (within the meaning of section152(f)(1)) who has not attained the age of 19 at the close of the taxable year.For purposes of this paragraph, the term \u201ctaxable year\u201d means the taxable year of the taxpayer in which the service is performed.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be allowed under subsection(a)for any amount paid by the taxpayer to an individual\u2014\u2014with respect to whom, for the taxable year, a deduction under section151(c)(relating to deduction for personal exemptions for dependents) is allowable either to the taxpayer or his spouse, or\u2014who is a child of the taxpayer (within the meaning of section152(f)(1)) who has not attained the age of 19 at the close of the taxable year.For purposes of this paragraph, the term \u201ctaxable year\u201d means the taxable year of the taxpayer in which the service is performed."
+    },
+    "cross_references": [
+      {
+        "section": "151(c)",
+        "reason": "xable year, a deduction under..."
+      },
+      {
+        "section": "152(f)(1)",
+        "reason": "xpayer (within the meaning of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 21(e)(6)Payments To Related Individuals\u2014No  credit shall be allowed under subsection(a)for any amount paid by the\n                     taxpayer to an individual\u2014I.R.C. \u00a7 21(e)(6)(A)\u2014with  respect to whom, for the taxable year, a deduction under section151(c)(relating to deduction for personal exemptions for dependents) is\n                        allowable either to the taxpayer or his spouse, orI.R.C. \u00a7 21(e)(6)(B)\u2014who  is a child of the taxpayer (within the meaning of  section152(f)(1))\n                        who  has not attained the age of 19 at the close of the taxable year.For purposes of this paragraph, the term \u201ctaxable year\u201d\n                        means the taxable year of the taxpayer in which the service is performed.",
+    "definitions": {
+      "term": "taxable year",
+      "requirements": [
+        "the taxable year of the taxpayer in which the service is performed."
+      ]
+    }
+  },
+  {
+    "section": "21",
+    "subsection": "(e)(7)",
+    "source_subsections": [
+      "(e)(7)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "The term \u201cstudent\u201d means an individual who during each of 5 calendar months during the taxable year is a full-time student at an educational organization.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cstudent\u201d means an individual who during each of 5 calendar months during the taxable year is a full-time student at an educational organization."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 21(e)(7)Student\u2014The  term \u201cstudent\u201d means an individual who during each of 5 calendar months  during\n                     the taxable year is a full-time student at an educational  organization.",
+    "definitions": {
+      "term": "student",
+      "requirements": [
+        "an individual who during each of 5 calendar months during the taxable year is a full-time student at an educational organization."
+      ]
+    }
+  },
+  {
+    "section": "21",
+    "subsection": "(e)(8)",
+    "source_subsections": [
+      "(e)(8)"
+    ],
+    "rule_type": "definition",
+    "title": "Organization",
+    "text": "The term \u201ceducational organization\u201d means an educational organization described in section170(b)(1)(A)(ii).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201ceducational organization\u201d means an educational organization described in section170(b)(1)(A)(ii)."
+    },
+    "cross_references": [
+      {
+        "section": "170(b)(1)(A)(ii)",
+        "reason": "nal organization described in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 21(e)(8)Educational Organization\u2014The  term \u201ceducational organization\u201d means an educational organization  described\n                     in section170(b)(1)(A)(ii).",
+    "definitions": {
+      "term": "educational organization",
+      "requirements": [
+        "an educational organization described in section170(b)(1)(A)(ii)."
+      ]
+    }
+  },
+  {
+    "section": "21",
+    "subsection": "(e)(9)",
+    "source_subsections": [
+      "(e)(9)",
+      "(e)(9)(A)",
+      "(e)(9)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Information Required With Respect To Service Provider",
+    "text": "No credit shall be allowed under subsection(a)for any amount paid to any person unless\u2014\u2014the name, address, and taxpayer identification number of such person are included on the return claiming the credit, or\u2014if such person is an organization described in section501(c)(3)and exempt from tax under section501(a), the name and address of such person are included on the return claiming the credit.In the case of a failure to provide the information required under the preceding sentence, the preceding sentence shall not apply if it is shown that the taxpayer exercised due diligence in attempting to provide the information so required.",
+    "conditions": [
+      "such person is an organization described in section501(c)(3)and exempt from tax under section501(a), the name and address of such person are included on the return claiming the credit.In the case of a failure to provide the information required under the preceding sentence, the preceding sentence shall not apply",
+      "it is shown that the taxpayer exercised due diligence in attempting to provide the information so required.",
+      "\u2014\u2014the name, address, and taxpayer identification number of such person are included on the return claiming the credit, or\u2014"
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such person is an organization described in section501(c)(3)and exempt from tax under section501(a), the name and address of such person are included on the return claiming the credit.In the case of a failure to provide the information required under the preceding sentence, the preceding sentence shall not apply",
+        "it is shown that the taxpayer exercised due diligence in attempting to provide the information so required."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [
+        "\u2014\u2014the name, address, and taxpayer identification number of such person are included on the return claiming the credit, or\u2014"
+      ],
+      "except": [],
+      "result": "No credit shall be allowed under subsection(a)for any amount paid to any person"
+    },
+    "cross_references": [
+      {
+        "section": "501(c)(3)",
+        "reason": "an organization described in..."
+      },
+      {
+        "section": "501(a)",
+        "reason": "and exempt from tax under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 21(e)(9)Identifying Information Required With Respect To Service Provider\u2014No  credit shall be allowed under subsection(a)for any amount paid to any\n                     person unless\u2014I.R.C. \u00a7 21(e)(9)(A)\u2014the  name, address, and taxpayer identification number of such person are  included\n                        on the return claiming the credit, orI.R.C. \u00a7 21(e)(9)(B)\u2014if  such person is an organization described in section501(c)(3)and exempt  from tax under section501(a), the name and address of such person are  included on the return claiming the credit.In the case of a failure to provide the information\n                        required under the preceding sentence, the preceding sentence shall not  apply if\n                        it is shown that the taxpayer exercised due diligence in  attempting to provide the\n                        information so required.",
+    "definitions": null
+  },
+  {
+    "section": "21",
+    "subsection": "(f)",
+    "source_subsections": [
+      "(f)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 21(f)Regulations\u2014The  Secretary shall prescribe such regulations as may be necessary to carry  out\n                  the purposes of this section.",
+    "definitions": null
+  },
+  {
+    "section": "21",
+    "subsection": "(g)(1)",
+    "source_subsections": [
+      "(g)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "Made Refundable",
+    "text": "If the taxpayer (in the case of a joint return, either spouse) has a principal place of abode in the United States (determined as provided in section32) for more than one-half of the taxable year, the credit allowed undersubsection (a)shall be treated as a credit allowed under subpart C (and not allowed under this subpart).",
+    "conditions": [
+      "the taxpayer (in the case of a joint return, either spouse) has a principal place of abode in the United States (determined as provided in section32) for more than one-half of the taxable year, the credit allowed undersubsection (a)shall be treated as a credit allowed under subpart C (and not allowed under this subpart)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the taxpayer (in the case of a joint return, either spouse) has a principal place of abode in the United States (determined as provided in section32) for more than one-half of the taxable year, the credit allowed undersubsection (a)shall be treated as a credit allowed under subpart C (and not allowed under this subpart)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "32",
+        "reason": "es (determined as provided in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 21(g)(1)Credit Made Refundable\u2014If the taxpayer (in the case of a joint return, either spouse)  has a principal place\n                     of abode in the United States  (determined as provided in section32)\n                     for more than one-half of the taxable year, the credit allowed undersubsection (a)shall be treated as a credit allowed under subpart C (and not allowed under this\n                     subpart).",
+    "definitions": null
+  },
+  {
+    "section": "21",
+    "subsection": "(g)(2)",
+    "source_subsections": [
+      "(g)(2)",
+      "(g)(2)(A)",
+      "(g)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "In Dollar Limit On Amount Creditable",
+    "text": "Subsection (c)shall be applied\u2014\u2014by substituting \u201c$8,000\u201d for \u201c$3,000\u201d inparagraph (1)thereof, and\u2014by substituting \u201c$16,000\u201d for \u201c$6,000\u201d inparagraph (2)thereof.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 8000,
+        "text": "$8,000"
+      },
+      {
+        "label": "amount",
+        "value": 3000,
+        "text": "$3,000"
+      },
+      {
+        "label": "amount",
+        "value": 16000,
+        "text": "$16,000"
+      },
+      {
+        "label": "amount",
+        "value": 6000,
+        "text": "$6,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Subsection (c)shall be applied\u2014\u2014by substituting \u201c$8,000\u201d for \u201c$3,000\u201d inparagraph (1)thereof, and\u2014by substituting \u201c$16,000\u201d for \u201c$6,000\u201d inparagraph (2)thereof."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 21(g)(2)Increase In Dollar Limit On Amount Creditable\u2014Subsection (c)shall be applied\u2014I.R.C. \u00a7 21(g)(2)(A)\u2014by substituting \u201c$8,000\u201d\n                        for \u201c$3,000\u201d inparagraph\n                           (1)thereof, andI.R.C. \u00a7 21(g)(2)(B)\u2014by substituting \u201c$16,000\u201d\n                        for \u201c$6,000\u201d inparagraph\n                           (2)thereof.",
+    "definitions": null
+  },
+  {
+    "section": "21",
+    "subsection": "(g)(3)",
+    "source_subsections": [
+      "(g)(3)",
+      "(g)(3)(A)",
+      "(g)(3)(B)"
+    ],
+    "rule_type": "computation",
+    "title": "In Applicable Percentage",
+    "text": "Subsection (a)(2)shall be applied\u2014\u2014by substituting \u201c50 percent\u201d for \u201c35 percent\u201d, and\u2014by substituting \u201c$125,000\u201d for \u201c$15,000\u201d.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 125000,
+        "text": "$125,000"
+      },
+      {
+        "label": "amount",
+        "value": 15000,
+        "text": "$15,000"
+      }
+    ],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.35,
+        "text": "35 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Subsection (a)(2)shall be applied\u2014\u2014by substituting \u201c50 percent\u201d for \u201c35 percent\u201d, and\u2014by substituting \u201c$125,000\u201d for \u201c$15,000\u201d."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 21(g)(3)Increase In Applicable Percentage\u2014Subsection (a)(2)shall be applied\u2014I.R.C. \u00a7 21(g)(3)(A)\u2014by substituting \u201c50 percent\u201d\n                        for \u201c35 percent\u201d, andI.R.C. \u00a7 21(g)(3)(B)\u2014by substituting \u201c$125,000\u201d\n                        for \u201c$15,000\u201d.",
+    "definitions": null
+  },
+  {
+    "section": "21",
+    "subsection": "(g)(4)(A)",
+    "source_subsections": [
+      "(g)(4)(A)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "Subsection (a)(2)shall be applied by substituting \u201cthe phaseout percentage\u201d for \u201c20 percent\u201d.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.2,
+        "text": "20 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Subsection (a)(2)shall be applied by substituting \u201cthe phaseout percentage\u201d for \u201c20 percent\u201d."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 21(g)(4)(A)In General\u2014Subsection (a)(2)shall be applied by substituting \u201cthe phaseout  percentage\u201d\n                        for \u201c20 percent\u201d.",
+    "definitions": null
+  },
+  {
+    "section": "21",
+    "subsection": "(g)(4)(B)",
+    "source_subsections": [
+      "(g)(4)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Percentage",
+    "text": "The term \u201cphaseout percentage\u201d means 20 percent reduced (but not below zero) by 1 percentage point for each $2,000 (or fraction thereof) by which the taxpayer's adjusted gross income for the taxable year exceeds $400,000.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 2000,
+        "text": "$2,000"
+      },
+      {
+        "label": "amount",
+        "value": 400000,
+        "text": "$400,000"
+      }
+    ],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.2,
+        "text": "20 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.01,
+        "text": "1 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cphaseout percentage\u201d means 20 percent reduced (but not below zero) by 1 percentage point for each $2,000 (or fraction thereof) by which the taxpayer's adjusted gross income for the taxable year exceeds $400,000."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 21(g)(4)(B)Phaseout Percentage\u2014The term \u201cphaseout percentage\u201d means 20 percent reduced (but not below zero) by 1\n                        percentage point for each\n                        $2,000 (or fraction thereof) by which the taxpayer's adjusted gross income for the\n                        taxable year exceeds $400,000.",
+    "definitions": {
+      "term": "phaseout percentage",
+      "requirements": [
+        "20 percent reduced (but not below zero) by 1 percentage point for each $2,000 (or fraction thereof) by which the taxpayer's adjusted gross income for the taxable year exceeds $400,000."
+      ]
+    }
+  },
+  {
+    "section": "21",
+    "subsection": "(h)(1)",
+    "source_subsections": [
+      "(h)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "To Possessions With Mirror Code Tax Systems",
+    "text": "The Secretary shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss (if any) to that possession by reason of the application of this section (determined without regard to this subsection) with respect to taxable years beginning in or with 2021. Such amounts shall be determined by the Secretary based on information provided by the government of the respective possession.",
+    "conditions": [
+      "any) to that possession by reason of the application of this section (determined without regard to this subsection) with respect to taxable years beginning in or with 2021. Such amounts shall be determined by the Secretary based on information provided by the government of the respective possession."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any) to that possession by reason of the application of this section (determined without regard to this subsection) with respect to taxable years beginning in or with 2021. Such amounts shall be determined by the Secretary based on information provided by the government of the respective possession."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss ("
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 21(h)(1)Payment To Possessions With Mirror Code Tax Systems\u2014The Secretary shall pay to each possession of the United States with a mirror code\n                     tax system amounts equal to the loss (if any) to that possession by reason of the\n                     application of this section\n                     (determined without regard to this subsection) with respect to taxable years beginning\n                     in or with 2021. Such amounts shall be determined by the Secretary based on information\n                     provided by the government of the respective possession.",
+    "definitions": null
+  },
+  {
+    "section": "21",
+    "subsection": "(h)(2)",
+    "source_subsections": [
+      "(h)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "To Other Possessions",
+    "text": "The Secretary shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary as being equal to the aggregate benefits that would have been provided to residents of such possession by reason of this section with respect to taxable years beginning in or with 2021 if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply unless the respective possession has a plan, which has been approved by the Secretary, under which such possession will promptly distribute such payments to its residents.",
+    "conditions": [
+      "a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply",
+      "the respective possession has a plan, which has been approved by the Secretary, under which such possession will promptly distribute such payments to its residents."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply"
+      ],
+      "and": [],
+      "or": [],
+      "unless": [
+        "the respective possession has a plan, which has been approved by the Secretary, under which such possession will promptly distribute such payments to its residents."
+      ],
+      "except": [],
+      "result": "The Secretary shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary as being equal to the aggregate benefits that would have been provided to residents of such possession by reason of this section with respect to taxable years beginning in or with 2021"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 21(h)(2)Payments To Other Possessions\u2014The Secretary shall pay to each possession of the United States which does not have\n                     a mirror code tax system amounts estimated by the Secretary as being equal to the\n                     aggregate benefits that would have been provided to residents of such possession by\n                     reason of this section with respect to taxable years beginning in or with 2021 if\n                     a mirror code tax system had been in effect in such possession. The preceding sentence\n                     shall not apply unless the respective possession has a plan, which has been approved\n                     by the Secretary, under which such possession will promptly distribute such payments\n                     to its residents.",
+    "definitions": null
+  },
+  {
+    "section": "21",
+    "subsection": "(h)(3)",
+    "source_subsections": [
+      "(h)(3)",
+      "(h)(3)(A)",
+      "(h)(3)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "With Credit Allowed Against United States Income Taxes",
+    "text": "In the case of any taxable year beginning in or with 2021, no credit shall be allowed under this section to any individual\u2014\u2014to whom a credit is allowable against taxes imposed by a possession with a mirror code tax system by reason of this section, or\u2014who is eligible for a payment under a plan described inparagraph (2).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any taxable year beginning in or with 2021, no credit shall be allowed under this section to any individual\u2014\u2014to whom a credit is allowable against taxes imposed by a possession with a mirror code tax system by reason of this section, or\u2014who is eligible for a payment under a plan described inparagraph (2)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 21(h)(3)Coordination With Credit Allowed Against United States Income Taxes\u2014In the case of any taxable year beginning in or with 2021, no credit shall be allowed\n                     under this section to any individual\u2014I.R.C. \u00a7 21(h)(3)(A)\u2014to whom a credit is allowable against taxes imposed by a possession with a mirror\n                        code tax system by reason of this section, orI.R.C. \u00a7 21(h)(3)(B)\u2014who is eligible for a payment under a plan described inparagraph\n                           (2).",
+    "definitions": null
+  },
+  {
+    "section": "21",
+    "subsection": "(h)(4)",
+    "source_subsections": [
+      "(h)(4)"
+    ],
+    "rule_type": "definition",
+    "title": "Code Tax System",
+    "text": "For purposes of this subsection, the term \u201cmirror code tax system\u201d means, with respect to any possession of the United States, the income tax system of such possession if the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States.",
+    "conditions": [
+      "the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as",
+      "such possession were the United States."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as",
+        "such possession were the United States."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection, the term \u201cmirror code tax system\u201d means, with respect to any possession of the United States, the income tax system of such possession"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 21(h)(4)Mirror Code Tax System\u2014For purposes of this subsection, the term \u201cmirror code tax system\u201d means, with respect\n                     to any possession of the United States, the income tax system of such possession if\n                     the income tax liability of the residents of such possession under such system is\n                     determined by reference to the income tax laws of the United States as if such possession\n                     were the United States.",
+    "definitions": null
+  },
+  {
+    "section": "21",
+    "subsection": "(h)(5)",
+    "source_subsections": [
+      "(h)(5)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Payments",
+    "text": "For purposes ofsection 1324 of title 31, United States Code, the payments under this subsection shall be treated in the same manner as a refund due from a credit provision referred to insubsection (b)(2)of such section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes ofsection 1324 of title 31, United States Code, the payments under this subsection shall be treated in the same manner as a refund due from a credit provision referred to insubsection (b)(2)of such section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 21(h)(5)Treatment Of Payments\u2014For purposes ofsection 1324 of title 31, United States Code, the payments under this subsection shall be treated in the same\n                     manner as a refund due from a credit provision referred to insubsection (b)(2)of  such section.",
+    "definitions": null
+  }
+]

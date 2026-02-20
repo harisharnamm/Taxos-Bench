@@ -1,0 +1,22 @@
+{
+  "id": "6fd7b4daba19",
+  "section": "1400Q",
+  "citation": "I.R.C. \u00a7 1400Q(a)(2)(B)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 1400Q(a)(2)(B) is discussed as follows: 'I.R.C. \u00a7 1400Q(a)(2)(B)Treatment Of Plan Distributions\u2014If  a distribution to an individual would (wi...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 1400Q(a)(2)(B)?",
+  "difficulty": 1,
+  "choices": [
+    "$100,000.00",
+    "$50,000.00",
+    "$110,000.00",
+    "$200,000.00",
+    "$90,000.00"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies $100,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1400Q(a)(2)(B)"
+  ]
+}

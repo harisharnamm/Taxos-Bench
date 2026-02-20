@@ -1,0 +1,21 @@
+{
+  "id": "906acad468ef",
+  "section": "464",
+  "citation": "I.R.C. \u00a7 464(d)(2)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 464(d)(2) is discussed as follows: 'I.R.C. \u00a7 464(d)(2)Qualified Farm-Related TaxpayerI.R.C. \u00a7 464(d)(2)(A)In General\u2014For  purposes of th...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 464(d)(2)?",
+  "difficulty": 1,
+  "choices": [
+    "40.0%",
+    "60.0%",
+    "75.0%",
+    "50.0%"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 464(d)(2)"
+  ]
+}

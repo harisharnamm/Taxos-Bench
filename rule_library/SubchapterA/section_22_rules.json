@@ -1,0 +1,659 @@
+[
+  {
+    "section": "22",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)"
+    ],
+    "rule_type": "computation",
+    "title": "Rule",
+    "text": "In the case of a qualified individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to 15 percent of such individual's section 22 amount for such taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.15,
+        "text": "15 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a qualified individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to 15 percent of such individual's section 22 amount for such taxable year."
+    },
+    "cross_references": [
+      {
+        "section": "22",
+        "reason": "percent of such individual's..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 22(a)General Rule\u2014In  the case of a qualified individual, there shall be allowed as a credit  against\n                  the tax imposed by this chapter for the taxable year an amount  equal to 15 percent\n                  of such individual's section 22 amount for such  taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "22",
+    "subsection": "(b)",
+    "source_subsections": [
+      "(b)",
+      "(b)(1)",
+      "(b)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Individual",
+    "text": "For purposes of this section, the term \u201cqualified individual\" means any individual\u2014\u2014who has attained age 65 before the close of the taxable year, or\u2014who retired on disability before the close of the taxable year and who, when he retired, was permanently and totally disabled.",
+    "conditions": [
+      "he retired, was permanently and totally disabled."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "he retired, was permanently and totally disabled."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u201cqualified individual\" means any individual\u2014\u2014who has attained age 65 before the close of the taxable year, or\u2014who retired on disability before the close of the taxable year and who,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 22(b)Qualified Individual\u2014For  purposes of this section, the term \u201cqualified individual\"\n                  means any  individual\u2014I.R.C. \u00a7 22(b)(1)\u2014who  has attained age 65 before the close of the taxable year, orI.R.C. \u00a7 22(b)(2)\u2014who  retired on disability before the close of the taxable year and who, when  he\n                     retired, was permanently and totally disabled.",
+    "definitions": {
+      "term": "qualified individual",
+      "requirements": [
+        "any individual\u2014\u2014who has attained age 65 before the close of the taxable year, or\u2014who retired on disability before the close of the taxable year and who, when he retired, was permanently and totally disabled."
+      ]
+    }
+  },
+  {
+    "section": "22",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "An individual's section 22 amount for the taxable year shall be the applicable initial amount determined under paragraph(2), reduced as provided in paragraph(3)and in subsection(d).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "An individual's section 22 amount for the taxable year shall be the applicable initial amount determined under paragraph(2), reduced as provided in paragraph(3)and in subsection(d)."
+    },
+    "cross_references": [
+      {
+        "section": "22",
+        "reason": "An individual's..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 22(c)(1)In General\u2014An  individual's section 22 amount for the taxable year shall be the  applicable initial\n                     amount determined under paragraph(2), reduced as  provided in paragraph(3)and in subsection(d).",
+    "definitions": null
+  },
+  {
+    "section": "22",
+    "subsection": "(c)(2)(A)(i)",
+    "source_subsections": [
+      "(c)(2)(A)(i)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$5,000 in the case of a single individual, or a joint return where only one spouse is a qualified individual,",
+    "conditions": [
+      "only one spouse is a qualified individual,"
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 5000,
+        "text": "$5,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "only one spouse is a qualified individual,"
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$5,000 in the case of a single individual, or a joint return"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 22(c)(2)(A)(i)\u2014$5,000  in the case of a single individual, or a joint return where only one  spouse\n                           is a qualified individual,",
+    "definitions": null
+  },
+  {
+    "section": "22",
+    "subsection": "(c)(2)(A)(ii)",
+    "source_subsections": [
+      "(c)(2)(A)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$7,500 in the case of a joint return where both spouses are qualified individuals, or",
+    "conditions": [
+      "both spouses are qualified individuals, or"
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 7500,
+        "text": "$7,500"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "both spouses are qualified individuals, or"
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$7,500 in the case of a joint return"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 22(c)(2)(A)(ii)\u2014$7,500  in the case of a joint return where both spouses are qualified  individuals,\n                           or",
+    "definitions": null
+  },
+  {
+    "section": "22",
+    "subsection": "(c)(2)(A)(iii)",
+    "source_subsections": [
+      "(c)(2)(A)(iii)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$3,750 in the case of a married individual filing a separate return.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 3750,
+        "text": "$3,750"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$3,750 in the case of a married individual filing a separate return."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 22(c)(2)(A)(iii)\u2014$3,750  in the case of a married individual filing a separate return.",
+    "definitions": null
+  },
+  {
+    "section": "22",
+    "subsection": "(c)(2)(B)(i)",
+    "source_subsections": [
+      "(c)(2)(B)(i)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "In the case of a qualified individual who has not attained age 65 before the close of the taxable year, except as provided in clause(ii), the initial amount shall not exceed the disability income for the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [
+      {
+        "applies_when": "clause(ii)",
+        "effect": "See referenced section"
+      }
+    ],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as provided in clause(ii), the initial amount shall not exceed the disability income for the taxable year."
+      ],
+      "result": "In the case of a qualified individual who has not attained age 65 before the close of the taxable year,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 22(c)(2)(B)(i)In General\u2014In  the case of a qualified individual who has not attained age 65 before the  close\n                           of the taxable year, except as provided in clause(ii), the initial  amount shall not exceed the disability income for the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "22",
+    "subsection": "(c)(2)(B)(ii)",
+    "source_subsections": [
+      "(c)(2)(B)(ii)",
+      "(c)(2)(B)(ii)(I)",
+      "(c)(2)(B)(ii)(II)"
+    ],
+    "rule_type": "condition",
+    "title": "Rules In Case Of Joint Return",
+    "text": "In the case of a joint return where both spouses are qualified individuals and at least one spouse has not attained age 65 before the close of the taxable year\u2014\u2014if both spouses have not attained age 65 before the close of the taxable year, the initial amount shall not exceed the sum of such spouses' disability income, or\u2014if one spouse has attained age 65 before the close of the taxable year, the initial amount shall not exceed the sum of $5,000 plus the disability income for the taxable year of the spouse who has not attained age 65 before the close of the taxable year.",
+    "conditions": [
+      "both spouses are qualified individuals and at least one spouse has not attained age 65 before the close of the taxable year\u2014\u2014",
+      "both spouses have not attained age 65 before the close of the taxable year, the initial amount shall not exceed the sum of such spouses' disability income, or\u2014",
+      "one spouse has attained age 65 before the close of the taxable year, the initial amount shall not exceed the sum of $5,000 plus the disability income for the taxable year of the spouse who has not attained age 65 before the close of the taxable year."
+    ],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 5000,
+        "text": "$5,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "both spouses are qualified individuals and at least one spouse has not attained age 65 before the close of the taxable year\u2014\u2014",
+        "both spouses have not attained age 65 before the close of the taxable year, the initial amount shall not exceed the sum of such spouses' disability income, or\u2014",
+        "one spouse has attained age 65 before the close of the taxable year, the initial amount shall not exceed the sum of $5,000 plus the disability income for the taxable year of the spouse who has not attained age 65 before the close of the taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a joint return"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 22(c)(2)(B)(ii)Special Rules In Case Of Joint Return\u2014In  the case of a joint return where both spouses are qualified individuals  and at\n                           least one spouse has not attained age 65 before the close of the  taxable year\u2014I.R.C. \u00a7 22(c)(2)(B)(ii)(I)\u2014if  both spouses have not attained age 65 before the close of the taxable  year, the\n                              initial amount shall not exceed the sum of such spouses'  disability income, orI.R.C. \u00a7 22(c)(2)(B)(ii)(II)\u2014if  one spouse has attained age 65 before the close of the taxable year, the  initial\n                              amount shall not exceed the sum of $5,000 plus the disability  income for the taxable\n                              year of the spouse who has not attained age 65  before the close of the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "22",
+    "subsection": "(c)(2)(B)(iii)",
+    "source_subsections": [
+      "(c)(2)(B)(iii)"
+    ],
+    "rule_type": "definition",
+    "title": "Income",
+    "text": "For purposes of this subparagraph, the term \u201cdisability income\u201d means the aggregate amount includable in the gross income of the individual for the taxable year under section72or105(a)to the extent such amount constitutes wages (or payments in lieu of wages) for the period during which the individual is absent from work on account of permanent and total disability.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subparagraph, the term \u201cdisability income\u201d means the aggregate amount includable in the gross income of the individual for the taxable year under section72or105(a)to the extent such amount constitutes wages (or payments in lieu of wages) for the period during which the individual is absent from work on account of permanent and total disability."
+    },
+    "cross_references": [
+      {
+        "section": "72o",
+        "reason": "al for the taxable year under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 22(c)(2)(B)(iii)Disability Income\u2014For  purposes of this subparagraph, the term \u201cdisability income\u201d means the  aggregate\n                           amount includable in the gross income of the individual for the  taxable year under\n                           section72or105(a)to the extent such amount\n                           constitutes wages (or payments in lieu of wages) for the period during\n                           which the individual is absent from work on account of permanent and total  disability.",
+    "definitions": {
+      "term": "disability income",
+      "requirements": [
+        "the aggregate amount includable in the gross income of the individual for the taxable year under section72or105(a)to the extent such amount constitutes wages (or payments in lieu of wages) for the period during which the individual is absent from work on account of permanent and total disability."
+      ]
+    }
+  },
+  {
+    "section": "22",
+    "subsection": "(c)(3)(A)",
+    "source_subsections": [
+      "(c)(3)(A)",
+      "(c)(3)(A)(i)",
+      "(c)(3)(A)(i)(I)",
+      "(c)(3)(A)(i)(II)",
+      "(c)(3)(A)(i)(III)",
+      "(c)(3)(A)(ii)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "The reduction under this paragraph is an amount equal to the sum of the amounts received by the individual (or, in the case of a joint return, by either spouse) as a pension or annuity or as a disability benefit\u2014\u2014which is excluded from gross income and payable under\u2014\u2014title II of the Social Security Act,\u2014the Railroad Retirement Act of 1974, or\u2014a law administered by the Department of Veterans Affairs, or\u2014which is excluded from gross income under any provision of law not contained in this title.No reduction shall be made under clause(i)(III)for any amount described in section104(a)(4).",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The reduction under this paragraph is an amount equal to the sum of the amounts received by the individual (or, in the case of a joint return, by either spouse) as a pension or annuity or as a disability benefit\u2014\u2014which is excluded from gross income and payable under\u2014\u2014title II of the Social Security Act,\u2014the Railroad Retirement Act of 1974, or\u2014a law administered by the Department of Veterans Affairs, or\u2014which is excluded from gross income under any provision of law not contained in this title.No reduction shall be made under clause(i)(III)for any amount described in section104(a)(4)."
+    },
+    "cross_references": [
+      {
+        "section": "104(a)(4)",
+        "reason": "I)for any amount described in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 22(c)(3)(A)In General\u2014The  reduction under this paragraph is an amount equal to the sum of the  amounts\n                        received by the individual (or, in the case of a joint return, by  either spouse)\n                        as a pension or annuity or as a disability benefit\u2014I.R.C. \u00a7 22(c)(3)(A)(i)\u2014which  is excluded from gross income and payable under\u2014I.R.C. \u00a7 22(c)(3)(A)(i)(I)\u2014title  II of the Social Security Act,I.R.C. \u00a7 22(c)(3)(A)(i)(II)\u2014the  Railroad Retirement Act of 1974, orI.R.C. \u00a7 22(c)(3)(A)(i)(III)\u2014a  law administered by the Department of Veterans Affairs, orI.R.C. \u00a7 22(c)(3)(A)(ii)\u2014which  is excluded from gross income under any provision of law not contained in \n                           this title.No reduction shall be made under clause(i)(III)for any\n                           amount described in section104(a)(4).",
+    "definitions": null
+  },
+  {
+    "section": "22",
+    "subsection": "(c)(3)(B)",
+    "source_subsections": [
+      "(c)(3)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Certain Workmen's Compensation Benefits",
+    "text": "For purposes of subparagraph(A), any amount treated as a social security benefit under section86(d)(3)shall be treated as a disability benefit received under title II of the Social Security Act.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph(A), any amount treated as a social security benefit under section86(d)(3)shall be treated as a disability benefit received under title II of the Social Security Act."
+    },
+    "cross_references": [
+      {
+        "section": "86(d)(3)",
+        "reason": "social security benefit under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 22(c)(3)(B)Treatment Of Certain Workmen's Compensation Benefits\u2014For  purposes of subparagraph(A), any amount treated as a social security  benefit under section86(d)(3)shall be treated as a disability benefit  received under title II of the Social Security\n                        Act.",
+    "definitions": null
+  },
+  {
+    "section": "22",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$7,500 in the case of a single individual,",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 7500,
+        "text": "$7,500"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$7,500 in the case of a single individual,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 22(d)(1)\u2014$7,500  in the case of a single individual,",
+    "definitions": null
+  },
+  {
+    "section": "22",
+    "subsection": "(d)(2)",
+    "source_subsections": [
+      "(d)(2)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$10,000 in the case of a joint return, or",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 10000,
+        "text": "$10,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$10,000 in the case of a joint return, or"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 22(d)(2)\u2014$10,000  in the case of a joint return, or",
+    "definitions": null
+  },
+  {
+    "section": "22",
+    "subsection": "(d)(3)",
+    "source_subsections": [
+      "(d)(3)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$5,000 in the case of a married individual filing a separate return,",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 5000,
+        "text": "$5,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$5,000 in the case of a married individual filing a separate return,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 22(d)(3)\u2014$5,000  in the case of a married individual filing a separate return,",
+    "definitions": null
+  },
+  {
+    "section": "22",
+    "subsection": "(e)(1)",
+    "source_subsections": [
+      "(e)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "Couple Must File Joint Return",
+    "text": "Except in the case of a husband and wife who live apart at all times during the taxable year, if the taxpayer is married at the close of the taxable year, the credit provided by this section shall be allowed only if the taxpayer and his spouse file a joint return for the taxable year.",
+    "conditions": [
+      "the taxpayer is married at the close of the taxable year, the credit provided by this section shall be allowed only",
+      "the taxpayer and his spouse file a joint return for the taxable year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the taxpayer is married at the close of the taxable year, the credit provided by this section shall be allowed only",
+        "the taxpayer and his spouse file a joint return for the taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "in the case of a husband and wife who live apart at all times during the taxable year,"
+      ],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 22(e)(1)Married Couple Must File Joint Return\u2014Except  in the case of a husband and wife who live apart at all times during the \n                     taxable year, if the taxpayer is married at the close of the taxable year,  the credit\n                     provided by this section shall be allowed only if the taxpayer  and his spouse file\n                     a joint return for the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "22",
+    "subsection": "(e)(2)",
+    "source_subsections": [
+      "(e)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Status",
+    "text": "Marital status shall be determined under section7703.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Marital status shall be determined under section7703."
+    },
+    "cross_references": [
+      {
+        "section": "7703",
+        "reason": "tus shall be determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 22(e)(2)Marital Status\u2014Marital  status shall be determined under section7703.",
+    "definitions": null
+  },
+  {
+    "section": "22",
+    "subsection": "(e)(3)",
+    "source_subsections": [
+      "(e)(3)"
+    ],
+    "rule_type": "definition",
+    "title": "And Total Disability Defined",
+    "text": "And Total Disability Defined\u2014An individual is permanently and totally disabled if he is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment which can be expected to result in death or which has lasted or can be expected to last for a continuous period of not less than 12 months. An individual shall not be considered to be permanently and totally disabled unless he furnishes proof of the existence thereof in such form and manner, and at such times, as the Secretary may require.",
+    "conditions": [
+      "he is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment which can be expected to result in death or which has lasted or can be expected to last for a continuous period of not less than 12 months. An individual shall not be considered to be permanently and totally disabled",
+      "he furnishes proof of the existence thereof in such form and manner, and at such times, as the Secretary may require."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "he is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment which can be expected to result in death or which has lasted or can be expected to last for a continuous period of not less than 12 months. An individual shall not be considered to be permanently and totally disabled"
+      ],
+      "and": [],
+      "or": [],
+      "unless": [
+        "he furnishes proof of the existence thereof in such form and manner, and at such times, as the Secretary may require."
+      ],
+      "except": [],
+      "result": "And Total Disability Defined\u2014An individual is permanently and totally disabled"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 22(e)(3)Permanent And Total Disability Defined\u2014An  individual is permanently and totally disabled if he is unable to engage  in any\n                     substantial gainful activity by reason of any medically  determinable physical or\n                     mental impairment which can be expected to result  in death or which has lasted or\n                     can be expected to last for a continuous  period of not less than 12 months. An individual\n                     shall not be considered  to be permanently and totally disabled unless he furnishes\n                     proof of the  existence thereof in such form and manner, and at such times, as the\n                     Secretary may require.",
+    "definitions": null
+  },
+  {
+    "section": "22",
+    "subsection": "(f)",
+    "source_subsections": [
+      "(f)"
+    ],
+    "rule_type": "condition",
+    "title": "Alien Ineligible For Credit",
+    "text": "No credit shall be allowed under this section to any nonresident alien.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be allowed under this section to any nonresident alien."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 22(f)Nonresident Alien Ineligible For Credit\u2014No  credit shall be allowed under this section to any nonresident alien.",
+    "definitions": null
+  }
+]

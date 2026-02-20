@@ -1,0 +1,22 @@
+{
+  "id": "6df20430f6d4",
+  "section": "9034",
+  "citation": "I.R.C. \u00a7 9034(a)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 9034(a) is discussed as follows: 'I.R.C. \u00a7 9034(a)In General\u2014Every  candidate who is eligible to receive payments under section9033is\n...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 9034(a)?",
+  "difficulty": 1,
+  "choices": [
+    "$225.00",
+    "$125.00",
+    "$275.00",
+    "$500.00",
+    "$250.00"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies $250.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 9034(a)"
+  ]
+}

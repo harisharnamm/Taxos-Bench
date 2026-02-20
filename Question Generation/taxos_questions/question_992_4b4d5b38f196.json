@@ -1,0 +1,22 @@
+{
+  "id": "4b4d5b38f196",
+  "section": "992",
+  "citation": "I.R.C. \u00a7 992(a)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 992(a) is discussed as follows: 'I.R.C. \u00a7 992(a)Definition Of \u201cDISC\u201d And \u201cFormer DISC\u201dI.R.C. \u00a7 992(a)(1)DISC\u2014For  purposes of this ti...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 992(a)?",
+  "difficulty": 1,
+  "choices": [
+    "5.0%",
+    "105.0%",
+    "95.0%",
+    "142.5%",
+    "85.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 95.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 992(a)"
+  ]
+}

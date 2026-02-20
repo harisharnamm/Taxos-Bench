@@ -1,0 +1,22 @@
+{
+  "id": "c56efa03ac87",
+  "section": "953",
+  "citation": "I.R.C. \u00a7 953(e)(2)(B)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 953(e)(2)(B) is discussed as follows: 'I.R.C. \u00a7 953(e)(2)(B)Minimum Home Country Income RequiredI.R.C. \u00a7 953(e)(2)(B)(i)In General\u2014No  cont...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 953(e)(2)(B)?",
+  "difficulty": 1,
+  "choices": [
+    "70.0%",
+    "40.0%",
+    "20.0%",
+    "45.0%",
+    "30.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 30.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 953(e)(2)(B)"
+  ]
+}

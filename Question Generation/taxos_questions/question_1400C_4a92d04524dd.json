@@ -1,0 +1,22 @@
+{
+  "id": "4a92d04524dd",
+  "section": "1400C",
+  "citation": "I.R.C. \u00a7 1400C(b)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 1400C(b) is discussed as follows: 'I.R.C. \u00a7 1400C(b)Limitation Based On Modified Adjusted Gross IncomeI.R.C. \u00a7 1400C(b)(1)In General\u2014Th...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 1400C(b)?",
+  "difficulty": 1,
+  "choices": [
+    "$77,000.00",
+    "$140,000.00",
+    "$35,000.00",
+    "$63,000.00",
+    "$70,000.00"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies $70,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1400C(b)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "c3fd92919cd9",
+  "section": "181",
+  "citation": "I.R.C. \u00a7 181(a)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 181(a) is discussed as follows: 'I.R.C. \u00a7 181(a)Election To Treat Costs As Expenses\u2014Editor's Note:Sec. 181(a)(1), below, before amend...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 181(a)?",
+  "difficulty": 1,
+  "choices": [
+    "$15,000,000.00",
+    "$7,500,000.00",
+    "$16,500,000.00",
+    "$13,500,000.00",
+    "$30,000,000.00"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies $15,000,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 181(a)"
+  ]
+}

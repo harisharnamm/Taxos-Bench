@@ -1,0 +1,22 @@
+{
+  "id": "cd1beee2c529",
+  "section": "1083",
+  "citation": "I.R.C. \u00a7 1083(d)(2)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1083(d)(2) is discussed as follows: 'I.R.C. \u00a7 1083(d)(2)\u2014the  common parent corporation owns directly at least 90 percent of each class  ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1083(d)(2)?",
+  "difficulty": 1,
+  "choices": [
+    "90.0%",
+    "135.0%",
+    "80.0%",
+    "100.0%",
+    "10.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 90.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1083(d)(2)"
+  ]
+}

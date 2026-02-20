@@ -1,0 +1,22 @@
+{
+  "id": "32b3fb2deb48",
+  "section": "367",
+  "citation": "I.R.C. \u00a7 367(c)(2)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 367(c)(2) is discussed as follows: 'I.R.C. \u00a7 367(c)(2)Contribution Of Capital To Controlled Corporations\u2014For  purposes of this chapter, ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 367(c)(2)?",
+  "difficulty": 1,
+  "choices": [
+    "120.0%",
+    "70.0%",
+    "80.0%",
+    "90.0%",
+    "20.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 80.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 367(c)(2)"
+  ]
+}

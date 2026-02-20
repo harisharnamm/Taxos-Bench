@@ -1,0 +1,106 @@
+[
+  {
+    "section": "34",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)",
+      "(a)(1)",
+      "(a)(2)",
+      "(a)(3)"
+    ],
+    "rule_type": "computation",
+    "title": "Rule",
+    "text": "There shall be allowed as a credit against the tax imposed by this subtitle for the taxable year an amount equal to the sum of the amounts payable to the taxpayer\u2014\u2014under section6420(determined without regard to section6420(g)),\u2014under section6421(determined without regard to section6421(i)), and\u2014under section6427(determined without regard to section6427(k)).",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "There shall be allowed as a credit against the tax imposed by this subtitle for the taxable year an amount equal to the sum of the amounts payable to the taxpayer\u2014\u2014under section6420(determined without regard to section6420(g)),\u2014under section6421(determined without regard to section6421(i)), and\u2014under section6427(determined without regard to section6427(k))."
+    },
+    "cross_references": [
+      {
+        "section": "6420",
+        "reason": "ayable to the taxpayer\u2014\u2014under..."
+      },
+      {
+        "section": "6420(g)",
+        "reason": "(determined without regard to..."
+      },
+      {
+        "section": "6421",
+        "reason": "),\u2014under..."
+      },
+      {
+        "section": "6421(i)",
+        "reason": "(determined without regard to..."
+      },
+      {
+        "section": "6427",
+        "reason": "), and\u2014under..."
+      },
+      {
+        "section": "6427(k)",
+        "reason": "(determined without regard to..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 34(a)General Rule\u2014There  shall be allowed as a credit against the tax imposed by this subtitle for \n                  the taxable year an amount equal to the sum of the amounts payable to the  taxpayer\u2014I.R.C. \u00a7 34(a)(1)\u2014under  section6420(determined without regard to section6420(g)),I.R.C. \u00a7 34(a)(2)\u2014under  section6421(determined without regard to section6421(i)), andI.R.C. \u00a7 34(a)(3)\u2014under section6427(determined without regard to section6427(k)).",
+    "definitions": null
+  },
+  {
+    "section": "34",
+    "subsection": "(b)",
+    "source_subsections": [
+      "(b)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Credit shall not be allowed under subsection(a)for any amount payable under section6421or6427, if a claim for such amount is timely filed and, under section6421(i)or6427(k), is payable under such section.",
+    "conditions": [
+      "a claim for such amount is timely filed and, under section6421(i)or6427(k), is payable under such section."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "a claim for such amount is timely filed and, under section6421(i)or6427(k), is payable under such section."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Credit shall not be allowed under subsection(a)for any amount payable under section6421or6427,"
+    },
+    "cross_references": [
+      {
+        "section": "6421o",
+        "reason": ")for any amount payable under..."
+      },
+      {
+        "section": "6421(i)",
+        "reason": "nt is timely filed and, under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 34(b)Exception\u2014Credit  shall not be allowed under subsection(a)for any amount payable under\n                  section6421or6427, if a claim for such amount is timely filed and,  under  section6421(i)or6427(k), is payable under such section.",
+    "definitions": null
+  }
+]

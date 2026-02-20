@@ -1,0 +1,22 @@
+{
+  "id": "a48ca95de810",
+  "section": "1392",
+  "citation": "I.R.C. \u00a7 1392(b)(1)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1392(b)(1) is discussed as follows: 'I.R.C. \u00a7 1392(b)(1)Treatment Of Census Tracts With Small PopulationsI.R.C. \u00a7 1392(b)(1)(A)Tracts Wit...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1392(b)(1)?",
+  "difficulty": 1,
+  "choices": [
+    "25.0%",
+    "65.0%",
+    "75.0%",
+    "112.5%",
+    "85.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 75.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1392(b)(1)"
+  ]
+}

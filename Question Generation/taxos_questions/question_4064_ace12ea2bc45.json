@@ -1,0 +1,21 @@
+{
+  "id": "ace12ea2bc45",
+  "section": "4064",
+  "citation": "I.R.C. \u00a7 4064(c)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 4064(c) is discussed as follows: 'I.R.C. \u00a7 4064(c)Determination Of Fuel Economy\u2014For  purposes of this section\u2014I.R.C. \u00a7 4064(c)(1)In Ge...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 4064(c)?",
+  "difficulty": 1,
+  "choices": [
+    "45.0%",
+    "67.5%",
+    "35.0%",
+    "55.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 45.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 4064(c)"
+  ]
+}

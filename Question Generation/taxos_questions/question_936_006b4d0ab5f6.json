@@ -1,0 +1,22 @@
+{
+  "id": "006b4d0ab5f6",
+  "section": "936",
+  "citation": "I.R.C. \u00a7 936(h)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 936(h) is discussed as follows: 'I.R.C. \u00a7 936(h)Tax Treatment Of Intangible Property IncomeI.R.C. \u00a7 936(h)(1)In GeneralI.R.C. \u00a7 936(h...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 936(h)?",
+  "difficulty": 1,
+  "choices": [
+    "37.5%",
+    "25.0%",
+    "75.0%",
+    "15.0%",
+    "35.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 25.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 936(h)"
+  ]
+}

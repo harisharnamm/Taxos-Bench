@@ -1,0 +1,22 @@
+{
+  "id": "c3fde250c036",
+  "section": "514",
+  "citation": "I.R.C. \u00a7 514(c)(9)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 514(c)(9) is discussed as follows: 'I.R.C. \u00a7 514(c)(9)Real Property Acquired By A Qualified OrganizationI.R.C. \u00a7 514(c)(9)(A)In General\u2014...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 514(c)(9)?",
+  "difficulty": 1,
+  "choices": [
+    "40.0%",
+    "70.0%",
+    "45.0%",
+    "20.0%",
+    "30.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 30.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 514(c)(9)"
+  ]
+}

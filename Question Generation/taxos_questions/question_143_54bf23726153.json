@@ -1,0 +1,22 @@
+{
+  "id": "54bf23726153",
+  "section": "143",
+  "citation": "I.R.C. \u00a7 143(k)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 143(k) is discussed as follows: 'I.R.C. \u00a7 143(k)Other Definitions And Special Rules\u2014For  purposes of this section\u2014I.R.C. \u00a7 143(k)(1)M...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 143(k)?",
+  "difficulty": 1,
+  "choices": [
+    "$300,000.00",
+    "$75,000.00",
+    "$135,000.00",
+    "$150,000.00",
+    "$165,000.00"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies $150,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 143(k)"
+  ]
+}

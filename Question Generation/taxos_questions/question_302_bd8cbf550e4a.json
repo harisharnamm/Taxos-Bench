@@ -1,0 +1,22 @@
+{
+  "id": "bd8cbf550e4a",
+  "section": "302",
+  "citation": "I.R.C. \u00a7 302(b)(2)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 302(b)(2) is discussed as follows: 'I.R.C. \u00a7 302(b)(2)Substantially Disproportionate Redemption Of StockI.R.C. \u00a7 302(b)(2)(A)In General\u2014...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 302(b)(2)?",
+  "difficulty": 1,
+  "choices": [
+    "70.0%",
+    "80.0%",
+    "120.0%",
+    "90.0%",
+    "20.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 80.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 302(b)(2)"
+  ]
+}

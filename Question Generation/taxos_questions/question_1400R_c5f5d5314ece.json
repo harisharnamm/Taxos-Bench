@@ -1,0 +1,21 @@
+{
+  "id": "c5f5d5314ece",
+  "section": "1400R",
+  "citation": "I.R.C. \u00a7 1400R(b)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1400R(b) is discussed as follows: 'I.R.C. \u00a7 1400R(b)Employee Retention Credit For Employers Affected By Hurricane\n                  Rit...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1400R(b)?",
+  "difficulty": 1,
+  "choices": [
+    "60.0%",
+    "40.0%",
+    "30.0%",
+    "50.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 40.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1400R(b)"
+  ]
+}

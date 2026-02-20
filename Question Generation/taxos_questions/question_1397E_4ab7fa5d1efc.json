@@ -1,0 +1,22 @@
+{
+  "id": "4ab7fa5d1efc",
+  "section": "1397E",
+  "citation": "I.R.C. \u00a7 1397E(f)(3)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1397E(f)(3) is discussed as follows: 'I.R.C. \u00a7 1397E(f)(3)Failure To Spend Required Amount Of Bond Proceeds Within 5 Years\u2014To the extent t...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1397E(f)(3)?",
+  "difficulty": 1,
+  "choices": [
+    "105.0%",
+    "5.0%",
+    "85.0%",
+    "142.5%",
+    "95.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 95.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1397E(f)(3)"
+  ]
+}

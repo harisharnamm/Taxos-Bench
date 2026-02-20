@@ -1,0 +1,22 @@
+{
+  "id": "24e9f5bd01b3",
+  "section": "280A",
+  "citation": "I.R.C. \u00a7 280A(d)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 280A(d) is discussed as follows: 'I.R.C. \u00a7 280A(d)Use As ResidenceI.R.C. \u00a7 280A(d)(1)In General\u2014For  purposes of this section, a taxpa...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 280A(d)?",
+  "difficulty": 1,
+  "choices": [
+    "10.0%",
+    "15.0%",
+    "20.0%",
+    "0.0%",
+    "90.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 10.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 280A(d)"
+  ]
+}

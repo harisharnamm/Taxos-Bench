@@ -1,0 +1,22 @@
+{
+  "id": "4938408b567f",
+  "section": "1411",
+  "citation": "I.R.C. \u00a7 1411(a)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1411(a) is discussed as follows: 'I.R.C. \u00a7 1411(a)In General\u2014Except as provided in subsection (e)\u2014I.R.C. \u00a7 1411(a)(1)Application To In...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1411(a)?",
+  "difficulty": 1,
+  "choices": [
+    "5.7%",
+    "3.8%",
+    "96.2%",
+    "0.0%",
+    "13.8%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 3.8%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1411(a)"
+  ]
+}

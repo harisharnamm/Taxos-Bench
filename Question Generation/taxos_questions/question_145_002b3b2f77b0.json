@@ -1,0 +1,22 @@
+{
+  "id": "002b3b2f77b0",
+  "section": "145",
+  "citation": "I.R.C. \u00a7 145(b)(2)(C)(ii)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 145(b)(2)(C)(ii) is discussed as follows: 'I.R.C. \u00a7 145(b)(2)(C)(ii)Special Rule\u2014If  90 percent or more of the net proceeds of an issue are use...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 145(b)(2)(C)(ii)?",
+  "difficulty": 1,
+  "choices": [
+    "100.0%",
+    "80.0%",
+    "90.0%",
+    "135.0%",
+    "10.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 90.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 145(b)(2)(C)(ii)"
+  ]
+}

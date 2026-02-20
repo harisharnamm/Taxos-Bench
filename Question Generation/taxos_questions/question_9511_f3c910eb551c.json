@@ -1,0 +1,22 @@
+{
+  "id": "f3c910eb551c",
+  "section": "9511",
+  "citation": "I.R.C. \u00a7 9511(b)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 9511(b) is discussed as follows: 'I.R.C. \u00a7 9511(b)Transfers To FundI.R.C. \u00a7 9511(b)(1)Appropriation\u2014There are hereby appropriated to t...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 9511(b)?",
+  "difficulty": 1,
+  "choices": [
+    "$146,750,000.00",
+    "$264,150,000.00",
+    "$587,000,000.00",
+    "$322,850,000.00",
+    "$293,500,000.00"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies $293,500,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 9511(b)"
+  ]
+}

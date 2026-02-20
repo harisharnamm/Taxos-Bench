@@ -1,0 +1,21 @@
+{
+  "id": "49412b45ad15",
+  "section": "707",
+  "citation": "I.R.C. \u00a7 707(b)(2)(A)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 707(b)(2)(A) is discussed as follows: 'I.R.C. \u00a7 707(b)(2)(A)\u2014between  a partnership and a person owning, directly or indirectly, more than ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 707(b)(2)(A)?",
+  "difficulty": 1,
+  "choices": [
+    "50.0%",
+    "40.0%",
+    "75.0%",
+    "60.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 707(b)(2)(A)"
+  ]
+}

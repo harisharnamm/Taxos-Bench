@@ -1,0 +1,22 @@
+{
+  "id": "4bd1dcc2877d",
+  "section": "508",
+  "citation": "I.R.C. \u00a7 508(c)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 508(c) is discussed as follows: 'I.R.C. \u00a7 508(c)ExceptionsI.R.C. \u00a7 508(c)(1)Mandatory Exceptions\u2014Subsections  (a) and (b) shall not a...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 508(c)?",
+  "difficulty": 1,
+  "choices": [
+    "$5,000.00",
+    "$4,500.00",
+    "$5,500.00",
+    "$10,000.00",
+    "$2,500.00"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies $5,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 508(c)"
+  ]
+}

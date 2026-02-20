@@ -1,0 +1,22 @@
+{
+  "id": "1679ff904329",
+  "section": "40",
+  "citation": "I.R.C. \u00a7 40(b)(6)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 40(b)(6) is discussed as follows: 'I.R.C. \u00a7 40(b)(6)Second Generation Biofuel Producer CreditI.R.C. \u00a7 40(b)(6)(A)In General\u2014The second ...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 40(b)(6)?",
+  "difficulty": 1,
+  "choices": [
+    "$0.50",
+    "$1.00",
+    "$1.10",
+    "$2.00",
+    "$0.90"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $1.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 40(b)(6)"
+  ]
+}

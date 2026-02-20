@@ -1,0 +1,22 @@
+{
+  "id": "15e7420bf296",
+  "section": "45K",
+  "citation": "I.R.C. \u00a7 45K(b)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 45K(b) is discussed as follows: 'I.R.C. \u00a7 45K(b)Limitations And AdjustmentsI.R.C. \u00a7 45K(b)(1)Phaseout Of Credit\u2014The  amount of the cr...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 45K(b)?",
+  "difficulty": 1,
+  "choices": [
+    "$12.00",
+    "$3.00",
+    "$6.00",
+    "$5.40",
+    "$6.60"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies $6.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 45K(b)"
+  ]
+}

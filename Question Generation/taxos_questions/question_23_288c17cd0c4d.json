@@ -1,0 +1,22 @@
+{
+  "id": "288c17cd0c4d",
+  "section": "23",
+  "citation": "I.R.C. \u00a7 23(b)(2)(A)(i)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 23(b)(2)(A)(i) is discussed as follows: 'I.R.C. \u00a7 23(b)(2)(A)(i)\u2014the amount (if any) by which the taxpayer's adjusted gross income exceeds $1...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 23(b)(2)(A)(i)?",
+  "difficulty": 1,
+  "choices": [
+    "$135,000.00",
+    "$75,000.00",
+    "$150,000.00",
+    "$165,000.00",
+    "$300,000.00"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies $150,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 23(b)(2)(A)(i)"
+  ]
+}

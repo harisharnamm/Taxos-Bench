@@ -1,0 +1,22 @@
+{
+  "id": "a5994f25f1e5",
+  "section": "341",
+  "citation": "I.R.C. \u00a7 341(d)(1)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 341(d)(1) is discussed as follows: 'I.R.C. \u00a7 341(d)(1)\u2014unless,  at any time after the commencement of the manufacture, construction, or ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 341(d)(1)?",
+  "difficulty": 1,
+  "choices": [
+    "5.0%",
+    "95.0%",
+    "15.0%",
+    "7.5%",
+    "0.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 5.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 341(d)(1)"
+  ]
+}

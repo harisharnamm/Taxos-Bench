@@ -1,0 +1,22 @@
+{
+  "id": "01da0c978095",
+  "section": "45M",
+  "citation": "I.R.C. \u00a7 45M(b)(2)(A)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 45M(b)(2)(A) is discussed as follows: 'I.R.C. \u00a7 45M(b)(2)(A)\u2014$75 in the case of a residential top-loading clothes washer manufactured in ca...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 45M(b)(2)(A)?",
+  "difficulty": 1,
+  "choices": [
+    "$150.00",
+    "$75.00",
+    "$67.50",
+    "$82.50",
+    "$37.50"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $75.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 45M(b)(2)(A)"
+  ]
+}

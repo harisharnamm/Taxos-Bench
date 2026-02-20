@@ -1,0 +1,22 @@
+{
+  "id": "eb6b5f348945",
+  "section": "108",
+  "citation": "I.R.C. \u00a7 108(h)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 108(h) is discussed as follows: 'I.R.C. \u00a7 108(h)Special Rules Relating To Qualified Principal Residence IndebtednessI.R.C. \u00a7 108(h)(1...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 108(h)?",
+  "difficulty": 1,
+  "choices": [
+    "$750,000.00",
+    "$375,000.00",
+    "$675,000.00",
+    "$1,500,000.00",
+    "$825,000.00"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies $750,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 108(h)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "bb14f0a50e54",
+  "section": "521",
+  "citation": "I.R.C. \u00a7 521(b)(4)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 521(b)(4) is discussed as follows: 'I.R.C. \u00a7 521(b)(4)Transactions With Nonmembers\u2014Exemption  shall not be denied any such association w...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 521(b)(4)?",
+  "difficulty": 1,
+  "choices": [
+    "22.5%",
+    "15.0%",
+    "25.0%",
+    "5.0%",
+    "85.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 15.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 521(b)(4)"
+  ]
+}

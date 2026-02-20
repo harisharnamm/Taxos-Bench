@@ -1,0 +1,542 @@
+[
+  {
+    "section": "45U",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)",
+      "(a)(1)",
+      "(a)(1)(A)",
+      "(a)(1)(B)",
+      "(a)(1)(B)(i)",
+      "(a)(1)(B)(ii)",
+      "(a)(2)"
+    ],
+    "rule_type": "computation",
+    "title": "Of Credit",
+    "text": "For purposes ofsection 38, the zero-emission nuclear power production credit for any taxable year is an amount equal to the amount by which\u2014\u2014the product of\u2014\u20140.3 cents, multiplied by\u2014the kilowatt hours of electricity\u2014\u2014produced by the taxpayer at a qualified nuclear power facility, and\u2014sold by the taxpayer to an unrelated person during the taxable year, exceeds\u2014the reduction amount for such taxable year.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes ofsection 38, the zero-emission nuclear power production credit for any taxable year is an amount equal to the amount by which\u2014\u2014the product of\u2014\u20140.3 cents, multiplied by\u2014the kilowatt hours of electricity\u2014\u2014produced by the taxpayer at a qualified nuclear power facility, and\u2014sold by the taxpayer to an unrelated person during the taxable year, exceeds\u2014the reduction amount for such taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45U(a)Amount Of Credit\u2014For purposes ofsection 38, the zero-emission nuclear power production credit for any taxable year is an amount\n                  equal to the amount by which\u2014I.R.C. \u00a7 45U(a)(1)\u2014the product of\u2014I.R.C. \u00a7 45U(a)(1)(A)\u20140.3 cents, multiplied byI.R.C. \u00a7 45U(a)(1)(B)\u2014the kilowatt hours of electricity\u2014I.R.C. \u00a7 45U(a)(1)(B)(i)\u2014produced by the taxpayer at a qualified nuclear power facility, andI.R.C. \u00a7 45U(a)(1)(B)(ii)\u2014sold by the taxpayer to an unrelated person during the taxable year, exceedsI.R.C. \u00a7 45U(a)(2)\u2014the reduction amount for such taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "45U",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)",
+      "(b)(1)(A)",
+      "(b)(1)(B)",
+      "(b)(1)(C)"
+    ],
+    "rule_type": "definition",
+    "title": "Nuclear Power Facility",
+    "text": "For purposes of this section, the term \u201cqualified nuclear power facility\u201d means any nuclear facility\u2014\u2014which is owned by the taxpayer and which uses nuclear energy to produce electricity,\u2014which is not an advanced nuclear power facility as defined in subsection (d)(1) ofsection 45J, and\u2014which is placed in service before the date of the enactment of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u201cqualified nuclear power facility\u201d means any nuclear facility\u2014\u2014which is owned by the taxpayer and which uses nuclear energy to produce electricity,\u2014which is not an advanced nuclear power facility as defined in subsection (d)(1) ofsection 45J, and\u2014which is placed in service before the date of the enactment of this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45U(b)(1)Qualified Nuclear Power Facility\u2014For purposes of this section, the term \u201cqualified nuclear power facility\u201d means any\n                     nuclear facility\u2014I.R.C. \u00a7 45U(b)(1)(A)\u2014which is owned by the taxpayer and which uses nuclear energy to produce electricity,I.R.C. \u00a7 45U(b)(1)(B)\u2014which is not an advanced nuclear power facility as defined in subsection (d)(1) ofsection 45J, andI.R.C. \u00a7 45U(b)(1)(C)\u2014which is placed in service before the date of the enactment of this section.",
+    "definitions": {
+      "term": "qualified nuclear power facility",
+      "requirements": [
+        "any nuclear facility\u2014\u2014which is owned by the taxpayer and which uses nuclear energy to produce electricity,\u2014which is not an advanced nuclear power facility as defined in subsection (d)(1) ofsection 45J, and\u2014which is placed in service before the date of the enactment of this section."
+      ]
+    }
+  },
+  {
+    "section": "45U",
+    "subsection": "(b)(2)(A)",
+    "source_subsections": [
+      "(b)(2)(A)",
+      "(b)(2)(A)(i)",
+      "(b)(2)(A)(ii)",
+      "(b)(2)(A)(ii)(I)",
+      "(b)(2)(A)(ii)(II)",
+      "(b)(2)(A)(ii)(II)(aa)",
+      "(b)(2)(A)(ii)(II)(bb)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "For purposes of this section, the term \u201creduction amount\u201d means, with respect to any qualified nuclear power facility for any taxable year, the amount equal to the lesser of\u2014\u2014the amount determined under subsection (a)(1), or\u2014the amount equal to 16 percent of the excess of\u2014\u2014subject to subparagraph (B), the gross receipts from any electricity produced by such facility (including any electricity services or products provided in conjunction with the electricity produced by such facility) and sold to an unrelated person during such taxable year, over\u2014the amount equal to the product of\u2014\u20142.5 cents, multiplied by\u2014the amount determined under subsection (a)(1)(B).",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "min",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      },
+      {
+        "operation": "subtraction",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      },
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.16,
+        "text": "16 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u201creduction amount\u201d means, with respect to any qualified nuclear power facility for any taxable year, the amount equal to the lesser of\u2014\u2014the amount determined under subsection (a)(1), or\u2014the amount equal to 16 percent of the excess of\u2014\u2014subject to subparagraph (B), the gross receipts from any electricity produced by such facility (including any electricity services or products provided in conjunction with the electricity produced by such facility) and sold to an unrelated person during such taxable year, over\u2014the amount equal to the product of\u2014\u20142.5 cents, multiplied by\u2014the amount determined under subsection (a)(1)(B)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45U(b)(2)(A)In General\u2014For purposes of this section, the term \u201creduction amount\u201d means, with respect to any\n                        qualified nuclear power facility for any taxable year, the amount equal to the lesser\n                        of\u2014I.R.C. \u00a7 45U(b)(2)(A)(i)\u2014the amount determined under subsection (a)(1), orI.R.C. \u00a7 45U(b)(2)(A)(ii)\u2014the amount equal to 16 percent of the excess of\u2014I.R.C. \u00a7 45U(b)(2)(A)(ii)(I)\u2014subject to subparagraph (B), the gross receipts from any electricity produced by such\n                              facility (including any electricity services or products provided in conjunction with\n                              the electricity produced by such facility) and sold to an unrelated person during\n                              such taxable year, overI.R.C. \u00a7 45U(b)(2)(A)(ii)(II)\u2014the amount equal to the product of\u2014I.R.C. \u00a7 45U(b)(2)(A)(ii)(II)(aa)\u20142.5 cents, multiplied byI.R.C. \u00a7 45U(b)(2)(A)(ii)(II)(bb)\u2014the amount determined under subsection (a)(1)(B).",
+    "definitions": null
+  },
+  {
+    "section": "45U",
+    "subsection": "(b)(2)(B)(i)",
+    "source_subsections": [
+      "(b)(2)(B)(i)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Subject to clause (iii), the amount determined under subparagraph (A)(ii)(I) shall include any amount received by the taxpayer during the taxable year with respect to the qualified nuclear power facility from a zero-emission credit program. For purposes of determining the amount received during such taxable year, the taxpayer shall take into account any reductions required under such program.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Subject to clause (iii), the amount determined under subparagraph (A)(ii)(I) shall include any amount received by the taxpayer during the taxable year with respect to the qualified nuclear power facility from a zero-emission credit program. For purposes of determining the amount received during such taxable year, the taxpayer shall take into account any reductions required under such program."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45U(b)(2)(B)(i)In General\u2014Subject to clause (iii), the amount determined under subparagraph (A)(ii)(I) shall\n                           include any amount received by the taxpayer during the taxable year with respect to\n                           the qualified nuclear power facility from a zero-emission credit program. For purposes\n                           of determining the amount received during such taxable year, the taxpayer shall take\n                           into account any reductions required under such program.",
+    "definitions": null
+  },
+  {
+    "section": "45U",
+    "subsection": "(b)(2)(B)(ii)",
+    "source_subsections": [
+      "(b)(2)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Credit Program",
+    "text": "For purposes of this subparagraph, the term \u2018zero-emission credit program\u2019 means any payments with respect to a qualified nuclear power facility as a result of any Federal, State or local government program for, in whole or in part, the zero-emission, zero-carbon, or air quality attributes of any portion of the electricity produced by such facility.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subparagraph, the term \u2018zero-emission credit program\u2019 means any payments with respect to a qualified nuclear power facility as a result of any Federal, State or local government program for, in whole or in part, the zero-emission, zero-carbon, or air quality attributes of any portion of the electricity produced by such facility."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45U(b)(2)(B)(ii)Zero-Emission Credit Program\u2014For purposes of this subparagraph, the term \u2018zero-emission credit program\u2019 means any\n                           payments with respect to a qualified nuclear power facility as a result of any Federal,\n                           State or local government program for, in whole or in part, the zero-emission, zero-carbon,\n                           or air quality attributes of any portion of the electricity produced by such facility.",
+    "definitions": null
+  },
+  {
+    "section": "45U",
+    "subsection": "(b)(2)(B)(iii)",
+    "source_subsections": [
+      "(b)(2)(B)(iii)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "For purposes of clause (i), any amount received by the taxpayer from a zero-emission credit program shall be excluded from the amount determined under subparagraph (A)(ii)(I) if the full amount of the credit calculated pursuant to subsection (a) (determined without regard to this subparagraph) is used to reduce payments from such zero-emission credit program.",
+    "conditions": [
+      "the full amount of the credit calculated pursuant to subsection (a) (determined without regard to this subparagraph) is used to reduce payments from such zero-emission credit program."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the full amount of the credit calculated pursuant to subsection (a) (determined without regard to this subparagraph) is used to reduce payments from such zero-emission credit program."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of clause (i), any amount received by the taxpayer from a zero-emission credit program shall be excluded from the amount determined under subparagraph (A)(ii)(I)"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45U(b)(2)(B)(iii)Exclusion\u2014For purposes of clause (i), any amount received by the taxpayer from a zero-emission\n                           credit program shall be excluded from the amount determined under subparagraph (A)(ii)(I)\n                           if the full amount of the credit calculated pursuant to subsection (a) (determined\n                           without regard to this subparagraph) is used to reduce payments from such zero-emission\n                           credit program.",
+    "definitions": null
+  },
+  {
+    "section": "45U",
+    "subsection": "(b)(3)",
+    "source_subsections": [
+      "(b)(3)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "For purposes of this section, the term \u201celectricity\u201d means the energy produced by a qualified nuclear power facility from the conversion of nuclear fuel into electric power.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u201celectricity\u201d means the energy produced by a qualified nuclear power facility from the conversion of nuclear fuel into electric power."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45U(b)(3)Electricity\u2014For purposes of this section, the term \u201celectricity\u201d means the energy produced by\n                     a qualified nuclear power facility from the conversion of nuclear fuel into electric\n                     power.",
+    "definitions": {
+      "term": "electricity",
+      "requirements": [
+        "the energy produced by a qualified nuclear power facility from the conversion of nuclear fuel into electric power."
+      ]
+    }
+  },
+  {
+    "section": "45U",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "Adjustment",
+    "text": "The 0.3 cent amount in subsection (a)(1)(A) and the 2.5 cent amount in subsection (b)(2)(A)(ii)(II)(aa) shall each be adjusted by multiplying such amount by the inflation adjustment factor (as determined undersection 45(e)(2), as applied by substituting \u201ccalendar year 2023\u201d for \u201ccalendar year 1992\u201d in subparagraph (B) thereof) for the calendar year in which the sale occurs. If the 0.3 cent amount as increased under this paragraph is not a multiple of 0.05 cent, such amount shall be rounded to the nearest multiple of 0.05 cent. If the 2.5 cent amount as increased under this paragraph is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.",
+    "conditions": [
+      "the 0.3 cent amount as increased under this paragraph is not a multiple of 0.05 cent, such amount shall be rounded to the nearest multiple of 0.05 cent.",
+      "the 2.5 cent amount as increased under this paragraph is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the 0.3 cent amount as increased under this paragraph is not a multiple of 0.05 cent, such amount shall be rounded to the nearest multiple of 0.05 cent.",
+        "the 2.5 cent amount as increased under this paragraph is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The 0.3 cent amount in subsection (a)(1)(A) and the 2.5 cent amount in subsection (b)(2)(A)(ii)(II)(aa) shall each be adjusted by multiplying such amount by the inflation adjustment factor (as determined undersection 45(e)(2), as applied by substituting \u201ccalendar year 2023\u201d for \u201ccalendar year 1992\u201d in subparagraph (B) thereof) for the calendar year in which the sale occurs."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45U(c)(1)Inflation Adjustment\u2014The 0.3 cent amount in subsection (a)(1)(A) and the 2.5 cent amount in subsection\n                     (b)(2)(A)(ii)(II)(aa) shall each be adjusted by multiplying such amount by the inflation\n                     adjustment factor (as determined undersection 45(e)(2), as applied by substituting \u201ccalendar year 2023\u201d for \u201ccalendar year 1992\u201d in subparagraph\n                     (B) thereof) for the calendar year in which the sale occurs. If the 0.3 cent amount\n                     as increased under this paragraph is not a multiple of 0.05 cent, such amount shall\n                     be rounded to the nearest multiple of 0.05 cent. If the 2.5 cent amount as increased\n                     under this paragraph is not a multiple of 0.1 cent, such amount shall be rounded to\n                     the nearest multiple of 0.1 cent.",
+    "definitions": null
+  },
+  {
+    "section": "45U",
+    "subsection": "(c)(2)",
+    "source_subsections": [
+      "(c)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Rules",
+    "text": "Rules similar to the rules of paragraphs (1), (3), (4), (5), and (13) ofsection 45(e)shall apply for purposes of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules of paragraphs (1), (3), (4), (5), and (13) ofsection 45(e)shall apply for purposes of this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45U(c)(2)Special Rules\u2014Rules similar to the rules of paragraphs (1), (3), (4), (5), and (13) ofsection 45(e)shall apply for purposes of this section.",
+    "definitions": null
+  },
+  {
+    "section": "45U",
+    "subsection": "(c)(3)(A)",
+    "source_subsections": [
+      "(c)(3)(A)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "No credit shall be determined under subsection (a) for any taxable year beginning after the date of enactment of this paragraph if the taxpayer is a specified foreign entity (as defined in section 7701(a)(51)(B)).",
+    "conditions": [
+      "the taxpayer is a specified foreign entity (as defined in section 7701(a)(51)(B))."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the taxpayer is a specified foreign entity (as defined in section 7701(a)(51)(B))."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be determined under subsection (a) for any taxable year beginning after the date of enactment of this paragraph"
+    },
+    "cross_references": [
+      {
+        "section": "7701(a)(51)(B)",
+        "reason": "foreign entity (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45U(c)(3)(A)In General\u2014No credit shall be determined under subsection (a) for any taxable year beginning\n                        after the date of enactment of this paragraph if the taxpayer is a specified foreign\n                        entity (as defined in section 7701(a)(51)(B)).",
+    "definitions": null
+  },
+  {
+    "section": "45U",
+    "subsection": "(c)(3)(B)",
+    "source_subsections": [
+      "(c)(3)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Prohibited Foreign Entities",
+    "text": "No credit shall be determined under subsection (a) for any taxable year beginning after the date which is 2 years after the date of enactment of this paragraph if the taxpayer is a foreign-influenced entity (as defined in section 7701(a)(51)(D), without regard to clause (i)(II) thereof).",
+    "conditions": [
+      "the taxpayer is a foreign-influenced entity (as defined in section 7701(a)(51)(D), without regard to clause (i)(II) thereof)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the taxpayer is a foreign-influenced entity (as defined in section 7701(a)(51)(D), without regard to clause (i)(II) thereof)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be determined under subsection (a) for any taxable year beginning after the date which is 2 years after the date of enactment of this paragraph"
+    },
+    "cross_references": [
+      {
+        "section": "7701(a)(51)(D)",
+        "reason": "luenced entity (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45U(c)(3)(B)Other Prohibited Foreign Entities\u2014No credit shall be determined under subsection (a) for any taxable year beginning\n                        after the date which is 2 years after the date of enactment of this paragraph if the\n                        taxpayer is a foreign-influenced entity (as defined in section 7701(a)(51)(D), without\n                        regard to clause (i)(II) thereof).",
+    "definitions": null
+  },
+  {
+    "section": "45U",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)"
+    ],
+    "rule_type": "computation",
+    "title": "Credit Amount For Qualified Nuclear Power Facilities",
+    "text": "In the case of any qualified nuclear power facility which satisfies the requirements of paragraph (2)(A), the amount of the credit determined under subsection (a) shall be equal to such amount (as determined without regard to this sentence) multiplied by 5.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any qualified nuclear power facility which satisfies the requirements of paragraph (2)(A), the amount of the credit determined under subsection (a) shall be equal to such amount (as determined without regard to this sentence) multiplied by 5."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45U(d)(1)Increased Credit Amount For Qualified Nuclear Power Facilities\u2014In the case of any qualified nuclear power facility which satisfies the requirements\n                     of paragraph (2)(A), the amount of the credit determined under subsection (a) shall\n                     be equal to such amount (as determined without regard to this sentence) multiplied\n                     by 5.",
+    "definitions": null
+  },
+  {
+    "section": "45U",
+    "subsection": "(d)(2)(A)",
+    "source_subsections": [
+      "(d)(2)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The requirements described in this subparagraph with respect to any qualified nuclear power facility are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in the alteration or repair of such facility shall be paid wages at rates not less than the prevailing rates for alteration or repair of a similar character in the locality in which such facility is located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The requirements described in this subparagraph with respect to any qualified nuclear power facility are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in the alteration or repair of such facility shall be paid wages at rates not less than the prevailing rates for alteration or repair of a similar character in the locality in which such facility is located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45U(d)(2)(A)In General\u2014The requirements described in this subparagraph with respect to any qualified nuclear\n                        power facility are that the taxpayer shall ensure that any laborers and mechanics\n                        employed by the taxpayer or any contractor or subcontractor in the alteration or repair\n                        of such facility shall be paid wages at rates not less than the prevailing rates for\n                        alteration or repair of a similar character in the locality in which such facility\n                        is located as most recently determined by the Secretary of Labor, in accordance with\n                        subchapter IV of chapter 31 of title 40, United States Code.",
+    "definitions": null
+  },
+  {
+    "section": "45U",
+    "subsection": "(d)(2)(B)",
+    "source_subsections": [
+      "(d)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "And Penalty Related To Failure To Satisfy Wage Requirements",
+    "text": "Rules similar to the rules ofsection 45(b)(7)(B)shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules ofsection 45(b)(7)(B)shall apply."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45U(d)(2)(B)Correction And Penalty Related To Failure To Satisfy Wage Requirements\u2014Rules similar to the rules ofsection 45(b)(7)(B)shall apply.",
+    "definitions": null
+  },
+  {
+    "section": "45U",
+    "subsection": "(d)(3)",
+    "source_subsections": [
+      "(d)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "And Guidance",
+    "text": "The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45U(d)(3)Regulations And Guidance\u2014The Secretary shall issue such regulations or other guidance as the Secretary determines\n                     necessary to carry out the purposes of this subsection, including regulations or other\n                     guidance which provides for requirements for recordkeeping or information reporting\n                     for purposes of administering the requirements of this subsection.",
+    "definitions": null
+  },
+  {
+    "section": "45U",
+    "subsection": "(e)",
+    "source_subsections": [
+      "(e)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "This section shall not apply to taxable years beginning after December 31, 2032.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "This section shall not apply to taxable years beginning after December 31, 2032."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45U(e)Termination\u2014This section shall not apply to taxable years beginning after December 31, 2032.",
+    "definitions": null
+  }
+]

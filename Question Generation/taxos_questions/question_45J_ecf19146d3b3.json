@@ -1,0 +1,22 @@
+{
+  "id": "ecf19146d3b3",
+  "section": "45J",
+  "citation": "I.R.C. \u00a7 45J(c)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 45J(c) is discussed as follows: 'I.R.C. \u00a7 45J(c)Other LimitationsI.R.C. \u00a7 45J(c)(1)Annual Limitation\u2014The  amount of the credit allowa...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 45J(c)?",
+  "difficulty": 1,
+  "choices": [
+    "$112,500,000.00",
+    "$62,500,000.00",
+    "$137,500,000.00",
+    "$250,000,000.00",
+    "$125,000,000.00"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies $125,000,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 45J(c)"
+  ]
+}

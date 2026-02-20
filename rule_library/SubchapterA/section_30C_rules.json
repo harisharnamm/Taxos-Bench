@@ -1,0 +1,974 @@
+[
+  {
+    "section": "30C",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)"
+    ],
+    "rule_type": "computation",
+    "title": "Allowed",
+    "text": "There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to 30 percent (6 percent in the case of property of a character subject to depreciation) of the cost of any qualified alternative fuel vehicle refueling property placed in service by the taxpayer during the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.3,
+        "text": "30 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.06,
+        "text": "6 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to 30 percent (6 percent in the case of property of a character subject to depreciation) of the cost of any qualified alternative fuel vehicle refueling property placed in service by the taxpayer during the taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30C(a)Credit Allowed\u2014There shall be allowed as a credit against the tax imposed by this chapter for the\n                  taxable year an amount equal to 30 percent (6 percent in the case of property of a\n                  character subject to depreciation) of the cost of any qualified alternative fuel vehicle\n                  refueling property placed in service by the taxpayer during the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "30C",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$100,000 in the case of any such item of property of a character subject to an allowance for depreciation, and",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 100000,
+        "text": "$100,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$100,000 in the case of any such item of property of a character subject to an allowance for depreciation, and"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30C(b)(1)\u2014$100,000 in the case of any such item of property of a character subject to an allowance\n                     for depreciation, and",
+    "definitions": null
+  },
+  {
+    "section": "30C",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$1,000 in any other case.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 1000,
+        "text": "$1,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$1,000 in any other case."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30C(b)(2)\u2014$1,000 in any other case.",
+    "definitions": null
+  },
+  {
+    "section": "30C",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)",
+      "(c)(1)(A)",
+      "(c)(1)(B)",
+      "(c)(1)(B)(i)",
+      "(c)(1)(B)(ii)",
+      "(c)(1)(B)(ii)(I)",
+      "(c)(1)(B)(ii)(II)",
+      "(c)(1)(B)(iii)",
+      "(c)(1)(B)(iv)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cqualified alternative fuel vehicle refueling property\u201d has the same meaning as the term \u201cqualified clean-fuel vehicle refueling property\u201d would have under section179Aif\u2014\u2014paragraph (1) of section179A(d)did not apply to property installed on property which is used as the principal residence (within the meaning of section121) of the taxpayer, and\u2014only the following were treated as clean-burning fuels for purposes of section179A(d):\u2014Any fuel at least 85 percent of the volume of which consists of one or more of the following: ethanol, natural gas, compressed natural gas, liquified natural gas, liquefied petroleum gas, or hydrogen.\u2014Any mixture\u2014\u2014which consists of two or more of the following: biodiesel (as defined in section40A(d)(1)), diesel fuel (as defined in section4083(a)(3)), or kerosene, and\u2014at least 20 percent of the volume of which consists of biodiesel (as so defined) determined without regard to any kerosene in such mixture.\u2014Electricity.\u2014Any transportation fuel (as defined in section45Z(d)(5)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.85,
+        "text": "85 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.2,
+        "text": "20 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified alternative fuel vehicle refueling property\u201d has the same meaning as the term \u201cqualified clean-fuel vehicle refueling property\u201d would have under section179Aif\u2014\u2014paragraph (1) of section179A(d)did not apply to property installed on property which is used as the principal residence (within the meaning of section121) of the taxpayer, and\u2014only the following were treated as clean-burning fuels for purposes of section179A(d):\u2014Any fuel at least 85 percent of the volume of which consists of one or more of the following: ethanol, natural gas, compressed natural gas, liquified natural gas, liquefied petroleum gas, or hydrogen.\u2014Any mixture\u2014\u2014which consists of two or more of the following: biodiesel (as defined in section40A(d)(1)), diesel fuel (as defined in section4083(a)(3)), or kerosene, and\u2014at least 20 percent of the volume of which consists of biodiesel (as so defined) determined without regard to any kerosene in such mixture.\u2014Electricity.\u2014Any transportation fuel (as defined in section45Z(d)(5))."
+    },
+    "cross_references": [
+      {
+        "section": "179A",
+        "reason": "ng property\u201d would have under..."
+      },
+      {
+        "section": "179A(d)",
+        "reason": "if\u2014\u2014paragraph (1) of..."
+      },
+      {
+        "section": "121",
+        "reason": "idence (within the meaning of..."
+      },
+      {
+        "section": "179A(d)",
+        "reason": "burning fuels for purposes of..."
+      },
+      {
+        "section": "40A(d)(1)",
+        "reason": "ing: biodiesel (as defined in..."
+      },
+      {
+        "section": "4083(a)(3)",
+        "reason": "), diesel fuel (as defined in..."
+      },
+      {
+        "section": "45Z(d)(5)",
+        "reason": "portation fuel (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30C(c)(1)In General\u2014The term \u201cqualified alternative fuel vehicle refueling property\u201d has the same meaning\n                     as the term \u201cqualified clean-fuel vehicle refueling property\u201d would have under section179Aif\u2014I.R.C. \u00a7 30C(c)(1)(A)\u2014paragraph (1) of section179A(d)did not apply to property installed on property which is used as the principal residence\n                        (within the meaning of section121) of the taxpayer, andI.R.C. \u00a7 30C(c)(1)(B)\u2014only the following were treated as clean-burning fuels for purposes of section179A(d):I.R.C. \u00a7 30C(c)(1)(B)(i)\u2014Any fuel at least 85 percent of the volume of which consists of one or more of the\n                           following: ethanol, natural gas, compressed natural gas, liquified natural gas, liquefied\n                           petroleum gas, or hydrogen.I.R.C. \u00a7 30C(c)(1)(B)(ii)\u2014Any mixture\u2014I.R.C. \u00a7 30C(c)(1)(B)(ii)(I)\u2014which consists of two or more of the following: biodiesel (as defined in section40A(d)(1)), diesel fuel (as defined in section4083(a)(3)), or kerosene, andI.R.C. \u00a7 30C(c)(1)(B)(ii)(II)\u2014at least 20 percent of the volume of which consists of biodiesel (as so defined) determined\n                              without regard to any kerosene in such mixture.I.R.C. \u00a7 30C(c)(1)(B)(iii)\u2014Electricity.I.R.C. \u00a7 30C(c)(1)(B)(iv)\u2014Any transportation fuel (as defined in section45Z(d)(5)).",
+    "definitions": null
+  },
+  {
+    "section": "30C",
+    "subsection": "(c)(2)",
+    "source_subsections": [
+      "(c)(2)",
+      "(c)(2)(A)",
+      "(c)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Charging Equipment",
+    "text": "Property shall not fail to be treated as qualified alternative fuel vehicle refueling property solely because such property\u2014\u2014is capable of charging the battery of a motor vehicle propelled by electricity, and\u2014allows discharging electricity from such battery to an electric load external to such motor vehicle.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Property shall not fail to be treated as qualified alternative fuel vehicle refueling property solely because such property\u2014\u2014is capable of charging the battery of a motor vehicle propelled by electricity, and\u2014allows discharging electricity from such battery to an electric load external to such motor vehicle."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30C(c)(2)Bidirectional Charging Equipment\u2014Property shall not fail to be treated as qualified alternative fuel vehicle refueling\n                     property solely because such property\u2014I.R.C. \u00a7 30C(c)(2)(A)\u2014is capable of charging the battery of a motor vehicle propelled by electricity, andI.R.C. \u00a7 30C(c)(2)(B)\u2014allows discharging electricity from such battery to an electric load external to such\n                        motor vehicle.",
+    "definitions": null
+  },
+  {
+    "section": "30C",
+    "subsection": "(c)(3)(A)",
+    "source_subsections": [
+      "(c)(3)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Property shall not be treated as qualified alternative fuel vehicle refueling property unless such property is placed in service in an eligible census tract.",
+    "conditions": [
+      "such property is placed in service in an eligible census tract."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "such property is placed in service in an eligible census tract."
+      ],
+      "except": [],
+      "result": "Property shall not be treated as qualified alternative fuel vehicle refueling property"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30C(c)(3)(A)In General\u2014Property shall not be treated as qualified alternative fuel vehicle refueling property\n                        unless such property is placed in service in an eligible census tract.",
+    "definitions": null
+  },
+  {
+    "section": "30C",
+    "subsection": "(c)(3)(B)(i)",
+    "source_subsections": [
+      "(c)(3)(B)(i)",
+      "(c)(3)(B)(i)(I)",
+      "(c)(3)(B)(i)(II)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "For purposes of this paragraph, the term \u201celigible census tract\u201d means any population census tract which\u2014\u2014is described in section45D(e), or\u2014is not an urban area.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the term \u201celigible census tract\u201d means any population census tract which\u2014\u2014is described in section45D(e), or\u2014is not an urban area."
+    },
+    "cross_references": [
+      {
+        "section": "45D(e)",
+        "reason": "tract which\u2014\u2014is described in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30C(c)(3)(B)(i)In General\u2014For purposes of this paragraph, the term \u201celigible census tract\u201d means any population\n                           census tract which\u2014I.R.C. \u00a7 30C(c)(3)(B)(i)(I)\u2014is described in section45D(e), orI.R.C. \u00a7 30C(c)(3)(B)(i)(II)\u2014is not an urban area.",
+    "definitions": {
+      "term": "eligible census tract",
+      "requirements": [
+        "any population census tract which\u2014\u2014is described in section45D(e), or\u2014is not an urban area."
+      ]
+    }
+  },
+  {
+    "section": "30C",
+    "subsection": "(c)(3)(B)(ii)",
+    "source_subsections": [
+      "(c)(3)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Area",
+    "text": "For purposes of clause (i)(II), the term \u201curban area\u201d means a census tract (as defined by the Bureau of the Census) which, according to the most recent decennial census, has been designated as an urban area by the Secretary of Commerce.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of clause (i)(II), the term \u201curban area\u201d means a census tract (as defined by the Bureau of the Census) which, according to the most recent decennial census, has been designated as an urban area by the Secretary of Commerce."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30C(c)(3)(B)(ii)Urban Area\u2014For purposes of clause (i)(II), the term \u201curban area\u201d means a census tract (as defined\n                           by the Bureau of the Census) which, according to the most recent decennial census,\n                           has been designated as an urban area by the Secretary of Commerce.",
+    "definitions": {
+      "term": "urban area",
+      "requirements": [
+        "a census tract (as defined by the Bureau of the Census) which, according to the most recent decennial census, has been designated as an urban area by the Secretary of Commerce."
+      ]
+    }
+  },
+  {
+    "section": "30C",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "Credit Treated As Part Of General Business Credit",
+    "text": "So much of the credit which would be allowed under subsection (a) for any taxable year (determined without regard to this subsection) that is attributable to property of a character subject to an allowance for depreciation shall be treated as a credit listed in section38(b)for such taxable year (and not allowed under subsection (a)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "So much of the credit which would be allowed under subsection (a) for any taxable year (determined without regard to this subsection) that is attributable to property of a character subject to an allowance for depreciation shall be treated as a credit listed in section38(b)for such taxable year (and not allowed under subsection (a))."
+    },
+    "cross_references": [
+      {
+        "section": "38(b)",
+        "reason": "treated as a credit listed in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30C(d)(1)Business Credit Treated As Part Of General Business Credit\u2014So much of the credit which would be allowed under subsection (a) for any taxable\n                     year (determined without regard to this subsection) that is attributable to property\n                     of a character subject to an allowance for depreciation shall be treated as a credit\n                     listed in section38(b)for such taxable year (and not allowed under subsection (a)).",
+    "definitions": null
+  },
+  {
+    "section": "30C",
+    "subsection": "(d)(2)",
+    "source_subsections": [
+      "(d)(2)",
+      "(d)(2)(A)",
+      "(d)(2)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Credit",
+    "text": "The credit allowed under subsection (a) (after the application of paragraph (1)) for any taxable year shall not exceed the excess (if any) of\u2014\u2014the regular tax liability (as defined in section26(b)) reduced by the sum of the credits allowable under subpart A and section27, over\u2014the tentative minimum tax for the taxable year.",
+    "conditions": [
+      "any) of\u2014\u2014the regular tax liability (as defined in section26(b)) reduced by the sum of the credits allowable under subpart A and section27, over\u2014the tentative minimum tax for the taxable year."
+    ],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any) of\u2014\u2014the regular tax liability (as defined in section26(b)) reduced by the sum of the credits allowable under subpart A and section27, over\u2014the tentative minimum tax for the taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The credit allowed under subsection (a) (after the application of paragraph (1)) for any taxable year shall not exceed the excess ("
+    },
+    "cross_references": [
+      {
+        "section": "26(b)",
+        "reason": "tax liability (as defined in..."
+      },
+      {
+        "section": "27",
+        "reason": "allowable under subpart A and..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30C(d)(2)Personal Credit\u2014The credit allowed under subsection (a) (after the application of paragraph (1)) for\n                     any taxable year shall not exceed the excess (if any) of\u2014I.R.C. \u00a7 30C(d)(2)(A)\u2014the regular tax liability (as defined in section26(b)) reduced by the sum of the credits allowable under subpart A and section27, overI.R.C. \u00a7 30C(d)(2)(B)\u2014the tentative minimum tax for the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "30C",
+    "subsection": "(e)(1)",
+    "source_subsections": [
+      "(e)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "In Basis",
+    "text": "For purposes of this subtitle, the basis of any property for which a credit is allowable under subsection (a) shall be reduced by the amount of such credit so allowed (determined without regard to subsection (d)).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subtitle, the basis of any property for which a credit is allowable under subsection (a) shall be reduced by the amount of such credit so allowed (determined without regard to subsection (d))."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30C(e)(1)Reduction In Basis\u2014For purposes of this subtitle, the basis of any property for which a credit is allowable\n                     under subsection (a) shall be reduced by the amount of such credit so allowed (determined\n                     without regard to subsection (d)).",
+    "definitions": null
+  },
+  {
+    "section": "30C",
+    "subsection": "(e)(2)",
+    "source_subsections": [
+      "(e)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Used By Tax",
+    "text": "Exempt Entity\u2014In the case of any qualified alternative fuel vehicle refueling property the use of which is described in paragraph(3)or(4)of section50(b)and which is not subject to a lease, the person who sold such property to the person or entity using such property shall be treated as the taxpayer that placed such property in service, but only if such person clearly discloses to such person or entity in a document the amount of any credit allowable under subsection (a) with respect to such property (determined without regard to subsection (d)). For purposes of subsection (d), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.",
+    "conditions": [
+      "such person clearly discloses to such person or entity in a document the amount of any credit allowable under subsection (a) with respect to such property (determined without regard to subsection (d)). For purposes of subsection (d), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such person clearly discloses to such person or entity in a document the amount of any credit allowable under subsection (a) with respect to such property (determined without regard to subsection (d)). For purposes of subsection (d), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Exempt Entity\u2014In the case of any qualified alternative fuel vehicle refueling property the use of which is described in paragraph(3)or(4)of section50(b)and which is not subject to a lease, the person who sold such property to the person or entity using such property shall be treated as the taxpayer that placed such property in service, but only"
+    },
+    "cross_references": [
+      {
+        "section": "50(b)",
+        "reason": "cribed in paragraph(3)or(4)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30C(e)(2)Property Used By Tax-Exempt Entity\u2014In the case of any qualified alternative fuel vehicle refueling property the use of\n                     which is described in paragraph(3)or(4)of section50(b)and which is not subject to a lease, the person who sold such property to the person\n                     or entity using such property shall be treated as the taxpayer that placed such property\n                     in service, but only if such person clearly discloses to such person or entity in\n                     a document the amount of any credit allowable under subsection (a) with respect to\n                     such property (determined without regard to subsection (d)). For purposes of subsection\n                     (d), property to which this paragraph applies shall be treated as of a character subject\n                     to an allowance for depreciation.",
+    "definitions": null
+  },
+  {
+    "section": "30C",
+    "subsection": "(e)(3)",
+    "source_subsections": [
+      "(e)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Used Outside United States Not Qualified",
+    "text": "No credit shall be allowable under subsection (a) with respect to any property referred to in section50(b)(1)or with respect to the portion of the cost of any property taken into account under section179.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be allowable under subsection (a) with respect to any property referred to in section50(b)(1)or with respect to the portion of the cost of any property taken into account under section179."
+    },
+    "cross_references": [
+      {
+        "section": "50(b)(1)",
+        "reason": "o any property referred to in..."
+      },
+      {
+        "section": "179",
+        "reason": "erty taken into account under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30C(e)(3)Property Used Outside United States Not Qualified\u2014No credit shall be allowable under subsection (a) with respect to any property referred\n                     to in section50(b)(1)or with respect to the portion of the cost of any property taken into account under\n                     section179.",
+    "definitions": null
+  },
+  {
+    "section": "30C",
+    "subsection": "(e)(4)",
+    "source_subsections": [
+      "(e)(4)"
+    ],
+    "rule_type": "condition",
+    "title": "Not To Take Credit",
+    "text": "No credit shall be allowed under subsection (a) for any property if the taxpayer elects not to have this section apply to such property.",
+    "conditions": [
+      "the taxpayer elects not to have this section apply to such property."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the taxpayer elects not to have this section apply to such property."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be allowed under subsection (a) for any property"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30C(e)(4)Election Not To Take Credit\u2014No credit shall be allowed under subsection (a) for any property if the taxpayer elects\n                     not to have this section apply to such property.",
+    "definitions": null
+  },
+  {
+    "section": "30C",
+    "subsection": "(e)(5)",
+    "source_subsections": [
+      "(e)(5)"
+    ],
+    "rule_type": "condition",
+    "title": "Rules",
+    "text": "Rules similar to the rules of section179A(e)(4)shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules of section179A(e)(4)shall apply."
+    },
+    "cross_references": [
+      {
+        "section": "179A(e)(4)",
+        "reason": "Rules similar to the rules of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30C(e)(5)Recapture Rules\u2014Rules similar to the rules of section179A(e)(4)shall apply.",
+    "definitions": null
+  },
+  {
+    "section": "30C",
+    "subsection": "(e)(6)",
+    "source_subsections": [
+      "(e)(6)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "For purposes of this section, any reference to section179Ashall be treated as a reference to such section as in effect immediately before its repeal.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, any reference to section179Ashall be treated as a reference to such section as in effect immediately before its repeal."
+    },
+    "cross_references": [
+      {
+        "section": "179A",
+        "reason": "his section, any reference to..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30C(e)(6)Reference\u2014For purposes of this section, any reference to section179Ashall be treated as a reference to such section as in effect immediately before its\n                     repeal.",
+    "definitions": null
+  },
+  {
+    "section": "30C",
+    "subsection": "(f)(1)",
+    "source_subsections": [
+      "(f)(1)",
+      "(f)(1)(A)",
+      "(f)(1)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201cqualified alternative fuel vehicle refueling property\u201d includes any property described in subsection (c) for the recharging of a motor vehicle described in paragraph (2), but only if such property\u2014\u2014meets the requirements of subsection (a)(2), and\u2014is of a character subject to depreciation.",
+    "conditions": [
+      "such property\u2014\u2014meets the requirements of subsection (a)(2), and\u2014is of a character subject to depreciation."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such property\u2014\u2014meets the requirements of subsection (a)(2), and\u2014is of a character subject to depreciation."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified alternative fuel vehicle refueling property\u201d includes any property described in subsection (c) for the recharging of a motor vehicle described in paragraph (2), but only"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30C(f)(1)In General\u2014The term \u201cqualified alternative fuel vehicle refueling property\u201d includes any property\n                     described in subsection (c) for the recharging of a motor vehicle described in paragraph\n                     (2), but only if such property\u2014I.R.C. \u00a7 30C(f)(1)(A)\u2014meets the requirements of subsection (a)(2), andI.R.C. \u00a7 30C(f)(1)(B)\u2014is of a character subject to depreciation.",
+    "definitions": null
+  },
+  {
+    "section": "30C",
+    "subsection": "(f)(2)",
+    "source_subsections": [
+      "(f)(2)",
+      "(f)(2)(A)",
+      "(f)(2)(B)",
+      "(f)(2)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "Vehicle",
+    "text": "A motor vehicle is described in this paragraph if the motor vehicle\u2014\u2014is manufactured primarily for use on public streets, roads, or highways (not including a vehicle operated exclusively on a rail or rails),\u2014has 2 or 3 wheels, and\u2014is propelled by electricity.",
+    "conditions": [
+      "the motor vehicle\u2014\u2014is manufactured primarily for use on public streets, roads, or highways (not including a vehicle operated exclusively on a rail or rails),\u2014has 2 or 3 wheels, and\u2014is propelled by electricity."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the motor vehicle\u2014\u2014is manufactured primarily for use on public streets, roads, or highways (not including a vehicle operated exclusively on a rail or rails),\u2014has 2 or 3 wheels, and\u2014is propelled by electricity."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "A motor vehicle is described in this paragraph"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30C(f)(2)Motor Vehicle\u2014A motor vehicle is described in this paragraph if the motor vehicle\u2014I.R.C. \u00a7 30C(f)(2)(A)\u2014is manufactured primarily for use on public streets, roads, or highways (not including\n                        a vehicle operated exclusively on a rail or rails),I.R.C. \u00a7 30C(f)(2)(B)\u2014has 2 or 3 wheels, andI.R.C. \u00a7 30C(f)(2)(C)\u2014is propelled by electricity.",
+    "definitions": null
+  },
+  {
+    "section": "30C",
+    "subsection": "(g)(1)(A)",
+    "source_subsections": [
+      "(g)(1)(A)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "In the case of any qualified alternative fuel vehicle refueling project which satisfies the requirements of subparagraph (C), the amount of the credit determined under subsection (a) for any qualified alternative fuel vehicle refueling property of a character subject to an allowance for depreciation which is part of such project shall be equal to such amount (determined without regard to this sentence) multiplied by 5.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any qualified alternative fuel vehicle refueling project which satisfies the requirements of subparagraph (C), the amount of the credit determined under subsection (a) for any qualified alternative fuel vehicle refueling property of a character subject to an allowance for depreciation which is part of such project shall be equal to such amount (determined without regard to this sentence) multiplied by 5."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30C(g)(1)(A)In General\u2014In the case of any qualified alternative fuel vehicle refueling project which satisfies\n                        the requirements of subparagraph (C), the amount of the credit determined under subsection\n                        (a) for any qualified alternative fuel vehicle refueling property of a character subject\n                        to an allowance for depreciation which is part of such project shall be equal to such\n                        amount (determined without regard to this sentence) multiplied by 5.",
+    "definitions": null
+  },
+  {
+    "section": "30C",
+    "subsection": "(g)(1)(B)",
+    "source_subsections": [
+      "(g)(1)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Alternative Fuel Vehicle Refueling Project",
+    "text": "For purposes of this subsection, the term \u201cqualified alternative fuel vehicle refueling project\u201d means a project consisting of one or more properties that are part of a single project.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection, the term \u201cqualified alternative fuel vehicle refueling project\u201d means a project consisting of one or more properties that are part of a single project."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30C(g)(1)(B)Qualified Alternative Fuel Vehicle Refueling Project\u2014For purposes of this subsection, the term \u201cqualified alternative fuel vehicle refueling\n                        project\u201d means a project consisting of one or more properties that are part of a single\n                        project.",
+    "definitions": {
+      "term": "qualified alternative fuel vehicle refueling project",
+      "requirements": [
+        "a project consisting of one or more properties that are part of a single project."
+      ]
+    }
+  },
+  {
+    "section": "30C",
+    "subsection": "(g)(1)(C)(i)",
+    "source_subsections": [
+      "(g)(1)(C)(i)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "A project the construction of which begins prior to the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (2)(A) and (3).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "A project the construction of which begins prior to the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (2)(A) and (3)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30C(g)(1)(C)(i)\u2014A project the construction of which begins prior to the date that is 60 days after\n                           the Secretary publishes guidance with respect to the requirements of paragraphs (2)(A)\n                           and (3).",
+    "definitions": null
+  },
+  {
+    "section": "30C",
+    "subsection": "(g)(1)(C)(ii)",
+    "source_subsections": [
+      "(g)(1)(C)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "A project which satisfies the requirements of paragraphs (2)(A) and (3).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "A project which satisfies the requirements of paragraphs (2)(A) and (3)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30C(g)(1)(C)(ii)\u2014A project which satisfies the requirements of paragraphs (2)(A) and (3).",
+    "definitions": null
+  },
+  {
+    "section": "30C",
+    "subsection": "(g)(2)(A)",
+    "source_subsections": [
+      "(g)(2)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The requirements described in this subparagraph with respect to any qualified alternative fuel vehicle refueling project are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in the construction of any qualified alternative fuel vehicle refueling property which is part of such project shall be paid wages at rates not less than the prevailing rates for construction, alteration, or repair of a similar character in the locality in which such project is located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The requirements described in this subparagraph with respect to any qualified alternative fuel vehicle refueling project are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in the construction of any qualified alternative fuel vehicle refueling property which is part of such project shall be paid wages at rates not less than the prevailing rates for construction, alteration, or repair of a similar character in the locality in which such project is located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30C(g)(2)(A)In General\u2014The requirements described in this subparagraph with respect to any qualified alternative\n                        fuel vehicle refueling project are that the taxpayer shall ensure that any laborers\n                        and mechanics employed by the taxpayer or any contractor or subcontractor in the construction\n                        of any qualified alternative fuel vehicle refueling property which is part of such\n                        project shall be paid wages at rates not less than the prevailing rates for construction,\n                        alteration, or repair of a similar character in the locality in which such project\n                        is located as most recently determined by the Secretary of Labor, in accordance with\n                        subchapter IV of chapter 31 of title 40, United States Code.",
+    "definitions": null
+  },
+  {
+    "section": "30C",
+    "subsection": "(g)(2)(B)",
+    "source_subsections": [
+      "(g)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "and Penalty Related to Failure To Satisfy Wage Requirements",
+    "text": "Rules similar to the rules of section45(b)(7)(B)shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules of section45(b)(7)(B)shall apply."
+    },
+    "cross_references": [
+      {
+        "section": "45(b)(7)(B)",
+        "reason": "Rules similar to the rules of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30C(g)(2)(B)Correction and Penalty Related to Failure To Satisfy Wage Requirements\u2014Rules similar to the rules of section45(b)(7)(B)shall apply.",
+    "definitions": null
+  },
+  {
+    "section": "30C",
+    "subsection": "(g)(3)",
+    "source_subsections": [
+      "(g)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Requirements",
+    "text": "Rules similar to the rules of section45(b)(8)shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules of section45(b)(8)shall apply."
+    },
+    "cross_references": [
+      {
+        "section": "45(b)(8)",
+        "reason": "Rules similar to the rules of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30C(g)(3)Apprenticeship Requirements\u2014Rules similar to the rules of section45(b)(8)shall apply.",
+    "definitions": null
+  },
+  {
+    "section": "30C",
+    "subsection": "(g)(4)",
+    "source_subsections": [
+      "(g)(4)"
+    ],
+    "rule_type": "condition",
+    "title": "and Guidance",
+    "text": "The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30C(g)(4)Regulations and Guidance\u2014The Secretary shall issue such regulations or other guidance as the Secretary determines\n                     necessary to carry out the purposes of this subsection, including regulations or other\n                     guidance which provides for requirements for recordkeeping or information reporting\n                     for purposes of administering the requirements of this subsection.",
+    "definitions": null
+  },
+  {
+    "section": "30C",
+    "subsection": "(h)",
+    "source_subsections": [
+      "(h)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The Secretary shall prescribe such regulations as necessary to carry out the provisions of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall prescribe such regulations as necessary to carry out the provisions of this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30C(h)Regulations\u2014The Secretary shall prescribe such regulations as necessary to carry out the provisions\n                  of this section.",
+    "definitions": null
+  },
+  {
+    "section": "30C",
+    "subsection": "(i)",
+    "source_subsections": [
+      "(i)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "This section shall not apply to any property placed in service after June 30, 2026.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "This section shall not apply to any property placed in service after June 30, 2026."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 30C(i)Termination\u2014This section shall not apply to any property placed in service after June 30, 2026.",
+    "definitions": null
+  }
+]

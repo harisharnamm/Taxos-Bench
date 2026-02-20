@@ -1,0 +1,21 @@
+{
+  "id": "930573a9dcf7",
+  "section": "1056",
+  "citation": "I.R.C. \u00a7 1056(d)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1056(d) is discussed as follows: 'I.R.C. \u00a7 1056(d)Presumption As To Amount Allocable To Player Contracts\u2014Editor's Note:Pub. L. 108-357...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1056(d)?",
+  "difficulty": 1,
+  "choices": [
+    "50.0%",
+    "40.0%",
+    "75.0%",
+    "60.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1056(d)"
+  ]
+}

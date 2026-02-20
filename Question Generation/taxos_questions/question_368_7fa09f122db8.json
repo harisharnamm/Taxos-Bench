@@ -1,0 +1,22 @@
+{
+  "id": "7fa09f122db8",
+  "section": "368",
+  "citation": "I.R.C. \u00a7 368(a)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 368(a) is discussed as follows: 'I.R.C. \u00a7 368(a)ReorganizationI.R.C. \u00a7 368(a)(1)In General\u2014For  purposes of parts I and II and this p...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 368(a)?",
+  "difficulty": 1,
+  "choices": [
+    "80.0%",
+    "70.0%",
+    "120.0%",
+    "90.0%",
+    "20.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 80.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 368(a)"
+  ]
+}

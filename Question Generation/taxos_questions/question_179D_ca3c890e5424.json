@@ -1,0 +1,22 @@
+{
+  "id": "ca3c890e5424",
+  "section": "179D",
+  "citation": "I.R.C. \u00a7 179D(b)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 179D(b) is discussed as follows: 'I.R.C. \u00a7 179D(b)Maximum Amount Of DeductionI.R.C. \u00a7 179D(b)(1)In General\u2014The deduction under subsect...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 179D(b)?",
+  "difficulty": 1,
+  "choices": [
+    "75.0%",
+    "35.0%",
+    "15.0%",
+    "37.5%",
+    "25.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 25.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 179D(b)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "48f433d7f100",
+  "section": "382",
+  "citation": "I.R.C. \u00a7 382(l)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 382(l) is discussed as follows: 'I.R.C. \u00a7 382(l)Certain Additional Operating Rules\u2014For  purposes of this section\u2014I.R.C. \u00a7 382(l)(1)Ce...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 382(l)?",
+  "difficulty": 1,
+  "choices": [
+    "80.0%",
+    "20.0%",
+    "120.0%",
+    "70.0%",
+    "90.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 80.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 382(l)"
+  ]
+}

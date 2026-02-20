@@ -1,0 +1,21 @@
+{
+  "id": "39191b6362a4",
+  "section": "1400O",
+  "citation": "I.R.C. \u00a7 1400O(3)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1400O(3) is discussed as follows: 'I.R.C. \u00a7 1400O(3)\u2014section25A(c)(1)shall be applied\n                  by substituting \u201c40 percent\u201d fo...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1400O(3)?",
+  "difficulty": 1,
+  "choices": [
+    "40.0%",
+    "60.0%",
+    "50.0%",
+    "30.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 40.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1400O(3)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "f04ea82dec9d",
+  "section": "832",
+  "citation": "I.R.C. \u00a7 832(b)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 832(b) is discussed as follows: 'I.R.C. \u00a7 832(b)Definitions\u2014In  the case of an insurance company subject to the tax imposed by sectio...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 832(b)?",
+  "difficulty": 1,
+  "choices": [
+    "110.0%",
+    "100.0%",
+    "0.0%",
+    "90.0%",
+    "150.0%"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies 100.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 832(b)"
+  ]
+}

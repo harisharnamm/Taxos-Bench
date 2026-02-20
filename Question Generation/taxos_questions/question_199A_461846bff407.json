@@ -1,0 +1,22 @@
+{
+  "id": "461846bff407",
+  "section": "199A",
+  "citation": "I.R.C. \u00a7 199A(a)",
+  "type": "Calculation - QBI Deduction",
+  "scenario": "Frank has Qualified Business Income (QBI) of $68,999.99 from a sole proprietorship. Frank's taxable income is below the threshold amount.",
+  "question": "Calculate the QBI deduction under I.R.C. \u00a7 199A.",
+  "difficulty": 3,
+  "choices": [
+    "$34,500.00",
+    "$68,999.99",
+    "$13,800.00",
+    "$0.00",
+    "$6,900.00"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The deduction is generally 20% of QBI. Deduction: $13,800.00.",
+  "reasoning": "Applied 20% rate to QBI.",
+  "source_rules": [
+    "I.R.C. \u00a7 199A(a)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "767b7a263dbb",
+  "section": "807",
+  "citation": "I.R.C. \u00a7 807(d)(1)(A)(ii)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 807(d)(1)(A)(ii) is discussed as follows: 'I.R.C. \u00a7 807(d)(1)(A)(ii)\u201492.81 percent of the reserve determined under paragraph (2)....'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 807(d)(1)(A)(ii)?",
+  "difficulty": 1,
+  "choices": [
+    "92.8%",
+    "139.2%",
+    "82.8%",
+    "102.8%",
+    "7.2%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 92.81%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 807(d)(1)(A)(ii)"
+  ]
+}

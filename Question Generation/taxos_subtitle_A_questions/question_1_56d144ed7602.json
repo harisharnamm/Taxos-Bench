@@ -1,0 +1,22 @@
+{
+  "id": "56d144ed7602",
+  "section": "1",
+  "citation": "I.R.C. \u00a7 1(j)",
+  "type": "Calculation - Tax Liability",
+  "scenario": "In 2024, Bob, a single filer, has a taxable income of $128,386.09.",
+  "question": "Calculate Bob's tax liability using the standard progressive tax brackets under I.R.C. \u00a7 1(j).",
+  "difficulty": 2,
+  "choices": [
+    "$28,626.19",
+    "$23,855.16",
+    "$28,244.94",
+    "$30,812.66",
+    "$19,084.13"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "Tax is calculated progressively. For income $128,386.09, the tax is $23,855.16.",
+  "reasoning": "Applied progressive tax brackets.",
+  "source_rules": [
+    "I.R.C. \u00a7 1(j)"
+  ]
+}

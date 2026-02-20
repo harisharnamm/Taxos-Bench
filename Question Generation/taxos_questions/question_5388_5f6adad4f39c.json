@@ -1,0 +1,22 @@
+{
+  "id": "5f6adad4f39c",
+  "section": "5388",
+  "citation": "I.R.C. \u00a7 5388(c)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 5388(c) is discussed as follows: 'I.R.C. \u00a7 5388(c)Use Of Semi-Generic DesignationsI.R.C. \u00a7 5388(c)(1)In General\u2014Semi-generic designati...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 5388(c)?",
+  "difficulty": 1,
+  "choices": [
+    "14.0%",
+    "36.0%",
+    "76.0%",
+    "34.0%",
+    "24.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 24.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 5388(c)"
+  ]
+}

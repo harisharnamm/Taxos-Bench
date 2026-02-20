@@ -1,0 +1,21 @@
+{
+  "id": "dd1b8b11a57c",
+  "section": "312",
+  "citation": "I.R.C. \u00a7 312(k)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 312(k) is discussed as follows: 'I.R.C. \u00a7 312(k)Effect Of Depreciation On Earnings And ProfitsI.R.C. \u00a7 312(k)(1)General Rule\u2014For purp...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 312(k)?",
+  "difficulty": 1,
+  "choices": [
+    "20.0%",
+    "30.0%",
+    "10.0%",
+    "80.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 20.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 312(k)"
+  ]
+}

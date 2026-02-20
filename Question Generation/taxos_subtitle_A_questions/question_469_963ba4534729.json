@@ -1,0 +1,21 @@
+{
+  "id": "963ba4534729",
+  "section": "469",
+  "citation": "I.R.C. \u00a7 469(a)",
+  "type": "Complex - Passive Activity Loss",
+  "scenario": "In 2025, Alice has wages of $86,897.49. Alice also has an interest in a passive activity which generated a loss of $39,074.82 for the year. Alice has passive income from another source of $28,171.04.",
+  "question": "Calculate the amount of the passive activity loss that is deductible in 2025 under I.R.C. \u00a7 469(a).",
+  "difficulty": 3,
+  "choices": [
+    "$10,903.78",
+    "$39,074.82",
+    "$28,171.04",
+    "$67,245.86"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "Passive losses are limited to passive income. With $28,171.04 in passive income, only $28,171.04 of the $39,074.82 loss is deductible.",
+  "reasoning": "Limited passive loss to passive income.",
+  "source_rules": [
+    "I.R.C. \u00a7 469(a)"
+  ]
+}

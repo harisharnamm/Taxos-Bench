@@ -1,0 +1,22 @@
+{
+  "id": "b523470d1ddd",
+  "section": "42",
+  "citation": "I.R.C. \u00a7 42(d)(3)(B)(i)(I)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 42(d)(3)(B)(i)(I) is discussed as follows: 'I.R.C. \u00a7 42(d)(3)(B)(i)(I)\u2014the  excess described in clause(ii)with respect to\n                      ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 42(d)(3)(B)(i)(I)?",
+  "difficulty": 1,
+  "choices": [
+    "25.0%",
+    "5.0%",
+    "22.5%",
+    "85.0%",
+    "15.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 15.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 42(d)(3)(B)(i)(I)"
+  ]
+}

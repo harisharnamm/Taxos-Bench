@@ -1,0 +1,22 @@
+{
+  "id": "0a5844d8a915",
+  "section": "408A",
+  "citation": "I.R.C. \u00a7 408A(c)(3)(D)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 408A(c)(3)(D) is discussed as follows: 'I.R.C. \u00a7 408A(c)(3)(D)Inflation Adjustment\u2014In the case of any taxable year beginning in a calendar y...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 408A(c)(3)(D)?",
+  "difficulty": 1,
+  "choices": [
+    "$2,000.00",
+    "$900.00",
+    "$1,000.00",
+    "$500.00",
+    "$1,100.00"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies $1,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 408A(c)(3)(D)"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "42e707d2bfb0",
+  "text": "Bob has AGI of $100000. He contributed $40000 to a public charity (50% limit).",
+  "question": "What is the allowed deduction?",
+  "facts": "agi(bob, 100000).\ncontribution(bob, 40000).\nlimit_pct(0.5).",
+  "query": "charitable_contribution_limit_170(bob, Allowed)",
+  "answer": 40000.0,
+  "gold_truth_subsection": "I.R.C. \u00a7 170(b)",
+  "source_rules": [
+    "I.R.C. \u00a7 170(b)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "5f2ab3b8d467",
+  "section": "45AA",
+  "citation": "I.R.C. \u00a7 45AA(a)(2)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 45AA(a)(2) is discussed as follows: 'I.R.C. \u00a7 45AA(a)(2)\u2014so much of the contributions made by such employer (other than an elective defer...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 45AA(a)(2)?",
+  "difficulty": 1,
+  "choices": [
+    "$270.00",
+    "$150.00",
+    "$600.00",
+    "$300.00",
+    "$330.00"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies $300.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 45AA(a)(2)"
+  ]
+}

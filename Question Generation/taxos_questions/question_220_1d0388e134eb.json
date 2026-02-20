@@ -1,0 +1,22 @@
+{
+  "id": "1d0388e134eb",
+  "section": "220",
+  "citation": "I.R.C. \u00a7 220(i)(4)(B)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 220(i)(4)(B) is discussed as follows: 'I.R.C. \u00a7 220(i)(4)(B)\u2014at  least 20 percent of the employees of such employer who are eligible  indiv...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 220(i)(4)(B)?",
+  "difficulty": 1,
+  "choices": [
+    "$200.00",
+    "$50.00",
+    "$100.00",
+    "$90.00",
+    "$110.00"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies $100.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 220(i)(4)(B)"
+  ]
+}

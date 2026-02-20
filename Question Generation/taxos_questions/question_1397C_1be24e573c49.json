@@ -1,0 +1,22 @@
+{
+  "id": "1be24e573c49",
+  "section": "1397C",
+  "citation": "I.R.C. \u00a7 1397C(c)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1397C(c) is discussed as follows: 'I.R.C. \u00a7 1397C(c)Qualified Proprietorship\u2014For  purposes of this section, the term \u201cqualified proprie...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1397C(c)?",
+  "difficulty": 1,
+  "choices": [
+    "65.0%",
+    "52.5%",
+    "25.0%",
+    "45.0%",
+    "35.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 35.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1397C(c)"
+  ]
+}

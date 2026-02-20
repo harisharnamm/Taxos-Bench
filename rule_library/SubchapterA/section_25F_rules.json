@@ -1,0 +1,606 @@
+[
+  {
+    "section": "25F",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)"
+    ],
+    "rule_type": "computation",
+    "title": "Of Credit",
+    "text": "In the case of an individual who is a citizen or resident of the United States (within the meaning of section7701(a)(9)), there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the aggregate amount of qualified contributions made by the taxpayer during the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of an individual who is a citizen or resident of the United States (within the meaning of section7701(a)(9)), there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the aggregate amount of qualified contributions made by the taxpayer during the taxable year."
+    },
+    "cross_references": [
+      {
+        "section": "7701(a)(9)",
+        "reason": "States (within the meaning of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25F(a)Allowance Of Credit\u2014In the case of an individual who is a citizen or resident of the United States (within\n                  the meaning of section7701(a)(9)), there shall be allowed as a credit against the tax imposed by this chapter for\n                  the taxable year an amount equal to the aggregate amount of qualified contributions\n                  made by the taxpayer during the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "25F",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)"
+    ],
+    "rule_type": "limitation",
+    "title": "General",
+    "text": "The credit allowed under subsection(a)to any taxpayer for any taxable year shall not exceed $1,700.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 1700,
+        "text": "$1,700"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The credit allowed under subsection(a)to any taxpayer for any taxable year shall not exceed $1,700."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25F(b)(1)In General\u2014The credit allowed under subsection(a)to any taxpayer for any taxable year shall not exceed $1,700.",
+    "definitions": null
+  },
+  {
+    "section": "25F",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Based On State Credit",
+    "text": "The amount allowed as a credit under subsection(a)for a taxable year shall be reduced by the amount allowed as a credit on any State tax return of the taxpayer for qualified contributions made by the taxpayer during the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount allowed as a credit under subsection(a)for a taxable year shall be reduced by the amount allowed as a credit on any State tax return of the taxpayer for qualified contributions made by the taxpayer during the taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25F(b)(2)Reduction Based On State Credit\u2014The amount allowed as a credit under subsection(a)for a taxable year shall be reduced by the amount allowed as a credit on any State\n                     tax return of the taxpayer for qualified contributions made by the taxpayer during\n                     the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "25F",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)"
+    ],
+    "rule_type": "definition",
+    "title": "State",
+    "text": "The term \u2018covered State\u2019 means one of the States, or the District of Columbia, that, for a calendar year, voluntarily elects to participate under this section and to identify scholarship granting organizations in the State, in accordance with subsection(g).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u2018covered State\u2019 means one of the States, or the District of Columbia, that, for a calendar year, voluntarily elects to participate under this section and to identify scholarship granting organizations in the State, in accordance with subsection(g)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25F(c)(1)Covered State\u2014The term \u2018covered State\u2019 means one of the States, or the District of Columbia, that,\n                     for a calendar year, voluntarily elects to participate under this section and to identify\n                     scholarship granting organizations in the State, in accordance with subsection(g).",
+    "definitions": null
+  },
+  {
+    "section": "25F",
+    "subsection": "(c)(2)",
+    "source_subsections": [
+      "(c)(2)",
+      "(c)(2)(A)",
+      "(c)(2)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Student",
+    "text": "The term \u2018eligible student\u2019 means an individual who\u2014\u2014is a member of a household with an income which, for the calendar year prior to the date of the application for a scholarship, is not greater than 300 percent of the area median gross income (as such term is used in section42), and\u2014is eligible to enroll in a public elementary or secondary school.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 3.0,
+        "text": "300 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u2018eligible student\u2019 means an individual who\u2014\u2014is a member of a household with an income which, for the calendar year prior to the date of the application for a scholarship, is not greater than 300 percent of the area median gross income (as such term is used in section42), and\u2014is eligible to enroll in a public elementary or secondary school."
+    },
+    "cross_references": [
+      {
+        "section": "42",
+        "reason": "come (as such term is used in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25F(c)(2)Eligible Student\u2014The term \u2018eligible student\u2019 means an individual who\u2014I.R.C. \u00a7 25F(c)(2)(A)\u2014is a member of a household with an income which, for the calendar year prior to the\n                        date of the application for a scholarship, is not greater than 300 percent of the\n                        area median gross income (as such term is used in section42), andI.R.C. \u00a7 25F(c)(2)(B)\u2014is eligible to enroll in a public elementary or secondary school.",
+    "definitions": null
+  },
+  {
+    "section": "25F",
+    "subsection": "(c)(3)",
+    "source_subsections": [
+      "(c)(3)"
+    ],
+    "rule_type": "definition",
+    "title": "Contribution",
+    "text": "The term \u2018qualified contribution\u2019 means a charitable contribution of cash to a scholarship granting organization that uses the contribution to fund scholarships for eligible students solely within the State in which the organization is listed pursuant to subsection(g).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u2018qualified contribution\u2019 means a charitable contribution of cash to a scholarship granting organization that uses the contribution to fund scholarships for eligible students solely within the State in which the organization is listed pursuant to subsection(g)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25F(c)(3)Qualified Contribution\u2014The term \u2018qualified contribution\u2019 means a charitable contribution of cash to a scholarship\n                     granting organization that uses the contribution to fund scholarships for eligible\n                     students solely within the State in which the organization is listed pursuant to subsection(g).",
+    "definitions": null
+  },
+  {
+    "section": "25F",
+    "subsection": "(c)(4)",
+    "source_subsections": [
+      "(c)(4)"
+    ],
+    "rule_type": "definition",
+    "title": "Elementary Or Secondary Education Expense",
+    "text": "The term \u2018qualified elementary or secondary education expense\u2019 means any expense of an eligible student which is described in section530(b)(3)(A).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u2018qualified elementary or secondary education expense\u2019 means any expense of an eligible student which is described in section530(b)(3)(A)."
+    },
+    "cross_references": [
+      {
+        "section": "530(b)(3)(A)",
+        "reason": "student which is described in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25F(c)(4)Qualified Elementary Or Secondary Education Expense\u2014The term \u2018qualified elementary or secondary education expense\u2019 means any expense of\n                     an eligible student which is described in section530(b)(3)(A).",
+    "definitions": null
+  },
+  {
+    "section": "25F",
+    "subsection": "(c)(5)",
+    "source_subsections": [
+      "(c)(5)",
+      "(c)(5)(A)",
+      "(c)(5)(A)(i)",
+      "(c)(5)(A)(ii)",
+      "(c)(5)(B)",
+      "(c)(5)(C)",
+      "(c)(5)(D)"
+    ],
+    "rule_type": "definition",
+    "title": "Granting Organization",
+    "text": "The term \u2018scholarship granting organization\u2019 means any organization\u2014\u2014which\u2014\u2014is described in section501(c)(3)and exempt from tax under section501(a), and\u2014is not a private foundation,\u2014which prevents the co-mingling of qualified contributions with other amounts by maintaining one or more separate accounts exclusively for qualified contributions,\u2014which satisfies the requirements of subsection(d), and\u2014which is included on the list submitted for the applicable covered State under subsection(g)for the applicable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u2018scholarship granting organization\u2019 means any organization\u2014\u2014which\u2014\u2014is described in section501(c)(3)and exempt from tax under section501(a), and\u2014is not a private foundation,\u2014which prevents the co-mingling of qualified contributions with other amounts by maintaining one or more separate accounts exclusively for qualified contributions,\u2014which satisfies the requirements of subsection(d), and\u2014which is included on the list submitted for the applicable covered State under subsection(g)for the applicable year."
+    },
+    "cross_references": [
+      {
+        "section": "501(c)(3)",
+        "reason": "ation\u2014\u2014which\u2014\u2014is described in..."
+      },
+      {
+        "section": "501(a)",
+        "reason": "and exempt from tax under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25F(c)(5)Scholarship Granting Organization\u2014The term \u2018scholarship granting organization\u2019 means any organization\u2014I.R.C. \u00a7 25F(c)(5)(A)\u2014which\u2014I.R.C. \u00a7 25F(c)(5)(A)(i)\u2014is described in section501(c)(3)and exempt from tax under section501(a), andI.R.C. \u00a7 25F(c)(5)(A)(ii)\u2014is not a private foundation,I.R.C. \u00a7 25F(c)(5)(B)\u2014which prevents the co-mingling of qualified contributions with other amounts by maintaining\n                        one or more separate accounts exclusively for qualified contributions,I.R.C. \u00a7 25F(c)(5)(C)\u2014which satisfies the requirements of subsection(d), andI.R.C. \u00a7 25F(c)(5)(D)\u2014which is included on the list submitted for the applicable covered State under subsection(g)for the applicable year.",
+    "definitions": null
+  },
+  {
+    "section": "25F",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)",
+      "(d)(1)(A)",
+      "(d)(1)(B)",
+      "(d)(1)(C)",
+      "(d)(1)(D)",
+      "(d)(1)(D)(i)",
+      "(d)(1)(D)(ii)",
+      "(d)(1)(E)",
+      "(d)(1)(F)",
+      "(d)(1)(F)(i)",
+      "(d)(1)(F)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "An organization meets the requirements of this subsection if\u2014\u2014such organization provides scholarships to 10 or more students who do not all attend the same school,\u2014such organization spends not less than 90 percent of the income of the organization on scholarships for eligible students,\u2014such organization does not provide scholarships for any expenses other than qualified elementary or secondary education expenses,\u2014such organization provides a scholarship to eligible students with a priority for\u2014\u2014students awarded a scholarship the previous school year, and\u2014after application of clause(i), any eligible students who have a sibling who was awarded a scholarship from such organization,\u2014such organization does not earmark or set aside contributions for scholarships on behalf of any particular student, and\u2014such organization\u2014\u2014verifies the annual household income and family size of eligible students who apply for scholarships to ensure such students meet the requirement of subsection(c)(2)(A), and\u2014limits the awarding of scholarships to eligible students who are a member of a household for which the income does not exceed the amount established under subsection(c)(2)(A).",
+    "conditions": [
+      "\u2014\u2014such organization provides scholarships to 10 or more students who do not all attend the same school,\u2014such organization spends not less than 90 percent of the income of the organization on scholarships for eligible students,\u2014such organization does not provide scholarships for any expenses other than qualified elementary or secondary education expenses,\u2014such organization provides a scholarship to eligible students with a priority for\u2014\u2014students awarded a scholarship the previous school year, and\u2014after application of clause(i), any eligible students who have a sibling who was awarded a scholarship from such organization,\u2014such organization does not earmark or set aside contributions for scholarships on behalf of any particular student, and\u2014such organization\u2014\u2014verifies the annual household income and family size of eligible students who apply for scholarships to ensure such students meet the requirement of subsection(c)(2)(A), and\u2014limits the awarding of scholarships to eligible students who are a member of a household for which the income does not exceed the amount established under subsection(c)(2)(A)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.9,
+        "text": "90 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014such organization provides scholarships to 10 or more students who do not all attend the same school,\u2014such organization spends not less than 90 percent of the income of the organization on scholarships for eligible students,\u2014such organization does not provide scholarships for any expenses other than qualified elementary or secondary education expenses,\u2014such organization provides a scholarship to eligible students with a priority for\u2014\u2014students awarded a scholarship the previous school year, and\u2014after application of clause(i), any eligible students who have a sibling who was awarded a scholarship from such organization,\u2014such organization does not earmark or set aside contributions for scholarships on behalf of any particular student, and\u2014such organization\u2014\u2014verifies the annual household income and family size of eligible students who apply for scholarships to ensure such students meet the requirement of subsection(c)(2)(A), and\u2014limits the awarding of scholarships to eligible students who are a member of a household for which the income does not exceed the amount established under subsection(c)(2)(A)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "An organization meets the requirements of this subsection"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25F(d)(1)In General\u2014An organization meets the requirements of this subsection if\u2014I.R.C. \u00a7 25F(d)(1)(A)\u2014such organization provides scholarships to 10 or more students who do not all attend\n                        the same school,I.R.C. \u00a7 25F(d)(1)(B)\u2014such organization spends not less than 90 percent of the income of the organization\n                        on scholarships for eligible students,I.R.C. \u00a7 25F(d)(1)(C)\u2014such organization does not provide scholarships for any expenses other than qualified\n                        elementary or secondary education expenses,I.R.C. \u00a7 25F(d)(1)(D)\u2014such organization provides a scholarship to eligible students with a priority for\u2014I.R.C. \u00a7 25F(d)(1)(D)(i)\u2014students awarded a scholarship the previous school year, andI.R.C. \u00a7 25F(d)(1)(D)(ii)\u2014after application of clause(i), any eligible students who have a sibling who was awarded a scholarship from such\n                           organization,I.R.C. \u00a7 25F(d)(1)(E)\u2014such organization does not earmark or set aside contributions for scholarships on\n                        behalf of any particular student, andI.R.C. \u00a7 25F(d)(1)(F)\u2014such organization\u2014I.R.C. \u00a7 25F(d)(1)(F)(i)\u2014verifies the annual household income and family size of eligible students who apply\n                           for scholarships to ensure such students meet the requirement of subsection(c)(2)(A), andI.R.C. \u00a7 25F(d)(1)(F)(ii)\u2014limits the awarding of scholarships to eligible students who are a member of a household\n                           for which the income does not exceed the amount established under subsection(c)(2)(A).",
+    "definitions": null
+  },
+  {
+    "section": "25F",
+    "subsection": "(d)(2)(A)",
+    "source_subsections": [
+      "(d)(2)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "A scholarship granting organization may not award a scholarship to any disqualified person.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "A scholarship granting organization may not award a scholarship to any disqualified person."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25F(d)(2)(A)In General\u2014A scholarship granting organization may not award a scholarship to any disqualified\n                        person.",
+    "definitions": null
+  },
+  {
+    "section": "25F",
+    "subsection": "(d)(2)(B)",
+    "source_subsections": [
+      "(d)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Person",
+    "text": "For purposes of this paragraph, a disqualified person shall be determined pursuant to rules similar to the rules of section4946.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, a disqualified person shall be determined pursuant to rules similar to the rules of section4946."
+    },
+    "cross_references": [
+      {
+        "section": "4946",
+        "reason": "rules similar to the rules of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25F(d)(2)(B)Disqualified Person\u2014For purposes of this paragraph, a disqualified person shall be determined pursuant\n                        to rules similar to the rules of section4946.",
+    "definitions": null
+  },
+  {
+    "section": "25F",
+    "subsection": "(e)",
+    "source_subsections": [
+      "(e)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Double Benefit",
+    "text": "Any qualified contribution for which a credit is allowed under this section shall not be taken into account as a charitable contribution for purposes of section170.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Any qualified contribution for which a credit is allowed under this section shall not be taken into account as a charitable contribution for purposes of section170."
+    },
+    "cross_references": [
+      {
+        "section": "170",
+        "reason": "contribution for purposes of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25F(e)Denial Of Double Benefit\u2014Any qualified contribution for which a credit is allowed under this section shall\n                  not be taken into account as a charitable contribution for purposes of section170.",
+    "definitions": null
+  },
+  {
+    "section": "25F",
+    "subsection": "(f)(1)",
+    "source_subsections": [
+      "(f)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "If the credit allowable under subsection(a)for any taxable year exceeds the limitation imposed by section26(a)for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section, section23, and section25D), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection(a)for such taxable year.",
+    "conditions": [
+      "the credit allowable under subsection(a)for any taxable year exceeds the limitation imposed by section26(a)for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section, section23, and section25D), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection(a)for such taxable year."
+    ],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the credit allowable under subsection(a)for any taxable year exceeds the limitation imposed by section26(a)for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section, section23, and section25D), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection(a)for such taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "26(a)",
+        "reason": "eds the limitation imposed by..."
+      },
+      {
+        "section": "23",
+        "reason": "art (other than this section,..."
+      },
+      {
+        "section": "25D",
+        "reason": ", and..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25F(f)(1)In General\u2014If the credit allowable under subsection(a)for any taxable year exceeds the limitation imposed by section26(a)for such taxable year reduced by the sum of the credits allowable under this subpart\n                     (other than this section, section23, and section25D), such excess shall be carried to the succeeding taxable year and added to the credit\n                     allowable under subsection(a)for such taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "25F",
+    "subsection": "(f)(2)",
+    "source_subsections": [
+      "(f)(2)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "No credit may be carried forward under this subsection to any taxable year following the fifth taxable year after the taxable year in which the credit arose. For purposes of the preceding sentence, credits shall be treated as used on a first-in first-out basis.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit may be carried forward under this subsection to any taxable year following the fifth taxable year after the taxable year in which the credit arose. For purposes of the preceding sentence, credits shall be treated as used on a first-in first-out basis."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25F(f)(2)Limitation\u2014No credit may be carried forward under this subsection to any taxable year following\n                     the fifth taxable year after the taxable year in which the credit arose. For purposes\n                     of the preceding sentence, credits shall be treated as used on a first-in first-out\n                     basis.",
+    "definitions": null
+  },
+  {
+    "section": "25F",
+    "subsection": "(g)(1)(A)",
+    "source_subsections": [
+      "(g)(1)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "Not later than January 1 of each calendar year (or, with respect to the first calendar year for which this section applies, as early as practicable), a State that voluntarily elects to participate under this section shall provide to the Secretary a list of the scholarship granting organizations that meet the requirements described in subsection(c)(5)and are located in the State.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Not later than January 1 of each calendar year (or, with respect to the first calendar year for which this section applies, as early as practicable), a State that voluntarily elects to participate under this section shall provide to the Secretary a list of the scholarship granting organizations that meet the requirements described in subsection(c)(5)and are located in the State."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25F(g)(1)(A)In General\u2014Not later than January 1 of each calendar year (or, with respect to the first calendar\n                        year for which this section applies, as early as practicable), a State that voluntarily\n                        elects to participate under this section shall provide to the Secretary a list of\n                        the scholarship granting organizations that meet the requirements described in subsection(c)(5)and are located in the State.",
+    "definitions": null
+  },
+  {
+    "section": "25F",
+    "subsection": "(g)(1)(B)",
+    "source_subsections": [
+      "(g)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The election under this paragraph shall be made by the Governor of the State or by such other individual, agency, or entity as is designated under State law to make such elections on behalf of the State with respect to Federal tax benefits.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The election under this paragraph shall be made by the Governor of the State or by such other individual, agency, or entity as is designated under State law to make such elections on behalf of the State with respect to Federal tax benefits."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25F(g)(1)(B)Process\u2014The election under this paragraph shall be made by the Governor of the State or by\n                        such other individual, agency, or entity as is designated under State law to make\n                        such elections on behalf of the State with respect to Federal tax benefits.",
+    "definitions": null
+  },
+  {
+    "section": "25F",
+    "subsection": "(g)(2)",
+    "source_subsections": [
+      "(g)(2)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "Each list submitted under paragraph(1)shall include a certification that the individual, agency, or entity submitting such list on behalf of the State has the authority to perform this function.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Each list submitted under paragraph(1)shall include a certification that the individual, agency, or entity submitting such list on behalf of the State has the authority to perform this function."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25F(g)(2)Certification\u2014Each list submitted under paragraph(1)shall include a certification that the individual, agency, or entity submitting such\n                     list on behalf of the State has the authority to perform this function.",
+    "definitions": null
+  },
+  {
+    "section": "25F",
+    "subsection": "(h)",
+    "source_subsections": [
+      "(h)",
+      "(h)(1)",
+      "(h)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "And Guidance",
+    "text": "The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this section, including regulations or other guidance\u2014\u2014providing for enforcement of the requirements under subsections(d)and(g), and\u2014with respect to recordkeeping or information reporting for purposes of administering the requirements of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this section, including regulations or other guidance\u2014\u2014providing for enforcement of the requirements under subsections(d)and(g), and\u2014with respect to recordkeeping or information reporting for purposes of administering the requirements of this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 25F(h)Regulations And Guidance\u2014The Secretary shall issue such regulations or other guidance as the Secretary determines\n                  necessary to carry out the purposes of this section, including regulations or other\n                  guidance\u2014I.R.C. \u00a7 25F(h)(1)\u2014providing for enforcement of the requirements under subsections(d)and(g), andI.R.C. \u00a7 25F(h)(2)\u2014with respect to recordkeeping or information reporting for purposes of administering\n                     the requirements of this section.",
+    "definitions": null
+  }
+]

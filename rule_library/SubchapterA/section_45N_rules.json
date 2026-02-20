@@ -1,0 +1,199 @@
+[
+  {
+    "section": "45N",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "20 percent of the amount paid or incurred by the taxpayer during the taxable year with respect to the training program costs of such qualified mine rescue team employee (including wages of such employee while attending such program), or",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.2,
+        "text": "20 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "20 percent of the amount paid or incurred by the taxpayer during the taxable year with respect to the training program costs of such qualified mine rescue team employee (including wages of such employee while attending such program), or"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45N(a)(1)\u201420 percent of the amount paid or incurred by the taxpayer during the taxable year\n                     with respect to the training program costs of such qualified mine rescue team employee\n                     (including wages of such employee while attending such program), or",
+    "definitions": null
+  },
+  {
+    "section": "45N",
+    "subsection": "(a)(2)",
+    "source_subsections": [
+      "(a)(2)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$10,000.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 10000,
+        "text": "$10,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$10,000."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45N(a)(2)\u2014$10,000.",
+    "definitions": null
+  },
+  {
+    "section": "45N",
+    "subsection": "(b)",
+    "source_subsections": [
+      "(b)",
+      "(b)(1)",
+      "(b)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Mine Rescue Team Employee",
+    "text": "For purposes of this section, the term \u201cqualified mine rescue team employee\u201d means with respect to any taxable year any full-time employee of the taxpayer who is\u2014\u2014a miner eligible for more than 6 months of such taxable year to serve as a mine rescue team member as a result of completing, at a minimum, an initial 20-hour course of instruction as prescribed by the Mine Safety and Health Administration's Office of Educational Policy and Development, or\u2014a miner eligible for more than 6 months of such taxable year to serve as a mine rescue team member by virtue of receiving at least 40 hours of refresher training in such instruction.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u201cqualified mine rescue team employee\u201d means with respect to any taxable year any full-time employee of the taxpayer who is\u2014\u2014a miner eligible for more than 6 months of such taxable year to serve as a mine rescue team member as a result of completing, at a minimum, an initial 20-hour course of instruction as prescribed by the Mine Safety and Health Administration's Office of Educational Policy and Development, or\u2014a miner eligible for more than 6 months of such taxable year to serve as a mine rescue team member by virtue of receiving at least 40 hours of refresher training in such instruction."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45N(b)Qualified Mine Rescue Team Employee\u2014For purposes of this section, the term \u201cqualified mine rescue team employee\u201d means\n                  with respect to any taxable year any full-time employee of the taxpayer who is\u2014I.R.C. \u00a7 45N(b)(1)\u2014a miner eligible for more than 6 months of such taxable year to serve as a mine rescue\n                     team member as a result of completing, at a minimum, an initial 20-hour course of\n                     instruction as prescribed by the Mine Safety and Health Administration's Office of\n                     Educational Policy and Development, orI.R.C. \u00a7 45N(b)(2)\u2014a miner eligible for more than 6 months of such taxable year to serve as a mine rescue\n                     team member by virtue of receiving at least 40 hours of refresher training in such\n                     instruction.",
+    "definitions": {
+      "term": "qualified mine rescue team employee",
+      "requirements": [
+        "with respect to any taxable year any full-time employee of the taxpayer who is\u2014\u2014a miner eligible for more than 6 months of such taxable year to serve as a mine rescue team member as a result of completing, at a minimum, an initial 20-hour course of instruction as prescribed by the Mine Safety and Health Administration's Office of Educational Policy and Development, or\u2014a miner eligible for more than 6 months of such taxable year to serve as a mine rescue team member by virtue of receiving at least 40 hours of refresher training in such instruction."
+      ]
+    }
+  },
+  {
+    "section": "45N",
+    "subsection": "(c)",
+    "source_subsections": [
+      "(c)"
+    ],
+    "rule_type": "definition",
+    "title": "Employer",
+    "text": "For purposes of this section, the term \u201celigible employer\u201d means any taxpayer which employs individuals as miners in underground mines in the United States.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u201celigible employer\u201d means any taxpayer which employs individuals as miners in underground mines in the United States."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45N(c)Eligible Employer\u2014For purposes of this section, the term \u201celigible employer\u201d means any taxpayer which\n                  employs individuals as miners in underground mines in the United States.",
+    "definitions": {
+      "term": "eligible employer",
+      "requirements": [
+        "any taxpayer which employs individuals as miners in underground mines in the United States."
+      ]
+    }
+  },
+  {
+    "section": "45N",
+    "subsection": "(d)",
+    "source_subsections": [
+      "(d)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "For purposes of this section, the term \u201cwages\u201d has the meaning given to such term by subsection(b)of section3306(determined without regard to any dollar limitation contained in such section).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u201cwages\u201d has the meaning given to such term by subsection(b)of section3306(determined without regard to any dollar limitation contained in such section)."
+    },
+    "cross_references": [
+      {
+        "section": "3306",
+        "reason": "such term by subsection(b)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45N(d)Wages\u2014For purposes of this section, the term \u201cwages\u201d has the meaning given to such term\n                  by subsection(b)of section3306(determined without regard to any dollar limitation contained in such section).",
+    "definitions": null
+  },
+  {
+    "section": "45N",
+    "subsection": "(e)",
+    "source_subsections": [
+      "(e)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "This section shall not apply to taxable years beginning after December 31, 2021.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "This section shall not apply to taxable years beginning after December 31, 2021."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 45N(e)Termination\u2014This section shall not apply to taxable years beginning after December 31, 2021.",
+    "definitions": null
+  }
+]

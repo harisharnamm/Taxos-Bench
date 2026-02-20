@@ -1,0 +1,22 @@
+{
+  "id": "af887d251337",
+  "section": "1504",
+  "citation": "I.R.C. \u00a7 1504(a)(2)(B)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1504(a)(2)(B) is discussed as follows: 'I.R.C. \u00a7 1504(a)(2)(B)\u2014has a value equal to at least 80 percent of the total  value of the stock of ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1504(a)(2)(B)?",
+  "difficulty": 1,
+  "choices": [
+    "80.0%",
+    "90.0%",
+    "120.0%",
+    "70.0%",
+    "20.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 80.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1504(a)(2)(B)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "38b3327a104d",
+  "section": "36",
+  "citation": "I.R.C. \u00a7 36(b)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 36(b) is discussed as follows: 'I.R.C. \u00a7 36(b)LimitationsI.R.C. \u00a7 36(b)(1)Dollar LimitationI.R.C. \u00a7 36(b)(1)(A)In General\u2014Except as ...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 36(b)?",
+  "difficulty": 1,
+  "choices": [
+    "$880,000.00",
+    "$800,000.00",
+    "$720,000.00",
+    "$400,000.00",
+    "$1,600,000.00"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $800,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 36(b)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "fa74ef2de070",
+  "section": "213",
+  "citation": "I.R.C. \u00a7 213(d)(10)(B)(i)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 213(d)(10)(B)(i) is discussed as follows: 'I.R.C. \u00a7 213(d)(10)(B)(i)In General\u2014In the case of any taxable year beginning in a calendar year aft...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 213(d)(10)(B)(i)?",
+  "difficulty": 1,
+  "choices": [
+    "$10.00",
+    "$9.00",
+    "$11.00",
+    "$5.00",
+    "$20.00"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies $10.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 213(d)(10)(B)(i)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "08178948f755",
+  "section": "45X",
+  "citation": "I.R.C. \u00a7 45X(b)(1)(F)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 45X(b)(1)(F) is discussed as follows: 'I.R.C. \u00a7 45X(b)(1)(F)\u2014in the case of a wind energy component\u2014I.R.C. \u00a7 45X(b)(1)(F)(i)\u2014if such compon...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 45X(b)(1)(F)?",
+  "difficulty": 1,
+  "choices": [
+    "90.0%",
+    "15.0%",
+    "20.0%",
+    "0.0%",
+    "10.0%"
+  ],
+  "correct_choice_index": 4,
+  "answer_explanation": "The text specifies 10.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 45X(b)(1)(F)"
+  ]
+}

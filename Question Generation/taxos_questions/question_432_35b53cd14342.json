@@ -1,0 +1,22 @@
+{
+  "id": "35b53cd14342",
+  "section": "432",
+  "citation": "I.R.C. \u00a7 432(b)(2)(B)(ii)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 432(b)(2)(B)(ii) is discussed as follows: 'I.R.C. \u00a7 432(b)(2)(B)(ii)\u2014the plan is projected to have an accumulated funding deficiency  for any  ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 432(b)(2)(B)(ii)?",
+  "difficulty": 1,
+  "choices": [
+    "65.0%",
+    "35.0%",
+    "97.5%",
+    "75.0%",
+    "55.0%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 65.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 432(b)(2)(B)(ii)"
+  ]
+}

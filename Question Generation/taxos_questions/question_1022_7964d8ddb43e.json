@@ -1,0 +1,22 @@
+{
+  "id": "7964d8ddb43e",
+  "section": "1022",
+  "citation": "I.R.C. \u00a7 1022(b)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 1022(b) is discussed as follows: 'I.R.C. \u00a7 1022(b)Basis Increase For Certain PropertyI.R.C. \u00a7 1022(b)(1)In General\u2014In  the case of pro...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 1022(b)?",
+  "difficulty": 1,
+  "choices": [
+    "$2,600,000.00",
+    "$1,300,000.00",
+    "$1,430,000.00",
+    "$1,170,000.00",
+    "$650,000.00"
+  ],
+  "correct_choice_index": 1,
+  "answer_explanation": "The text specifies $1,300,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1022(b)"
+  ]
+}

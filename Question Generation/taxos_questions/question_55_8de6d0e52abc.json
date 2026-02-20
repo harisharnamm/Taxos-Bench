@@ -1,0 +1,21 @@
+{
+  "id": "8de6d0e52abc",
+  "section": "55",
+  "citation": "I.R.C. \u00a7 55(d)(4)(A)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 55(d)(4)(A) is discussed as follows: 'I.R.C. \u00a7 55(d)(4)(A)In General\u2014In the case of any taxable year beginning after December 31, 2017, an...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 55(d)(4)(A)?",
+  "difficulty": 1,
+  "choices": [
+    "60.0%",
+    "75.0%",
+    "40.0%",
+    "50.0%"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies 50.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 55(d)(4)(A)"
+  ]
+}

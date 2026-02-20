@@ -1,0 +1,1157 @@
+[
+  {
+    "section": "54A",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Credit",
+    "text": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54A, effective for bonds issued after December 31, 2017.If a taxpayer holds a qualified tax credit bond on one or more credit allowance dates of the bond during any taxable year, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the credits determined under subsection(b)with respect to such dates.",
+    "conditions": [
+      "a taxpayer holds a qualified tax credit bond on one or more credit allowance dates of the bond during any taxable year, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the credits determined under subsection(b)with respect to such dates."
+    ],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "a taxpayer holds a qualified tax credit bond on one or more credit allowance dates of the bond during any taxable year, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the credits determined under subsection(b)with respect to such dates."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54A, effective for bonds issued after December 31, 2017."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54A(a)Allowance Of Credit\u2014Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54A, effective for bonds issued after December 31, 2017.If a taxpayer holds a qualified tax credit bond on one or more credit allowance dates\n                  of the bond during any taxable year, there shall be allowed as a credit against the\n                  tax imposed by this chapter for the taxable year an amount equal to the sum of the\n                  credits determined under subsection(b)with respect to such dates.",
+    "definitions": null
+  },
+  {
+    "section": "54A",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "The amount of the credit determined under this subsection with respect to any credit allowance date for a qualified tax credit bond is 25 percent of the annual credit determined with respect to such bond.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.25,
+        "text": "25 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of the credit determined under this subsection with respect to any credit allowance date for a qualified tax credit bond is 25 percent of the annual credit determined with respect to such bond."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54A(b)(1)In General\u2014The amount of the credit determined under this subsection with respect to any credit\n                     allowance date for a qualified tax credit bond is 25 percent of the annual credit\n                     determined with respect to such bond.",
+    "definitions": null
+  },
+  {
+    "section": "54A",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)",
+      "(b)(2)(A)",
+      "(b)(2)(B)"
+    ],
+    "rule_type": "computation",
+    "title": "Credit",
+    "text": "The annual credit determined with respect to any qualified tax credit bond is the product of\u2014\u2014the applicable credit rate, multiplied by\u2014the outstanding face amount of the bond.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The annual credit determined with respect to any qualified tax credit bond is the product of\u2014\u2014the applicable credit rate, multiplied by\u2014the outstanding face amount of the bond."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54A(b)(2)Annual Credit\u2014The annual credit determined with respect to any qualified tax credit bond is the\n                     product of\u2014I.R.C. \u00a7 54A(b)(2)(A)\u2014the applicable credit rate, multiplied byI.R.C. \u00a7 54A(b)(2)(B)\u2014the  outstanding face amount of the bond.",
+    "definitions": null
+  },
+  {
+    "section": "54A",
+    "subsection": "(b)(3)",
+    "source_subsections": [
+      "(b)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Credit Rate",
+    "text": "For purposes of paragraph(2), the applicable credit rate is the rate which the Secretary estimates will permit the issuance of qualified tax credit bonds with a specified maturity or redemption date without discount and without interest cost to the qualified issuer. The applicable credit rate with respect to any qualified tax credit bond shall be determined as of the first day on which there is a binding, written contract for the sale or exchange of the bond.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of paragraph(2), the applicable credit rate is the rate which the Secretary estimates will permit the issuance of qualified tax credit bonds with a specified maturity or redemption date without discount and without interest cost to the qualified issuer. The applicable credit rate with respect to any qualified tax credit bond shall be determined as of the first day on which there is a binding, written contract for the sale or exchange of the bond."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54A(b)(3)Applicable Credit Rate\u2014For purposes of paragraph(2), the applicable credit rate is the rate which the Secretary estimates will permit\n                     the issuance of qualified tax credit bonds with a specified maturity or redemption\n                     date without discount and without interest cost to the qualified issuer. The applicable\n                     credit rate with respect to any qualified tax credit bond shall be determined as of\n                     the first day on which there is a binding, written contract for the sale or exchange\n                     of the bond.",
+    "definitions": null
+  },
+  {
+    "section": "54A",
+    "subsection": "(b)(4)",
+    "source_subsections": [
+      "(b)(4)"
+    ],
+    "rule_type": "condition",
+    "title": "Rule For Issuance And Redemption",
+    "text": "In the case of a bond which is issued during the 3-month period ending on a credit allowance date, the amount of the credit determined under this subsection with respect to such credit allowance date shall be a ratable portion of the credit otherwise determined based on the portion of the 3-month period during which the bond is outstanding. A similar rule shall apply when the bond is redeemed or matures.",
+    "conditions": [
+      "the bond is redeemed or matures."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the bond is redeemed or matures."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a bond which is issued during the 3-month period ending on a credit allowance date, the amount of the credit determined under this subsection with respect to such credit allowance date shall be a ratable portion of the credit otherwise determined based on the portion of the 3-month period during which the bond is outstanding. A similar rule shall apply"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54A(b)(4)Special Rule For Issuance And Redemption\u2014In the case of a bond which is issued during the 3-month period ending on a credit\n                     allowance date, the amount of the credit determined under this subsection with respect\n                     to such credit allowance date shall be a ratable portion of the credit otherwise determined\n                     based on the portion of the 3-month period during which the bond is outstanding. A\n                     similar rule shall apply when the bond is redeemed or matures.",
+    "definitions": null
+  },
+  {
+    "section": "54A",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)",
+      "(c)(1)(A)",
+      "(c)(1)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The credit allowed under subsection(a)for any taxable year shall not exceed the excess of\u2014\u2014the sum of the regular tax liability (as defined in section26(b)) plus the tax imposed by section55, over\u2014the sum of the credits allowable under this part (other than subparts C and J and this subpart).",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "subtraction",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      },
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The credit allowed under subsection(a)for any taxable year shall not exceed the excess of\u2014\u2014the sum of the regular tax liability (as defined in section26(b)) plus the tax imposed by section55, over\u2014the sum of the credits allowable under this part (other than subparts C and J and this subpart)."
+    },
+    "cross_references": [
+      {
+        "section": "26(b)",
+        "reason": "tax liability (as defined in..."
+      },
+      {
+        "section": "55",
+        "reason": ") plus the tax imposed by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54A(c)(1)In General\u2014The credit allowed under subsection(a)for any taxable year shall not exceed the excess of\u2014I.R.C. \u00a7 54A(c)(1)(A)\u2014the sum of the regular tax liability\n                        (as defined in section26(b))\n                        plus the tax imposed by section55, overI.R.C. \u00a7 54A(c)(1)(B)\u2014the sum of the credits allowable under this part (other than subparts C and J and\n                        this subpart).",
+    "definitions": null
+  },
+  {
+    "section": "54A",
+    "subsection": "(c)(2)",
+    "source_subsections": [
+      "(c)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Unused Credit",
+    "text": "If the credit allowable under subsection(a)exceeds the limitation imposed by paragraph(1)for such taxable year, such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection(a)for such taxable year (determined before the application of paragraph(1)for such succeeding taxable year).",
+    "conditions": [
+      "the credit allowable under subsection(a)exceeds the limitation imposed by paragraph(1)for such taxable year, such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection(a)for such taxable year (determined before the application of paragraph(1)for such succeeding taxable year)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the credit allowable under subsection(a)exceeds the limitation imposed by paragraph(1)for such taxable year, such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection(a)for such taxable year (determined before the application of paragraph(1)for such succeeding taxable year)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54A(c)(2)Carryover Of Unused Credit\u2014If the credit allowable under subsection(a)exceeds the limitation imposed by paragraph(1)for such taxable year, such excess shall be carried to the succeeding taxable year\n                     and added to the credit allowable under subsection(a)for such taxable year (determined before the application of paragraph(1)for such succeeding taxable year).",
+    "definitions": null
+  },
+  {
+    "section": "54A",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)",
+      "(d)(1)(A)",
+      "(d)(1)(B)",
+      "(d)(1)(C)",
+      "(d)(1)(D)",
+      "(d)(1)(E)"
+    ],
+    "rule_type": "definition",
+    "title": "Tax Credit Bond",
+    "text": "The term \u201cqualified tax credit bond\u201d means\u2014\u2014a qualified forestry conservation bond,\u2014a new clean renewable energy bond,\u2014a qualified energy conservation bond,\u2014a qualified zone academy bond, or\u2014a qualified school construction bond,which is part of an issue that meets requirements of paragraphs(2),(3),(4),(5), and(6).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified tax credit bond\u201d means\u2014\u2014a qualified forestry conservation bond,\u2014a new clean renewable energy bond,\u2014a qualified energy conservation bond,\u2014a qualified zone academy bond, or\u2014a qualified school construction bond,which is part of an issue that meets requirements of paragraphs(2),(3),(4),(5), and(6)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54A(d)(1)Qualified Tax Credit Bond\u2014The term \u201cqualified tax credit bond\u201d means\u2014I.R.C. \u00a7 54A(d)(1)(A)\u2014a qualified forestry conservation bond,I.R.C. \u00a7 54A(d)(1)(B)\u2014a new clean renewable energy bond,I.R.C. \u00a7 54A(d)(1)(C)\u2014a qualified energy conservation bond,I.R.C. \u00a7 54A(d)(1)(D)\u2014a qualified zone academy bond, orI.R.C. \u00a7 54A(d)(1)(E)\u2014a qualified school construction bond,which is part of an issue that meets requirements of paragraphs(2),(3),(4),(5), and(6).",
+    "definitions": null
+  },
+  {
+    "section": "54A",
+    "subsection": "(d)(2)(A)(i)",
+    "source_subsections": [
+      "(d)(2)(A)(i)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "100 percent of the available project proceeds to be spent for 1 or more qualified purposes within the 3-year period beginning on such date of issuance, and",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 1.0,
+        "text": "100 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "100 percent of the available project proceeds to be spent for 1 or more qualified purposes within the 3-year period beginning on such date of issuance, and"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54A(d)(2)(A)(i)\u2014100 percent of the available project proceeds to be spent for 1 or more qualified\n                           purposes within the 3-year period beginning on such date of issuance, and",
+    "definitions": null
+  },
+  {
+    "section": "54A",
+    "subsection": "(d)(2)(A)(ii)",
+    "source_subsections": [
+      "(d)(2)(A)(ii)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "a binding commitment with a third party to spend at least 10 percent of such available project proceeds will be incurred within the 6-month period beginning on such date of issuance.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.1,
+        "text": "10 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "a binding commitment with a third party to spend at least 10 percent of such available project proceeds will be incurred within the 6-month period beginning on such date of issuance."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54A(d)(2)(A)(ii)\u2014a binding commitment with a third party to spend at least 10 percent of such available\n                           project proceeds will be incurred within the 6-month period beginning on such date\n                           of issuance.",
+    "definitions": null
+  },
+  {
+    "section": "54A",
+    "subsection": "(d)(2)(B)(i)",
+    "source_subsections": [
+      "(d)(2)(B)(i)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "To the extent that less than 100 percent of the available project proceeds of the issue are expended by the close of the expenditure period for 1 or more qualified purposes, the issuer shall redeem all of the nonqualified bonds within 90 days after the end of such period. For purposes of this paragraph, the amount of the nonqualified bonds required to be redeemed shall be determined in the same manner as under section142.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 1.0,
+        "text": "100 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "To the extent that less than 100 percent of the available project proceeds of the issue are expended by the close of the expenditure period for 1 or more qualified purposes, the issuer shall redeem all of the nonqualified bonds within 90 days after the end of such period. For purposes of this paragraph, the amount of the nonqualified bonds required to be redeemed shall be determined in the same manner as under section142."
+    },
+    "cross_references": [
+      {
+        "section": "142",
+        "reason": "d in the same manner as under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54A(d)(2)(B)(i)In General\u2014To the extent that less than 100 percent of the available project proceeds of the\n                           issue are expended by the close of the expenditure period for 1 or more qualified\n                           purposes, the issuer shall redeem all of the nonqualified bonds within 90 days after\n                           the end of such period. For purposes of this paragraph, the amount of the nonqualified\n                           bonds required to be redeemed shall be determined in the same manner as under section142.",
+    "definitions": null
+  },
+  {
+    "section": "54A",
+    "subsection": "(d)(2)(B)(ii)",
+    "source_subsections": [
+      "(d)(2)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Period",
+    "text": "For purposes of this subpart, the term \u201cexpenditure period\u201d means, with respect to any issue, the 3-year period beginning on the date of issuance. Such term shall include any extension of such period under clause(iii).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subpart, the term \u201cexpenditure period\u201d means, with respect to any issue, the 3-year period beginning on the date of issuance. Such term shall include any extension of such period under clause(iii)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54A(d)(2)(B)(ii)Expenditure Period\u2014For purposes of this subpart, the term \u201cexpenditure period\u201d means, with respect to\n                           any issue, the 3-year period beginning on the date of issuance. Such term shall include\n                           any extension of such period under clause(iii).",
+    "definitions": null
+  },
+  {
+    "section": "54A",
+    "subsection": "(d)(2)(B)(iii)",
+    "source_subsections": [
+      "(d)(2)(B)(iii)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Period",
+    "text": "Upon submission of a request prior to the expiration of the expenditure period (determined without regard to any extension under this clause), the Secretary may extend such period if the issuer establishes that the failure to expend the proceeds within the original expenditure period is due to reasonable cause and the expenditures for qualified purposes will continue to proceed with due diligence.",
+    "conditions": [
+      "the issuer establishes that the failure to expend the proceeds within the original expenditure period is due to reasonable cause and the expenditures for qualified purposes will continue to proceed with due diligence."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the issuer establishes that the failure to expend the proceeds within the original expenditure period is due to reasonable cause and the expenditures for qualified purposes will continue to proceed with due diligence."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Upon submission of a request prior to the expiration of the expenditure period (determined without regard to any extension under this clause), the Secretary may extend such period"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54A(d)(2)(B)(iii)Extension Of Period\u2014Upon submission of a request prior to the expiration of the expenditure period (determined\n                           without regard to any extension under this clause), the Secretary may extend such\n                           period if the issuer establishes that the failure to expend the proceeds within the\n                           original expenditure period is due to reasonable cause and the expenditures for qualified\n                           purposes will continue to proceed with due diligence.",
+    "definitions": null
+  },
+  {
+    "section": "54A",
+    "subsection": "(d)(2)(C)",
+    "source_subsections": [
+      "(d)(2)(C)",
+      "(d)(2)(C)(i)",
+      "(d)(2)(C)(ii)",
+      "(d)(2)(C)(iii)",
+      "(d)(2)(C)(iv)",
+      "(d)(2)(C)(v)"
+    ],
+    "rule_type": "definition",
+    "title": "Purpose",
+    "text": "For purposes of this paragraph, the term \u201cqualified purpose\u201d means\u2014\u2014in the case of a qualified forestry conservation bond, a purpose specified in section54B(e),\u2014in the case of a new clean renewable energy bond, a purpose specified in section54C(a)(1), and\u2014in the case of a qualified energy conservation bond, a purpose specified in section54D(a)(1),\u2014in the case of a qualified zone academy bond, a purpose specified in section54E(a)(1), and\u2014in the case of a qualified school construction bond, a purpose specified in section54F(a)(1).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the term \u201cqualified purpose\u201d means\u2014\u2014in the case of a qualified forestry conservation bond, a purpose specified in section54B(e),\u2014in the case of a new clean renewable energy bond, a purpose specified in section54C(a)(1), and\u2014in the case of a qualified energy conservation bond, a purpose specified in section54D(a)(1),\u2014in the case of a qualified zone academy bond, a purpose specified in section54E(a)(1), and\u2014in the case of a qualified school construction bond, a purpose specified in section54F(a)(1)."
+    },
+    "cross_references": [
+      {
+        "section": "54B(e)",
+        "reason": "bond, a purpose specified in..."
+      },
+      {
+        "section": "54C(a)(1)",
+        "reason": "bond, a purpose specified in..."
+      },
+      {
+        "section": "54D(a)(1)",
+        "reason": "bond, a purpose specified in..."
+      },
+      {
+        "section": "54E(a)(1)",
+        "reason": "bond, a purpose specified in..."
+      },
+      {
+        "section": "54F(a)(1)",
+        "reason": "bond, a purpose specified in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54A(d)(2)(C)Qualified Purpose\u2014For purposes of this paragraph, the term \u201cqualified purpose\u201d means\u2014I.R.C. \u00a7 54A(d)(2)(C)(i)\u2014in the case of a qualified forestry conservation bond, a purpose specified in section54B(e),I.R.C. \u00a7 54A(d)(2)(C)(ii)\u2014in the case of a new clean renewable energy bond, a purpose specified in section54C(a)(1), andI.R.C. \u00a7 54A(d)(2)(C)(iii)\u2014in the case of a qualified energy conservation bond, a purpose specified in section54D(a)(1),I.R.C. \u00a7 54A(d)(2)(C)(iv)\u2014in the case of a qualified zone academy bond, a purpose specified in section54E(a)(1), andI.R.C. \u00a7 54A(d)(2)(C)(v)\u2014in the case of a qualified school construction bond, a purpose specified in section54F(a)(1).",
+    "definitions": null
+  },
+  {
+    "section": "54A",
+    "subsection": "(d)(2)(D)",
+    "source_subsections": [
+      "(d)(2)(D)",
+      "(d)(2)(D)(i)",
+      "(d)(2)(D)(ii)",
+      "(d)(2)(D)(iii)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "For purposes of this subtitle, available project proceeds of an issue shall be treated as spent for a qualified purpose if such proceeds are used to reimburse the issuer for amounts paid for a qualified purpose after the date that the Secretary makes an allocation of bond limitation with respect to such issue, but only if\u2014\u2014prior to the payment of the original expenditure, the issuer declared its intent to reimburse such expenditure with the proceeds of a qualified tax credit bond,\u2014not later than 60 days after payment of the original expenditure, the issuer adopts an official intent to reimburse the original expenditure with such proceeds, and\u2014the reimbursement is made not later than 18 months after the date the original expenditure is paid.",
+    "conditions": [
+      "such proceeds are used to reimburse the issuer for amounts paid for a qualified purpose after the date that the Secretary makes an allocation of bond limitation with respect to such issue, but only",
+      "\u2014\u2014prior to the payment of the original expenditure, the issuer declared its intent to reimburse such expenditure with the proceeds of a qualified tax credit bond,\u2014not later than 60 days after payment of the original expenditure, the issuer adopts an official intent to reimburse the original expenditure with such proceeds, and\u2014the reimbursement is made not later than 18 months after the date the original expenditure is paid."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such proceeds are used to reimburse the issuer for amounts paid for a qualified purpose after the date that the Secretary makes an allocation of bond limitation with respect to such issue, but only",
+        "\u2014\u2014prior to the payment of the original expenditure, the issuer declared its intent to reimburse such expenditure with the proceeds of a qualified tax credit bond,\u2014not later than 60 days after payment of the original expenditure, the issuer adopts an official intent to reimburse the original expenditure with such proceeds, and\u2014the reimbursement is made not later than 18 months after the date the original expenditure is paid."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subtitle, available project proceeds of an issue shall be treated as spent for a qualified purpose"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54A(d)(2)(D)Reimbursement\u2014For purposes of this subtitle, available project proceeds of an issue shall be treated\n                        as spent for a qualified purpose if such proceeds are used to reimburse the issuer\n                        for amounts paid for a qualified purpose after the date that the Secretary makes an\n                        allocation of bond limitation with respect to such issue, but only if\u2014I.R.C. \u00a7 54A(d)(2)(D)(i)\u2014prior to the payment of the original expenditure, the issuer declared its intent to\n                           reimburse such expenditure with the proceeds of a qualified tax credit bond,I.R.C. \u00a7 54A(d)(2)(D)(ii)\u2014not later than 60 days after payment of the original expenditure, the issuer adopts\n                           an official intent to reimburse the original expenditure with such proceeds, andI.R.C. \u00a7 54A(d)(2)(D)(iii)\u2014the reimbursement is made not later than 18 months after the date the original expenditure\n                           is paid.",
+    "definitions": null
+  },
+  {
+    "section": "54A",
+    "subsection": "(d)(3)",
+    "source_subsections": [
+      "(d)(3)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "An issue shall be treated as meeting the requirements of this paragraph if the issuer of qualified tax credit bonds submits reports similar to the reports required under section149(e).",
+    "conditions": [
+      "the issuer of qualified tax credit bonds submits reports similar to the reports required under section149(e)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the issuer of qualified tax credit bonds submits reports similar to the reports required under section149(e)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "An issue shall be treated as meeting the requirements of this paragraph"
+    },
+    "cross_references": [
+      {
+        "section": "149(e)",
+        "reason": "to the reports required under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54A(d)(3)Reporting\u2014An issue shall be treated as meeting the requirements of this paragraph if the issuer\n                     of qualified tax credit bonds submits reports similar to the reports required under\n                     section149(e).",
+    "definitions": null
+  },
+  {
+    "section": "54A",
+    "subsection": "(d)(4)(A)",
+    "source_subsections": [
+      "(d)(4)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "An issue shall be treated as meeting the requirements of this paragraph if the issuer satisfies the requirements of section148with respect to the proceeds of the issue.",
+    "conditions": [
+      "the issuer satisfies the requirements of section148with respect to the proceeds of the issue."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the issuer satisfies the requirements of section148with respect to the proceeds of the issue."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "An issue shall be treated as meeting the requirements of this paragraph"
+    },
+    "cross_references": [
+      {
+        "section": "148w",
+        "reason": "satisfies the requirements of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54A(d)(4)(A)In General\u2014An issue shall be treated as meeting the requirements of this paragraph if the issuer\n                        satisfies the requirements of section148with respect to the proceeds of the issue.",
+    "definitions": null
+  },
+  {
+    "section": "54A",
+    "subsection": "(d)(4)(B)",
+    "source_subsections": [
+      "(d)(4)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Rule For Investments During Expenditure Period",
+    "text": "An issue shall not be treated as failing to meet the requirements of subparagraph(A)by reason of any investment of available project proceeds during the expenditure period.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "An issue shall not be treated as failing to meet the requirements of subparagraph(A)by reason of any investment of available project proceeds during the expenditure period."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54A(d)(4)(B)Special Rule For Investments During Expenditure Period\u2014An issue shall not be treated as failing to meet the requirements of subparagraph(A)by reason of any investment of available project proceeds during the expenditure\n                        period.",
+    "definitions": null
+  },
+  {
+    "section": "54A",
+    "subsection": "(d)(4)(C)",
+    "source_subsections": [
+      "(d)(4)(C)",
+      "(d)(4)(C)(i)",
+      "(d)(4)(C)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Rule For Reserve Funds",
+    "text": "An issue shall not be treated as failing to meet the requirements of subparagraph(A)by reason of any fund which is expected to be used to repay such issue if\u2014\u2014such fund is funded at a rate not more rapid than equal annual installments,\u2014such fund is funded in a manner reasonably expected to result in an amount not greater than an amount necessary to repay the issue, and\u2014the yield on such fund is not greater than the discount rate determined under paragraph(5)(B)with respect to the issue.",
+    "conditions": [
+      "\u2014\u2014such fund is funded at a rate not more rapid than equal annual installments,\u2014such fund is funded in a manner reasonably expected to result in an amount not greater than an amount necessary to repay the issue, and\u2014the yield on such fund is not greater than the discount rate determined under paragraph(5)(B)with respect to the issue."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014such fund is funded at a rate not more rapid than equal annual installments,\u2014such fund is funded in a manner reasonably expected to result in an amount not greater than an amount necessary to repay the issue, and\u2014the yield on such fund is not greater than the discount rate determined under paragraph(5)(B)with respect to the issue."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "An issue shall not be treated as failing to meet the requirements of subparagraph(A)by reason of any fund which is expected to be used to repay such issue"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54A(d)(4)(C)Special Rule For Reserve Funds\u2014An issue shall not be treated as failing to meet the requirements of subparagraph(A)by reason of any fund which is expected to be used to repay such issue if\u2014I.R.C. \u00a7 54A(d)(4)(C)(i)\u2014such fund is funded at a rate not more rapid than equal annual installments,I.R.C. \u00a7 54A(d)(4)(C)(ii)\u2014such fund is funded in a manner reasonably expected to result in an amount not greater\n                           than an amount necessary to repay the issue, andI.R.C. \u00a7 54A(d)(4)(C)(ii)\u2014the yield on such fund is not greater than the discount rate determined under paragraph(5)(B)with respect to the issue.",
+    "definitions": null
+  },
+  {
+    "section": "54A",
+    "subsection": "(d)(5)(A)",
+    "source_subsections": [
+      "(d)(5)(A)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "An issue shall be treated as meeting the requirements of this paragraph if the maturity of any bond which is part of such issue does not exceed the maximum term determined by the Secretary under subparagraph(B).",
+    "conditions": [
+      "the maturity of any bond which is part of such issue does not exceed the maximum term determined by the Secretary under subparagraph(B)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the maturity of any bond which is part of such issue does not exceed the maximum term determined by the Secretary under subparagraph(B)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "An issue shall be treated as meeting the requirements of this paragraph"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54A(d)(5)(A)In General\u2014An issue shall be treated as meeting the requirements of this paragraph if the maturity\n                        of any bond which is part of such issue does not exceed the maximum term determined\n                        by the Secretary under subparagraph(B).",
+    "definitions": null
+  },
+  {
+    "section": "54A",
+    "subsection": "(d)(5)(B)",
+    "source_subsections": [
+      "(d)(5)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Term",
+    "text": "During each calendar month, the Secretary shall determine the maximum term permitted under this paragraph for bonds issued during the following calendar month. Such maximum term shall be the term which the Secretary estimates will result in the present value of the obligation to repay the principal on the bond being equal to 50 percent of the face amount of such bond. Such present value shall be determined using as a discount rate the average annual interest rate of tax-exempt obligations having a term of 10 years or more which are issued during the month. If the term as so determined is not a multiple of a whole year, such term shall be rounded to the next highest whole year.",
+    "conditions": [
+      "the term as so determined is not a multiple of a whole year, such term shall be rounded to the next highest whole year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the term as so determined is not a multiple of a whole year, such term shall be rounded to the next highest whole year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "During each calendar month, the Secretary shall determine the maximum term permitted under this paragraph for bonds issued during the following calendar month. Such maximum term shall be the term which the Secretary estimates will result in the present value of the obligation to repay the principal on the bond being equal to 50 percent of the face amount of such bond. Such present value shall be determined using as a discount rate the average annual interest rate of tax-exempt obligations having a term of 10 years or more which are issued during the month."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54A(d)(5)(B)Maximum Term\u2014During each calendar month, the Secretary shall determine the maximum term permitted\n                        under this paragraph for bonds issued during the following calendar month. Such maximum\n                        term shall be the term which the Secretary estimates will result in the present value\n                        of the obligation to repay the principal on the bond being equal to 50 percent of\n                        the face amount of such bond. Such present value shall be determined using as a discount\n                        rate the average annual interest rate of tax-exempt obligations having a term of 10\n                        years or more which are issued during the month. If the term as so determined is not\n                        a multiple of a whole year, such term shall be rounded to the next highest whole year.",
+    "definitions": null
+  },
+  {
+    "section": "54A",
+    "subsection": "(d)(6)",
+    "source_subsections": [
+      "(d)(6)",
+      "(d)(6)(A)",
+      "(d)(6)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "On Financial Conflicts Of Interest",
+    "text": "An issue shall be treated as meeting the requirements of this paragraph if the issuer certifies that\u2014\u2014applicable State and local law requirements governing conflicts of interest are satisfied with respect to such issue, and\u2014if the Secretary prescribes additional conflicts of interest rules governing the appropriate Members of Congress, Federal, State, and local officials, and their spouses, such additional rules are satisfied with respect to such issue.",
+    "conditions": [
+      "the issuer certifies that\u2014\u2014applicable State and local law requirements governing conflicts of interest are satisfied with respect to such issue, and\u2014",
+      "the Secretary prescribes additional conflicts of interest rules governing the appropriate Members of Congress, Federal, State, and local officials, and their spouses, such additional rules are satisfied with respect to such issue."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the issuer certifies that\u2014\u2014applicable State and local law requirements governing conflicts of interest are satisfied with respect to such issue, and\u2014",
+        "the Secretary prescribes additional conflicts of interest rules governing the appropriate Members of Congress, Federal, State, and local officials, and their spouses, such additional rules are satisfied with respect to such issue."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "An issue shall be treated as meeting the requirements of this paragraph"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54A(d)(6)Prohibition On Financial Conflicts Of Interest\u2014An issue shall be treated as meeting the requirements of this paragraph if the issuer\n                     certifies that\u2014I.R.C. \u00a7 54A(d)(6)(A)\u2014applicable State and local law requirements governing conflicts of interest are satisfied\n                        with respect to such issue, andI.R.C. \u00a7 54A(d)(6)(B)\u2014if the Secretary prescribes additional conflicts of interest rules governing the appropriate\n                        Members of Congress, Federal, State, and local officials, and their spouses, such\n                        additional rules are satisfied with respect to such issue.",
+    "definitions": null
+  },
+  {
+    "section": "54A",
+    "subsection": "(e)(1)(A)",
+    "source_subsections": [
+      "(e)(1)(A)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "March 15,",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "March 15,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54A(e)(1)(A)\u2014March 15,",
+    "definitions": null
+  },
+  {
+    "section": "54A",
+    "subsection": "(e)(1)(B)",
+    "source_subsections": [
+      "(e)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "June 15,",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "June 15,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54A(e)(1)(B)\u2014June 15,",
+    "definitions": null
+  },
+  {
+    "section": "54A",
+    "subsection": "(e)(1)(C)",
+    "source_subsections": [
+      "(e)(1)(C)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "September 15, and",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "September 15, and"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54A(e)(1)(C)\u2014September 15, and",
+    "definitions": null
+  },
+  {
+    "section": "54A",
+    "subsection": "(e)(1)(D)",
+    "source_subsections": [
+      "(e)(1)(D)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "December 15. Such term includes the last day on which the bond is outstanding.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "December 15. Such term includes the last day on which the bond is outstanding."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54A(e)(1)(D)\u2014December 15. Such term includes the last day on which the bond is outstanding.",
+    "definitions": null
+  },
+  {
+    "section": "54A",
+    "subsection": "(e)(2)",
+    "source_subsections": [
+      "(e)(2)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "The term \u201cbond\u201d includes any obligation.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cbond\u201d includes any obligation."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54A(e)(2)Bond\u2014The term \u201cbond\u201d includes any obligation.",
+    "definitions": null
+  },
+  {
+    "section": "54A",
+    "subsection": "(e)(3)",
+    "source_subsections": [
+      "(e)(3)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "The term \u201cState\u201d includes the District of Columbia and any possession of the United States.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cState\u201d includes the District of Columbia and any possession of the United States."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54A(e)(3)State\u2014The term \u201cState\u201d includes the District of Columbia and any possession of the United\n                     States.",
+    "definitions": null
+  },
+  {
+    "section": "54A",
+    "subsection": "(e)(4)",
+    "source_subsections": [
+      "(e)(4)",
+      "(e)(4)(A)",
+      "(e)(4)(A)(i)",
+      "(e)(4)(A)(ii)",
+      "(e)(4)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Project Proceeds",
+    "text": "The term \u201cavailable project proceeds\u201d means\u2014the excess of\u2014\u2014the proceeds from the sale of an issue, over\u2014the issuance costs financed by the issue (to the extent that such costs do not exceed 2 percent of such proceeds), and\u2014the proceeds from any investment of the excess described in subparagraph(A).",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "subtraction",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.02,
+        "text": "2 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cavailable project proceeds\u201d means\u2014the excess of\u2014\u2014the proceeds from the sale of an issue, over\u2014the issuance costs financed by the issue (to the extent that such costs do not exceed 2 percent of such proceeds), and\u2014the proceeds from any investment of the excess described in subparagraph(A)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54A(e)(4)Available Project Proceeds\u2014The term \u201cavailable project proceeds\u201d meansI.R.C. \u00a7 54A(e)(4)(A)\u2014the excess of\u2014I.R.C. \u00a7 54A(e)(4)(A)(i)\u2014the proceeds from the sale of an issue, overI.R.C. \u00a7 54A(e)(4)(A)(ii)\u2014the issuance costs financed by the issue\n                           (to the extent that such costs do not exceed 2 percent of such proceeds), andI.R.C. \u00a7 54A(e)(4)(B)\u2014the proceeds from any investment of the excess described in subparagraph(A).",
+    "definitions": null
+  },
+  {
+    "section": "54A",
+    "subsection": "(f)",
+    "source_subsections": [
+      "(f)"
+    ],
+    "rule_type": "condition",
+    "title": "Treated As Interest",
+    "text": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54A, effective for bonds issued after December 31, 2017.For purposes of this subtitle, the credit determined under subsection(a)shall be treated as interest which is includible in gross income.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54A, effective for bonds issued after December 31, 2017.For purposes of this subtitle, the credit determined under subsection(a)shall be treated as interest which is includible in gross income."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54A(f)Credit Treated As Interest\u2014Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54A, effective for bonds issued after December 31, 2017.For purposes of this subtitle, the credit determined under subsection(a)shall be treated as interest which is includible in gross income.",
+    "definitions": null
+  },
+  {
+    "section": "54A",
+    "subsection": "(g)",
+    "source_subsections": [
+      "(g)"
+    ],
+    "rule_type": "condition",
+    "title": "Corporations And Partnerships",
+    "text": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54A, effective for bonds issued after December 31, 2017.In the case of a tax credit bond held by an S corporation or partnership, the allocation of the credit allowed by this section to the shareholders of such corporation or partners of such partnership shall be treated as a distribution.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54A, effective for bonds issued after December 31, 2017.In the case of a tax credit bond held by an S corporation or partnership, the allocation of the credit allowed by this section to the shareholders of such corporation or partners of such partnership shall be treated as a distribution."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54A(g)S Corporations And Partnerships\u2014Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54A, effective for bonds issued after December 31, 2017.In the case of a tax credit bond held by an S corporation or partnership, the allocation\n                  of the credit allowed by this section to the shareholders of such corporation or partners\n                  of such partnership shall be treated as a distribution.",
+    "definitions": null
+  },
+  {
+    "section": "54A",
+    "subsection": "(h)",
+    "source_subsections": [
+      "(h)"
+    ],
+    "rule_type": "condition",
+    "title": "Held By Real Estate Investment Trusts",
+    "text": "If any qualified tax credit bond is held by a real estate investment trust, the credit determined under subsection(a)shall be allowed to beneficiaries of such trust (and any gross income included under subsection (f) with respect to such credit shall be distributed to such beneficiaries) under procedures prescribed by the Secretary.",
+    "conditions": [
+      "any qualified tax credit bond is held by a real estate investment trust, the credit determined under subsection(a)shall be allowed to beneficiaries of such trust (and any gross income included under subsection (f) with respect to such credit shall be distributed to such beneficiaries) under procedures prescribed by the Secretary."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any qualified tax credit bond is held by a real estate investment trust, the credit determined under subsection(a)shall be allowed to beneficiaries of such trust (and any gross income included under subsection (f) with respect to such credit shall be distributed to such beneficiaries) under procedures prescribed by the Secretary."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54A(h)Bonds Held By Real Estate Investment Trusts\u2014If any qualified tax credit bond is held by a real estate investment trust, the credit\n                  determined under subsection(a)shall be allowed to beneficiaries of such trust (and any gross income included under\n                  subsection (f)\n                  with respect to such credit shall be distributed to such beneficiaries)\n                  under procedures prescribed by the Secretary.",
+    "definitions": null
+  },
+  {
+    "section": "54A",
+    "subsection": "(i)(1)",
+    "source_subsections": [
+      "(i)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "There may be a separation (including at issuance) of the ownership of a qualified tax credit bond and the entitlement to the credit under this section with respect to such bond. In case of any such separation, the credit under this section shall be allowed to the person who on the credit allowance date holds the instrument evidencing the entitlement to the credit and not to the holder of the bond.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "There may be a separation (including at issuance) of the ownership of a qualified tax credit bond and the entitlement to the credit under this section with respect to such bond. In case of any such separation, the credit under this section shall be allowed to the person who on the credit allowance date holds the instrument evidencing the entitlement to the credit and not to the holder of the bond."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54A(i)(1)In General\u2014There may be a separation (including at issuance) of the ownership of a qualified\n                     tax credit bond and the entitlement to the credit under this section with respect\n                     to such bond. In case of any such separation, the credit under this section shall\n                     be allowed to the person who on the credit allowance date holds the instrument evidencing\n                     the entitlement to the credit and not to the holder of the bond.",
+    "definitions": null
+  },
+  {
+    "section": "54A",
+    "subsection": "(i)(2)",
+    "source_subsections": [
+      "(i)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Rules To Apply",
+    "text": "In the case of a separation described in paragraph(1), the rules of section1286shall apply to the qualified tax credit bond as if it were a stripped bond and to the credit under this section as if it were a stripped coupon.",
+    "conditions": [
+      "it were a stripped bond and to the credit under this section as",
+      "it were a stripped coupon."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "it were a stripped bond and to the credit under this section as",
+        "it were a stripped coupon."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a separation described in paragraph(1), the rules of section1286shall apply to the qualified tax credit bond as"
+    },
+    "cross_references": [
+      {
+        "section": "1286s",
+        "reason": "in paragraph(1), the rules of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54A(i)(2)Certain Rules To Apply\u2014In the case of a separation described in paragraph(1), the rules of section1286shall apply to the qualified tax credit bond as if it were a stripped bond and to\n                     the credit under this section as if it were a stripped coupon.",
+    "definitions": null
+  }
+]

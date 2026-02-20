@@ -1,0 +1,22 @@
+{
+  "id": "9549e783a596",
+  "section": "54E",
+  "citation": "I.R.C. \u00a7 54E(a)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 54E(a) is discussed as follows: 'I.R.C. \u00a7 54E(a)Qualified Zone Academy Bonds\u2014Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec....'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 54E(a)?",
+  "difficulty": 1,
+  "choices": [
+    "0.0%",
+    "90.0%",
+    "110.0%",
+    "100.0%",
+    "150.0%"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies 100.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 54E(a)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "521e7fe08a05",
+  "section": "1445",
+  "citation": "I.R.C. \u00a7 1445(c)(4)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1445(c)(4) is discussed as follows: 'I.R.C. \u00a7 1445(c)(4)Reduced Rate Of Withholding For Residence Where Amount Realized Does Not Exceed $...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1445(c)(4)?",
+  "difficulty": 1,
+  "choices": [
+    "20.0%",
+    "0.0%",
+    "90.0%",
+    "10.0%",
+    "15.0%"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies 10.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1445(c)(4)"
+  ]
+}

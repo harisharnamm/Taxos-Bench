@@ -1,0 +1,22 @@
+{
+  "id": "7cc0b85eb7fe",
+  "section": "51A",
+  "citation": "I.R.C. \u00a7 51A(b)(5)(C)(ii)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 51A(b)(5)(C)(ii) is discussed as follows: 'I.R.C. \u00a7 51A(b)(5)(C)(ii)\u2014such subparagraph(B)shall be applied by substituting \u201c$833.33\u201d for \u201c$500\u201d....'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 51A(b)(5)(C)(ii)?",
+  "difficulty": 1,
+  "choices": [
+    "$250.00",
+    "$450.00",
+    "$1,000.00",
+    "$500.00",
+    "$550.00"
+  ],
+  "correct_choice_index": 3,
+  "answer_explanation": "The text specifies $500.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 51A(b)(5)(C)(ii)"
+  ]
+}

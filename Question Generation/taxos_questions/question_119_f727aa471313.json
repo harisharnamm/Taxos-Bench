@@ -1,0 +1,22 @@
+{
+  "id": "f727aa471313",
+  "section": "119",
+  "citation": "I.R.C. \u00a7 119(d)(2)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 119(d)(2) is discussed as follows: 'I.R.C. \u00a7 119(d)(2)Exception In Cases Of Inadequate Rent\u2014Paragraph(1)shall not apply to the extent of...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 119(d)(2)?",
+  "difficulty": 1,
+  "choices": [
+    "95.0%",
+    "7.5%",
+    "5.0%",
+    "15.0%",
+    "0.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 5.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 119(d)(2)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "dc46de53465e",
+  "section": "1397C",
+  "citation": "I.R.C. \u00a7 1397C(b)(8)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 1397C(b)(8) is discussed as follows: 'I.R.C. \u00a7 1397C(b)(8)\u2014less  than 5 percent of the average of the aggregate unadjusted bases of the  p...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 1397C(b)(8)?",
+  "difficulty": 1,
+  "choices": [
+    "5.0%",
+    "0.0%",
+    "15.0%",
+    "95.0%",
+    "7.5%"
+  ],
+  "correct_choice_index": 0,
+  "answer_explanation": "The text specifies 5.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 1397C(b)(8)"
+  ]
+}

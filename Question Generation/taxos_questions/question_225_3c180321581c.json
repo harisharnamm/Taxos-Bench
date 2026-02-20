@@ -1,0 +1,22 @@
+{
+  "id": "3c180321581c",
+  "section": "225",
+  "citation": "I.R.C. \u00a7 225(b)",
+  "type": "Recall - Numeric",
+  "scenario": "A specific limitation or amount in I.R.C. \u00a7 225(b) is discussed as follows: 'I.R.C. \u00a7 225(b)LimitationI.R.C. \u00a7 225(b)(1)In General\u2014The amount allowed as a deduction under this s...'.",
+  "question": "What is the dollar amount specified in I.R.C. \u00a7 225(b)?",
+  "difficulty": 1,
+  "choices": [
+    "$500.00",
+    "$1,100.00",
+    "$1,000.00",
+    "$2,000.00",
+    "$900.00"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies $1,000.00.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 225(b)"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "af4610628a51",
+  "section": "1400Z-2",
+  "citation": "I.R.C. \u00a7 1400Z-2(b)",
+  "type": "Complex - Opportunity Zone Basis Adjustment",
+  "scenario": "In 2019, Heidi realized a capital gain of $272,442.43 and invested the entire amount into a Qualified Opportunity Fund (QOF), making a valid election to defer the gain under Section 1400Z-2. Heidi holds the QOF investment for 7 years.",
+  "question": "Calculate Heidi's adjusted basis in the QOF investment after the 7-year holding period, accounting for any basis adjustments under Section 1400Z-2(b)(2)(B).",
+  "difficulty": 4,
+  "choices": [
+    "$231,576.07",
+    "$272,442.43",
+    "$40,866.36",
+    "$0.00",
+    "$27,244.24"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The basis is increased by 15% of the deferred gain due to the 7-year holding period. Adjusted Basis = $0 + ($272,442.43 * 0.15000000000000002) = $40,866.36.",
+  "reasoning": "Applied basis adjustment rules.",
+  "source_rules": [
+    "I.R.C. \u00a7 1400Z-2(b)",
+    "I.R.C. \u00a7 1400Z-2(b)"
+  ]
+}

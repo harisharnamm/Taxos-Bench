@@ -1,0 +1,1481 @@
+[
+  {
+    "section": "59",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)",
+      "(a)(1)(A)",
+      "(a)(1)(B)",
+      "(a)(1)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The alternative minimum tax foreign tax credit for any taxable year shall be the credit which would be determined under section27for such taxable year if\u2014\u2014the pre-credit tentative minimum tax were the tax against which such credit was taken for purposes of section904for the taxable year and all prior taxable years beginning after December 31, 1986,\u2014section904were applied on the basis of alternative minimum taxable income instead of taxable income, and\u2014the determination of whether any income is high-taxed income for purposes of section904(d)(2)were made on the basis of the applicable rate specified in section55(b)(1)in lieu of the highest rate of tax specified in section1.",
+    "conditions": [
+      "\u2014\u2014the pre-credit tentative minimum tax were the tax against which such credit was taken for purposes of section904for the taxable year and all prior taxable years beginning after December 31, 1986,\u2014section904were applied on the basis of alternative minimum taxable income instead of taxable income, and\u2014the determination of whether any income is high-taxed income for purposes of section904(d)(2)were made on the basis of the applicable rate specified in section55(b)(1)in lieu of the highest rate of tax specified in section1."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014the pre-credit tentative minimum tax were the tax against which such credit was taken for purposes of section904for the taxable year and all prior taxable years beginning after December 31, 1986,\u2014section904were applied on the basis of alternative minimum taxable income instead of taxable income, and\u2014the determination of whether any income is high-taxed income for purposes of section904(d)(2)were made on the basis of the applicable rate specified in section55(b)(1)in lieu of the highest rate of tax specified in section1."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The alternative minimum tax foreign tax credit for any taxable year shall be the credit which would be determined under section27for such taxable year"
+    },
+    "cross_references": [
+      {
+        "section": "27f",
+        "reason": "ich would be determined under..."
+      },
+      {
+        "section": "904f",
+        "reason": "dit was taken for purposes of..."
+      },
+      {
+        "section": "904w",
+        "reason": "ning after December 31, 1986,\u2014..."
+      },
+      {
+        "section": "904(d)(2)",
+        "reason": "-taxed income for purposes of..."
+      },
+      {
+        "section": "55(b)(1)",
+        "reason": "applicable rate specified in..."
+      },
+      {
+        "section": "1",
+        "reason": "hest rate of tax specified in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(a)(1)In General\u2014The alternative minimum tax foreign\n                     tax credit for any taxable year shall be the credit which would be\n                     determined under section27for\n                     such taxable year if\u2014I.R.C. \u00a7 59(a)(1)(A)\u2014the pre-credit tentative minimum tax\n                        were the tax against which such credit was taken for purposes of section904for the taxable year and all\n                        prior taxable years beginning after December 31, 1986,I.R.C. \u00a7 59(a)(1)(B)\u2014section904were\n                        applied on the basis of alternative minimum taxable income instead\n                        of taxable income, andI.R.C. \u00a7 59(a)(1)(C)\u2014the determination of whether any income\n                        is high-taxed income for purposes of section904(d)(2)were made on the\n                        basis of the applicable rate specified in section55(b)(1)in lieu of the highest\n                        rate of tax specified in section1.",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(a)(2)",
+    "source_subsections": [
+      "(a)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Tentative Minimum Tax",
+    "text": "For purposes of this subsection, the term \u201cpre-credit tentative minimum tax\u201d means the amount determined under the first sentence of section55(b)(1)(A).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection, the term \u201cpre-credit tentative minimum tax\u201d means the amount determined under the first sentence of section55(b)(1)(A)."
+    },
+    "cross_references": [
+      {
+        "section": "55(b)(1)(A)",
+        "reason": "d under the first sentence of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(a)(2)Pre-Credit Tentative Minimum Tax\u2014For purposes of this subsection,\n                     the term \u201cpre-credit tentative minimum tax\u201d means the\n                     amount determined under the first sentence of section55(b)(1)(A).",
+    "definitions": {
+      "term": "pre-credit tentative minimum tax",
+      "requirements": [
+        "the amount determined under the first sentence of section55(b)(1)(A)."
+      ]
+    }
+  },
+  {
+    "section": "59",
+    "subsection": "(a)(3)(A)",
+    "source_subsections": [
+      "(a)(3)(A)",
+      "(a)(3)(A)(i)",
+      "(a)(3)(A)(ii)",
+      "(a)(3)(A)(ii)(I)",
+      "(a)(3)(A)(ii)(II)"
+    ],
+    "rule_type": "limitation",
+    "title": "General",
+    "text": "In determining the alternative minimum tax foreign tax credit for any taxable year to which an election under this paragraph applies\u2014\u2014subparagraph(B)of paragraph(1)shall not apply, and\u2014the limitation of section904shall be based on the proportion which\u2014\u2014the taxpayer's taxable income (as determined for purposes of the regular tax) from sources without the United States (but not in excess of the taxpayer's entire alternative minimum taxable income), bears to\u2014the taxpayer's entire alternative minimum taxable income for the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In determining the alternative minimum tax foreign tax credit for any taxable year to which an election under this paragraph applies\u2014\u2014subparagraph(B)of paragraph(1)shall not apply, and\u2014the limitation of section904shall be based on the proportion which\u2014\u2014the taxpayer's taxable income (as determined for purposes of the regular tax) from sources without the United States (but not in excess of the taxpayer's entire alternative minimum taxable income), bears to\u2014the taxpayer's entire alternative minimum taxable income for the taxable year."
+    },
+    "cross_references": [
+      {
+        "section": "904s",
+        "reason": "apply, and\u2014the limitation of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(a)(3)(A)In General\u2014In determining the alternative minimum tax foreign tax\n                        credit for any taxable year to which an election under this paragraph\n                        applies\u2014I.R.C. \u00a7 59(a)(3)(A)(i)\u2014subparagraph(B)of paragraph(1)shall not apply, andI.R.C. \u00a7 59(a)(3)(A)(ii)\u2014the limitation of section904shall be based on the proportion\n                           which\u2014I.R.C. \u00a7 59(a)(3)(A)(ii)(I)\u2014the taxpayer's taxable income (as determined\n                              for purposes of the regular tax) from sources without the United States\n                              (but not in excess of the taxpayer's entire alternative minimum taxable\n                              income), bears toI.R.C. \u00a7 59(a)(3)(A)(ii)(II)\u2014the taxpayer's entire alternative minimum\n                              taxable income for the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(a)(3)(B)(i)",
+    "source_subsections": [
+      "(a)(3)(B)(i)"
+    ],
+    "rule_type": "limitation",
+    "title": "General",
+    "text": "An election under this paragraph may be made only for the taxpayer's first taxable year which begins after December 31, 1997, and for which the taxpayer claims an alternative minimum tax foreign tax credit.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "An election under this paragraph may be made only for the taxpayer's first taxable year which begins after December 31, 1997, and for which the taxpayer claims an alternative minimum tax foreign tax credit."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(a)(3)(B)(i)In General\u2014An election under this paragraph may be made only for\n                           the taxpayer's first taxable year which begins after December 31,\n                           1997, and for which the taxpayer claims an alternative minimum tax\n                           foreign tax credit.",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(a)(3)(B)(ii)",
+    "source_subsections": [
+      "(a)(3)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Revocable Only With Consent",
+    "text": "An election under this paragraph, once made, shall apply to the taxable year for which made and all subsequent taxable years unless revoked with the consent of the Secretary.",
+    "conditions": [
+      "revoked with the consent of the Secretary."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "revoked with the consent of the Secretary."
+      ],
+      "except": [],
+      "result": "An election under this paragraph, once made, shall apply to the taxable year for which made and all subsequent taxable years"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(a)(3)(B)(ii)Election Revocable Only With Consent\u2014An election under this paragraph, once made, shall apply\n                           to the taxable year for which made and all subsequent taxable years\n                           unless revoked with the consent of the Secretary.",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(b)",
+    "source_subsections": [
+      "(b)"
+    ],
+    "rule_type": "condition",
+    "title": "Tax Not To Apply To Income Eligible For Credits Under\n                  Section 30A Or 936",
+    "text": "[Repealed.Pub. L. 115-97, Sec. 12001(b)(10), Dec. 22, 2017.]",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "[Repealed.Pub. L. 115-97, Sec. 12001(b)(10), Dec. 22, 2017.]"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(b)Minimum Tax Not To Apply To Income Eligible For Credits Under\n                  Section 30A Or 936\u2014[Repealed.Pub. L. 115-97, Sec. 12001(b)(10),\n                  Dec. 22, 2017.]",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(c)",
+    "source_subsections": [
+      "(c)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Estates And Trusts",
+    "text": "In the case of any estate or trust, the alternative minimum taxable income of such estate or trust and any beneficiary thereof shall be determined by applying part I of subchapter J with the adjustments provided in this part.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any estate or trust, the alternative minimum taxable income of such estate or trust and any beneficiary thereof shall be determined by applying part I of subchapter J with the adjustments provided in this part."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(c)Treatment Of Estates And Trusts\u2014In the case of any estate or trust, the alternative\n                  minimum taxable income of such estate or trust and any beneficiary\n                  thereof shall be determined by applying part I of subchapter J with\n                  the adjustments provided in this part.",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(d)(1)(A)",
+    "source_subsections": [
+      "(d)(1)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "Investment Companies And Real Estate Investment Trusts",
+    "text": "In the case of a regulated investment company to which part I of subchapter M applies or a real estate investment company to which part II of subchapter M applies, between such company or trust and shareholders and holders of beneficial interest in such company or trust.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a regulated investment company to which part I of subchapter M applies or a real estate investment company to which part II of subchapter M applies, between such company or trust and shareholders and holders of beneficial interest in such company or trust."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(d)(1)(A)Regulated Investment Companies And Real Estate Investment Trusts\u2014In the case of a regulated investment company to which\n                        part I of subchapter M applies or a real estate investment company\n                        to which part II of subchapter M applies, between such company or\n                        trust and shareholders and holders of beneficial interest in such\n                        company or trust.",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(d)(1)(B)",
+    "source_subsections": [
+      "(d)(1)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "Trust Funds",
+    "text": "In the case of a common trust fund (as defined in section584(a)), pro rata among the participants of such fund.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a common trust fund (as defined in section584(a)), pro rata among the participants of such fund."
+    },
+    "cross_references": [
+      {
+        "section": "584(a)",
+        "reason": "mon trust fund (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(d)(1)(B)Common Trust Funds\u2014In the case of a common trust fund (as defined in section584(a)), pro rata among the\n                        participants of such fund.",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(d)(2)",
+    "source_subsections": [
+      "(d)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Treated Items",
+    "text": "For purposes of this section, the term \u201cdifferently treated item\u201d means any item of tax preference or any other item which is treated differently for purposes of this part than for purposes of computing the regular tax.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u201cdifferently treated item\u201d means any item of tax preference or any other item which is treated differently for purposes of this part than for purposes of computing the regular tax."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(d)(2)Differently Treated Items\u2014For purposes of this section, the term \u201cdifferently\n                     treated item\u201d means any item of tax preference or any other\n                     item which is treated differently for purposes of this part than for\n                     purposes of computing the regular tax.",
+    "definitions": {
+      "term": "differently treated item",
+      "requirements": [
+        "any item of tax preference or any other item which is treated differently for purposes of this part than for purposes of computing the regular tax."
+      ]
+    }
+  },
+  {
+    "section": "59",
+    "subsection": "(e)(1)",
+    "source_subsections": [
+      "(e)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "For purposes of this title, any qualified expenditure to which an election under this paragraph applies shall be allowed as a deduction ratably over the 10-year period (3-year period in the case of circulation expenditures described in section173) beginning with the taxable year in which such expenditure was made (or, in the case of a qualified expenditure described in paragraph(2)(C), over the 60-month period beginning with the month in which such expenditure was paid or incurred).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this title, any qualified expenditure to which an election under this paragraph applies shall be allowed as a deduction ratably over the 10-year period (3-year period in the case of circulation expenditures described in section173) beginning with the taxable year in which such expenditure was made (or, in the case of a qualified expenditure described in paragraph(2)(C), over the 60-month period beginning with the month in which such expenditure was paid or incurred)."
+    },
+    "cross_references": [
+      {
+        "section": "173",
+        "reason": "ion expenditures described in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(e)(1)In General\u2014For purposes of this title, any qualified expenditure\n                     to which an election under this paragraph applies shall be allowed\n                     as a deduction ratably over the 10-year period (3-year period in the\n                     case of circulation expenditures described in section173) beginning with the taxable\n                     year in which such expenditure was made (or, in the case of a qualified\n                     expenditure described in paragraph(2)(C), over the 60-month\n                     period beginning with the month in which such expenditure was paid\n                     or incurred).",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(e)(2)",
+    "source_subsections": [
+      "(e)(2)",
+      "(e)(2)(A)",
+      "(e)(2)(B)",
+      "(e)(2)(C)",
+      "(e)(2)(D)",
+      "(e)(2)(E)"
+    ],
+    "rule_type": "definition",
+    "title": "Expenditure",
+    "text": "For purposes of this subsection, the term \u201cqualified expenditure\u201d means any amount which, but for an election under this subsection, would have been allowable as a deduction (determined without regard to section291) for the taxable year in which paid or incurred under\u2014\u2014section173(relating to circulation expenditures),Editor's Note:Sec. 59(e)(2)(B), below, before amendment byPub. L. 119-21, Sec. 70302(b)(4), is applicable to amounts paid or incurred in taxable years beginning on or before Dec. 31, 2024.\u2014section174(a)(relating to research and experimental expenditures),Editor's Note:Sec. 59(e)(2)(B), below, after amendment byPub. L. 119-21, Sec. 70302(b)(4), is applicable to amounts paid or incurred in taxable years beginning after Dec. 31, 2024.\u2014section174A(a)(relating to domestic research or experimental expenditures),\u2014section263(c)(relating to intangible drilling and development expenditures),\u2014section616(a)(relating to development expenditures), or\u2014section617(a)(relating to mining exploration expenditures).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection, the term \u201cqualified expenditure\u201d means any amount which, but for an election under this subsection, would have been allowable as a deduction (determined without regard to section291) for the taxable year in which paid or incurred under\u2014\u2014section173(relating to circulation expenditures),Editor's Note:Sec. 59(e)(2)(B), below, before amendment byPub. L. 119-21, Sec. 70302(b)(4), is applicable to amounts paid or incurred in taxable years beginning on or before Dec. 31, 2024.\u2014section174(a)(relating to research and experimental expenditures),Editor's Note:Sec. 59(e)(2)(B), below, after amendment byPub. L. 119-21, Sec. 70302(b)(4), is applicable to amounts paid or incurred in taxable years beginning after Dec. 31, 2024.\u2014section174A(a)(relating to domestic research or experimental expenditures),\u2014section263(c)(relating to intangible drilling and development expenditures),\u2014section616(a)(relating to development expenditures), or\u2014section617(a)(relating to mining exploration expenditures)."
+    },
+    "cross_references": [
+      {
+        "section": "291",
+        "reason": "(determined without regard to..."
+      },
+      {
+        "section": "173",
+        "reason": "which paid or incurred under\u2014\u2014..."
+      },
+      {
+        "section": "174(a)",
+        "reason": "g on or before Dec. 31, 2024.\u2014..."
+      },
+      {
+        "section": "174A(a)",
+        "reason": "eginning after Dec. 31, 2024.\u2014..."
+      },
+      {
+        "section": "263(c)",
+        "reason": "r experimental expenditures),\u2014..."
+      },
+      {
+        "section": "616(a)",
+        "reason": "nd development expenditures),\u2014..."
+      },
+      {
+        "section": "617(a)",
+        "reason": "development expenditures), or\u2014..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(e)(2)Qualified Expenditure\u2014For purposes of this subsection, the term \u201cqualified\n                     expenditure\u201d means any amount which, but for an election under\n                     this subsection, would have been allowable as a deduction (determined\n                     without regard to section291)\n                     for the taxable year in which paid or incurred under\u2014I.R.C. \u00a7 59(e)(2)(A)\u2014section173(relating\n                        to circulation expenditures),Editor's Note:Sec. 59(e)(2)(B), below, before amendment byPub. L. 119-21, Sec. 70302(b)(4), is applicable to amounts paid or incurred in taxable years beginning\n                              on or before Dec. 31, 2024.I.R.C. \u00a7 59(e)(2)(B)\u2014section174(a)(relating to research and experimental expenditures),Editor's Note:Sec. 59(e)(2)(B), below, after amendment byPub. L. 119-21, Sec. 70302(b)(4), is applicable to amounts paid or incurred in taxable years beginning\n                              after Dec. 31, 2024.I.R.C. \u00a7 59(e)(2)(B)\u2014section174A(a)(relating to domestic research or experimental expenditures),I.R.C. \u00a7 59(e)(2)(C)\u2014section263(c)(relating to intangible\n                        drilling and development expenditures),I.R.C. \u00a7 59(e)(2)(D)\u2014section616(a)(relating to development\n                        expenditures), orI.R.C. \u00a7 59(e)(2)(E)\u2014section617(a)(relating to mining\n                        exploration expenditures).",
+    "definitions": {
+      "term": "qualified expenditure",
+      "requirements": [
+        "any amount which, but for an election under this subsection, would have been allowable as a deduction (determined without regard to section291) for the taxable year in which paid or incurred under\u2014\u2014section173(relating to circulation expenditures),Editor's Note:Sec. 59(e)(2)(B), below, before amendment byPub. L. 119-21, Sec. 70302(b)(4), is applicable to amounts paid or incurred in taxable years beginning on or before Dec. 31, 2024.\u2014section174(a)(relating to research and experimental expenditures),Editor's Note:Sec. 59(e)(2)(B), below, after amendment byPub. L. 119-21, Sec. 70302(b)(4), is applicable to amounts paid or incurred in taxable years beginning after Dec. 31, 2024.\u2014section174A(a)(relating to domestic research or experimental expenditures),\u2014section263(c)(relating to intangible drilling and development expenditures),\u2014section616(a)(relating to development expenditures), or\u2014section617(a)(relating to mining exploration expenditures)."
+      ]
+    }
+  },
+  {
+    "section": "59",
+    "subsection": "(e)(3)",
+    "source_subsections": [
+      "(e)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Sections Not Applicable",
+    "text": "Except as provided in this subsection, no deduction shall be allowed under any other section for any qualified expenditure to which an election under this subsection applies.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [
+      {
+        "applies_when": "this subsection",
+        "effect": "See referenced section"
+      }
+    ],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as provided in this subsection, no deduction shall be allowed under any other section for any qualified expenditure to which an election under this subsection applies."
+      ],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(e)(3)Other Sections Not Applicable\u2014Except as provided in this subsection, no deduction\n                     shall be allowed under any other section for any qualified expenditure\n                     to which an election under this subsection applies.",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(e)(4)(A)",
+    "source_subsections": [
+      "(e)(4)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "An election may be made under paragraph(1)with respect to any portion of any qualified expenditure.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "An election may be made under paragraph(1)with respect to any portion of any qualified expenditure."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(e)(4)(A)In General\u2014An election may be made under paragraph(1)with respect to any portion\n                        of any qualified expenditure.",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(e)(4)(B)",
+    "source_subsections": [
+      "(e)(4)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Only With Consent",
+    "text": "Any election under this subsection may be revoked only with the consent of the Secretary.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Any election under this subsection may be revoked only with the consent of the Secretary."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(e)(4)(B)Revocable Only With Consent\u2014Any election under this subsection may be revoked only\n                        with the consent of the Secretary.",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(e)(4)(C)",
+    "source_subsections": [
+      "(e)(4)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "And Shareholders Of S Corporations",
+    "text": "In the case of a partnership, any election under paragraph(1)shall be made separately by each partner with respect to the partner's allocable share of any qualified expenditure. A similar rule shall apply in the case of an S corporation and its shareholders.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a partnership, any election under paragraph(1)shall be made separately by each partner with respect to the partner's allocable share of any qualified expenditure. A similar rule shall apply in the case of an S corporation and its shareholders."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(e)(4)(C)Partners And Shareholders Of S Corporations\u2014In the case of a partnership, any election under paragraph(1)shall be made separately\n                        by each partner with respect to the partner's allocable share of any\n                        qualified expenditure. A similar rule shall apply in the case of an\n                        S corporation and its shareholders.",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(e)(5)(A)",
+    "source_subsections": [
+      "(e)(5)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Section 1254",
+    "text": "In the case of any disposition of property to which section1254applies (determined without regard to this section), any deduction under paragraph(1)with respect to amounts which are allocable to such property shall, for purposes of section1254, be treated as a deduction allowable under section263(c),616(a), or617(a), whichever is appropriate.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any disposition of property to which section1254applies (determined without regard to this section), any deduction under paragraph(1)with respect to amounts which are allocable to such property shall, for purposes of section1254, be treated as a deduction allowable under section263(c),616(a), or617(a), whichever is appropriate."
+    },
+    "cross_references": [
+      {
+        "section": "1254a",
+        "reason": "position of property to which..."
+      },
+      {
+        "section": "1254",
+        "reason": "operty shall, for purposes of..."
+      },
+      {
+        "section": "263(c)",
+        "reason": "s a deduction allowable under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(e)(5)(A)Application Of Section 1254\u2014In the case of any disposition of property to which\n                        section1254applies\n                        (determined without regard to this section), any deduction under paragraph(1)with respect to amounts\n                        which are allocable to such property shall, for purposes of section1254, be treated as a deduction\n                        allowable under section263(c),616(a), or617(a), whichever is appropriate.",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(e)(5)(B)",
+    "source_subsections": [
+      "(e)(5)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Section 617(d)",
+    "text": "In the case of any disposition of mining property to which section617(d)applies (determined without regard to this subsection), any deduction under paragraph(1)with respect to amounts which are allocable to such property shall, for purposes of section617(d), be treated as a deduction allowable under section617(a).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any disposition of mining property to which section617(d)applies (determined without regard to this subsection), any deduction under paragraph(1)with respect to amounts which are allocable to such property shall, for purposes of section617(d), be treated as a deduction allowable under section617(a)."
+    },
+    "cross_references": [
+      {
+        "section": "617(d)",
+        "reason": "n of mining property to which..."
+      },
+      {
+        "section": "617(d)",
+        "reason": "operty shall, for purposes of..."
+      },
+      {
+        "section": "617(a)",
+        "reason": "s a deduction allowable under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(e)(5)(B)Application Of Section 617(d)\u2014In the case of any disposition of mining property to\n                        which section617(d)applies\n                        (determined without regard to this subsection), any deduction under\n                        paragraph(1)with\n                        respect to amounts which are allocable to such property shall, for\n                        purposes of section617(d),\n                        be treated as a deduction allowable under section617(a).",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(e)(6)",
+    "source_subsections": [
+      "(e)(6)"
+    ],
+    "rule_type": "condition",
+    "title": "To Which Election Apply Not Treated As Tax Preference",
+    "text": "Any portion of any qualified expenditure to which an election under paragraph(1)applies shall not be treated as an item of tax preference under section57(a)and section56shall not apply to such expenditure.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Any portion of any qualified expenditure to which an election under paragraph(1)applies shall not be treated as an item of tax preference under section57(a)and section56shall not apply to such expenditure."
+    },
+    "cross_references": [
+      {
+        "section": "57(a)",
+        "reason": "item of tax preference under..."
+      },
+      {
+        "section": "56s",
+        "reason": "and..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(e)(6)Amounts To Which Election Apply Not Treated As Tax Preference\u2014Any portion of any qualified expenditure to which an\n                     election under paragraph(1)applies\n                     shall not be treated as an item of tax preference under section57(a)and section56shall not apply to such expenditure.",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(f)",
+    "source_subsections": [
+      "(f)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "[Repealed.Pub. L. 115-97, Sec. 12001(b)(10), Dec. 22, 2017, 132 Stat. 2054.]",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "[Repealed.Pub. L. 115-97, Sec. 12001(b)(10), Dec. 22, 2017, 132 Stat. 2054.]"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(f)Repealed\u2014[Repealed.Pub. L. 115-97, Sec. 12001(b)(10),\n                  Dec. 22, 2017, 132 Stat. 2054.]",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(g)",
+    "source_subsections": [
+      "(g)"
+    ],
+    "rule_type": "condition",
+    "title": "Benefit Rule",
+    "text": "The Secretary may prescribe regulations under which differently treated items shall be properly adjusted where the tax treatment giving rise to such items will not result in the reduction of the taxpayer's regular tax for the taxable year for which the item is taken into account or for any other taxable year.",
+    "conditions": [
+      "the tax treatment giving rise to such items will not result in the reduction of the taxpayer's regular tax for the taxable year for which the item is taken into account or for any other taxable year."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the tax treatment giving rise to such items will not result in the reduction of the taxpayer's regular tax for the taxable year for which the item is taken into account or for any other taxable year."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary may prescribe regulations under which differently treated items shall be properly adjusted"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(g)Tax Benefit Rule\u2014The Secretary may prescribe regulations under which\n                  differently treated items shall be properly adjusted where the tax\n                  treatment giving rise to such items will not result in the reduction\n                  of the taxpayer's regular tax for the taxable year for which the item\n                  is taken into account or for any other taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(h)",
+    "source_subsections": [
+      "(h)"
+    ],
+    "rule_type": "limitation",
+    "title": "With Certain Limitations",
+    "text": "The limitations of sections704(d),465, and1366(d)(and such other provisions as may be specified in regulations) shall be applied for purposes of computing the alternative minimum taxable income of the taxpayer for the taxable year with the adjustments of sections56,57, and58.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The limitations of sections704(d),465, and1366(d)(and such other provisions as may be specified in regulations) shall be applied for purposes of computing the alternative minimum taxable income of the taxpayer for the taxable year with the adjustments of sections56,57, and58."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(h)Coordination With Certain Limitations\u2014The limitations of sections704(d),465, and1366(d)(and such other provisions\n                  as may be specified in regulations) shall be applied for purposes\n                  of computing the alternative minimum taxable income of the taxpayer\n                  for the taxable year with the adjustments of sections56,57,\n                  and58.",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(i)",
+    "source_subsections": [
+      "(i)"
+    ],
+    "rule_type": "limitation",
+    "title": "Rule For Amounts Treated As Tax Preference",
+    "text": "For purposes of this subtitle (other than this part), any amount shall not fail to be treated as wholly exempt from tax imposed by this subtitle solely by reason of being included in alternative minimum taxable income.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subtitle (other than this part), any amount shall not fail to be treated as wholly exempt from tax imposed by this subtitle solely by reason of being included in alternative minimum taxable income."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(i)Special Rule For Amounts Treated As Tax Preference\u2014For purposes of this subtitle (other than this part),\n                  any amount shall not fail to be treated as wholly exempt from tax\n                  imposed by this subtitle solely by reason of being included in alternative\n                  minimum taxable income.",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(j)(1)",
+    "source_subsections": [
+      "(j)(1)",
+      "(j)(1)(A)",
+      "(j)(1)(B)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "In the case of a child to whom section1(g)applies, the exemption amount for purposes of section55shall not exceed the sum of\u2014\u2014such child's earned income (as defined in section911(d)(2)) for the taxable year, plus\u2014$5,000.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 5000,
+        "text": "$5,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a child to whom section1(g)applies, the exemption amount for purposes of section55shall not exceed the sum of\u2014\u2014such child's earned income (as defined in section911(d)(2)) for the taxable year, plus\u2014$5,000."
+    },
+    "cross_references": [
+      {
+        "section": "1(g)",
+        "reason": "n the case of a child to whom..."
+      },
+      {
+        "section": "55s",
+        "reason": "mption amount for purposes of..."
+      },
+      {
+        "section": "911(d)(2)",
+        "reason": "earned income (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(j)(1)In General\u2014In the case of a child to whom section1(g)applies, the exemption amount\n                     for purposes of section55shall\n                     not exceed the sum of\u2014I.R.C. \u00a7 59(j)(1)(A)\u2014such child's earned income (as defined\n                        in section911(d)(2))\n                        for the taxable year, plusI.R.C. \u00a7 59(j)(1)(B)\u2014$5,000.",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(j)(2)",
+    "source_subsections": [
+      "(j)(2)",
+      "(j)(2)(A)",
+      "(j)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Adjustment",
+    "text": "In the case of any taxable year beginning in a calendar year after 1998, the dollar amount in paragraph(1)(B)shall be increased by an amount equal to the product of\u2014\u2014such dollar amount, and\u2014the cost-of-living adjustment determined under section1(f)(3)for the calendar year in which the taxable year begins, determined by substituting \u201c1997\u201d for \u201c2016\u201d in subparagraph(A)(ii)thereof.If any increase determined under the preceding sentence is not a multiple of $50, such increase shall be rounded to the nearest multiple of $50.",
+    "conditions": [
+      "any increase determined under the preceding sentence is not a multiple of $50, such increase shall be rounded to the nearest multiple of $50."
+    ],
+    "computations": [
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 50,
+        "text": "$50,"
+      },
+      {
+        "label": "amount",
+        "value": 50,
+        "text": "$50"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any increase determined under the preceding sentence is not a multiple of $50, such increase shall be rounded to the nearest multiple of $50."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any taxable year beginning in a calendar year after 1998, the dollar amount in paragraph(1)(B)shall be increased by an amount equal to the product of\u2014\u2014such dollar amount, and\u2014the cost-of-living adjustment determined under section1(f)(3)for the calendar year in which the taxable year begins, determined by substituting \u201c1997\u201d for \u201c2016\u201d in subparagraph(A)(ii)thereof."
+    },
+    "cross_references": [
+      {
+        "section": "1(f)(3)",
+        "reason": "g adjustment determined under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(j)(2)Inflation Adjustment\u2014In the case of any taxable year\n                     beginning in a calendar year after 1998, the dollar amount in paragraph(1)(B)shall be increased\n                     by an amount equal to the product of\u2014I.R.C. \u00a7 59(j)(2)(A)\u2014such dollar amount, andI.R.C. \u00a7 59(j)(2)(B)\u2014the cost-of-living adjustment determined\n                        under section1(f)(3)for\n                        the calendar year in which the taxable year begins, determined by\n                        substituting \u201c1997\u201d for \u201c2016\u201d in subparagraph(A)(ii)thereof.If any increase determined under\n                        the preceding sentence is not a multiple of $50, such increase shall\n                        be rounded to the nearest multiple of $50.",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(k)(1)(A)",
+    "source_subsections": [
+      "(k)(1)(A)",
+      "(k)(1)(A)(i)",
+      "(k)(1)(A)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201capplicable corporation\u201d means, with respect to any taxable year, any corporation (other than an S corporation, a regulated investment company, or a real estate investment trust) which meets the average annual adjusted financial statement income test of subparagraph (B) for one or more taxable years which\u2014\u2014are prior to such taxable year, and\u2014end after December 31, 2021.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201capplicable corporation\u201d means, with respect to any taxable year, any corporation (other than an S corporation, a regulated investment company, or a real estate investment trust) which meets the average annual adjusted financial statement income test of subparagraph (B) for one or more taxable years which\u2014\u2014are prior to such taxable year, and\u2014end after December 31, 2021."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(k)(1)(A)In General\u2014The term \u201capplicable corporation\u201d means,\n                        with respect to any taxable year, any corporation (other than an S\n                        corporation, a regulated investment company, or a real estate investment\n                        trust) which meets the average annual adjusted financial statement\n                        income test of subparagraph (B) for one or more taxable years which\u2014I.R.C. \u00a7 59(k)(1)(A)(i)\u2014are prior to such taxable year, andI.R.C. \u00a7 59(k)(1)(A)(ii)\u2014end after December 31, 2021.",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(k)(1)(B)",
+    "source_subsections": [
+      "(k)(1)(B)",
+      "(k)(1)(B)(i)",
+      "(k)(1)(B)(ii)",
+      "(k)(1)(B)(ii)(I)",
+      "(k)(1)(B)(ii)(II)"
+    ],
+    "rule_type": "condition",
+    "title": "Annual Adjusted Financial Statement Income Test",
+    "text": "For purposes of this subsection\u2014\u2014a corporation meets the average annual adjusted financial statement income test for a taxable year if the average annual adjusted financial statement income of such corporation (determined without regard to section 56A(d)) for the 3-taxable-year period ending with such taxable year exceeds $1,000,000,000, and\u2014in the case of a corporation described in paragraph (2), such corporation meets the average annual adjusted financial statement income test for a taxable year if\u2014\u2014the corporation meets the requirements of clause (i) for such taxable year (determined after the application of paragraph (2)), and\u2014the average annual adjusted financial statement income of such corporation (determined without regard to the application of paragraph (2) and without regard to section 56A(d)) for the 3-taxable-year-period ending with such taxable year is $100,000,000 or more.",
+    "conditions": [
+      "the average annual adjusted financial statement income of such corporation (determined without regard to section 56A(d)) for the 3-taxable-year period ending with such taxable year exceeds $1,000,000,000, and\u2014in the case of a corporation described in paragraph (2), such corporation meets the average annual adjusted financial statement income test for a taxable year",
+      "\u2014\u2014the corporation meets the requirements of clause (i) for such taxable year (determined after the application of paragraph (2)), and\u2014the average annual adjusted financial statement income of such corporation (determined without regard to the application of paragraph (2) and without regard to section 56A(d)) for the 3-taxable-year-period ending with such taxable year is $100,000,000 or more."
+    ],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 1000000000,
+        "text": "$1,000,000,000,"
+      },
+      {
+        "label": "amount",
+        "value": 100000000,
+        "text": "$100,000,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the average annual adjusted financial statement income of such corporation (determined without regard to section 56A(d)) for the 3-taxable-year period ending with such taxable year exceeds $1,000,000,000, and\u2014in the case of a corporation described in paragraph (2), such corporation meets the average annual adjusted financial statement income test for a taxable year",
+        "\u2014\u2014the corporation meets the requirements of clause (i) for such taxable year (determined after the application of paragraph (2)), and\u2014the average annual adjusted financial statement income of such corporation (determined without regard to the application of paragraph (2) and without regard to section 56A(d)) for the 3-taxable-year-period ending with such taxable year is $100,000,000 or more."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection\u2014\u2014a corporation meets the average annual adjusted financial statement income test for a taxable year"
+    },
+    "cross_references": [
+      {
+        "section": "56A(d)",
+        "reason": "(determined without regard to..."
+      },
+      {
+        "section": "56A(d)",
+        "reason": "aph (2) and without regard to..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(k)(1)(B)Average Annual Adjusted Financial Statement Income Test\u2014For purposes of this subsection\u2014I.R.C. \u00a7 59(k)(1)(B)(i)\u2014a corporation meets the average annual\n                           adjusted financial statement income test for a taxable year if the\n                           average annual adjusted financial statement income of such corporation\n                           (determined without regard to section 56A(d)) for the 3-taxable-year\n                           period ending with such taxable year exceeds $1,000,000,000, andI.R.C. \u00a7 59(k)(1)(B)(ii)\u2014in the case of a corporation described\n                           in paragraph (2), such corporation meets the average annual adjusted\n                           financial statement income test for a taxable year if\u2014I.R.C. \u00a7 59(k)(1)(B)(ii)(I)\u2014the corporation meets the requirements\n                              of clause (i) for such taxable year (determined after the application\n                              of paragraph (2)), andI.R.C. \u00a7 59(k)(1)(B)(ii)(II)\u2014the average annual adjusted financial\n                              statement income of such corporation (determined without regard to\n                              the application of paragraph (2) and without regard to section 56A(d))\n                              for the 3-taxable-year-period ending with such taxable year is $100,000,000\n                              or more.",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(k)(1)(C)",
+    "source_subsections": [
+      "(k)(1)(C)",
+      "(k)(1)(C)(i)",
+      "(k)(1)(C)(i)(I)",
+      "(k)(1)(C)(i)(II)",
+      "(k)(1)(C)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "Notwithstanding subparagraph (A), the term \u2018applicable corporation\u2019 shall not include any corporation which otherwise meets the requirements of subparagraph (A) if\u2014\u2014such corporation\u2014\u2014has a change in ownership, or\u2014has a specified number (to be determined by the Secretary and which shall, as appropriate, take into account the facts and circumstances of the taxpayer) of consecutive taxable years, including the most recent taxable year, in which the corporation does not meet the average annual adjusted financial statement income test of subparagraph (B), and\u2014the Secretary determines that it would not be appropriate to continue to treat such corporation as an applicable corporation.The preceding sentence shall not apply to any corporation if, after the Secretary makes the determination described in clause (ii), such corporation meets the average annual adjusted financial statement income test of subparagraph (B) for any taxable year beginning after the first taxable year for which such determination applies.",
+    "conditions": [
+      "\u2014\u2014such corporation\u2014\u2014has a change in ownership, or\u2014has a specified number (to be determined by the Secretary and which shall, as appropriate, take into account the facts and circumstances of the taxpayer) of consecutive taxable years, including the most recent taxable year, in which the corporation does not meet the average annual adjusted financial statement income test of subparagraph (B), and\u2014the Secretary determines that it would not be appropriate to continue to treat such corporation as an applicable corporation.The preceding sentence shall not apply to any corporation",
+      ", after the Secretary makes the determination described in clause (ii), such corporation meets the average annual adjusted financial statement income test of subparagraph (B) for any taxable year beginning after the first taxable year for which such determination applies."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014such corporation\u2014\u2014has a change in ownership, or\u2014has a specified number (to be determined by the Secretary and which shall, as appropriate, take into account the facts and circumstances of the taxpayer) of consecutive taxable years, including the most recent taxable year, in which the corporation does not meet the average annual adjusted financial statement income test of subparagraph (B), and\u2014the Secretary determines that it would not be appropriate to continue to treat such corporation as an applicable corporation.The preceding sentence shall not apply to any corporation",
+        ", after the Secretary makes the determination described in clause (ii), such corporation meets the average annual adjusted financial statement income test of subparagraph (B) for any taxable year beginning after the first taxable year for which such determination applies."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Notwithstanding subparagraph (A), the term \u2018applicable corporation\u2019 shall not include any corporation which otherwise meets the requirements of subparagraph (A)"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(k)(1)(C)Exception\u2014Notwithstanding subparagraph (A), the term \u2018applicable\n                        corporation\u2019 shall not include any corporation which otherwise\n                        meets the requirements of subparagraph (A) if\u2014I.R.C. \u00a7 59(k)(1)(C)(i)\u2014such corporation\u2014I.R.C. \u00a7 59(k)(1)(C)(i)(I)\u2014has a change in ownership, orI.R.C. \u00a7 59(k)(1)(C)(i)(II)\u2014has a specified number (to be determined\n                              by the Secretary and which shall, as appropriate, take into account\n                              the facts and circumstances of the taxpayer) of consecutive taxable\n                              years, including the most recent taxable year, in which the corporation\n                              does not meet the average annual adjusted financial statement income\n                              test of subparagraph (B), andI.R.C. \u00a7 59(k)(1)(C)(ii)\u2014the Secretary determines that it would\n                           not be appropriate to continue to treat such corporation as an applicable\n                           corporation.The preceding sentence shall not\n                              apply to any corporation if, after the Secretary makes the determination\n                              described in clause (ii), such corporation meets the average annual\n                              adjusted financial statement income test of subparagraph (B) for any\n                              taxable year beginning after the first taxable year for which such\n                              determination applies.",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(k)(1)(D)",
+    "source_subsections": [
+      "(k)(1)(D)"
+    ],
+    "rule_type": "condition",
+    "title": "Rules For Determining Applicable Corporation Status",
+    "text": "Solely for purposes of determining whether a corporation is an applicable corporation under this paragraph, all adjusted financial statement income of persons treated as a single employer with such corporation under subsection (a) or (b) of section 52 shall be treated as adjusted financial statement income of such corporation, and adjusted financial statement income of such corporation shall be determined without regard to paragraphs (2)(D)(i) and (11) of section 56A(c).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Solely for purposes of determining whether a corporation is an applicable corporation under this paragraph, all adjusted financial statement income of persons treated as a single employer with such corporation under subsection (a) or (b) of section 52 shall be treated as adjusted financial statement income of such corporation, and adjusted financial statement income of such corporation shall be determined without regard to paragraphs (2)(D)(i) and (11) of section 56A(c)."
+    },
+    "cross_references": [
+      {
+        "section": "52",
+        "reason": "nder subsection (a) or (b) of..."
+      },
+      {
+        "section": "56A(c)",
+        "reason": "agraphs (2)(D)(i) and (11) of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(k)(1)(D)Special Rules For Determining Applicable Corporation Status\u2014Solely for purposes of determining whether a corporation\n                        is an applicable corporation under this paragraph, all adjusted financial\n                        statement income of persons treated as a single employer with such\n                        corporation under subsection (a) or (b) of section 52 shall be treated\n                        as adjusted financial statement income of such corporation, and adjusted\n                        financial statement income of such corporation shall be determined\n                        without regard to paragraphs (2)(D)(i) and (11) of section 56A(c).",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(k)(1)(E)(i)",
+    "source_subsections": [
+      "(k)(1)(E)(i)"
+    ],
+    "rule_type": "condition",
+    "title": "In Existence For Less Than 3 Years",
+    "text": "If the corporation was in existence for less than 3-taxable years, subparagraph (B) shall be applied on the basis of the period during which such corporation was in existence.",
+    "conditions": [
+      "the corporation was in existence for less than 3-taxable years, subparagraph (B) shall be applied on the basis of the period during which such corporation was in existence."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the corporation was in existence for less than 3-taxable years, subparagraph (B) shall be applied on the basis of the period during which such corporation was in existence."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(k)(1)(E)(i)Corporations In Existence For Less Than 3 Years\u2014If the corporation was in existence for less than 3-taxable\n                           years, subparagraph (B) shall be applied on the basis of the period\n                           during which such corporation was in existence.",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(k)(1)(E)(ii)",
+    "source_subsections": [
+      "(k)(1)(E)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Taxable Years",
+    "text": "Adjusted financial statement income for any taxable year of less than 12 months shall be annualized by multiplying the adjusted financial statement income for the short period by 12 and dividing the result by the number of months in the short period.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Adjusted financial statement income for any taxable year of less than 12 months shall be annualized by multiplying the adjusted financial statement income for the short period by 12 and dividing the result by the number of months in the short period."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(k)(1)(E)(ii)Short Taxable Years\u2014Adjusted financial statement income for any taxable\n                           year of less than 12 months shall be annualized by multiplying the\n                           adjusted financial statement income for the short period by 12 and\n                           dividing the result by the number of months in the short period.",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(k)(1)(E)(iii)",
+    "source_subsections": [
+      "(k)(1)(E)(iii)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Predecessors",
+    "text": "Any reference in this subparagraph to a corporation shall include a reference to any predecessor of such corporation.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Any reference in this subparagraph to a corporation shall include a reference to any predecessor of such corporation."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(k)(1)(E)(iii)Treatment Of Predecessors\u2014Any reference in this subparagraph to a corporation\n                           shall include a reference to any predecessor of such corporation.",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(k)(2)(A)",
+    "source_subsections": [
+      "(k)(2)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "If a corporation is a member of a foreign-parented multinational group for any taxable year, then, solely for purposes of determining whether such corporation meets the average annual adjusted financial statement income test under paragraph (1)(B)(ii)(I) for such taxable year, the adjusted financial statement income of such corporation for such taxable year shall include the adjusted financial statement income of all members of such group. Solely for purposes of this subparagraph, adjusted financial statement income shall be determined without regard to paragraphs (2)(D)(i), (3), (4), and (11) of section 56A(c).",
+    "conditions": [
+      "a corporation is a member of a foreign-parented multinational group for any taxable year, then, solely for purposes of determining whether such corporation meets the average annual adjusted financial statement income test under paragraph (1)(B)(ii)(I) for such taxable year, the adjusted financial statement income of such corporation for such taxable year shall include the adjusted financial statement income of all members of such group. Solely for purposes of this subparagraph, adjusted financial statement income shall be determined without regard to paragraphs (2)(D)(i), (3), (4), and (11) of section 56A(c)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "a corporation is a member of a foreign-parented multinational group for any taxable year, then, solely for purposes of determining whether such corporation meets the average annual adjusted financial statement income test under paragraph (1)(B)(ii)(I) for such taxable year, the adjusted financial statement income of such corporation for such taxable year shall include the adjusted financial statement income of all members of such group. Solely for purposes of this subparagraph, adjusted financial statement income shall be determined without regard to paragraphs (2)(D)(i), (3), (4), and (11) of section 56A(c)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "56A(c)",
+        "reason": "(D)(i), (3), (4), and (11) of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(k)(2)(A)In General\u2014If a corporation is a member of a foreign-parented multinational\n                        group for any taxable year, then, solely for purposes of determining\n                        whether such corporation meets the average annual adjusted financial\n                        statement income test under paragraph (1)(B)(ii)(I) for such taxable\n                        year, the adjusted financial statement income of such corporation\n                        for such taxable year shall include the adjusted financial statement\n                        income of all members of such group. Solely for purposes of this subparagraph,\n                        adjusted financial statement income shall be determined without regard\n                        to paragraphs (2)(D)(i), (3), (4), and (11) of section 56A(c).",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(k)(2)(B)",
+    "source_subsections": [
+      "(k)(2)(B)",
+      "(k)(2)(B)(i)",
+      "(k)(2)(B)(ii)",
+      "(k)(2)(B)(iii)",
+      "(k)(2)(B)(iii)(I)",
+      "(k)(2)(B)(iii)(II)"
+    ],
+    "rule_type": "definition",
+    "title": "Multinational Group",
+    "text": "For purposes of subparagraph (A), the term \u2018foreign-parented multinational group\u2019 means, with respect to any taxable year, two or more entities if\u2014\u2014at least one entity is a domestic corporation and another entity is a foreign corporation,\u2014such entities are included in the same applicable financial statement with respect to such year, and\u2014either\u2014\u2014the common parent of such entities is a foreign corporation, or\u2014if there is no common parent, the entities are treated as having a common parent which is a foreign corporation under subparagraph (D).",
+    "conditions": [
+      "\u2014\u2014at least one entity is a domestic corporation and another entity is a foreign corporation,\u2014such entities are included in the same applicable financial statement with respect to such year, and\u2014either\u2014\u2014the common parent of such entities is a foreign corporation, or\u2014",
+      "there is no common parent, the entities are treated as having a common parent which is a foreign corporation under subparagraph (D)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014at least one entity is a domestic corporation and another entity is a foreign corporation,\u2014such entities are included in the same applicable financial statement with respect to such year, and\u2014either\u2014\u2014the common parent of such entities is a foreign corporation, or\u2014",
+        "there is no common parent, the entities are treated as having a common parent which is a foreign corporation under subparagraph (D)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of subparagraph (A), the term \u2018foreign-parented multinational group\u2019 means, with respect to any taxable year, two or more entities"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(k)(2)(B)Foreign-Parented Multinational Group\u2014For purposes of subparagraph (A), the term \u2018foreign-parented\n                        multinational group\u2019 means, with respect to any taxable year,\n                        two or more entities if\u2014I.R.C. \u00a7 59(k)(2)(B)(i)\u2014at least one entity is a domestic corporation\n                           and another entity is a foreign corporation,I.R.C. \u00a7 59(k)(2)(B)(ii)\u2014such entities are included in the same\n                           applicable financial statement with respect to such year, andI.R.C. \u00a7 59(k)(2)(B)(iii)\u2014either\u2014I.R.C. \u00a7 59(k)(2)(B)(iii)(I)\u2014the common parent of such entities is\n                              a foreign corporation, orI.R.C. \u00a7 59(k)(2)(B)(iii)(II)\u2014if there is no common parent, the entities\n                              are treated as having a common parent which is a foreign corporation\n                              under subparagraph (D).",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(k)(2)(C)",
+    "source_subsections": [
+      "(k)(2)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "Corporations Engaged In A Trade Or Business Within The\n                        United States",
+    "text": "For purposes of this paragraph, if a foreign corporation is engaged in a trade or business within the United States, such trade or business shall be treated as a separate domestic corporation that is wholly owned by the foreign corporation.",
+    "conditions": [
+      "a foreign corporation is engaged in a trade or business within the United States, such trade or business shall be treated as a separate domestic corporation that is wholly owned by the foreign corporation."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "a foreign corporation is engaged in a trade or business within the United States, such trade or business shall be treated as a separate domestic corporation that is wholly owned by the foreign corporation."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(k)(2)(C)Foreign Corporations Engaged In A Trade Or Business Within The\n                        United States\u2014For purposes of this paragraph, if a foreign corporation\n                        is engaged in a trade or business within the United States, such trade\n                        or business shall be treated as a separate domestic corporation that\n                        is wholly owned by the foreign corporation.",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(k)(2)(D)",
+    "source_subsections": [
+      "(k)(2)(D)",
+      "(k)(2)(D)(i)",
+      "(k)(2)(D)(ii)",
+      "(k)(2)(D)(iii)"
+    ],
+    "rule_type": "condition",
+    "title": "Rules",
+    "text": "The Secretary shall, applying the principles of this section, prescribe rules for the application of this paragraph, including rules for the determination of\u2014\u2014the entities (if any) which are to be to be treated under subparagraph (B)(iii)(II) as having a common parent which is a foreign corporation,\u2014the entities to be included in a foreign-parented multinational group, and\u2014the common parent of a foreign-parented multinational group.",
+    "conditions": [
+      "any) which are to be to be treated under subparagraph (B)(iii)(II) as having a common parent which is a foreign corporation,\u2014the entities to be included in a foreign-parented multinational group, and\u2014the common parent of a foreign-parented multinational group."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "any) which are to be to be treated under subparagraph (B)(iii)(II) as having a common parent which is a foreign corporation,\u2014the entities to be included in a foreign-parented multinational group, and\u2014the common parent of a foreign-parented multinational group."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall, applying the principles of this section, prescribe rules for the application of this paragraph, including rules for the determination of\u2014\u2014the entities ("
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(k)(2)(D)Other Rules\u2014The Secretary shall, applying the principles of this\n                        section, prescribe rules for the application of this paragraph, including\n                        rules for the determination of\u2014I.R.C. \u00a7 59(k)(2)(D)(i)\u2014the entities (if any) which are to be\n                           to be treated under subparagraph (B)(iii)(II) as having a common parent\n                           which is a foreign corporation,I.R.C. \u00a7 59(k)(2)(D)(ii)\u2014the entities to be included in a foreign-parented\n                           multinational group, andI.R.C. \u00a7 59(k)(2)(D)(iii)\u2014the common parent of a foreign-parented\n                           multinational group.",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(k)(3)",
+    "source_subsections": [
+      "(k)(3)",
+      "(k)(3)(A)",
+      "(k)(3)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Or Other Guidance",
+    "text": "The Secretary shall provide regulations or other guidance for the purposes of carrying out this subsection, including regulations or other guidance\u2014\u2014providing a simplified method for determining whether a corporation meets the requirements of paragraph (1), and\u2014addressing the application of this subsection to a corporation that experiences a change in ownership.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall provide regulations or other guidance for the purposes of carrying out this subsection, including regulations or other guidance\u2014\u2014providing a simplified method for determining whether a corporation meets the requirements of paragraph (1), and\u2014addressing the application of this subsection to a corporation that experiences a change in ownership."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(k)(3)Regulations Or Other Guidance\u2014The Secretary shall provide regulations or other guidance\n                     for the purposes of carrying out this subsection, including regulations\n                     or other guidance\u2014I.R.C. \u00a7 59(k)(3)(A)\u2014providing a simplified method for determining\n                        whether a corporation meets the requirements of paragraph (1), andI.R.C. \u00a7 59(k)(3)(B)\u2014addressing the application of this subsection\n                        to a corporation that experiences a change in ownership.",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(l)(1)",
+    "source_subsections": [
+      "(l)(1)",
+      "(l)(1)(A)",
+      "(l)(1)(A)(i)",
+      "(l)(1)(A)(i)(I)",
+      "(l)(1)(A)(i)(II)",
+      "(l)(1)(A)(ii)",
+      "(l)(1)(B)",
+      "(l)(1)(B)(i)",
+      "(l)(1)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "For purposes of this part, if an applicable corporation chooses to have the benefits of subpart A of part III of subchapter N for any taxable year, the corporate AMT foreign tax credit for the taxable year of the applicable corporation is an amount equal to sum of\u2014\u2014the lesser of\u2014the aggregate of the applicable corporation's pro rata share (as determined under section 56A(c)(3)) of the amount of income, war profits, and excess profits taxes (within the meaning of section 901) imposed by any foreign country or possession of the United States which are\u2014\u2014taken into account on the applicable financial statement of each controlled foreign corporation with respect to which the applicable corporation is a United States shareholder, and\u2014paid or accrued (for Federal income tax purposes) by each such controlled foreign corporation, or\u2014the product of the amount of the adjustment under section 56A(c)(3) and the percentage specified in section 55(b)(2)(A)(i), and\u2014in the case of an applicable corporation that is a domestic corporation, the amount of income, war profits, and excess profits taxes (within the meaning of section 901) imposed by any foreign country or possession of the United States to the extent such taxes are\u2014\u2014taken into account on the applicable corporation's applicable financial statement, and\u2014paid or accrued (for Federal income tax purposes) by the applicable corporation.",
+    "conditions": [
+      "an applicable corporation chooses to have the benefits of subpart A of part III of subchapter N for any taxable year, the corporate AMT foreign tax credit for the taxable year of the applicable corporation is an amount equal to sum of\u2014\u2014the lesser of\u2014the aggregate of the applicable corporation's pro rata share (as determined under section 56A(c)(3)) of the amount of income, war profits, and excess profits taxes (within the meaning of section 901) imposed by any foreign country or possession of the United States which are\u2014\u2014taken into account on the applicable financial statement of each controlled foreign corporation with respect to which the applicable corporation is a United States shareholder, and\u2014paid or accrued (for Federal income tax purposes) by each such controlled foreign corporation, or\u2014the product of the amount of the adjustment under section 56A(c)(3) and the percentage specified in section 55(b)(2)(A)(i), and\u2014in the case of an applicable corporation that is a domestic corporation, the amount of income, war profits, and excess profits taxes (within the meaning of section 901) imposed by any foreign country or possession of the United States to the extent such taxes are\u2014\u2014taken into account on the applicable corporation's applicable financial statement, and\u2014paid or accrued (for Federal income tax purposes) by the applicable corporation."
+    ],
+    "computations": [
+      {
+        "operation": "min",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      },
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      },
+      {
+        "operation": "multiply",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "an applicable corporation chooses to have the benefits of subpart A of part III of subchapter N for any taxable year, the corporate AMT foreign tax credit for the taxable year of the applicable corporation is an amount equal to sum of\u2014\u2014the lesser of\u2014the aggregate of the applicable corporation's pro rata share (as determined under section 56A(c)(3)) of the amount of income, war profits, and excess profits taxes (within the meaning of section 901) imposed by any foreign country or possession of the United States which are\u2014\u2014taken into account on the applicable financial statement of each controlled foreign corporation with respect to which the applicable corporation is a United States shareholder, and\u2014paid or accrued (for Federal income tax purposes) by each such controlled foreign corporation, or\u2014the product of the amount of the adjustment under section 56A(c)(3) and the percentage specified in section 55(b)(2)(A)(i), and\u2014in the case of an applicable corporation that is a domestic corporation, the amount of income, war profits, and excess profits taxes (within the meaning of section 901) imposed by any foreign country or possession of the United States to the extent such taxes are\u2014\u2014taken into account on the applicable corporation's applicable financial statement, and\u2014paid or accrued (for Federal income tax purposes) by the applicable corporation."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this part,"
+    },
+    "cross_references": [
+      {
+        "section": "56A(c)(3)",
+        "reason": "ta share (as determined under..."
+      },
+      {
+        "section": "901",
+        "reason": "taxes (within the meaning of..."
+      },
+      {
+        "section": "56A(c)(3)",
+        "reason": "mount of the adjustment under..."
+      },
+      {
+        "section": "55(b)(2)(A)(i)",
+        "reason": "d the percentage specified in..."
+      },
+      {
+        "section": "901",
+        "reason": "taxes (within the meaning of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(l)(1)In General\u2014For purposes of this part, if an applicable corporation\n                     chooses to have the benefits of subpart A of part III of subchapter\n                     N for any taxable year, the corporate AMT foreign tax credit for the\n                     taxable year of the applicable corporation is an amount equal to sum\n                     of\u2014I.R.C. \u00a7 59(l)(1)(A)\u2014the lesser ofI.R.C. \u00a7 59(l)(1)(A)(i)\u2014the aggregate of the applicable corporation's\n                           pro rata share (as determined under section 56A(c)(3)) of the amount\n                           of income, war profits, and excess profits taxes (within the meaning\n                           of section 901) imposed by any foreign country or possession of the\n                           United States which are\u2014I.R.C. \u00a7 59(l)(1)(A)(i)(I)\u2014taken into account on the applicable\n                              financial statement of each controlled foreign corporation with respect\n                              to which the applicable corporation is a United States shareholder,\n                              andI.R.C. \u00a7 59(l)(1)(A)(i)(II)\u2014paid or accrued (for Federal income\n                              tax purposes) by each such controlled foreign corporation, orI.R.C. \u00a7 59(l)(1)(A)(ii)\u2014the product of the amount of the adjustment\n                           under section 56A(c)(3) and the percentage specified in section 55(b)(2)(A)(i),\n                           andI.R.C. \u00a7 59(l)(1)(B)\u2014in the case of an applicable corporation\n                        that is a domestic corporation, the amount of income, war profits,\n                        and excess profits taxes (within the meaning of section 901) imposed\n                        by any foreign country or possession of the United States to the extent\n                        such taxes are\u2014I.R.C. \u00a7 59(l)(1)(B)(i)\u2014taken into account on the applicable\n                           corporation's applicable financial statement, andI.R.C. \u00a7 59(l)(1)(B)(ii)\u2014paid or accrued (for Federal income\n                           tax purposes) by the applicable corporation.",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(l)(2)",
+    "source_subsections": [
+      "(l)(2)"
+    ],
+    "rule_type": "computation",
+    "title": "Of Excess Tax Paid",
+    "text": "For any taxable year for which an applicable corporation chooses to have the benefits of subpart A of part III of subchapter N, the excess of the amount described in paragraph (1)(A)(i) over the amount described in paragraph (1)(A)(ii) shall increase the amount described in paragraph (1)(A)(i) in any of the first 5 succeeding taxable years to the extent not taken into account in a prior taxable year.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "subtraction",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For any taxable year for which an applicable corporation chooses to have the benefits of subpart A of part III of subchapter N, the excess of the amount described in paragraph (1)(A)(i) over the amount described in paragraph (1)(A)(ii) shall increase the amount described in paragraph (1)(A)(i) in any of the first 5 succeeding taxable years to the extent not taken into account in a prior taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(l)(2)Carryover Of Excess Tax Paid\u2014For any taxable year for which an applicable corporation\n                     chooses to have the benefits of subpart A of part III of subchapter\n                     N, the excess of the amount described in paragraph (1)(A)(i) over\n                     the amount described in paragraph (1)(A)(ii) shall increase the amount\n                     described in paragraph (1)(A)(i) in any of the first 5 succeeding\n                     taxable years to the extent not taken into account in a prior taxable\n                     year.",
+    "definitions": null
+  },
+  {
+    "section": "59",
+    "subsection": "(l)(3)",
+    "source_subsections": [
+      "(l)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Or Other Guidance",
+    "text": "The Secretary shall provide for such regulations or other guidance as is necessary to carry out the purposes of this subsection.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary shall provide for such regulations or other guidance as is necessary to carry out the purposes of this subsection."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 59(l)(3)Regulations Or Other Guidance\u2014The Secretary shall provide for such regulations or\n                     other guidance as is necessary to carry out the purposes of this subsection.",
+    "definitions": null
+  }
+]

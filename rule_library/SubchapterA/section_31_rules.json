@@ -1,0 +1,164 @@
+[
+  {
+    "section": "31",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The amount withheld as tax under chapter 24 shall be allowed to the recipient of the income as a credit against the tax imposed by this subtitle.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount withheld as tax under chapter 24 shall be allowed to the recipient of the income as a credit against the tax imposed by this subtitle."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 31(a)(1)In General\u2014The  amount withheld as tax under chapter 24 shall be allowed to the recipient  of\n                     the income as a credit against the tax imposed by this subtitle.",
+    "definitions": null
+  },
+  {
+    "section": "31",
+    "subsection": "(a)(2)",
+    "source_subsections": [
+      "(a)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Credit",
+    "text": "The amount so withheld during any calendar year shall be allowed as a credit for the taxable year beginning in such calendar year. If more than one taxable year begins in a calendar year, such amount shall be allowed as a credit for the last taxable year so beginning.",
+    "conditions": [
+      "more than one taxable year begins in a calendar year, such amount shall be allowed as a credit for the last taxable year so beginning."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "more than one taxable year begins in a calendar year, such amount shall be allowed as a credit for the last taxable year so beginning."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount so withheld during any calendar year shall be allowed as a credit for the taxable year beginning in such calendar year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 31(a)(2)Year Of Credit\u2014The  amount so withheld during any calendar year shall be allowed as a credit  for\n                     the taxable year beginning in such calendar year. If more than one  taxable year begins\n                     in a calendar year, such amount shall be allowed as a  credit for the last taxable\n                     year so beginning.",
+    "definitions": null
+  },
+  {
+    "section": "31",
+    "subsection": "(b)(1)",
+    "source_subsections": [
+      "(b)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The Secretary may prescribe regulations providing for the crediting against the tax imposed by this subtitle of the amount determined by the taxpayer or the Secretary to be allowable under section6413(c)as a special refund of tax imposed on wages. The amount allowed as a credit under such regulations shall, for purposes of this subtitle, be considered an amount withheld at source as tax under section3402.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary may prescribe regulations providing for the crediting against the tax imposed by this subtitle of the amount determined by the taxpayer or the Secretary to be allowable under section6413(c)as a special refund of tax imposed on wages. The amount allowed as a credit under such regulations shall, for purposes of this subtitle, be considered an amount withheld at source as tax under section3402."
+    },
+    "cross_references": [
+      {
+        "section": "6413(c)",
+        "reason": "cretary to be allowable under..."
+      },
+      {
+        "section": "3402",
+        "reason": "thheld at source as tax under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 31(b)(1)In General\u2014The  Secretary may prescribe regulations providing for the crediting against  the\n                     tax imposed by this subtitle of the amount determined by the taxpayer  or the Secretary\n                     to be allowable under section6413(c)as a special refund  of tax imposed on wages. The amount allowed as a credit under\n                     such  regulations shall, for purposes of this subtitle, be considered an amount  withheld\n                     at source as tax under section3402.",
+    "definitions": null
+  },
+  {
+    "section": "31",
+    "subsection": "(b)(2)",
+    "source_subsections": [
+      "(b)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Credit",
+    "text": "Any amount to which paragraph(1)applies shall be allowed as a credit for the taxable year beginning in the calendar year during which the wages were received. If more than one taxable year begins in the calendar year, such amount shall be allowed as a credit for the last taxable year so beginning.",
+    "conditions": [
+      "more than one taxable year begins in the calendar year, such amount shall be allowed as a credit for the last taxable year so beginning."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "more than one taxable year begins in the calendar year, such amount shall be allowed as a credit for the last taxable year so beginning."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Any amount to which paragraph(1)applies shall be allowed as a credit for the taxable year beginning in the calendar year during which the wages were received."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 31(b)(2)Year Of Credit\u2014Any  amount to which paragraph(1)applies shall be allowed as a credit for the  taxable year beginning in the calendar\n                     year during which the wages were  received. If more than one taxable year begins in\n                     the calendar year, such  amount shall be allowed as a credit for the last taxable\n                     year so  beginning.",
+    "definitions": null
+  },
+  {
+    "section": "31",
+    "subsection": "(c)",
+    "source_subsections": [
+      "(c)"
+    ],
+    "rule_type": "condition",
+    "title": "Rule For Backup Withholding",
+    "text": "Any credit allowed by subsection(a)for any amount withheld under section3406shall be allowed for the taxable year of the recipient of the income in which the income is received.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Any credit allowed by subsection(a)for any amount withheld under section3406shall be allowed for the taxable year of the recipient of the income in which the income is received."
+    },
+    "cross_references": [
+      {
+        "section": "3406s",
+        "reason": "for any amount withheld under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 31(c)Special Rule For Backup Withholding\u2014Any  credit allowed by subsection(a)for any amount withheld under section3406shall be allowed for the taxable year of the recipient of the income  in which the\n                  income is received.",
+    "definitions": null
+  }
+]

@@ -1,0 +1,1931 @@
+[
+  {
+    "section": "40",
+    "subsection": "(a)",
+    "source_subsections": [
+      "(a)",
+      "(a)(1)",
+      "(a)(2)",
+      "(a)(3)",
+      "(a)(4)"
+    ],
+    "rule_type": "computation",
+    "title": "Rule",
+    "text": "For purposes of section38, the alcohol fuels credit determined under this section for the taxable year is an amount equal to the sum of\u2014\u2014the alcohol mixture credit,\u2014the alcohol credit,\u2014in the case of an eligible small ethanol producer, the small ethanol producer credit, plus\u2014the second generation biofuel producer credit.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of section38, the alcohol fuels credit determined under this section for the taxable year is an amount equal to the sum of\u2014\u2014the alcohol mixture credit,\u2014the alcohol credit,\u2014in the case of an eligible small ethanol producer, the small ethanol producer credit, plus\u2014the second generation biofuel producer credit."
+    },
+    "cross_references": [
+      {
+        "section": "38",
+        "reason": "For purposes of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(a)General Rule\u2014For purposes of section38, the alcohol fuels credit determined under this section for the taxable year is an\n                  amount equal to the sum of\u2014I.R.C. \u00a7 40(a)(1)\u2014the alcohol mixture credit,I.R.C. \u00a7 40(a)(2)\u2014the alcohol credit,I.R.C. \u00a7 40(a)(3)\u2014in the case of an eligible small ethanol producer, the small ethanol producer credit,\n                     plusI.R.C. \u00a7 40(a)(4)\u2014the second generation biofuel producer credit.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(b)(1)(A)",
+    "source_subsections": [
+      "(b)(1)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The alcohol mixture credit of any taxpayer for any taxable year is 60 cents for each gallon of alcohol used by the taxpayer in the production of a qualified mixture.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The alcohol mixture credit of any taxpayer for any taxable year is 60 cents for each gallon of alcohol used by the taxpayer in the production of a qualified mixture."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(b)(1)(A)In General\u2014The alcohol mixture credit of any taxpayer for any taxable year is 60 cents for each\n                        gallon of alcohol used by the taxpayer in the production of a qualified mixture.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(b)(1)(B)",
+    "source_subsections": [
+      "(b)(1)(B)",
+      "(b)(1)(B)(i)",
+      "(b)(1)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Mixture",
+    "text": "The term \u201cqualified mixture\u201d means a mixture of alcohol and gasoline or of alcohol and a special fuel which\u2014\u2014is sold by the taxpayer producing such mixture to any person for use as a fuel, or\u2014is used as a fuel by the taxpayer producing such mixture.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201cqualified mixture\u201d means a mixture of alcohol and gasoline or of alcohol and a special fuel which\u2014\u2014is sold by the taxpayer producing such mixture to any person for use as a fuel, or\u2014is used as a fuel by the taxpayer producing such mixture."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(b)(1)(B)Qualified Mixture\u2014The term \u201cqualified mixture\u201d means a mixture of alcohol and gasoline or of alcohol\n                        and a special fuel which\u2014I.R.C. \u00a7 40(b)(1)(B)(i)\u2014is sold by the taxpayer producing such mixture to any person for use as a fuel, orI.R.C. \u00a7 40(b)(1)(B)(ii)\u2014is used as a fuel by the taxpayer producing such mixture.",
+    "definitions": {
+      "term": "qualified mixture",
+      "requirements": [
+        "a mixture of alcohol and gasoline or of alcohol and a special fuel which\u2014\u2014is sold by the taxpayer producing such mixture to any person for use as a fuel, or\u2014is used as a fuel by the taxpayer producing such mixture."
+      ]
+    }
+  },
+  {
+    "section": "40",
+    "subsection": "(b)(1)(C)",
+    "source_subsections": [
+      "(b)(1)(C)",
+      "(b)(1)(C)(i)",
+      "(b)(1)(C)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Or Use Must Be In Trade Or Business, Etc.",
+    "text": "Alcohol used in the production of a qualified mixture shall be taken into account\u2014\u2014only if the sale or use described in subparagraph(B)is in a trade or business of the taxpayer, and\u2014for the taxable year in which such sale or use occurs.",
+    "conditions": [
+      "the sale or use described in subparagraph(B)is in a trade or business of the taxpayer, and\u2014for the taxable year in which such sale or use occurs."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the sale or use described in subparagraph(B)is in a trade or business of the taxpayer, and\u2014for the taxable year in which such sale or use occurs."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Alcohol used in the production of a qualified mixture shall be taken into account\u2014\u2014only"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(b)(1)(C)Sale Or Use Must Be In Trade Or Business, Etc.\u2014Alcohol used in the production of a qualified mixture shall be taken into account\u2014I.R.C. \u00a7 40(b)(1)(C)(i)\u2014only if the sale or use described in subparagraph(B)is in a trade or business of the taxpayer, andI.R.C. \u00a7 40(b)(1)(C)(ii)\u2014for the taxable year in which such sale or use occurs.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(b)(1)(D)",
+    "source_subsections": [
+      "(b)(1)(D)"
+    ],
+    "rule_type": "condition",
+    "title": "Off",
+    "text": "Farm Production Not Eligible\u2014No credit shall be allowed under this section with respect to any casual off-farm production of a qualified mixture.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Farm Production Not Eligible\u2014No credit shall be allowed under this section with respect to any casual off-farm production of a qualified mixture."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(b)(1)(D)Casual Off-Farm Production Not Eligible\u2014No credit shall be allowed under this section with respect to any casual off-farm\n                        production of a qualified mixture.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(b)(2)(A)",
+    "source_subsections": [
+      "(b)(2)(A)",
+      "(b)(2)(A)(i)",
+      "(b)(2)(A)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The alcohol credit of any taxpayer for any taxable year is 60 cents for each gallon of alcohol which is not in a mixture with gasoline or a special fuel (other than any denaturant) and which during the taxable year\u2014\u2014is used by the taxpayer as a fuel in a trade or business, or\u2014is sold by the taxpayer at retail to a person and placed in the fuel tank of such person's vehicle.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The alcohol credit of any taxpayer for any taxable year is 60 cents for each gallon of alcohol which is not in a mixture with gasoline or a special fuel (other than any denaturant) and which during the taxable year\u2014\u2014is used by the taxpayer as a fuel in a trade or business, or\u2014is sold by the taxpayer at retail to a person and placed in the fuel tank of such person's vehicle."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(b)(2)(A)In General\u2014The alcohol credit of any taxpayer for any taxable year is 60 cents for each gallon\n                        of alcohol which is not in a mixture with gasoline or a special fuel (other than any\n                        denaturant) and which during the taxable year\u2014I.R.C. \u00a7 40(b)(2)(A)(i)\u2014is used by the taxpayer as a fuel in a trade or business, orI.R.C. \u00a7 40(b)(2)(A)(ii)\u2014is sold by the taxpayer at retail to a person and placed in the fuel tank of such\n                           person's vehicle.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(b)(2)(B)",
+    "source_subsections": [
+      "(b)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Credit Not To Apply To Alcohol Sold At Retail",
+    "text": "No credit shall be allowed under subparagraph (A)(i) with respect to any alcohol which was sold in a retail sale described in subparagraph (A)(ii).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be allowed under subparagraph (A)(i) with respect to any alcohol which was sold in a retail sale described in subparagraph (A)(ii)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(b)(2)(B)User Credit Not To Apply To Alcohol Sold At Retail\u2014No credit shall be allowed under subparagraph (A)(i) with respect to any alcohol which\n                        was sold in a retail sale described in subparagraph (A)(ii).",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(b)(3)",
+    "source_subsections": [
+      "(b)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Credit For Lower Proof Alcohol",
+    "text": "In the case of any alcohol with a proof which is at least 150 but less than 190, paragraphs (1)(A) and (2)(A) shall be applied by substituting \u201c45 cents\u201d for \u201c60 cents\u201d.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any alcohol with a proof which is at least 150 but less than 190, paragraphs (1)(A) and (2)(A) shall be applied by substituting \u201c45 cents\u201d for \u201c60 cents\u201d."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(b)(3)Smaller Credit For Lower Proof Alcohol\u2014In the case of any alcohol with a proof which is at least 150 but less than 190, paragraphs\n                     (1)(A) and (2)(A) shall be applied by substituting \u201c45 cents\u201d for \u201c60 cents\u201d.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(b)(4)(A)",
+    "source_subsections": [
+      "(b)(4)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "The small ethanol producer credit of any eligible small ethanol producer for any taxable year is 10 cents for each gallon of qualified ethanol fuel production of such producer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The small ethanol producer credit of any eligible small ethanol producer for any taxable year is 10 cents for each gallon of qualified ethanol fuel production of such producer."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(b)(4)(A)In General\u2014The small ethanol producer credit of any eligible small ethanol producer for any taxable\n                        year is 10 cents for each gallon of qualified ethanol fuel production of such producer.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(b)(4)(B)",
+    "source_subsections": [
+      "(b)(4)(B)",
+      "(b)(4)(B)(i)",
+      "(b)(4)(B)(i)(I)",
+      "(b)(4)(B)(i)(II)",
+      "(b)(4)(B)(i)(III)",
+      "(b)(4)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Ethanol Fuel Production",
+    "text": "For purposes of this paragraph, the term \u201cqualified ethanol fuel production\u201d means any alcohol which is ethanol which is produced by an eligible small ethanol producer, and which during the taxable year\u2014\u2014is sold by such producer to another person\u2014\u2014for use by such other person in the production of a qualified mixture in such other person's trade or business (other than casual off-farm production),\u2014for use by such other person as a fuel in a trade or business, or\u2014who sells such ethanol at retail to another person and places such ethanol in the fuel tank of such other person, or\u2014is used or sold by such producer for any purpose described in clause (i).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the term \u201cqualified ethanol fuel production\u201d means any alcohol which is ethanol which is produced by an eligible small ethanol producer, and which during the taxable year\u2014\u2014is sold by such producer to another person\u2014\u2014for use by such other person in the production of a qualified mixture in such other person's trade or business (other than casual off-farm production),\u2014for use by such other person as a fuel in a trade or business, or\u2014who sells such ethanol at retail to another person and places such ethanol in the fuel tank of such other person, or\u2014is used or sold by such producer for any purpose described in clause (i)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(b)(4)(B)Qualified Ethanol Fuel Production\u2014For purposes of this paragraph, the term \u201cqualified ethanol fuel production\u201d means\n                        any alcohol which is ethanol which is produced by an eligible small ethanol producer,\n                        and which during the taxable year\u2014I.R.C. \u00a7 40(b)(4)(B)(i)\u2014is sold by such producer to another person\u2014I.R.C. \u00a7 40(b)(4)(B)(i)(I)\u2014for use by such other person in the production of a qualified mixture in such other\n                              person's trade or business (other than casual off-farm production),I.R.C. \u00a7 40(b)(4)(B)(i)(II)\u2014for use by such other person as a fuel in a trade or business, orI.R.C. \u00a7 40(b)(4)(B)(i)(III)\u2014who sells such ethanol at retail to another person and places such ethanol in the\n                              fuel tank of such other person, orI.R.C. \u00a7 40(b)(4)(B)(ii)\u2014is used or sold by such producer for any purpose described in clause (i).",
+    "definitions": {
+      "term": "qualified ethanol fuel production",
+      "requirements": [
+        "any alcohol which is ethanol which is produced by an eligible small ethanol producer, and which during the taxable year\u2014\u2014is sold by such producer to another person\u2014\u2014for use by such other person in the production of a qualified mixture in such other person's trade or business (other than casual off-farm production),\u2014for use by such other person as a fuel in a trade or business, or\u2014who sells such ethanol at retail to another person and places such ethanol in the fuel tank of such other person, or\u2014is used or sold by such producer for any purpose described in clause (i)."
+      ]
+    }
+  },
+  {
+    "section": "40",
+    "subsection": "(b)(4)(C)",
+    "source_subsections": [
+      "(b)(4)(C)"
+    ],
+    "rule_type": "limitation",
+    "title": null,
+    "text": "The qualified ethanol fuel production of any producer for any taxable year shall not exceed 15,000,000 gallons (determined without regard to any qualified second generation biofuel production).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The qualified ethanol fuel production of any producer for any taxable year shall not exceed 15,000,000 gallons (determined without regard to any qualified second generation biofuel production)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(b)(4)(C)Limitation\u2014The qualified ethanol fuel production of any producer for any taxable year shall not\n                        exceed 15,000,000 gallons (determined without regard to any qualified second generation\n                        biofuel production).",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(b)(4)(D)",
+    "source_subsections": [
+      "(b)(4)(D)"
+    ],
+    "rule_type": "condition",
+    "title": "Distillation Excluded",
+    "text": "The qualified ethanol fuel production of any producer for any taxable year shall not include any alcohol which is purchased by the producer and with respect to which such producer increases the proof of the alcohol by additional distillation.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The qualified ethanol fuel production of any producer for any taxable year shall not include any alcohol which is purchased by the producer and with respect to which such producer increases the proof of the alcohol by additional distillation."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(b)(4)(D)Additional Distillation Excluded\u2014The qualified ethanol fuel production of any producer for any taxable year shall not\n                        include any alcohol which is purchased by the producer and with respect to which such\n                        producer increases the proof of the alcohol by additional distillation.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(b)(5)",
+    "source_subsections": [
+      "(b)(5)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Denaturants Not Treated As Mixture",
+    "text": "The adding of any denaturant to alcohol shall not be treated as the production of a mixture.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The adding of any denaturant to alcohol shall not be treated as the production of a mixture."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(b)(5)Adding Of Denaturants Not Treated As Mixture\u2014The adding of any denaturant to alcohol shall not be treated as the production of\n                     a mixture.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(b)(6)(A)",
+    "source_subsections": [
+      "(b)(6)(A)"
+    ],
+    "rule_type": "computation",
+    "title": "General",
+    "text": "The second generation biofuel producer credit of any taxpayer is an amount equal to the applicable amount for each gallon of qualified second generation biofuel production.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The second generation biofuel producer credit of any taxpayer is an amount equal to the applicable amount for each gallon of qualified second generation biofuel production."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(b)(6)(A)In General\u2014The second generation biofuel producer credit of any taxpayer is an amount equal to\n                        the applicable amount for each gallon of qualified second generation biofuel production.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(b)(6)(B)",
+    "source_subsections": [
+      "(b)(6)(B)",
+      "(b)(6)(B)(i)",
+      "(b)(6)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Amount",
+    "text": "For purposes of subparagraph (A), the applicable amount means $1.01, except that such amount shall, in the case of second generation biofuel which is alcohol, be reduced by the sum of\u2014\u2014the amount of the credit in effect for such alcohol under subsection (b)(1) (without regard to subsection (b)(3)) at the time of the qualified second generation biofuel production, plus\u2014in the case of ethanol, the amount of the credit in effect under subsection (b)(4) at the time of such production.",
+    "conditions": [],
+    "computations": [
+      {
+        "operation": "sum",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 1,
+        "text": "$1"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "that such amount shall, in the case of second generation biofuel which is alcohol, be reduced by the sum of\u2014\u2014the amount of the credit in effect for such alcohol under subsection (b)(1) (without regard to subsection (b)(3)) at the time of the qualified second generation biofuel production, plus\u2014in the case of ethanol, the amount of the credit in effect under subsection (b)(4) at the time of such production."
+      ],
+      "result": "For purposes of subparagraph (A), the applicable amount means $1.01,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(b)(6)(B)Applicable Amount\u2014For purposes of subparagraph (A), the applicable amount means $1.01, except that such\n                        amount shall, in the case of second generation biofuel which is alcohol, be reduced\n                        by the sum of\u2014I.R.C. \u00a7 40(b)(6)(B)(i)\u2014the amount of the credit in effect for such alcohol under subsection (b)(1) (without\n                           regard to subsection (b)(3)) at the time of the qualified second generation biofuel\n                           production, plusI.R.C. \u00a7 40(b)(6)(B)(ii)\u2014in the case of ethanol, the amount of the credit in effect under subsection (b)(4)\n                           at the time of such production.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(b)(6)(C)",
+    "source_subsections": [
+      "(b)(6)(C)",
+      "(b)(6)(C)(i)",
+      "(b)(6)(C)(i)(I)",
+      "(b)(6)(C)(i)(II)",
+      "(b)(6)(C)(i)(III)",
+      "(b)(6)(C)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Second Generation Biofuel Production",
+    "text": "For purposes of this section, the term \u201cqualified second generation biofuel production\u201d means any second generation biofuel which is produced by the taxpayer, and which during the taxable year\u2014\u2014is sold by the taxpayer to another person\u2014\u2014for use by such other person in the production of a qualified second generation biofuel mixture in such other person's trade or business (other than casual off-farm production),\u2014for use by such other person as a fuel in a trade or business, or\u2014who sells such second generation biofuel at retail to another person and places such second generation biofuel in the fuel tank of such other person, or\u2014is used or sold by the taxpayer for any purpose described in clause (i).The qualified second generation biofuel production of any taxpayer for any taxable year shall not include any alcohol which is purchased by the taxpayer and with respect to which such producer increases the proof of the alcohol by additional distillation.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this section, the term \u201cqualified second generation biofuel production\u201d means any second generation biofuel which is produced by the taxpayer, and which during the taxable year\u2014\u2014is sold by the taxpayer to another person\u2014\u2014for use by such other person in the production of a qualified second generation biofuel mixture in such other person's trade or business (other than casual off-farm production),\u2014for use by such other person as a fuel in a trade or business, or\u2014who sells such second generation biofuel at retail to another person and places such second generation biofuel in the fuel tank of such other person, or\u2014is used or sold by the taxpayer for any purpose described in clause (i).The qualified second generation biofuel production of any taxpayer for any taxable year shall not include any alcohol which is purchased by the taxpayer and with respect to which such producer increases the proof of the alcohol by additional distillation."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(b)(6)(C)Qualified Second Generation Biofuel Production\u2014For purposes of this section, the term \u201cqualified second generation biofuel production\u201d\n                        means any second generation biofuel which is produced by the taxpayer, and which during\n                        the taxable year\u2014I.R.C. \u00a7 40(b)(6)(C)(i)\u2014is sold by the taxpayer to another person\u2014I.R.C. \u00a7 40(b)(6)(C)(i)(I)\u2014for use by such other person in the production of a qualified second generation biofuel\n                              mixture in such other person's trade or business (other than casual off-farm production),I.R.C. \u00a7 40(b)(6)(C)(i)(II)\u2014for use by such other person as a fuel in a trade or business, orI.R.C. \u00a7 40(b)(6)(C)(i)(III)\u2014who sells such second generation biofuel at retail to another person and places such\n                              second generation biofuel in the fuel tank of such other person, orI.R.C. \u00a7 40(b)(6)(C)(ii)\u2014is used or sold by the taxpayer for any purpose described in clause (i).The qualified second generation biofuel production of any taxpayer for any taxable\n                           year shall not include any alcohol which is purchased by the taxpayer and with respect\n                           to which such producer increases the proof of the alcohol by additional distillation.",
+    "definitions": {
+      "term": "qualified second generation biofuel production",
+      "requirements": [
+        "any second generation biofuel which is produced by the taxpayer, and which during the taxable year\u2014\u2014is sold by the taxpayer to another person\u2014\u2014for use by such other person in the production of a qualified second generation biofuel mixture in such other person's trade or business (other than casual off-farm production),\u2014for use by such other person as a fuel in a trade or business, or\u2014who sells such second generation biofuel at retail to another person and places such second generation biofuel in the fuel tank of such other person, or\u2014is used or sold by the taxpayer for any purpose described in clause (i).The qualified second generation biofuel production of any taxpayer for any taxable year shall not include any alcohol which is purchased by the taxpayer and with respect to which such producer increases the proof of the alcohol by additional distillation."
+      ]
+    }
+  },
+  {
+    "section": "40",
+    "subsection": "(b)(6)(D)",
+    "source_subsections": [
+      "(b)(6)(D)",
+      "(b)(6)(D)(i)",
+      "(b)(6)(D)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Second Generation Biofuel Mixture",
+    "text": "For purposes of this paragraph, the term \u201cqualified second generation biofuel mixture\u201d means a mixture of second generation biofuel and gasoline or of second generation biofuel and a special fuel which\u2014\u2014is sold by the person producing such mixture to any person for use as a fuel, or\u2014is used as a fuel by the person producing such mixture.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the term \u201cqualified second generation biofuel mixture\u201d means a mixture of second generation biofuel and gasoline or of second generation biofuel and a special fuel which\u2014\u2014is sold by the person producing such mixture to any person for use as a fuel, or\u2014is used as a fuel by the person producing such mixture."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(b)(6)(D)Qualified Second Generation Biofuel Mixture\u2014For purposes of this paragraph, the term \u201cqualified second generation biofuel mixture\u201d\n                        means a mixture of second generation biofuel and gasoline or of second generation\n                        biofuel and a special fuel which\u2014I.R.C. \u00a7 40(b)(6)(D)(i)\u2014is sold by the person producing such mixture to any person for use as a fuel, orI.R.C. \u00a7 40(b)(6)(D)(ii)\u2014is used as a fuel by the person producing such mixture.",
+    "definitions": {
+      "term": "qualified second generation biofuel mixture",
+      "requirements": [
+        "a mixture of second generation biofuel and gasoline or of second generation biofuel and a special fuel which\u2014\u2014is sold by the person producing such mixture to any person for use as a fuel, or\u2014is used as a fuel by the person producing such mixture."
+      ]
+    }
+  },
+  {
+    "section": "40",
+    "subsection": "(b)(6)(E)(i)",
+    "source_subsections": [
+      "(b)(6)(E)(i)",
+      "(b)(6)(E)(i)(I)",
+      "(b)(6)(E)(i)(II)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201csecond generation biofuel\u201d means any liquid fuel which\u2014\u2014is derived by, or from, qualified feedstocks, and\u2014meets the registration requirements for fuels and fuel additives established by the Environmental Protection Agency under section 211 of the Clean Air Act (42 U.S.C. 7545).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201csecond generation biofuel\u201d means any liquid fuel which\u2014\u2014is derived by, or from, qualified feedstocks, and\u2014meets the registration requirements for fuels and fuel additives established by the Environmental Protection Agency under section 211 of the Clean Air Act (42 U.S.C. 7545)."
+    },
+    "cross_references": [
+      {
+        "section": "211",
+        "reason": "ental Protection Agency under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(b)(6)(E)(i)In General\u2014The term \u201csecond generation biofuel\u201d means any liquid fuel which\u2014I.R.C. \u00a7 40(b)(6)(E)(i)(I)\u2014is derived by, or from, qualified feedstocks, andI.R.C. \u00a7 40(b)(6)(E)(i)(II)\u2014meets the registration requirements for fuels and fuel additives established by the\n                              Environmental Protection Agency under section 211 of the Clean Air Act (42 U.S.C. 7545).",
+    "definitions": {
+      "term": "second generation biofuel",
+      "requirements": [
+        "any liquid fuel which\u2014\u2014is derived by, or from, qualified feedstocks, and\u2014meets the registration requirements for fuels and fuel additives established by the Environmental Protection Agency under section 211 of the Clean Air Act (42 U.S.C. 7545)."
+      ]
+    }
+  },
+  {
+    "section": "40",
+    "subsection": "(b)(6)(E)(ii)",
+    "source_subsections": [
+      "(b)(6)(E)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Of Low",
+    "text": "Proof Alcohol\u2014The term \u201csecond generation biofuel\u201d shall not include any alcohol with a proof of less than 150. The determination of the proof of any alcohol shall be made without regard to any added denaturants.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Proof Alcohol\u2014The term \u201csecond generation biofuel\u201d shall not include any alcohol with a proof of less than 150. The determination of the proof of any alcohol shall be made without regard to any added denaturants."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(b)(6)(E)(ii)Exclusion Of Low-Proof Alcohol\u2014The term \u201csecond generation biofuel\u201d shall not include any alcohol with a proof of\n                           less than 150. The determination of the proof of any alcohol shall be made without\n                           regard to any added denaturants.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(b)(6)(E)(iii)",
+    "source_subsections": [
+      "(b)(6)(E)(iii)",
+      "(b)(6)(E)(iii)(I)",
+      "(b)(6)(E)(iii)(II)",
+      "(b)(6)(E)(iii)(III)"
+    ],
+    "rule_type": "definition",
+    "title": "Of Certain Fuels",
+    "text": "The term \u201csecond generation biofuel\u201d shall not include any fuel if\u2013-\u2014more than 4 percent of such fuel (determined by weight) is any combination of water and sediment,\u2014the ash content of such fuel is more than 1 percent (determined by weight), or\u2014such fuel has an acid number greater than 25.",
+    "conditions": [
+      "\u2013-\u2014more than 4 percent of such fuel (determined by weight) is any combination of water and sediment,\u2014the ash content of such fuel is more than 1 percent (determined by weight), or\u2014such fuel has an acid number greater than 25."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.04,
+        "text": "4 percent"
+      },
+      {
+        "label": "rate",
+        "value": 0.01,
+        "text": "1 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2013-\u2014more than 4 percent of such fuel (determined by weight) is any combination of water and sediment,\u2014the ash content of such fuel is more than 1 percent (determined by weight), or\u2014such fuel has an acid number greater than 25."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201csecond generation biofuel\u201d shall not include any fuel"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(b)(6)(E)(iii)Exclusion Of Certain Fuels\u2014The term \u201csecond generation biofuel\u201d shall not include any fuel if\u2013-I.R.C. \u00a7 40(b)(6)(E)(iii)(I)\u2014more than 4 percent of such fuel (determined by weight) is any combination of water\n                              and sediment,I.R.C. \u00a7 40(b)(6)(E)(iii)(II)\u2014the ash content of such fuel is more than 1 percent (determined by weight), orI.R.C. \u00a7 40(b)(6)(E)(iii)(III)\u2014such fuel has an acid number greater than 25.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(b)(6)(F)",
+    "source_subsections": [
+      "(b)(6)(F)",
+      "(b)(6)(F)(i)",
+      "(b)(6)(F)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Feedstock",
+    "text": "For purposes of this paragraph, the term \u201cqualified feedstock\u201d means\u2014\u2014any lignocellulosic or hemicellulosic matter that is available on a renewable or recurring basis, and\u2014any cultivated algae, cyanobacteria, or lemna.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the term \u201cqualified feedstock\u201d means\u2014\u2014any lignocellulosic or hemicellulosic matter that is available on a renewable or recurring basis, and\u2014any cultivated algae, cyanobacteria, or lemna."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(b)(6)(F)Qualified Feedstock\u2014For purposes of this paragraph, the term \u201cqualified feedstock\u201d means\u2014I.R.C. \u00a7 40(b)(6)(F)(i)\u2014any lignocellulosic or hemicellulosic matter that is available on a renewable or recurring\n                           basis, andI.R.C. \u00a7 40(b)(6)(F)(ii)\u2014any cultivated algae, cyanobacteria, or lemna.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(b)(6)(G)",
+    "source_subsections": [
+      "(b)(6)(G)",
+      "(b)(6)(G)(i)",
+      "(b)(6)(G)(ii)",
+      "(b)(6)(G)(iii)"
+    ],
+    "rule_type": "condition",
+    "title": "Rules For Algae",
+    "text": "In the case of fuel which is derived by, or from, feedstock described in subparagraph (F)(ii) and which is sold by the taxpayer to another person for refining by such other person into a fuel which meets the requirements of subparagraph (E)(i)(II) and the refined fuel is not excluded under subparagraph (E)(iii)\u2014\u2014such sale shall be treated as described in subparagraph(C)(i),\u2014such fuel shall be treated as meeting the requirements of subparagraph (E)(i)(II) and as not being excluded under subparagraph (E)(iii) in the hands of such taxpayer, and\u2014except as provided in this subparagraph, such fuel (and any fuel derived from such fuel) shall not be taken into account under subparagraph (C) with respect to the taxpayer or any other person.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [
+      {
+        "applies_when": "this subparagraph",
+        "effect": "See referenced section"
+      }
+    ],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as provided in this subparagraph, such fuel (and any fuel derived from such fuel) shall not be taken into account under subparagraph (C) with respect to the taxpayer or any other person."
+      ],
+      "result": "In the case of fuel which is derived by, or from, feedstock described in subparagraph (F)(ii) and which is sold by the taxpayer to another person for refining by such other person into a fuel which meets the requirements of subparagraph (E)(i)(II) and the refined fuel is not excluded under subparagraph (E)(iii)\u2014\u2014such sale shall be treated as described in subparagraph(C)(i),\u2014such fuel shall be treated as meeting the requirements of subparagraph (E)(i)(II) and as not being excluded under subparagraph (E)(iii) in the hands of such taxpayer, and\u2014"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(b)(6)(G)Special Rules For Algae\u2014In the case of fuel which is derived by, or from, feedstock described in subparagraph\n                        (F)(ii) and which is sold by the taxpayer to another person for refining by such other\n                        person into a fuel which meets the requirements of subparagraph (E)(i)(II) and the\n                        refined fuel is not excluded under subparagraph (E)(iii)\u2014I.R.C. \u00a7 40(b)(6)(G)(i)\u2014such sale shall be treated as described in subparagraph(C)(i),I.R.C. \u00a7 40(b)(6)(G)(ii)\u2014such fuel shall be treated as meeting the requirements of subparagraph (E)(i)(II)\n                           and as not being excluded under subparagraph (E)(iii) in the hands of such taxpayer,\n                           andI.R.C. \u00a7 40(b)(6)(G)(iii)\u2014except as provided in this subparagraph, such fuel (and any fuel derived from such\n                           fuel) shall not be taken into account under subparagraph (C) with respect to the taxpayer\n                           or any other person.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(b)(6)(H)",
+    "source_subsections": [
+      "(b)(6)(H)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Second Generation Biofuel Producer Credit To Patrons Of Cooperative",
+    "text": "Rules similar to the rules under subsection (g)(6) shall apply for purposes of this paragraph.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Rules similar to the rules under subsection (g)(6) shall apply for purposes of this paragraph."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(b)(6)(H)Allocation Of Second Generation Biofuel Producer Credit To Patrons Of Cooperative\u2014Rules similar to the rules under subsection (g)(6) shall apply for purposes of this\n                        paragraph.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(b)(6)(I)",
+    "source_subsections": [
+      "(b)(6)(I)"
+    ],
+    "rule_type": "condition",
+    "title": "Requirement",
+    "text": "No credit shall be determined under this paragraph with respect to any taxpayer unless such taxpayer is registered with the Secretary as a producer of second generation biofuel under section4101.",
+    "conditions": [
+      "such taxpayer is registered with the Secretary as a producer of second generation biofuel under section4101."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "such taxpayer is registered with the Secretary as a producer of second generation biofuel under section4101."
+      ],
+      "except": [],
+      "result": "No credit shall be determined under this paragraph with respect to any taxpayer"
+    },
+    "cross_references": [
+      {
+        "section": "4101",
+        "reason": "cond generation biofuel under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(b)(6)(I)Registration Requirement\u2014No credit shall be determined under this paragraph with respect to any taxpayer unless\n                        such taxpayer is registered with the Secretary as a producer of second generation\n                        biofuel under section4101.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(b)(6)(J)(i)",
+    "source_subsections": [
+      "(b)(6)(J)(i)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "This paragraph shall apply with respect to qualified second generation biofuel production after December 31, 2008, and before January 1, 2025.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "This paragraph shall apply with respect to qualified second generation biofuel production after December 31, 2008, and before January 1, 2025."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(b)(6)(J)(i)In General\u2014This paragraph shall apply with respect to qualified second generation biofuel production\n                           after December 31, 2008, and before January 1, 2025.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(b)(6)(J)(ii)",
+    "source_subsections": [
+      "(b)(6)(J)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Carryover To Certain Years After Expiration",
+    "text": "If this paragraph ceases to apply for any period by reason of clause (i), rules similar to the rules of subsection (e)(2) shall apply.",
+    "conditions": [
+      "this paragraph ceases to apply for any period by reason of clause (i), rules similar to the rules of subsection (e)(2) shall apply."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "this paragraph ceases to apply for any period by reason of clause (i), rules similar to the rules of subsection (e)(2) shall apply."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(b)(6)(J)(ii)No Carryover To Certain Years After Expiration\u2014If this paragraph ceases to apply for any period by reason of clause (i), rules similar\n                           to the rules of subsection (e)(2) shall apply.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(c)",
+    "source_subsections": [
+      "(c)"
+    ],
+    "rule_type": "condition",
+    "title": "With Exemption From Excise Tax",
+    "text": "The amount of the credit determined under this section with respect to any alcohol shall, under regulations prescribed by the Secretary, be properly reduced to take into account any benefit provided with respect to such alcohol solely by reason of the application of section4041(b)(2), section6426, or section6427(e).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of the credit determined under this section with respect to any alcohol shall, under regulations prescribed by the Secretary, be properly reduced to take into account any benefit provided with respect to such alcohol solely by reason of the application of section4041(b)(2), section6426, or section6427(e)."
+    },
+    "cross_references": [
+      {
+        "section": "4041(b)(2)",
+        "reason": "reason of the application of..."
+      },
+      {
+        "section": "6427(e)",
+        "reason": ", section6426, or..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(c)Coordination With Exemption From Excise Tax\u2014The amount of the credit determined under this section with respect to any alcohol\n                  shall, under regulations prescribed by the Secretary, be properly reduced to take\n                  into account any benefit provided with respect to such alcohol solely by reason of\n                  the application of section4041(b)(2), section6426, or section6427(e).",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(d)(1)(A)",
+    "source_subsections": [
+      "(d)(1)(A)",
+      "(d)(1)(A)(i)",
+      "(d)(1)(A)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "General",
+    "text": "The term \u201calcohol\u201d includes methanol and ethanol but does not include\u2014\u2014alcohol produced from petroleum, natural gas, or coal (including peat), or\u2014alcohol with a proof of less than 150.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201calcohol\u201d includes methanol and ethanol but does not include\u2014\u2014alcohol produced from petroleum, natural gas, or coal (including peat), or\u2014alcohol with a proof of less than 150."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(d)(1)(A)In General\u2014The term \u201calcohol\u201d includes methanol and ethanol but does not include\u2014I.R.C. \u00a7 40(d)(1)(A)(i)\u2014alcohol produced from petroleum, natural gas, or coal (including peat), orI.R.C. \u00a7 40(d)(1)(A)(ii)\u2014alcohol with a proof of less than 150.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(d)(1)(B)",
+    "source_subsections": [
+      "(d)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Proof",
+    "text": "The determination of the proof of any alcohol shall be made without regard to any added denaturants.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The determination of the proof of any alcohol shall be made without regard to any added denaturants."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(d)(1)(B)Determination Of Proof\u2014The determination of the proof of any alcohol shall be made without regard to any\n                        added denaturants.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(d)(2)",
+    "source_subsections": [
+      "(d)(2)"
+    ],
+    "rule_type": "definition",
+    "title": "Fuel Defined",
+    "text": "Fuel Defined\u2014The term \u201cspecial fuel\u201d includes any liquid fuel (other than gasoline) which is suitable for use in an internal combustion engine.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Fuel Defined\u2014The term \u201cspecial fuel\u201d includes any liquid fuel (other than gasoline) which is suitable for use in an internal combustion engine."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(d)(2)Special Fuel Defined\u2014The term \u201cspecial fuel\u201d includes any liquid fuel (other than gasoline) which is suitable\n                     for use in an internal combustion engine.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(d)(3)(A)",
+    "source_subsections": [
+      "(d)(3)(A)",
+      "(d)(3)(A)(i)",
+      "(d)(3)(A)(ii)",
+      "(d)(3)(A)(ii)(I)",
+      "(d)(3)(A)(ii)(II)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "If\u2014\u2014any credit was determined under this section with respect to alcohol used in the production of any qualified mixture, and\u2014any person\u2014\u2014separates the alcohol from the mixture, or\u2014without separation, uses the mixture other than as a fuel,then there is hereby imposed on such person a tax equal to 60 cents a gallon (45 cents in the case of alcohol with a proof less than 190) for each gallon of alcohol in such mixture.",
+    "conditions": [
+      "\u2014\u2014any credit was determined under this section with respect to alcohol used in the production of any qualified mixture, and\u2014any person\u2014\u2014separates the alcohol from the mixture, or\u2014without separation, uses the mixture other than as a fuel,then there is hereby imposed on such person a tax equal to 60 cents a gallon (45 cents in the case of alcohol with a proof less than 190) for each gallon of alcohol in such mixture."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014any credit was determined under this section with respect to alcohol used in the production of any qualified mixture, and\u2014any person\u2014\u2014separates the alcohol from the mixture, or\u2014without separation, uses the mixture other than as a fuel,then there is hereby imposed on such person a tax equal to 60 cents a gallon (45 cents in the case of alcohol with a proof less than 190) for each gallon of alcohol in such mixture."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(d)(3)(A)Mixtures\u2014If\u2014I.R.C. \u00a7 40(d)(3)(A)(i)\u2014any credit was determined under this section with respect to alcohol used in the production\n                           of any qualified mixture, andI.R.C. \u00a7 40(d)(3)(A)(ii)\u2014any person\u2014I.R.C. \u00a7 40(d)(3)(A)(ii)(I)\u2014separates the alcohol from the mixture, orI.R.C. \u00a7 40(d)(3)(A)(ii)(II)\u2014without separation, uses the mixture other than as a fuel,then there is hereby imposed on such person a tax equal to 60 cents a gallon (45 cents\n                           in the case of alcohol with a proof less than 190) for each gallon of alcohol in such\n                           mixture.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(d)(3)(B)",
+    "source_subsections": [
+      "(d)(3)(B)",
+      "(d)(3)(B)(i)",
+      "(d)(3)(B)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "If\u2014\u2014any credit was determined under this section with respect to the retail sale of any alcohol, and\u2014any person mixes such alcohol or uses such alcohol other than as a fuel,then there is hereby imposed on such person a tax equal to 60 cents a gallon (45 cents in the case of alcohol with a proof less than 190) for each gallon of such alcohol.",
+    "conditions": [
+      "\u2014\u2014any credit was determined under this section with respect to the retail sale of any alcohol, and\u2014any person mixes such alcohol or uses such alcohol other than as a fuel,then there is hereby imposed on such person a tax equal to 60 cents a gallon (45 cents in the case of alcohol with a proof less than 190) for each gallon of such alcohol."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014any credit was determined under this section with respect to the retail sale of any alcohol, and\u2014any person mixes such alcohol or uses such alcohol other than as a fuel,then there is hereby imposed on such person a tax equal to 60 cents a gallon (45 cents in the case of alcohol with a proof less than 190) for each gallon of such alcohol."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(d)(3)(B)Alcohol\u2014If\u2014I.R.C. \u00a7 40(d)(3)(B)(i)\u2014any credit was determined under this section with respect to the retail sale of any\n                           alcohol, andI.R.C. \u00a7 40(d)(3)(B)(ii)\u2014any person mixes such alcohol or uses such alcohol other than as a fuel,then there is hereby imposed on such person a tax equal to 60 cents a gallon (45 cents\n                           in the case of alcohol with a proof less than 190) for each gallon of such alcohol.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(d)(3)(C)",
+    "source_subsections": [
+      "(d)(3)(C)",
+      "(d)(3)(C)(i)",
+      "(d)(3)(C)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "Ethanol Producer Credit",
+    "text": "If\u2014\u2014any credit was determined under subsection (a)(3), and\u2014any person does not use such fuel for a purpose described in subsection (b)(4)(B),then there is hereby imposed on such person a tax equal to 10 cents a gallon for each gallon of such alcohol.",
+    "conditions": [
+      "\u2014\u2014any credit was determined under subsection (a)(3), and\u2014any person does not use such fuel for a purpose described in subsection (b)(4)(B),then there is hereby imposed on such person a tax equal to 10 cents a gallon for each gallon of such alcohol."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014any credit was determined under subsection (a)(3), and\u2014any person does not use such fuel for a purpose described in subsection (b)(4)(B),then there is hereby imposed on such person a tax equal to 10 cents a gallon for each gallon of such alcohol."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(d)(3)(C)Small Ethanol Producer Credit\u2014If\u2014I.R.C. \u00a7 40(d)(3)(C)(i)\u2014any credit was determined under subsection (a)(3), andI.R.C. \u00a7 40(d)(3)(C)(ii)\u2014any person does not use such fuel for a purpose described in subsection (b)(4)(B),then there is hereby imposed on such person a tax equal to 10 cents a gallon for each\n                           gallon of such alcohol.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(d)(3)(D)",
+    "source_subsections": [
+      "(d)(3)(D)",
+      "(d)(3)(D)(i)",
+      "(d)(3)(D)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Generation Biofuel Producer Credit",
+    "text": "If\u2014\u2014any credit is allowed under subsection (a)(4), and\u2014any person does not use such fuel for a purpose described in subsection (b)(6)(C),then there is hereby imposed on such person a tax equal to the applicable amount (as defined in subsection (b)(6)(B)) for each gallon of such second generation biofuel.",
+    "conditions": [
+      "\u2014\u2014any credit is allowed under subsection (a)(4), and\u2014any person does not use such fuel for a purpose described in subsection (b)(6)(C),then there is hereby imposed on such person a tax equal to the applicable amount (as defined in subsection (b)(6)(B)) for each gallon of such second generation biofuel."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "\u2014\u2014any credit is allowed under subsection (a)(4), and\u2014any person does not use such fuel for a purpose described in subsection (b)(6)(C),then there is hereby imposed on such person a tax equal to the applicable amount (as defined in subsection (b)(6)(B)) for each gallon of such second generation biofuel."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(d)(3)(D)Second Generation Biofuel Producer Credit\u2014If\u2014I.R.C. \u00a7 40(d)(3)(D)(i)\u2014any credit is allowed under subsection (a)(4), andI.R.C. \u00a7 40(d)(3)(D)(ii)\u2014any person does not use such fuel for a purpose described in subsection (b)(6)(C),then there is hereby imposed on such person a tax equal to the applicable amount (as\n                           defined in subsection (b)(6)(B)) for each gallon of such second generation biofuel.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(d)(3)(E)",
+    "source_subsections": [
+      "(d)(3)(E)"
+    ],
+    "rule_type": "condition",
+    "title": "Laws",
+    "text": "All provisions of law, including penalties, shall, insofar as applicable and not inconsistent with this section, apply in respect of any tax imposed under subparagraph (A), (B), (C), or (D) as if such tax were imposed by section4081and not by this chapter.",
+    "conditions": [
+      "such tax were imposed by section4081and not by this chapter."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such tax were imposed by section4081and not by this chapter."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "All provisions of law, including penalties, shall, insofar as applicable and not inconsistent with this section, apply in respect of any tax imposed under subparagraph (A), (B), (C), or (D) as"
+    },
+    "cross_references": [
+      {
+        "section": "4081a",
+        "reason": "s if such tax were imposed by..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(d)(3)(E)Applicable Laws\u2014All provisions of law, including penalties, shall, insofar as applicable and not inconsistent\n                        with this section, apply in respect of any tax imposed under subparagraph (A), (B),\n                        (C), or (D) as if such tax were imposed by section4081and not by this chapter.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(d)(4)",
+    "source_subsections": [
+      "(d)(4)"
+    ],
+    "rule_type": "limitation",
+    "title": "Of Alcohol",
+    "text": "For purposes of determining under subsection (a) the number of gallons of alcohol with respect to which a credit is allowable under subsection (a), the volume of alcohol shall include the volume of any denaturant (including gasoline) which is added under any formulas approved by the Secretary to the extent that such denaturants do not exceed 2 percent of the volume of such alcohol (including denaturants).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.02,
+        "text": "2 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of determining under subsection (a) the number of gallons of alcohol with respect to which a credit is allowable under subsection (a), the volume of alcohol shall include the volume of any denaturant (including gasoline) which is added under any formulas approved by the Secretary to the extent that such denaturants do not exceed 2 percent of the volume of such alcohol (including denaturants)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(d)(4)Volume Of Alcohol\u2014For purposes of determining under subsection (a) the number of gallons of alcohol\n                     with respect to which a credit is allowable under subsection (a), the volume of alcohol\n                     shall include the volume of any denaturant (including gasoline) which is added under\n                     any formulas approved by the Secretary to the extent that such denaturants do not\n                     exceed 2 percent of the volume of such alcohol (including denaturants).",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(d)(5)",
+    "source_subsections": [
+      "(d)(5)"
+    ],
+    "rule_type": "condition",
+    "title": "In The Case Of Estates And Trusts",
+    "text": "Under regulations prescribed by the Secretary, rules similar to the rules of subsection(d)of section52shall apply.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Under regulations prescribed by the Secretary, rules similar to the rules of subsection(d)of section52shall apply."
+    },
+    "cross_references": [
+      {
+        "section": "52s",
+        "reason": "the rules of subsection(d)of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(d)(5)Pass-Thru In The Case Of Estates And Trusts\u2014Under regulations prescribed by the Secretary, rules similar to the rules of subsection(d)of section52shall apply.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(d)(6)",
+    "source_subsections": [
+      "(d)(6)"
+    ],
+    "rule_type": "definition",
+    "title": "Rule For Second Generation Biofuel Producer Credit",
+    "text": "No second generation biofuel producer credit shall be determined under subsection(a)with respect to any second generation biofuel unless such second generation biofuel is produced in the United States and used as a fuel in the United States. For purposes of this subsection, the term \u201cUnited States\u201d includes any possession of the United States.",
+    "conditions": [
+      "such second generation biofuel is produced in the United States and used as a fuel in the United States. For purposes of this subsection, the term \u201cUnited States\u201d includes any possession of the United States."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "such second generation biofuel is produced in the United States and used as a fuel in the United States. For purposes of this subsection, the term \u201cUnited States\u201d includes any possession of the United States."
+      ],
+      "except": [],
+      "result": "No second generation biofuel producer credit shall be determined under subsection(a)with respect to any second generation biofuel"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(d)(6)Special Rule For Second Generation Biofuel Producer Credit\u2014No second generation biofuel producer credit shall be determined under subsection(a)with respect to any second generation biofuel unless such second generation biofuel\n                     is produced in the United States and used as a fuel in the United States. For purposes\n                     of this subsection, the term \u201cUnited States\u201d includes any possession of the United\n                     States.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(d)(7)",
+    "source_subsections": [
+      "(d)(7)"
+    ],
+    "rule_type": "definition",
+    "title": "To Alcohol With Connection To The United States",
+    "text": "No credit shall be determined under this section with respect to any alcohol which is produced outside the United States for use as a fuel outside the United States. For purposes of this paragraph, the term \u201cUnited States\u201d includes any possession of the United States.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "No credit shall be determined under this section with respect to any alcohol which is produced outside the United States for use as a fuel outside the United States. For purposes of this paragraph, the term \u201cUnited States\u201d includes any possession of the United States."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(d)(7)Limitation To Alcohol With Connection To The United States\u2014No credit shall be determined under this section with respect to any alcohol which\n                     is produced outside the United States for use as a fuel outside the United States.\n                     For purposes of this paragraph, the term \u201cUnited States\u201d includes any possession of\n                     the United States.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(e)(1)",
+    "source_subsections": [
+      "(e)(1)",
+      "(e)(1)(A)",
+      "(e)(1)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "This section shall not apply to any sale or use\u2014\u2014for any period after December 31, 2011, or\u2014for any period before January 1, 2012, during which the rates of tax under section4081(a)(2)(A)are 4.3 cents per gallon.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "This section shall not apply to any sale or use\u2014\u2014for any period after December 31, 2011, or\u2014for any period before January 1, 2012, during which the rates of tax under section4081(a)(2)(A)are 4.3 cents per gallon."
+    },
+    "cross_references": [
+      {
+        "section": "4081(a)(2)(A)",
+        "reason": "which the rates of tax under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(e)(1)In General\u2014This section shall not apply to any sale or use\u2014I.R.C. \u00a7 40(e)(1)(A)\u2014for any period after December 31, 2011, orI.R.C. \u00a7 40(e)(1)(B)\u2014for any period before January 1, 2012, during which the rates of tax under section4081(a)(2)(A)are 4.3 cents per gallon.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(e)(2)",
+    "source_subsections": [
+      "(e)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Carryovers To Certain Years After Expiration",
+    "text": "If this section ceases to apply for any period by reason of paragraph (1), no amount attributable to any sale or use before the first day of such period may be carried under section39by reason of this section (treating the amount allowed by reason of this section as the first amount allowed by this subpart) to any taxable year beginning after the 3-taxable-year period beginning with the taxable year in which such first day occurs.",
+    "conditions": [
+      "this section ceases to apply for any period by reason of paragraph (1), no amount attributable to any sale or use before the first day of such period may be carried under section39by reason of this section (treating the amount allowed by reason of this section as the first amount allowed by this subpart) to any taxable year beginning after the 3-taxable-year period beginning with the taxable year in which such first day occurs."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "this section ceases to apply for any period by reason of paragraph (1), no amount attributable to any sale or use before the first day of such period may be carried under section39by reason of this section (treating the amount allowed by reason of this section as the first amount allowed by this subpart) to any taxable year beginning after the 3-taxable-year period beginning with the taxable year in which such first day occurs."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "39b",
+        "reason": "h period may be carried under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(e)(2)No Carryovers To Certain Years After Expiration\u2014If this section ceases to apply for any period by reason of paragraph (1), no amount\n                     attributable to any sale or use before the first day of such period may be carried\n                     under section39by reason of this section (treating the amount allowed by reason of this section\n                     as the first amount allowed by this subpart) to any taxable year beginning after the\n                     3-taxable-year period beginning with the taxable year in which such first day occurs.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(e)(3)",
+    "source_subsections": [
+      "(e)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "For Second Generation Biofuel Producer Credit",
+    "text": "Paragraph (1) shall not apply to the portion of the credit allowed under this section by reason of subsection (a)(4).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Paragraph (1) shall not apply to the portion of the credit allowed under this section by reason of subsection (a)(4)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(e)(3)Exception For Second Generation Biofuel Producer Credit\u2014Paragraph (1) shall not apply to the portion of the credit allowed under this section\n                     by reason of subsection (a)(4).",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(f)(1)",
+    "source_subsections": [
+      "(f)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "A taxpayer may elect to have this section not apply for any taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "A taxpayer may elect to have this section not apply for any taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(f)(1)In General\u2014A taxpayer may elect to have this section not apply for any taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(f)(2)",
+    "source_subsections": [
+      "(f)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "For Making Election",
+    "text": "An election under paragraph (1) for any taxable year may be made (or revoked) at any time before the expiration of the 3-year period beginning on the last date prescribed by law for filing the return for such taxable year (determined without regard to extensions).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "An election under paragraph (1) for any taxable year may be made (or revoked) at any time before the expiration of the 3-year period beginning on the last date prescribed by law for filing the return for such taxable year (determined without regard to extensions)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(f)(2)Time For Making Election\u2014An election under paragraph (1) for any taxable year may be made (or revoked) at any\n                     time before the expiration of the 3-year period beginning on the last date prescribed\n                     by law for filing the return for such taxable year (determined without regard to extensions).",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(f)(3)",
+    "source_subsections": [
+      "(f)(3)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Making Election",
+    "text": "An election under paragraph (1) (or revocation thereof) shall be made in such manner as the Secretary may by regulations prescribe.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "An election under paragraph (1) (or revocation thereof) shall be made in such manner as the Secretary may by regulations prescribe."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(f)(3)Manner Of Making Election\u2014An election under paragraph (1) (or revocation thereof) shall be made in such manner\n                     as the Secretary may by regulations prescribe.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(g)(1)",
+    "source_subsections": [
+      "(g)(1)"
+    ],
+    "rule_type": "definition",
+    "title": "Small Ethanol Producer",
+    "text": "The term \u201celigible small ethanol producer\u201d means a person who, at all times during the taxable year, has a productive capacity for alcohol (as defined in subsection (d)(1)(A) without regard to clauses (i) and (ii)) not in excess of 60,000,000 gallons.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The term \u201celigible small ethanol producer\u201d means a person who, at all times during the taxable year, has a productive capacity for alcohol (as defined in subsection (d)(1)(A) without regard to clauses (i) and (ii)) not in excess of 60,000,000 gallons."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(g)(1)Eligible Small Ethanol Producer\u2014The term \u201celigible small ethanol producer\u201d means a person who, at all times during\n                     the taxable year, has a productive capacity for alcohol (as defined in subsection\n                     (d)(1)(A) without regard to clauses (i) and (ii)) not in excess of 60,000,000 gallons.",
+    "definitions": {
+      "term": "eligible small ethanol producer",
+      "requirements": [
+        "a person who, at all times during the taxable year, has a productive capacity for alcohol (as defined in subsection (d)(1)(A) without regard to clauses (i) and (ii)) not in excess of 60,000,000 gallons."
+      ]
+    }
+  },
+  {
+    "section": "40",
+    "subsection": "(g)(2)",
+    "source_subsections": [
+      "(g)(2)"
+    ],
+    "rule_type": "limitation",
+    "title": "Rule",
+    "text": "For purposes of the 15,000,000 gallon limitation under subsection (b)(4)(C) and the 60,000,000 gallon limitation under paragraph (1), all members of the same controlled group of corporations (within the meaning of section267(f)) and all persons under common control (within the meaning of section52(b)but determined by treating an interest of more than 50 percent as a controlling interest) shall be treated as 1 person.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.5,
+        "text": "50 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of the 15,000,000 gallon limitation under subsection (b)(4)(C) and the 60,000,000 gallon limitation under paragraph (1), all members of the same controlled group of corporations (within the meaning of section267(f)) and all persons under common control (within the meaning of section52(b)but determined by treating an interest of more than 50 percent as a controlling interest) shall be treated as 1 person."
+    },
+    "cross_references": [
+      {
+        "section": "267(f)",
+        "reason": "ations (within the meaning of..."
+      },
+      {
+        "section": "52(b)",
+        "reason": "ontrol (within the meaning of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(g)(2)Aggregation Rule\u2014For purposes of the 15,000,000 gallon limitation under subsection (b)(4)(C) and the\n                     60,000,000 gallon limitation under paragraph (1), all members of the same controlled\n                     group of corporations (within the meaning of section267(f)) and all persons under common control (within the meaning of section52(b)but determined by treating an interest of more than 50 percent as a controlling interest)\n                     shall be treated as 1 person.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(g)(3)",
+    "source_subsections": [
+      "(g)(3)"
+    ],
+    "rule_type": "condition",
+    "title": ", S Corporations, And Other Pass",
+    "text": "Thru Entities\u2014In the case of a partnership, trust, S corporation, or other pass-thru entity, the limitations contained in subsection (b)(4)(C) and paragraph (1) shall be applied at the entity level and at the partner or similar level.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Thru Entities\u2014In the case of a partnership, trust, S corporation, or other pass-thru entity, the limitations contained in subsection (b)(4)(C) and paragraph (1) shall be applied at the entity level and at the partner or similar level."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(g)(3)Partnership, S Corporations, And Other Pass-Thru Entities\u2014In the case of a partnership, trust, S corporation, or other pass-thru entity, the\n                     limitations contained in subsection (b)(4)(C) and paragraph (1) shall be applied at\n                     the entity level and at the partner or similar level.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(g)(4)",
+    "source_subsections": [
+      "(g)(4)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "For purposes of this subsection, in the case of a facility in which more than 1 person has an interest, productive capacity shall be allocated among such persons in such manner as the Secretary may prescribe.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this subsection, in the case of a facility in which more than 1 person has an interest, productive capacity shall be allocated among such persons in such manner as the Secretary may prescribe."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(g)(4)Allocation\u2014For purposes of this subsection, in the case of a facility in which more than 1 person\n                     has an interest, productive capacity shall be allocated among such persons in such\n                     manner as the Secretary may prescribe.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(g)(5)",
+    "source_subsections": [
+      "(g)(5)",
+      "(g)(5)(A)",
+      "(g)(5)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The Secretary may prescribe such regulations as may be necessary\u2014\u2014to prevent the credit provided for in subsection (a)(3) from directly or indirectly benefiting any person with a direct or indirect productive capacity of more than 60,000,000 gallons of alcohol during the taxable year, or\u2014to prevent any person from directly or indirectly benefiting with respect to more than 15,000,000 gallons during the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The Secretary may prescribe such regulations as may be necessary\u2014\u2014to prevent the credit provided for in subsection (a)(3) from directly or indirectly benefiting any person with a direct or indirect productive capacity of more than 60,000,000 gallons of alcohol during the taxable year, or\u2014to prevent any person from directly or indirectly benefiting with respect to more than 15,000,000 gallons during the taxable year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(g)(5)Regulations\u2014The Secretary may prescribe such regulations as may be necessary\u2014I.R.C. \u00a7 40(g)(5)(A)\u2014to prevent the credit provided for in subsection (a)(3) from directly or indirectly\n                        benefiting any person with a direct or indirect productive capacity of more than 60,000,000\n                        gallons of alcohol during the taxable year, orI.R.C. \u00a7 40(g)(5)(B)\u2014to prevent any person from directly or indirectly benefiting with respect to more\n                        than 15,000,000 gallons during the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(g)(6)(A)(i)",
+    "source_subsections": [
+      "(g)(6)(A)(i)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "In the case of a cooperative organization described in section1381(a), any portion of the credit determined under subsection (a)(3) for the taxable year may, at the election of the organization, be apportioned pro rata among patrons of the organization on the basis of the quantity or value of business done with or for such patrons for the taxable year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of a cooperative organization described in section1381(a), any portion of the credit determined under subsection (a)(3) for the taxable year may, at the election of the organization, be apportioned pro rata among patrons of the organization on the basis of the quantity or value of business done with or for such patrons for the taxable year."
+    },
+    "cross_references": [
+      {
+        "section": "1381(a)",
+        "reason": "ive organization described in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(g)(6)(A)(i)In General\u2014In the case of a cooperative organization described in section1381(a), any portion of the credit determined under subsection (a)(3) for the taxable year\n                           may, at the election of the organization, be apportioned pro rata among patrons of\n                           the organization on the basis of the quantity or value of business done with or for\n                           such patrons for the taxable year.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(g)(6)(A)(ii)",
+    "source_subsections": [
+      "(g)(6)(A)(ii)"
+    ],
+    "rule_type": "condition",
+    "title": "And Effect Of Election",
+    "text": "An election under clause (i) for any taxable year shall be made on a timely filed return for such year. Such election, once made, shall be irrevocable for such taxable year. Such election shall not take effect unless the organization designates the apportionment as such in a written notice mailed to its patrons during the payment period described in section1382(d).",
+    "conditions": [
+      "the organization designates the apportionment as such in a written notice mailed to its patrons during the payment period described in section1382(d)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [
+        "the organization designates the apportionment as such in a written notice mailed to its patrons during the payment period described in section1382(d)."
+      ],
+      "except": [],
+      "result": "An election under clause (i) for any taxable year shall be made on a timely filed return for such year. Such election, once made, shall be irrevocable for such taxable year. Such election shall not take effect"
+    },
+    "cross_references": [
+      {
+        "section": "1382(d)",
+        "reason": "e payment period described in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(g)(6)(A)(ii)Form And Effect Of Election\u2014An election under clause (i) for any taxable year shall be made on a timely filed\n                           return for such year. Such election, once made, shall be irrevocable for such taxable\n                           year. Such election shall not take effect unless the organization designates the apportionment\n                           as such in a written notice mailed to its patrons during the payment period described\n                           in section1382(d).",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(g)(6)(B)(i)",
+    "source_subsections": [
+      "(g)(6)(B)(i)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "The amount of the credit not apportioned to patrons pursuant to subparagraph (A) shall be included in the amount determined under subsection (a)(3) for the taxable year of the organization.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of the credit not apportioned to patrons pursuant to subparagraph (A) shall be included in the amount determined under subsection (a)(3) for the taxable year of the organization."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(g)(6)(B)(i)Organizations\u2014The amount of the credit not apportioned to patrons pursuant to subparagraph (A) shall\n                           be included in the amount determined under subsection (a)(3) for the taxable year\n                           of the organization.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(g)(6)(B)(ii)",
+    "source_subsections": [
+      "(g)(6)(B)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": null,
+    "text": "The amount of the credit apportioned to patrons pursuant to subparagraph (A) shall be included in the amount determined under such subsection for the first taxable year of each patron ending on or after the last day of the payment period (as defined in section1382(d)) for the taxable year of the organization or, if earlier, for the taxable year of each patron ending on or after the date on which the patron receives notice from the cooperative of the apportionment.",
+    "conditions": [
+      "earlier, for the taxable year of each patron ending on or after the date on which the patron receives notice from the cooperative of the apportionment."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "earlier, for the taxable year of each patron ending on or after the date on which the patron receives notice from the cooperative of the apportionment."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount of the credit apportioned to patrons pursuant to subparagraph (A) shall be included in the amount determined under such subsection for the first taxable year of each patron ending on or after the last day of the payment period (as defined in section1382(d)) for the taxable year of the organization or,"
+    },
+    "cross_references": [
+      {
+        "section": "1382(d)",
+        "reason": "payment period (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(g)(6)(B)(ii)Patrons\u2014The amount of the credit apportioned to patrons pursuant to subparagraph (A) shall\n                           be included in the amount determined under such subsection for the first taxable year\n                           of each patron ending on or after the last day of the payment period (as defined in\n                           section1382(d)) for the taxable year of the organization or, if earlier, for the taxable year of\n                           each patron ending on or after the date on which the patron receives notice from the\n                           cooperative of the apportionment.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(g)(6)(B)(iii)",
+    "source_subsections": [
+      "(g)(6)(B)(iii)",
+      "(g)(6)(B)(iii)(I)",
+      "(g)(6)(B)(iii)(II)"
+    ],
+    "rule_type": "condition",
+    "title": "Rules For Decrease In Credits For Taxable Year",
+    "text": "If the amount of the credit of the organization determined under such subsection for a taxable year is less than the amount of such credit shown on the return of the organization for such year, an amount equal to the excess of\u2014\u2014such reduction, over\u2014the amount not apportioned to such patrons under subparagraph(A)for the taxable year,shall be treated as an increase in tax imposed by this chapter on the organization. Such increase shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit under this chapter or for purposes of section55.",
+    "conditions": [
+      "the amount of the credit of the organization determined under such subsection for a taxable year is less than the amount of such credit shown on the return of the organization for such year, an amount equal to the excess of\u2014\u2014such reduction, over\u2014the amount not apportioned to such patrons under subparagraph(A)for the taxable year,shall be treated as an increase in tax imposed by this chapter on the organization. Such increase shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit under this chapter or for purposes of section55."
+    ],
+    "computations": [
+      {
+        "operation": "subtraction",
+        "inputs": [
+          "parsed_from_text"
+        ]
+      }
+    ],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the amount of the credit of the organization determined under such subsection for a taxable year is less than the amount of such credit shown on the return of the organization for such year, an amount equal to the excess of\u2014\u2014such reduction, over\u2014the amount not apportioned to such patrons under subparagraph(A)for the taxable year,shall be treated as an increase in tax imposed by this chapter on the organization. Such increase shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit under this chapter or for purposes of section55."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "55",
+        "reason": "is chapter or for purposes of..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(g)(6)(B)(iii)Special Rules For Decrease In Credits For Taxable Year\u2014If the amount of the credit of the organization determined under such subsection for\n                           a taxable year is less than the amount of such credit shown on the return of the organization\n                           for such year, an amount equal to the excess of\u2014I.R.C. \u00a7 40(g)(6)(B)(iii)(I)\u2014such reduction, overI.R.C. \u00a7 40(g)(6)(B)(iii)(II)\u2014the amount not apportioned to such patrons under subparagraph(A)for the taxable year,shall be treated as an increase in tax imposed by this chapter on the organization.\n                                 Such increase shall not be treated as tax imposed by this chapter for purposes of\n                                 determining the amount of any credit under this chapter or for purposes of section55.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(h)(1)",
+    "source_subsections": [
+      "(h)(1)",
+      "(h)(1)(A)",
+      "(h)(1)(B)",
+      "(h)(1)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "In the case of any alcohol mixture credit or alcohol credit with respect to any sale or use of alcohol which is ethanol during calendar years 2001 through 2011\u2014\u2014subsections (b)(1)(A) and (b)(2)(A) shall be applied by substituting \u201cthe blender amount\u201d for \u201c60 cents\u201d,\u2014subsection (b)(3) shall be applied by substituting \u201cthe low-proof blender amount\u201d for \u201c45 cents\u201d and \u201cthe blender amount\u201d for \u201c60 cents\u201d, and\u2014subparagraphs (A) and (B) of subsection (d)(3) shall be applied by substituting \u201cthe blender amount\u201d for \u201c60 cents\u201d and \u201cthe low-proof blender amount\u201d for \u201c45 cents\u201d.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any alcohol mixture credit or alcohol credit with respect to any sale or use of alcohol which is ethanol during calendar years 2001 through 2011\u2014\u2014subsections (b)(1)(A) and (b)(2)(A) shall be applied by substituting \u201cthe blender amount\u201d for \u201c60 cents\u201d,\u2014subsection (b)(3) shall be applied by substituting \u201cthe low-proof blender amount\u201d for \u201c45 cents\u201d and \u201cthe blender amount\u201d for \u201c60 cents\u201d, and\u2014subparagraphs (A) and (B) of subsection (d)(3) shall be applied by substituting \u201cthe blender amount\u201d for \u201c60 cents\u201d and \u201cthe low-proof blender amount\u201d for \u201c45 cents\u201d."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(h)(1)In General\u2014In the case of any alcohol mixture credit or alcohol credit with respect to any sale\n                     or use of alcohol which is ethanol during calendar years 2001 through 2011\u2014I.R.C. \u00a7 40(h)(1)(A)\u2014subsections (b)(1)(A) and (b)(2)(A) shall be applied by substituting \u201cthe blender\n                        amount\u201d for \u201c60 cents\u201d,I.R.C. \u00a7 40(h)(1)(B)\u2014subsection (b)(3) shall be applied by substituting \u201cthe low-proof blender amount\u201d\n                        for \u201c45 cents\u201d and \u201cthe blender amount\u201d for \u201c60 cents\u201d, andI.R.C. \u00a7 40(h)(1)(C)\u2014subparagraphs (A) and (B) of subsection (d)(3) shall be applied by substituting \u201cthe\n                        blender amount\u201d for \u201c60 cents\u201d and \u201cthe low-proof blender amount\u201d for \u201c45 cents\u201d.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(h)(2)",
+    "source_subsections": [
+      "(h)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "purposes of paragraph (1), the blender amount and the low",
+    "text": "proof blender amount shall be determined in accordance with the following table:In the case of any sale or use during calendar year:The blender amount is:The low-proof blender amount is:2001 or 200253 cents39.26 cents2003 or 200452 cents38.52 cents2005, 2006, 2007, or 200851 cents37.78 cents2009 through 201145 cents33.33 cents.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "proof blender amount shall be determined in accordance with the following table:In the case of any sale or use during calendar year:The blender amount is:The low-proof blender amount is:2001 or 200253 cents39.26 cents2003 or 200452 cents38.52 cents2005, 2006, 2007, or 200851 cents37.78 cents2009 through 201145 cents33.33 cents."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(h)(2)AmountsFor purposes of paragraph (1), the blender amount and the low-proof blender amount\n                  shall be determined in accordance with the following table:In the case of any sale or use during calendar year:The blender amount is:The low-proof blender amount is:2001 or 200253 cents39.26 cents2003 or 200452 cents38.52 cents2005, 2006, 2007, or 200851 cents37.78 cents2009 through 201145 cents33.33 cents.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(h)(3)(A)",
+    "source_subsections": [
+      "(h)(3)(A)"
+    ],
+    "rule_type": "condition",
+    "title": "General",
+    "text": "In the case of any calendar year beginning after 2008, if the Secretary makes a determination described in subparagraph (B) with respect to all preceding calendar years beginning after 2007, the last row in the table in paragraph (2) shall be applied by substituting \u201c51 cents\u201d for \u201c45 cents\u201d.",
+    "conditions": [
+      "the Secretary makes a determination described in subparagraph (B) with respect to all preceding calendar years beginning after 2007, the last row in the table in paragraph (2) shall be applied by substituting \u201c51 cents\u201d for \u201c45 cents\u201d."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "the Secretary makes a determination described in subparagraph (B) with respect to all preceding calendar years beginning after 2007, the last row in the table in paragraph (2) shall be applied by substituting \u201c51 cents\u201d for \u201c45 cents\u201d."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In the case of any calendar year beginning after 2008,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(h)(3)(A)In General\u2014In the case of any calendar year beginning after 2008, if the Secretary makes a determination\n                        described in subparagraph (B) with respect to all preceding calendar years beginning\n                        after 2007, the last row in the table in paragraph (2) shall be applied by substituting\n                        \u201c51 cents\u201d for \u201c45 cents\u201d.",
+    "definitions": null
+  },
+  {
+    "section": "40",
+    "subsection": "(h)(3)(B)",
+    "source_subsections": [
+      "(h)(3)(B)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "A determination described in this subparagraph with respect to any calendar year is a determination, in consultation with the Administrator of the Environmental Protection Agency, that an amount less than 7,500,000,000 gallons of ethanol (including cellulosic ethanol) has been produced in or imported into the United States in such year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "A determination described in this subparagraph with respect to any calendar year is a determination, in consultation with the Administrator of the Environmental Protection Agency, that an amount less than 7,500,000,000 gallons of ethanol (including cellulosic ethanol) has been produced in or imported into the United States in such year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 40(h)(3)(B)Determination\u2014A determination described in this subparagraph with respect to any calendar year is\n                        a determination, in consultation with the Administrator of the Environmental Protection\n                        Agency, that an amount less than 7,500,000,000 gallons of ethanol (including cellulosic\n                        ethanol) has been produced in or imported into the United States in such year.",
+    "definitions": null
+  }
+]

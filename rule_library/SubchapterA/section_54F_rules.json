@@ -1,0 +1,530 @@
+[
+  {
+    "section": "54F",
+    "subsection": "(a)(1)",
+    "source_subsections": [
+      "(a)(1)"
+    ],
+    "rule_type": "computation",
+    "title": null,
+    "text": "100 percent of the available project proceeds of such issue are to be used for the construction, rehabilitation, or repair of a public school facility or for the acquisition of land on which such a facility is to be constructed with part of the proceeds of such issue,",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 1.0,
+        "text": "100 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "100 percent of the available project proceeds of such issue are to be used for the construction, rehabilitation, or repair of a public school facility or for the acquisition of land on which such a facility is to be constructed with part of the proceeds of such issue,"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54F(a)(1)\u2014100 percent of the available project proceeds of such issue are to be used for the\n                     construction, rehabilitation, or repair of a public school facility or for the acquisition\n                     of land on which such a facility is to be constructed with part of the proceeds of\n                     such issue,",
+    "definitions": null
+  },
+  {
+    "section": "54F",
+    "subsection": "(a)(2)",
+    "source_subsections": [
+      "(a)(2)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "the bond is issued by a State or local government within the jurisdiction of which such school is located, and",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "the bond is issued by a State or local government within the jurisdiction of which such school is located, and"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54F(a)(2)\u2014the bond is issued by a State or local government within the jurisdiction of which\n                     such school is located, and",
+    "definitions": null
+  },
+  {
+    "section": "54F",
+    "subsection": "(a)(3)",
+    "source_subsections": [
+      "(a)(3)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "the issuer designates such bond for purposes of this section.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "the issuer designates such bond for purposes of this section."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54F(a)(3)\u2014the issuer designates such bond for purposes of this section.",
+    "definitions": null
+  },
+  {
+    "section": "54F",
+    "subsection": "(b)",
+    "source_subsections": [
+      "(b)"
+    ],
+    "rule_type": "limitation",
+    "title": "On Amount Of Bonds Designated",
+    "text": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54F, effective for bonds issued after December 31, 2017.The maximum aggregate face amount of bonds issued during any calendar year which may be designated under subsection(a)by any issuer shall not exceed the limitation amount allocated under subsection (d) for such calendar year to such issuer.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54F, effective for bonds issued after December 31, 2017.The maximum aggregate face amount of bonds issued during any calendar year which may be designated under subsection(a)by any issuer shall not exceed the limitation amount allocated under subsection (d) for such calendar year to such issuer."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54F(b)Limitation On Amount Of Bonds Designated\u2014Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54F, effective for bonds issued after December 31, 2017.The maximum aggregate face amount of bonds issued during any calendar year which may\n                  be designated under subsection(a)by any issuer shall not exceed the limitation amount allocated under subsection (d)\n                  for such calendar year to such issuer.",
+    "definitions": null
+  },
+  {
+    "section": "54F",
+    "subsection": "(c)(1)",
+    "source_subsections": [
+      "(c)(1)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$11,000,000,000 for 2009",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 11000000000,
+        "text": "$11,000,000,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$11,000,000,000 for 2009"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54F(c)(1)\u2014$11,000,000,000 for 2009",
+    "definitions": null
+  },
+  {
+    "section": "54F",
+    "subsection": "(c)(2)",
+    "source_subsections": [
+      "(c)(2)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "$11,000,000,000 for 2010, and",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 11000000000,
+        "text": "$11,000,000,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "$11,000,000,000 for 2010, and"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54F(c)(2)\u2014$11,000,000,000 for 2010, and",
+    "definitions": null
+  },
+  {
+    "section": "54F",
+    "subsection": "(c)(3)",
+    "source_subsections": [
+      "(c)(3)"
+    ],
+    "rule_type": "condition",
+    "title": null,
+    "text": "except as provided in subsection(e), zero after 2010.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [
+      {
+        "applies_when": "subsection(e)",
+        "effect": "See referenced section"
+      }
+    ],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as provided in subsection(e), zero after 2010."
+      ],
+      "result": ""
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54F(c)(3)\u2014except as provided in subsection(e), zero after 2010.",
+    "definitions": null
+  },
+  {
+    "section": "54F",
+    "subsection": "(d)(1)",
+    "source_subsections": [
+      "(d)(1)"
+    ],
+    "rule_type": "condition",
+    "title": "Among States",
+    "text": "Except as provided in paragraph(2)(C), the limitation applicable under subsection(c)for any calendar year shall be allocated by the Secretary among the States in proportion to the respective amounts each such State is eligible to receive under section1124of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6333) for the most recent fiscal year ending before such calendar year. The limitation amount allocated to a State under the preceding sentence shall be allocated by the State education agency (or such other agency as is authorized under State law to make such allocation) to issuers within such State.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [
+      {
+        "applies_when": "paragraph(2)(C)",
+        "effect": "See referenced section"
+      }
+    ],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [
+        "as provided in paragraph(2)(C), the limitation applicable under subsection(c)for any calendar year shall be allocated by the Secretary among the States in proportion to the respective amounts each such State is eligible to receive under section1124of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6333) for the most recent fiscal year ending before such calendar year. The limitation amount allocated to a State under the preceding sentence shall be allocated by the State education agency (or such other agency as is authorized under State law to make such allocation) to issuers within such State."
+      ],
+      "result": ""
+    },
+    "cross_references": [
+      {
+        "section": "1124o",
+        "reason": "is eligible to receive under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54F(d)(1)Allocation Among States\u2014Except as provided in paragraph(2)(C), the limitation applicable under subsection(c)for any calendar year shall be allocated by the Secretary among the States in proportion\n                     to the respective amounts each such State is eligible to receive under section1124of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6333) for the most recent fiscal year ending before such calendar year. The limitation\n                     amount allocated to a State under the preceding sentence shall be allocated by the\n                     State education agency (or such other agency as is authorized under State law to make\n                     such allocation) to issuers within such State.",
+    "definitions": null
+  },
+  {
+    "section": "54F",
+    "subsection": "(d)(2)(A)",
+    "source_subsections": [
+      "(d)(2)(A)"
+    ],
+    "rule_type": "limitation",
+    "title": "General",
+    "text": "40 percent of the limitation applicable under subsection(c)for any calendar year shall be allocated under subparagraph(B)by the Secretary among local educational agencies which are large local educational agencies for such year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [
+      {
+        "label": "rate",
+        "value": 0.4,
+        "text": "40 percent"
+      }
+    ],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "40 percent of the limitation applicable under subsection(c)for any calendar year shall be allocated under subparagraph(B)by the Secretary among local educational agencies which are large local educational agencies for such year."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54F(d)(2)(A)In General\u201440 percent of the limitation applicable under subsection(c)for any calendar year shall be allocated under subparagraph(B)by the Secretary among local educational agencies which are large local educational\n                        agencies for such year.",
+    "definitions": null
+  },
+  {
+    "section": "54F",
+    "subsection": "(d)(2)(B)",
+    "source_subsections": [
+      "(d)(2)(B)"
+    ],
+    "rule_type": "condition",
+    "title": "Formula",
+    "text": "The amount to be allocated under subparagraph(A)for any calendar year shall be allocated among large local educational agencies in proportion to the respective amounts each such agency received under section 1124 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6333) for the most recent fiscal year ending before such calendar year.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount to be allocated under subparagraph(A)for any calendar year shall be allocated among large local educational agencies in proportion to the respective amounts each such agency received under section 1124 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6333) for the most recent fiscal year ending before such calendar year."
+    },
+    "cross_references": [
+      {
+        "section": "1124",
+        "reason": "ch such agency received under..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54F(d)(2)(B)Allocation Formula\u2014The amount to be allocated under subparagraph(A)for any calendar year shall be allocated among large local educational agencies in\n                        proportion to the respective amounts each such agency received under section 1124\n                        of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6333) for the most recent fiscal year ending before such calendar year.",
+    "definitions": null
+  },
+  {
+    "section": "54F",
+    "subsection": "(d)(2)(C)",
+    "source_subsections": [
+      "(d)(2)(C)"
+    ],
+    "rule_type": "condition",
+    "title": "In State Allocation",
+    "text": "The allocation to any State under paragraph(1)shall be reduced by the aggregate amount of the allocations under this paragraph to large local educational agencies within such State.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The allocation to any State under paragraph(1)shall be reduced by the aggregate amount of the allocations under this paragraph to large local educational agencies within such State."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54F(d)(2)(C)Reduction In State Allocation\u2014The allocation to any State under paragraph(1)shall be reduced by the aggregate amount of the allocations under this paragraph\n                        to large local educational agencies within such State.",
+    "definitions": null
+  },
+  {
+    "section": "54F",
+    "subsection": "(d)(2)(D)",
+    "source_subsections": [
+      "(d)(2)(D)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Unused Limitation To State",
+    "text": "The amount allocated under this paragraph to a large local educational agency for any calendar year may be reallocated by such agency to the State in which such agency is located for such calendar year. Any amount reallocated to a State under the preceding sentence may be allocated as provided in paragraph(1).",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount allocated under this paragraph to a large local educational agency for any calendar year may be reallocated by such agency to the State in which such agency is located for such calendar year. Any amount reallocated to a State under the preceding sentence may be allocated as provided in paragraph(1)."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54F(d)(2)(D)Allocation Of Unused Limitation To State\u2014The amount allocated under this paragraph to a large local educational agency for\n                        any calendar year may be reallocated by such agency to the State in which such agency\n                        is located for such calendar year. Any amount reallocated to a State under the preceding\n                        sentence may be allocated as provided in paragraph(1).",
+    "definitions": null
+  },
+  {
+    "section": "54F",
+    "subsection": "(d)(2)(E)",
+    "source_subsections": [
+      "(d)(2)(E)",
+      "(d)(2)(E)(i)",
+      "(d)(2)(E)(ii)"
+    ],
+    "rule_type": "definition",
+    "title": "Local Educational Agency",
+    "text": "For purposes of this paragraph, the term \u201clarge local educational agency\u201d means, with respect to a calendar year, any local educational agency if such agency is\u2014\u2014among the 100 local educational agencies with the largest numbers of children aged 5 through 17 from families living below the poverty level, as determined by the Secretary using the most recent data available from the Department of Commerce that are satisfactory to the Secretary, or\u20141 of not more than 25 local educational agencies (other than those described in clause(i)) that the Secretary of Education determines (based on the most recent data available satisfactory to the Secretary) are in particular need of assistance, based on a low level of resources for school construction, a high level of enrollment growth, or such other factors as the Secretary deems appropriate.",
+    "conditions": [
+      "such agency is\u2014\u2014among the 100 local educational agencies with the largest numbers of children aged 5 through 17 from families living below the poverty level, as determined by the Secretary using the most recent data available from the Department of Commerce that are satisfactory to the Secretary, or\u20141 of not more than 25 local educational agencies (other than those described in clause(i)) that the Secretary of Education determines (based on the most recent data available satisfactory to the Secretary) are in particular need of assistance, based on a low level of resources for school construction, a high level of enrollment growth, or such other factors as the Secretary deems appropriate."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "such agency is\u2014\u2014among the 100 local educational agencies with the largest numbers of children aged 5 through 17 from families living below the poverty level, as determined by the Secretary using the most recent data available from the Department of Commerce that are satisfactory to the Secretary, or\u20141 of not more than 25 local educational agencies (other than those described in clause(i)) that the Secretary of Education determines (based on the most recent data available satisfactory to the Secretary) are in particular need of assistance, based on a low level of resources for school construction, a high level of enrollment growth, or such other factors as the Secretary deems appropriate."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "For purposes of this paragraph, the term \u201clarge local educational agency\u201d means, with respect to a calendar year, any local educational agency"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54F(d)(2)(E)Large Local Educational Agency\u2014For purposes of this paragraph, the term \u201clarge local educational agency\u201d means, with\n                        respect to a calendar year, any local educational agency if such agency is\u2014I.R.C. \u00a7 54F(d)(2)(E)(i)\u2014among the 100 local educational agencies with the largest numbers of children aged\n                           5 through 17 from families living below the poverty level, as determined by the Secretary\n                           using the most recent data available from the Department of Commerce that are satisfactory\n                           to the Secretary, orI.R.C. \u00a7 54F(d)(2)(E)(ii)\u20141 of not more than 25 local educational agencies (other than those described in clause(i)) that the Secretary of Education determines (based on the most recent data available\n                           satisfactory to the Secretary) are in particular need of assistance, based on a low\n                           level of resources for school construction, a high level of enrollment growth, or\n                           such other factors as the Secretary deems appropriate.",
+    "definitions": null
+  },
+  {
+    "section": "54F",
+    "subsection": "(d)(3)",
+    "source_subsections": [
+      "(d)(3)"
+    ],
+    "rule_type": "definition",
+    "title": "To Certain Possessions",
+    "text": "The amount to be allocated under paragraph(1)to any possession of the United States other than Puerto Rico shall be the amount which would have been allocated if all allocations under paragraph(1)were made on the basis of respective populations of individuals below the poverty line (as defined by the Office of Management and Budget). In making other allocations, the amount to be allocated under paragraph(1)shall be reduced by the aggregate amount allocated under this paragraph to possessions of the United States.",
+    "conditions": [
+      "all allocations under paragraph(1)were made on the basis of respective populations of individuals below the poverty line (as defined by the Office of Management and Budget). In making other allocations, the amount to be allocated under paragraph(1)shall be reduced by the aggregate amount allocated under this paragraph to possessions of the United States."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "all allocations under paragraph(1)were made on the basis of respective populations of individuals below the poverty line (as defined by the Office of Management and Budget). In making other allocations, the amount to be allocated under paragraph(1)shall be reduced by the aggregate amount allocated under this paragraph to possessions of the United States."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "The amount to be allocated under paragraph(1)to any possession of the United States other than Puerto Rico shall be the amount which would have been allocated"
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54F(d)(3)Allocations To Certain Possessions\u2014The amount to be allocated under paragraph(1)to any possession of the United States other than Puerto Rico shall be the amount\n                     which would have been allocated if all allocations under paragraph(1)were made on the basis of respective populations of individuals below the poverty\n                     line (as defined by the Office of Management and Budget). In making other allocations,\n                     the amount to be allocated under paragraph(1)shall be reduced by the aggregate amount allocated under this paragraph to possessions\n                     of the United States.",
+    "definitions": null
+  },
+  {
+    "section": "54F",
+    "subsection": "(d)(4)",
+    "source_subsections": [
+      "(d)(4)"
+    ],
+    "rule_type": "definition",
+    "title": "For Indian Schools",
+    "text": "In addition to the amounts otherwise allocated under this subsection, $200,000,000 for calendar year 2009, and $200,000,000 for calendar year 2010, shall be allocated by the Secretary of the Interior for purposes of the construction, rehabilitation, and repair of schools funded by the Bureau of Indian Affairs. In the case of amounts allocated under the preceding sentence, Indian tribal governments (as defined in section7701(a)(40)) shall be treated as qualified issuers for purposes of this subchapter.",
+    "conditions": [],
+    "computations": [],
+    "thresholds": [
+      {
+        "label": "amount",
+        "value": 200000000,
+        "text": "$200,000,000"
+      },
+      {
+        "label": "amount",
+        "value": 200000000,
+        "text": "$200,000,000"
+      }
+    ],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "In addition to the amounts otherwise allocated under this subsection, $200,000,000 for calendar year 2009, and $200,000,000 for calendar year 2010, shall be allocated by the Secretary of the Interior for purposes of the construction, rehabilitation, and repair of schools funded by the Bureau of Indian Affairs. In the case of amounts allocated under the preceding sentence, Indian tribal governments (as defined in section7701(a)(40)) shall be treated as qualified issuers for purposes of this subchapter."
+    },
+    "cross_references": [
+      {
+        "section": "7701(a)(40)",
+        "reason": "al governments (as defined in..."
+      }
+    ],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54F(d)(4)Allocations For Indian Schools\u2014In addition to the amounts otherwise allocated under this subsection, $200,000,000\n                     for calendar year 2009, and $200,000,000 for calendar year 2010, shall be allocated\n                     by the Secretary of the Interior for purposes of the construction, rehabilitation,\n                     and repair of schools funded by the Bureau of Indian Affairs. In the case of amounts\n                     allocated under the preceding sentence, Indian tribal governments\n                     (as defined in section7701(a)(40))\n                     shall be treated as qualified issuers for purposes of this subchapter.",
+    "definitions": null
+  },
+  {
+    "section": "54F",
+    "subsection": "(e)",
+    "source_subsections": [
+      "(e)",
+      "(e)(1)",
+      "(e)(2)"
+    ],
+    "rule_type": "condition",
+    "title": "Of Unused Limitation",
+    "text": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54F, effective for bonds issued after December 31, 2017.If for any calendar year\u2014\u2014the amount allocated under subsection(d)to any State, exceeds\u2014the amount of bonds issued during such year which are designated under subsection(a)pursuant to such allocation,the limitation amount under such subsection for such State for the following calendar year shall be increased by the amount of such excess. A similar rule shall apply to the amounts allocated under paragraphs(2)and(4)of subsection(d).",
+    "conditions": [
+      "for any calendar year\u2014\u2014the amount allocated under subsection(d)to any State, exceeds\u2014the amount of bonds issued during such year which are designated under subsection(a)pursuant to such allocation,the limitation amount under such subsection for such State for the following calendar year shall be increased by the amount of such excess. A similar rule shall apply to the amounts allocated under paragraphs(2)and(4)of subsection(d)."
+    ],
+    "computations": [],
+    "thresholds": [],
+    "percentages": [],
+    "variables": [],
+    "exceptions": [],
+    "logical_structure": {
+      "if": [
+        "for any calendar year\u2014\u2014the amount allocated under subsection(d)to any State, exceeds\u2014the amount of bonds issued during such year which are designated under subsection(a)pursuant to such allocation,the limitation amount under such subsection for such State for the following calendar year shall be increased by the amount of such excess. A similar rule shall apply to the amounts allocated under paragraphs(2)and(4)of subsection(d)."
+      ],
+      "and": [],
+      "or": [],
+      "unless": [],
+      "except": [],
+      "result": "Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54F, effective for bonds issued after December 31, 2017."
+    },
+    "cross_references": [],
+    "effective_dates": [],
+    "raw_text": "I.R.C. \u00a7 54F(e)Carryover Of Unused Limitation\u2014Editor's Note:Pub. L. 115-97, Sec. 13404(a), struck Sec. 54F, effective for bonds issued after December 31, 2017.If for any calendar year\u2014I.R.C. \u00a7 54F(e)(1)\u2014the amount allocated under subsection(d)to any State, exceedsI.R.C. \u00a7 54F(e)(2)\u2014the amount of bonds issued during such year which are designated under subsection(a)pursuant to such allocation,the limitation amount under such subsection for such State for the following calendar\n                     year shall be increased by the amount of such excess. A similar rule shall apply to\n                     the amounts allocated under paragraphs(2)and(4)of subsection(d).",
+    "definitions": null
+  }
+]

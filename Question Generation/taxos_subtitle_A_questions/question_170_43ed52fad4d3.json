@@ -1,0 +1,20 @@
+{
+  "id": "43ed52fad4d3",
+  "section": "170",
+  "citation": "I.R.C. \u00a7 170(b)",
+  "type": "Complex - Charitable Contribution Limit",
+  "scenario": "In 2023, Heidi has an Adjusted Gross Income (AGI) (or contribution base) of $154,381.30. Heidi makes a charitable contribution of $69,928.39 in cash to a public charity. Under I.R.C. \u00a7 170(b), the deduction is limited to 50% of the contribution base.",
+  "question": "Calculate the allowable charitable deduction for 2023.",
+  "difficulty": 3,
+  "choices": [
+    "$0.00",
+    "$77,190.65",
+    "$69,928.39"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The deduction is limited to 50% of AGI ($77,190.65). Since the contribution ($69,928.39) is compared to the limit, the allowable deduction is $69,928.39.",
+  "reasoning": "Calculated limit and compared to contribution.",
+  "source_rules": [
+    "I.R.C. \u00a7 170(b)"
+  ]
+}

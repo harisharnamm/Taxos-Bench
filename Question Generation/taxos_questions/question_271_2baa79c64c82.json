@@ -1,0 +1,22 @@
+{
+  "id": "2baa79c64c82",
+  "section": "271",
+  "citation": "I.R.C. \u00a7 271(c)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 271(c) is discussed as follows: 'I.R.C. \u00a7 271(c)Exception\u2014In  the case of a taxpayer who uses an accrual method of accounting,  subse...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 271(c)?",
+  "difficulty": 1,
+  "choices": [
+    "45.0%",
+    "40.0%",
+    "30.0%",
+    "70.0%",
+    "20.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 30.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 271(c)"
+  ]
+}

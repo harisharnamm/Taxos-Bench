@@ -1,0 +1,22 @@
+{
+  "id": "5738a82a4ce1",
+  "section": "871",
+  "citation": "I.R.C. \u00a7 871(f)(1)(B)",
+  "type": "Recall - Percentage",
+  "scenario": "A percentage limitation or rate in I.R.C. \u00a7 871(f)(1)(B) is discussed as follows: 'I.R.C. \u00a7 871(f)(1)(B)\u2014at the time the first amount is paid as an annuity under  the annuity plan or ...'.",
+  "question": "What is the percentage specified in I.R.C. \u00a7 871(f)(1)(B)?",
+  "difficulty": 1,
+  "choices": [
+    "135.0%",
+    "100.0%",
+    "90.0%",
+    "10.0%",
+    "80.0%"
+  ],
+  "correct_choice_index": 2,
+  "answer_explanation": "The text specifies 90.0%.",
+  "reasoning": "Direct recall from statute text.",
+  "source_rules": [
+    "I.R.C. \u00a7 871(f)(1)(B)"
+  ]
+}
